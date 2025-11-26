@@ -1,0 +1,74 @@
+{
+  "pmcid": "5919221",
+  "sha256": "81c879d1fe3c78aade03e58ccb4514933cc39ae1d1a0ab4a1a14a7539c1b12e1",
+  "timestamp_utc": "2025-11-09T22:48:25.474454+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.915942028985512,
+    "reading_ease": 32.38990338164254,
+    "word_count": 230
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Preoperative Physical Therapy Education for Total Joint Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "126 patients undergoing unilateral TKA or THA were randomised into two groups"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients undergoing unilateral TKA or THA were randomised into two groups at a single institution"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group (n = 63) received preopPTEd, while the control group (n = 63) received no further education."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the effect of a one-time, one-on-one preoperative physical therapy education session coupled with a web-based microsite (preopPTEd) on patients’ readiness to discharge from physical therapy (PT), length of hospital stay, and patient-reported functional outcomes after total joint arthroplasty."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was readiness to discharge from PT, measured by the number of postoperative inpatient PT visits."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between February and June 2015, 126 patients undergoing unilateral TKA or THA were randomised into two groups"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The intervention group (n = 63) received preopPTEd, while the control group (n = 63) received no further education."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The preopPTEd group had fewer postoperative inpatient PT visits (mean, 3.3; 95% CI, 3.0-3.6) and achieved readiness to discharge faster (mean, 1.6 days; 95% CI, 1.2-1.9) than the control group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not provided."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Residents were then randomized with 10 receiving additional training with the Procedicus, computer-based, haptic simulator."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Twenty general surgery residents received didactic training in the techniques of catheter intervention."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Residents were then randomized with 10 receiving additional training with the Procedicus, computer-based, haptic simulator."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we explored whether simulation might impact the acquisition of catheter skills by surgical residents."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Resident performance was graded by attending surgeons blinded to the resident's training status, using 18 procedural steps as well as a global rating scale."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Residents were then randomized with 10 receiving additional training with the Procedicus, computer-based, haptic simulator."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Resident performance was graded by attending surgeons blinded to the resident's training status"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Residents were then randomized with 10 receiving additional training with the Procedicus, computer-based, haptic simulator."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Overall, residents exposed to simulation scored higher than controls during the first angio/OR intervention: procedural steps (simulation/control) (50 \u00b1 6 vs. 33 \u00b1 9, P = 0.0015); global rating scale (30 \u00b1 7 vs. 19 \u00b1 5, P = 0.0052)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12514958",
+  "sha256": "65ca5b3fffb5d9973456e4b005d7c42337373c73ffa865065d63cf85b373f9a2",
+  "timestamp_utc": "2025-11-09T22:31:31.329419+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.099337272026716,
+    "reading_ease": 39.47851014641668,
+    "word_count": 229
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tacrolimus Plus Prednisone in CIDP Management"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective cohort study was conducted at Xuanwu Hospital, Capital Medical University, from April 2019 to June 2023."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults diagnosed with CIDP per 2021 EAN/PNS guidelines, with an INCAT disability score ≥2."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study evaluated the efficacy and safety of tacrolimus plus prednisone (T&P) versus prednisone monotherapy (PM) in CIDP maintenance treatment."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the efficacy and safety of tacrolimus plus prednisone (T&P) versus prednisone monotherapy (PM) in CIDP maintenance treatment."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the response rate, defined as a ≥1-point improvement in INCAT score at 3, 6, and 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 74 screened patients, 34 were included (16 T&P, 18 PM)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 74 screened patients, 34 were included (16 T&P, 18 PM)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The T&P group showed higher response rates at 3 and 6 months, with significant I-RODS improvements at all time points."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Both groups had comparable safety profiles, with no serious adverse events."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11318764",
+  "sha256": "1533528038419c1b9ba3ee067625cedc3ab499229a9c275c6a8611fafd451ec2",
+  "timestamp_utc": "2025-11-09T22:02:21.606589+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.169358851674644,
+    "reading_ease": 46.970178628389164,
+    "word_count": 209
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Epidural Tramadol and Morphine for Analgesia in Cats"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a randomised controlled trial, six healthy cats were enrolled."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "six healthy cats were enrolled"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Each cat received an epidural injection of saline 0.22 ml/kg (control treatment, CT), tramadol 1 mg/kg (tramadol treatment, TT), or morphine 0.1 mg/kg (morphine treatment, MT)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the analgesic effects of epidural tramadol versus morphine in cats."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was analgesia level, assessed using a simple descriptive scale (SDS), visual analog scale (VAS), and physiological parameters at 1, 2, 3, 4, 6, 8, 10, and 12 hours post-epidural."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "All six cats were randomised and analysed."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All six cats were randomised and analysed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Group TT had higher SDS and VAS scores compared to MT at 8, 10, and 12 hours post-epidural."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "This trial was not registered"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "funding details were not provided"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

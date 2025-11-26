@@ -1,0 +1,74 @@
+{
+  "pmcid": "11284621",
+  "sha256": "047db0ec5177ed4fa61cbb2cc3eb6e2ac6033e86bb990a2630dc7d1d137a83f8",
+  "timestamp_utc": "2025-11-09T22:01:57.723660+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.673856382978727,
+    "reading_ease": 35.97645833333334,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged >16 years referred for elective surgical treatment of pilonidal disease"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Outcomes were compared between major and minor procedures"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the relationship between disease severity and intervention, patient-valued outcomes, and treatment preferences"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative pain on days 1 and 7"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 667 patients were included"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Major procedures resulted in greater pain on day 1 (mean difference 1.58 points, 95% CI 1.14 to 2.01) and day 7 (mean difference 1.53 points, 95% CI 1.12 to 1.95), higher complication rates (adjusted risk difference 17.5%, 95% CI 9.1 to 25.9%), lower recurrence (adjusted risk difference -10.1%, 95% CI -18.1 to -2.1%)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "higher complication rates"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "TRIAL REGISTRATION: ISRCTN95551898"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "FUNDING: National Institute for Health and Care Research (NIHR) Health Technology Assessment programme (NIHR award ref: 17/17/02)"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

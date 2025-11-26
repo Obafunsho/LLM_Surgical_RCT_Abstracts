@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomized patients who were at least 12 months after primary THA or TKA to complete a web-based followup or to have their appointment at the clinic."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "There were 410 eligible patients contacted for the study during the recruitment period."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "We randomized patients who were at least 12 months after primary THA or TKA to complete a web-based followup or to have their appointment at the clinic."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We determined (1) patient satisfaction and (2) patients\u2019 preferences for followup method (web-based or in-person) after total joint arthroplasty."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "All 229 patients completed a satisfaction questionnaire at the time of their followup appointments."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomized patients who were at least 12 months after primary THA or TKA to complete a web-based followup or to have their appointment at the clinic."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of these, 256 agreed to participate, and a total of 229 patients completed the study (89% of those enrolled, 56% of those potentially eligible; 111 in the usual-care group, 118 in the web-based group)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All 229 patients completed a satisfaction questionnaire at the time of their followup appointments."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Ninety-one patients (82.0%) in the usual-care group indicated that they were either extremely or very satisfied with the followup process compared with 90 patients (75.6%) who were in the web-based group (p < 0.01; odds ratio [OR] = 3.95; 95% CI, 1.79\u20138.76)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

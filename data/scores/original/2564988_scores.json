@@ -1,0 +1,74 @@
+{
+  "pmcid": "2564988",
+  "sha256": "8b1c615cc56c3c90c789ae40ed2929c6c3dce9bab828c194796e2d309937bf0f",
+  "timestamp_utc": "2025-11-09T15:48:40.440888+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.050621785881258,
+    "reading_ease": 44.642671809256655,
+    "word_count": 372
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomly assigned 62 patients scheduled for total hip arthroplasty"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "62 patients scheduled for total hip arthroplasty"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "parecoxib 40 mg at induction, placebo at wound closure, and parecoxib 40 mg 12 hours after induction (pre); or, 3) placebo at induction, parecoxib 40 mg at wound closure, and parecoxib 40 mg 12 hours after induction (post)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Pain scores at rest and with movement recorded every 4 hours for 24 hours using a visual analog scale."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomly assigned 62 patients"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomly assigned 62 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Morphine use in the Post Anesthesia Care Unit was reduced in the pre and post groups compared with the control group (14.2±2.0, and 15.7±2.0, versus 20.4±2.3 mg), although the trend was only significant (p < 0.05) in the pre group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Treatment side effects were recorded every 4 hours."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

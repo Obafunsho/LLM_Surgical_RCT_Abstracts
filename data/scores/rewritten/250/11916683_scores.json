@@ -1,0 +1,74 @@
+{
+  "pmcid": "11916683",
+  "sha256": "24f67876da7fc5e4bfb3299dbbbd834f092c34cc32832cd6c507a6ccbf7ba237",
+  "timestamp_utc": "2025-11-09T22:10:52.577132+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.143876033057854,
+    "reading_ease": 29.548541322314065,
+    "word_count": 242
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing the Trachway and Airway Scope for Tracheal Intubation by Novice Operators"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised cross-over study was conducted in a simulated setting."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were novice operators with no prior experience in tracheal intubation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The study compared the Trachway and Airway Scope in routine and difficult intubation scenarios."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate its effectiveness compared to the Airway Scope in tracheal intubation by novice operators."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the time required for successful tracheal intubation."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 50 participants were randomised, with each participant using both devices."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The average intubation time did not differ significantly between the Trachway and Airway Scope in the normal airway scenario (11.2 ± 6.5 vs. 9.8 ± 4.3 seconds; p = 0.07)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: N/A."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

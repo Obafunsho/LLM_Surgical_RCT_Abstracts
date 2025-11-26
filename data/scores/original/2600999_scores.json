@@ -1,0 +1,74 @@
+{
+  "pmcid": "2600999",
+  "sha256": "d5a99e36468a3ad60f406269253185abd18e376311fef4059c7c29dca1de7c0f",
+  "timestamp_utc": "2025-11-09T15:48:57.286826+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.663327513095535,
+    "reading_ease": 38.39159391369421,
+    "word_count": 211
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "A convincing method of concomitantly treating both combined disorders has not been reported."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Indications for this technique included subtrochanteric aseptic nonunions, patient younger than 60 years, and 2.0 to 5.0 cm shortening."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "treated by femoral condylar skeletal traction, one-stage lengthening to 4 cm maximum, static locked nail stabilization, and corticocancellous bone grafting."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "A convincing method of concomitantly treating both combined disorders has not been reported."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Twenty-one patients were followed for a minimum of 1.2 years (mean, 3.2 years; range, 1.2–6.7 years)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "All nonunions healed with a union rate of 100% (21 of 21) and a median union period of 4.0 months (range, 3.5–11 months)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One nonunion healed at 11 months despite nail breakage."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

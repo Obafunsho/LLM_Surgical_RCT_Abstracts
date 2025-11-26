@@ -1,0 +1,74 @@
+{
+  "pmcid": "2564857",
+  "sha256": "05bc2f2174d95741744043e0bfe5e1412876f04d01b67b1f93312d4917a38fa4",
+  "timestamp_utc": "2025-11-09T15:48:34.660852+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.602181818181819,
+    "reading_ease": 23.02593939393944,
+    "word_count": 275
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients undergoing EVAR were randomized to doxycycline (100mg twice daily) or placebo for 6 months following the procedure."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients undergoing EVAR were randomized to doxycycline (100mg twice daily) or placebo for 6 months following the procedure."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The goal of this study was to evaluate the effect of a MMP inhibitor, doxycycline, on EVAR."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Plasma MMP-9 decreased significantly below baseline in the doxycycline (N=20) treated patients at 6 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Plasma MMP-9 decreased significantly below baseline in the doxycycline (N=20) treated patients at 6 months while there was a non-significant increase in the placebo (N=24) group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Forty-four subjects were analyzed based on intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Plasma MMP-9 decreased significantly below baseline in the doxycycline (N=20) treated patients at 6 months (−16.4±20.7%, P<0.05) while there was a non-significant increase in the placebo (N=24) group (128.1±73.5%)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

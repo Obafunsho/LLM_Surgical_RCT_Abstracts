@@ -1,0 +1,74 @@
+{
+  "pmcid": "11701169",
+  "sha256": "41c5003ab37f611e43b1ab94358142c6bc51362ed43263f19b6e91b51dde9698",
+  "timestamp_utc": "2025-11-09T22:06:36.827789+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.252726449275364,
+    "reading_ease": 15.920828804347849,
+    "word_count": 207
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Ultrasound-Guided Stellate Ganglion Blockade in Thoracoscopic Pulmonary Lobectomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 88 patients were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults aged 18-75 undergoing elective thoracoscopic pulmonary lobectomy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either SGB (n=40) or standard care (n=39)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of ultrasound-guided stellate ganglion blockade (SGB) in mitigating these effects."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the change in oxygenation index (OI) and pulmonary shunt fraction (Qs/Qt) during SLV."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 88 patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "SGB significantly improved OI and reduced Qs/Qt compared to controls."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Chinese Clinical Trial Registry (#ChiCTR2200063210)."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

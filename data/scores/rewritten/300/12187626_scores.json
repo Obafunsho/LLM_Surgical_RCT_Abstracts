@@ -1,0 +1,74 @@
+{
+  "pmcid": "12187626",
+  "sha256": "29392b1775e968fc3b46e45b2135c22b4fa404f53e4a86d366169934d94c0ab2",
+  "timestamp_utc": "2025-11-09T23:29:31.869104+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.578947951273538,
+    "reading_ease": 19.590581395348835,
+    "word_count": 258
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Ion Exchange Resin-Based Regional Citrate Anticoagulation in High Blood Flow Extracorporeal Circuits"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Six healthy swine (41.0 ± 3.1 kg) were sedated, ventilated, and connected to a prototype extracorporeal circuit."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Sodium citrate (5 mmol/L) was infused at the circuit inlet, and heparin was continuously infused."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates an innovative RCA technique using Ion Exchange Resin (i-ER) for high blood flow (500 mL/min) extracorporeal circuits."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the efficacy of i-ER in maintaining anticoagulation, measured over 2 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Six healthy swine (41.0 ± 3.1 kg) were sedated, ventilated, and connected to a prototype extracorporeal circuit."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Citrate removal efficacy decreased from 93.8 ± 3.4% to 48.3 ± 1.5% over 2 hours (p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant complications were observed."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

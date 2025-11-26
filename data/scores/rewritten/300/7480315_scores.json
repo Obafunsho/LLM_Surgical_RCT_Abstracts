@@ -1,0 +1,74 @@
+{
+  "pmcid": "7480315",
+  "sha256": "04876811e8b9dcf875a90ce8621d3bde35c198b0e5bcfdefd695e0a5ed9f3492",
+  "timestamp_utc": "2025-11-10T00:06:29.333304+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.555082482325219,
+    "reading_ease": 23.0024862529458,
+    "word_count": 268
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Cervical Epidural Analgesia in Head and Neck Cancer Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "30 patients aged 18-65 years with ASA status I or II scheduled for elective head and neck cancer surgery were randomised into two groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "30 patients aged 18-65 years with ASA status I or II scheduled for elective head and neck cancer surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group E (cervical epidural analgesia with general anesthesia) and Group G (general anesthesia alone)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to assess the impact of cervical epidural analgesia on opioid and anesthetic requirements and stress response in patients undergoing head and neck cancer surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was intra-operative morphine, isoflurane, and vecuronium requirements."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, with allocation concealment via sequentially numbered opaque envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Due to the intervention's nature, blinding was not feasible."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "30 patients aged 18-65 years with ASA status I or II scheduled for elective head and neck cancer surgery were randomised into two groups"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 30 patients, 15 were randomised to each group, with 14 in Group E and 15 in Group G completing the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Group E demonstrated a significant reduction in morphine (p < 0.001), isoflurane (p = 0.004), and vecuronium (p = 0.001) requirements."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events in Group E included bradycardia in 6.6% and hypotension in 13.3% of patients, both manageable with standard interventions."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study reported no financial support."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

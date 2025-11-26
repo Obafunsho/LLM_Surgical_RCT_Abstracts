@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Neoadjuvant Chemotherapy vs. Chemoradiotherapy in Locally Advanced Rectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "663 patients with LARC within 12 cm from the anal verge and uninvolved MRF were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "663 patients with LARC within 12 cm from the anal verge and uninvolved MRF"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to nCT (4 cycles of CAPOX) or nCRT (capecitabine with 50 Gy radiation)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates neoadjuvant chemotherapy (nCT) as an alternative in lower-risk locally advanced rectal cancer (LARC)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was 3-year local-regional failure-free survival"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by tumor location and nodal staging, with allocation concealment via central randomisation"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between June 2014 and October 2020, 589 patients received treatment (nCT: 300, nCRT: 289)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "589 patients received treatment (nCT: 300, nCRT: 289)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "pCR rates were 11.0% (95% CI, 7.8-15.3%) for nCT and 13.8% (95% CI, 10.1-18.5%) for nCRT (p=0.33)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, with grade 3-4 toxicities in 12.3% of nCT and 8.3% of nCRT patients (p=0.11)"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02288195"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

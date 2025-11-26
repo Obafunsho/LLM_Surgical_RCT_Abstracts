@@ -1,0 +1,74 @@
+{
+  "pmcid": "12507096",
+  "sha256": "ad3d31c61774a57f468f4cbddb39585fbee13b29e79deb02fe915601ae8a2e98",
+  "timestamp_utc": "2025-11-09T22:31:11.082800+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.16893617021277,
+    "reading_ease": 4.166923076923098,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Pafolacianine in Intraoperative Molecular Imaging for Lung Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomly assigned to surgery with or without intraoperative molecular imaging using a 10:1 ratio"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "112 patients with suspected or biopsy-confirmed lung cancer scheduled for sublobar pulmonary resection"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to surgery with or without intraoperative molecular imaging"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the clinical utility of pafolacianine"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the proportion of participants experiencing a clinically significant event"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "112 patients with suspected or biopsy-confirmed lung cancer"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "A total of 102 participants were analysed, with 92 in the intervention group and 10 in the control group, using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Clinically significant events occurred in 53% of participants, significantly exceeding the prespecified limit of 10% (P < .0001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No drug-related serious adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "9364380",
+  "sha256": "984f499ea590a4cfc3e263ed32922b29c7aa426095262ed372ec5522ac6ece54",
+  "timestamp_utc": "2025-11-09T16:21:17.536942+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.120234657039713,
+    "reading_ease": 41.48127395168012,
+    "word_count": 277
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This randomized trial evaluated whether the PMR was reduced by the use of devices that allow precise localization of the affected margins."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Study participants were randomized to receive either SR with radiopaque tissue transfer and X-ray system (KliniTray TM ) or the institutional standard procedure (ISO)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with microcalcification-associated breast cancer undergoing planned BCS were enrolled."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Study participants were randomized to receive either SR with radiopaque tissue transfer and X-ray system (KliniTray TM ) or the institutional standard procedure (ISO)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomized trial evaluated whether the PMR was reduced by the use of devices that allow precise localization of the affected margins."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the PMR."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Study participants were randomized to receive either SR with radiopaque tissue transfer and X-ray system (KliniTray TM ) or the institutional standard procedure (ISO)."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Among 122 randomized patients, 5 patients were excluded due to the extent of primary surgery and 117 were available for analysis."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "117 were available for analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Final histopathology revealed a PMR of 31.7 per cent for the KliniTray TM group and 26.3 per cent for the ISO group ( P = 0.127). Independent factors for positive margins were histological tumour size more than 30 mm (adjusted OR (aOR) 10.73; 95 per cent c.i. 3.14 to 36.75; P < 0.001) and specimen size more than 50 mm (aOR 6.65; 95 per cent c.i. 2.00 to 22.08; P = 0.002)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: DRKS00011527 ( https://www.drks.de )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: This study aimed to enhance awareness and understanding of renal cancer associated with end-stage renal disease (ESRD), focusing on cases where bone metastasis in the humerus is the initial clinical sign."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Methods: A case report was conducted involving a 58-year-old male patient with a history of multiple renal transplants and over 20 years of maintenance dialysis therapy."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "The patient opted for conservative treatment, with immobilization of the humerus to stabilize the affected area."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Background: This study aimed to enhance awareness and understanding of renal cancer associated with end-stage renal disease (ESRD), focusing on cases where bone metastasis in the humerus is the initial clinical sign."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "As of the time of submission, the patient's pain had intensified, requiring oral pain medication for symptomatic relief."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 2,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

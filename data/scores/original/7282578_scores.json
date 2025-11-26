@@ -1,0 +1,74 @@
+{
+  "pmcid": "7282578",
+  "sha256": "879a28fa0ce4484e07978c47f017241906a5895c2a37cf3cddfce0c2ef496120",
+  "timestamp_utc": "2025-11-09T16:12:59.885723+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.277961538461536,
+    "reading_ease": 35.97878846153847,
+    "word_count": 650
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 112 orthopaedic trauma patients were randomized to treatment groups (integrative and usual care)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients were between 18 years and 85 years of age. We excluded individuals outside of the age range; those with diagnosis of a traumatic brain injury"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Integrative care consisted of usual trauma care plus additional resources, connections to services, as well as psychosocial and movement strategies"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We sought to determine (1) whether an early psychosocial intervention (integrative care with movement) among patients with orthopaedic trauma improved objective physical function outcomes during recovery compared with usual care"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Physical function was measured objectively (handgrip strength, active joint ROM, and Lower Extremity Gain Scale) and subjectively (Patient-Reported Outcomes Measurement Information System-Physical Function [PROMIS®-PF] and Tampa Scale of Kinesiophobia)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 112 orthopaedic trauma patients were randomized to treatment groups (integrative and usual care), with 13 withdrawn (n = 99; 58% men; mean age 44 years ± 17 years)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "analyses are presented for the 6-month follow-up time window"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "We found no differences at 6 months follow-up between usual care and integrative care in terms of handgrip strength (right handgrip strength β = -0.0792 [95% confidence interval -0.292 to 0.133]; p = 0.46; left handgrip strength β = -0.133 [95% CI -0.384 to 0.119]; p = 0.30)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

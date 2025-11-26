@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Effects of Unloader Knee Braces on Tibiofemoral Joint Loading"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to varus, valgus, or no brace conditions."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial involved 20 healthy participants (mean age 28.3 years; BMI 22.9 kg/m\u00b2) with normal knee alignment."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to varus, valgus, or no brace conditions."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to investigate the effects of varus and valgus adjustments on knee joint loading and muscle activation."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the knee adduction moment, measured during gait analysis."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial involved 20 healthy participants"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Effect sizes were moderate to large, indicating potential for future research."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

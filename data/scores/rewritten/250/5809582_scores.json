@@ -1,0 +1,74 @@
+{
+  "pmcid": "5809582",
+  "sha256": "57171b66e876dfa098f482cabe7fa0f153e6eb71580f0f8cbf9bc5e230e4de14",
+  "timestamp_utc": "2025-11-09T22:47:58.517254+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.293709677419354,
+    "reading_ease": 27.360564516129045,
+    "word_count": 217
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of HerniaSurge Guidelines for Groin Hernia Management"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Participants were eligible if they were involved in hernia-related research and performed various types of hernia repair."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The incidence of chronic pain is 10-12%, decreasing over time."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 3,
+    "max_score": 25
+  }
+}

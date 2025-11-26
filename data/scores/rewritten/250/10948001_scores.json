@@ -1,0 +1,74 @@
+{
+  "pmcid": "10948001",
+  "sha256": "eac4e9da96bddc9ead56fe454c7308633aaa33f987f8176ef9e5d57feb35a9fe",
+  "timestamp_utc": "2025-11-09T21:58:17.820088+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.901781609195407,
+    "reading_ease": 35.55887931034485,
+    "word_count": 261
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Acupuncture for Acute Pain in the Emergency Department"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial design"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were eligible if they presented with acute pain in the ED, including trauma, low back pain, abdominal pain, musculoskeletal pain, renal colic, or headache."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received a flexible acupuncture treatment tailored to common ED scenarios, while the control group received usual care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to evaluate the feasibility of acupuncture as an alternative treatment for acute pain in the ED."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pain reduction, measured immediately post-intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not possible for patients and clinicians, but outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised, with 100 in each group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Data from 98 participants in the intervention group and 97 in the control group were analysed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a significant reduction in pain compared to the control group (mean difference = 5.2 mm Hg, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild and occurred in 3% of the intervention group and 1% of the control group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04880733 (ClinicalTrials.gov)."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This study was funded by the National Institutes of Health."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

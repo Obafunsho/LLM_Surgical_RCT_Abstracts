@@ -1,0 +1,74 @@
+{
+  "pmcid": "12153519",
+  "sha256": "3ea896e860b687c1f92a9203076e146b3f22e310a0037a0e0c43f74472b3e107",
+  "timestamp_utc": "2025-11-09T15:32:22.101566+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.431848754448403,
+    "reading_ease": 38.1265631672598,
+    "word_count": 281
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "We included colorectal patients who were awaiting open abdominal or laparoscopic surgery."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: Colorectal cancer is a significant health problem worldwide."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Patients performed a 6 min walk test (6MWT) 2 days before surgery and 7 days after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In a final analysis, we included 72 patients with a mean age of 62.48."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Our findings show a statistically significant difference between men and women in the walk distance ( F = 4.99, p = 0.02)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

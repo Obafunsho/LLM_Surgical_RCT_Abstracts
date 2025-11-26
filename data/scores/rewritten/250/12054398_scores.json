@@ -1,0 +1,74 @@
+{
+  "pmcid": "12054398",
+  "sha256": "b7af6d94138de5975cd709bd1b9652e3a4a7fbbc8cd2898ce0775be2a66976a2",
+  "timestamp_utc": "2025-11-09T22:13:42.860477+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.287142857142857,
+    "reading_ease": 34.49500000000003,
+    "word_count": 240
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intrahematomal Alteplase in Patients with Intraventricular Hemorrhage"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This is a post-hoc secondary analysis of the MISTIE-III trial, a multicenter randomised controlled trial."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Participants with IVH on stability CT scans were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received minimally invasive surgery plus alteplase (MIS+alteplase), while the control group received standard medical care (SMC)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in IVH volume (deltaIVH) from stability CT to end-of-treatment CT."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 499 patients, 310 had IVH on stability scans; 146 received MIS+alteplase and 164 received SMC."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 499 patients, 310 had IVH on stability scans; 146 received MIS+alteplase and 164 received SMC."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The MIS+alteplase group showed a greater reduction in IVH volume (deltaIVH: −2.35 mL vs. −1.15 mL, p=0.02). Multivariable linear regression showed MIS+alteplase was associated with greater deltaIVH (beta, −0.80; 95%CI, −1.37 to −0.22; p=0.007)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

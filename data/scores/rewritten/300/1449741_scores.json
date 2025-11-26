@@ -1,0 +1,74 @@
+{
+  "pmcid": "1449741",
+  "sha256": "7e57b0103f506b961219821ce13731a5f1b82b6fb16d7f955b7fc486e2df694e",
+  "timestamp_utc": "2025-11-09T23:43:39.671976+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.433582375478931,
+    "reading_ease": 17.40715517241381,
+    "word_count": 261
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Magnesium Therapy in Carotid Endarterectomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This prospective, randomised, double-blind, placebo-controlled Phase I/IIa dose escalation trial involved 80 patients"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to a placebo group (n = 38) or one of three intravenous magnesium groups."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the amount and duration of phenylephrine required to maintain target systolic blood pressure post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This prospective, randomised, double-blind, placebo-controlled Phase I/IIa dose escalation trial involved 80 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "All treatment groups achieved significantly different magnesium levels from baseline at 12 and 24 hours (P < 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A randomized controlled trial was performed between June 2010 and October 2012 at Zhongshan Hospital, Fudan University."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A randomized controlled trial was performed between June 2010 and October 2012 at Zhongshan Hospital, Fudan University."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "51 patients who presented with ARCO Stages I to IIIB bilateral osteonecrosis were potentially eligible for inclusion, and 33 patients were identified as meeting the inclusion criteria and offered enrollment and randomization."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Bilateral hips of each patient were randomly assigned to surgical options: one side was treated with core decompression and the contralateral side was concurrently treated with fibular grafting."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "What is the effect of core decompression and fibular grafting on vascularity of the femoral head as measured by single-photon emission CT (SPECT)/CT?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "SPECT/CT examinations were performed to quantify radionuclide uptake to evaluate vascularity of the femoral head before treatment and at 6 and 36 months after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Bilateral hips of each patient were randomly assigned to surgical options."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "33 patients were identified as meeting the inclusion criteria and offered enrollment and randomization. Six patients declined to participate at the time of randomization, leaving a final sample of 27 participants (54 hips)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Six patients (22%) were lost to followup."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "By SPECT/CT analysis, decompression-treated hips had lower vascularity than fibular-grafted hips at 6 months (68 % \u00b1 6% versus 95% \u00b1 5%; mean difference, \u221227%; 95% CI, \u221232% to \u221223%; p < 0.001) and 36 months (57% \u00b1 4% versus 91% \u00b1 3%; mean difference, \u221234%; 95% CI, \u221237% to \u221232%; p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

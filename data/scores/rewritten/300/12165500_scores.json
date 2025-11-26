@@ -1,0 +1,74 @@
+{
+  "pmcid": "12165500",
+  "sha256": "cfad5e2d5098fa12fcdac262241ad3a96f2c46c79576e2b3ba02e0fafb480b71",
+  "timestamp_utc": "2025-11-09T23:28:51.643199+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.123457081545066,
+    "reading_ease": 14.554456008583742,
+    "word_count": 233
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Postoperative Analgesia Modalities after Cesarean Section"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Intrathecal morphine (IM) and epidural morphine had the best analgesic effect."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to determine the optimal analgesic method."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the time to first postoperative request for analgesia."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "All modalities except wound infiltration prolonged the time to first analgesia request."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not detailed."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registered with PROSPERO."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12140555",
+  "sha256": "2a7bd943134725354d4070c07ce3a5abd792b85385a23f30ba0f2af1775f13cd",
+  "timestamp_utc": "2025-11-09T23:28:00.510693+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.765734432234431,
+    "reading_ease": 20.681348901098943,
+    "word_count": 273
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Epidural and Paravertebral Analgesia for Minimally Invasive Esophagectomy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Sample size calculation determined that 192 patients were needed to detect a minimally clinically important difference in QoR-40 scores."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients scheduled for transthoracic MIE with intrathoracic anastomosis were randomised to receive either epidural or paravertebral analgesia."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either epidural or paravertebral analgesia."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Paravertebral analgesia may offer a promising alternative to epidural analgesia, potentially reducing side effects and enhancing postoperative recovery in patients undergoing minimally invasive esophagectomy (MIE)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Quality of Recovery (QoR-40) score on the third postoperative day (POD3)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was stratified per center using block randomisation, and allocation was not concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "This open-label, multicenter, randomised controlled superiority trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From December 2019 to June 2022, 192 patients were randomised: 94 to epidural and 98 to paravertebral analgesia."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The intention-to-treat analysis showed no significant difference in QoR-40 scores on POD3 between groups"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean difference: 3.7, 95% CI: −2.3 to 9.7; P = 0.268"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, with no significant differences in complications or mortality."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered in the Dutch Trial Register (NL8037)."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The trial was funded by institutional sources."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

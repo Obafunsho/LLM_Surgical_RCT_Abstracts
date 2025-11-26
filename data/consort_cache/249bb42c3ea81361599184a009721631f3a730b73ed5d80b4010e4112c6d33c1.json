@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "infants aged 6\u201324 months undergoing craniofacial reconstruction surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "three escalating loading dose\u2013continuous i.v. infusion (CIVI) regimens: 25 mg kg \u22121 , 10 mg kg \u22121 h \u22121 ; 50 mg kg \u22121 , 20 mg kg \u22121 h \u22121 ; 100 mg kg \u22121 , 40 mg kg \u22121 h \u22121"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study is to determine the pharmacokinetics (PKs) of EACA in infants aged 6\u201324 months undergoing craniofacial reconstruction surgery."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

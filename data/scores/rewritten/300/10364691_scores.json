@@ -1,0 +1,74 @@
+{
+  "pmcid": "10364691",
+  "sha256": "8d830adcb12fd301775cf67ce0ba2e2904b776e38e1c61a2755416ca01d94962",
+  "timestamp_utc": "2025-11-09T23:05:41.696231+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.08211191107743,
+    "reading_ease": 39.54593406593406,
+    "word_count": 273
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Hughes Closure vs. Standard Mass Closure in Colorectal Cancer Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "pragmatic multicentre single-blind RCT included patients undergoing midline incision for colorectal cancer. Participants were randomised to Hughes closure or standard closure. The sample size calculation aimed for 800 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted in 28 UK hospitals, this pragmatic multicentre single-blind RCT included patients undergoing midline incision for colorectal cancer."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to Hughes closure (double far–near–near–far sutures with conventional mass closure) or standard closure."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the impact of Hughes closure on the incidence of incisional hernia following colorectal cancer surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of incisional hernia at 1 year, assessed by clinical examination."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation occurred in the operating theatre using a 1:1 computerized adaptive system, with allocation concealment by Sealed Envelope."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Patients and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between August 2014 and February 2018, 802 patients were randomised (401 per group)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "At 1 year, 672 patients were analysed (339 Hughes, 333 standard) using intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Incisional hernia was observed in 14.8% of the Hughes group and 17.1% of the standard group (OR 0.84, 95% CI 0.55 to 1.27; P = 0.402)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, except for a higher rate of surgical-site infections in the Hughes group (13.2% vs. 7.7%; OR 1.82, 1.14 to 2.91; P = 0.011)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial is registered under ISRCTN25616490."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding was provided by the National Institute for Health Research."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

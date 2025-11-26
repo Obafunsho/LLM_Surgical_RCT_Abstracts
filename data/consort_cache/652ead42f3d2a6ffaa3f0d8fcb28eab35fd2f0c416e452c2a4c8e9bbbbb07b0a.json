@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Peripheral Regional Anaesthesia in Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using computer-generated sequences"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were eligible if they were 18 years or older."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing peripheral nerve blocks to systemic analgesia"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effectiveness and complications of peripheral nerve blocks compared to systemic analgesia in adult surgical patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was block success rate, measured immediately post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using computer-generated sequences, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "64 participants randomised to each group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 62 participants in the intervention group and 60 in the control group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Interscalene blocks for shoulder surgery demonstrated significant pain reduction (mean difference = 2.5, 95% CI 1.5 to 3.5; p < 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 3% of the intervention group and 1% of the control group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Departmental sources."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

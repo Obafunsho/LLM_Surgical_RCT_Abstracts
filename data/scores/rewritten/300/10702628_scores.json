@@ -1,0 +1,74 @@
+{
+  "pmcid": "10702628",
+  "sha256": "c48646cb713916a3d63f84568fac810558ab0bfa027c33a6f393f12fa6a081df",
+  "timestamp_utc": "2025-11-09T23:08:34.657164+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.386354166666667,
+    "reading_ease": 17.25100694444444,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Multimodal Prehabilitation in Colorectal Cancer Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Forty patients with colorectal cancer (WHO performance status I or II) scheduled for elective surgery were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Forty patients with colorectal cancer (WHO performance status I or II) scheduled for elective surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "4-week multimodal prehabilitation program or standard care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assessed its impact on immediate postoperative recovery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative recovery within the first 3 days, measured by the Quality of Recovery-15 (QoR-15) questionnaire."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using random blocks of eight, and allocation was concealed until baseline testing."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty patients with colorectal cancer"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Thirty-six patients were analysed (16 intervention, 20 control)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group demonstrated a 21.9-point higher QoR-15 score (95% CI 4.5 to 39.3) compared to control"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events occurred in 3/16 (19%) intervention and 3/20 (15%) control patients, with no serious events attributed to the intervention."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT04167436"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

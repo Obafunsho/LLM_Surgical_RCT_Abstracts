@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Imaging Modalities for Lobular Carcinoma Detection"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised into two groups: traditional imaging (mammography and ultrasound) and advanced imaging (MRI, DBT, CEM, BSGI)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were women aged 40-70 with suspected LC."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised into two groups: traditional imaging (mammography and ultrasound) and advanced imaging (MRI, DBT, CEM, BSGI)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates traditional and advanced imaging modalities for LC detection."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was diagnostic accuracy, measured over six months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the traditional imaging group and 100 to the advanced imaging group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "In the intention-to-treat analysis, 98 participants in the traditional group and 97 in the advanced group were analysed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Advanced imaging showed higher diagnostic accuracy (mean difference = 15%, 95% CI 10% to 20%; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in the advanced group and 1% in the traditional group experiencing mild discomfort."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01234567"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by the National Cancer Institute."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

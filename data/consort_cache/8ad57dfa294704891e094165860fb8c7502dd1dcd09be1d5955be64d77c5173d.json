@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial on Remote Expert Instructional Feedback in Endovascular Simulation-Based Education"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to two groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "12 vascular surgery residents in Ireland, ranging from second to seventh year of residency"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group 1 received in-person feedback first, followed by remote feedback, while Group 2 received remote feedback first, followed by in-person feedback"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluates the effectiveness of remote expert instructional feedback in endovascular simulation-based education"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the effectiveness of remote feedback, assessed through interviews and a validated questionnaire post-training"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was achieved through a crossover design, and allocation concealment was not specified"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented for participants or outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "12 vascular surgery residents"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The questionnaire results showed no significant difference between remote and in-person feedback"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported during the study"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

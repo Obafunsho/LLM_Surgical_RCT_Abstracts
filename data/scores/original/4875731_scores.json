@@ -1,0 +1,74 @@
+{
+  "pmcid": "4875731",
+  "sha256": "0bdb1d13ace08bee54f1b9665fb4512befc7d8c8ab610e13d32e45a546e8ebb6",
+  "timestamp_utc": "2025-11-09T16:01:03.807520+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.731935483870966,
+    "reading_ease": 14.925595533498779,
+    "word_count": 186
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Preoperative Preparation and Anesthesia for Trabeculectomy."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 0,
+    "max_score": 25
+  }
+}

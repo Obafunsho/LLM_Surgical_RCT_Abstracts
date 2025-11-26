@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Palonosetron and Ondansetron for PONV Prophylaxis"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised controlled trial included patients undergoing non-laparoscopic surgeries."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial included patients undergoing non-laparoscopic surgeries."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either intravenous palonosetron or ondansetron for PONV prophylaxis."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare the efficacy and safety of palonosetron and ondansetron in preventing PONV in non-laparoscopic surgeries."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of nausea and vomiting at postoperative time points: 0\u20132 hours, 0\u20136 hours, 12\u201324 hours, 24\u201348 hours, and 24\u201372 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was applied to outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 1681 participants were randomised: 842 to palonosetron and 839 to ondansetron."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was conducted using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The pooled risk ratio (RR) for nausea at 12\u201324 hours was 0.39 (95% CI: 0.16, 0.96), and for vomiting at 24\u201348 hours was 0.24 (95% CI: 0.09, 0.62)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild and occurred with similar frequency in both groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42023426785."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

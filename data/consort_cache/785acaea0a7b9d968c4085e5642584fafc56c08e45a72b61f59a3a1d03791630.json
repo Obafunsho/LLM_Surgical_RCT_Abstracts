@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Quality of Life in Chronic Lower Limb Ischemia"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable as this was not a randomised trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "122 patients aged 41 to 88 years with chronic lower limb ischemia. Exclusion criteria included previous lower limb amputation, lack of independence in movement, diabetes, acute ischemia, and stage IV disease."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Phase II included 88 patients qualified for revascularization"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the impact of revascularization on quality of life in affected patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was quality of life, assessed using VascuQoL."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable as this was not a randomised trial."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable as this was not a randomised trial."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable as this was not a randomised trial."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Phase II included 88 patients qualified for revascularization"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Post-revascularization, significant improvements were noted in all domains."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding details were not disclosed."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

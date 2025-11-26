@@ -1,0 +1,74 @@
+{
+  "pmcid": "6587743",
+  "sha256": "1e8ff98cf6f9d1cca889528fd1af810aa71c972dd37cdbfe38a22d5f72f544b6",
+  "timestamp_utc": "2025-11-10T00:02:24.740579+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.545312500000001,
+    "reading_ease": 44.164591346153856,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Biennial FOBT Screening for Colorectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised 1:1 into screening and control arms"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "individuals aged 60–69 years, randomised 1:1 into screening and control arms"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 into screening and control arms"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the impact of biennial faecal occult blood test (FOBT) screening on colorectal cancer (CRC) outcomes beyond mortality and to investigate potential sex differences in screening effectiveness."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was CRC-specific mortality"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was stratified by birth year, sex, and residence"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "no blinding of outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 321,311 individuals were randomised, with 160,719 in the screening arm and 160,508 in the control arm."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis included 743 screening-detected and 617 control CRC cases."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "CRC was less common in women (0.34% vs. 0.50% in men; RR 0.82, 95% CI 0.74 to 0.91)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

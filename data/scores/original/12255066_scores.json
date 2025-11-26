@@ -1,0 +1,74 @@
+{
+  "pmcid": "12255066",
+  "sha256": "b3163bb8dfa6273e50d2ad25096269339288ed260d29abf5bf9b50f51a8732f3",
+  "timestamp_utc": "2025-11-09T15:35:09.199839+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.691789473684217,
+    "reading_ease": 10.034526315789492,
+    "word_count": 285
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study aims to examine the impact of sarcopenia on postoperative delirium and a range of perioperative outcomes in elderly patients."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to examine the impact of sarcopenia on postoperative delirium and a range of perioperative outcomes in elderly patients."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the incidence of postoperative delirium."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "A significant association was found between sarcopenia and postoperative delirium in both univariable and multivariable analyses (univariable: OR 1.81, 95% confidence interval [CI] 1.31 to 2.50, P < 0.001, I 2 24.0%; multivariable: OR 2.42, 95% CI 1.27 to 4.59, P = 0.007, I 2 0.0%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Sarcopenia was also associated with adverse postoperative outcomes, including increased complications, mortality, delayed recovery, and reduced overall survival."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Systematic review registration: PROSPERO registration number CRD42023424696 (18 May 2023)"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

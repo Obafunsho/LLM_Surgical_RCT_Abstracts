@@ -1,0 +1,74 @@
+{
+  "pmcid": "12304718",
+  "sha256": "da10970791f3cca55938a827a33cd775fb3f52885f6c864a96db3f85e66da0b8",
+  "timestamp_utc": "2025-11-09T15:36:17.184184+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.492049752249976,
+    "reading_ease": 26.44428152492671,
+    "word_count": 341
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This double-blinded randomized-controlled trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This double-blinded randomized-controlled trial included 50 patients undergoing primary THA in 2021–2023."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "50 patients undergoing primary THA in 2021–2023."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received TXA intravenously. The placebo group received 0.9% sodium chloride solution."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that no difference exists in the degree of fibrinolysis and blood loss between patients receiving prophylactic TXA and placebo."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome measure was to quantitate the degree of fibrinolysis measured by maximum lysis (ML) demonstrated by ROTEM variables."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "This double-blinded randomized-controlled trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "This double-blinded randomized-controlled trial included 50 patients undergoing primary THA in 2021–2023."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Blood coagulability tested by ROTEM was within the normal range in all patients, and no difference was found between the TXA group and placebo group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "no patient developed fibrinolysis during the entire perioperative phases."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinicaltrials.gov ( NCT03897621 )"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Department of Anesthesiology funding, 10.13039/100008513 Thomas Jefferson University Hospital ."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

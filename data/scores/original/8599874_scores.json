@@ -1,0 +1,74 @@
+{
+  "pmcid": "8599874",
+  "sha256": "ae0e8259180c2d293712c574236e606a1df4436ddf6f93a7253d7c1b7aa5955b",
+  "timestamp_utc": "2025-11-09T16:18:25.540042+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.35091171617162,
+    "reading_ease": 50.50775371287128,
+    "word_count": 303
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this double-blind RCT"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients aged 18–60 years with a BMI of 50–60 kg/m 2 were allocated randomly"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 18–60 years with a BMI of 50–60 kg/m 2"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "standard (150 cm alimentary, 50 cm biliopancreatic limb) or distal (150 cm common channel, 50 cm biliopancreatic limb) RYGB"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome (change in BMI at 2 years) has been reported previously."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "In this double-blind RCT"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between May 2011 and April 2013, 123 patients were randomized"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "113 received an intervention, and 92 attended 5-year follow-up"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "BMI was reduced by 15.1 (95 per cent c.i. 13.9 to 16.2) kg/m 2 after standard and 15.7 (14.5 to 16.9) kg/m 2 after distal RYGB; the between-group difference was −0.64 (−2.3 to 1.0) kg/m 2 ( P = 0.447)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Vitamin A and vitamin D levels were lower after distal RYGB."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT00821197 ( http://www.clinicaltrials.gov )"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11284621",
+  "sha256": "b7597f02a4182a14247c52f98921cc98569163325b0c3ab470aff2f3b2f602cd",
+  "timestamp_utc": "2025-11-09T23:14:29.739159+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.5468893129771,
+    "reading_ease": 31.72099554707384,
+    "word_count": 262
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study aimed to evaluate the relationship between disease severity and intervention, patient-valued outcomes, and treatment preferences to inform policy and future research."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This prospective cohort study was conducted across 31 National Health Service trusts, involving patients aged >16 years referred for elective surgical treatment of pilonidal disease."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "involving patients aged >16 years referred for elective surgical treatment of pilonidal disease."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Outcomes were compared between major and minor procedures using regression modeling, propensity score-based approaches, and augmented inverse probability weighting."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the relationship between disease severity and intervention, patient-valued outcomes, and treatment preferences to inform policy and future research."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative pain on days 1 and 7, with secondary outcomes including time to healing, return to normal activities, complications, and recurrence."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 667 patients were included, with 60% undergoing major procedures."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Major procedures resulted in greater pain on day 1 (mean difference 1.58 points, 95% CI 1.14 to 2.01) and day 7 (mean difference 1.53 points, 95% CI 1.12 to 1.95), higher complication rates (adjusted risk difference 17.5%, 95% CI 9.1 to 25.9%), lower recurrence (adjusted risk difference -10.1%, 95% CI -18.1 to -2.1%), and longer recovery times."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "higher complication rates (adjusted risk difference 17.5%, 95% CI 9.1 to 25.9%)"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "TRIAL REGISTRATION: ISRCTN95551898."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "FUNDING: National Institute for Health and Care Research (NIHR) Health Technology Assessment programme (NIHR award ref: 17/17/02)."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

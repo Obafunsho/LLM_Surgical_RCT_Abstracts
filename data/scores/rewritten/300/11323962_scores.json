@@ -1,0 +1,74 @@
+{
+  "pmcid": "11323962",
+  "sha256": "3f77da5e9a54b44e75e80657987dc06af404c69728515ce7e5d25eb6b0f8882e",
+  "timestamp_utc": "2025-11-09T23:14:56.036550+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.415294117647061,
+    "reading_ease": 18.4288235294118,
+    "word_count": 255
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial on Fiberoptic Intubation in Simulated Cervical Spine Injury"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The trial used computer-generated randomisation with allocation concealed in sealed envelopes. The sample size was calculated to detect significant differences with a power of 92%."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Sixty adult patients, aged 18-65, requiring nasotracheal intubation for oral surgery were randomly assigned... Conducted at the Fourth Affiliated Hospital of Zhejiang University Medical College"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned to continuous positive-pressure oxygen (CPO), normal-pressure (NS), or intermittent negative-pressure suction (INS) groups."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed the efficiency and safety of fiberoptic intubation under different air pressures in patients with simulated cervical spine injury after anesthesia induction."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was intubation time, measured from bronchoscope insertion to tracheal intubation completion, with a maximum of 180 seconds."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "The trial used computer-generated randomisation with allocation concealed in sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to the outcome assessor."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty adult patients... were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Fifty-nine patients were analysed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The median intubation time was significantly shorter in the CPO group (59 seconds) compared to the NS (167 seconds) and INS (132.5 seconds) groups (P=0.04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One patient in the INS group experienced minor mucosal bleeding."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2100051439."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

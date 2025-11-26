@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a video vignette-based randomized, double-blinded study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with advanced cancer viewed two videos"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "the surgeon uses either the BC/WC or the R/B framework to discuss treatment options"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate if patients with advanced cancer prefer surgeons to use the best case/worst case (BC/WC) communication framework over the traditional risk/benefit (R/B) framework"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was patients\u2019 preferred video surgeon"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized, double-blinded study"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blinded study"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "66 were randomized and 58 completed the study"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "58 completed the study"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "22 patients (37.9%, 95%CI:25.4%\u221250.4%) preferred the surgeon using the BC/WC framework"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

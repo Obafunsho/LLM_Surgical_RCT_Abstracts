@@ -1,0 +1,74 @@
+{
+  "pmcid": "9911325",
+  "sha256": "50ff99bfa399c7f7674c630c509ee6ac5ec1ca1700605aa635fd2adda3d3108f",
+  "timestamp_utc": "2025-11-09T16:23:02.956836+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.88571428571429,
+    "reading_ease": 4.234285714285733,
+    "word_count": 105
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "MIRTH is a novel catheter-based intramyocardial ventricular remodeling procedure."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "MIRTH causes a dose-dependent improvement in measures of left ventricular performance (increased contractility, increased ventricular mechanical efficiency, and reduced myocardial oxygen demand) in cardiomyopathic animals."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 2,
+    "max_score": 25
+  }
+}

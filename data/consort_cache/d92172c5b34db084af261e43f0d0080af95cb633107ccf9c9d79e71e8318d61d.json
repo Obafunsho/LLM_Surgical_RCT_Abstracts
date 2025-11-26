@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Liposomal Bupivacaine in Thoracic Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-center, double-blind, randomized, parallel-controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "102 patients undergoing elective thoracoscopic surgery at the Affiliated Hospital of Qingdao University"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized 1:1 to receive thoracic paravertebral block with LB (6.67 mg/mL) or ropivacaine hydrochloride (RH; 0.33%)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the efficacy of liposomal bupivacaine (LB) in reducing postoperative opioid consumption and enhancing recovery in thoracic surgery patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was opioid consumption within 72 hours postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was performed using fixed block randomization with allocation concealment via sealed opaque envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Participants, clinicians, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between November 1, 2024, and March 10, 2025, 102 patients were randomized (LB group, n = 51; RH group, n = 51)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "One patient was excluded, leaving 101 for analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "LB significantly reduced 72-hour opioid consumption compared to RH (mean difference = \u2013181.4 mg; 95% CI: \u2013232.8, \u2013130.0 mg; P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in adverse events were observed between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ChiCTR2400091217."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

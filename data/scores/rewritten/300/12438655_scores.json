@@ -1,0 +1,74 @@
+{
+  "pmcid": "12438655",
+  "sha256": "ab6dbcd65e6eaea45e2f7f98f0e416d18e9ae453ce3bda7a0aba1de069e9c68b",
+  "timestamp_utc": "2025-11-09T23:38:15.977216+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.054210526315789,
+    "reading_ease": 30.763224799286377,
+    "word_count": 236
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Neoadjuvant Targeted Therapy in EGFR-Mutant Resectable Lung Adenocarcinoma"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "24 patients with stage IIA-IIIB EGFR-mutant lung adenocarcinoma"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "treated with neoadjuvant targeted therapy followed by surgery"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the objective response rate (ORR) post-treatment."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "24 patients with stage IIA-IIIB EGFR-mutant lung adenocarcinoma treated with neoadjuvant targeted therapy followed by surgery from July 2019 to October 2024."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All 24 patients achieved successful R0 resection."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The ORR was 83.3% (20/24), and the MPR was 37.5% (9/24), with 2 patients achieving pathological complete response (pCR)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "54.2% (13/24) experienced grade 1-2 adverse events, with no grade 3 or higher events reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10796861",
+  "sha256": "a84458e0e886d9ce932b8cd5acc82feceaf557633c728d78192aa684700048cd",
+  "timestamp_utc": "2025-11-09T15:12:06.410085+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.398668831168834,
+    "reading_ease": 11.778717532467539,
+    "word_count": 308
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the effects of this combination and compare its performance relative to monotherapies on pain score reduction and opioid-sparing effect by leveraging evidence from acute pain setting using a model-based meta-analysis (MBMA)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Pain score reduction and opioid-sparing effect (OSE) were selected as the measures of efficacy."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 11 RCTs encompassing 1396 patients were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The analysis revealed a statistically significant interaction coefficient, suggesting a reduction of 32% in opioid use with the combination versus acetaminophen monotherapy."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

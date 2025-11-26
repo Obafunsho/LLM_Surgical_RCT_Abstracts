@@ -1,0 +1,74 @@
+{
+  "pmcid": "3940768",
+  "sha256": "ee2bb78976ed8bd89a7718f414e9a965a9946d03a3205a1d65a300995762905d",
+  "timestamp_utc": "2025-11-09T23:51:44.086038+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.7067032967033,
+    "reading_ease": 15.53115384615387,
+    "word_count": 260
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Simple Trapeziectomy and Trapeziectomy with Ligament Reconstruction and Tendon Interposition for Trapeziometacarpal Joint Osteoarthritis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised to simple trapeziectomy (n=25) or trapeziectomy with ligament reconstruction and tendon interposition (LRTI) (n=29)"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "54 participants with painful trapeziometacarpal joint osteoarthritis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to simple trapeziectomy (n=25) or trapeziectomy with ligament reconstruction and tendon interposition (LRTI) (n=29)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess radiographic progression of degenerative joint disease, changes in pseudarthrosis height, and the association of degenerative changes with clinical outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "clinical outcomes were measured using the Patient Evaluation Measure (PEM), Disabilities of the Arm, Shoulder and Hand (DASH) questionnaires, and thumb key pinch strength at 1-year and 6-year follow-ups."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "54 participants with painful trapeziometacarpal joint osteoarthritis, randomised to simple trapeziectomy (n=25) or trapeziectomy with ligament reconstruction and tendon interposition (LRTI) (n=29)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At final follow-up, 7/25 simple trapeziectomy cases and 1/29 LRTI cases exhibited increased degenerative changes."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The study was registered under trial number [insert number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "funded by [insert source]"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

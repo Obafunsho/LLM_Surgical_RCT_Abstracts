@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Primary outcomes included GI-2 recovery (tolerance of solid diet and stool passage), time to first defaecation, and safety endpoints."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seven RCTs involving 849 patients were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "GI motility agents significantly accelerated GI-2 recovery (mean difference \u20131.01 days; 95% CI \u20131.29 to \u20130.73; p < 0.001) and reduced time to first defaecation (mean difference \u20131.07 days; 95% CI \u20131.40 to \u20130.73; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences were observed in safety outcomes, including anastomotic leak (OR 0.97; 95% CI 0.53 to 1.77), nasogastric tube reinsertion (OR 0.86; 95% CI 0.49 to 1.51), or readmission rates (OR 1.03; 95% CI 0.62 to 1.72)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

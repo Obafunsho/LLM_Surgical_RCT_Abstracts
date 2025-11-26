@@ -1,0 +1,74 @@
+{
+  "pmcid": "12496209",
+  "sha256": "50744384066239fbb14152a00edefbcb577ea6d38fafce27fd53b38eedda9b63",
+  "timestamp_utc": "2025-11-09T22:30:14.218646+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.273860182370822,
+    "reading_ease": 26.996666666666698,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "No randomised trials were identified."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "No randomised trials were identified."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "for studies on preoperative GLP-1 RA use in adults undergoing elective surgery."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "No randomised trials were identified."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the safety and efficacy of preoperative glucagon-like peptide-1 receptor agonists (GLP-1 RA) in elective surgical systems."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was perioperative safety, defined as any complication within 90 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "No randomised trials were identified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "No randomised trials were identified."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "No randomised trials were identified."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "No randomised trials were identified."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "No increased risk in GLP-1 users (pooled OR: 0.78, 95% CI: 0.59–1.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Postoperative complications were reported in 12 studies, with no increased risk in GLP-1 users."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The study is registered with PROSPERO, CRD420251027809."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: NIHR Doctoral Research Fellowship and NIHR Exeter Biomedical Research Centre Senior Investigator Fellowship."
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

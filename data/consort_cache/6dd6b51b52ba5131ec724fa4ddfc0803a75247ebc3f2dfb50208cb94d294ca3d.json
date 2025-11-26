@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The Stockholm III trial randomly assigned 840 patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomly assigned 840 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with biopsy-proven resectable adenocarcinoma of the rectum were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "short-course radiotherapy of 5 \u00d7 5 Gy with surgery within 1 week (SRT), short-course radiotherapy of 5 \u00d7 5 Gy with surgery after 4\u20138 weeks (SRT-delay), or long-course radiotherapy of 25 \u00d7 2 Gy with surgery after 4\u20138 weeks (LRT-delay)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcome was time to local recurrence (LR)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "357, 355, and 128 patients were randomized to the SRT, SRT-delay, and LRT-delay groups respectively."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Patients were analysed in a three-arm randomization and a short-course radiotherapy comparison."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the incidence of LR was three of 129 patients, four of 128, and seven of 128"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration number: NTC00904813"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

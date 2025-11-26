@@ -1,0 +1,74 @@
+{
+  "pmcid": "4364063",
+  "sha256": "d22392660badae9868987427635f6cf242cae6b20e50ba19ec9bffc2da08d822",
+  "timestamp_utc": "2025-11-09T22:42:11.230604+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.836005658436218,
+    "reading_ease": 22.915983796296302,
+    "word_count": 243
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of ϵ-Aminocaproic Acid Pharmacokinetics in Adolescents Undergoing Spinal Fusion"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised into two groups based on scoliosis diagnosis: idiopathic (n=10) and non-idiopathic (n=10)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial enrolled 20 adolescents aged 12–17 years undergoing spinal fusion at a tertiary care center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised into two groups based on scoliosis diagnosis: idiopathic (n=10) and non-idiopathic (n=10)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine EACA pharmacokinetics and recommend dosing in this population."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was pharmacokinetic parameter estimation over the surgical period."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomised into two groups based on scoliosis diagnosis: idiopathic (n=10) and non-idiopathic (n=10)."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomised into two groups based on scoliosis diagnosis: idiopathic (n=10) and non-idiopathic (n=10)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Parameters for a typical patient included plasma clearance of 153 ml min−1 70 kg−1, intercompartmental clearance of 200 ml min−1 70 kg−1, central volume of distribution of 8.78 litre 70 kg−1, and peripheral volume of distribution of 15.8 litre 70 kg−1."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01408823."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

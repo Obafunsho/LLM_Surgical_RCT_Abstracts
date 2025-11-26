@@ -1,0 +1,74 @@
+{
+  "pmcid": "12237172",
+  "sha256": "32298d9e4aff1565d5bbb919b84e62e4bc189429b5253d9c953a0fc2699a2e10",
+  "timestamp_utc": "2025-11-09T15:34:44.680695+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.77984693877551,
+    "reading_ease": 18.293307823129282,
+    "word_count": 245
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "All surgical patients requiring NTI were randomly allocated into two groups (n = 53 each)"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "All surgical patients requiring NTI"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group C, using the conventional intubation technique, and Group I, using the cuff inflation-deflation technique"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Intubation time, types of maneuvers, number of maneuvers, hemodynamic response, percentage of glottic opening (POGO) score, and complications were evaluated"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly allocated into two groups"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "n = 53 each"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The cuff inflation technique required significantly less time for successful NTI compared to the conventional group (27.86 ± 4.47 s vs. 41.11 ± 10.98 s, respectively; P < 0.0001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "complications were significantly reduced"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

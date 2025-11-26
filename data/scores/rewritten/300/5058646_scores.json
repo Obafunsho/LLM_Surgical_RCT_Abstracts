@@ -1,0 +1,74 @@
+{
+  "pmcid": "5058646",
+  "sha256": "95d892781d25730a703670ffbea4922066eb2eef6df9a86ea5eb1028df802007",
+  "timestamp_utc": "2025-11-09T23:56:11.865083+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.211428571428574,
+    "reading_ease": 35.461904761904776,
+    "word_count": 245
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing HF10 Therapy and Traditional SCS for Chronic Pain"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A prospective, randomised controlled trial was conducted at 11 US pain treatment centers."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants with chronic intractable pain (VAS ≥5.0/10.0 cm) were randomised 1:1 to receive HF10 therapy or traditional SCS."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to receive HF10 therapy or traditional SCS."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the long-term efficacy of 10-kHz high-frequency (HF10) spinal cord stimulation (SCS) compared to traditional low-frequency SCS in managing chronic back and leg pain."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the responder rate, defined as ≥50% reduction in back pain at 3 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by sex and primary pain area, with allocation concealment via centrally administered blocks."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to therapy differences."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From June to December 2012, 198 participants were randomised (101 HF10, 97 traditional SCS)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "198 participants were randomised (101 HF10, 97 traditional SCS)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 24 months, 76.5% of HF10 and 49.3% of traditional SCS participants were responders for back pain (27.2% difference, 95% CI, 10.1%-41.8%; P < .001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, with no stimulation-related serious adverse events or neurological deficits reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01609972"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by Nevro Corp."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

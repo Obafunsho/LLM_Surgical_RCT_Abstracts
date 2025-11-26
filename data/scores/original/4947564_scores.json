@@ -1,0 +1,74 @@
+{
+  "pmcid": "4947564",
+  "sha256": "487e0310fa21988e6dc81c69ba26db23c9d779793495c9729e3f35ad2d6bdb2c",
+  "timestamp_utc": "2025-11-09T16:01:40.692642+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.327035573122533,
+    "reading_ease": 18.97142292490119,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Of the 10 patients enrolled, nine had resectable esophageal adenocarcinoma"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "underwent NIR mapping following peritumoral, submucosal injection of Indocyanine Green (ICG) alone or pre-mixed in human serum albumin (ICG:HSA)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To assess safety and feasibility of an intraoperative, minimally invasive NIR image-guided approach to lymphatic mapping in esophageal cancer patients."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 10 patients enrolled"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Intraoperative NIR imaging demonstrated NIR signal at all tumors and in 2–6 NIR + regional LNs in six of the patients."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

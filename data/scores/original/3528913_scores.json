@@ -1,0 +1,74 @@
+{
+  "pmcid": "3528913",
+  "sha256": "667b73e9a0cbea41888939838d6f9588f2728593892b29ff5e88d7389f731fb1",
+  "timestamp_utc": "2025-11-09T15:53:09.138164+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.168725680933857,
+    "reading_ease": 24.45583819714659,
+    "word_count": 257
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomized 40 patients into two groups"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "using either the mini-subvastus approach or standard medial parapatellar approach"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized TKA performed through a mini-subvastus approach would improve subjective and objective and subjective function compared to a standard medial parapatellar approach 2 months after surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Patients were evaluated preoperatively and 2 months after surgery. We assessed subjective functional outcome and quality of life (QOL) using routine questionnaires"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomized 40 patients into two groups"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomized 40 patients into two groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "We observed improvements from preoperatively to 2 months postoperatively in functional scores, QOL, and knee kinematic and kinetic gait parameters during level and stair walking."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A stepped-wedge randomized cluster trial was conducted in 12 Dutch hospitals, each representing a cluster."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients who underwent the quilt technique after mastectomy were compared with those with conventional closure."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients who underwent the quilt technique after mastectomy were compared with those with conventional closure."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the implementation of the quilt technique on textbook outcome in patients undergoing mastectomy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcome was textbook outcome, defined as the absence of wound complications, readmissions, reoperations, or unscheduled outpatient visits, and no increase in pain medication use 6 months after surgery compared to preoperative use."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "A stepped-wedge randomized cluster trial was conducted in 12 Dutch hospitals, each representing a cluster."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Two hundred and fifty-one patients who underwent mastectomy were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The incidence of textbook outcome was higher in the quilted cohort compared to the non-quilted cohort, 94 of 143 (65.7%) versus 26 of 63 patients (41.3%, P = 0.003)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Wound complications, including clinically significant seroma, were 24.0% in the quilted patients versus 55.6% in the non-quilted patients ( P < 0.001)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration number: NCT05272904 , ClinicalTrials.gov ."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

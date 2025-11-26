@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "A 6-patient pilot study was conducted in women undergoing sentinel lymph node (SLN) mapping for breast cancer."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Subjects received 99m Tc-sulfur colloid lymphoscintigraphy. In addition, 12.5 \u00b5g of indocyanine green (ICG) diluted in human serum albumin (HSA) was used as an NIR fluorescent lymphatic tracer."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A 6-patient pilot study was conducted"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "In the pilot clinical trial, a total of 9 SLNs were identified by 99m Tc-lymphoscintigraphy and 9 SLNs were identified by NIR fluorescence, although results differed in two patients."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were encountered."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

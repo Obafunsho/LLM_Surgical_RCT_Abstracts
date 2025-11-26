@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Liposomal Bupivacaine vs. Conventional Bupivacaine for Post-Thoracoscopic Analgesia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Conducted as a single-blind, randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "100 patients (ASA II-III) scheduled for thoracoscopic surgery were recruited at the Tenth Affiliated Hospital of Southern Medical University"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned in a 1:1 ratio to receive either LB or conventional bupivacaine"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the analgesic efficacy of liposomal bupivacaine (LB) with conventional bupivacaine hydrochloride"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative pain intensity, assessed using the Visual Analog Scale (VAS) at rest and during exercise at 6, 8, 12, 24, 48, and 72 hours post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was computer-generated"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "single-blind"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "100 patients (ASA II-III) scheduled for thoracoscopic surgery were recruited at the Tenth Affiliated Hospital of Southern Medical University from November 2023 to September 2024"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Ninety-three patients were analysed (LB: 47, control: 46) using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The LB group exhibited significantly lower VAS scores at all time points (p < 0.01)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were minimal, with 2.1% in the LB group and 8.7% in the control group experiencing postoperative nausea and vomiting"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2300076708"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "4281164",
+  "sha256": "4cf92206066da3065e018dd2cdb0059c18ec4238a2196aeee387a355a30a7b6e",
+  "timestamp_utc": "2025-11-09T22:41:55.829175+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.89480562200957,
+    "reading_ease": 18.709576854067024,
+    "word_count": 209
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Single-Dose vs. Divided-Dose rATG Induction in Renal Transplantation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised, unblinded 2×2 factorial trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "180 adult renal transplant recipients"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either SD-rATG (6 mg/kg over 24 hours) or DD-rATG (four 1.5 mg/kg doses on alternate days)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluated the long-term safety and efficacy of single-dose (SD) versus divided-dose (DD) rabbit antithymocyte globulin (rATG) induction in renal transplant recipients"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was renal function, measured by the abbreviated modification of diet in renal disease formula, over a follow-up period averaging 51.8 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was computer-generated, and allocation was not concealed"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "unblinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "90 participants were randomised to each group"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "SD-rATG was associated with improved renal function in deceased donor recipients (P <0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were more frequent in the DD group, with higher infection rates"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00906204"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

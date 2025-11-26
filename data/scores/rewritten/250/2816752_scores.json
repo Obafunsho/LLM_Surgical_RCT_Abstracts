@@ -1,0 +1,74 @@
+{
+  "pmcid": "2816752",
+  "sha256": "fdc9a5bc10acd9db0a5877f430116c1126a0f4b3185c04ab47136c8de336d8e4",
+  "timestamp_utc": "2025-11-09T22:34:37.871049+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.905434782608694,
+    "reading_ease": 23.01989130434788,
+    "word_count": 230
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Tibial Bone Remodeling with Total Knee Arthroplasty: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised to receive either rotating-platform (n=28) or fixed-platform (n=26) cemented TKA"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either rotating-platform (n=28) or fixed-platform (n=26) cemented TKA"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare tibial bone density changes in cemented TKA components with different bearing designs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "CT scans were performed postoperatively and at 1 and 2 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was applied to [outcome assessors/patients/clinicians]."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomised to receive either rotating-platform (n=28) or fixed-platform (n=26) cemented TKA"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Cancellous bone density loss was observed in all proximal tibial regions in both cohorts, with a maximum loss of 12.6% at 2 years."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

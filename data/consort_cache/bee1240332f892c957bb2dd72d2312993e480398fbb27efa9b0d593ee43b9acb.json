@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Repeated COVID-19 Vaccination Strategies in Kidney Transplant Recipients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Conducted as a multicenter, open-label, randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "in kidney transplant recipients (KTRs) who exhibited poor serological responses after 2 or 3 doses of an mRNA-based vaccine"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive a single dose of mRNA-1273 (100 \u03bcg, n=25), a double dose of mRNA-1273 (2\u00d7100 \u03bcg, n=25), or a single dose of Ad26.COV2.S (n=25)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the efficacy of various repeated COVID-19 vaccination strategies in kidney transplant recipients"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in SARS-CoV-2-specific interleukin-21 memory T-cell and B-cell responses, measured 28 days post-vaccination"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "125 KTRs were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Repeated vaccination increased the seroconversion rate from 21% to 66%, significantly associated with enhanced levels of SARS-CoV-2-specific interleukin-21 memory T cells (odds ratio, 3.84 [1.89-7.78]; P<0.001) and B cells (odds ratio, 35.93 [6.94-186.04]; P<0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT05030974"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by the Dutch Renal patients COVID-19 VACcination consortium"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

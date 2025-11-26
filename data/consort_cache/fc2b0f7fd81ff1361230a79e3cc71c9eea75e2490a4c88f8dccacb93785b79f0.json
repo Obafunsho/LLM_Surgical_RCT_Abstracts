@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "retrospective cohort study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "487,676 patients with aECAD"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "CEA and CAS on AD and non\u2010AD dementia incidence"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluate the effect of CEA and CAS on AD and non\u2010AD dementia incidence"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "37,317 patients underwent CEA or CAS"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "CEA was associated with a significantly lower AD risk (relative risk = 0.93; 95% confidence interval, 0.86\u20130.99; P < 0.05)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

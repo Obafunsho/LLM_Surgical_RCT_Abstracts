@@ -1,0 +1,74 @@
+{
+  "pmcid": "4281162",
+  "sha256": "9de0284340f793e9fe4208d469523369617c0f42f5d033e6b3a46c28ba6c1289",
+  "timestamp_utc": "2025-11-09T15:58:22.535961+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 18.46706853839802,
+    "reading_ease": 6.681791907514452,
+    "word_count": 173
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Four CMV-seronegative healthy volunteers and three allogeneic HSCT recipients were included in the study."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Four clinical-grade autologous monocyte-derived DC vaccines were prepared after a single leukapheresis procedure and administered intradermally at a weekly interval."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Four CMV-seronegative healthy volunteers and three allogeneic HSCT recipients were included in the study."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "De novo induction of CMV-specific T-cell responses was detected in three of four healthy volunteers without serious adverse events."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "without serious adverse events"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

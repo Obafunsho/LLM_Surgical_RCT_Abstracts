@@ -1,0 +1,27 @@
+{
+  "pmcid": "12264243",
+  "pmid": "37055063",
+  "title": "Hemorrhagic transformation after endovascular treatment: Baseline infarct volume is a better predictor than infarct growth rate",
+  "abstract": "Background and objectives:: Hemorrhagic transformation (HT) remains an important issue following ischemic stroke. Efforts have been made to identify predictors of HT, especially imaging features. Among them, the infarct growth rate (IGR) remains underexplored. We investigated the influence of IGR on the risk of subsequent HT in the setting of large vessel occlusion stroke (LVOS) intended for endovascular treatment (EVT) and compared IGR to baseline infarct volume as predictors of HT.\n\nMethods:: We conducted a secondary analysis of two merged prospectively collected databases (FRAME 2017–2019 and ETIS 2015–2021). Patients presenting with anterior circulation LVOS, a witnessed symptoms onset, baseline MRI within 24 h after symptoms onset and available day 1 imaging (MRI or CT) were included. Posterior circulation LVOS, medium and distal vessel occlusions of the anterior circulation, tandem occlusions and unknown time of stroke onset were excluded. The primary endpoint was the occurrence of any HT detected on day 1 imaging. Secondary endpoint was the occurrence of parenchymal hematoma (defined as PH1 or PH2). Associations between the IGR and the occurrence of any HT and parenchymal hematoma within 24-h after mechanical thrombectomy were assessed using univariable and multivariable logistic regression models.\n\nResults:: We included 775 patients (mean age 70.5 years (SD 15.1)). The median of IGR was 8.7 ml per hour (IQR 2.8–24.2). A faster IGR was independently associated with a higher risk of any HT (adjusted OR 1.35; 95% CI 1.16–1.57 per one log unit increase). A faster IGR was also associated with an increased risk of parenchymal hemorrhage in univariate analysis (OR 1.35; 95% CI 1.15–1.58), but the association did not remain significant in multivariable analysis including all the other predictors of parenchymal hemorrhage (adjusted OR 1.16 (95% CI 0.96–1.40) per one log unit increase). ROC analyses revealed that baseline infarct volume significantly better predicted any HT and PH occurrence than the IGR ( p = 0.019 and p = 0.029 respectively).\n\nConclusion:: In patients presenting with anterior circulation LVOS and treated with EVT, the IGR was significantly associated with an increased risk of HT. However, the baseline infarct volume was a stronger predictor of HT than IGR.",
+  "authors": [
+    "Mathilde Méot",
+    "Fanny Munsch",
+    "Bertrand Lapergue",
+    "Maeva Kyheng",
+    "Igor Sibon",
+    "David Planes",
+    "Emilien Micard",
+    "Bailiang Chen",
+    "Jean-Marc Olivot",
+    "Grégoire Boulouis",
+    "Alain Viguier",
+    "Thomas Tourdias",
+    "Gaultier Marnat"
+  ],
+  "journal": "European Stroke Journal",
+  "year": "2025",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

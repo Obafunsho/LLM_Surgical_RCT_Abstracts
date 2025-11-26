@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients scheduled for elective pancreatic surgery between March 2017 and February 2019 were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients scheduled for elective pancreatic surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to either three cycles of upper-limb ischaemia and reperfusion (each 5\u2009min) or a sham procedure"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigated the effect of remote ischaemic preconditioning (RIPC) on perioperative concentrations of high-sensitive cardiac troponin (hs-cTn) T and interleukin (IL) 6."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the maximum postoperative hs-cTnT concentration within 48\u2009h after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients scheduled for elective pancreatic surgery between March 2017 and February 2019 were randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 99 eligible patients, 46 underwent RIPC and 46 a sham procedure."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "15/45 RIPC, 18/45 controls"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "RIPC did not reduce the maximum hs-cTnT concentration after surgery (12.6\u2009ng/l RIPC, 16.6\u2009ng/l controls, P =\u20090.225)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Postoperative complications occurred in 23 RIPC and 24 control patients respectively."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinicaltrials.gov identifier NCT03460938"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

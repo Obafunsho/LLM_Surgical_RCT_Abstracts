@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Training to Improve Diagnosis of Scaphoid Fracture Displacement"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "64 orthopaedic surgeons were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "64 orthopaedic surgeons were randomised into a training group (34) and a nontraining group (30)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "training group received an online module before assessment"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether training can enhance interobserver reliability and diagnostic accuracy for scaphoid fracture displacement"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Interobserver reliability was measured using Siegel\u2019s multirater kappa"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "randomisation was computer-generated with allocation concealment"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable as the intervention was educational"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "64 orthopaedic surgeons were randomised into a training group (34) and a nontraining group (30)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Sensitivity, specificity, and accuracy were 87%, 86%, and 87% for the training group, and 83%, 85%, and 84% for the nontraining group"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided in the manuscript"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided in the manuscript"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

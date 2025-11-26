@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Anterior Out-of-Plane and In-Plane Techniques for Ultrasound-Guided Subclavian Vein Cannulation"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-centre, open-label, randomised controlled trial included 128 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "128 patients undergoing elective surgeries requiring central venous access"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to either the anterior out-of-plane or in-plane technique"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of a novel anterior out-of-plane technique compared to the conventional in-plane approach"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the first-pass success rate, assessed immediately post-procedure"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "randomised to either the anterior out-of-plane or in-plane technique using a computer-generated sequence, with allocation concealment via sealed envelopes"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the intervention"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "128 patients randomised"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of the 128 patients randomised, 126 were analysed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The first-pass success rate was significantly higher in the out-of-plane group (95%) compared to the in-plane group (77%) (p < 0.05)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Fewer complications, including arterial punctures (1 vs 5), were observed in the out-of-plane group"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "CTRI/2022/09/045231"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

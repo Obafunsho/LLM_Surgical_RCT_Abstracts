@@ -1,0 +1,74 @@
+{
+  "pmcid": "11368128",
+  "sha256": "cb7ba4ddb2127501420e86b3565e9e0fc035e430d561af0e3b36325357ed4e50",
+  "timestamp_utc": "2025-11-09T23:15:35.781024+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.61368421052632,
+    "reading_ease": 23.051052631578955,
+    "word_count": 273
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Impact of Mechanical Bowel Preparation on Gut Microbiome and Postoperative Infections: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This open-label, two-arm pilot RCT was conducted at the National Cancer Institute, Vilnius, Lithuania."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with left-sided colorectal cancer scheduled for elective resection were randomized 1:1 to receive either OP or RE."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients with left-sided colorectal cancer scheduled for elective resection were randomized 1:1 to receive either OP or RE."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the effects of oral preparation (OP) and rectal enema (RE) on these outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the difference in β-diversity of the gut microbiome on postoperative day (POD) 6."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed using sealed opaque envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the interventions."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Forty participants were randomized between April and November 2021, with 20 allocated to each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Two patients in the OP group were excluded from analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant difference in β-diversity was observed on POD6 (p=0.198)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to MBP were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04013841."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

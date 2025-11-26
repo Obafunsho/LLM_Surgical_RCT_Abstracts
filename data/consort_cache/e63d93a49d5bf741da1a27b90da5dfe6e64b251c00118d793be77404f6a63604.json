@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Mechanical and Oral Antibiotic Bowel Preparation Versus No Bowel Preparation for Elective Colectomy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This subgroup analysis of the MOBILE trial, a multicentre, single-blinded, randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible patients scheduled for elective colonic resection were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "MOABP involved mechanical preparation and oral antibiotics (2 g neomycin, 2 g metronidazole) the day before surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assessed the impact of mechanical and oral antibiotic bowel preparation (MOABP) versus no bowel preparation (NBP) on surgical-site infections (SSIs) in elective colectomy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was SSI rate within 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with concealed allocation."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was applied to recruiters, treating physicians, surgeons, data collectors, and analysts."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 381 patients were randomised: 217 to right colectomy (106 MOABP, 111 NBP) and 164 to left colectomy (84 MOABP, 80 NBP)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 381 patients were randomised: 217 to right colectomy (106 MOABP, 111 NBP) and 164 to left colectomy (84 MOABP, 80 NBP)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "In right colectomy, SSI rates were 7% (MOABP) and 9% (NBP) (OR 0.71, 95% CI 0.26 to 1.95; P = 0.510). In left colectomy, SSI rates were 6% (MOABP) and 10% (NBP) (OR 0.57, 95% CI 0.18 to 1.82; P = 0.338)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in overall morbidity or adverse events were observed."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02652637"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Vatsatautien Tutkimuss\u00e4\u00e4ti\u00f6 Foundation, Mary and Georg Ehrnrooth\u2019s Foundation, Finnish Cancer Foundation, Helsinki University Research Funds."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

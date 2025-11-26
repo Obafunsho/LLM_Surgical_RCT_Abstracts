@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Autologous Bone Marrow Mononuclear Cells for Critical Limb Ischaemia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly allocated"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "involving 176 participants diagnosed with CLI"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "intramuscular BMMNCs or control (conventional therapy, diluted autologous peripheral blood, or saline)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of intramuscular transplantation of autologous bone marrow mononuclear cells (BMMNCs) in CLI patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were all-cause mortality, pain, and amputation, assessed over a 12-month period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 176 participants were randomised: 88 to the BMMNC group and 88 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Amputation rates showed a possible small effect (RR 0.52, 95% CI 0.27 to 0.99)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences were observed in side effects (RR 2.13, 95% CI 0.50 to 8.97)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

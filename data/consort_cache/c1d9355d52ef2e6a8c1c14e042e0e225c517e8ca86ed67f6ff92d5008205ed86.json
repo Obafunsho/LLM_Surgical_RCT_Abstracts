@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Impact of Mechanical Bowel Preparation on Gut Microbiome and Postoperative Infections: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients with left-sided colorectal cancer scheduled for elective resection were randomized 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with left-sided colorectal cancer scheduled for elective resection"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized 1:1 to receive either OP or RE"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the effects of oral preparation (OP) and rectal enema (RE) on these outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the difference in \u03b2-diversity of the gut microbiome on postoperative day (POD) 6."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed using sealed opaque envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was not possible due to the nature of the interventions."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Forty participants were randomized between April and November 2021, with 20 allocated to each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Two patients in the OP group were excluded from analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant difference in \u03b2-diversity was observed on POD6 (p=0.198)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to MBP were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04013841."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

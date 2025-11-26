@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Reinforced Tension-Line Suture in Colorectal Cancer Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised in a 1:1 ratio"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 18 years or older, scheduled for elective colorectal cancer surgery through a midline incision from 2017 to 2021"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "RTL and 4:1 small-bite closure with polypropylene sutures (RTL group) or 4:1 small-bite closure with polydioxanone suture alone (PDS group)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study aimed to determine if adding a reinforced tension-line (RTL) suture to the standard 4:1 small-bite closure reduces the incidence of incisional hernia following colorectal cancer surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was CT-detected incisional hernia at 1 year."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by study centre, and allocation was concealed using sequentially numbered sealed opaque envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "CT interpreters were blinded to treatment groups."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 160 patients were randomised, 80 in each group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "At 1 year, 134 patients were analysed: 63 in the RTL group and 71 in the PDS group, using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Incisional hernia was found in 4 (6%) patients in the RTL group and 15 (21%) in the PDS group (OR 3.95, 95% CI 1.24 to 12.60; P = 0.014)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No unintended effects were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT03390764."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

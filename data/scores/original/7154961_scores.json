@@ -1,0 +1,74 @@
+{
+  "pmcid": "7154961",
+  "sha256": "33a101195bacea2be8d57927e0bb5fc61821b7beeb2897280c991cabd20de880",
+  "timestamp_utc": "2025-11-09T16:12:05.470129+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.618386987077763,
+    "reading_ease": 22.72085184765359,
+    "word_count": 401
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods:: Randomized controlled trial at a single tertiary care center."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned in a 1:1 fashion to either perioperative CT via a mobile device or a usual care control."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included 45 older adults age 60–90 undergoing cardiac surgery at least 10 days from enrollment."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned in a 1:1 fashion to either perioperative CT via a mobile device or a usual care control."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We sought to determine the feasibility and potential efficacy of a perioperative CT program to reduce the incidence of postoperative delirium and POCD in older cardiac surgery patients."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome of feasibility was evaluated by enrollment patterns and adherence to protocol."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned in a 1:1 fashion to either perioperative CT via a mobile device or a usual care control."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants included 45 older adults age 60–90 undergoing cardiac surgery at least 10 days from enrollment."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The incidence of postoperative delirium (CT group 5/20 [25%] versus control 3/20 [15%]; P = .69) and POCD (CT group 53% versus control 37%; P = .33) was not significantly different between groups for either outcome in this limited sample."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

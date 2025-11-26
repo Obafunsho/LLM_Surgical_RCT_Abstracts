@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Carotid Artery Stenting and Endarterectomy in Asymptomatic Patients"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this randomised controlled trial, 2544 patients with \u226570% asymptomatic carotid stenosis were randomised to CAS or CEA, alongside standard medical therapy."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "asymptomatic, non-octogenarian patients"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to CAS or CEA, alongside standard medical therapy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compares outcomes of CAS versus CEA in asymptomatic, non-octogenarian patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary composite endpoint was any stroke, myocardial infarction, or death during the periprocedural period or ipsilateral stroke within 4 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Neurologic assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "2544 patients with \u226570% asymptomatic carotid stenosis were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Participants were recruited from two trials, with 1091 (548 CAS, 543 CEA) and 1453 (1089 CAS, 364 CEA) patients, respectively."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The primary endpoint showed no significant difference between CAS and CEA (5.3% vs. 5.1%, HR = 1.02; 95% CI 0.7\u20131.5; P=.91)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Periprocedural stroke rates were 2.7% for CAS and 1.5% for CEA (P=.07). Myocardial infarction rates were 0.6% for CAS and 1.7% for CEA (P=.01). Death rates were 0.1% for CAS and 0.2% for CEA (P=.62)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source]."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

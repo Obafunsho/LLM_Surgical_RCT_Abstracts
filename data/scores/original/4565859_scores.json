@@ -1,0 +1,74 @@
+{
+  "pmcid": "4565859",
+  "sha256": "47ca421106db6e6e3469e6caa75f4f2d93f11e3b34a5327d451f05bcd1f53c32",
+  "timestamp_utc": "2025-11-09T15:59:40.438859+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.941118421052636,
+    "reading_ease": 31.892203947368444,
+    "word_count": 266
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This multicenter, non-randomized, single-arm trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "enrolled 101 patients with T1–T4, N0, and M0 HNSCC"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients received 50 µg [ 99m Tc]tilmanocept radiolabeled with either 0.5 mCi (same day) or 2.0 mCi (next day)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to determine the false negative rate (FNR) of sentinel lymph node biopsy (SLNB) relative to the pathologic nodal status"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "FNR of sentinel lymph node biopsy (SLNB) relative to the pathologic nodal status"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "This multicenter, non-randomized, single-arm trial"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "81 of 83 patients (97.6 %)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "yielding an FNR of 2.56 %; NPV was 97.8 % and overall accuracy was 98.8 %"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov identifier NCT00911326"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

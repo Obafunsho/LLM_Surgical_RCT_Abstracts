@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included patients with anterior circulation LVOS, witnessed symptom onset, baseline MRI within 24 hours, and available day 1 imaging."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the role of infarct growth rate (IGR) as a predictor of HT compared to baseline infarct volume."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was any HT on day 1 imaging."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 775 patients (mean age 70.5 years) were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Faster IGR was independently associated with higher HT risk (adjusted OR 1.35; 95% CI 1.16\u20131.57)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

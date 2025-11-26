@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Laser Epilation in Pilonidal Disease: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants aged 11 to 21 years with pilonidal disease were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants aged 11 to 21 years with pilonidal disease were randomised to receive either laser epilation (LE) with standard care or standard care alone."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants aged 11 to 21 years with pilonidal disease were randomised to receive either laser epilation (LE) with standard care or standard care alone."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the recurrence rate of pilonidal disease at 1 year."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 302 participants were randomised: 151 to the LE group and 151 to the standard care group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "One-year follow-up data were available for 96 patients in the LE group and 134 in the standard care group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The recurrence rate was significantly lower in the LE group (\u221223.2%; 95% CI, \u221233.2 to \u221213.1; P <\u2009.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT03276065"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

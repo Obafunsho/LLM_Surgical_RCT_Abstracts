@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A within-trial economic evaluation of the Fibrinogen Replenishment in Surgery (FIBERS) randomized clinical trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included a subset of 495 adult patients from the FIBERS trial who underwent cardiac surgery and developed active bleeding and acquired hypofibrinogenemia requiring fibrinogen replacement."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Fibrinogen concentrate (4 g per dose) or cryoprecipitate (10 units per dose) randomized (1:1) up to 24 hours postcardiopulmonary bypass."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To determine cost-effectiveness of fibrinogen concentrate vs cryoprecipitate for managing active bleeding in adult patients who underwent cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Effectiveness outcomes included number of ABPs administered within 24 hours and 7 days of cardiopulmonary bypass."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized (1:1)"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Participants included a subset of 495 adult patients from the FIBERS trial"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Patient level costs for 495 patients were evaluated"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Median (IQR) total 7-day ABP cost was CAD $2280 (US dollars [USD] $1697) (CAD $930 [USD $692]-CAD $4970 [USD $3701]) in the fibrinogen concentrate group and CAD $2770 (USD $1690) (IQR, CAD $1140 [USD $849]-CAD $5000 [USD $3723]) in the cryoprecipitate group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "ABP transfusions and adverse events were similar in both treatment groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Fibrin Glue Sealant in Liver Resection"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "300 patients undergoing hepatic resection were randomly assigned"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "300 patients undergoing hepatic resection"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either fibrin glue application or standard care (control)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was intraoperative blood loss."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 150 patients were allocated to each group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "analysis conducted on an intention-to-treat basis"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant differences were found in transfusion requirements (0.15 \u00b1 0.66 vs. 0.17 \u00b1 0.63 PRCU; P = 0.7234)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

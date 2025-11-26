@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Mitral Valve Repair vs. Replacement for Severe Ischemic Mitral Regurgitation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised to repair (n = 126) or replacement (n = 125)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included severe ischemic mitral regurgitation, and the study was conducted across multiple cardiothoracic centers."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to repair (n = 126) or replacement (n = 125)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the recurrence of moderate/severe mitral regurgitation or death within 2 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the interventions."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomised to repair (n = 126) or replacement (n = 125)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 116 patients who received repair, 76 developed moderate/severe mitral regurgitation or died."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Of the 116 patients who received repair, 76 developed moderate/severe mitral regurgitation or died."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not detailed in the abstract."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

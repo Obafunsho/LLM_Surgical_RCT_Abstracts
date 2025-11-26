@@ -1,0 +1,21 @@
+{
+  "pmcid": "4169308",
+  "pmid": "25099924",
+  "title": "Predictors of Arterial Blood Pressure Control During Deliberate Hypotension with Sodium Nitroprusside in Children",
+  "abstract": "Background: Sodium nitroprusside (SNP) is used to decrease arterial blood pressure (BP) during certain surgical procedures. There are limited data regarding efficacy of BP control with SNP. There are no data on patient and clinician factors that affect BP control. We evaluated the dose-response relationship of SNP in infants and children undergoing major surgery and performed a quantitative assessment of BP control.\n\nMethods: One hundred fifty-three subjects at 7 sites received a blinded infusion followed by open-label SNP during operative procedures requiring controlled hypotension. SNP was administered by continuous infusion and titrated to maintain BP control (mean arterial BP [MAP] within ±10% of clinician-defined target). BP was recorded using an arterial catheter. Statistical Process Control methodology was used to quantify BP control. A multivariable model assessed the effects of patient and procedural factors.\n\nResults: BP was controlled an average 45.4% (SD 23.9%, 95% CI 41.5%-49.18%) of the time. Larger changes in infusion rate were associated with worse BP control (7.99% less control for 1 mcg•kg − •min − increase in average titration size, p=0.0009). A larger difference between a patient's baseline and target MAP predicted worse BP control (0.93% worse control per 1 mmHg increase in MAP difference, p=0.0013). Both effects persisted in multivariable models.\n\nConclusions: : SNP was effective in reducing BP. However, BP was within the target range less than half of the time. No clinician or patient factors were predictive of BP control, although two inverse relationships were identified. These relationships require additional study and may be best coupled with exposure-response modeling to propose improved dosing strategies when using SNP for controlled hypotension in the pediatric population.",
+  "authors": [
+    "David R Spielberg",
+    "Jeffrey S Barrett",
+    "Gregory B Hammer",
+    "David R Drover",
+    "Tammy Reece",
+    "Carol A Cohane",
+    "Scott R Schulman"
+  ],
+  "journal": "Anesthesia and analgesia",
+  "year": "2014",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

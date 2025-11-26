@@ -1,0 +1,74 @@
+{
+  "pmcid": "12112255",
+  "sha256": "84b2655bc374e03fb292881149eccdf6c8dbe4f1e704411d8f6bf108af218f83",
+  "timestamp_utc": "2025-11-09T15:30:37.219349+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.748256046944327,
+    "reading_ease": 32.363981322456,
+    "word_count": 411
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "However, there is a lack of randomized controlled trials evaluating the effectiveness, safety, cost-effectiveness, and user demand for internet-based anticoagulation management."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This study was a randomized controlled trial with assessments conducted at baseline and at a 3-month follow-up."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were eligible if they had been on warfarin therapy for at least 3 months, received warfarin management either through the Alfalfa app or through pharmacist-led anticoagulation outpatient clinic visits, consented to regular follow-ups, and had not experienced serious bleeding or thrombotic events in the 3 months before warfarin treatment."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aimed to evaluate the efficacy, safety, and cost-effectiveness of a 3-month warfarin dose adjustment mobile app Alfalfa compared to offline management in patients postcardiac valve replacement."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: This study aimed to evaluate the efficacy, safety, and cost-effectiveness of a 3-month warfarin dose adjustment mobile app Alfalfa compared to offline management in patients postcardiac valve replacement."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "This study was a randomized controlled trial with assessments conducted at baseline and at a 3-month follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 405 participants were included in the analysis."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 405 participants were included in the analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The time in therapeutic range was significantly higher in the Alfalfa app group than in the offline group (66.46% vs 46.65%, P <.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "However, the incidence of minor bleeding was higher in the Alfalfa app group (12/204, 5.9% vs 3/201, 1.5%; P =.02)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

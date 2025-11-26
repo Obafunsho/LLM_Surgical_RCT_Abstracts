@@ -1,0 +1,74 @@
+{
+  "pmcid": "12254995",
+  "sha256": "19260a737e5f92e199b2332846680bc8b6ee85ff1f178ed12129f6d20679f9e6",
+  "timestamp_utc": "2025-11-09T23:31:20.311859+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.42223492217899,
+    "reading_ease": 13.10199051556421,
+    "word_count": 257
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Concomitant Tricuspid Valve Repair in Moderate Tricuspid Regurgitation During Left-Sided Valve Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the impact of CTR on clinical outcomes in patients undergoing left-sided valve procedures."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was cardiac mortality, while secondary outcomes included overall mortality, stroke, wound infection, reoperation, atrial fibrillation, renal failure, intensive care stay, and permanent pacemaker implantation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "CTR was associated with a significant reduction in cardiac mortality (p < 0.0001) despite increased CPB (p < 0.00001) and X-Clamp times (p < 0.00001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences were found in postoperative stroke, wound infection, atrial fibrillation, renal failure, or intensive care unit stay duration."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not disclosed."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not disclosed."
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

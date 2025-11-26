@@ -1,0 +1,74 @@
+{
+  "pmcid": "3528022",
+  "sha256": "2128a1dfea27742bdb8bc31dd188f22aa569b46a8ed99325f474dd08d6d11bdb",
+  "timestamp_utc": "2025-11-09T22:37:07.512619+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.97982142857143,
+    "reading_ease": 34.52497023809525,
+    "word_count": 245
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Effect of Obesity on Outcomes of Lumbar Disc Herniation Treatment: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were divided into nonobese (BMI <30 kg/m², n = 854) and obese (BMI ≥30 kg/m², n = 336) groups."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients enrolled in the Spine Patient Outcomes Research Trial"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were divided into nonobese (BMI <30 kg/m², n = 854) and obese (BMI ≥30 kg/m², n = 336) groups."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the impact of obesity on outcomes following treatment for symptomatic lumbar disc herniation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome measures included Short Form-36 physical function and bodily pain scores, and the Oswestry Disability Index, assessed at baseline and up to four years."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were divided into nonobese (BMI <30 kg/m², n = 854) and obese (BMI ≥30 kg/m², n = 336) groups."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "An as-treated analysis was performed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At four years, obese patients showed less improvement in primary outcomes compared to nonobese patients in both operative and nonoperative groups."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

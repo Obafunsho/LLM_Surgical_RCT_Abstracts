@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In the POISE-2 (PeriOperative ISchemic Evaluation 2) trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "POISE-2 was a blinded, randomized trial of patients having non-cardiac surgery."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients undergoing vascular surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were assigned to perioperative aspirin or placebo."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this substudy was to determine whether there is a subgroup effect of initiating or continuing aspirin in patients undergoing vascular surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was a composite of death or myocardial infarction at 30 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "POISE-2 was a blinded, randomized trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 10 010 patients in POISE-2, 603 underwent vascular surgery, 319 in the continuation and 284 in the initiation stratum."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The primary outcome occurred in 13\u00b77 per cent of patients having aneurysm repair allocated to aspirin and 9\u00b70 per cent who had placebo"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The primary outcome occurred in 13\u00b77 per cent of patients having aneurysm repair allocated to aspirin and 9\u00b70 per cent who had placebo (hazard ratio (HR) 1\u00b748, 95 per cent c.i. 0\u00b771 to 3\u00b709)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There was no interaction for vascular occlusive complications ( P = 0\u00b7413) or bleeding ( P = 0\u00b7900) for vascular compared with non-vascular surgery."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT01082874 ( http://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

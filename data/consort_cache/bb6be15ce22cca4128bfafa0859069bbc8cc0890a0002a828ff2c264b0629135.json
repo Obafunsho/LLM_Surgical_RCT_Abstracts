@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Total Neoadjuvant Therapy with Chemoimmunotherapy in High-Risk pMMR Rectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This single-arm phase 2 trial was conducted at the Gastrointestinal Cancer Center, Peking University Cancer Hospital & Institute, from June 2020 to October 2021."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients with high-risk pMMR rectal cancer."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention included 3 cycles of induction oxaliplatin and capecitabine combined with camrelizumab, followed by radiotherapy (50.6 Gy in 22 fractions) with concurrent capecitabine."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the pathologic complete response rate, measured at the end of treatment."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable as this was a single-arm study."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable as this was a single-arm study."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 25 patients enrolled (19 men, 6 women; median age 58 years), 22 completed the TNT schedule."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The pathologic complete response rate was 33.3% (7/21)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The pathologic complete response rate was 33.3% (7/21)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The most common adverse event was nausea (80%); grade 3 toxic effects occurred in 36% of patients."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "3359406",
+  "sha256": "b8620afcf19992e5d97dd2fdd2d9a478a55d5ca0c6556c01d454f0e04c68bb5f",
+  "timestamp_utc": "2025-11-09T15:52:21.195559+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.942080592105263,
+    "reading_ease": 26.272491776315803,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: We sought to identify factors associated with death and cardiac transplantation in infants undergoing the Norwood procedure and to determine differences in associations that might favor either the modified Blalock-Taussig shunt (MBTS) or a right ventricle-to-pulmonary artery shunt (RVPAS)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Data from 549 subjects (follow-up, 2.7±0.9 years) were analyzed."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The RVPAS had better survival in the 51% who were full term with aortic atresia ( P <.001). The MBTS was better among the 4% who were preterm with a patent aortic valve ( P =.003)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 3,
+    "max_score": 25
+  }
+}

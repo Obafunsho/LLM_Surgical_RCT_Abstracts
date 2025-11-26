@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients with resected pancreatic ductal adenocarcinoma (PDA) received either gemcitabine (GEM) or 5-fluorouracil (5-FU) adjuvant monotherapy"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Tissue samples from 379 patients with PDA enrolled in the European Study Group of Pancreatic Cancer-3 trial"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients with resected pancreatic ductal adenocarcinoma (PDA) received either gemcitabine (GEM) or 5-fluorouracil (5-FU) adjuvant monotherapy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We tested cytoplasmic HuR (cHuR) as a predictive marker for response to chemotherapy"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "There was no association between cHuR expression and prognosis in the overall cohort"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Tissue samples from 379 patients with PDA"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Median DFS for patients with high cHuR was significantly greater for patients treated with 5-FU compared to GEM [20.1 months, confidence interval (CI): 8.3\u201336.4 vs 10.9 months, CI: 7.5\u201314.2; P = 0.04]"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

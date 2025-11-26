@@ -1,0 +1,74 @@
+{
+  "pmcid": "12345815",
+  "sha256": "c3652998cfec87760b71e999e4f55941c9a8767c88db4776e09784a0e2cdb3ed",
+  "timestamp_utc": "2025-11-09T15:37:28.614520+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.464285714285712,
+    "reading_ease": 26.519285714285758,
+    "word_count": 770
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "COSTO-EFECTIVIDAD DE LA LIGADURA CON BANDA ELÁSTICA VERSUS HEMORROIDECTOMÍA PARA EL TRATAMIENTO DE HEMORROIDES DE GRADO III: ANÁLISIS UTILIZANDO EVIDENCIA DEL ENSAYO HOLLAND CONTROLADO ALEATORIZADO"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "multicenter, randomized controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adults with symptomatic grade III hemorrhoids randomly assigned to receive rubber band ligation or hemorrhoidectomy treatment."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Rubber band ligation (up to 2 sessions) or excisional hemorrhoidectomy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the cost-effectiveness and cost-utility of rubber band ligation compared to hemorrhoidectomy from a societal perspective within the context of the HOLLAND trial."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Cost per quality-adjusted life year gained and cost per recurrence avoided over 24 months from a societal perspective."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seventy-nine patients were analyzed (33 for hemorrhoidectomy and 46 for rubber band ligation)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Seventy-nine patients were analyzed (33 for hemorrhoidectomy and 46 for rubber band ligation)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Hemorrhoidectomy resulted in better clinical outcomes with a quality-adjusted life year difference of 0.08 (95% CI, 0.04–0.13) and a recurrence difference of 33.5% (95% CI, 15.3%–51.7%)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT04621695"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

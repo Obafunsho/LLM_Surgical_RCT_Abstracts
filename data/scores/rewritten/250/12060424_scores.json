@@ -1,0 +1,74 @@
+{
+  "pmcid": "12060424",
+  "sha256": "26ef7abc2aa4606e4d1af516fb9908f5495f68f7efaf076e6375828245db27fc",
+  "timestamp_utc": "2025-11-09T22:13:52.050871+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.20372093023256,
+    "reading_ease": 18.75829457364344,
+    "word_count": 215
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Remote Ischaemic Conditioning in Orthopaedic Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Eligibility criteria included RCTs investigating RIC in fracture healing and orthopaedic surgery."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effects of RIC on outcomes following orthopaedic surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the effect of RIC on oxidative stress, measured immediately post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation methods varied"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "blinding was implemented in most clinical studies"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Sixteen clinical RCTs with 628 patients undergoing elective orthopaedic procedures showed significant reductions in oxidative stress and pain scores, and improved oxygenation."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not specified."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

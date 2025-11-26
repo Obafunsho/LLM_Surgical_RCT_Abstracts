@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This cohort study was a single-arm phase 2 trial"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients with high-risk, pMMR rectal cancer"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants received 3 cycles of induction oxaliplatin and capecitabine combined with camrelizumab and radiotherapy (50.6 Gy in 22 fractions) with concurrent capecitabine."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate the safety and efficacy of TNT with induction chemoimmunotherapy followed by long-course chemoradiation in patients with high-risk, pMMR rectal cancer"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary end point was pathologic complete response rate."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 25 patients enrolled"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "22 patients (88%) completed the TNT schedule."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The pathologic complete response rate was 33.3% (7/21)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The most common adverse event was nausea (80%, 20/25); grade 3 toxic effects occurred in 9 of 25 patients (36%)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

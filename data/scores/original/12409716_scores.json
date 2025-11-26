@@ -1,0 +1,74 @@
+{
+  "pmcid": "12409716",
+  "sha256": "6de3b2f00645409665ba90eba8b46c72a696142ef554617093c0fdc08aa3b3f4",
+  "timestamp_utc": "2025-11-09T15:40:12.955136+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.530056390977446,
+    "reading_ease": 31.012061403508795,
+    "word_count": 304
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The aim of the NEON (Nerve rEpair Or Not) study was to investigate whether microsurgical suture repair of lacerated digital nerves is superior to nerve alignment alone without suture repair."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A two-arm, parallel group, double-blind, multicentre RCT was undertaken over 2 years."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants with suspected unilateral digital nerve injury underwent surgical exploration and were randomized to microsurgical suture repair or nerve alignment alone."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants with suspected unilateral digital nerve injury underwent surgical exploration and were randomized to microsurgical suture repair or nerve alignment alone."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of the NEON (Nerve rEpair Or Not) study was to investigate whether microsurgical suture repair of lacerated digital nerves is superior to nerve alignment alone without suture repair."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Impact of Hand Nerve Disorders (I-HaND v2) patient-reported outcome measure (PROM) at 12 months post-randomization."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Both participants and assessors were blind to allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 122 adults were randomized to microsurgical suture repair ( n = 61) or nerve alignment alone ( n = 61)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Primary outcome data using the I-HaND (v2) were available for 106 participants (87%) at 12 months."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There were no statistically significant differences in I-HaND scores at all time points, including the 12-month primary end point (15.9 versus 20.2, P = 0.09; 95% c.i. [−0.9, 10.8])."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complications were similar at 6 weeks and 12 months."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration number: ISRCTN16211574"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: NIHR Health Technology Assessment (NIHR127807–18/37)."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

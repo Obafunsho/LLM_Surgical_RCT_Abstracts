@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Review of Randomised Controlled Trials in Thoracic Surgical Oncology"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The cohort was stratified by trial status, and characteristics were extracted, including start and completion dates, masking, and enrollment numbers."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Methods: The ClinicalTrials.gov database was queried in April 2023 to identify RCTs in patients with lung cancer undergoing surgery."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to understand the types of RCTs conducted in thoracic surgical oncology and their success rates."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Forty-four (64.7%) were open-label"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The mean enrollment was 236 patients (SD, 187)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The mean actual enrollment was lower than anticipated, with a 26% reduction in actual enrollment."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "ClinicalTrials.gov"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

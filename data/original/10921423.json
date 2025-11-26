@@ -1,0 +1,23 @@
+{
+  "pmcid": "10921423",
+  "pmid": "31792949",
+  "title": "Human IPSC-Derived PreBötC-like Neurons and Development of an Opiate Overdose and Recovery Model",
+  "abstract": "Opioid overdose is the leading cause of drug overdose lethality, posing an urgent need for investigation. The key brain region for inspiratory rhythm regulation and opioid-induced respiratory depression (OIRD) is the preBötzinger Complex (preBötC) and current knowledge has mainly been obtained from animal systems. This study aimed to establish a protocol to generate human preBötC neurons from induced pluripotent cells (iPSCs) and develop an opioid overdose and recovery model utilizing these iPSC-preBötC neurons. A de novo protocol to differentiate preBötC-like neurons from human iPSCs has been established. These neurons express essential preBötC markers analyzed by immunocytochemistry and demonstrate expected electrophysiological responses to preBötC modulators analyzed by patch clamp electrophysiology. The correlation of the specific biomarkers and function analysis strongly suggests a preBötC-like phenotype. Moreover, the dose-dependent inhibition of these neurons’ activity was demonstrated for four different opioids with identified IC50’s comparable to the literature. Inhibition was rescued by naloxone in a concentration dependent manner. This iPSC-preBötC mimic is crucial for investigating OIRD and combating the overdose crisis and a first step for the integration of a functional overdose model into microphysiological systems.",
+  "authors": [
+    "Xiufang Guo",
+    "Nesar Akanda",
+    "Gabriella Fiorino",
+    "Siddharth Nimbalkar",
+    "Christopher J. Long",
+    "Alisha Colon",
+    "Aakash Patel",
+    "Patrick J. Tighe",
+    "James J. Hickman"
+  ],
+  "journal": "Advanced biology",
+  "year": "2024",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

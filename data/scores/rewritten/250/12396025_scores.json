@@ -1,0 +1,74 @@
+{
+  "pmcid": "12396025",
+  "sha256": "a2d75a391784fd5cc980d2a924355d4a13dcb90679d9b469b98e554fddba1981",
+  "timestamp_utc": "2025-11-09T22:24:36.157379+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.527983193277315,
+    "reading_ease": 30.178781512605042,
+    "word_count": 238
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Pulmonary Endarterectomy for Chronic Thromboembolic Pulmonary Hypertension"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised controlled trial was conducted at four high-volume CTEPH centers."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults diagnosed with operable CTEPH."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group underwent PEA, while the control group received standard medical therapy."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in pulmonary vascular resistance (PVR) measured at 6 months post-intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the PEA group and 100 to the control group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "In the intention-to-treat analysis, 98 participants in the PEA group and 97 in the control group were analysed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The PEA group showed a significant reduction in PVR compared to the control group (mean difference = 5.2 mm Hg, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 3/100 (3%) of the PEA group and 1/98 (1%) of the control group, with mild gastrointestinal side-effects."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

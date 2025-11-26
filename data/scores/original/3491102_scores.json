@@ -1,0 +1,74 @@
+{
+  "pmcid": "3491102",
+  "sha256": "aadecb0a85a16b2af026f730c50d3eebf47f53ae454c21ef7d6ed992cbd3098b",
+  "timestamp_utc": "2025-11-09T15:52:47.475727+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.193133603238866,
+    "reading_ease": 22.63388394062082,
+    "word_count": 247
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Fifty patients selected for increased risk of left ventricular dysfunction after cardiac surgery and randomized to temporary biventricular pacing or standard of care (no pacing)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Fifty patients selected for increased risk of left ventricular dysfunction after cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to temporary biventricular pacing or standard of care (no pacing)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: Vasoactive medications improve hemodynamics after cardiac surgery but are associated with high metabolic and arrhythmic burdens."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Vasoactive agents were assessed after cardiopulmonary bypass, after sternal closure, and 0–7 hours after admission to the intensive care unit."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized to temporary biventricular pacing or standard of care (no pacing)"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Fifty patients selected for increased risk of left ventricular dysfunction after cardiac surgery and randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "mean vasoactive-inotropic score decreased in the biventricular pacing group from 12.0±1.5 to 10.5±2.0 and increased in the standard of care group from 12.5±1.9 to 15.5±2.9."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

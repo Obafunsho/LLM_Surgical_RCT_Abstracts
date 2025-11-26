@@ -1,0 +1,74 @@
+{
+  "pmcid": "12416896",
+  "sha256": "e556a241af46887a9aecfae9db7178f40b901abcc55a7b65fb25a5ceef8e990e",
+  "timestamp_utc": "2025-11-09T15:40:46.270139+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.695418181818187,
+    "reading_ease": 38.62170909090909,
+    "word_count": 250
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this multicenter, double-blinded randomized controlled trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this multicenter, double-blinded randomized controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adults undergoing major cardiac, thoracic, or abdominal surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive either gabapentin (600 mg before surgery, 300 mg twice daily for 2 days after surgery) or placebo"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was length of hospital stay."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 1,196 participants were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "596 were allocated to placebo, and 600 were allocated to gabapentin"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "hazard ratio, 1.07; 95% CI, 0.95 to 1.20; P = 0.26"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "384 participants experienced one or more serious adverse events"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

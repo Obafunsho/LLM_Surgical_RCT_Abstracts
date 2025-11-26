@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Effects of CPB-Induced Shear Stress on Monocyte-Endothelial Interactions"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This in vitro randomised controlled trial used THP-1 monocyte-like cells and human neonatal dermal microvascular endothelial cells (HNDMVECs)."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "THP-1 cells were subjected to shear stress in polyvinyl chloride tubing at 2.1 Pa for 2 hours."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the impact of CPB-induced shear stress on monocyte-endothelial interactions."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the level of IL-8 production and monocyte adhesion, measured over 6 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Sheared THP-1 cells showed increased adhesion and transmigration through the HNDMVEC monolayer compared to static controls."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Preoperative Home-Based Exercise Training on Quality of Life After Lung Cancer Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients aged \u226518 years with confirmed or suspected lung malignancy (stage IIIA or lower) were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged \u226518 years with confirmed or suspected lung malignancy (stage IIIA or lower) were randomised 1:1 to PHET or control group (CG)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "PHET included aerobic and resistance exercises with weekly telephone supervision. The primary outcome was QoL, assessed using the EORTC QLQ-C30 at baseline, before surgery, and 1 month post-surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the effect of preoperative home-based exercise training (PHET) on quality of life (QoL) after lung cancer surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was QoL, assessed using the EORTC QLQ-C30 at baseline, before surgery, and 1 month post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation used a computer-generated sequence with allocation concealment in sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between September 2022 and May 2023, 46 patients were randomised (23 to each group)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Intention-to-treat analysis included 41 patients (20 PHET, 21 CG)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "PHET showed statistically and clinically significant improvements in global QoL before (mean difference [MD], 13.5; 95% CI, 2.4\u201324.6; p = 0.019) and after surgery (MD, 12.4; 95% CI, 1.3\u201323.4; p = 0.029)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with no serious events reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT05469425."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

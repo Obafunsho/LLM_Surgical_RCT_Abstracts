@@ -1,0 +1,74 @@
+{
+  "pmcid": "6190910",
+  "sha256": "d9200460fe1b2a33b902bfd2db2b8b8bce0c215824dbd12324da68cd3bd76e31",
+  "timestamp_utc": "2025-11-09T16:07:36.835454+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.834939309056956,
+    "reading_ease": 34.8029411764706,
+    "word_count": 306
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients undergoing colorectal surgery at a cancer centre"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention included 13 components related to: bowel preparation; oral and intravenous antibiotic selection and administration; skin preparation, disinfection and hygiene; maintenance of normothermia during surgery; and use of clean instruments for closure."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To reduce the high rate of SSI among patients undergoing colorectal surgery at a cancer centre, a comprehensive care bundle was implemented and its efficacy tested."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "SSI rates declined from 11·0 to 4·1 per cent following implementation of the intervention bundle ( P = 0·001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Lesser Occipital and Greater Auricular Nerve Block for Analgesia in Vestibular Schwannoma Craniotomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this prospective, double-blind, randomised controlled trial, 62 patients aged 18-64 years were enrolled at Tongji Hospital, China."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "62 patients aged 18-64 years were enrolled at Tongji Hospital, China."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either LOGAB with 5 ml of 0.5% ropivacaine (n=31) or normal saline (n=31)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the analgesic efficacy and safety of ultrasound-guided lesser occipital nerve block combined with greater auricular nerve block (LOGAB) in patients undergoing vestibular schwannoma resection via a suboccipital retrosigmoid approach."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the numeric rating scale (NRS) scores at rest and motion within 48 hours post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed in sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, outcome assessors, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "62 patients aged 18-64 years were enrolled at Tongji Hospital, China."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "A total of 59 patients were analysed (30 in LOGAB group, 29 in control group) using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "NRS scores at rest were significantly lower in the LOGAB group compared to control (mean difference = 1.4, 95% CI 0.9 to 1.9; p=0.002)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2000038798."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "4306537",
+  "sha256": "eeeb24ec0d50f1578643628c081191437cbf3bd2b5cc70a499c2e690f836a85e",
+  "timestamp_utc": "2025-11-09T15:58:35.653968+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.283801801801804,
+    "reading_ease": 40.52381081081083,
+    "word_count": 222
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This trial evaluated the efficiency and quality of a conventional method and a methylene blue–assisted method in a randomized manner."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Between August 2012 and December 2012, 60 patients were assigned to undergo treatment using the conventional method (n=29) and the methylene blue dye method (n=31)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The key eligibility criteria were as follows: (i) histologically proven adenocarcinoma of the stomach; (ii) clinical stage I-III; (iii) R0 resection planned by gastrectomy with D1+ or D2 lymphadenectomy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This trial evaluated the efficiency and quality of a conventional method and a methylene blue–assisted method in a randomized manner."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial evaluated the efficiency and quality of a conventional method and a methylene blue–assisted method in a randomized manner."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the ratio of the pathologic number of harvested LNs per time (minutes) as an efficacy measure."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between August 2012 and December 2012, 60 patients were assigned to undergo treatment using the conventional method (n=29) and the methylene blue dye method (n=31)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The number of harvested LNs (mean±SD) was 33.6±11.9 in the conventional arm and 43.4±13.9 in the methylene blue arm ( P =0.005)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The number of harvested LNs (mean±SD) was 33.6±11.9 in the conventional arm and 43.4±13.9 in the methylene blue arm ( P =0.005). The ratio of the number of the harvested LNs per time was 1.12±0.46 LNs/min in the conventional arm and 1.49±0.59 LNs/min in the methylene blue arm ( P =0.010)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

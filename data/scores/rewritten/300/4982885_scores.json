@@ -1,0 +1,74 @@
+{
+  "pmcid": "4982885",
+  "sha256": "0799ff2685c3fea7b53373ae1fcd3146c9a0ade06b6edf35c87863b467bf29e1",
+  "timestamp_utc": "2025-11-09T23:55:55.702213+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.893397212543555,
+    "reading_ease": 21.534451219512192,
+    "word_count": 205
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "In this retrospective cohort study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients with T1 or T2 tumors without suspected lymph nodes, who underwent total mesorectal excision (TME), and those with suspected T3 or T4 disease or positive lymph nodes, who received lateral lymph node dissection (LLND)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Seventy-three patients underwent unilateral LLND, and 133 underwent bilateral LLND."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the risk factors and patterns of local recurrence in rectal carcinoma patients treated at the National Cancer Center Hospital, Tokyo, from 1993 to 2002."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The overall 5-year local recurrence rate was 6.6%. TME alone resulted in a 0.8% recurrence rate. In lymph-node-positive patients, the unilateral LLND group had a 33% local relapse rate, significantly higher than the 14% in the bilateral LLND group (p = 0.04)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

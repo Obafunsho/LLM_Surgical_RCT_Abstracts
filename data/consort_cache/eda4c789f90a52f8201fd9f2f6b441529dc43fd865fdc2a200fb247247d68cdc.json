@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Oblique and Brachy Axis Approaches for Continuous Adductor Canal Block in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This single-center, randomized, parallel-group, double-blind trial involved 90 patients undergoing unilateral TKA."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "90 patients undergoing unilateral TKA."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive ultrasound-guided CACB using either the OA or BA."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the oblique approach (OA) versus the brachy axis approach (BA) for CACB, focusing on analgesic outcomes and adverse reactions."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the exercise maximum visual analog scale (VAS) score at 72 hours post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, with allocation concealed in opaque envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was maintained for patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ninety participants were randomized: 45 to the OA group and 45 to the BA group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The OA group demonstrated significantly lower exercise VAS scores at 72 hours (p < 0.05) and a reduced incidence of adverse reactions compared to the BA group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse reactions were more frequent in the BA group, including swelling and pain at the catheter site."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: Chinese Clinical Trial Registry: ChiCTR2200059889."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12302991",
+  "sha256": "3d1e76f159a1fa0018e9451bb1e6857a5e0b687a15a27ace26a87820186d7bfe",
+  "timestamp_utc": "2025-11-09T23:32:29.165194+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.286046511627909,
+    "reading_ease": 18.168062015503892,
+    "word_count": 258
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "The study did not provide details on trial registration, randomization, blinding, or funding sources."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective cohort study was conducted at a single academic institution."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "involving patients who underwent open surgery for gynecologic malignancies using ERAS protocols from March 2016 to December 2018."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were categorized into two cohorts based on the presence or absence of postoperative AKI within 30 days."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of this study was to compare the development of long-term chronic kidney disease (CKD) and cardiac conditions postoperatively among patients who did and did not develop acute kidney injury (AKI) following open ERAS surgery for gynecologic malignancy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the 36-month cumulative incidence of CKD."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "The study did not provide details on trial registration, randomization, blinding, or funding sources."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "The study did not provide details on trial registration, randomization, blinding, or funding sources."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "The study did not provide details on trial registration, randomization, blinding, or funding sources."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Out of 378 patients, 51 (13.5%) developed postoperative AKI."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Univariate analysis showed that AKI was associated with CKD (HR=2.17, 95% CI 1.22–3.84)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "The study did not provide details on trial registration, randomization, blinding, or funding sources."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The study did not provide details on trial registration, randomization, blinding, or funding sources."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "The study did not provide details on trial registration, randomization, blinding, or funding sources."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Gastric Partitioning versus Gastrojejunostomy for Malignant Gastric Outlet Obstruction"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients aged 18-85 with obstructive, unresectable distal gastric adenocarcinoma were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 18-85 with obstructive, unresectable distal gastric adenocarcinoma were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compared gastric partitioning with gastrojejunostomy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "compared gastric partitioning with gastrojejunostomy for managing gastric outlet obstruction"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the acceptance of a full diet (GOOS 3) at discharge"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealed until after consent"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "The trial was open-label, with no blinding of participants or clinicians"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From August 2013 to April 2020, 90 patients were randomised: 46 to gastrojejunostomy and 44 to gastric partitioning"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "25 in the gastrojejunostomy group and 27 in the partitioning group were analysed per-protocol"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Acceptance of a normal diet was higher in the partitioning group (96% vs. 72%; p = 0.022)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The partitioning group had more frequent red blood cell transfusions (81% vs. 52%; p = 0.024)"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT02065803, clinicaltrials.gov"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

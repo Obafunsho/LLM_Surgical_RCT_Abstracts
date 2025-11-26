@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Sanguineous vs. Crystalloid CPB Prime in Pediatric Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "pediatric patients undergoing cardiac surgery with CPB were grouped by CPB prime type"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Forty pediatric patients were enrolled at IWK Health Centre, Halifax, Canada, between August 2020 and June 2021. Eligibility criteria included weight <30 kg and exclusion of severe hematologic or multi-organ conditions."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Sanguineous prime (n=26) vs. crystalloid prime (n=14)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Primary outcome was the concentration of inflammatory mediators at CPB initiation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Forty pediatric patients were enrolled at IWK Health Centre, Halifax, Canada, between August 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Sanguineous prime (n=26) vs. crystalloid prime (n=14)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Upon CPB initiation, patients receiving sanguineous prime exhibited significantly higher levels of C2, C3, C3b, C5, and C5a (p<0.001) compared to the crystalloid group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT05154864"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

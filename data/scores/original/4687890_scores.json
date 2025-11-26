@@ -1,0 +1,74 @@
+{
+  "pmcid": "4687890",
+  "sha256": "d0b01079142a348ecf98294ef0de26f336a8c10785ae9d65323b528b2566c41e",
+  "timestamp_utc": "2025-11-09T16:00:15.641777+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 19.168551236749114,
+    "reading_ease": -3.5929247078009894,
+    "word_count": 283
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients randomized to repair (n = 126) or replacement (n = 125)"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients randomized to repair (n = 126) or replacement (n = 125)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We examined whether baseline echocardiographic and clinical characteristics could identify those who will develop moderate/severe recurrent mitral regurgitation or die."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "no difference in the primary end point of left ventricular end-systolic volume index at 1 year postsurgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "patients randomized to repair (n = 126) or replacement (n = 125)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Our analysis includes 116 patients who were randomized to and received mitral valve repair."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "patients undergoing repair experienced significantly more recurrent mitral regurgitation than patients undergoing replacement (32.6% vs 2.3%)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

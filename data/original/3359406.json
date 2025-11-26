@@ -1,0 +1,33 @@
+{
+  "pmcid": "3359406",
+  "pmid": "22341427",
+  "title": "INTERMEDIATE-TERM MORTALITY AND CARDIAC TRANSPLANTATION IN INFANTS WITH SINGLE-VENTRICLE LESIONS: RISK FACTORS AND THEIR INTERACTION WITH SHUNT TYPE",
+  "abstract": "Objectives: We sought to identify factors associated with death and cardiac transplantation in infants undergoing the Norwood procedure and to determine differences in associations that might favor either the modified Blalock-Taussig shunt (MBTS) or a right ventricle-to-pulmonary artery shunt (RVPAS).\n\nMethods: We used competing risks methodology to analyze death without transplantation, cardiac transplantation, and survival without transplantation. Parametric time-to-event modeling and bootstrapping were used to identify independent predictors.\n\nResults: Data from 549 subjects (follow-up, 2.7±0.9 years) were analyzed. Mortality risk was characterized by early and constant phases; transplant was characterized by only a constant phase. Early phase factors associated with death included lower socioeconomic status (SES; P =.01), obstructed pulmonary venous return ( P <.001), smaller ascending aorta ( P =.02), and anatomic subtype. Constant phase factors associated with death included genetic syndrome ( P <.001) and lower gestational age (GA, P <.001). The RVPAS had better survival in the 51% who were full term with aortic atresia ( P <.001). The MBTS was better among the 4% who were preterm with a patent aortic valve ( P =.003). Lower pre-Norwood right ventricular fractional area change, pre-Norwood surgery, and anatomy other than hypoplastic left heart syndrome were independently associated with transplantation (all P <.03); but shunt type was not ( P =.43).\n\nConclusions: Independent risk factors for intermediate-term mortality include lower SES, anatomy, genetic syndrome, and lower GA. Term infants with aortic atresia benefited from a RVPAS and preterm infants with a patent aortic valve benefited from a MBTS. Right ventricular function and anatomy, but not shunt type, were associated with transplantation.",
+  "authors": [
+    "James S. Tweddell",
+    "Lynn A. Sleeper",
+    "Richard G. Ohye",
+    "Ismee A. Williams",
+    "Lynn Mahony",
+    "Christian Pizarro",
+    "Victoria L. Pemberton",
+    "Peter C. Frommelt",
+    "Scott M. Bradley",
+    "James F. Cnota",
+    "Jennifer Hirsch",
+    "Paul Kirshbom",
+    "Jennifer S. Li",
+    "Nancy Pike",
+    "Michael Puchalski",
+    "Chitra Ravishankar",
+    "Jeffrey P. Jacobs",
+    "Peter C. Laussen",
+    "Brian W. McCrindle"
+  ],
+  "journal": "The Journal of Thoracic and Cardiovascular Surgery",
+  "year": "2012",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

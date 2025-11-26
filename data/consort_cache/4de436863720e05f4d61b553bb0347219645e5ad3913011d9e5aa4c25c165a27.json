@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this randomized clinical trial, treatment with NCRT plus surgery significantly improved long-term overall survival and disease-free survival and therefore may be considered a standard of care for patients with locally advanced ESCC."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The Neoadjuvant Chemoradiotherapy for Esophageal Cancer 5010 study was a multicenter open-label randomized phase 3 clinical trial that enrolled patients between June 1, 2007, and December 31, 2014."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A total of 451 patients aged 18 to 70 years with thoracic ESCC stage T1-4N1M0/T4N0M0 were enrolled and randomized."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients randomized to receive NCRT plus surgery (NCRT group) received preoperative chemotherapy... followed by surgery. Patients randomized to receive surgery alone (surgery group) underwent surgery after randomization."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To compare the treatment efficacy of NCRT plus surgery with surgery alone for long-term survival among patients with locally advanced ESCC."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary end point was overall survival in the intention-to-treat population."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "A total of 451 patients... were enrolled and randomized."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "The Neoadjuvant Chemoradiotherapy for Esophageal Cancer 5010 study was a multicenter open-label randomized phase 3 clinical trial."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 451 patients... were enrolled and randomized."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "A total of 451 patients... were eligible for the intention-to-treat analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients receiving NCRT plus surgery had prolonged overall survival compared with those receiving surgery alone (hazard ratio, 0.74; 95% CI, 0.57-0.97; P =\u2009.03), with a 5-year survival rate of 59.9% (95% CI, 52.9%-66.1%) vs 49.1% (95% CI, 42.3%-55.6%), respectively."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT01216527"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "4633023",
+  "sha256": "8c7ec2a97ae43743b34994c23991725d1b63fd792b71ec587ebd4e89fc171955",
+  "timestamp_utc": "2025-11-09T23:54:32.720980+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.05143145670285,
+    "reading_ease": 25.902070184296917,
+    "word_count": 233
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Ventral and Dorsal Surgical Approaches for Cervical Spondylotic Myelopathy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this multicenter randomised controlled trial, 250 patients with CSM were recruited from 11 sites over 18 months."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Eligibility criteria included [insert criteria]."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either ventral surgery or dorsal surgery (laminectomy/fusion or laminoplasty)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare the outcomes of ventral versus dorsal surgical approaches for CSM."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Short Form-36 Physical Component Summary (PCS) score at one-year follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 250 participants, 159 were randomised: 80 to ventral and 79 to dorsal surgery."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "The mean difference in SF-36 PCS scores between the ventral and dorsal groups was [insert effect size], 95% CI [insert CI]; p = [insert p-value]."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in [insert number] of the ventral group and [insert number] of the dorsal group, with [insert severity]."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [insert registration number]."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: NIH (1R13AR065834-01) and PCORI (CE-1304-6173)."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

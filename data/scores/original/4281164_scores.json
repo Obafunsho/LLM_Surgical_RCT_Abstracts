@@ -1,0 +1,74 @@
+{
+  "pmcid": "4281164",
+  "sha256": "97b20ffead542adaaa74bdad1a410c0e67147a4ce2d7ab2f0cb8c17d13327c10",
+  "timestamp_utc": "2025-11-09T15:58:27.698420+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.686748768472906,
+    "reading_ease": 35.87074712643678,
+    "word_count": 290
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We conducted a randomized and unblinded 2×2 sequential-factorial trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We conducted a randomized and unblinded 2×2 sequential-factorial trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients (n=180) received 6 mg/kg rATG"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing single-dose (SD) versus divided-dose rabbit antithymocyte globulin (rATG)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We report the long-term safety and efficacy of SD-rATG induction"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Primary endpoints were renal function (abbreviated modification of diet in renal disease) and chronic graft histopathology (Banff)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "randomized and unblinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Patients (n=180) received 6 mg/kg rATG"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The SD-rATG associated with improved renal function (2-36 months; P <0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "fewer infections"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

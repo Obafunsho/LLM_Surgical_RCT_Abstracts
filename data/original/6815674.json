@@ -1,0 +1,30 @@
+{
+  "pmcid": "6815674",
+  "pmid": "27893535",
+  "title": "Cytoplasmic HuR Status Predicts Disease-free Survival in Resected Pancreatic Cancer",
+  "abstract": "Objectives: We tested cytoplasmic HuR (cHuR) as a predictive marker for response to chemotherapy by examining tumor samples from the international European Study Group of Pancreatic Cancer-3 trial, in which patients with resected pancreatic ductal adenocarcinoma (PDA) received either gemcitabine (GEM) or 5-fluorouracil (5-FU) adjuvant monotherapy.\n\nBackground: Previous studies have implicated the mRNA-binding protein, HuR ( ELAVL1 ), as a predictive marker for PDA treatment response in the adjuvant setting. These studies were, however, based on small cohorts of patients outside of a clinical trial, or a clinical trial in which patients received multimodality therapy with concomitant radiation.\n\nMethods: Tissue samples from 379 patients with PDA enrolled in the European Study Group of Pancreatic Cancer-3 trial were immunolabeled with an anti-HuR antibody and scored for cHuR expression. Patients were dichotomized into groups of high versus low cHuR expression.\n\nResults: There was no association between cHuR expression and prognosis in the overall cohort [disease-free survival (DFS), P = 0.44; overall survival, P = 0.41). Median DFS for patients with high cHuR was significantly greater for patients treated with 5-FU compared to GEM [20.1 months, confidence interval (CI): 8.3–36.4 vs 10.9 months, CI: 7.5–14.2; P = 0.04]. Median DFS was similar between the treatment arms in patients with low cHuR (5-FU, 12.8 months, CI: 10.6–14.6 vs GEM, 12.9 months, CI: 11.2–15.4).\n\nConclusions: Patients with high cHuR-expressing tumors may benefit from 5-FU-based adjuvant therapy as compared to GEM, whereas those patients with low cHuR appear to have no survival advantage with GEM compared with 5-FU. Further studies are needed to validate HuR as a biomarker in both future monotherapy and multiagent regimens.",
+  "authors": [
+    "Talar Tatarian",
+    "Wei Jiang",
+    "Benjamin E. Leiby",
+    "Amanda Grigoli",
+    "Masaya Jimbo",
+    "Nooreen Dabbish",
+    "John P. Neoptolemos",
+    "William Greenhalf",
+    "Eithne Costello",
+    "Paula Ghaneh",
+    "Christopher Halloran",
+    "Daniel Palmer",
+    "Markus Buchler",
+    "Charles J. Yeo",
+    "Jordan M. Winter",
+    "Jonathan R. Brody"
+  ],
+  "journal": "Annals of surgery",
+  "year": "2018",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Cost-Effectiveness of Early Surgical Microdiscectomy for Chronic Lumbar Radiculopathy: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Participants with lumbar disc herniation and symptoms lasting 4 to 12 months were randomised to early surgery or nonoperative care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants with lumbar disc herniation and symptoms lasting 4 to 12 months were randomised to early surgery or nonoperative care."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to early surgery or nonoperative care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial (RCT) evaluated the cost-effectiveness of early surgical microdiscectomy compared to 6 months of nonoperative care for chronic lumbar radiculopathy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incremental cost-utility ratio (ICUR), expressed as cost per quality-adjusted life year (QALY) gained, measured over a 2-year period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 100 to early surgery and 100 to nonoperative care."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was performed on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Early surgery resulted in higher costs (CAD 4118) compared to nonoperative care (CAD 2377) but yielded better health outcomes (1.48 QALYs vs. 1.30 QALYs). The ICUR was CAD 5822 per QALY gained."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

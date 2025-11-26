@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients between 18 and 60 years of age with an acute anterior shoulder dislocation were randomly allocated into 2 groups."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study was carried out at the emergency department of a tertiary referral center. Patients between 18 and 60 years of age with an acute anterior shoulder dislocation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "In 1 group the emergency doctor actively guided the reduction process with the Spaso technique (Sp group), and in the other group the patient used the Boss-Holzach-Matter (also known as Davos or Aronen) self-reduction technique (BHM group)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of this study was to compare the pain experienced by a patient performing a self-reduction technique with the pain felt during a reduction performed by a trained physician."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The pain experienced by the patient during the reduction was recorded by means of a visual analogue scale (VAS) ranging from 0 to 10."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients between 18 and 60 years of age with an acute anterior shoulder dislocation were randomly allocated into 2 groups."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Sixty acute anterior shoulder dislocations were randomized into the Sp group (n = 30) or the BHM group (n = 30)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Sixty acute anterior shoulder dislocations were randomized into the Sp group (n = 30) or the BHM group (n = 30)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The BHM group experienced significantly less pain during reduction than the Sp group (p = 0.047), with mean pain scores of 3.57 (standard deviation [SD] = 2.1]) and 5.26 (SD = 2.9), respectively."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

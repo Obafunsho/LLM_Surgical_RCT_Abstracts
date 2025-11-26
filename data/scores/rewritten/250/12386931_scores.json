@@ -1,0 +1,74 @@
+{
+  "pmcid": "12386931",
+  "sha256": "a4e7107e1b32df25b05d69f9c419de0a3488863c38f9cb441823534e3709eb17",
+  "timestamp_utc": "2025-11-09T22:24:19.745347+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.148324646314226,
+    "reading_ease": 25.626478034251676,
+    "word_count": 237
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Multimodal Analgesia in VATS"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were divided into two groups: the opioid-sparing (OS) group receiving PVB and ketamine (n = 41), and the control group treated with postoperative morphine infusion (n = 21)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adult patients undergoing VATS lung resection at the University Hospital of Siena"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "the opioid-sparing (OS) group receiving PVB and ketamine (n = 41), and the control group treated with postoperative morphine infusion (n = 21)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of a multimodal analgesia protocol incorporating paravertebral block (PVB) and ketamine infusion in reducing postoperative opioid consumption in patients undergoing video-assisted thoracic surgery (VATS)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the need for rescue opioid therapy within 48 hours post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "the opioid-sparing (OS) group receiving PVB and ketamine (n = 41), and the control group treated with postoperative morphine infusion (n = 21)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Rescue opioid administration was significantly lower in the OS group (19.5% vs. 47.6%, p = 0.021)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No differences in haemodynamics or ketamine/PVB-related complications were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

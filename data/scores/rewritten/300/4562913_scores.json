@@ -1,0 +1,74 @@
+{
+  "pmcid": "4562913",
+  "sha256": "c10cf3fb4b50cee2bbd60189bcce6b73c9379cbe17620023227ee22398675ebd",
+  "timestamp_utc": "2025-11-09T23:54:05.480946+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.86827586206897,
+    "reading_ease": 20.25046419098146,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Conducted as a prospective cohort study from 2009 to 2011"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "11 patients with juxtaarticular osteosarcoma of the proximal tibia (mean age, 12 years; range, 9–16 years) were included. Eligibility criteria were a tumor edge to articular surface distance of 10 to 15 mm, good chemotherapy response, absence of pathologic fracture, and no major neurovascular involvement."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved transepiphysis tumor resection with navigation-assisted microwave ablation, followed by reconstruction using allograft and a vascularized fibula flap."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the effectiveness of joint-preserving tumor resection for juxtaarticular osteosarcoma after microwave ablation of the tumor edge under navigation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was local tumor control, assessed over the follow-up period."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "11 patients with juxtaarticular osteosarcoma of the proximal tibia (mean age, 12 years; range, 9–16 years) were included."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No local recurrences were observed. Functional outcomes, measured by the Musculoskeletal Tumor Society score, ranged from 26 to 30, with a mean of 29."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Major complications included osteonecrosis of part of the epiphysis in two patients and deep infection in one."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tailored Negative Pressure Wound Therapy in Patients with Microangiopathy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised controlled trial was conducted in a tertiary care hospital."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included obese patients with type 2 diabetes and arterial hypertension who developed severe SSIs post-abdominal surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received tailored NPWT based on the ANSWER score, while the control group received standard NPWT at -125 mmHg."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates tailored negative pressure wound therapy (NPWT) settings to optimize wound healing in this subgroup."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was wound healing rate over 90 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 60 participants were randomised, with 30 in each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 60 participants were randomised, with 30 in each group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "resulting in significantly fewer necrotic areas and improved healing rates compared to the control group (mean difference = 15%, 95% CI 10% to 20%; p < 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild and occurred in 2/30 (7%) of the intervention group and 3/30 (10%) of the control group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by the National Institute of Health."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

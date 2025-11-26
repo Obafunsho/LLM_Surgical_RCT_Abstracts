@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "327 patients with FIGO stage IIIB\u2013IV epithelial ovarian cancer (EOC) who underwent primary or interval CRS were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "327 patients with FIGO stage IIIB\u2013IV epithelial ovarian cancer (EOC) who underwent primary or interval CRS"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to either surgery with neutral argon plasma (PlasmaJet) (intervention) or without PlasmaJet (control group)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We investigated whether adjuvant use of a neutral argon plasma device can help increase the complete cytoreduction rate."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the percentage of complete CRS."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "327 patients with FIGO stage IIIB\u2013IV epithelial ovarian cancer (EOC)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Complete CRS was achieved in 119 patients (75.8%) in the intervention group and 115 patients (67.6%) in the control group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Complete CRS was achieved in 119 patients (75.8%) in the intervention group and 115 patients (67.6%) in the control group (risk difference (RD) 8.2%, 95% confidence interval (CI) \u20130.021 to 0.181; P = 0.131)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Register NL62035.078.17"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funded by ZonMw"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "4626302",
+  "sha256": "50097ac7bf24b365c8c7eb9a139c67426d039ecfb74ae5db1d658739a8e65da3",
+  "timestamp_utc": "2025-11-09T23:54:19.171783+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.092010178117047,
+    "reading_ease": 19.955004240882147,
+    "word_count": 262
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of a Decision Aid for Smoking Cessation in Elective Surgery Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A randomised, two-group pilot study was conducted"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were smokers preparing for elective surgery, with eligibility criteria including current smoking status and scheduled elective surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The decision aid, consisting of three laminated cards, was designed to facilitate discussions on continuing smoking, temporary abstinence, or quitting smoking."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate a decision aid for discussing smoking behavior change options before and after elective surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was decisional quality, measured using the Decisional Conflict and OPTION scales over a preoperative period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed at the patient level, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Neither patients nor clinicians were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 130 patients were randomised: 65 to the decision aid group and 65 to usual care, recruited over a specified period."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The decision aid significantly improved decisional quality (Cohen’s d = 0.76) and patient involvement (Cohen’s d = 1.20) compared to usual care (p < 0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

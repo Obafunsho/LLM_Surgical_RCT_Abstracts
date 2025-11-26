@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Delayed Autologous Treg Therapy in Kidney Transplant Recipients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomized to receive either Treg therapy at 26 weeks post-transplantation with tacrolimus weaning or standard immunosuppression with tacrolimus and mycophenolate mofetil."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at a single center in the UK, eligible participants were first-time kidney transplant recipients."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized to receive either Treg therapy at 26 weeks post-transplantation with tacrolimus weaning or standard immunosuppression with tacrolimus and mycophenolate mofetil."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective was to assess whether this approach could facilitate safe immunosuppression minimization to tacrolimus monotherapy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was graft survival and acute rejection-free survival within 18 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seven participants were randomized, with three receiving Treg therapy."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All participants completed the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Graft survival was 100% in both groups, and acute rejection-free survival was 100% in the Treg group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN11038572."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by institutional grants."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

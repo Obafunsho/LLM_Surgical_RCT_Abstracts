@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this two-centre randomized controlled trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this two-centre randomized controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients undergoing major abdominal surgery anticipated to experience prolonged hyperglycemia"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "we contrasted subcutaneous FCL with UC glucose management"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the efficacy and safety of fully closed-loop (FCL) compared with usual care (UC) glucose control"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the proportion of time with sensor glucose values in a target range of 5.6 to 10.0 mmol/L."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Glucose control was assessed using continuous glucose monitoring (masked in the UC group)."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty-seven surgical patients (54% pancreas, 22% liver, 19% upper gastrointestinal, 5% lower gastrointestinal), of whom 18 received FCL and 19 UC glucose management"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "were included in the analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean \u00b1 SD percentage time with sensor glucose in the target range was 80.1% \u00b1 10.0% in the FCL and 53.7% \u00b1 19.7% in the UC group ( P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No study-related serious adverse events occurred."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

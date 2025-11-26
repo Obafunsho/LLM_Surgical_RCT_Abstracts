@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "We performed a retrospective cohort study considering 70 patients who underwent elective lobectomy, segmentectomy, or wedge resection surgery with a mini-thoracotomy approach or video-assisted thoracoscopic surgery (VATS)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "70 patients who underwent elective lobectomy, segmentectomy, or wedge resection surgery with a mini-thoracotomy approach or video-assisted thoracoscopic surgery (VATS)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "46 patients received dexamethasone at induction."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study is to evaluate the efficacy of dexamethasone as an analgesic adjuvant in minimally invasive thoracic surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcome was morphine consumption 24\u2009h after surgery; secondary outcomes were pain control, measured as numeric rating scale (NRS), glycemic changes, PONV, and surgical wound infection."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "70 patients who underwent elective lobectomy, segmentectomy, or wedge resection surgery"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "There were no significant differences in morphine consumption at 24\u2009h ( p = 0.09) and in postoperative pain scores."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No cases of surgical wound infections were detected, and the incidence of PONV was similar in the two groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

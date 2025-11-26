@@ -1,0 +1,74 @@
+{
+  "pmcid": "10416686",
+  "sha256": "b4f2ebef4f4ce99357ec2b2280dd9853be10aa6fb9354463f0e1cd4ebc17e5e1",
+  "timestamp_utc": "2025-11-09T15:08:44.032789+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.462563718140931,
+    "reading_ease": 35.33924287856075,
+    "word_count": 290
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned (1 : 1)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "women with breast cancer who underwent axillary lymph node dissection"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "to receive either drainage or a polyethylene glycol-coated patch as postoperative management"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to compare the clinical outcomes between breast cancer patients who underwent axillary lymph node dissection with postoperative management using a polyethylene glycol-coated patch versus axillary drainage."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoints were the need for an emergency department visit for any event related to the surgery and the rate of seroma development."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned (1 : 1)"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 227 patients were included , 115 in the patch group (50.7 per cent) and 112 (29.4 per cent ) in the drainage group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The incidence of emergency department visits was significantly greater for patients with drainage versus a polyethylene glycol-coated patch (incidence rate difference 26.1 per cent, 95 per cent c.i. 14.5 to 37.7 per cent; P < 0.001). Conversely, the seroma rate was significantly higher in the polyethylene glycol-coated patch group (incidence rate difference 22.8 per cent, 95 per cent c.i. 6.7 to 38.9 per cent; P < 0.0055)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov identifier: NCT04487561"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

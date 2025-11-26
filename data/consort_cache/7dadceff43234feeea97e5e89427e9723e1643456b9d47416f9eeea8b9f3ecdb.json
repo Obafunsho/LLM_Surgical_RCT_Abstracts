@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Surgical vs. Medical Treatment for Type 2 Diabetes Mellitus: Long-term Patient Reported Outcomes"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to Roux-en-Y gastric bypass (RYGB), sleeve gastrectomy (SG), or intensive medical therapy (IMT)."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to Roux-en-Y gastric bypass (RYGB), sleeve gastrectomy (SG), or intensive medical therapy (IMT)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The STAMPEDE trial aimed to evaluate the long-term effects of surgical and medical treatments on patient-reported outcomes (PROs) in patients with type 2 diabetes mellitus (T2DM) and obesity."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "completed RAND-36, EQ-5D-3L, and a diabetes-specific instrument at baseline and annually for 5 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 104 participants were randomised: 35 to RYGB, 35 to SG, and 34 to IMT."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "All participants were included in the analysis using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "RYGB and SG significantly improved physical functioning, general health perception, energy/fatigue, and diabetes-related QoL compared to IMT."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

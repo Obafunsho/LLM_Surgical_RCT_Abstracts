@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Computer-Assisted Versus Conventional Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed at the knee level"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients scheduled for bilateral TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "One knee was operated on using computer navigation, and the other without"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether computer-assisted total knee arthroplasty (TKA) improves clinical outcomes"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Knee Society knee score, measured at a mean follow-up of 15 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed at the knee level, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Both patients and assessors were blinded to treatment assignment"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "296 patients undergoing same-day bilateral TKA were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "A total of 282 patients (95%) were analysed using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "No significant differences were found between the computer-assisted and conventional TKA groups in Knee Society knee scores (92 \u00b1 8 vs. 93 \u00b1 7; p = 0.461)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Anterior femoral notching occurred in 11 knees (4%) in the computer-assisted group and none in the conventional group (p = 0.046)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not provided."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

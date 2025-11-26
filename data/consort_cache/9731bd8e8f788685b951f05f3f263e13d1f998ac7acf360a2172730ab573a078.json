@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Closed-Loop Vasopressor Control in Post-Cardiac Surgery Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to either the CLV group or the control group"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "40 patients admitted to the ICU after cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either the CLV group or the control group, with norepinephrine infusion controlled by the CLV system or manually by ICU nurses, respectively"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study tested the hypothesis that CLV management reduces hypotension compared to standard care in postcardiac surgery patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the percentage of time with hypotension (MAP <65 mm Hg) over a 2-hour period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "40 patients admitted to the ICU after cardiac surgery"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The CLV group had significantly less hypotension (1.4% [0.9\u20132.3]) compared to the control group (12.5% [9.9\u201324.3]; location difference, \u22129.8% [95% CI, \u22125.4 to \u221215.9]; P < .001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events occurred in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

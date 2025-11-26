@@ -1,0 +1,74 @@
+{
+  "pmcid": "12183472",
+  "sha256": "4bf88ef11c2c01b8641ac0d51cda19e56e037b06b75ba709ba1892476fdead4f",
+  "timestamp_utc": "2025-11-09T23:29:24.142593+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.387182985553775,
+    "reading_ease": 25.881994382022498,
+    "word_count": 267
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study aimed to explore the clinical presentation and outcomes of NSTI in patients with advanced malignancies, focusing on diagnostic challenges and management strategies."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "No randomization, blinding, or sample size calculation was applicable as this was a single case report."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to explore the clinical presentation and outcomes of NSTI in patients with advanced malignancies, focusing on diagnostic challenges and management strategies."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the time to progression to septic shock, measured from the onset of symptoms."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "No randomization, blinding, or sample size calculation was applicable as this was a single case report."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "No randomization, blinding, or sample size calculation was applicable as this was a single case report."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "No randomization, blinding, or sample size calculation was applicable as this was a single case report."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Blood cultures revealed Clostridium septicum and Staphylococcus epidermidis, the latter considered a contaminant."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The patient rapidly progressed to septic shock and died within 34 hours of presentation."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

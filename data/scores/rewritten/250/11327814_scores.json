@@ -1,0 +1,74 @@
+{
+  "pmcid": "11327814",
+  "sha256": "51fe440faa9efe62395e9c580c85bda8802174ffd7f02dd66a3dfd3ee54822a0",
+  "timestamp_utc": "2025-11-09T22:02:36.490415+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.172567091352672,
+    "reading_ease": 30.526749796692883,
+    "word_count": 217
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Distal Radial Artery Access in Pediatric Catheterization"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "412 children aged 3–12 years, scheduled for arterial blood gas analysis via the DRA due to serious respiratory diseases, at Changzhou Second People's Hospital"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the corrected DRA diameter in the AS."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "412 children aged 3–12 years"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The corrected DRA diameter was 1.97 ± 0.37 mm, with no significant difference between males (1.98 ± 0.38 mm) and females (1.95 ± 0.35 mm) (p = 0.457)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

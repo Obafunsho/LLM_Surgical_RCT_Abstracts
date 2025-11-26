@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "HART (Hughes Abdominal Repair Trial) assessed the effect of an alternative suture method on the incidence of incisional hernia following colorectal cancer surgery."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A pragmatic multicentre single-blind RCT allocated patients undergoing midline incision for colorectal cancer."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients undergoing midline incision for colorectal cancer"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "allocated patients to either Hughes closure (double far\u2013near\u2013near\u2013far sutures of 1 nylon suture at 2-cm intervals along the fascia combined with conventional mass closure) or the surgeon\u2019s standard closure."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "HART (Hughes Abdominal Repair Trial) assessed the effect of an alternative suture method on the incidence of incisional hernia following colorectal cancer surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of incisional hernia at 1 year assessed by clinical examination."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "A pragmatic multicentre single-blind RCT allocated patients"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "single-blind RCT"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between August 2014 and February 2018, 802 patients were randomized to either Hughes closure (401) or the standard mass closure group (401)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "At 1 year after surgery, 672 patients (83.7 per cent) were included in the primary outcome analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "50 of 339 patients (14.8 per cent) in the Hughes group and 57 of 333 (17.1 per cent) in the standard closure group had incisional hernia (OR 0.84, 95 per cent c.i. 0.55 to 1.27; P =\u20090.402)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar in the two groups, apart from the rate of surgical-site infection, which was higher in the Hughes group (13.2 versus 7.7 per cent; OR 1.82, 1.14 to 2.91; P =\u20090.011)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: ISRCTN25616490 ( http://www.controlled-trials.com )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

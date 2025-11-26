@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Mobile Interventions for Peripheral Arterial Disease"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients with diagnosed PAD, aged 18 or older. This randomised controlled trial was conducted at the vascular outpatient clinic of the West-German Heart and Vascular Center, University Clinic Essen, Germany."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Key app components identified were \"information,\" \"feedback,\" \"choosing goals,\" and \"interaction with physicians and therapists.\""
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to identify the needs and requirements of PAD patients for mobile interventions to support supervised exercise therapy (SET)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the identification of patient needs for mobile interventions, measured over a 3-month period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 304 patients were randomised, with 157 allocated to the intervention group and 147 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on all randomised participants using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "A significant need for better support was identified, with 59.2% expressing a desire for more disease-related support."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "8356117",
+  "sha256": "ef243c6a24d7ed6dcd4e02d882c7b270188f7df586d5eb0bea777ac3fbe3dbd5",
+  "timestamp_utc": "2025-11-09T22:57:58.758386+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.560325406758452,
+    "reading_ease": 8.124117647058824,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Safety of General Anesthesia in Pediatric Adenotonsillectomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included children under 15 years old undergoing adenotonsillectomy, with eligibility criteria focusing on obstructive sleep apnea and other comorbidities."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received a specific anesthetic protocol, while the control group received standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to evaluate the safety of general anesthesia in adenotonsillectomy"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of perioperative respiratory events, measured over a 24-hour postoperative period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured by sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised, with 100 in each group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a significant reduction in respiratory events compared to the control group (mean difference = 5.2 events, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 3% of the intervention group and 1% of the control group, with mild severity."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by [Funding source]."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Prospective, two-arm, randomised, double-blind pilot trial."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Prospective, two-arm, randomised, double-blind pilot trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The inclusion criteria were elective scoliosis surgery, age <18 years, provision of a signed informed consent form by both parents and consent to contraception use for the duration of this clinical trial among sexually active (\u226515 years of age) participants."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to a standard group, receiving standard blood and coagulation management, or a fibrinogen group, receiving a single prophylactic dose of fibrinogen concentrate in addition to standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The goal of this study is to assess the safety, feasibility and clinical outcomes of prophylactic fibrinogen administration in paediatric scoliosis surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Safety, the primary objective, was assessed according to adverse events, serious adverse events and other safety parameters."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Prospective, two-arm, randomised, double-blind pilot trial."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "32 children undergoing scoliosis surgery entered and completed the study."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "32 children undergoing scoliosis surgery entered and completed the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Blood loss did not significantly differ between the fibrinogen (1021.88\u2009mL (SD 473.63)) and standard (859.38\u2009mL (SD 713.03)) groups (p=0.1677)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "In the fibrinogen group, 101 adverse events across 19 types were observed, whereas in the standard group, 95 adverse events across 21 types (p>0.9999) and one serious adverse event were observed."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration number: CliniacalTrials.gov NCT05391412 ."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

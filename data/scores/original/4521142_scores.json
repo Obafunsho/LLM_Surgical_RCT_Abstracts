@@ -1,0 +1,74 @@
+{
+  "pmcid": "4521142",
+  "sha256": "2cad852fedf881689048a842a5e3018c1c9029925422ac80a2db406273da73db",
+  "timestamp_utc": "2025-11-09T15:59:30.814334+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.875873015873019,
+    "reading_ease": 22.76000000000002,
+    "word_count": 270
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this preclinical randomized study 50 novice surgeons were allocated"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "50 novice surgeons"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "allocated to: (1) no image guidance, (2) triplanar display, (3) always-on solid overlay, (4) always-on wire mesh overlay, and (5) on-demand inverse realism overlay"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to compare simultaneously the effectiveness and safety of various image guidance systems against standard surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcomes were time to task completion (seconds), and tool path length (millimeters)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "In this preclinical randomized study 50 novice surgeons were allocated"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "50 novice surgeons"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The time to task completion and tool path length were significantly lower when utilizing any form of image guidance compared to no image guidance (p < 0·001 and p = 0·003, respectively)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Always-on solid overlay resulted in the greatest inattentional blindness (20% recognition of unexpected finding)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

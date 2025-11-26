@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Early Supplemental Parenteral Nutrition in Abdominal Surgery: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to E-SPN (starting day 3) or L-SPN (starting day 8) groups. Randomisation used a permuted block design with allocation concealment via sealed envelopes."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "the trial included 230 patients with an NRS-2002 score of \u22653 and \u226430% energy intake from EN on postoperative day 2."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to E-SPN (starting day 3) or L-SPN (starting day 8) groups."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed the impact of early supplemental parenteral nutrition (E-SPN) versus late supplemental parenteral nutrition (L-SPN) on nosocomial infections in patients undergoing major abdominal surgery with high nutritional risk and poor tolerance to enteral nutrition (EN)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of nosocomial infections from postoperative day 3 to discharge."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation used a permuted block design with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Conducted in 11 tertiary hospitals in China from April 1, 2017, to December 31, 2018, the trial included 230 patients."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of 230 randomised, 229 were analysed (115 E-SPN, 114 L-SPN) using intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "E-SPN significantly reduced nosocomial infections (8.7% vs 18.4%; risk difference, 9.7%; 95% CI, 0.9%-18.5%; P = 0.04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences were found in noninfectious complications (27.0% vs 33.3%; risk difference, 6.4%; 95% CI, \u22125.5% to 18.2%; P = 0.32) or total adverse events (65.2% vs 71.9%; risk difference, 6.7%; 95% CI, \u22125.3% to 18.7%; P = 0.32)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT03115957."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

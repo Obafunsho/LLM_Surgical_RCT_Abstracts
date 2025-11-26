@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of the Dor Procedure with Intraoperative Substrate Mapping for Refractory Ventricular Tachycardia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either the Dor procedure with intraoperative substrate mapping and ablation or standard care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at a tertiary care center, this randomised controlled trial included patients with drug-resistant recurrent VT and LV aneurysms."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either the Dor procedure with intraoperative substrate mapping and ablation or standard care."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was VT recurrence, evaluated over a 28-month follow-up period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Due to the nature of the intervention, blinding was not feasible."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Two participants were randomised, with one in each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Both participants were analysed per protocol."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The intervention group demonstrated no VT recurrence at 28 months, while the control group experienced VT recurrence."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "with no major complications reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

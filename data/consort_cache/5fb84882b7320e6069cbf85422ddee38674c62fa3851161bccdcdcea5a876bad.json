@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Acridine Orange Therapy Versus Conventional Wide-Margin Resection in Soft Tissue Sarcoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either acridine orange therapy (n=51) or conventional wide-margin resection (n=119)."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "This randomised controlled trial included 170 patients with high-grade soft tissue sarcoma treated between 1999 and 2009."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either acridine orange therapy (n=51) or conventional wide-margin resection (n=119)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates a less radical surgical approach using adjunctive acridine orange therapy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was overall survival at 10 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either acridine orange therapy (n=51) or conventional wide-margin resection (n=119)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The 10-year overall survival rates were 68% for the acridine orange group and 63% for the conventional group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

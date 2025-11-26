@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Perioperative Cognitive Training in Older Cardiac Surgery Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "45 adults aged 60\u201390 undergoing cardiac surgery at least 10 days post-enrollment"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to either perioperative CT via a mobile device or usual care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the feasibility and potential efficacy of a perioperative cognitive training (CT) program to mitigate these conditions."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was feasibility, evaluated by enrollment and adherence."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied to participants or outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The incidence of delirium was 25% in the CT group versus 15% in controls (P = .69), and POCD was 53% versus 37% (P = .33)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "3864174",
+  "sha256": "15edefef9fa25ac693245d80c03f4333edeb6ccff774f76ba234c69f87ae27e0",
+  "timestamp_utc": "2025-11-09T23:50:57.350707+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.621085489313835,
+    "reading_ease": 49.41096456692915,
+    "word_count": 254
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tacrolimus QD vs. BD in Kidney Transplantation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this open-label, parallel-group trial, 1198 adults with end-stage renal disease undergoing kidney transplantation were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "1198 adults with end-stage renal disease undergoing kidney transplantation"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive tacrolimus BD 0.2 mg/kg/day (Arm 1), QD 0.2 mg/kg/day (Arm 2), QD 0.3 mg/kg/day (Arm 3), or QD 0.2 mg/kg/day with basiliximab (Arm 4)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assessed the efficacy of once-daily (QD) tacrolimus compared to twice-daily (BD) tacrolimus in kidney transplant recipients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was efficacy failure (graft loss, biopsy-confirmed acute rejection, or graft dysfunction) at 24 weeks."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was centrally coordinated"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "1198 adults with end-stage renal disease undergoing kidney transplantation were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "976 patients were analysed per protocol"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Noninferiority was demonstrated for Arm 2 versus Arm 1 (difference, −1.6%; 95% CI, −12.2% to 9.0%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar across groups, with treatment-emergent adverse events ranging from 94% to 96%."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00717470."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Astellas Pharma Europe Ltd."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

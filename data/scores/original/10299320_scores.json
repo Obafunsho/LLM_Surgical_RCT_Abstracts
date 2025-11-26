@@ -1,0 +1,74 @@
+{
+  "pmcid": "10299320",
+  "sha256": "78d631baaf62730b94fa73c78923833e6e790b400c429d6e1453a12fccdb7e60",
+  "timestamp_utc": "2025-11-09T15:06:13.700973+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.099785596481585,
+    "reading_ease": 37.903735568993966,
+    "word_count": 214
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "In this study, we sought to review our institutional experience of sutureless aortic valve replacement (SU-AVR)."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "We carried out a retrospective analysis of 200 consecutive patients who underwent an SU-AVR with a Perceval valve between December 2019 and February 2023."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "We carried out a retrospective analysis of 200 consecutive patients who underwent an SU-AVR with a Perceval valve between December 2019 and February 2023."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "In this study, we sought to review our institutional experience of sutureless aortic valve replacement (SU-AVR)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "We carried out a retrospective analysis of 200 consecutive patients who underwent an SU-AVR with a Perceval valve between December 2019 and February 2023."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The postoperative transvalvular mean pressure gradient was 6.3 ± 1.6 mmHg and stayed stable over the follow-up time."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "We reported no cases of paravalvular leakage, and the incidence of stroke was 0.5%."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

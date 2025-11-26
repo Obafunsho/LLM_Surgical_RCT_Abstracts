@@ -1,0 +1,74 @@
+{
+  "pmcid": "4246998",
+  "sha256": "a73ac3768a32809b9758adce76c98fc16e2a6bc3966041dfdba494eaada48472",
+  "timestamp_utc": "2025-11-09T22:41:36.639536+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.342835497835498,
+    "reading_ease": 21.61996753246754,
+    "word_count": 231
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Carotid Occlusion Surgery Study: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "COSS was a parallel group, prospective, 1:1 randomised, open-label, blinded-adjudication trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants with angiographic confirmed complete ICA occlusion causing TIA or ischemic stroke within 120 days and hemodynamic cerebral ischemia (elevated OEF by PET) were randomised to surgical or medical treatment."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The surgical group underwent STA-MCA cortical branch anastomosis."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "COSS aimed to evaluate whether STA-MCA bypass, in addition to best medical therapy, reduces ipsilateral stroke in patients with complete ICA occlusion and elevated OEF."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "the two-year primary endpoint rates were 21.0% for the surgical group and 22.7% for the medical group"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted centrally, and outcome assessors were blinded."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "open-label, blinded-adjudication trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 195 patients were randomised: 97 to surgery and 98 to medical therapy."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the intention-to-treat analysis"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the two-year primary endpoint rates were 21.0% for the surgical group and 22.7% for the medical group (p=0.78)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Fourteen (15%) of 93 surgical patients experienced an ipsilateral hemispheric stroke within 30 days post-operation."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

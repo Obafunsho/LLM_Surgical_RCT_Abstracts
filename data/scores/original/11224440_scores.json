@@ -1,0 +1,74 @@
+{
+  "pmcid": "11224440",
+  "sha256": "eb33c12fb0d32db7e9c92e93b021ef1e2adcded2d32b9807b3aa755e3ac61d7d",
+  "timestamp_utc": "2025-11-09T15:16:22.391436+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.44601986754967,
+    "reading_ease": 18.38664569536425,
+    "word_count": 151
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "We report a patient with metastatic esophageal cancer who received RT combined with ICI."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The patient experienced severe thrombocytopenia, and treatment with thrombopoietin and corticosteroids were ineffective."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 2,
+    "max_score": 25
+  }
+}

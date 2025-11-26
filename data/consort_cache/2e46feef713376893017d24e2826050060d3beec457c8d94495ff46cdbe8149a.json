@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of CMV pp65 mRNA-Loaded Dendritic Cell Vaccination"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial involved four CMV-seronegative healthy volunteers and three allogeneic HSCT recipients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at Antwerp University Hospital, this randomised controlled trial involved four CMV-seronegative healthy volunteers and three allogeneic HSCT recipients"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants received four weekly intradermal DC vaccines, prepared from a single leukapheresis"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the safety, feasibility, and immunogenicity of CMV pp65 mRNA-loaded autologous monocyte-derived dendritic cells (DC) as a vaccine"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the induction of CMV-specific T-cell responses, evaluated one month post-vaccination"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "randomisation and allocation concealment methods were not detailed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "The study was not blinded"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "The trial did not specify the number of participants randomised to each group"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "The trial did not specify the number of participants randomised to each group or the analysis approach"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "In healthy volunteers, three of four exhibited de novo CMV-specific T-cell responses without serious adverse events"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included transient local redness and mild swelling at the injection site, with no serious events in healthy subjects"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not provided"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

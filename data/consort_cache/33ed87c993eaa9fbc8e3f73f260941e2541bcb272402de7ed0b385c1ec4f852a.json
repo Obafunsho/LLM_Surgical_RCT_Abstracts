@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Cryoneurolysis for Phantom Limb Pain"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial enrolled patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with lower-limb amputation and established phantom pain at a tertiary care center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants received a single-injection femoral and sciatic nerve block with lidocaine and were randomised to receive either ultrasound-guided percutaneous cryoneurolysis or sham treatment."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the efficacy of cryoneurolysis in reducing phantom pain."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in average phantom pain intensity from baseline to 4 months, measured using a Numeric Rating Scale (0\u201310)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Investigators, participants, and clinical staff were blinded, except for the treating physician."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 144 participants were randomised: 71 to cryoneurolysis and 73 to sham."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Pain intensity decreased by 0.5 [\u22120.5, 3.0] in the cryoneurolysis group versus 0 [0, 3] in the sham group, with an estimated difference of \u22120.1 (95% CI \u22121.0, 0.7), P=0.759."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One serious adverse event occurred in the cryoneurolysis group due to a protocol deviation."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

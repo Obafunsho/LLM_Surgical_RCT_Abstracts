@@ -1,0 +1,74 @@
+{
+  "pmcid": "3238000",
+  "sha256": "126dc04171ed5e924d0d44019a62055e2d749c7b499d1bc552e68d234442c9f4",
+  "timestamp_utc": "2025-11-09T22:36:16.945104+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.193581037796289,
+    "reading_ease": 40.89343796711512,
+    "word_count": 223
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Mobile Bearing and Fixed Bearing Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomised to receive either MB (n=252) or FB (n=255) devices."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "416 eligible patients at a single center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised to receive either MB (n=252) or FB (n=255) devices."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to evaluate whether mobile bearing (MB) total knee arthroplasty (TKA) offers superior function, survivorship, and fewer complications compared to fixed bearing (FB) TKA."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in WOMAC Index scores over 24 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Patients were blinded to treatment allocation."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "507 primary TKAs in 416 eligible patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Revision occurred in 19/252 MB and 13/255 FB knees."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Estimated 6-year survival was 90.1% (95% CI, 84.1–93.9) for MB and 94.2% (95% CI, 90.1–96.6) for FB."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Device failures and complications were recorded until October 2009."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00946075."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

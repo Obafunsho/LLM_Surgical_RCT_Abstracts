@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of a New Surgical Drape on Cutaneous Heat Loss"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to be covered with either the new drape or two conventional drapes"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "8 healthy adult volunteers in a controlled laboratory setting"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "covered with either the new drape or two conventional drapes"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether a new moisture-impervious surgical drape reduces evaporative heat loss more effectively than conventional drapes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Cutaneous heat loss and skin-surface temperatures were measured using 15 area-weighted thermal flux transducers."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "8 healthy adult volunteers"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "All 8 participants completed the study, and data were analysed per-protocol."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "baseline heat loss was 82\u00b114 watts (W), decreasing by 30% with any drape (P<0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We tested the hypothesis that a single cryoneurolysis treatment would decrease phantom pain 4 months later."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Each received a single-injection femoral and sciatic nerve block with lidocaine and was subsequently randomized to receive either ultrasound-guided percutaneous cryoneurolysis or sham treatment at these same locations."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We enrolled patients with a lower-limb amputation and established phantom pain."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Each received a single-injection femoral and sciatic nerve block with lidocaine and was subsequently randomized to receive either ultrasound-guided percutaneous cryoneurolysis or sham treatment at these same locations."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We tested the hypothesis that a single cryoneurolysis treatment would decrease phantom pain 4 months later."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in average phantom pain intensity between baseline and 4 months as measured with a Numeric Rating Scale (0\u201310)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "was subsequently randomized to receive either ultrasound-guided percutaneous cryoneurolysis or sham treatment at these same locations."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Investigators, participants, and clinical staff were masked to treatment group assignment with the exception of the treating physician performing the cryoneurolysis who had no subsequent participant interaction."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "n=71 for active treatment and n=73 for sham."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "n=71 for active treatment and n=73 for sham."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "After 4 months, pain intensity decreased by 0.5 [\u22120.5, 3.0] in patients given cryoneurolysis (n=71) versus 0 [0, 3] in patients given sham (n=73): estimated difference (95% CI) \u22120.1 (\u22121.0, 0.7), P=0.759."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One serious adverse event occurred following a protocol deviation in which a femoral nerve cryolesion was induced just below the inguinal ligament\u2014instead of the sensory-only saphenous nerve\u2014which resulted in quadriceps weakness, and possibly a fall and clavicle fracture."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

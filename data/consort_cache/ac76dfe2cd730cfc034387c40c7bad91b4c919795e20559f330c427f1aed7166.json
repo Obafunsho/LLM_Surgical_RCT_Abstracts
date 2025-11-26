@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Prucalopride for Postoperative Ileus in Elective Colorectal Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "multicentre, double-blind, parallel, placebo-controlled randomised trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible patients were adults undergoing elective colorectal resection, excluding those with inflammatory bowel disease or planned ileostomy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to receive 2 mg prucalopride or placebo, administered 2 hours before surgery and daily for up to 6 days postoperatively."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assessed the effect of prucalopride, a selective serotonin-4-receptor agonist, on gut motility."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was time to GI-2, defined as passage of stool and tolerance of diet."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment by an external pharmacy."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "All participants, clinicians, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 148 patients were randomised, 74 per group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "analysed using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "There was no significant difference in median time to GI-2 between prucalopride and placebo groups: 3.5 versus 4 days (P = 0.124)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, with no significant differences in complications or readmission rates."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02947269."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

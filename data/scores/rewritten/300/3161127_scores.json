@@ -1,0 +1,74 @@
+{
+  "pmcid": "3161127",
+  "sha256": "8beb20cfb28ebb91cbd2839488319dc21fe516ff3a4f303fdf6b3e9e9d3984cc",
+  "timestamp_utc": "2025-11-09T23:47:34.519918+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.755482456140353,
+    "reading_ease": 11.771447368421065,
+    "word_count": 240
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Methylprednisolone in Neonatal Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "76 neonates scheduled for cardiac surgery were randomly assigned"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Two Dose (8 hours preoperatively and operatively; n=39) or Single Dose (operatively; n=37) methylprednisolone (30 mg/kg/dose)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether preoperative methylprednisolone improves postoperative recovery in neonates undergoing cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of low cardiac output syndrome or death 36 hours postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "76 neonates scheduled for cardiac surgery were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The incidence of low cardiac output syndrome was 46% in the Single Dose and 38% in the Two Dose groups (p=0.51)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events included [adverse events details]."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

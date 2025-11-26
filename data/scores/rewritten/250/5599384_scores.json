@@ -1,0 +1,74 @@
+{
+  "pmcid": "5599384",
+  "sha256": "13de91262e97099ec172ef0d9954393c8ad0b451add27de22b6246fcf6284315",
+  "timestamp_utc": "2025-11-09T22:47:18.637163+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.248967661691541,
+    "reading_ease": 22.738227611940317,
+    "word_count": 201
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Perturbation Training in Postoperative ACL Rehabilitation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this single-blind randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "40 male participants who completed ACL reconstruction rehabilitation were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised into two groups: SAP (strengthening, agility, and secondary prevention) and SAP+PERT (SAP with perturbation training)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effects of perturbation training on postoperative ACL rehabilitation outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was quadriceps strength and single-legged hop limb symmetry, measured at 1 and 2 years post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and outcome assessors were blinded."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "40 male participants who completed ACL reconstruction rehabilitation were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "SAP 17/17, SAP+PERT 14/19"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 1 year, quadriceps symmetry was similar between groups (SAP = 101% ± 14%, SAP+PERT = 101% ± 14%). At 2 years, SAP showed 103% ± 11% and SAP+PERT 98% ± 14% symmetry."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

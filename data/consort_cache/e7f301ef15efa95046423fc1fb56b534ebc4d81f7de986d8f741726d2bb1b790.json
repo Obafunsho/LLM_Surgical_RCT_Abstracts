@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Pain Management in Minimally Invasive Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised controlled trial was conducted to evaluate pain management strategies in MICS."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were eligible if they were undergoing MICS and were recruited from a single cardiac surgery center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received thoracic epidural analgesia (TEA), while the control group received thoracic paravertebral block (TPVB)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted to evaluate pain management strategies in MICS."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative pain measured on a visual analog scale (VAS) over 48 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 100 to the TEA group and 100 to the TPVB group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the TEA group and 97 in the TPVB group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean VAS score was significantly lower in the TEA group (mean difference = 1.5, 95% CI 0.8 to 2.2; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 5% of the TEA group and 3% of the TPVB group, with no severe complications."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by the National Institute of Health."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

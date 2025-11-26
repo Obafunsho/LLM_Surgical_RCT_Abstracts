@@ -1,0 +1,74 @@
+{
+  "pmcid": "2807020",
+  "sha256": "3978afbe39223d0a86bda163da62aa4d265b00728e05be3bb32d669b351e6991",
+  "timestamp_utc": "2025-11-09T23:46:14.214888+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.783892944038932,
+    "reading_ease": 30.520940794809434,
+    "word_count": 274
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Hip Resurfacing and Large-Head Total Hip Arthroplasty in Young and Active Patients with Hip Osteoarthritis"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This double-blind, randomised controlled trial was conducted at a single orthopedic center."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Forty-eight patients with hip osteoarthritis, selected based on age and activity level, were randomised to receive either HR or large-head THA."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either HR or large-head THA."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the functional outcomes of HR versus large-diameter femoral head THA."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was gait speed, assessed preoperatively and at 3, 6, and 12 months postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty-eight patients were randomised: 24 to HR and 24 to large-head THA."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "All participants were analysed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The effect size for gait speed was not significantly different between HR and large-head THA (mean difference = X, 95% CI Y to Z; p = 0.XX)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in adverse events were reported between groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

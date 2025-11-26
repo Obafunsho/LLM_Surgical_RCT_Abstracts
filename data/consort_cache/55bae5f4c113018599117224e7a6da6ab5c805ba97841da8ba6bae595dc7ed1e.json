@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "One hundred and sixty two cancer patients undergoing thoracotomy were randomized"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "cancer patients undergoing thoracotomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "acupuncture technique specially developed for a surgical oncology population (intervention) reduces pain or analgesic use after thoracotomy compared to a sham acupuncture technique (control)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To determine whether an acupuncture technique specially developed for a surgical oncology population (intervention) reduces pain or analgesic use after thoracotomy compared to a sham acupuncture technique (control)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Numerical Rating Scale (NRS) of pain and total opioid use we evaluated during the in-patient stay; Brief Pain Inventory (BPI) and Medication Quantification Scale (MQS) were evaluated after discharge up to 3 months after the surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients undergoing thoracotomy were randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One hundred and sixty two cancer patients undergoing thoracotomy were randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Pain scores were marginally higher in the intervention group 0.05 (95% C.I.: 0.74, -0.64; p=0.9)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

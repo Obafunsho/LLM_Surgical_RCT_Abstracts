@@ -1,0 +1,74 @@
+{
+  "pmcid": "2745838",
+  "sha256": "54a8bcf7d81559650d975a63b9f325b30b874b4fe4c4f4b70b995a3aaf5e9040",
+  "timestamp_utc": "2025-11-09T22:34:27.617482+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.986019460415747,
+    "reading_ease": 17.10062140645735,
+    "word_count": 238
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Continuous Posterior Interscalene Block for Postoperative Analgesia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "32 participants were randomised"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "continuous ropivacaine 0.2% perineural infusion or a normal saline infusion"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of an ultrasound-guided continuous posterior interscalene block compared to a single-injection ropivacaine interscalene block for postoperative analgesia following moderately painful shoulder surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was average pain on postoperative day (POD) 1, measured on a 0–10 scale."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "32 participants were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "30 were analysed per protocol (15 in each group)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Continuous ropivacaine infusion significantly reduced average pain on POD 1 (median [10th–90th percentile]: 0.0 [0.0–5.0] vs. 3.0 [0.0–6.0]; P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Registration Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of Funding]."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This study was a randomized controlled trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This study was a randomized controlled trial with two parallel, separately analyzed cohorts"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "children undergoing in\u2010office cast removal or in-office percutaneous pin removal at a single urban tertiary institution"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "VR gaming simulation (n = 37), VR goggles with a noninteractive video (n = 36), or a tablet computer with the same noninteractive video (n = 40)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Is a VR gaming simulation more effective than either of two forms of noninteractive visual distraction"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes included preprocedure-to\u2013maximum heart rate increase (objective measure) and preprocedure and postprocedure pain and anxiety using a VAS (subjective measures)"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "were enrolled and randomized into one of three groups"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "In all, 235 patients were enrolled in the study"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "210 patients (mean \u00b1 SD age 9 \u00b1 3 years; 48% [100] girls) were included in the final analyses"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "largest mean difference -6 bpm [95% CI -16 to 3]; p = 0.36"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

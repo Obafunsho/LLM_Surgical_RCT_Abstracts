@@ -1,0 +1,74 @@
+{
+  "pmcid": "10080471",
+  "sha256": "782e42191ae27ba3033efbe04e4de6a66b76657c1abef19f5aca5245fdb13bf3",
+  "timestamp_utc": "2025-11-09T21:51:27.002224+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.797142857142859,
+    "reading_ease": 26.42285714285717,
+    "word_count": 238
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Transcutaneous Auricular Nerve Stimulation for Pain Reduction After Orthopaedic Trauma Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a randomised controlled trial, 86 participants aged over 18 years undergoing orthopaedic trauma surgery were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "86 participants aged over 18 years undergoing orthopaedic trauma surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either active or sham bilateral TAN"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated whether transcutaneous auricular nerve stimulation (TAN) reduces pain after orthopaedic trauma surgery"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the absolute change in pain 24 hours postoperatively, measured using a 100 mm visual analogue scale (VAS)"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between June 22, 2021, and July 7, 2022, 79 participants completed the study"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "79 participants completed the study"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean reduction in VAS was 19 mm (95% CI: 12–26) in the active TAN group (n=40) compared to 10 mm (95% CI: 3–17) in the sham group (n=39; P=0.023)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included auricular skin irritation in six participants in the active group and two in the sham group"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

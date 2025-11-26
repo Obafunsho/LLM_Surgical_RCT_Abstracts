@@ -1,0 +1,74 @@
+{
+  "pmcid": "6260005",
+  "sha256": "90e6e687a194e603081e811a3ba193c2345fbae407220c37d2df5f07e1bc3145",
+  "timestamp_utc": "2025-11-09T16:07:51.464890+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.650842105263163,
+    "reading_ease": 32.207526315789494,
+    "word_count": 450
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The purpose of this study was to compare results from a randomized clinical trial (RCT)"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This is a concise followup of a previously reported RCT."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "robot-assisted primary THA was performed on 75 hips (69 patients), and a hand-rasping technique was used on 71 hips (61 patients)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "robot-assisted primary THA was performed on 75 hips (69 patients), and a hand-rasping technique was used on 71 hips (61 patients)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose of this study was to compare results from a randomized clinical trial (RCT)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary study endpoint was the JOA score, which is scored from 0 to 100, with higher scores representing better function and less pain."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "assessed using the four-grade Brooker scale by individuals other than the operating surgeon."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "robot-assisted primary THA was performed on 75 hips (69 patients), and a hand-rasping technique was used on 71 hips (61 patients)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "115 of 130 (88%) of patients initially randomized were available for followup at a minimum of 10 years"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At a minimum of 10 years postoperatively, there were no differences between patients treated with robot-assisted surgery or hand rasping in JOA scores (97 ± 5 versus 96 ± 7, mean difference 1.4; p = 0.159)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No stems in either group developed aseptic loosening, and there were no revisions in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

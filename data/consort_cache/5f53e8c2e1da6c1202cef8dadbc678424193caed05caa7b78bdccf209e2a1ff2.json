@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Forty men were randomized into a SAP group or a SAP+PERT group"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Among men undergoing ACL reconstruction"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "SAP plus perturbation training (SAP+PERT)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we sought to compare strength, agility, and secondary prevention (SAP) treatment with SAP plus perturbation training (SAP+PERT)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Participants underwent motion analysis during overground walking at 1 and 2 years postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Forty men were randomized into a SAP group or a SAP+PERT group"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty men were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "At 1 year, 11 of 18 SAP and 11 of 20 SAP+PERT athletes"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean difference: \u22121\u00b0; 95% confidence interval [CI], \u22125\u00b0 to 2\u00b0; p = 0.49"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

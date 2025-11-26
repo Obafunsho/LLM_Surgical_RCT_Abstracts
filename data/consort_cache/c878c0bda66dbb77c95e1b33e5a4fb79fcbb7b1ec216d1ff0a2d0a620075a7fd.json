@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Validation of the nProfiler 1 Stomach Cancer Assay in a Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients with stage III gastric cancer post-gastrectomy were randomised to SP or DS."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with stage III gastric cancer post-gastrectomy were randomised to SP or DS."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing S-1 plus cisplatin (SP) and S-1 plus docetaxel (DS)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to validate nProfiler1 using a cohort from the POST trial."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was disease-free survival (DFS) over a median follow-up of 57.9 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 153 randomised patients, 118 were analysed (60 SP, 58 DS)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 153 randomised patients, 118 were analysed (60 SP, 58 DS)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant difference in DFS or overall survival (OS) was observed between groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01283217."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

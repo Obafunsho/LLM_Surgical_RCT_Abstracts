@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "this single-centre randomized controlled trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Fifty patients who complained of postoperative headache after MVD were randomized"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Fifty patients who complained of postoperative headache after MVD"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive an s.c. injection of sumatriptan (6 mg) or saline"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "investigated whether postoperative administration of sumatriptan after MVD surgery impacts the quality of postoperative recovery"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was quality of recovery as measured by the Quality of Recovery-40 (QoR-40) score at 24 h."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fifty patients who complained of postoperative headache after MVD were randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The QoR-40 scores were significantly higher in the sumatriptan group (median 184; interquartile range 169\u2013196) than in the placebo group (133; 119\u2013155; P <0.01)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinical trial registration: NCT01632657"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

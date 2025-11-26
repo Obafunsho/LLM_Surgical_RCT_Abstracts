@@ -1,0 +1,74 @@
+{
+  "pmcid": "12433822",
+  "sha256": "071d94edce36fef0958ed7503d4316d875aae981c66ce03948ab017a6ad26d3b",
+  "timestamp_utc": "2025-11-09T23:38:05.444251+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.621853658536587,
+    "reading_ease": 19.44143902439029,
+    "word_count": 164
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse reactions included phlebitis, hypersensitivity, foreign body granuloma, and endovenous glue-induced thrombosis."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 1,
+    "max_score": 25
+  }
+}

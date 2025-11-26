@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "545 patients with clinical stage IA LUL adenocarcinoma who underwent surgery between January 2018 and May 2022"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to develop and validate a nomogram to predict high-risk pathology in clinical stage IA lung adenocarcinoma located in the left upper lobe (LUL)"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The cohort was randomly divided into training (80%) and validation (20%) sets"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "545 patients with clinical stage IA LUL adenocarcinoma who underwent surgery between January 2018 and May 2022"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The nomogram demonstrated excellent discriminative ability, with AUCs of 0.837 in the training set and 0.865 in the validation set"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

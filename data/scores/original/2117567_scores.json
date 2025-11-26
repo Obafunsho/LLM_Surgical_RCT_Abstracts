@@ -1,0 +1,74 @@
+{
+  "pmcid": "2117567",
+  "sha256": "844513488bc611fe88465759a0a6f12c53c325f5c5354f50b687f57f7ff601dd",
+  "timestamp_utc": "2025-11-09T15:47:43.547367+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 18.14009803921569,
+    "reading_ease": 10.425441176470628,
+    "word_count": 255
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We studied differences in recall of information and in appreciation of the informed consent procedure between representatives included in the Hemicraniectomy After Middle cerebral artery infarction with Life‐threatening Edema Trial (HAMLET) and representatives of patients participating in the randomised trial of Paracetamol (Acetaminophen) In Stroke (PAIS)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All 30 PAIS representatives and 28 HAMLET representatives were interviewed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Participation of their relative in a clinical trial was remembered by 86% of HAMLET and 40% of PAIS representatives (p<0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  }
+}

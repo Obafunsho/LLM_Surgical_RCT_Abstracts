@@ -1,0 +1,74 @@
+{
+  "pmcid": "5292248",
+  "sha256": "aac56f986dea9329bf517db3f8aaba50385a7995170cae98fc7e7e42597047c9",
+  "timestamp_utc": "2025-11-09T22:45:55.747070+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.770314465408806,
+    "reading_ease": 24.483385744234823,
+    "word_count": 212
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Multicenter, Cluster-Randomized Controlled Trial of a Standardized Smoking Cessation Intervention for Vascular Surgery Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This multicenter, cluster-randomized trial involved eight centers, randomized to either a standardized intervention or usual care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients scheduled for vascular surgery or endovascular interventions."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention included physician 'very brief advice,' nicotine replacement therapy (NRT), and referral to a phone-based counseling service."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates a standardized smoking cessation intervention compared to usual care."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of smoking cessation, measured at 6 months post-intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was conducted at the center level, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 142 patients were enrolled, with 71 in each group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Final smoking cessation rates are pending."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Patients in the intervention group were more likely to receive physician advice (98% vs. 77%), NRT (77% vs. 13%), and quitline referral (93% vs. 33%) (all p<0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

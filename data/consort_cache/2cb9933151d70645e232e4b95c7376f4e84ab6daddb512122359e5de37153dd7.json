@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomised controlled trials (RCTs) comparing rFVIIa with placebo, or one dose of rFVIIa with another"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "in any patient population (except haemophilia)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing rFVIIa with placebo, or one dose of rFVIIa with another"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the effectiveness of rFVIIa when used therapeutically to control active bleeding or prophylactically to prevent (excessive) bleeding in patients without haemophilia."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Outcomes were mortality, blood loss or control of bleeding, red cell transfusion requirements, number of patients transfused and thromboembolic adverse events."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "28 were placebo\u2010controlled, double\u2010blind RCTs"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixteen trials involving 1361 participants examined the prophylactic use of rFVIIa; 729 received rFVIIa."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There was no evidence of mortality benefit (risk ratio (RR) 1.04; 95% confidence interval (CI) 0.55 to 1.97)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "However, there was a trend against rFVIIa with respect to thromboembolic adverse events (RR 1.35; 95% CI 0.82 to 2.25)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

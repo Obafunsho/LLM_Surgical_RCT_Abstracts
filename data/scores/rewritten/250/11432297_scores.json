@@ -1,0 +1,74 @@
+{
+  "pmcid": "11432297",
+  "sha256": "2d7d75aa76ba8cf38fd7ed57265a62f429ab6895ca6d2902ac8acef3bda1571a",
+  "timestamp_utc": "2025-11-09T22:03:41.226987+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.296069169960472,
+    "reading_ease": 15.098016798418996,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Vitamin Supplementation on Cardiovascular Health"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to receive either vitamin supplementation or a placebo."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included adults with a history of cardiovascular risk factors. Participants were recruited from a cardiovascular clinic."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received a combination of hydrophilic and lipophilic vitamins, while the control group received a placebo."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate the efficacy of vitamin supplementation in preventing CVD."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of cardiovascular events over a 12-month period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was maintained for participants, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised, with 100 in each group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the intervention group and 97 in the control group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a significant reduction in cardiovascular events (mean difference = 5.2 events, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in the intervention group and 1% in the control group experiencing gastrointestinal side-effects."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by [source of funding]."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

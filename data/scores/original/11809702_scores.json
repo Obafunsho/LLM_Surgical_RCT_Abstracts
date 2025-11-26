@@ -1,0 +1,74 @@
+{
+  "pmcid": "11809702",
+  "sha256": "af1ed831b198f548f791e987a04185043e078f0829e5b81e3e59134f6e9cee04",
+  "timestamp_utc": "2025-11-09T15:24:06.600257+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.061749226006196,
+    "reading_ease": 18.927832817337446,
+    "word_count": 304
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A multicenter, within-patient, evaluator-blinded, randomized-controlled trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A multicenter, within-patient, evaluator-blinded, randomized-controlled trial was conducted of 65 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "65 patients with acute, nonthermal, full-thickness skin defects requiring autografting"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to concurrently receive a predefined standard-of-care meshed STSG (control) or ASCS + more widely meshed STSG (ASCS+STSG)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that the clinical performance of ASCS would be similar for soft tissue reconstruction of nonburn wounds."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Coprimary endpoints were noninferiority of ASCS+STSG for complete treatment area closure by Week 8, and superiority for relative reduction in donor skin area."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "two treatment areas were randomly assigned"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "evaluator-blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "65 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "complete closure was observed for 58% of control areas compared with 65% of ASCS+STSG areas"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 8 weeks, complete closure was observed for 58% of control areas compared with 65% of ASCS+STSG areas ( p = 0.005), establishing noninferiority of ASCS+STSG. On average, 27.4% less donor skin was required with ASCS+ STSG, establishing superiority over control ( p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The treatment approaches had similar long-term scarring outcomes and safety profiles, with no unanticipated events and no serious ASCS device-related events."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clincaltrials.gov identifier: NCT04091672"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

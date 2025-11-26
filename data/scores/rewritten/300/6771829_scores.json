@@ -1,0 +1,74 @@
+{
+  "pmcid": "6771829",
+  "sha256": "b931b51864c486b8b74dccd3d2797bc6a11486845611616395251a362be690d8",
+  "timestamp_utc": "2025-11-10T00:03:01.705975+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.842932651321398,
+    "reading_ease": 22.732327365728935,
+    "word_count": 255
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Perioperative Chemotherapy with or without Bevacizumab in Gastric and Oesophagogastric Junctional Cancer"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This multicentre, open-label, randomised controlled trial enrolled 1063 patients from 2007 to 2014."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility included operable adenocarcinoma of the stomach, oesophagogastric junction, or lower oesophagus, staged according to TNM classification."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive ECX with or without bevacizumab."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The UK Medical Research Council ST03 trial aimed to determine if adding bevacizumab to perioperative epirubicin, cisplatin, and capecitabine (ECX) chemotherapy improves overall survival in patients with gastric and oesophagogastric junctional cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was overall survival, measured from randomisation to death from any cause."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "This multicentre, open-label, randomised controlled trial enrolled 1063 patients from 2007 to 2014."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The trial found no significant difference in overall survival between the treatment arms."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Postoperative complications occurred in 458 patients (52.5%), with 71 (8.1%) experiencing life-threatening complications."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00450203."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: UK Medical Research Council."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

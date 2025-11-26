@@ -1,0 +1,74 @@
+{
+  "pmcid": "12409716",
+  "sha256": "4182088606e686c99da153ba3213f1b3a71f03e1cd02dba82c4748f1a280f35b",
+  "timestamp_utc": "2025-11-09T23:36:44.668291+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.411928088803087,
+    "reading_ease": 27.737506032818573,
+    "word_count": 259
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "NEON Study: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Conducted as a multicentre, double-blind, randomised controlled trial across 17 NHS hospitals in the UK"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "participants aged 18 and over with unilateral digital nerve injuries"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to either microsurgical suture repair or nerve alignment alone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the effectiveness of suture repair compared to alignment alone."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Impact of Hand Nerve Disorders (I-HaND v2) patient-reported outcome measure at 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "both participants and assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From September 2020 to November 2022, 122 participants were randomised, 61 to each group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Primary outcome data were available for 106 participants (87%)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "No significant differences were observed in I-HaND scores at 12 months (mean difference = 4.3, 95% CI [-0.9, 10.8], p = 0.09)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complications were similar between groups, with three serious adverse events reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN16211574"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: NIHR Health Technology Assessment (NIHR127807–18/37)."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

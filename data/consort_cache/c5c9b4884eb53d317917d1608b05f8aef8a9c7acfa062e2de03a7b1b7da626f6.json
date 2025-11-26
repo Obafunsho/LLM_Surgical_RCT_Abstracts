@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study aimed to observe pupillary dilation reflex by ultrasound and determine whether ultrasonic pupillary parameters are correlated with sufentanil dose during the induction period of general anesthesia."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "They were randomly divided into 3 groups \u2013 group P (saline), group S1 (0.2 \u03bcg/kg sufentanil), and group S2 (0.4 \u03bcg/kg sufentanil) \u2013 according to the sufentanil dose of induction."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "We enrolled 93 patients undergoing general anesthesia."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "They were randomly divided into 3 groups \u2013 group P (saline), group S1 (0.2 \u03bcg/kg sufentanil), and group S2 (0.4 \u03bcg/kg sufentanil) \u2013 according to the sufentanil dose of induction."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to observe pupillary dilation reflex by ultrasound and determine whether ultrasonic pupillary parameters are correlated with sufentanil dose during the induction period of general anesthesia."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Ultrasonic pupil diameters were recorded and measured at 4 time points: T0 (entering the room awake), T1 (after loss of consciousness), T2 (5 min after intravenous injection with sufentanil), and T3 (the moment at which pupil diameter was maximum after stimulation)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "They were randomly divided into 3 groups \u2013 group P (saline), group S1 (0.2 \u03bcg/kg sufentanil), and group S2 (0.4 \u03bcg/kg sufentanil) \u2013 according to the sufentanil dose of induction."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We enrolled 93 patients undergoing general anesthesia."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Ultrasonic pupillary dilation reflex amplitude and pupillary dilation reflex rate were negatively correlated with sufentanil dose [Spearman r =\u22120.84 (95% CI, \u22120.88 to \u22120.77), p <0.01, Spearman r =\u22120.74, (95% CI, \u22120.82 to \u22120.64), p <0.01]."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "We reviewed 330 patients who received perioperative TPE between September 2012 and September 2017."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "24 patients received TPE for HIT before anticipated heparin use for CPB."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that TPE with heparin re-exposure will not lead to HIT-related thromboembolic events, bleeding, or increased mortality after cardiac surgery with CPB."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Thromboembolic events (TE) occurred in 3 patients within 7 days of surgery; of those, two were possibly HIT-related."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "24 patients received TPE for HIT before anticipated heparin use for CPB."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Three patients (12.5%) died within 30 days after surgery but none of the deaths were considered HIT-related."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Thromboembolic events (TE) occurred in 3 patients within 7 days of surgery; of those, two were possibly HIT-related."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

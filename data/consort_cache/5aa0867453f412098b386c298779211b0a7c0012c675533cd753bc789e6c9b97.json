@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Dexmedetomidine and Propofol in Hysteroscopic Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "150 patients aged 18-60 years with ASA status I-II undergoing hysteroscopic surgery"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "150 patients aged 18-60 years with ASA status I-II undergoing hysteroscopic surgery at the Affiliated Hospital of North Sichuan Medical College"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive dexmedetomidine at 0.4, 0.6, 0.8, or 1.0 \u00b5g/kg, or saline"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to establish the optimal dose of dexmedetomidine combined with propofol for hysteroscopic surgery"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the EC50 of propofol, measured intraoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using SPSS software, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Both patients and clinicians were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Recruitment occurred from June to November 2020"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The EC50 of propofol was significantly lower in the Dex 0.6, Dex 0.8, and Dex 1.0 groups compared to the saline group"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The EC50 of propofol was significantly lower in the Dex 0.6, Dex 0.8, and Dex 1.0 groups compared to the saline group (p < 0.05)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "As dexmedetomidine dose increased, propofol requirements and respiratory depression incidence decreased (p < 0.01), while bradycardia incidence increased (p = 0.02)"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2000033220"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

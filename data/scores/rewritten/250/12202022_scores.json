@@ -1,0 +1,74 @@
+{
+  "pmcid": "12202022",
+  "sha256": "6e6ddeae170c4b757a555b7bed53feff6ea2db6179909dc5ea497bc5b08a40d5",
+  "timestamp_utc": "2025-11-09T22:18:36.672419+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.341904761904765,
+    "reading_ease": 16.66500000000002,
+    "word_count": 192
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Thoracofemoral Bypass as Primary Treatment for Juxtarenal Aortoiliac Occlusive Disease"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "conducted at S.M.S. Medical College and Group of Hospitals, Jaipur, on 90 patients with severe aortoiliac occlusive disease"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved thoracobifemoral bypass using BARD IMPRA expanded polytetrafluoroethylene vascular grafts."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates its efficacy as a primary treatment."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 30-day graft patency."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "No randomisation or blinding was employed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "No randomisation or blinding was employed."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "90 patients (83 males, 7 females; ages 51-77)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "90 patients (83 males, 7 females; ages 51-77)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Graft patency was 100% at 30 days."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Major morbidities included graft occlusion in one patient, managed by embolectomy, and ascites in another, addressed conservatively."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The study was not registered as a trial"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by institutional resources"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

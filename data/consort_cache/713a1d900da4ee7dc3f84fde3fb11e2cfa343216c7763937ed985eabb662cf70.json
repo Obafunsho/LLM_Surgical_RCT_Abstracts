@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of a Standardized Operating Procedure and Educational Program on Adherence to Intraoperative Lung Protective Ventilation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "unit of randomisation stated; Randomization and blinding were not applicable."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included adult patients scheduled for non-thoracic surgery. Conducted at Masaryk Hospital, Czech Republic, from April 20 to July 18, 2023"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention comprised an SOP and a mandatory educational program."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the impact of a standardized operating procedure (SOP) enhanced with an educational program on adherence to intraoperative lung protective ventilation (IOLPV)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was adherence to the IOLPV bundle, assessed over one month pre- and post-intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomization and blinding were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomization and blinding were not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "164 patients were analyzed (Group A: 82 pre-intervention, Group B: 82 post-intervention)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "164 patients were analyzed (Group A: 82 pre-intervention, Group B: 82 post-intervention)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Adherence to the IOLPV bundle significantly increased in Group B (Group A: 4%, Group B: 24%; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT05831683."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12250653",
+  "sha256": "cbb13d0b1c3327e397105fc6d859bef85c744c2a7b7e18d7c80d7e3bd1c39c2f",
+  "timestamp_utc": "2025-11-09T15:34:59.939111+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.035409380617747,
+    "reading_ease": 34.69296208530807,
+    "word_count": 422
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective, monocentric, and observational study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "enrolled 110 patients with ESKD who were admitted, between 2018 and 2024, to the Vascular Surgery Department at the Emergency County Hospital of Târgu Mureș"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to analyze how preoperative vascular mapping influences the long-term RC-AVF failure, considering adherence to guidelines."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "enrolled 110 patients with ESKD who were admitted, between 2018 and 2024"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients whose RC-AVF was created outside guideline recommendations demonstrated smaller arterial ( p < 0.001) and venous ( p < 0.001) diameters. Additionally, a higher percentage of these patients were on hemodialysis via CVC at the time of RC-AVF creation ( p = 0.041), as well as a higher incidence of 6-week AVF maturation failure ( p = 0.012) and long-term AVF failure ( p = 0.016). In ROC Curve analysis, a threshold of 2.75 mm was established for the RA (AUC: 0.647, p = 0.005) and 2.52 mm for the CV (AUC: 0.677, p = 0.001). Additionally, patients whose RC-AVF procedures adhered to guideline recommendations had a significantly lower risk of long-term RC-AVF failure (HR: 0.44, p = 0.012). This association lost significance after adjusting for cardiovascular risk factors and the presence of CVC at admission (HR: 0.69, p = 0.328). After full adjustment, only the CV remained an independent predictor of long-term successful RC-AVF (HR: 0.68, p = 0.026). In contrast, RA lost significance after adjusting for cardiovascular risk factors and the presence of CVC at admission (HR: 0.71, p = 0.086)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

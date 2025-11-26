@@ -1,0 +1,74 @@
+{
+  "pmcid": "12061374",
+  "sha256": "6b41bb1682ad0909ef6a13a35a9e68cf55eae893db77c836c942f7023f693e7e",
+  "timestamp_utc": "2025-11-09T22:14:07.154401+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.559736842105263,
+    "reading_ease": 29.10565789473685,
+    "word_count": 228
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Cryoneurolysis for Chronic Knee Osteoarthritis Pain"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised, double-blind, sham-controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "87 patients with chronic knee osteoarthritis were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either cryoneurolysis or a sham procedure"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to evaluate the efficacy of cryoneurolysis in reducing pain intensity"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the difference in average pain at 14 days post-intervention"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "blinding included patients and outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "87 patients with chronic knee osteoarthritis were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the intention-to-treat analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean difference = 0.49; 95% CI, –0.3 to 1.2; P = 0.198"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Minor, transient adverse effects were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT03774121"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by the Danish Rheumatism Association and the Danish Health Authority"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

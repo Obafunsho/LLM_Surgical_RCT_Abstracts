@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomized 38 patients into two groups."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The surgical technique was identical between the groups with the exception of the use of the aspirator retractor."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We asked whether a new instrument, an aspirator retractor introduced into the wing of the ilium before socket preparation and cementation, would enhance cement fixation as defined by RSA and radiographic examination."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Patients were followed clinically and with radiostereometry at a minimum of 2 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomized 38 patients into two groups."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomized 38 patients into two groups."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "There was no difference in proximal migration between the two groups."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

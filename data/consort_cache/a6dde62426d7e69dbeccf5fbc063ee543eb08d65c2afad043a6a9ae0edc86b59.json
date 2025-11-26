@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Initial Propofol Bolus Doses in Different TCI Pumps"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Two pumps employed a fixed equilibration rate constant (ke0) of 0.456 min\u22121, while the other two used a fixed time to peak concentration (tpeak) of 1.6 min."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to investigate whether differences exist in the initial bolus dose between different TCI pumps, despite using the same pharmacokinetic (PK) model."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the propofol bolus dose, measured on a high precision scale."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "For instance, a virtual 60-year-old, obese man received 72.0 \u00b1 1.0 mg with a Perfusor Space pump and 111.9 \u00b1 1.2 mg with an Alaris pump (P < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

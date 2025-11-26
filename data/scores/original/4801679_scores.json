@@ -1,0 +1,74 @@
+{
+  "pmcid": "4801679",
+  "sha256": "08e24dd3490265875960d1ffb8a592aed0ad4ccc91ac1d988855a938eec19c61",
+  "timestamp_utc": "2025-11-09T16:00:33.538089+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.423606060606065,
+    "reading_ease": 33.202964646464665,
+    "word_count": 275
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The Pragmatic Randomized Optimal Platelet and Plasma Ratios (PROPPR) trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized to 1:1:1 versus 1:1:2 as described in the PROPPR trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Severely injured patients predicted to receive a massive transfusion admitted to 12 level I North American trauma centers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to 1:1:1 versus 1:1:2 as described in the PROPPR trial"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we hypothesized that patients receiving 1:1:1 ratio would have improved survival after emergency laparotomy"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "post-surgical survival at 24-hours and 30-days"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized to 1:1:1 versus 1:1:2"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 680 enrolled patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "346 underwent an emergency laparotomy"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "24-hour survival was 86.8% (151/174) for 1:1:1 and 83.1% (143/172) for 1:1:2 (p=0.29)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

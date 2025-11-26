@@ -1,0 +1,74 @@
+{
+  "pmcid": "3734432",
+  "sha256": "7f5e281694c63cee0167b61b40b18b4722244c8dcc7a6471ec53fa369031b35c",
+  "timestamp_utc": "2025-11-09T15:54:18.175915+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.636255006675572,
+    "reading_ease": 30.966238317757018,
+    "word_count": 321
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomized 269 patients undergoing TKAs"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "269 patients undergoing TKAs"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "to receive dexamethasone (10 mg) 1 hour before surgery and ramosetron immediately after surgery (Dexa-Ra group, n = 135), or ramosetron alone (Ra group, n = 134)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We determined (1) whether the addition of dexamethasone to a protocol including ramosetron further reduces postoperative emesis compared with ramosetron alone; (2) whether it reduces postoperative pain; and (3) whether it increases the risk for wound complications in a current multimodal regime after TKA."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Patients were assessed 0 to 6, 6 to 24, 24 to 48, and 48 to 72 hours postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomized 269 patients undergoing TKAs"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "269 patients undergoing TKAs"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The Dexa-Ra group had a lower incidence of PONV during the entire 72-hour evaluation period and experienced less severe nausea for the first 6 hours after TKA, although not between 6 to 72 hours."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No differences were found in wound complications between the groups, and each group had one case of periprosthetic joint infection."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

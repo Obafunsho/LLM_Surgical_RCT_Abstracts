@@ -1,0 +1,74 @@
+{
+  "pmcid": "12076147",
+  "sha256": "752e8bf87d6f4d7c3f9f5b6a3e61ef6a574cebcf24300c4dd53b43a2e7fd01ed",
+  "timestamp_utc": "2025-11-09T15:29:37.690282+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.266065573770494,
+    "reading_ease": 26.212099621689816,
+    "word_count": 244
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The non-inferiority randomized controlled trial BOOG 2013-08"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The non-inferiority randomized controlled trial BOOG 2013-08"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A total of 1733 women with unilateral cT1–2 N0 invasive breast cancer treated with BCS with or without SLNB were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "breast-conserving surgery (BCS) with or without SLNB"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The primary aim of the present study was to compare patient-reported arm function and HRQoL up to 3 years after study inclusion in cT1–2 N0 patients with breast cancer undergoing breast-conserving surgery (BCS) with or without SLNB."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes of arm function (assessed using the Lymphoedema Functioning, Disability, and Health Questionnaire) and HRQoL (assessed using the European Organisation for Research and Treatment of Cancer QLQ-C30 and QLQ-BR-23 questionnaires) were analysed."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 1733 women with unilateral cT1–2 N0 invasive breast cancer treated with BCS with or without SLNB were included."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analyses included 821 patients (383 with SLNB and 438 without SLNB)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Those in the SLNB group experienced a slight, temporary decline in arm function ( P < 0.025) and reported more HRQoL arm and breast symptoms ( P < 0.049)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT02271828 ( http://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

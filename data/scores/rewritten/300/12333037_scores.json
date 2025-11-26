@@ -1,0 +1,74 @@
+{
+  "pmcid": "12333037",
+  "sha256": "65e01bf3639efdb9979203bdd8c374fcbe51c9143e635850689c9f67524ec37d",
+  "timestamp_utc": "2025-11-09T23:33:29.824825+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.682800000000004,
+    "reading_ease": 36.28340000000003,
+    "word_count": 250
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial on the Impact of Mild Renal Dysfunction in CABG Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted at Nanjing First Hospital from July 2020 to December 2022."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing isolated CABG were divided into normal renal function (eGFR ≥ 90 mL/min/1.73 m²) and mild renal dysfunction (eGFR: 60–89 mL/min/1.73 m²) groups."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients undergoing isolated CABG were divided into normal renal function (eGFR ≥ 90 mL/min/1.73 m²) and mild renal dysfunction (eGFR: 60–89 mL/min/1.73 m²) groups."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the prognosis and mid-term outcomes in CABG patients with mild renal dysfunction."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was acute kidney injury (AKI) within 7 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable due to the retrospective nature of the study."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable due to the retrospective nature of the study."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 1,097 patients were enrolled, with 416 (33.3%) having mild renal dysfunction."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "After matching, 379 pairs were analysed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Patients with mild renal dysfunction had a higher incidence of AKI (26.1% vs. 18.7%, p = 0.015) but no significant difference in perioperative mortality (1.3% vs. 1.3%, p = 1.00)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not specifically reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

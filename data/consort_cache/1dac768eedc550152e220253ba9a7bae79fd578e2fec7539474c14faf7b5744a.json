@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Robotic-Assisted and Hand-Rasped Techniques in Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomized to robotic-assisted (75 hips, 69 patients) or hand-rasped (71 hips, 61 patients) groups using a computer-generated sequence with allocation concealment."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "the trial included 130 patients eligible for primary cementless THA."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized to robotic-assisted (75 hips, 69 patients) or hand-rasped (71 hips, 61 patients) groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the long-term clinical and radiographic outcomes of robotic-assisted versus hand-rasped femoral component insertion in total hip arthroplasty (THA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Japanese Orthopaedic Association (JOA) score, assessed at a minimum follow-up of 10 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Participants were randomized to robotic-assisted (75 hips, 69 patients) or hand-rasped (71 hips, 61 patients) groups using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "evaluated by blinded assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomized to robotic-assisted (75 hips, 69 patients) or hand-rasped (71 hips, 61 patients) groups"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "115 patients (88%) were available for analysis"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "JOA scores were similar between groups (robotic: 97 \u00b1 5, hand-rasped: 96 \u00b1 7; mean difference 1.4; p = 0.159)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

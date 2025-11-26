@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Preoperative Smoking Cessation Interventions"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This systematic review included randomised controlled trials (RCTs) and non-RCTs."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were smokers aged over 18 scheduled for elective surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received preoperative smoking cessation support, while the control group received usual care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effectiveness of preoperative smoking cessation interventions."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was smoking cessation at surgery time and at the last follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixteen studies (3505 participants) were included, with 14 RCTs (2940 participants) in the meta-analysis."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group had significantly increased odds of quitting smoking at surgery time (RR 1.64, 95% CI 1.30\u20132.07) and at the longest follow-up (RR 1.38, 95% CI 1.12\u20131.70)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42023423202."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

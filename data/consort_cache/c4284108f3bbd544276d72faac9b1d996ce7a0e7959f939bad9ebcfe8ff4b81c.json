@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Association of Stress Hyperglycemia Ratio with Prognosis in Coronary Artery Bypass Grafting: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This prospective cohort study included 18,307 patients undergoing isolated CABG at the National Center for Cardiovascular Diseases, Fuwai Hospital, Beijing, from January 2013 to December 2021."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the association between SHR and prognosis in coronary artery bypass grafting (CABG) patients."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was a composite of in-hospital death, myocardial infarction, cerebrovascular accident, and reoperation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "This prospective cohort study included 18,307 patients undergoing isolated CABG at the National Center for Cardiovascular Diseases, Fuwai Hospital, Beijing, from January 2013 to December 2021."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The third tertile showed a 10.7% greater risk of MACCEs (HR: 1.107, 95% CI 1.023\u20131.231, P = 0.024)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials.gov NCT02400125"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

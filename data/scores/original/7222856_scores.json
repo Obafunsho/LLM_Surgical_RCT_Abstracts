@@ -1,0 +1,74 @@
+{
+  "pmcid": "7222856",
+  "sha256": "80e5099c87f8cc305e8e199f4a001c3230cb1cbcae72fcc319224145761107e3",
+  "timestamp_utc": "2025-11-09T16:12:32.602032+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 19.118571428571432,
+    "reading_ease": -2.8235714285714266,
+    "word_count": 154
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Purpose of Review: The purpose of this review is to assess how residual neuromuscular block impacts postoperative pulmonary complications and whether we can modify the risk by improving certain aspects in daily clinical care."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 0,
+    "max_score": 25
+  }
+}

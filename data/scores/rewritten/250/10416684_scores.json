@@ -1,0 +1,74 @@
+{
+  "pmcid": "10416684",
+  "sha256": "830a69e2765c6ac2a5cfccf446a83f34ce42f1a229e36bc8289b3c24dba4f1d4",
+  "timestamp_utc": "2025-11-09T21:54:25.803978+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.145332225913624,
+    "reading_ease": 42.50889534883723,
+    "word_count": 215
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Transanal Irrigation with Cone Catheter versus Standard Care for Low Anterior Resection Syndrome"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to TAI or SOC."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "included patients with a low colorectal or coloanal anastomosis and a LARS score of at least 30, at least 3 months post-stoma closure."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to TAI or SOC."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study aimed to evaluate the superiority of transanal irrigation (TAI) with a cone catheter over standard care (SOC) in patients with major low anterior resection syndrome (LARS)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in LARS score at 3 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was not concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 32 patients were randomised (16 to TAI, 16 to SOC) between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "One patient from each group was excluded, leaving 15 analysed per group."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean LARS score decreased significantly more in the TAI group (p = 0.008)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Seventeen adverse events occurred in 14 patients, with none severe."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by Coloplast, Humlebaek, Denmark."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

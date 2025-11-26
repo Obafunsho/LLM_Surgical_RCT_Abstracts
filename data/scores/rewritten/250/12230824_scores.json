@@ -1,0 +1,74 @@
+{
+  "pmcid": "12230824",
+  "sha256": "3dd705d43d84b24d5419c976926d99a8da8e7b18e302ac233acd434c3783dd94",
+  "timestamp_utc": "2025-11-09T22:19:17.576243+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.32375,
+    "reading_ease": 23.80562500000002,
+    "word_count": 218
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Invasive Hemodynamic Monitoring in Acute Heart Failure: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were adults diagnosed with AHF or CS."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received complete hemodynamic assessment, while the control group received standard care."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in hemodynamic stability, measured over a 30-day period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Participants were randomised using a computer-generated sequence and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "98 participants were analysed using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "showing a significant improvement in hemodynamic stability (mean difference = 5.2 mm Hg, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 3% of the intervention group and 1% of the control group, with mild gastrointestinal side-effects."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: This trial was funded by the National Heart Institute."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "a metaphyseal anchoring SHA (Tri-Lock BPS) stem and a standard THA (Corail) stem were implanted"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "no study has evaluated whether a short stem in revision THA, replacing a standard stem, can provide adequate primary stability"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary stability was estimated using three-dimensional (3D) micromotions at five points around the bone\u2013implant interface."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Tri-Lock BPS group presented significantly greater 3D micromotions only at the lateral point of the distal femur (P5: Tri-Lock BPS 32.9\u2009\u00b1\u20097.54\u00a0\u03bcm vs. Corail 25.1\u2009\u00b1\u20094.32\u00a0\u03bcm; p =\u20090.011)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

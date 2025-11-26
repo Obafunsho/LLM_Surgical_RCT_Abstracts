@@ -1,0 +1,74 @@
+{
+  "pmcid": "6345297",
+  "sha256": "ed93f85b8642b8cff219c98c56c95a2639ebbae2673be2526438d182a031c12c",
+  "timestamp_utc": "2025-11-09T16:08:21.723055+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.594046168958744,
+    "reading_ease": 28.590283398821242,
+    "word_count": 509
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We performed a randomized controlled trial recruiting patients from January 2012 to June 2013."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "One hundred sixty-four patients with end-stage osteoarthritis were included and randomized to either the direct anterior or direct lateral approach."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to either the direct anterior or direct lateral approach."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose of this study was to compare the direct anterior approach with the direct lateral approach to THA with respect to (1) patient-reported and validated outcomes scores; (2) frequency and persistence of abductor weakness, as demonstrated by the Trendelenburg test; and (3) major complications such as infection, dislocation, reoperation, or neurovascular injury."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Before surgery and at 3, 6, 12, and 24 months, a physiotherapist recorded the Harris hip score (HHS), 6-minute walk distance (6MWD), and performed the Trendelenburg test directly after the 6MWD."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Assessors were blinded to the approach used."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "One hundred sixty-four patients with end-stage osteoarthritis were included and randomized to either the direct anterior or direct lateral approach."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "One hundred fifty-four patients (94%) completed the 2-year followup; five patients from each group were lost to followup."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "A higher proportion of patients had a persistently positive Trendelenburg test 24 months after surgery in the lateral approach than the direct anterior approach (16% [12 of 75] versus 1% [one of 79]; odds ratio, 15; p = 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were four major nerve injuries in the direct anterior group (three transient femoral nerve injuries, resolved by 3 months after surgery, and one tibial nerve injury with symptoms that persist 24 months after surgery) and none in the lateral approach."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

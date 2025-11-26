@@ -1,0 +1,74 @@
+{
+  "pmcid": "4828933",
+  "sha256": "71c36d6cf684c8982c7b37b6c9aef0d4ac5c1a5f10c787122ede22671778b797",
+  "timestamp_utc": "2025-11-09T16:00:51.458577+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.202205188679248,
+    "reading_ease": 22.739534198113233,
+    "word_count": 265
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Fifty patients with a biopsy-proven lung adenocarcinoma were enrolled."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were systemically administered 0.1 mg/kg of a fluorescent folate receptor alpha (FRα)-targeted molecular contrast agent by intravenous infusion."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We propose that a targeted molecular contrast agent could bind lung adenocarcinomas and then identify these tumors by real-time optical imaging at the time of surgery."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "46/50 (92%) lung adenocarcinomas were fluorescent."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

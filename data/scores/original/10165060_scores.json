@@ -1,0 +1,74 @@
+{
+  "pmcid": "10165060",
+  "sha256": "a2dedb40e2a81158a02e84a8b6a6c64d26b03bb2e517a10eea226dd9689ae4c6",
+  "timestamp_utc": "2025-11-09T15:05:19.377642+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.683823529411764,
+    "reading_ease": 18.284705882352966,
+    "word_count": 272
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This RCT aimed to compare these two techniques regarding functional and aesthetic outcomes."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "adult patients undergoing superficial conservative parotidectomy in a single centre for a benign indication were randomized into two equal groups using a closed envelope method."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adult patients undergoing superficial conservative parotidectomy in a single centre for a benign indication"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "In one group, FDFG was inserted at the parotidectomy bed, whereas, in the other group, SMAS flap was performed."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This RCT aimed to compare these two techniques regarding functional and aesthetic outcomes."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the development of Frey's syndrome."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized into two equal groups using a closed envelope method."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Seventy-eight patients were randomized into two equal groups of 39 patients."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Seventy-eight patients were randomized into two equal groups of 39 patients."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "There was no significant difference between the two groups regarding development of Frey's syndrome."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There was no significant statistical difference between study groups regarding demographic data, co-morbidities, parotid pathologies, specimen volumes, total operating time, and postoperative complications."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT05452837 ( http://www.clinicaltrials.gov )"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

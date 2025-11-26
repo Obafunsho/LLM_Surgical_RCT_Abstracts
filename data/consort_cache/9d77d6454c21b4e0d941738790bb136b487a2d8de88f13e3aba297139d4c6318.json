@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Design: Prospective phase II trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with stage cT2N0 rectal adenocarcinomas"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "treated with an oxaliplatin/capecitabine-based chemoradiation regimen followed by local excision"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: Prospectively assess anorectal function and health-related quality of life"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "assessed at enrollment and 1 year postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seventy-one (98%) patients were evaluated at enrollment and 66 (92%) at 1 year"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Seventy-one (98%) patients were evaluated at enrollment and 66 (92%) at 1 year"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Fecal Incontinence Quality of Life results were significantly worse in the lifestyle (p<0.001), coping/behavior (p<0.001) and embarrassment (p=0.002) domains"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

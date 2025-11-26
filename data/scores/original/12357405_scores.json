@@ -1,0 +1,74 @@
+{
+  "pmcid": "12357405",
+  "sha256": "123faef2f8a1df890779c18dcc7d141d0d58319cef48ffa49aa06b2850057494",
+  "timestamp_utc": "2025-11-09T15:37:56.848750+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.858587412587415,
+    "reading_ease": 15.32429137529138,
+    "word_count": 286
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The patient suffered from morbid obesity with weight 260 kg, height 1.62 m, and a body mass index of 99 kg/m 2 . She was American Society of Anesthesiologists III with obesity hypoventilation syndrome, and chronic heart failure."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Opioid-free anesthesia/analgesia was performed via total intravenous anesthesia based on propofol and standard multimodal analgesia."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "There was effective pain control (VAS < 3) and an absence of postoperative nausea and vomiting."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No respiratory, cardiovascular, or gastric complications were observed during the hospital stay, and she was discharged on the eleventh postoperative day, indicating a high level of satisfaction without complications or adverse effects."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The Carotid Revascularization and Medical Management for Asymptomatic Carotid Stenosis Trial (CREST-2) is a pair of randomized trials"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "a pair of randomized trials assessing the relative efficacy of carotid revascularization"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients with asymptomatic high-grade atherosclerotic stenosis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "One of the trials assesses IMM with or without carotid artery stenting (CAS)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This analysis describes the protocol-driven approach to credentialing of CAS interventionists for CREST-2 and its outcomes."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "approval increased to 46% (153/334) after submission of new cases with added training and rereview."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

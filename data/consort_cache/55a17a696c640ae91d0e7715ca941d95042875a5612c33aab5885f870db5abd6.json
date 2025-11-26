@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Kinematic and Mechanical Alignment in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Ninety-nine primary TKAs for osteoarthritis were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Ninety-nine primary TKAs for osteoarthritis were randomised to mechanical alignment (n = 50) or kinematic alignment (n = 49) groups."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Computer navigation was used for mechanical alignment, and patient-specific cutting blocks for kinematic alignment."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to compare kinematic alignment with mechanical alignment in total knee arthroplasty (TKA) regarding patient-reported outcomes, survivorship, and radiographic aseptic loosening over five years."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was patient-reported outcome measures assessed using the Knee Society Score, VAS, Oxford Knee Score, WOMAC, Forgotten Joint Score, and EuroQol 5D at five years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ninety-nine primary TKAs for osteoarthritis were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "At five years, 95% of mechanical alignment and 96% of kinematic alignment TKAs were available for follow-up."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean Oxford Knee Score was similar (kinematic: 41.4 \u00b1 7.2 vs. mechanical: 41.7 \u00b1 6.3; difference -0.3 [95% CI -3.2 to 2.5]; p = 0.99)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One case of radiographic aseptic loosening was observed in the mechanical alignment group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

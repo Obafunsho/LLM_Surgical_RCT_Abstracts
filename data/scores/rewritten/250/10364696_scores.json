@@ -1,0 +1,74 @@
+{
+  "pmcid": "10364696",
+  "sha256": "cb2f699e8bac0c088442e0a0bc7238cfd425ba4f6d5a25f67e19bcaa4cda8fe3",
+  "timestamp_utc": "2025-11-09T21:53:30.830187+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.249414515525629,
+    "reading_ease": 34.08312289562292,
+    "word_count": 243
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Scar Quality After Hydrosurgical Versus Conventional Debridement in Burn Patients"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A multicentre, double-blind, randomised controlled trial was conducted"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants had burns requiring split-skin grafting."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Each patient had two wound areas, one randomised to hydrosurgical debridement and the other to Weck knife debridement."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial aimed to compare scar quality following hydrosurgical versus conventional debridement before split-skin grafting in burn patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was scar quality at 12 months, assessed using the observer part of the Patient and Observer Scar Assessment Scale (POSAS)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a web-based system, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Both patients and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 137 patients were randomised between January 2017 and July 2019."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 12 months, the hydrosurgically debrided wounds had a lower POSAS observer total item score (mean difference -0.12, 95% CI -0.22 to -0.02; p = 0.023) and overall opinion score (mean difference -0.22, 95% CI -0.34 to -0.09; p = 0.006)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in complication rates were observed."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Trial NL6085 (NTR6232)."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: This study was funded by the Dutch Burns Foundation (grant number 15.101)."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

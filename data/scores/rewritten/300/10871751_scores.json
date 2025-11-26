@@ -1,0 +1,74 @@
+{
+  "pmcid": "10871751",
+  "sha256": "854b17757eab8c411765b7790cb011ad633fbaa1c6a6970fd6d1b434252b00ef",
+  "timestamp_utc": "2025-11-09T23:10:18.811230+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.331036866359447,
+    "reading_ease": 34.85881720430109,
+    "word_count": 248
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Augmented Reality Navigation in Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Seventy-two patients scheduled for THA were randomly assigned"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Seventy-two patients scheduled for THA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to either the AR navigation group or the conventional technique group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed whether a commercially available augmented reality (AR) navigation system enhances cup positioning accuracy in total hip arthroplasty (THA) compared to conventional methods."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was cup positioning, evaluated by the absolute differences between intended and achieved angles, and the number of cups within the Lewinnek safe zone, measured within one week post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seventy-two patients scheduled for THA were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The AR navigation group showed improved cup positioning, with median absolute differences of 1° (IQR 0° to 4.0°) versus 5° (IQR 3.0° to 7.5°) for abduction and 2° (IQR 1.9° to 3.7°) versus 5° (IQR 3.2° to 9.7°) for anteversion (p < 0.001 and p = 0.001, respectively)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences were found in HOOS improvement or complication rates."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

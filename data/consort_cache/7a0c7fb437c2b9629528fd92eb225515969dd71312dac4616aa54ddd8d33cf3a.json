@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Neuromuscular Blockade Antagonists in Surgical Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "35 randomised controlled trials (RCTs) involving 4275 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were surgical patients requiring neuromuscular blockade reversal."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention was sugammadex, compared to neostigmine."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the impact of neuromuscular blockade antagonists on postoperative complications and recovery quality."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was time to Train-of-Four ratio (TOFR) \u2265 0.9, measured postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "35 randomised controlled trials (RCTs) involving 4275 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Sugammadex facilitated faster RNB reversal than neostigmine, with a quicker TOFR \u2265 0.9 (standardized mean difference [SMD] \u22123.45; 95% confidence interval [CI], \u22124.42 to \u22122.48)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not detailed."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42024561006."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

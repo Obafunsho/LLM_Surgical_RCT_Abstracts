@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Hemolysis During Bed Rest and Nutritional Intervention"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In a prospective randomized clinical trial, 20 male participants were recruited"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included age 20-45 years and BMI 22-27 kg/m\u00b2."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized to receive either a control diet or a diet supplemented with polyphenols, omega-3, vitamin E, and selenium."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess hemolysis during 60 days of bed rest and the effect of a nutritional intervention."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was endogenous carbon monoxide (CO) elimination, measured by gas chromatography over 60 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "20 male participants were recruited"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "CO elimination increased significantly after 5, 11, 30, and 57 days of bed rest compared to baseline."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials.gov NCT03594799."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by the Center National d\u2019Etudes Spatiales and the European Space Agency."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

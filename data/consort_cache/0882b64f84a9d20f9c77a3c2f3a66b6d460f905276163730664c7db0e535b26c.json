@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tourniquet Use in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "71 patients (79 knees) undergoing TKA were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study was conducted at a single institution. Eligibility criteria excluded high-risk patients for tourniquet-related complications."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either continuous tourniquet use from incision through cementation (operative tourniquet group) or tourniquet use only during cementation (cementation tourniquet group)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effects of limited tourniquet use during cementation only."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was surgical time"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "71 patients (79 knees) undergoing TKA were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant differences were found between groups in surgical time, pain scores, pain medication requirements, range of motion, hemoglobin change, or total blood loss."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One major complication, compartment syndrome, occurred in the operative tourniquet group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

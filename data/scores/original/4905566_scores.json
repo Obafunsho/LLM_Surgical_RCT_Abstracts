@@ -1,0 +1,74 @@
+{
+  "pmcid": "4905566",
+  "sha256": "91bad4445aaef6e40b9218bf6fb7fabe2a7146eac413e15a186dbe2953d20d24",
+  "timestamp_utc": "2025-11-09T16:01:10.627190+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.3288698630137,
+    "reading_ease": 46.34549657534248,
+    "word_count": 292
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomized Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomized Controlled Trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "61 obese participants with T2DM who were randomized"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to either an intensive lifestyle weight loss intervention for 1 year followed by a lower lifestyle weight loss intervention (LLLI) for 2 years or surgical treatments [Roux en Y gastric bypass (RYGB) or Laparoscopic adjustable gastric banding (LAGB)] followed by LLLI in years 2 and 3."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compared the remission of T2DM following surgical and non-surgical treatments."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Primary endpoints were partial and complete diabetes remission"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "61 obese participants with T2DM who were randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Partial or complete T2DM remission was achieved by 40% (n=8) of RYGB, 29% (n=6) of LAGB, and no LWLI participants (p=0.0037)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

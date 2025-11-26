@@ -1,0 +1,74 @@
+{
+  "pmcid": "11895793",
+  "sha256": "0408a0c2befe103cf6fa74a7b2d4919c907ede57a0acaf1c789a6636c630d0d1",
+  "timestamp_utc": "2025-11-09T15:25:38.386605+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.98980392156863,
+    "reading_ease": 37.051425339366546,
+    "word_count": 204
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a double-blinded randomized clinical trial, 58 candidates for rhinoplasty were randomly assigned to the PCV or VCV groups."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "58 candidates for rhinoplasty were randomly assigned to the PCV or VCV groups."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effect of pressure-controlled ventilation (PCV) versus volume-controlled ventilation (VCV) modes on intraoperative bleeding during rhinoplasty."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The amount of bleeding was assessed by counting blood-soaked gauze and measuring the content of the suctioned fluid."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "In a double-blinded randomized clinical trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "58 candidates for rhinoplasty were randomly assigned to the PCV or VCV groups."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean intraoperative bleeding volume was 30 ± 45 mL in the PCV group and 100 ± 120 mL in the VCV group (P < 0.001). After adjusting for confounding variables, the odds ratio increased to 26.8 (95% CI = 1.2, 59.3)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

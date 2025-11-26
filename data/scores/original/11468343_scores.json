@@ -1,0 +1,74 @@
+{
+  "pmcid": "11468343",
+  "sha256": "30093e927e36e62a6a2438bed488708defd6ad71a39a4d9983e164c1e04e173f",
+  "timestamp_utc": "2025-11-09T15:19:46.072620+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.005441176470594,
+    "reading_ease": 34.79227375565611,
+    "word_count": 272
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Our aim was to investigate whether patients on general wards receiving continuous vital signs monitoring have better outcomes than patients receiving usual care."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We included seven trials involving 1284 participants."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The pooled odds for hospital mortality, major event/complication, and HDU/ICU admission was 0.95 (95% CI 0.59–1.53, p = 0.84; 660 participants, 3 studies), 0.71 (95% CI 0.38–1.31, p = 0.27; 948 participants, 4 studies) and 0.82 (95% CI 0.25–2.67, p = 0.74; 655 participants, 4 studies), respectively. The mean difference for length of stay was 2.12 days lower (95% CI −5.56 to 1.32, p = 0.23; 1034 participants, 6 studies)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration: PROSPERO CRD42023458656."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

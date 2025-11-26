@@ -1,0 +1,74 @@
+{
+  "pmcid": "12294886",
+  "sha256": "f3bcefd13b896d8bbad1efab6f0b3d04331bbe92dfefac5929fbf81851726c21",
+  "timestamp_utc": "2025-11-09T23:32:19.557609+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.328811420982735,
+    "reading_ease": 9.99931717574151,
+    "word_count": 251
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Continuous Pressure Monitoring in Regional Anesthesia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomisation at the interfascial space level"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "A custom-built pressure monitoring system continuously measured saline injection pressure during ultrasound-guided regional block procedures."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether continuous monitoring of injection pressure can differentiate interfascial spaces from surrounding structures in a porcine model."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the differentiation of interfascial spaces, measured during the procedure."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "The study was conducted with blinding of the operator to the pressure measurements."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Mean intramuscular pressure was significantly higher than mean interfascial pressure (p < 1 × 10^−13)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "No trial registration number is available as this was a pilot study."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: The study was funded by grant RW/36/25."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

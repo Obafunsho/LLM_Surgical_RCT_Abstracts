@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We included randomised trials of adults undergoing major elective surgery allocated to a prehabilitation programme"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "adults undergoing major elective surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "allocated to a prehabilitation programme, with at least one binary or continuous measure of adherence to prehabilitation, to an individual component, or both"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Our objectives were to synthesise current approaches to adherence measurement and reporting, estimate prehabilitation adherence across trials, identify procedural-, programme-, or patient-level factors associated with adherence, and report barriers and facilitators to adherence."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "included 105 trials ( n =4941)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Pooled adherence was 79% (95% confidence interval [CI] 70\u201388; I 2 =95.4%)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Systematic review protocol: PROSPERO (CRD42024518851)"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

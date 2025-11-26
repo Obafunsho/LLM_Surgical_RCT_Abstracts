@@ -1,0 +1,74 @@
+{
+  "pmcid": "12018875",
+  "sha256": "2d90b76dc7fa8e1c302b6ac536a4df08891b490041f9479e2216e5c263c926ce",
+  "timestamp_utc": "2025-11-09T23:24:35.411511+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.741769316909298,
+    "reading_ease": 11.401052631578949,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Multimodal Image-Guided Surgery in Colorectal Peritoneal Metastases"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A single-centre, open-label, phase II study was conducted"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients aged ≥18 years with confirmed colorectal peritoneal metastases were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved intravenous administration of 10 mg 111 In-labelled DOTA–labetuzumab-IRDye800CW, followed by SPECT/CT and intraoperative radiodetection and NIRF imaging."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to validate the safety and feasibility of multimodal image-guided surgery"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the safety and feasibility of the procedure, assessed over a 10-day period post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "No randomisation or blinding was employed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "No randomisation or blinding was employed."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seven patients were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "NIRF imaging detected 34 (92%) of 37 malignant lesions, with 4 false-positive results."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No study-related severe adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT03699332."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

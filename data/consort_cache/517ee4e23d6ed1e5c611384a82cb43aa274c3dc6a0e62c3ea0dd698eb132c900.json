@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this randomized trial, we asked:"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Ninety-nine primary TKAs in 95 patients were randomized to either MA (n = 50) or KA (n = 49) groups."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Ninety-nine primary TKAs in 95 patients were randomized to either MA (n = 50) or KA (n = 49) groups."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "In the KA group, patient-specific cutting blocks were manufactured using individual preoperative MRI data. In the MA group, computer navigation was used to ensure neutral mechanical alignment accuracy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "In this randomized trial, we asked: (1) Are 2-year patient-reported outcome scores enhanced in patients with KA compared with an MA technique?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "functional scores (including the Oxford Knee Score, WOMAC, and the Forgotten Joint Score) were assessed preoperatively and at 6 weeks, 6 months, and 1 and 2 years postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Ninety-nine primary TKAs in 95 patients were randomized to either MA (n = 50) or KA (n = 49) groups."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Ninety-nine primary TKAs in 95 patients were randomized to either MA (n = 50) or KA (n = 49) groups."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "No patients were lost to followup."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "We observed no difference in 2-year change scores (postoperative minus preoperative score) in KA versus MA patients for the OKS (mean 21, SD 8 versus 20, SD 8, least square means 1.0, 95% confidence interval [CI], \u22121.4 to 3.4, p = 0.4)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complication rates were not different between groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

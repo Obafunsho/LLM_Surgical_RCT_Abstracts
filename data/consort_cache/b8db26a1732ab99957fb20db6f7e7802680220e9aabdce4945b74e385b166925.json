@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Nail Bed Repair with or without Fingernail Replacement in Children"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This multicentre, two-arm, 1:1 parallel-group superiority RCT was conducted across 20 UK hospitals."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were children under 16 years with a nail bed injury requiring surgical repair."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group had the fingernail replaced, while the control group had it discarded."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the clinical and cost-effectiveness of nail bed repair with versus without fingernail replacement."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The co-primary outcomes were surgical-site infection at 7\u201310 days and cosmetic appearance at 4\u201312 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 451 children were randomised between July 2018 and December 2019, with 224 in the nail-discarded group and 227 in the nail-replaced group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 218 and 222 participants, respectively, using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "No significant difference was found in infection rates (OR 2.49, 95% CI 0.58 to 10.61; p = 0.218) or cosmetic appearance (p = 0.118)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Two serious adverse events were reported, one in each group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN44551796."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by the UK National Institute for Health Research."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

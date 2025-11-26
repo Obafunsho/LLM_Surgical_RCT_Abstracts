@@ -1,0 +1,74 @@
+{
+  "pmcid": "12205432",
+  "sha256": "079b33c91ce0bf9658d3810c3ffb823e85f99827970fc08a037015af1c3d45bf",
+  "timestamp_utc": "2025-11-09T22:18:50.169567+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.609193061840124,
+    "reading_ease": 40.868078179989965,
+    "word_count": 221
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "BASIL-2: A Randomised Controlled Trial of Revascularization Strategies in CLTI"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "BASIL-2 was an open-label, multicentre, phase 3 randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "conducted in 41 vascular surgery units in the UK, Sweden, and Denmark"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "vein bypass (VB) first versus a best endovascular treatment (BET) first revascularization strategy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the cost-effectiveness and cost-utility"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was amputation-free survival (AFS) over a 2- to 7-year follow-up"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "BASIL-2 was an open-label"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 345 participants were randomised (172 to VB-first, 173 to BET-first) between July 2014 and November 2020"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was intention-to-treat"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "BET-first showing lower costs (–£2,524, 95% CI –£5,845 to £1,132)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered with ISRCTN27728689"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by the NIHR HTA"
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  }
+}

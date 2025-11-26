@@ -1,0 +1,74 @@
+{
+  "pmcid": "11947607",
+  "sha256": "d796825fd98890b5c35341267f07e944f9fc43dc290d5390c93e0f89152af826",
+  "timestamp_utc": "2025-11-09T15:26:59.007876+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 18.072383676582763,
+    "reading_ease": 8.734016653953745,
+    "word_count": 437
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding for this task force was provided exclusively by the EACTS, EACTAIC and EBCP, without involvement from the healthcare industry or other entities."
+      }
+    },
+    "total_score": 1,
+    "max_score": 25
+  }
+}

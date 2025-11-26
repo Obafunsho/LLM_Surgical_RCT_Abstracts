@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Effects of Magnesium Sulphate on Post-Extubation Morbidities"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-blind, randomised controlled trial involved 90 surgical patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at Korle-Bu Teaching Hospital, Ghana, this single-blind, randomised controlled trial involved 90 surgical patients requiring endotracheal intubation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised into three groups: A (control, ETTc inflated with air), B (intra-cuff magnesium sulphate), and C (intravenous magnesium sulphate)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effects of intravenous and intra-cuff magnesium sulphate on these morbidities."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of PEST during the first 24 postoperative hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was achieved through balloting"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "patients were blinded to the treatment"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Ninety-six patients were enrolled, with 29 in Group A, 29 in Group B, and 32 in Group C completing the study."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "29 in Group A, 29 in Group B, and 32 in Group C completing the study."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Intravenous magnesium sulphate significantly reduced the incidence of PEST on swallowing at 4, 8, and 12 hours post-operatively compared to intra-cuff magnesium sulphate (51.7% vs 12.5%, 51.7% vs 18.8%, and 51.7% vs 21.9%, respectively)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PACTR202211634990263."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

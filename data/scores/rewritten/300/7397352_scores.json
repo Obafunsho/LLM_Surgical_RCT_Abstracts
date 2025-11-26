@@ -1,0 +1,74 @@
+{
+  "pmcid": "7397352",
+  "sha256": "5a19501bd016b15648138bb7468366f03f800580e098d53d81a56caf11212609",
+  "timestamp_utc": "2025-11-10T00:05:53.013996+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.803880308880313,
+    "reading_ease": 28.17732031482032,
+    "word_count": 259
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Perioperative Omega-3 Fatty Acid Supplementation in Colorectal Cancer Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised, double-blind, placebo-controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients scheduled for elective colorectal cancer resection"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either an n-3 FA-enriched oral nutrition supplement (ONS) or a standard ONS (control)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to assess the impact of perioperative omega-3 fatty acid (n-3 FA) supplementation on postoperative outcomes and survival"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative complications"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 148 randomised patients"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "125 were analysed (65 n-3 FA, 60 control) using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 3-year disease recurrence risk was similar between groups (RR 1.66, 95% CI 0.65 to 4.26)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00488904"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

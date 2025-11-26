@@ -1,0 +1,74 @@
+{
+  "pmcid": "6618092",
+  "sha256": "9eda6a3fe7f1ff3e45cc5b58013133bcd7a4a7f99798f5f70e0c3270e41b595c",
+  "timestamp_utc": "2025-11-09T22:51:21.893461+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.947562254259505,
+    "reading_ease": 42.23319571865446,
+    "word_count": 218
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Endovenous Laser Ablation and Radiofrequency Ablation for Great Saphenous Vein Incompetence"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A single-centre, double-blind, three-arm, superiority randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients with symptomatic great saphenous vein (GSV) incompetence were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive EVLA, dRFA, or iRFA"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the efficacy of EVLA with direct RFA (dRFA) and indirect RFA (iRFA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was GSV occlusion rate at 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using stratified block randomisation, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 451 patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Intention-to-treat analysis showed occlusion rates"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "occlusion rates of 75.0% (95% CI 68.0 to 82.0) for EVLA, 59.9% (52.1 to 67.7) for dRFA, and 81.3% (75.1 to 87.6) for iRFA."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were more frequent in the EVLA group, particularly pain."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NL27871.075.10."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

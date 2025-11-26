@@ -1,0 +1,74 @@
+{
+  "pmcid": "5095806",
+  "sha256": "ac1bc39a2f5edc8a132899da765b07d0ee206d3fd3586b6ac3c44bd3212d1d87",
+  "timestamp_utc": "2025-11-09T23:56:19.564363+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.245718631178708,
+    "reading_ease": 38.49570088719901,
+    "word_count": 263
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Surgery, Endovenous Laser Ablation, and Ultrasound-Guided Foam Sclerotherapy for Great Saphenous Varicose Veins"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomised using block randomisation with sealed envelopes."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at two university hospitals in Finland, the trial included patients aged 20-70 with symptomatic, uncomplicated varicose veins (CEAP class C2–C4)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This trial aimed to compare the efficacy of surgery, endovenous laser ablation (EVLA), and ultrasound-guided foam sclerotherapy (UGFS) in treating great saphenous varicose veins."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial aimed to compare the efficacy of surgery, endovenous laser ablation (EVLA), and ultrasound-guided foam sclerotherapy (UGFS) in treating great saphenous varicose veins."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the occlusion rate of the great saphenous vein (GSV) at 12 months, assessed by duplex ultrasound."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomised using block randomisation with sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not applied to patients or clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 214 patients were randomised: 65 to surgery, 73 to EVLA, and 76 to UGFS, between November 2007 and May 2010."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 214 patients were randomised: 65 to surgery, 73 to EVLA, and 76 to UGFS."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 12 months, GSV occlusion was achieved in 97% of surgery and EVLA patients, compared to 51% in the UGFS group (P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No major complications were reported, with minor complications such as haematoma and skin pigmentation occurring more frequently in the UGFS group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not disclosed."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

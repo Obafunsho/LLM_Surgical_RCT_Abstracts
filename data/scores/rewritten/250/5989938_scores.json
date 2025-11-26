@@ -1,0 +1,74 @@
+{
+  "pmcid": "5989938",
+  "sha256": "a66b31ae3f2b4cc52c0932bf90c0101b5f058e972b4ff88a6490f7b8f3bb487d",
+  "timestamp_utc": "2025-11-09T22:48:48.552322+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.943214285714287,
+    "reading_ease": 27.201785714285734,
+    "word_count": 224
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Fibrin Sealant Patch in Reducing Postoperative Pancreatic Fistula"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "142 patients aged 18 years or older were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients undergoing pancreatoduodenectomy with pancreatojejunostomy. Conducted across six tertiary-care centres in Austria"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "fibrin-coated collagen patch (patch group) or no patch (control group)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluated the efficacy of a fibrin sealant patch in reducing postoperative pancreatic fistula (POPF)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was POPF, assessed up to 42 days post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a secure internet-based service, with allocation concealment ensured"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between September 2013 and March 2015, 71 patients were randomised to each group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on all 142 patients using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "POPF occurred in 63% of the patch group and 56% of the control group (p=0.392)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: EudraCT 2013-000639-29"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

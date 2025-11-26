@@ -1,0 +1,74 @@
+{
+  "pmcid": "10758268",
+  "sha256": "2db33cedcde824878cead799249f235a61bbe0a9be3be3cb8cf4c9fc098c373c",
+  "timestamp_utc": "2025-11-09T15:11:15.497100+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.430675268817204,
+    "reading_ease": 41.82557419354842,
+    "word_count": 375
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study aimed to evaluate the effectiveness of sclerotherapy in treating chronic venous insufficiency grades 1-6 in the lower limb through a systematic review and meta-analysis."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Sclerotherapy has emerged as a potentially effective treatment for chronic venous insufficiency, involving the injection of a sclerosing agent into the affected veins."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effectiveness of sclerotherapy in treating chronic venous insufficiency grades 1-6 in the lower limb through a systematic review and meta-analysis."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The results of the meta-analysis from 9.670 total samples showed that sclerotherapy is the most effective therapy for reducing clinical severity in lower limb venous insufficiency patients (pooled MD = -0.85, 95% CI (-1.41, -0.29), p < 0.00001, I 2 = 99%)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

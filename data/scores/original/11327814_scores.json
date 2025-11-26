@@ -1,0 +1,74 @@
+{
+  "pmcid": "11327814",
+  "sha256": "b4b97acae4311837197baa8488dd1bfad8936c285f41cf52536b7436a21e6c56",
+  "timestamp_utc": "2025-11-09T15:17:54.621290+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.189754110502147,
+    "reading_ease": 49.352438897941056,
+    "word_count": 314
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "412 children (ages 3–12) who were scheduled for arterial blood gas analysis via the DRA due to serious respiratory diseases"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to provide a reference for pediatric catheterization via DRA access by evaluating the diameter of the DRA in the anatomic snuffbox (AS)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "retrospective review of clinical and vascular ultrasound data of 412 children"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The corrected DRA diameter in the AS was 1.97 ± 0.37 mm overall, with no significant difference between males (1.98 ± 0.38 mm) and females (1.95 ± 0.35 mm) ( p = 0.457)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

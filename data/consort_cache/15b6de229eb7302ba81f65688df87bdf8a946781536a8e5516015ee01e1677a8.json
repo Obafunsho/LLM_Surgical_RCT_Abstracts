@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "As part of a randomized phase II trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Eligible patients were randomized"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Eligible patients were randomized"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to perioperative systemic therapy (experimental) or CRS\u2013HIPEC alone (control)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "the present study compared patient-reported outcomes (PROs)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "PROs were assessed using EORTC QLQ-C30, QLQ-CR29, and EQ-5D-5L questionnaires at baseline, after neoadjuvant treatment (experimental), and at 3 and 6 months postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 79 analyzed patients, 37 (47%) received perioperative systemic therapy"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 79 analyzed patients"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "worsening of fatigue [mean difference (MD) +\u200914, p =\u20090.001], loss of appetite (MD +\u200915, p =\u20090.003), hair loss (MD +\u200918, p <\u20090.001), and loss of taste (MD +\u200927, p <\u20090.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "worsening of fatigue [mean difference (MD) +\u200914, p =\u20090.001], loss of appetite (MD +\u200915, p =\u20090.003), hair loss (MD +\u200918, p <\u20090.001), and loss of taste (MD +\u200927, p <\u20090.001)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

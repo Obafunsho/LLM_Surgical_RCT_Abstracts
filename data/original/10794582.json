@@ -1,0 +1,20 @@
+{
+  "pmcid": "10794582",
+  "pmid": "25926311",
+  "title": "Performance of Tools and Measures to Predict Fluid Responsiveness in Pediatric Shock and Critical Illness: A Systematic Review and Meta-analysis",
+  "abstract": "Objective: In this systematic review and meta-analysis we asked: Do predictors of fluid responsiveness in children perform comparably: ( 1 ) in the pediatric intensive care unit (PICU) as in non-PICU settings? ( 2 ) in shock states compared to non-shock states? Additionally, ( 3 ) is there an association between preload responsiveness and clinical response?\n\nData Sources: Ovid Medline, Pubmed, and Embase databases were searched from inception through May 2022.\n\nStudy Selection: Included studies reported physiological response to intravenous fluid administration in humans < 18 years. Only studies reporting an AUROC were included for descriptive analysis. Only studies for which a standard error could be estimated were included for meta-analysis.\n\nData Extraction: Title, abstract, full text screening, and extraction were completed by two authors (JW & SBW). Variables extracted included predictors (“tools”) and outcome measures (“reference tests”) of fluid responsiveness, demographic and clinical variables.\n\nData Synthesis: We identified 62 articles containing 204 AUROCs for 55 tools, primarily describing mechanically ventilated children in an operating room or PICU. Meta-analysis across all tools showed poor predictive performance (AUROC 0.66, 95%CI [0.63,0.69]), although individual performance varied greatly (range 0.49–0.87). After controlling for PICU setting and shock state, PICU setting was associated with decreased predictive performance (coefficient −0.56, p=0.0007), while shock state was associated with increased performance (0.54, p=0.0006). Effect of PICU setting and shock state on each tool were not statistically significant but analysis was limited by sample size. The association between preload responsiveness and clinical response was rarely studied but results didn’t suggest an association. Ultrasound measurements were prone to inherent test review and incorporation biases.\n\nConclusions: We suggest three opportunities for further research in fluid responsiveness in children: ( 1 ) assessing predictive performance of tools during resuscitation in shock states; ( 2 ) separating predictive tool from reference test when using ultrasound techniques; ( 3 ) targeting decreasing time in a shock state, rather than just increase in preload.",
+  "authors": [
+    "Sarah B. Walker",
+    "Jessica M. Winters",
+    "Jacob M. Schauer",
+    "Peggy Murphy",
+    "Andrea Fawcett",
+    "L. Nelson Sanchez-Pinto"
+  ],
+  "journal": "Pediatric critical care medicine : a journal of the Society of Critical Care Medicine and the World Federation of Pediatric Intensive and Critical Care Societies",
+  "year": "2024",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

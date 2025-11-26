@@ -1,0 +1,74 @@
+{
+  "pmcid": "12057060",
+  "sha256": "2971cea2a33418dc64b29736609978c93e1e1c7b0e112b46d48d0c76398d6c24",
+  "timestamp_utc": "2025-11-09T22:13:45.870290+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.780930735930735,
+    "reading_ease": 25.64853896103898,
+    "word_count": 231
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tranexamic Acid for Preventing Scar Tissue in Craniectomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial involved 20 male Wistar rats"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "20 male Wistar rats, approximately 12 months old, undergoing bilateral frontoparietal craniectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "a control group (n=10) receiving saline-soaked cotton pads and a tranexamic acid group (n=10) receiving cotton pads soaked with 30 mg/kg tranexamic acid"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of tranexamic acid in preventing scar tissue formation in the craniectomy area in rats."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was dura mater thickness, measured 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The rats were randomly assigned to two groups"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to the pathologist assessing outcomes."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "20 male Wistar rats"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "a control group (n=10) receiving saline-soaked cotton pads and a tranexamic acid group (n=10)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The tranexamic acid group exhibited significantly thinner dura mater compared to the control group (p=0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

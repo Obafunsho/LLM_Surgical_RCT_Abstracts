@@ -1,0 +1,74 @@
+{
+  "pmcid": "12410080",
+  "sha256": "25f4b198269ba92ad3bd8bb3a1fc484ce1b512450c709030c50321ad181719eb",
+  "timestamp_utc": "2025-11-09T23:36:48.361630+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.654784917684545,
+    "reading_ease": 27.1493184634449,
+    "word_count": 269
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Continuous Wireless Vital Sign Monitoring in Postoperative Care: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The sample size was calculated to detect a 50% reduction in deviation duration with 80% power and 0.05 alpha."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients undergoing major noncardiac surgery were randomised 1:1 to standard care or standard care plus continuous wireless monitoring."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Adult patients undergoing major noncardiac surgery were randomised 1:1 to standard care or standard care plus continuous wireless monitoring."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the impact of continuous wireless vital sign monitoring with real-time alerts on reducing these deviations and complications."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the cumulative duration of severe vital sign deviations per 24 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and outcome assessors were blinded."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between January 2021 and October 2022, 400 patients were randomised (200 intervention, 200 control)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "400 patients were randomised (200 intervention, 200 control)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group had a mean reduction of 47 minutes per day for SpO2 <88% (95% CI, 18–80; P = .02)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events occurred in 31.5% of the intervention group versus 42.5% of the control group (P = .03)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials.gov NCT04640415."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Innovation Fund Denmark (8056-00055B)."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

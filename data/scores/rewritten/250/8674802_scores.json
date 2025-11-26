@@ -1,0 +1,74 @@
+{
+  "pmcid": "8674802",
+  "sha256": "25f3cc6fa678bca3e2f36794e1737683d23707a36c00ffd9cc1ef893095258ca",
+  "timestamp_utc": "2025-11-09T22:59:10.845679+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.53952380952381,
+    "reading_ease": 15.802142857142883,
+    "word_count": 210
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of a Multimodal Delirium Prevention Intervention in Older Surgical Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "stepped-wedge cluster randomised trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were 1470 patients aged 70 years and older undergoing elective orthopedic, general, or cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention included structured delirium education for caregivers and daily assessment of patient delirium risk factors, with tailored prevention strategies."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates a multifaceted intervention to reduce postoperative delirium incidence and duration."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative delirium incidence, measured daily for seven days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Outcome assessors and patients were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Participants were 1470 patients aged 70 years and older undergoing elective orthopedic, general, or cardiac surgery from November 2017 to April 2019."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 1470 patients, 763 (51.9%) were male, median age 77 years."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention reduced delirium incidence (odds ratio, 0.87; 95% CI, 0.77-0.98; P = .02) and percentage of days with delirium (5.3% vs 6.9%; P = .03)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

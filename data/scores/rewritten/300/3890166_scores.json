@@ -1,0 +1,74 @@
+{
+  "pmcid": "3890166",
+  "sha256": "5ae8cc2023868db8973414d6d36ff112e2c45ba737c5f106b1df26c6de034cb5",
+  "timestamp_utc": "2025-11-09T23:51:33.829010+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.47727272727273,
+    "reading_ease": 26.008636363636384,
+    "word_count": 252
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Thoracolumbosacral Orthoses with Abdominal Cutout on Pulmonary Function"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to wear a custom-molded TLSO with a reattachable abdominal cutout."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "20 healthy adults recruited from [study setting]."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to wear a custom-molded TLSO with a reattachable abdominal cutout."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether an abdominal cutout in TLSOs improves pulmonary function in healthy adults."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pulmonary function, assessed by forced vital capacity (FVC) and forced expiratory volume in 1 second (FEV1) at rest and after exercise."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "20 healthy adults recruited from [study setting]."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The abdominal cutout (open) increased FVC at rest (95% CI, 3.79–4.76; p = 0.007) and postexercise (95% CI, 3.80–4.73; p = 0.025) compared with the closed TLSO."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported during the study."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

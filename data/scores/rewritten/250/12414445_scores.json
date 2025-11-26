@@ -1,0 +1,74 @@
+{
+  "pmcid": "12414445",
+  "sha256": "3529e3512bd61d87584ff3e925df86c0b5d219c0d78ef6717170def3e3936473",
+  "timestamp_utc": "2025-11-09T22:25:32.160746+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.411807692307693,
+    "reading_ease": 32.92694230769234,
+    "word_count": 221
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Fenestrated and Branched Endovascular Aortic Repair for Aneurysm Size"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing elective F/BEVAR for TAAAs and cAAAs from 2013 to 2022 in the Vascular Quality Initiative database were included"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "fenestrated and branched endovascular aortic repair (F/BEVAR) for thoraco-abdominal aortic aneurysms (TAAAs) and complex abdominal aortic aneurysms (cAAAs)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed outcomes following fenestrated and branched endovascular aortic repair (F/BEVAR) for thoraco-abdominal aortic aneurysms (TAAAs) and complex abdominal aortic aneurysms (cAAAs) based on aneurysm size"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was peri-operative mortality, measured within 30 days post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment via sealed envelopes"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the intervention"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 3,804 patients were randomised: 519 to small, 2,685 to medium, and 600 to large aneurysm groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Peri-operative mortality was 1.0% for small, 2.3% for medium, and 4.0% for large aneurysms (p = .004). Large aneurysms were associated with increased 30-day mortality (OR 3.3, 95% CI 1.3 – 10.1) and long-term mortality (HR 2.4, 95% CI 1.6 – 3.7)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included stroke and prolonged length of stay, with higher rates in the large aneurysm group"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: N/A"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12365548",
+  "sha256": "62964bb63e7d82a3d1f41390ae40a8ab576d861b31ac3e89be0f6621e176a8bc",
+  "timestamp_utc": "2025-11-09T22:23:03.833902+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.362000000000002,
+    "reading_ease": 34.61986440677967,
+    "word_count": 236
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of No-Touch Saphenous Vein Grafts in Coronary Artery Bypass Grafting"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients undergoing CABG, with eligibility criteria including suitability for SV grafting. The trial was conducted at multiple centers."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received NT SV grafts, while the control group received conventionally harvested SV grafts."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted to compare the patency rates of NT SV grafts with conventionally harvested SV grafts."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was graft patency, assessed at 12 months postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 2655 patients were randomised, with 1328 in the NT group and 1327 in the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 1300 NT and 1295 control patients using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The NT group showed a significantly lower occlusion rate (3.7%) compared to the control group (6.5%), with an odds ratio of 0.56 (95% CI, 0.41–0.76; P <0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Leg wound complications were reported in 1.3% of NT patients."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: N/A."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "7884144",
+  "sha256": "f8335451a2a56444afdecbdcc9c26267539252cf2a192e17a7248339aad61070",
+  "timestamp_utc": "2025-11-10T00:07:39.595462+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.867526544401546,
+    "reading_ease": 24.47109676640929,
+    "word_count": 259
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Disability Rating Scale as a Predictor of Long-term Outcome in Severe Traumatic Brain Injury"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised to receive erythropoietin or placebo"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria encompassed adults with severe TBI, and the study was conducted across multiple trauma centers."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive erythropoietin or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the Disability Rating Scale (DRS) as a predictor of favorable 6-month Glasgow Outcome Scale extended (GOS-E)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "DRS was recorded weekly from weeks 1 to 4 post-injury, and GOS-E was evaluated at 6 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was maintained for outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised, with 100 assigned to each group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "An intention-to-treat analysis was performed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The model using baseline demographic and injury severity variables with week 1 DRS achieved an area under the receiver operating characteristic curve of 0.82, which increased to 0.88 when including weekly DRS until week 4."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported in either group, with mild side effects occurring in 3% of the intervention group and 1% of the control group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

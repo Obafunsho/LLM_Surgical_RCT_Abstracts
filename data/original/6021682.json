@@ -1,0 +1,19 @@
+{
+  "pmcid": "6021682",
+  "pmid": "24521953",
+  "title": "Population Pharmacokinetic Model for Vancomycin Used in Open Heart Surgery: Model-Based Evaluation of Standard Dosing Regimens",
+  "abstract": "The purpose of this study was to investigate the population pharmacokinetics of vancomycin in patients undergoing open heart surgery. In this observational pharmacokinetic study, multiple blood samples were drawn over a 48-h period of intravenous vancomycin in patients who were undergoing open heart surgery. Blood samples were analyzed using an Architect i4000SR immunoassay analyzer. Population pharmacokinetic models were developed using Monolix 4.4 software. Pharmacokinetic-pharmacodynamic (PK-PD) simulations were performed to explore the ability of different dosage regimens to achieve the pharmacodynamic targets. A total of 168 blood samples were analyzed from 28 patients. The pharmacokinetics of vancomycin are best described by a two-compartment model with between-subject variability in clearance (CL), the volume of distribution of the central compartment ( V 1 ), and volume of distribution of the peripheral compartment ( V 2 ). The CL and the V 1 of vancomycin were related to creatinine CL (CL CR ), body weight, and albumin concentration. Dosing simulations showed that standard dosing regimens of 1 and 1.5 g failed to achieve the PK-PD target of AUC 0–24 /MIC > 400 for an MIC of 1 mg/liter, while high weight-based dosing regimens were able to achieve the PK-PD target. In summary, the administration of standard doses of 1 and 1.5 g of vancomycin two times daily provided inadequate antibiotic prophylaxis in patients undergoing open heart surgery. The same findings were obtained when 15- and 20-mg/kg doses of vancomycin were administered. Achieving the PK-PD target required higher doses (25 and 30 mg/kg) of vancomycin.",
+  "authors": [
+    "Saeed A. Alqahtani",
+    "Abdullah S. Alsultan",
+    "Hussain M. Alqattan",
+    "Ahmed Eldemerdash",
+    "Turki B. Albacker"
+  ],
+  "journal": "Antimicrobial Agents and Chemotherapy",
+  "year": "2018",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

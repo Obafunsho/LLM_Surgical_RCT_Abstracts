@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Antimicrobial Sutures in Hand Trauma Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This multicentre feasibility randomised controlled trial was conducted at three NHS hospitals in the UK."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults with hand or wrist injuries requiring surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received antimicrobial sutures, while the control group received standard sutures."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the feasibility of a definitive trial comparing antimicrobial sutures to standard sutures in reducing SSI."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was feasibility, measured by recruitment, compliance, and retention over 6 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was 1:1, stratified by age and injury type, using a secure online service."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Participants were blinded to allocation."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From March to November 2022, 116 participants were randomised (60 intervention, 56 control)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Retention was 57.5% at 30 days, 52% at 90 days, and 45.1% at 6 months."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "SSI incidence was over 20% in both groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to treatment allocation were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN10771059"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was supported by the UK Trauma Patient and Public Involvement Group."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

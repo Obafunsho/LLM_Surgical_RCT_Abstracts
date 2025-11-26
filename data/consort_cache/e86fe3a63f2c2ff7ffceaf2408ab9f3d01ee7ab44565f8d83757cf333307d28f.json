@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "we conducted a randomized, phase II study"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Nineteen GIST patients undergoing surgical resection were randomized"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Nineteen GIST patients undergoing surgical resection"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive 3, 5, or 7 days of preoperative imatinib (600 mg daily). Patients received postoperative imatinib for 2 years."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to assess the safety and efficacy of preoperative and postoperative imatinib for the treatment of GIST."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The efficacy of imatinib was assessed by 18 fluorodeoxyglucose positron emission tomography ( 18 FDG-PET), dynamic computed tomography (dCT), terminal deoxynucleotidyl transferase dUTP nick end labeling (TUNEL) assay, and DFS."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Nineteen GIST patients undergoing surgical resection were randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Median DFS of patients treated with surgery and imatinib was 46 months (range 10\u201346 months)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Imatinib did not affect surgical morbidity as compared with an imatinib-na\u00efve cohort ( p \u2265 0.1)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

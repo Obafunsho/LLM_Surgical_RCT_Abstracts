@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised crossover study included 10 adult patients undergoing cerebral bypass surgery."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "10 adult patients undergoing cerebral bypass surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients randomly and sequentially received dobutamine to increase cardiac index or phenylephrine to increase mean arterial pressure (MAP)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesised that cardiac output, rather than arterial blood pressure, is essential for adequate perfusion and aimed to determine whether dobutamine administration resulted in greater graft perfusion than phenylephrine administration."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the absolute difference in graft flow between the reference and intervention phase."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients randomly and sequentially received dobutamine to increase cardiac index or phenylephrine to increase mean arterial pressure (MAP)."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised crossover study included 10 adult patients undergoing cerebral bypass surgery."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Graft flow increased with a median of 4.1 (inter-quartile range [IQR], 1.7\u201312.0] ml min \u22121 ) after dobutamine administration and 3.6 [IQR, 1.3\u20137.8] ml min \u22121 after phenylephrine administration (difference \u20130.6 ml min \u22121 ; 95% confidence interval [CI], \u201314.5 to 5.3; P =0.441)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinical trial registration: Netherlands Trial Register, NL7077 ( https://www.trialregister.nl/trial/7077 )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

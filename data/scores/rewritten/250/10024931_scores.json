@@ -1,0 +1,74 @@
+{
+  "pmcid": "10024931",
+  "sha256": "6012a0385f10d9447bb261e745369a24ef715667cb12eefecc103b0b3f92e347",
+  "timestamp_utc": "2025-11-09T21:51:05.103629+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.756105315449581,
+    "reading_ease": 18.899910581222088,
+    "word_count": 183
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study aimed to evaluate the management of a pulmonary valve mass suspicious of being a myxoma in a patient with multiple comorbidities."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The patient, a 77-year-old male with chronic kidney disease, type 1 diabetes mellitus, and hypertension, presented with a pulmonary valve mass."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The patient underwent high-risk staged percutaneous coronary intervention followed by dual antiplatelet therapy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the management of a pulmonary valve mass suspicious of being a myxoma in a patient with multiple comorbidities."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "At six months follow-up, the patient showed no complications such as stroke or pulmonary embolism, and the echocardiogram indicated stable mass size and improved ejection fraction."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At six months follow-up, the patient showed no complications such as stroke or pulmonary embolism, and the echocardiogram indicated stable mass size and improved ejection fraction."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "At six months follow-up, the patient showed no complications such as stroke or pulmonary embolism."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

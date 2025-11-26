@@ -1,0 +1,74 @@
+{
+  "pmcid": "3819165",
+  "sha256": "2d48ee598277cd0777ebe2ee2c08dc0cd647a3eebd150da502f147330f82deef",
+  "timestamp_utc": "2025-11-09T15:54:54.124214+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.87606944210349,
+    "reading_ease": 3.465268835327862,
+    "word_count": 349
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "eight patients undergoing neurosurgery for a variety of clinical presentations"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "An LRS device was used to acquire cortical surface descriptions"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVE: To present a novel methodology that uses a laser range scanner (LRS)"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Successful textured LRS surface acquisition and generation was performed on all eight patients"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "mean feature alignment error is 1.7 ± 0.8 mm over all cases"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

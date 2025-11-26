@@ -1,0 +1,74 @@
+{
+  "pmcid": "12160125",
+  "sha256": "453cf8ddbdfdfaca3451e166bd8092abad498dc3d85c562b57d8e0d282106dce",
+  "timestamp_utc": "2025-11-09T15:32:40.808769+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.256636029411766,
+    "reading_ease": 28.551424632352962,
+    "word_count": 255
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Data from 1,375 patients with stage IA LUAD at Sun Yat-sen University Cancer Center were analyzed."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: This research aimed to examine the relationships between clinicopathological characteristics and the occurrence of Spread Through Air Spaces (STAS) in patients with stage IA lung adenocarcinoma (LUAD) and to develop a preoperative prediction model."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Irregular nodule shape (OR = 1.817, 95% CI: 1.106–2.986, p = 0.018), irregular margin (OR = 2.050, 95% CI: 1.218–3.449, p = 0.007), lobulation (OR = 2.235, 95% CI: 1.336–3.739, p = 0.002), and vascular convergence (OR = 5.032, 95% CI: 2.050–12.349, p < 0.001) were significantly associated with an increased risk of STAS."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

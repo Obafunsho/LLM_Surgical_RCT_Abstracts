@@ -1,0 +1,74 @@
+{
+  "pmcid": "4072753",
+  "sha256": "cf8cc19a5082ba44bbe732861469c927823018d5f5506ea85194aeb3db9101e3",
+  "timestamp_utc": "2025-11-09T23:52:07.534432+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.332891221374048,
+    "reading_ease": 7.12964217557257,
+    "word_count": 262
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Biologic Mesh Remodeling in Abdominal Tissue Repair"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, biologic meshes were biopsied from the abdominal tissue repair sites of 40 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients undergoing abdominal re-exploration with prior biologic mesh implantation. The study was conducted at a tertiary care center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "biologic meshes were biopsied from the abdominal tissue repair sites of 40 patients during an abdominal re-exploration"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the associations between patient characteristics or surgical site classifications and the histologic remodeling scores of biologic meshes used in abdominal soft tissue repair."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the composite remodeling score (CR), measured at the time of re-exploration."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to patient allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "biologic meshes were biopsied from the abdominal tissue repair sites of 40 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was conducted using a per-protocol approach."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The model selection process for the cell infiltration (CI) score yielded two variables: age at mesh implantation and mesh classification (c-statistic=0.989)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

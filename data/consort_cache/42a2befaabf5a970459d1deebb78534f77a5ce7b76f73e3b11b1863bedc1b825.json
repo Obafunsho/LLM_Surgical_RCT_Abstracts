@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Mesh Reinforcement in Stapled Left Pancreatectomy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-blinded, parallel-group, randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible patients undergoing left pancreatectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised intraoperatively to either mesh reinforcement (Seamguard\u00ae or Peristrips Dry\u00ae) or no mesh reinforcement"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of mesh reinforcement in reducing clinically significant pancreatic leaks."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of clinically significant pancreatic leaks, defined by the ISGPF grading system, assessed over a 6-week period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Patients were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 100 patients were randomised: 54 to the mesh group and 46 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "ISGPF grade B and C leaks were observed in 1.9% (1/53) of the mesh group and 20% (11/45) of the control group (p=0.0007)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One death occurred in each group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial is registered at Clinicaltrials.gov (NCT01359410)."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

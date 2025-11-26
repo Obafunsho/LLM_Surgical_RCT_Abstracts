@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of CEA-Specific Fluorescence Imaging in Cytoreductive Surgery for Colorectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Fourteen patients with peritoneal metastases of colorectal origin were included."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with peritoneal metastasized colorectal cancer"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "SGM-101 was administered intravenously 4\u20136 days before surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This multicentre pilot study evaluated the effectiveness of carcinoembryonic antigen (CEA)-specific fluorescence imaging using SGM-101 during cytoreductive surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in the peritoneal carcinomatosis index (PCI) due to fluorescence imaging, measured intraoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable as this was a pilot study."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable as this was a pilot study."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fourteen patients with peritoneal metastases of colorectal origin were included."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A correct change in PCI due to fluorescence imaging was observed in 4 of the 14 patients."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The sensitivity and specificity of fluorescence imaging were 98.5% and 62.2%, respectively, with an accuracy of 85.4%."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "SGM-101 was well tolerated, with no adverse events reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "No trial registration or funding details were provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "No trial registration or funding details were provided."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

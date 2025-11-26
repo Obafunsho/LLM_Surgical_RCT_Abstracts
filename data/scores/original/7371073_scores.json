@@ -1,0 +1,74 @@
+{
+  "pmcid": "7371073",
+  "sha256": "894965d692c6ae5d42f85d61d956a586f136763b11f701130195a58aa0974d20",
+  "timestamp_utc": "2025-11-09T16:13:31.600654+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.120318450779994,
+    "reading_ease": 51.56594029047875,
+    "word_count": 676
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Background: Platelet-rich plasma (PRP) and autologous blood are commonly used therapies for lateral epicondylitis, but the evidence from randomized, placebo-controlled trials is conflicting."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "We performed a parallel-group, randomized, controlled participant- and assessor-blinded study including adults with clinically diagnosed lateral epicondylitis."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The participants were recruited from a secondary referral center, after not responding to initial nonoperative treatment. Patients with other concomitant upper-limb symptoms and surgical treatment of the elbow were excluded."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "We randomized 119 participants to receive an injection of PRP, autologous blood, or saline (1:1:1) in the proximal insertion of the extensor carpi radialis brevis muscle; 40 participants received PRP, 40 received autologous blood, and 39 received a saline injection."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Questions/purposes: In the setting of a randomized, placebo-controlled trial, we compared PRP, autologous blood, and saline injections in the treatment of lateral epicondylitis with respect to: (1) VAS pain scores, and (2) functional outcomes (DASH score and grip strength) 1 year after treatment."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome measure was improvement in pain, measured with VAS scale (without specification as to whether the pain was activity related or at rest; range 0-10; a higher score indicates worse pain; the minimum clinically important difference [MCID] on the 10-cm scale was 1.5 cm), from baseline to 52 weeks."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization sequence was generated with computer software and concealed from the investigators."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "We performed a parallel-group, randomized, controlled participant- and assessor-blinded study including adults with clinically diagnosed lateral epicondylitis."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "We randomized 119 participants to receive an injection of PRP, autologous blood, or saline (1:1:1) in the proximal insertion of the extensor carpi radialis brevis muscle; 40 participants received PRP, 40 received autologous blood, and 39 received a saline injection."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "At 52 weeks, nearly all (95% [38 of 40]) participants in autologous blood group were available for analysis whereas 78% (31 of 40) and 82% (32 of 39) were available in PRP and saline groups."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 52 weeks, the mean difference in the VAS score for pain was -0.2 (95% CI -1.5 to 1.1; p = 0.75) for PRP versus saline and 0.5 (95% CI -0.7 to 1.7; p = 0.40) for autologous blood versus saline."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No complications occurred because of the injections."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "This study was registered at ClinicalTrials.gov and funded by the local hospital district."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This study was registered at ClinicalTrials.gov and funded by the local hospital district."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

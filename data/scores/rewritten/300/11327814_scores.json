@@ -1,0 +1,74 @@
+{
+  "pmcid": "11327814",
+  "sha256": "036ee4d704d409a6ccd13637fba7b40f01b2e969adc5c66750a2c6cadd9a73c3",
+  "timestamp_utc": "2025-11-09T23:15:02.670453+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.573629424011106,
+    "reading_ease": 33.296891047883435,
+    "word_count": 262
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Distal Radial Artery Access in Pediatric Catheterization"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "412 children aged 3–12 years, scheduled for arterial blood gas analysis via the DRA due to serious respiratory diseases, at Changzhou Second People's Hospital"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the feasibility of DRA access by measuring the DRA diameter in the anatomic snuffbox (AS)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the corrected DRA diameter in the AS."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "412 children aged 3–12 years, scheduled for arterial blood gas analysis via the DRA due to serious respiratory diseases, at Changzhou Second People's Hospital between June 2023 and October 2023."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The corrected DRA diameter was 1.97 ± 0.37 mm, with no significant difference between males (1.98 ± 0.38 mm) and females (1.95 ± 0.35 mm) (p = 0.457)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

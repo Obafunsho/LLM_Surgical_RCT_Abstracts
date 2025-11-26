@@ -1,0 +1,74 @@
+{
+  "pmcid": "1357702",
+  "sha256": "737280dff3e7b9d91b267f0ad94b6414e12f18931103179763f9cf39c9d36e62",
+  "timestamp_utc": "2025-11-09T22:31:47.747955+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.083272283272287,
+    "reading_ease": 16.693076923076944,
+    "word_count": 234
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Surgical Resection and Percutaneous Ethanol Injection for Small Hepatocellular Carcinoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to surgical resection or percutaneous ethanol injection groups."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "76 patients with one or two tumors ≤3 cm, hepatitis without cirrhosis, or Child class A or B cirrhosis without ascites or bleeding tendency were enrolled."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to surgical resection or percutaneous ethanol injection groups."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare disease recurrence and survival in patients with small hepatocellular carcinoma treated with surgical resection or percutaneous ethanol injection therapy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was disease recurrence and survival, measured over a follow-up period of 12 to 59 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 38 patients were randomised to each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the percutaneous injection group, 18 patients experienced recurrence, and 3 died of cancer. In the surgical resection group, 15 patients had recurrence, and 5 died of cancer."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Cox regression and Kaplan-Meier analysis showed no significant difference in recurrence and survival between groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

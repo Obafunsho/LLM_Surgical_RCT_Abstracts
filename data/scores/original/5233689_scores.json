@@ -1,0 +1,74 @@
+{
+  "pmcid": "5233689",
+  "sha256": "8d288346c73fe83d2375f43b20145a2f2a0f0a29951e85bf54e6145a528b8d61",
+  "timestamp_utc": "2025-11-09T16:03:05.607600+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.663537735849058,
+    "reading_ease": 35.040589622641534,
+    "word_count": 265
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We conducted a multisite, randomized controlled trial to evaluate the efficacy of a mobile web application, Inform Me, for increasing knowledge about IRDs."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "KTCs undergoing transplant evaluation at 2 transplant centers were randomized to use Inform Me after routine transplant education (intervention) or routine transplant education alone (control)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "KTCs undergoing transplant evaluation at 2 transplant centers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to use Inform Me after routine transplant education (intervention) or routine transplant education alone (control)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We conducted a multisite, randomized controlled trial to evaluate the efficacy of a mobile web application, Inform Me, for increasing knowledge about IRDs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Knowledge (primary outcome) was assessed in person after education (Tests 1 and 2), and 1-week later by telephone (Test 3)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Two hundred-eighty-eight KTCs participated."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Multiple imputation was used for intention-to-treat analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Intervention participants had higher Test 1 knowledge scores (mean difference=6.61; 95% CI, 5.37–7.86) than control participants"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

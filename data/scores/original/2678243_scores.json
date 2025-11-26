@@ -1,0 +1,74 @@
+{
+  "pmcid": "2678243",
+  "sha256": "c01da6c79d039c56983dbb71a1f0d4c169e97067ca3efe0a08f780ee9486fa63",
+  "timestamp_utc": "2025-11-09T15:49:37.917177+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.369483471074386,
+    "reading_ease": 24.410588842975244,
+    "word_count": 121
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "In this investigation the authors attempted to predict change in function following selective dorsal rhizotomy (SDR) and intensive physical therapy in patients with spastic diplegic cerebral palsy (CP) based on multidomain preintervention measures."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Data pertaining to 22 children with CP were collected before the SDR and again 20 months afterward."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Although equations for predicting change in gait speed and function (such as the Gross Motor Function Measure) were derived, the 95% confidence interval (CI) widths were too broad to make accurate predictions that were clinically useful outside the study group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

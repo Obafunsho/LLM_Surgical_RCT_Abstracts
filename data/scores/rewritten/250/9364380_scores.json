@@ -1,0 +1,74 @@
+{
+  "pmcid": "9364380",
+  "sha256": "792cb4eb6d0aae8842737dc65fed8b8238adad2046e681f9c9dcc112286bc764",
+  "timestamp_utc": "2025-11-09T23:01:13.251695+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.847101769911504,
+    "reading_ease": 34.0664638643068,
+    "word_count": 226
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Radiopaque Tissue Transfer System in Breast-Conserving Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "122 patients with microcalcification-associated breast cancer were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "122 patients with microcalcification-associated breast cancer"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive either KliniTray™ or the institutional standard orientation (ISO) procedure"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the efficacy of a radiopaque tissue transfer and X-ray system (KliniTray™) in reducing the positive margin rate (PMR)"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the PMR, measured using final histopathology"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using permutated block randomisation with allocation concealment via closed envelopes"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "The study was open-label, with no blinding of outcome assessors, patients, or clinicians"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "122 patients with microcalcification-associated breast cancer were randomised 1:1"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "117 patients were analysed (60 in the KliniTray™ group and 57 in the ISO group) using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The final PMR was 31.7% for KliniTray™ and 26.3% for ISO (P = 0.127). Independent factors for positive margins included histological tumour size >30 mm (adjusted OR 10.73; 95% CI 3.14 to 36.75; P < 0.001) and specimen size >50 mm (adjusted OR 6.65; 95% CI 2.00 to 22.08; P = 0.002)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: DRKS00011527."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

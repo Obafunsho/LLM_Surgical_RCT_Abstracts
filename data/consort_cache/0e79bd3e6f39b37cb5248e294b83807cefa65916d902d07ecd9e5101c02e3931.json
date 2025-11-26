@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Arthroscopic Partial Meniscectomy and Physical Therapy in Degenerative Meniscal Tear: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to APM with PT or PT alone."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "included subjects aged \u226545 years with mild-to-moderate osteoarthritis and degenerative meniscal tear."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to APM with PT or PT alone."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to identify factors associated with crossover to APM and compare pain relief between crossover patients and those initially randomized to APM."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pain relief at 6 months, measured by the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Pain Score."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 341 subjects were randomised: 164 to APM and 177 to PT."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of those in the PT group, 48 (27%) crossed over to APM within 140 days."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 6 months, 81% of crossover patients and 82% of APM patients had \u226510-point pain improvement, compared to 73% in the PT group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "funding sources were not disclosed."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

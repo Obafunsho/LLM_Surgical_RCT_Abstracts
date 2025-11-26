@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Cost-Effectiveness of Primary Anastomosis versus Hartmann's Procedure for Perforated Diverticulitis: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to PA or HP in a 1:1 ratio following diagnostic laparoscopy."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to PA or HP in a 1:1 ratio following diagnostic laparoscopy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the cost-effectiveness of primary anastomosis (PA) compared to Hartmann's procedure (HP) for treating Hinchey grade III or IV diverticulitis."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 12-month stoma-free survival."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was centrally managed, and allocation was not concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 130 patients were randomised between July 2010 and June 2016, with 64 allocated to PA and 66 to HP."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was conducted using a modified intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Mean costs per patient were lower for PA (\u20ac20,544, 95% CI 19,569 to 21,519) compared to HP (\u20ac28,670, 95% CI 26,636 to 30,704), with a mean difference of \u20ac\u20138,126 (95% CI \u201314,660 to \u20131,592)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered at trialregister.nl (NTR2037) and ClinicalTrials.gov (NCT01317485)."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding was provided by the Dutch National Health Care Institute."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

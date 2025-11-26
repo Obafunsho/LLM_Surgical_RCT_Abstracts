@@ -1,0 +1,74 @@
+{
+  "pmcid": "6996637",
+  "sha256": "7c4b13e1a25b098a62f91601c9f2594acca5841760b6cb2681fd800668a425d9",
+  "timestamp_utc": "2025-11-10T00:04:01.829050+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.18434741606941,
+    "reading_ease": 27.21821105243305,
+    "word_count": 241
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Adjuvant Statin Therapy in Oesophageal Adenocarcinoma"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "multicentre, double-blind, parallel-group, randomised, placebo-controlled feasibility trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adults with OAC (including Siewert I–II lesions) post-oesophagectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised (1:1) to simvastatin 40 mg or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the feasibility of a phase III RCT of adjuvant statin therapy in operable OAC."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was drug absorption, measured by LDL cholesterol levels at 3 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "centrally randomised (1:1) to simvastatin 40 mg or placebo using block randomisation, stratified by centre."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included participants, clinicians, and investigators."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 120 patients assessed, 32 (26.7%) were randomised, 16 per group. Recruitment occurred from October 2014 to July 2016."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "32 (26.7%) were randomised, 16 per group. Seven withdrew."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Simvastatin reduced LDL cholesterol by 3 months (adjusted mean difference −0.83 mmol/l, 95% CI −1.4 to −0.22; p = 0.009)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, with no significant differences in frequency or severity."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN98060456."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

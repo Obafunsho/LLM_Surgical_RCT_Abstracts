@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods: This was a single-center, single-blind randomized controlled trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Methods: This was a single-center, single-blind randomized controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "One hundred forty-nine patients presenting for a new or followup appointment at the office of one of two orthopaedic hand and upper extremity outpatient surgical practices at an urban academic hospital were invited to participate"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "mindfulness-based video exercise (60 seconds duration, free online) versus an attention placebo control (an educational pamphlet about pain and stress presented to patients to read over 60 seconds)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose of this study was to determine if a 60-second personalized mindfulness-based video exercise is (1) associated with improved pain intensity, emotional distress, and state anxiety compared with an attention placebo control"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "the Numeric Rating Scale to assess pain intensity, the State Anxiety subscale of the State Trait Anxiety Inventory to assess state anxiety, and Emotion Thermometers to assess anxiety, anger, and depression before and after the interventions"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "125 patients were randomized"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "single-blind randomized controlled trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "125 patients were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "patients who participated in the mindfulness-based video exercise demonstrated improved pain intensity"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean difference: 0.46 [0.12-0.80]; p = 0.008"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

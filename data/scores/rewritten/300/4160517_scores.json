@@ -1,0 +1,74 @@
+{
+  "pmcid": "4160517",
+  "sha256": "8d94f8457028ff951e573b4919d20642e52cdca6a092632dff7aa7eb0053a826",
+  "timestamp_utc": "2025-11-09T23:52:34.981914+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.943325581395353,
+    "reading_ease": 32.411267441860474,
+    "word_count": 258
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Torsion Adapter Versus Rigid Adapter in Unilateral Transtibial Amputees"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial involved 10 unilateral transtibial amputees who were randomly assigned to wear either a torsion or rigid adapter in a crossover design."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to wear either a torsion or rigid adapter"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Functional mobility was evaluated using an activity monitor and a 6-minute walk test with turns."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to [outcome assessors/patients/clinicians]."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial involved 10 unilateral transtibial amputees"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Participants wearing a torsion adapter took more low- and medium-intensity steps per day (331 ± 365 and 437 ± 511 difference in steps; effect size = 0.44 and 0.17; CI, 70–592 and 71–802; p = 0.019 and 0.024, respectively) and reported less pain interference (1.9 ± 1.7 change in score; effect size = 0.83; CI, 0.3–3.4; p = 0.026)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

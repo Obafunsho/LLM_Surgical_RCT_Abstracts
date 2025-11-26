@@ -1,0 +1,74 @@
+{
+  "pmcid": "10609712",
+  "sha256": "32f92e16516daf54d44e5e6f15955a52a3acf3d6c9b179fdc226adb6df28a8f7",
+  "timestamp_utc": "2025-11-09T15:10:03.636476+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.412000000000003,
+    "reading_ease": 41.4308813559322,
+    "word_count": 354
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We investigated migration of a cementless 3D-printed and a cemented tibial component with otherwise similar TKA design during 5 years of follow-up"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Seventy-two patients were randomized"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Seventy-two patients were randomized"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to a cementless 3D-printed Triathlon Tritanium (Stryker) cruciate-retaining (CR) TKA or a cemented Triathlon CR (Stryker) TKA implant"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We investigated migration of a cementless 3D-printed and a cemented tibial component with otherwise similar TKA design during 5 years of follow-up"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Implant migration was evaluated with RSA at baseline and postoperatively at 3 months and at 1, 2, and 5 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seventy-two patients were randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 5 years, the mean MTPM was 0.66 mm (95% confidence interval [CI], 0.56 to 0.78 mm) for the cementless group and 0.53 mm (95% CI, 0.43 to 0.64 mm) for the cemented group (p = 0.09)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "3695654",
+  "sha256": "a2c7439290fd684d5c44bf1e40653350948ff267dd010150fc0a9108f0a5689b",
+  "timestamp_utc": "2025-11-09T15:53:50.202650+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.697447226313205,
+    "reading_ease": 43.04835051546394,
+    "word_count": 291
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "infants aged 6–24 months undergoing craniofacial reconstruction surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "three escalating loading dose–continuous i.v. infusion (CIVI) regimens: 25 mg kg −1 , 10 mg kg −1 h −1 ; 50 mg kg −1 , 20 mg kg −1 h −1 ; 100 mg kg −1 , 40 mg kg −1 h −1"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study is to determine the pharmacokinetics (PKs) of EACA in infants aged 6–24 months undergoing craniofacial reconstruction surgery."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

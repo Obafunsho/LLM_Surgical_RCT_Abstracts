@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Blood from seven patients (150 mL per patient) was driven through the circuit for 10 min at 300 mL/min."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Here we explored a novel disposable remover to remove inflammatory leukocytes in order to reduce risk of complications after CPB."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Here we explored a novel disposable remover to remove inflammatory leukocytes in order to reduce risk of complications after CPB."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Counts of leukocytes and their surface molecules were examined before circulation and after 2.5, 5, 7.5, and 10 min of circulation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Blood from seven patients (150 mL per patient) was driven through the circuit for 10 min at 300 mL/min."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Counts of neutrophils and neutrophils expressing the activation markers CD11b, CD54, CD64 or CD181 decreased rapidly by 36\u201339% during the first 2.5 min of circulation, after which their counts decreased more slowly."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "This substudy is part of a prospective cohort study registered at the Clinical Trials Registry ( NCT05400356 ) on 27 May 2022."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

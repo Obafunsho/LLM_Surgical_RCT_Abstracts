@@ -1,0 +1,74 @@
+{
+  "pmcid": "2590635",
+  "sha256": "bdc49206eee3fe82b25a737bcb4c12b09ac694ade462ad18e86e61f0285f04b0",
+  "timestamp_utc": "2025-11-09T15:48:48.363051+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.980015503875972,
+    "reading_ease": 32.63746511627909,
+    "word_count": 258
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were then randomly assigned either to continue ropivacaine or to be switched to normal saline."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were then randomly assigned either to continue ropivacaine or to be switched to normal saline."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The authors tested the hypotheses that after hip arthroplasty, ambulation distance is increased and the time required to reach three specific readiness-for-discharge criteria is shorter with a 4-day ambulatory continuous lumbar plexus block (cLPB) than with an overnight cLPB."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary endpoints included (1) time to attain three discharge criteria (adequate analgesia, independence from intravenous analgesics, and ambulation ≥ 30 m) and (2) ambulatory distance in 6 min the afternoon after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were then randomly assigned either to continue ropivacaine or to be switched to normal saline."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Patients given 4 days of perineural ropivacaine (n = 24) attained all three discharge criteria in a median (25th-75th percentiles) of 29 (24-45) h, compared with 51 (42-73) h for those of the control group (n = 23; estimated ratio = 0.62; 95% confidence interval, 0.45-0.92; P = 0.011)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Patients given 4 days of perineural ropivacaine (n = 24) attained all three discharge criteria in a median (25th-75th percentiles) of 29 (24-45) h, compared with 51 (42-73) h for those of the control group (n = 23; estimated ratio = 0.62; 95% confidence interval, 0.45-0.92; P = 0.011)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients given 4 days of perineural ropivacaine (n = 24) attained all three discharge criteria in a median (25th-75th percentiles) of 29 (24-45) h, compared with 51 (42-73) h for those of the control group (n = 23; estimated ratio = 0.62; 95% confidence interval, 0.45-0.92; P = 0.011)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Three falls occurred in subjects receiving ropivacaine (13%), versus none in subjects receiving normal saline."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10922655",
+  "sha256": "927436f5ab004b8843742f4999ea3e19554ccffa26789d7bf1feb1744550f7fb",
+  "timestamp_utc": "2025-11-09T15:13:18.899684+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.73418884664132,
+    "reading_ease": 36.95833438952263,
+    "word_count": 263
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In the randomized POINTER trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In the randomized POINTER trial"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "immediate drainage versus the postponed-drainage approach"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To compare the long-term outcomes of immediate drainage versus the postponed-drainage approach in patients with infected necrotizing pancreatitis."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was a composite of death and major complications."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Out of 104 patients, 88 were re-evaluated"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Out of 104 patients, 88 were re-evaluated"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "RR 0.87, 95% CI 0.33–2.28; P =0.78"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration:: ISRCTN33682933"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "3686552",
+  "sha256": "1b6c115a49a0b86fc2a904252e7c7fa6a7fb944dd50cbc472ae73b2a466efd3d",
+  "timestamp_utc": "2025-11-09T15:53:46.391866+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.02969230769231,
+    "reading_ease": 10.015307692307715,
+    "word_count": 208
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Six surgical candidates with tumors or epileptic foci near the motor cortex participated in this study."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "The investigators directly compared task-elicited activation of the motor system to activation obtained from intrinsic activity correlations."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The authors explore the feasibility of presurgical motor function mapping in which a task-free paradigm is used."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The motor regions localized based on the spontaneous activity correlations were quite similar to the regions defined by actual movement tasks and cortical stimulation."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

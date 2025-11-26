@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients who received routine anticancer therapy (i.e., radiotherapy or chemotherapy) also were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were included and received a single dose of SGM-101 at least 24 h before surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "A phase I/II study was designed to determine the optimal imaging dose of SGM-101 for intraoperative fluorescence imaging of primary and recurrent CRC."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty-seven patients with CRC were included in the analysis."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Thirty-seven patients with CRC were included in the analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The highest mean intraoperative tumor-to-background ratio (TBR) of 1.9 ( p =\u20090.019) was seen in the 10-mg dose."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Safety assessments were performed and SGM-101 efficacy was evaluated per dose level to determine the most optimal imaging dose."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

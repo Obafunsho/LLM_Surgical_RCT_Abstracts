@@ -1,0 +1,74 @@
+{
+  "pmcid": "11604241",
+  "sha256": "dc4268fcb2c53fcd81153df7d86f98fe757c4ed36401065108942c6d961f91a4",
+  "timestamp_utc": "2025-11-09T22:05:43.779153+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.940486815415827,
+    "reading_ease": 46.62529411764706,
+    "word_count": 255
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Electroacupuncture for Nonspecific Low Back Pain"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Ten studies with 660 participants were included"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Participants with nonspecific low back pain were included"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention was electroacupuncture, compared to standard therapy or manual needling therapies"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pain intensity, measured using the Visual Analog Scale and Numerical Rating Scale at treatment completion and follow-up"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the intervention"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ten studies with 660 participants were included"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Electroacupuncture with standard therapy showed a significant reduction in pain compared to standard therapy alone (SMD -0.83, 95% CI -1.22 to -0.43, P < 0.0001)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42024541800"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "9154318",
+  "sha256": "44568fa66905610b787330dc81ae2529b5f8933a267dbda46e54d0ae256d61d4",
+  "timestamp_utc": "2025-11-09T16:20:27.156688+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.345201465201466,
+    "reading_ease": 29.708131868131886,
+    "word_count": 273
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This was an open-label, randomized clinical trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This was an open-label, randomized clinical trial conducted at 14 German hospitals."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "All patients with third- or fourth-degree haemorrhoids undergoing haemorrhoidectomy were considered eligible for selection in the intervention (no dressing) or control group (tamponade applied)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "intervention (no dressing) or control group (tamponade applied)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of the study was to investigate whether the omission of tamponade dressings after haemorrhoidectomy reduces postoperative pain without increasing the risk of severe bleeding."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "maximum pain intensity within 48 h after surgery was compared between the groups"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "This was an open-label, randomized clinical trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "754 were randomized and 725 received intervention (366 patients in the intervention and 359 patients in the control group)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "754 were randomized and 725 received intervention"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The absolute difference for the severe bleeding rate was −0.03 per cent with the 90 per cent confidence interval ranging from −1.47 per cent to +1.41 per cent"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "In each group, five patients (1.4 per cent) experienced severe bleeding."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: DRKS00011590"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

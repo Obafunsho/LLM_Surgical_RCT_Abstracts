@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "DESIGN: Observational study."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "SETTING: Laboratory data from a German University Hospital. Experiments were performed between February 2019 and September 2020."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Four TCI pumps set to the Schnider model in effect-site mode with a target propofol concentration of 3.5\u200a\u03bcg ml \u22121 were studied."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVE: We investigated whether differences exist in the initial bolus dose between different TCI pumps despite apparently using the same pharmacokinetic (PK) model."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "MAIN OUTCOME MEASURES: Propofol bolus dose, as if delivered for anaesthesia induction."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "RESULTS: A small difference in propofol bolus doses was observed for some simulations: for example, 56.4\u200a\u00b1\u200a1.2 and 59.7\u200a\u00b1\u200a0.2\u200amg with a Syramed \u03bcSP6000 and an Alaris pharmacokinetic pump, respectively, in a virtual 54-year old man with a height of 170\u200acm and a weight of 74\u200akg."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

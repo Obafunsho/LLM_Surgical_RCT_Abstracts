@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Intraoperative Cerebral Desaturation on Postoperative Outcomes in Non-Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "adult patients undergoing non-cardiac surgery"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the non-cardiac surgical procedures that provoke a reduction in rScO2 and evaluate whether an intraoperative reduction in rScO2 influences postoperative outcomes."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the occurrence of postoperative cognitive dysfunction (POCD) related to intraoperative cerebral desaturation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Evidence suggests that rScO2 is reduced during thoracic surgery involving single lung ventilation, major abdominal surgery, hip surgery, and laparoscopic surgery with the patient in anti-Trendelenburg's position."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11584224",
+  "sha256": "3a9464e68a04a9709e3766343bbe61560c675347ad25da5f2f57f37ae970fe77",
+  "timestamp_utc": "2025-11-09T23:17:43.840504+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.70106666666667,
+    "reading_ease": 14.400977777777797,
+    "word_count": 250
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Dexmedetomidine Sedation in Peripheral Nerve Block Surgery for Diabetic Foot Ulcer and Chronic Limb-Threatening Ischemia"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This single-center, retrospective observational study included 18 patients undergoing peripheral nerve block with dexmedetomidine."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study evaluates the efficacy and safety of dexmedetomidine sedation during peripheral nerve block surgery in these patients."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy and safety of dexmedetomidine sedation during peripheral nerve block surgery in these patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was intraoperative stress, measured on a 6-point scale."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean intraoperative stress score was 0.72, and the mean intraoperative memory score was 2.44."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One patient experienced bradycardia, and 9 had hypoxemia, all resolved by adjusting dexmedetomidine dosage and encouraging deep breathing."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: No financial interest declared."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

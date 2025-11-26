@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomized, active, controlled noninferiority trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomized, active, controlled noninferiority trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients who underwent minimally invasive appendectomy or cholecystectomy by a group of surgeons who cover emergency general surgery at these 2 hospitals were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomized in a 2:1 fashion to video-based virtual visit or in-person visit."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To evaluate the outcomes of all-cause 30-day hospital encounter proportion among patients who have a postdischarge video-based virtual visit follow-up compared with in-person follow-up."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome is the percentage of patients with 30-day hospital encounter"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomized in a 2:1 fashion"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "289 patients were randomized to the virtual group and 143 to the in-person group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "289 patients were randomized to the virtual group and 143 to the in-person group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The percentage of patients who had a hospital encounter was noninferior for virtual visits (12.8% vs 13.3% for in-person, \u0394 0.5% with 1-sided 95% CI, \u2212\u221e to 5.2%)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT03258177"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

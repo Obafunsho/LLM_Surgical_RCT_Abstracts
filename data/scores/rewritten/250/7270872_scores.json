@@ -1,0 +1,74 @@
+{
+  "pmcid": "7270872",
+  "sha256": "f2e79549913f036c55955d03acb1619782f53a5cc2307e7e510eeff3c90af5aa",
+  "timestamp_utc": "2025-11-09T22:54:16.939631+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.053793103448278,
+    "reading_ease": 48.80801724137933,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Roux-en-Y Gastric Bypass vs Best Medical Treatment in Patients with Type 2 Diabetes and Early-Stage CKD"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This single-center, randomised controlled trial recruited 100 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with type 2 diabetes, obesity (BMI 30-35), and stage G1 to G3 and A2 to A3 CKD"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to Roux-en-Y gastric bypass (RYGB) or best medical treatment"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was remission of albuminuria (uACR <30 mg/g) at 24 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "51 patients were randomised to RYGB and 49 to best medical treatment"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Intention-to-treat analysis showed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "82% (95% CI, 72%-93%) of RYGB patients vs 55% (95% CI, 39%-70%) in the control group (P = .006)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant difference in serious adverse events was observed"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: NCT01821508"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

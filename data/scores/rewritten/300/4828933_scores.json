@@ -1,0 +1,74 @@
+{
+  "pmcid": "4828933",
+  "sha256": "3d742c657098e2460b13d64cfb889d212981b5428f62bfe2604d0fb931eb17b9",
+  "timestamp_utc": "2025-11-09T23:55:11.192809+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.695005274261604,
+    "reading_ease": 0.12579905063296337,
+    "word_count": 237
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intraoperative Molecular Imaging with a Targeted Contrast Agent for Lung Adenocarcinomas"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial enrolled 50 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility required confirmed adenocarcinoma diagnosis."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients received 0.1 mg/kg of a fluorescent folate receptor alpha (FRα)-targeted molecular contrast agent intravenously pre-surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial assesses a targeted molecular contrast agent for real-time optical imaging of lung adenocarcinomas during surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was intraoperative identification of fluorescent tumors."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial enrolled 50 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was per-protocol."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Of 50 patients, 46 (92%) exhibited fluorescent tumors."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

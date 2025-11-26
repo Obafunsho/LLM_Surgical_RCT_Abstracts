@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This is a retrospective study that compares minimal invasive with conventional sternotomy aortic valve surgery in terms of early results."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The patients underwent surgery at the University Hospital Center \u201cMother Theresa\u201d, Tirana, Albania between July 17, 2017, and July 30, 2024."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aimed to compare the early postoperative results of mini-sternotomy and standard sternotomy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the early postoperative results of mini-sternotomy and standard sternotomy."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Key outcomes included early mortality, perioperative complications, and intraoperative and postoperative recovery times."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The study included 168 patients (95 males, 73 females) with a mean age of 62 \u00b1 12.5 years."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The study included 168 patients (95 males, 73 females) with a mean age of 62 \u00b1 12.5 years."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The minimally invasive group had shorter intensive care unit (ICU) stay (39.92 \u00b1 8.62 hours vs. 55.96 \u00b1 32.56 hours, p < 0.001) and mechanical ventilation assistance duration (5.82 \u00b1 2.44 hours vs. 10.41 \u00b1 14.68 hours, p = 0.030)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no significant differences in mortality and incidence of perioperative complications between the two groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

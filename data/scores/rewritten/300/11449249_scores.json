@@ -1,0 +1,74 @@
+{
+  "pmcid": "11449249",
+  "sha256": "ddec9d98f8e11f59479074163210039095879ea991cff7b2ed3d412ab208af6c",
+  "timestamp_utc": "2025-11-09T23:16:20.799236+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.43696692913386,
+    "reading_ease": 23.991891338582718,
+    "word_count": 254
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Anxiety and Pain Perception in Thyroid FNAB"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were patients undergoing thyroid FNAB."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "The State-Trait Anxiety Inventory (STAI) and visual analogue scale (VAS) assessed anxiety and pain."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to explore the correlation between situational anxiety, pain perception, and non-diagnostic cytology results."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of non-diagnostic cytology results, measured immediately post-procedure."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 119 patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of these, 25 (21%) had non-diagnostic nodules."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "High pre-procedural anxiety (OR:3.09, 95% CI:1.07-8.94, p=0.037) and VAS score (OR:1.57, 95% CI: 1.17-2.10, p=0.002) were associated with non-diagnostic results."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source]."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

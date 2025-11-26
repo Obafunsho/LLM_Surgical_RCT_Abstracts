@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients \u226560 yr old undergoing elective noncardiac surgery were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients \u226560 yr old undergoing elective noncardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned either to stop or continue RAS inhibitors before surgery"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesised that stopping RAS inhibitors before surgery increases the risk of perioperative myocardial injury"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome, masked to investigators, clinicians, and patients, was myocardial injury...within 48 h after surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly assigned either to stop or continue RAS inhibitors before surgery"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "masked to investigators, clinicians, and patients"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 241 participants"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Myocardial injury occurred in 63/101 (62.4%) subjects with NT-proBNP >100 pg ml \u22121 , compared with 45/140 (32.1%) subjects with NT-proBNP <100 pg ml \u22121"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "OR 3.50 (95% confidence interval [CI] 2.05\u20135.99); P <0.0001"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

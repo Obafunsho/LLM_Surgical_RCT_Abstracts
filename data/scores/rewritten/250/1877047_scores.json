@@ -1,0 +1,74 @@
+{
+  "pmcid": "1877047",
+  "sha256": "a9659a7115501c3077b84f23e55649f3639c1dfc2b5f1c1b7fad4af214aaab39",
+  "timestamp_utc": "2025-11-09T22:32:33.540764+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.079394751963225,
+    "reading_ease": 33.207699674391904,
+    "word_count": 227
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Preoperative Hepatic and Regional Arterial Chemotherapy in Colorectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients with stage II or III colorectal cancer were recruited from [study setting] and randomly assigned"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients with stage II or III colorectal cancer were recruited from [study setting]"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive PHRAC (n = 110) or surgery alone (n = 112)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of preoperative hepatic and regional arterial chemotherapy (PHRAC) in preventing liver metastasis and improving survival"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was disease-free survival over a median follow-up of 36 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using [randomisation method], with allocation concealment by [method]"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was applied to [outcome assessors/patients/clinicians]"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomly assigned to receive PHRAC (n = 110) or surgery alone (n = 112)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The risk ratio of recurrence was 0.61 (95% CI, 0.51–0.79, P = 0.0002), and of death was 0.51 (95% CI, 0.32–0.67; P = 0.009)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Mild toxicities were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [source]"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

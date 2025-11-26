@@ -1,0 +1,74 @@
+{
+  "pmcid": "5084762",
+  "sha256": "cf23ce3bd39eafae64236cb8410bedafea4d58bcf9ee752010631239def5c7eb",
+  "timestamp_utc": "2025-11-09T16:02:20.199491+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.366153846153846,
+    "reading_ease": 44.445512820512846,
+    "word_count": 260
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This clinical trial allocated patients randomly"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "in five UK hospitals"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "standard postoperative care with or without chewing gum (sugar‐free gum for at least 10 min, four times per day on days 1–5)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The primary aim of this trial was to determine whether chewing gum reduces length of hospital stay ( LOS ) after colorectal resection."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was LOS"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "allocated patients randomly"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Data from 402 of 412 patients, of whom 199 (49·5 per cent) were allocated to chewing gum, were available for analysis."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Data from 402 of 412 patients, of whom 199 (49·5 per cent) were allocated to chewing gum, were available for analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Median (i.q.r.) LOS was 7 (5–11) days in both groups ( P = 0·962); the hazard ratio for use of gum was 0·94 (95 per cent c.i. 0·77 to 1·15; P = 0·557)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "They also had more complications graded III or above according to the Dindo–Demartines–Clavien classification (16 versus 6 in the group that received standard care) and deaths (11 versus 0), but none was classed as related to gum."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: ISRCTN55784442 ( http://www.controlled-trials.com )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

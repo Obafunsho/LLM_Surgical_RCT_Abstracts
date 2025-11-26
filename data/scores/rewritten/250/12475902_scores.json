@@ -1,0 +1,74 @@
+{
+  "pmcid": "12475902",
+  "sha256": "e6ddbd2903d5cf8b581a0860210c4457d9cde9a76ec68164dd2e4281a30dc8e1",
+  "timestamp_utc": "2025-11-09T22:28:41.498043+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.50769480519481,
+    "reading_ease": 23.523668831168834,
+    "word_count": 224
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Multicentre Randomised Controlled Trial Comparing Olanexidine and Chlorhexidine-Alcohol for Surgical-Site Antisepsis"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This multicentre, randomised, open-label, blinded-endpoint controlled trial was conducted in five Japanese hospitals."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults undergoing elective clean-contaminated gastrointestinal and hepatobiliary-pancreatic surgeries."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aimed to evaluate the efficacy of aqueous olanexidine compared with chlorhexidine-alcohol in preventing SSIs."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of aqueous olanexidine compared with chlorhexidine-alcohol in preventing SSIs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the 30-day SSI rate."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a web-based system with block randomisation, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "open-label, blinded-endpoint controlled trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between January 2023 and November 2023, 700 patients were randomised: 350 to the olanexidine group and 350 to the chlorhexidine-alcohol group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "In the full analysis set, 347 patients in the olanexidine group and 345 in the chlorhexidine-alcohol group were analysed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 30-day SSI rate was 12.3% in the olanexidine group and 13.6% in the chlorhexidine-alcohol group (adjusted risk ratio 0.911, 95% CI 0.625 to 1.327; P = 0.626)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse effects were reported in 0.6% of the olanexidine group and 0.9% of the chlorhexidine-alcohol group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: UMIN 000049712."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was independently conducted by Keio University."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

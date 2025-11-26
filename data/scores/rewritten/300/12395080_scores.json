@@ -1,0 +1,74 @@
+{
+  "pmcid": "12395080",
+  "sha256": "87ca73bd7f2cfb0edad2f48e58639053ebf22f8bea0442c55cb6064008eb184e",
+  "timestamp_utc": "2025-11-09T23:36:00.261500+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.810357142857143,
+    "reading_ease": 10.698392857142892,
+    "word_count": 245
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Quantitative EEG in Delirium Subtypes"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "In this multicenter observational study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were assigned to post-stroke, medical, or postoperative delirium subtypes based on DSM-IV or DSM-5 criteria."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to investigate whether quantitative electroencephalography (qEEG) characteristics differ among etiology-based delirium subtypes or converge on common neurophysiological patterns."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We compared peak frequency, relative power, and phase lag index (PLI) between delirious and non-delirious patients using standardized mean differences (SMDs) with 95% confidence intervals (CI)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Peak frequency consistently decreased in all delirium groups compared to controls (SMD = -0.81, CI: -1.50 to -0.13), relative delta power increased (SMD = 1.44, CI: 0.61 to 2.26), and relative beta power decreased (SMD = -1.72, CI: -2.46 to -0.97)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by institutional resources."
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

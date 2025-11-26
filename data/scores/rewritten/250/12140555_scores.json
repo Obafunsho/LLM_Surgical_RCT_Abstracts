@@ -1,0 +1,74 @@
+{
+  "pmcid": "12140555",
+  "sha256": "56844d526df852b7cd1a96f130d863391f43895ff8862e3e2b6a46f743890ca8",
+  "timestamp_utc": "2025-11-09T22:16:34.963859+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.55416666666667,
+    "reading_ease": 21.634166666666687,
+    "word_count": 240
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Epidural and Paravertebral Analgesia for Minimally Invasive Esophagectomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Adult patients scheduled for transthoracic MIE with intrathoracic anastomosis were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients scheduled for transthoracic MIE with intrathoracic anastomosis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either epidural or paravertebral analgesia"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Quality of Recovery (QoR-40) score on the third postoperative day (POD3)"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was stratified per center using block randomisation, and allocation was not concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "This open-label, multicenter, randomised controlled superiority trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From December 2019 to June 2022, 192 patients were randomised: 94 to epidural and 98 to paravertebral analgesia"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The intention-to-treat analysis showed no significant difference"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean difference: 3.7, 95% CI: −2.3 to 9.7; P = 0.268"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "More epidural patients required vasopressors on POD1"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered in the Dutch Trial Register (NL8037)"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The trial was funded by institutional sources"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

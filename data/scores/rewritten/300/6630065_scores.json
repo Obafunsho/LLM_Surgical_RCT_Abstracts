@@ -1,0 +1,74 @@
+{
+  "pmcid": "6630065",
+  "sha256": "c7bad1da7e263ebd78478f5b97b343a0c53119fc3bbcf9045b4674b9974a7198",
+  "timestamp_utc": "2025-11-10T00:02:36.207413+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.993400000000001,
+    "reading_ease": 17.50436666666667,
+    "word_count": 250
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Imaging Surveillance After Endovascular Aortic Repair"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the impact of compliance with imaging surveillance on reintervention rates and mortality in patients who have undergone endovascular aortic repair (EVAR)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the reintervention rate, and the secondary outcome was all-cause mortality, both measured over a median follow-up of 31.7 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The overall reintervention rate was 5%, with a risk difference (RD) of 4% (95% CI 1% to 7%) favoring partial/noncompliance, indicating a number needed to harm of 25 (95% CI 14 to 100)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "PROSPERO CRD42017080494"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10976826",
+  "sha256": "ced7e1f23c31682eb764ec48a20b93d64d101407c9ba31c7f6da01657f2f74ac",
+  "timestamp_utc": "2025-11-09T21:58:35.894665+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.108250000000002,
+    "reading_ease": 16.711750000000023,
+    "word_count": 192
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Propofol's Immunomodulatory Effects in Sepsis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was computer-generated"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Peripheral blood monocytes from septic patients and healthy volunteers were also studied"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "macrophages from Rab5a−/− and WT mice treated with lipopolysaccharide (LPS) or cecal ligation and puncture (CLP)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the mechanisms underlying propofol's immunomodulatory activity"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in membrane TLR4 expression, measured over 24 hours"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Propofol significantly reduced membrane TLR4 expression on macrophages in vitro and in vivo"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not specified"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

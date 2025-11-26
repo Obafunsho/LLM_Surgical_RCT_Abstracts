@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of 3D Simulation for Preoperative Understanding of Aesthetic Outcome in Breast-Conserving Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised into three groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "117 women eligible for unilateral BCT"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised into three groups: standard care (verbal description alone), viewing two-dimensional (2D) photographs, or viewing a 3D simulation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate whether a three-dimensional (3D) simulation enhances patients' confidence in understanding their likely aesthetic outcome after surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the median score on a visual analogue scale (VAS) assessing confidence in knowing the likely aesthetic outcome, measured before surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by BMI, axillary lymph node dissection intention, and operation type, with allocation concealment ensured by a central computer program."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between May 2017 and October 2019, 41 participants were randomised to the control group, 39 to the 2D-photograph group, and 37 to the 3D simulation group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "41 participants were randomised to the control group, 39 to the 2D-photograph group, and 37 to the 3D simulation group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The median VAS scores were 5.2 (i.q.r. 2.6\u20137.8) for the control, 8.0 (i.q.r. 5.7\u20138.7) for 2D photography, and 8.9 (i.q.r. 8.2\u20139.5) for 3D simulation, with significant differences between groups (P < 0.010)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT03250260."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

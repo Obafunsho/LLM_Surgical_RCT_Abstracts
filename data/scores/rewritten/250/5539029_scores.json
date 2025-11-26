@@ -1,0 +1,74 @@
+{
+  "pmcid": "5539029",
+  "sha256": "440b11a14df176f955e9736abbe18ed4ffeede8b47ab55b00a5e274e47e3b9bd",
+  "timestamp_utc": "2025-11-09T22:46:53.816029+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.716384253316217,
+    "reading_ease": 34.12268934531451,
+    "word_count": 246
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Core Decompression and Vascularized Fibular Grafting for Osteonecrosis of the Femoral Head"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Each patient's hips were randomly assigned to core decompression or fibular grafting."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants had ARCO Stages I-IIIB bilateral osteonecrosis."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Each patient's hips were randomly assigned to core decompression or fibular grafting."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compares core decompression and vascularized fibular grafting in terms of femoral head vascularity, disease progression, and hip function."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "SPECT/CT assessed vascularity at baseline, 6, and 36 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was by bilateral hip assignment; allocation concealment and blinding details were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "allocation concealment and blinding details were not specified."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 51 potential participants, 33 met inclusion criteria, and 27 were randomised."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Six patients were lost to follow-up."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 6 and 36 months, fibular-grafted hips showed higher vascularity than decompression-treated hips (p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

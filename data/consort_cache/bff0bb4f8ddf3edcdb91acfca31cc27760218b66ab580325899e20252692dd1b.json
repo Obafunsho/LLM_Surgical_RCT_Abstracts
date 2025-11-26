@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this randomized trial, we compared the results of US-guided steroid injections targeting both subcompartments and the EPB subcompartment alone in patients with de Quervain disease."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A randomized controlled study was performed at a single center between August 2018 and March 2021."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with a diagnosis of de Quervain disease and with a complete intracompartmental septum between the APL and the EPB tendons were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned to US-guided injections targeting both subcompartments (n = 25) or the EPB subcompartment alone (n = 25)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Do patients who receive a steroid injection in the EPB subcompartment alone have lower pain scores at 6 weeks and at 3 months after US-guided injection compared with patients who receive an injection in both subcompartments?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "To determine statistical power, the VAS score for pain at 6 weeks after the injection was used as the primary outcome variable."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to US-guided injections targeting both subcompartments (n = 25) or the EPB subcompartment alone (n = 25)."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Pre- and postinjection clinical outcome assessments were completed by orthopaedic surgery residents not involved in patient management."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned to US-guided injections targeting both subcompartments (n = 25) or the EPB subcompartment alone (n = 25)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Four percent (n = 2, 1 in each group) of patients were excluded after randomization because their pain level was not registered."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There were no differences in the VAS scores between the both-subcompartment group and the EPB group at 6 weeks (10 \u00b1 6 versus 10 \u00b1 7, mean difference -0.08 [95% CI -4.08 to 3.91]; p = 0.97)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to treatment (such as tendon rupture, infections, and numbness) occurred in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

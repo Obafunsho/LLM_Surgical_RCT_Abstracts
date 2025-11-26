@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Perivascular Adipose Tissue Preservation in Coronary Artery Bypass Grafting"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The unit of randomisation was the individual patient. Sample size calculation determined 200 participants were needed."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients undergoing CABG, with eligibility criteria including age 18-75 and diagnosis of CAD."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to either PVAT-preserved (intervention) or PVAT-removed (control) groups."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was graft patency at 12 months post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "200 participants were randomised: 100 to the intervention and 100 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The intervention group showed a higher graft patency rate (91% vs. 81%, p = 0.046)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild and occurred in 3% of the intervention group and 1% of the control group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by the National Institutes of Health."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

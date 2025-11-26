@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "NEPAFOX: A Randomised Controlled Trial of Perioperative FOLFIRINOX in Resectable Pancreatic Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized patients with histologically confirmed resectable or borderline resectable pancreatic adenocarcinoma"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with histologically confirmed resectable or borderline resectable pancreatic adenocarcinoma, without metastases"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized patients to either upfront surgery followed by adjuvant gemcitabine (arm A) or perioperative FOLFIRINOX (arm B)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The NEPAFOX trial evaluated the efficacy of perioperative FOLFIRINOX compared to standard adjuvant gemcitabine"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was overall survival (OS)"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was performed using an interactive web response system with permuted blocks, stratified by ECOG performance status and resectability"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "open-label trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "40 patients were randomized (arm A: 21, arm B: 19)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the intention-to-treat population"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "median OS was 25.68 months in arm A and 10.03 months in arm B"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events grade \u22653 were higher in arm B (84% vs. 57%)"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered with ClinicalTrials.gov (NCT02172976)"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The trial was funded by institutional sources"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

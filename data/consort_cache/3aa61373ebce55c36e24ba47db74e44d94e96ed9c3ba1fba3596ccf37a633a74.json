@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: Prehabilitation constitutes a multidisciplinary strategy aimed at optimizing patients\u2019 physiological and psychological status prior to surgery, with the objective of improving postoperative outcomes and long-term quality of life."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Interventions commonly include structured exercise programs, nutritional optimization, respiratory muscle training, and psychosocial support."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "with the objective of improving postoperative outcomes and long-term quality of life."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Overall, 82% of included studies reported statistically significant improvements in surgical outcomes associated with prehabilitation."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

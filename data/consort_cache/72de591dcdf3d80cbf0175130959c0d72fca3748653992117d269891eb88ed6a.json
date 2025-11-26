@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Genetic Polymorphisms Affecting Antithrombotic Therapy in Bangladeshi CVD Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomised controlled trial involving 1,000 CVD patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "1,000 CVD patients (782 males, 218 females) at United Hospital, Dhaka, Bangladesh"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "treated with clopidogrel and/or aspirin"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the prevalence of genetic polymorphisms"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the prevalence of genetic polymorphisms, measured over the study period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved through computer-generated sequences, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "1,000 CVD patients (782 males, 218 females) at United Hospital, Dhaka, Bangladesh, from March 2017 to November 2018."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Among clopidogrel-treated patients, 64.1% exhibited CYP2C19*2 polymorphism, and 22.7% exhibited CYP2C19*17 polymorphism."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

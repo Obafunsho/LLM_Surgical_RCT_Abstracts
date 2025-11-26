@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "RCTs comparing fibrinolytic agents to treat peripheral arterial occlusion."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "RCTs comparing fibrinolytic agents to treat peripheral arterial occlusion."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To determine which fibrinolytic agents are most effective in peripheral arterial ischaemia."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Five RCTs involving a total of 687 participants with a range of clinical indications were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "vessel patency was greater with intra\u2010arterial recombinant tissue plasminogen activator (rt\u2010PA) than with intra\u2010arterial streptokinase (P < 0.04) or intravenous rt\u2010PA (P < 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Incidences of haemorrhagic complications varied with fibrinolytic regime but there was no statistically significant difference between intra\u2010arterial urokinase and intra\u2010arterial rt\u2010PA."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

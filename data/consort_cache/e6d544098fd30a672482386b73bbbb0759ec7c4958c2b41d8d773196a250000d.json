@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of an Implantable Arterial Access System for Chemotherapy and Peripheral Vascular Disease"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included histologically proven colorectal adenocarcinoma with inoperable hepatic metastases and critical limb ischemia with no option but amputation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study evaluated an implantable arterial access system for targeted chemotherapy delivery and isolated arterial-to-arterial extracorporeal perfusion in end-stage peripheral vascular disease."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome for chemotherapy was partial response or stable disease over 11.2 months. For peripheral vascular disease, the primary outcome was avoidance of major amputation over 22 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This single-arm pilot study included 10 patients with secondary colorectal cancer and 20 patients with critical limb ischemia."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the chemotherapy group, six out of ten patients achieved partial response or stable disease."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "In the chemotherapy group, six out of ten patients achieved partial response or stable disease. In the peripheral vascular disease group, 40% avoided amputation, and 20% had a delay of 4 months."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included a 4% infection rate and one minor thromboembolic event."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered (ACTRN12611001273976)"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

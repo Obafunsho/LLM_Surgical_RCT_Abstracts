@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Gender Bias and Stereotype Threat in Surgical Training"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised 1:1 using permuted-block design stratified by site, training level, and gender"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were 96 general surgery residents with academic career interests, recruited between August 1 and August 15, 2018."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 using permuted-block design stratified by site, training level, and gender to receive either a stereotype threat trigger or protection."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the association between pro-male gender bias and career engagement, and the effect of stereotype threat on skill performance among surgical trainees."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Fundamentals of Laparoscopic Surgery (FLS) score, measured immediately post-intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "randomised 1:1 using permuted-block design stratified by site, training level, and gender"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind, randomised controlled trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Participants were 96 general surgery residents with academic career interests, recruited between August 1 and August 15, 2018."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Intention-to-treat analysis was conducted."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Pro-male bias was associated with higher career engagement in men (coefficient, 1.02; 95% CI, 0.19-2.24; P =\u2009.04) but not in women."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: NCT03623009."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,22 @@
+{
+  "pmcid": "3197816",
+  "pmid": "21227624",
+  "title": "Variability and Persistence of Poor Response to Aspirin by Aggregometry and PFA-100 over Twelve-Months in Peripheral Arterial Disease from the Effect of Lipid Modification on Peripheral Arterial Disease after Endovascular Intervention Trial (ELIMIT)",
+  "abstract": "Objective: To determine the prevalence of poor response to aspirin (ASA) therapy over 12-month follow-up in patients with lower extremity peripheral arterial disease (PAD), and to compare the classification agreement among different ASA response assays.\n\nSubjects: Patients with PAD on ASA therapy at baseline were included from the ongoing Effect of Lipid Modification on Peripheral Arterial Disease after Endovascular Intervention Trial (ELIMIT), which is a randomized trial testing whether combination treatment with ezetimibe, niacin, and a statin will halt/regress atherosclerosis compared to statin monotherapy.\n\nMain Outcome Measures: Patients who had baseline platelet testing and repeat testing at 6-month or 12-month follow-up were included. ASA responsiveness was tested using three different assays: Optical aggregation with 0.5-mg/mL of arachidonic acid (AA), optical aggregation with 10-μM of adenosine diphosphate (ADP), and platelet function analyzer-100 (PFA-100) testing with collagen/Epinephrine (Epi) loaded cartridges. ASA response was defined as AA aggregation <30%, ADP aggregation <70%, or PFA-100 Epi> 164 sec. Patients who showed response to ASA at baseline were classified as Responders. Poor response to ASA was defined as AA aggregation ≥30%, ADP aggregation ≥70%, or PFA-100 Epi ≤164 sec. Patients who showed poor response (PR) to an assay at baseline, but then were responsive at follow-up visits were classified as Initial PRs. Patients who showed poor response at baseline and all follow-up visits were classified as Persistent PRs. The classification agreement between assays was tested using the kappa statistic.\n\nResults: Of 102 patients randomized in ELIMIT, 80 patients satisfied inclusion criteria. There were no significant baseline demographic differences between Responders, Initial PRs, and Persistent PRs. The prevalence of persistent poor response varied by the assay used; 5% of subjects (4/80) were Persistent PRs by AA aggregation, compared to 27.5% (22/80) of subjects by ADP aggregation, and 9.9% (7/71) of patients by PFA-100 Epi. Regarding the agreement of the assays, only AA aggregation and PFA-100 Epi agreed significantly (K=0.3223; 95% CI 0.15–0.493, P=0.0001), and though statistically significant, the magnitude of this agreement is small. AA aggregation and ADP aggregation did not agree (K=0.1161; 95% CI −0.004–0.236, P=0.029), nor did ADP aggregation and PFA-100 Epi (K=0.0044; 95% CI −.151–0.160, P=0.48).\n\nConclusions: Between 5–27.5% of PAD patients were Persistent PRs to ASA over 6–12-month follow-up using different platelet assays. Further, these commonly used platelet assays show weak agreement in determining poor response to aspirin.",
+  "authors": [
+    "Justin Saunders",
+    "Vijay Nambi",
+    "Kay T. Kimball",
+    "Salim S. Virani",
+    "Joel D. Morrisett",
+    "Alan B. Lumsden",
+    "Christie M. Ballantyne",
+    "Jing-Fei Dong"
+  ],
+  "journal": "Journal of vascular surgery : official publication, the Society for Vascular Surgery [and] International Society for Cardiovascular Surgery, North American Chapter",
+  "year": "2011",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This systematic review and meta-analysis aimed to evaluate the effects of sugammadex on POUR and other postoperative recovery outcomes"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Randomized controlled trials (RCTs) and cohort studies comparing sugammadex with conventional reversal agents or no reversal agents were included."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This systematic review and meta-analysis aimed to evaluate the effects of sugammadex on POUR and other postoperative recovery outcomes"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The analysis ultimately included 25 studies involving a total of 163,367 patients: 84,362 received sugammadex, while 79,005 received neostigmine, or did not receive an antagonist."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Meta-analysis revealed a significant reduction in the incidence of POUR with sugammadex use (Relative Risk (RR): 0.47, 95% Confidence Interval (CI): 0.34\u20130.64, P <\u20090.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

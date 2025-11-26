@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized 1:1 to either (1) standard care..."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients who undergo surgery for severe TBI with placement of a subdural electrode strip will be eligible for enrollment."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized 1:1 to either (1) standard care... or (2) a tiered intervention protocol..."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of this protocol is to determine the feasibility and efficacy of implementing a treatment protocol..."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized 1:1"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "standard care that is blinded to the further course of SDs"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "without increasing medical complications or adverse events."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

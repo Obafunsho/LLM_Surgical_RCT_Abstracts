@@ -1,0 +1,74 @@
+{
+  "pmcid": "2635462",
+  "sha256": "14031edebfd95f22b8f5e687e29bcf35527122b74a9e75b0a46451ab4f6e939a",
+  "timestamp_utc": "2025-11-09T23:45:27.675773+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.440843057870925,
+    "reading_ease": 17.407485115503704,
+    "word_count": 247
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of an Aspirator Retractor for Enhancing Cement Fixation in Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to either the intervention group using an aspirator retractor or a control group with standard technique."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "38 patients undergoing hip arthroplasty at a single orthopedic center were included. Eligibility criteria included patients scheduled for primary hip arthroplasty."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to either the intervention group using an aspirator retractor or a control group with standard technique."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether an aspirator retractor improves cement fixation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was cement fixation, assessed by radiostereometry and radiographic examination over a minimum of 2 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "19 patients were randomised to each group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "all participants included in the intention-to-treat analysis"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant difference was observed in proximal migration between the groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

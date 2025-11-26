@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of NeuroPort\u2122 Microelectrode Array in Epilepsy Monitoring"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, seven patients undergoing subdural electrode implantation for epilepsy monitoring were included."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility required the need for epilepsy monitoring, and participants were implanted with the NeuroPort\u2122 MEA in putative non-eloquent epileptogenic cortex."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "participants were implanted with the NeuroPort\u2122 MEA in putative non-eloquent epileptogenic cortex."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the successful recording of LFPs and single-unit activity over 3\u201328 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "seven patients undergoing subdural electrode implantation for epilepsy monitoring were included."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Successful MEA implantation was achieved in all patients with minor operative difficulties."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Robust and durable LFPs and single-unit recordings were obtained from all individuals."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Two patients developed post-resection wound healing issues at the site of scalp egress, with one requiring operative wound revision."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

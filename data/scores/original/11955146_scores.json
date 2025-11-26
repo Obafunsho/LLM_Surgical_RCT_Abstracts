@@ -1,0 +1,74 @@
+{
+  "pmcid": "11955146",
+  "sha256": "23efa155ad573585b8742f451217610208f0f39ac588a10fcaae1a9f6a7e6d47",
+  "timestamp_utc": "2025-11-09T15:27:05.953075+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 18.296250000000004,
+    "reading_ease": 10.864375000000024,
+    "word_count": 211
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "We selected six treatments that may help cells cope with this situation and could be used as adjuvant therapies during the initial resuscitation of severe trauma patients, including out-of-hospital settings"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 1,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Continuous Monitoring of Vital Signs on General Wards: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either continuous monitoring of vital signs or usual care"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either continuous monitoring of vital signs or usual care with intermittent measurements"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether continuous monitoring of vital signs improves patient outcomes compared to usual care."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was hospital mortality, measured during the hospital stay."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation and allocation concealment methods varied across studies"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "blinding was not consistently reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seven RCTs with 1284 participants were included. Of these, 664 were randomised to continuous monitoring and 620 to usual care."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "No statistically significant differences were found in hospital mortality (OR 0.95, 95% CI 0.59\u20131.53, p = 0.84)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not consistently reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42023458656."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

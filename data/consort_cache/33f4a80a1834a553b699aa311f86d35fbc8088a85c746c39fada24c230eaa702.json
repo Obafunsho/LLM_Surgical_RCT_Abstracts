@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Stenting and Aggressive Medical Management for Intracranial Stenosis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "included patients with ICAD who experienced a hemorrhagic or ischemic stroke or a cerebral infarct with temporary signs (CITS) within 30 days post-angioplasty and stenting"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "angioplasty and stenting for intracranial atherosclerotic disease (ICAD)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of peri-procedural stroke within 30 days"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the intervention"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 21 patients experienced an ischemic stroke (n=19) or CITS (n=2) within 30 days of angioplasty and stenting"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The majority of ischemic strokes (n=15) occurred in the perforator territory"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included wire perforation leading to hemorrhage in three cases"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The trial was registered under [Trial Registration Number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "funded by [Funding Source]"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

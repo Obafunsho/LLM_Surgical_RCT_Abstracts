@@ -1,0 +1,74 @@
+{
+  "pmcid": "11552294",
+  "sha256": "3e00eb258900a3e68b03eef3eff9746b9b08ea64d84110f080ae0bec555c7af4",
+  "timestamp_utc": "2025-11-09T22:04:55.115439+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.256666666666668,
+    "reading_ease": 26.582777777777807,
+    "word_count": 196
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Graft Delamination in Early-Cannulation Arteriovenous Grafts: A Retrospective Cohort Study"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "A retrospective cohort study was conducted at the First Affiliated Hospital of Zhengzhou University, China, from April 2017 to December 2021."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included 141 end-stage renal disease (ESRD) patients requiring ecAVG for HD."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to analyze the incidence, management, and impact of graft delamination on ecAVG patency."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of graft delamination, measured over a median follow-up of 24.5 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Participants included 141 end-stage renal disease (ESRD) patients requiring ecAVG for HD."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The primary patency in the delamination group was significantly lower than in the non-delamination group (p < 0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included thrombosis and venous hypertension."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

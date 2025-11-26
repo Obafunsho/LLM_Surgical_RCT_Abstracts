@@ -1,0 +1,19 @@
+{
+  "pmcid": "7884144",
+  "pmid": "33369651",
+  "title": "Disability Rating Scale in the First Few Weeks After a Severe Traumatic Brain Injury as a Predictor of 6-Month Functional Outcome",
+  "abstract": "BACKGROUND: An early acute marker of long-term neurological outcome would be useful to help guide clinical decision making and therapeutic effectiveness after severe traumatic brain injury (TBI). We investigated the utility of the Disability Rating Scale (DRS) as early as 1 wk after TBI as a predictor of favorable 6-mo Glasgow Outcome Scale extended (GOS-E).\n\nOBJECTIVE: To determine the predictability of a favorable 6-mo GOS-E using the DRS measured during weeks 1 to 4 of injury.\n\nMETHODS: The study is a sub analysis of patients enrolled in the Epo Severe TBI Trial (n = 200) to train and validate L1-regularized logistic regression models. DRS was collected at weeks 1 to 4 and GOS-E at 6 mo.\n\nRESULTS: The average area under the receiver operating characteristic curve was 0.82 for the model with baseline demographic and injury severity variables and week 1 DRS and increased to 0.88 when including weekly DRS until week 4.\n\nCONCLUSION: This study suggests that week 1 to 4 DRS may be predictors of favorable 6-mo outcome in severe TBI patients and thus useful both for clinical prognostication as well as surrogate endpoints for adaptive clinical trials.",
+  "authors": [
+    "Jose-Miguel Yamal",
+    "Imoigele P Aisiku",
+    "H Julia Hannay",
+    "Frances A Brito",
+    "Claudia S Robertson"
+  ],
+  "journal": "Neurosurgery",
+  "year": "2021",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

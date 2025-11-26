@@ -1,0 +1,74 @@
+{
+  "pmcid": "6781206",
+  "sha256": "e20fe3175bbe8a1401a5b443b0804f4853afa7404d3d1f8d57714c0573cb06ca",
+  "timestamp_utc": "2025-11-09T22:52:00.868622+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.377286571296725,
+    "reading_ease": 31.052196585140763,
+    "word_count": 197
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Ultrasound-Guided Greater Occipital Nerve Block with Botulinum Toxin for Chronic Occipital Headache"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "54 patients aged 18-85 with chronic occipital headache were randomised into two groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "54 patients aged 18-85 with chronic occipital headache were randomised into two groups: bupivacaine (BUP, n=27) and botulinum toxin (BTX, n=27)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised into two groups: bupivacaine (BUP, n=27) and botulinum toxin (BTX, n=27)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the long-term efficacy of ultrasound-guided greater occipital nerve (GON) block using botulinum toxin in patients with chronic occipital headache."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pain reduction measured by the Visual Analogue Scale (VAS) over 24 weeks."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a closed-envelope technique, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was maintained for patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "54 patients aged 18-85 with chronic occipital headache were randomised into two groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The VAS scores at 4, 8, and 24 weeks were significantly lower in the BTX group compared to the BUP group (p<0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered under number 20110021167"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by Hanyang University Guri Hospital."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

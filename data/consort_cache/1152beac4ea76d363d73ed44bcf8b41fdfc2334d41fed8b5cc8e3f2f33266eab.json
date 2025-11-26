@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "previously randomized to adjuvant chemoradiation after surgery or surgery alone"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "a sample of 448 surgical survivors with stage IB through IV (M0) gastric and gastroesophageal junction adenocarcinoma"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to adjuvant chemoradiation after surgery or surgery alone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to measure the effect of hospital surgical volume, as assessed by Medicare claims data, on overall survival and gastric cancer recurrence"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "hospital surgical volume was not predictive of overall survival ( P = 0.46) or disease-free survival ( P = 0.43) at a median follow-up of 8.9 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "a sample of 448 surgical survivors"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "an adjusted hazard ratio of 0.80 (95% CI, 0.53\u20131.20) for overall survival and 0.78 (95% CI, 0.53\u20131.14) for disease-free survival"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

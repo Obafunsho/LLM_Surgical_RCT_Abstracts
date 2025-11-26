@@ -1,0 +1,74 @@
+{
+  "pmcid": "2117652",
+  "sha256": "2258d7df8df1f7fdfa4ca18a5e49bc0bd0b114724202235ceab3c51e3371c8ff",
+  "timestamp_utc": "2025-11-09T15:47:47.473939+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.31069228045326,
+    "reading_ease": 24.588304709631757,
+    "word_count": 353
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Ten total DBS leads in five patients with chronic and severe treatment‐refractory OCD were tested."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were examined 30 days after DBS placement and received either “sham” testing or actual testing of the acute effects of DBS"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To explore the acute effects of DBS in the anterior limb of the internal capsule and nucleus accumbens region."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Patients were examined 30 days after DBS placement and received either “sham” testing or actual testing of the acute effects of DBS"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "sham stimulation was not associated with significant side effects or responses from patients"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Non‐mood‐related responses were found to be significantly associated with the ventral lead contacts (0 and 1) (p = 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "sham stimulation was not associated with significant side effects or responses from patients"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

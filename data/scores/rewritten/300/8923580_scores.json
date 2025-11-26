@@ -1,0 +1,74 @@
+{
+  "pmcid": "8923580",
+  "sha256": "6ff04fb2414c7a60166b6c45af3ace6ec66486fd72df4d7162760a1edbc3b4da",
+  "timestamp_utc": "2025-11-10T00:11:12.241704+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.426694271911664,
+    "reading_ease": 46.99270186335406,
+    "word_count": 252
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of US-Guided Steroid Injections in de Quervain Disease"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A sample size of 21 per group was calculated to provide 80% power to detect a clinically important difference of 20 mm in VAS score."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "50 patients with de Quervain disease and complete intracompartmental septum were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive US-guided injections in both subcompartments (n = 25) or the EPB subcompartment alone (n = 25)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the effectiveness and safety of US-guided steroid injections"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pain reduction measured by VAS score at 6 weeks."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "50 patients with de Quervain disease and complete intracompartmental septum were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean difference -0.08, 95% CI -4.08 to 3.91; p = 0.97"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events such as tendon rupture or infections occurred."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

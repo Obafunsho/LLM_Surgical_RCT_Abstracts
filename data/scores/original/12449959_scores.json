@@ -1,0 +1,74 @@
+{
+  "pmcid": "12449959",
+  "sha256": "0a945c1372bd99b276b9039b11dcbe64099c33a9938f5d3c60e17bfeb9f2a087",
+  "timestamp_utc": "2025-11-09T15:42:46.313870+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.894231513743712,
+    "reading_ease": 43.05846947993291,
+    "word_count": 287
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "multicenter retrospective study"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "All 194 patients were divided into CS (94 patients) and DCB (100 patients) groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the midterm efficacy of CS and DCB procedures in patients with FPO."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary end point was primary patency at 24 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "All 194 patients were divided into CS (94 patients) and DCB (100 patients) groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "the CS used (hazard ratio [HR], 0.54 [95% CI, 0.32–0.91], P =0.021)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "major adverse events"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11887560",
+  "sha256": "0b8c4e6ab6bbf06a79623d63322afa842481689a91f0f802510d11dbf3664d77",
+  "timestamp_utc": "2025-11-09T15:25:30.450990+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.879120077783181,
+    "reading_ease": 28.080391346621326,
+    "word_count": 242
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary end points were technical success and 12-month primary patency."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Technical success was superior for CSG, BMS, and A+DCB compared with PTA, while A+DCB and CSG were superior to DCB."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no significant differences in 12-month mortality or major amputation."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A single\u2010blind RCT was performed"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A single\u2010blind RCT was performed at a tertiary colorectal unit."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Inclusion criteria were patient aged 18\u2009years and over undergoing open elective surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received warmed (37\u00b0C), humidified (98 per cent relative humidity) carbon dioxide (WHCO 2 group)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Postoperative clinical outcomes were compared between the groups."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "A single\u2010blind RCT was performed"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 40 patients enrolled, 20 in the WHCO 2 group and 19 in the control group were available for analysis."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 40 patients enrolled, 20 in the WHCO 2 group and 19 in the control group were available for analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "A significant log(T end /T 0 ) difference between control and WHCO 2 groups was documented for interleukin (IL) 2 (5\u00b73 versus 2\u00b78 respectively; P = 0\u00b7028) and IL\u20104 (3\u00b75 versus 2\u00b70; P = 0\u00b7041)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT02975947 ( http://www.clinicaltrials.gov/ )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "8083837",
+  "sha256": "e052ad15e649c4cacbb2fa92f4e519857203587456298b1e8b55636c91b365d9",
+  "timestamp_utc": "2025-11-10T00:08:12.767585+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.214933391570213,
+    "reading_ease": 44.41861760209656,
+    "word_count": 241
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Short- and Standard-Length Stems in Cementless Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial involved 100 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included age ≥20 years, no prior hip surgery, and absence of metabolic bone disease."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either a short stem (n = 56) or a standard-length stem (n = 44)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the effectiveness of short stems compared to standard-length stems."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of thigh pain over a 5-year follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "randomised to receive either a short stem (n = 56) or a standard-length stem (n = 44) from March 2013 to January 2014."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was per-protocol."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Thigh pain was reported in 16% (9/56) of the short-stem group and 14% (6/44) of the standard-stem group (p = 0.79)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

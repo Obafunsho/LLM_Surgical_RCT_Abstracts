@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This multicentre retrospective analysis included 86 patients with heat stroke patients who underwent cranial computed tomography (CT)."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we aimed to evaluate the prognostic value of GWR for predicting neurological outcome in heat stroke patients."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Patients were stratified by Cerebral Performance Category (CPC) scores at discharge: good outcome (CPC 1\u20132, n =\u202f65) versus poor outcome (CPC 3\u20135, n =\u202f21) in the derivation cohort."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Patients were stratified by Cerebral Performance Category (CPC) scores at discharge: good outcome (CPC 1\u20132, n =\u202f65) versus poor outcome (CPC 3\u20135, n =\u202f21) in the derivation cohort."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "ROC analysis showed the following areas under the curve: PU/CC, 0.836; CN/PLIC, 0.815; CN/CC, 0.858; PU/PLIC, 0.814; GWR basal ganglia , 0.855; GWR cerebrum , 0.803; GWR average , 0.837."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

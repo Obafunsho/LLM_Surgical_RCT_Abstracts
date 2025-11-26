@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Ceramic-on-Ceramic vs. Metal-on-Polyethylene Bearings in Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a multicenter randomised controlled trial, 189 patients (216 hips) were enrolled"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "189 patients (216 hips) were enrolled"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either alumina ceramic bearings (144 hips) or cobalt chrome-on-polyethylene bearings (72 hips)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the long-term survivorship and osteolysis incidence of ceramic-on-ceramic bearings compared to metal-on-polyethylene bearings in total hip arthroplasty."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the survivorship of the bearing surface and implant systems over a minimum of 10 years, with an average follow-up of 10.3 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "189 patients (216 hips) were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The Kaplan-Meier survivorship analysis showed no significant difference in bearing-related failures between the ceramic (99.1%) and control groups (98.9%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Squeaking occurred in 1.4% of the ceramic group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

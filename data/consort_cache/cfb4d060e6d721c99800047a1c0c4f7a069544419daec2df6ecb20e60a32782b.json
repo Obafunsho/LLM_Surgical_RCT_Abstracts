@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing General Anesthesia Plus Local Infiltration with Spinal Anesthesia for Hemorrhoidectomy"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients undergoing excisional hemorrhoidectomy between January 1, 2017, and March 31, 2023. Eligibility criteria included patients aged \u226520 years with ASA scores <3."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compare the effects of general anesthesia plus local infiltration (GAL) versus spinal anesthesia (SA)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the effects of general anesthesia plus local infiltration (GAL) versus spinal anesthesia (SA) on postoperative complications and pain."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was acute urine retention (AUR) within 24 hours post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomization and blinding details were not applicable due to the retrospective design."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomization and blinding details were not applicable due to the retrospective design."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 550 patients were included: 220 in the GAL group and 330 in the SA group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The AUR rate was significantly lower in the GAL group compared to the SA group (15.5% vs. 32.1%, P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The GAL group had a lower overall rate of adverse effects (56.9% vs. 67.4%, P = 0.023)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT05571202."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

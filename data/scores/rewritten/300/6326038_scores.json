@@ -1,0 +1,74 @@
+{
+  "pmcid": "6326038",
+  "sha256": "69c3f3ca930acec36c4e5a0d9813d57a83621369d3ef695ec661f95a782c5654",
+  "timestamp_utc": "2025-11-10T00:01:12.256606+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.929175531914893,
+    "reading_ease": 26.97645833333337,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "High-Quality Implementation of the Surgical Safety Checklist: A Stepped Wedge Cluster Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The unit of randomisation was surgical specialties, with a sample size calculation requiring at least 1100 patients per group."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included patients undergoing orthopedic, cardiothoracic, and neurosurgical procedures."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention was the SSC, and the comparator was standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the effect of high-quality implementation of the World Health Organization's Surgical Safety Checklist (SSC) on care processes and patient outcomes in two Norwegian hospitals."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was in-hospital complications, measured over a 3-month period post-intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved through a draw of numbers, with allocation concealment by blinding the allocation assessor."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 3702 procedures were analysed (1398 control, 2304 intervention)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 3702 procedures were analysed (1398 control, 2304 intervention)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The odds ratio for surgical infections was 0.52 (95% CI: 0.38–0.72) for intervention procedures."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Unique identifier 2009/561."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

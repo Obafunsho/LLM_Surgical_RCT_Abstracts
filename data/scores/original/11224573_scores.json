@@ -1,0 +1,74 @@
+{
+  "pmcid": "11224573",
+  "sha256": "386735cec67f2c850c054f3c4d8ffb47dee4846cb5e6c0661a54769b284527a6",
+  "timestamp_utc": "2025-11-09T15:16:25.307304+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.04989473684211,
+    "reading_ease": 22.454684210526352,
+    "word_count": 300
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The EXPELLIARMUS shows that medical students can successfully conduct randomized controlled trials in surgery."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients undergoing major abdominal surgery were enrolled, equipped with an FT, and randomly assigned to the experimental (visible screen) or control intervention (blackened screen)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing major abdominal surgery were enrolled, equipped with an FT, and randomly assigned to the experimental (visible screen) or control intervention (blackened screen)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The experimental group received daily step goals and feedback through the FT."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective:: To determine whether daily postoperative step goals and feedback through a fitness tracker (FT) reduce the rate of postoperative complications after surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary end point was postoperative morbidity within 30 days using the Comprehensive Complication Index (CCI)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients undergoing major abdominal surgery were enrolled, equipped with an FT, and randomly assigned to the experimental (visible screen) or control intervention (blackened screen)."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Patients undergoing major abdominal surgery were enrolled, equipped with an FT, and randomly assigned to the experimental (visible screen) or control intervention (blackened screen)."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 347 patients were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "No imputation for the primary end point was necessary as data completeness was 100%."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There was no significant difference in the CCI between the 2 groups in the intention-to-treat analysis (mean±SD CCI experimental group: 23±24 vs. control: 22±22; 95% CI: −6.1, 3.7; P =0.628)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

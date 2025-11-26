@@ -1,0 +1,74 @@
+{
+  "pmcid": "12353487",
+  "sha256": "aa108da5598c24ec8989fd595589f9689f52655d574b3502b18cbb4dd4334499",
+  "timestamp_utc": "2025-11-09T15:37:50.998739+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.051350461133072,
+    "reading_ease": 19.355962889767255,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We conducted the first randomized trial of perioperative normoxia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We conducted the first randomized trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "exclusively in cyanotic neonates"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "perioperative normoxia (goal PaO 2 60–100 mmHg during cardiopulmonary bypass and for the first 24 hours) versus hyperoxia (goal PaO 2 200–300 mmHg during cardiopulmonary bypass)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to examine feasibility, systemic oxidative stress response, and safety"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was a serum measure of oxidative stress: thiobarbituric acid reactive substances (TBARS)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty-nine neonates (median age 5 days) were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Mean post-operative TBARS expressed as fold-change from baseline was lower in the normoxia arm at 2 hours (1.21±0.26 vs 1.93±0.63), 6 hours (1.09±0.25 vs 1.77±0.7), and 24 hours (0.96±0.16 vs 1.41±0.29); all p<0.01"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Safety outcomes including in-hospital mortality and morbidities were similar between arms"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12500383",
+  "sha256": "41312b7ff1e09d2536ebca7ef49b344ff99e23079155a3206b7622cbb1e2a4ce",
+  "timestamp_utc": "2025-11-09T15:45:35.681014+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.938268983268983,
+    "reading_ease": 27.92989167739171,
+    "word_count": 259
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "All patients with symptomatic carotid artery stenosis were included in the study."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Closed-cell Carotid WALLSTENT (Boston Scientific, Marlborough, MA, USA) was used as a single stent in all patients."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the outcomes of CAS procedures without EPDs in Yemen, one of the lowest-income countries."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes included a 30-day periprocedural mortality, stroke, myocardial infarction, or arrhythmia."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 62 patients (53 males) were included in this study, with a mean age of 60.2 ± 9.7 years."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The technical success rate was 100%. No perioperative cerebral infarctions were observed."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Significant bradycardia occurred in 2 patients and responded immediately to atropine. Three patients developed mild local hematoma, and 1 patient had a femoral pseudoaneurysm."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

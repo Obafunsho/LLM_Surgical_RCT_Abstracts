@@ -1,0 +1,74 @@
+{
+  "pmcid": "12280112",
+  "sha256": "7cdcec08f1d8e32111986d732763c1013a07140435706b43ff0d4ff712628e9b",
+  "timestamp_utc": "2025-11-09T22:20:42.511547+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.369299183788353,
+    "reading_ease": 21.108623698283168,
+    "word_count": 209
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of a Nomogram Model for Predicting Postoperative Delirium in Esophageal Cancer Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to a training set (n=278) and a testing set (n=118)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial included 396 patients undergoing esophagectomy for esophageal cancer."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The nomogram included six predictors: postoperative pain, infections, dexmedetomidine use, propofol use, mechanical ventilation duration, and PNI."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to develop a nomogram model to predict POD risk."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of POD within 14 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to a training set (n=278) and a testing set (n=118)."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to a training set (n=278) and a testing set (n=118)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The model demonstrated good discrimination with an AUC of 0.919 in the training set and 0.871 in the testing set."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to the intervention were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

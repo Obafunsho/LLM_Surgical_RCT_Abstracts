@@ -1,0 +1,74 @@
+{
+  "pmcid": "8846342",
+  "sha256": "1d7af21d6b408b97153eb57528ce6978fb1fc91cf27a455746041efe69ffea3d",
+  "timestamp_utc": "2025-11-10T00:10:56.660923+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.41094071869993,
+    "reading_ease": 18.669576562142396,
+    "word_count": 257
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Cost-Effectiveness of Early Surgical Microdiscectomy for Chronic Lumbar Radiculopathy: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants with lumbar disc herniation were randomised to early surgery or nonoperative care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants with lumbar disc herniation were randomised to early surgery or nonoperative care. The study was conducted at a single tertiary care center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "assessed the cost-effectiveness of early surgical microdiscectomy versus 6 months of nonoperative care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial (RCT) assessed the cost-effectiveness of early surgical microdiscectomy versus 6 months of nonoperative care for chronic lumbar radiculopathy"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incremental cost-utility ratio (ICUR), expressed as cost per quality-adjusted life year (QALY) gained, over a 2-year period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Due to the nature of the intervention, blinding was not feasible."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 100 to early surgery and 100 to nonoperative care"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "with analysis conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients undergoing early surgery incurred higher costs (CAD 4118) compared to those receiving nonoperative care (CAD 2377) but achieved superior health outcomes (1.48 QALYs vs. 1.30 QALYs). The ICUR was CAD 5822 per QALY gained."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

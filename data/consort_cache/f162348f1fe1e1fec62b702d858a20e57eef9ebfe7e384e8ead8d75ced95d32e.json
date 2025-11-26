@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this prospective, double-blind, randomized controlled trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this prospective, double-blind, randomized controlled trial, 64 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "64 patients requiring IONM during cervical spine surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "administered either propofol (Group P) or remimazolam (Group R)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Here, we compared the effects of propofol and remimazolam along with remifentanil on IONM during TIVA."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the between-group difference in the N20 latency changes measured at T1 and preoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "64 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The change in SEP latencies including N20 and P37 at T1 compared with preoperative time was not significantly different between Groups P and R."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

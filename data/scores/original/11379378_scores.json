@@ -1,0 +1,74 @@
+{
+  "pmcid": "11379378",
+  "sha256": "9940734be2e1958c55a26403fedb97fff47386a6bd3dcef12e607846ad7743a5",
+  "timestamp_utc": "2025-11-09T15:18:38.532048+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.604400000000002,
+    "reading_ease": 20.041533333333348,
+    "word_count": 250
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Introduction: The operating room is no longer the ideal place for early surgica training of cardiothoracic surgery residents, forcing the search for simulation-based learning options."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Methods: This is an observational, analytical, and multicenter study."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "All junior and senior residents from nine national cardiothoracic surgery centers were considered for 90 days."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "The simulator was built with common materials and was evaluated with the Objective Structured Assessment ofTechnical Skills (or OSATS) Modified."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study’s aim was the construction and surgicaltraining of coronary anastomosis in a portable, low-cost, homemade simulator."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Operative skill acquisition and time in the creation of side-to-side (S-T-S), end-to-side (E-T-S), and end-to-end (E-T-E) coronary anastomoses were evaluated."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "All sessions were recorded and evaluated by a single senior cardiothoracic surgeon during two time periods."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One hundred and forty residents were assessed in 270 sessions."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "A significant improvement in the final anastomosis time of senior residents over junior residents was identified in S-T-S (8.11 vs. 11.22 minutes), E-T-S (7.93 vs. 10.10 minutes), and E-T-E (6.56 vs. 9.68 minutes) ( P =0.039)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

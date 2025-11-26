@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Grey-to-White Matter Ratio in Predicting Neurological Outcomes in Heat Stroke"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Conducted as a multicentre retrospective study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients over 18 years diagnosed with heat stroke who underwent cranial CT."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the prognostic utility of the grey-to-white matter ratio (GWR) in predicting neurological outcomes in heat stroke patients."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was neurological status at discharge, assessed by CPC scores."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Due to the retrospective nature, randomisation and blinding were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Due to the retrospective nature, randomisation and blinding were not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "128 heat stroke patients were enrolled from five hospitals in China between January 2020 and November 2023."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All GWRs were significantly lower in the poor outcome group compared to the good outcome group."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The GWR basal ganglia demonstrated the highest sensitivity (80.95%) and specificity (90.77%) for predicting poor outcomes."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2400079671."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

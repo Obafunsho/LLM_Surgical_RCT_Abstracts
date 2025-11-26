@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "598 patients aged >70 years who underwent coronary revascularization"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "TAR group; 327, single ITA\u2009+\u2009SVG group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: To assess whether total arterial revascularization (TAR) offers survival and freedom from major adverse cardiac or cerebrovascular events (MACCE) benefit"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The survival ( p =\u20090.410) and MACCE-free rates ( p =\u20090.494) over 5 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "428 patients remained (101, TAR group; 327, single ITA\u2009+\u2009SVG group)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "100 patients in each group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "HR\u2009=\u20090.74, 95% confidence interval (CI)\u2009=\u20090.44\u20131.22, p =\u20090.233"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

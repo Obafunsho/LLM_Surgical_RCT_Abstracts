@@ -1,0 +1,74 @@
+{
+  "pmcid": "11272663",
+  "sha256": "8df581ceb7eb4eb8bd41be545d302a68f42df87d3ea7426617f4b03d82ebd6ac",
+  "timestamp_utc": "2025-11-09T23:14:12.025266+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.810869565217395,
+    "reading_ease": 16.18644927536235,
+    "word_count": 230
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study was conducted as a case report, not a randomised controlled trial."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This study was conducted as a case report, not a randomised controlled trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The patient, a 75-year-old male, initially underwent wide local excision for secondary EMPD associated with urothelial carcinoma."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "The intervention involved Mohs micrographic surgery (MMS), which is known for its high precision in margin control."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "This study was conducted as a case report, not a randomised controlled trial."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "This study was conducted as a case report, not a randomised controlled trial."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "This study was conducted as a case report, not a randomised controlled trial."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The patient experienced no recurrence over a one-year follow-up period after MMS."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not applicable."
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

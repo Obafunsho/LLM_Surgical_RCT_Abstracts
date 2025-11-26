@@ -1,0 +1,74 @@
+{
+  "pmcid": "10586998",
+  "sha256": "8447b4415590a8acca018aa01d5884aaf4fca6d73a7cfdeddfb25b9eb0321876",
+  "timestamp_utc": "2025-11-09T23:07:52.331224+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.632740458015267,
+    "reading_ease": 34.9942251908397,
+    "word_count": 262
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Analgesia Regimens for Esophagectomy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included adult patients scheduled for minimally invasive esophagectomy. The study was conducted in a tertiary care hospital."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either EA or PVB."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To compare the effectiveness of EA and PVB in reducing postoperative pain and complications."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative pain measured by the Numeric Rating Scale (NRS) over 48 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 100 to the EA group and 100 to the PVB group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the EA group and 97 in the PVB group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean difference in NRS scores was 0.89 (95% CI: −0.47 to 2.24; p = 0.21)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included hypotension and urinary retention in the EA group (3%) and none in the PVB group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by the National Institute of Health."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

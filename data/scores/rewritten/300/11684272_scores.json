@@ -1,0 +1,74 @@
+{
+  "pmcid": "11684272",
+  "sha256": "0875924ca7c846a61d17515f76a2ab3a2ba6e1ba630af449892bb187e09f23e0",
+  "timestamp_utc": "2025-11-09T23:18:49.629108+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.771990774907753,
+    "reading_ease": 27.627875461254632,
+    "word_count": 271
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Perioperative Warming Strategies"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The sample size was calculated to ensure adequate power to detect differences in outcomes."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adult surgical patients meeting specific eligibility criteria, including age and type of surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to either the intervention group receiving forced air warming (FAW) or the control group receiving passive warming methods."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effectiveness of various warming strategies to address this issue."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the maintenance of core body temperature, measured intraoperatively over a 2-hour period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was applied to outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the FAW group and 100 to the control group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the FAW group and 97 in the control group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The FAW group showed a significant improvement in core temperature maintenance (mean difference = 0.5°C, 95% CI 0.3 to 0.7; p < 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 3% of the FAW group and 1% of the control group, with mild severity."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by the National Institute of Health."
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  }
+}

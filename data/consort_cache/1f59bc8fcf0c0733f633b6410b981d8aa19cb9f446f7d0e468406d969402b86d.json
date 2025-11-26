@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Deep Brain Stimulation vs. Levodopa on Autonomic Nervous System Functions in Parkinson's Disease"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 29 PD patients were enrolled."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Fourteen patients underwent STN stimulation, and 15 received levodopa."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the impact of subthalamic nucleus (STN) deep brain stimulation on ANS functions compared to levodopa."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the change in cardiovascular ANS functions, assessed by blood pressure (BP) and heart rate (HR) during rest and orthostatic conditions, heart rate variability (HRV), and breathing-induced cutaneous sympathetic vasoconstriction (CVC)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Due to the nature of the interventions, blinding was not feasible."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 29 PD patients were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was conducted on an intention-to-treat basis, with all participants included in the final analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "STN stimulation did not significantly alter cardiovascular ANS functions but significantly increased CVC. Conversely, levodopa significantly reduced BP and HR at rest and exacerbated orthostatic hypotension."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

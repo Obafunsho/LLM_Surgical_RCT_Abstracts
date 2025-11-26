@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "A single-center, prospective, single-arm pilot trial was conducted"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study population included 12 subjects over 18 years old who were admitted to the surgical ICU after open abdominal surgery."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "A low-dose lidocaine infusion of 10\u201330 mcg/kg/min within 1 h of ICU admission."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the feasibility of conducting a subsequent full-scale, randomized controlled trial (RCT) on the use of systemic lidocaine infusion in surgical intensive care units (ICUs)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All 12 remaining participants were included in the analysis at the baseline stage."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The pain scores decreased by 1.09 units per day (\u03b2 = \u22121.09; 95% CI: \u22121.82 to \u22120.36; p = 0.003)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The safety outcomes included adverse events and serum lidocaine levels, with no serious adverse events reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

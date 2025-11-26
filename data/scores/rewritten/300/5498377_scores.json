@@ -1,0 +1,74 @@
+{
+  "pmcid": "5498377",
+  "sha256": "47a298c1b5610df837edf0d7865e23e5cad6d61379ed86abd60186466928ae0b",
+  "timestamp_utc": "2025-11-09T23:57:49.433362+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.332028256704984,
+    "reading_ease": 28.532984913793143,
+    "word_count": 261
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tranexamic Acid Administration Routes in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "376 patients undergoing TKA were randomised into four groups"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised into four groups: IV only, IA only, low-dose combined (IV + IA injection of 1 g), and high-dose combined (IV + IA injection of 2 g)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluated the efficacy of different tranexamic acid administration routes in reducing total blood loss and allogeneic transfusion rates in total knee arthroplasty (TKA)"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was total blood loss"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence with allocation concealment"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between March 2014 and March 2015, 376 patients undergoing TKA were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean differences = 199 mL [95% CI, 116–283 mL], p < 0.001; 121 mL [95% CI, 38–205 mL], p = 0.001; 131 mL [95% CI, 47–214 mL], p < 0.001"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One patient in the IV-only group developed a symptomatic pulmonary embolism"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

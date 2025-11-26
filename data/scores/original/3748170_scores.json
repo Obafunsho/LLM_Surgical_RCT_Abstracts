@@ -1,0 +1,74 @@
+{
+  "pmcid": "3748170",
+  "sha256": "874d726076b95c2b2924ebf2c66c8ce5d7ce47b1f5bf60ba7847ab68079cd48f",
+  "timestamp_utc": "2025-11-09T15:54:28.531679+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.82721804511278,
+    "reading_ease": 17.765526315789515,
+    "word_count": 228
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A dose escalation Phase I clinical trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with suspected stage I/II NSCLC"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "NIR imaging following peritumoral injection of 3.8 – 2500 μg indocyanine green (ICG)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Our objective was to perform a dose escalation study to assess safety and feasibility of intraoperative near-infrared (NIR) fluorescence imaging"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Visualization of lymphatic migration, SLN identification, and adverse events were recorded."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty eight patients underwent ICG injection and NIR imaging"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "SLN identification increased with ICG dose with <25% SLN detected in dose cohorts ≤600ug vs 89% success at ≥1000 μg."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse reactions were noted."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In 2 small single-institution randomized clinical trials"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "first-year surgical (ESRT-1, 8 weekly, 2-hour classes, n = 44) and mixed specialty (ESRT-2, 6 weekly, 90-minute classes, n = 45) resident trainees"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "ESRT, a tailored mindfulness-based cognitive training program, was administered and iteratively adapted"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To determine the effects of ESRT (an iteratively adapted and tailored MBI) on perceived stress, executive cognitive function, psychosocial well-being (ie, burnout, mindfulness), and pro-inflammatory gene expression in surgical (ESRT-1) and mixed specialty (ESRT-2) PGY-1 volunteers."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary and secondary outcomes were, respectively, perceived stress and executive function."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "n = 44) and mixed specialty (ESRT-2, 6 weekly, 90-minute classes, n = 45)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Neither version of ESRT appeared to affect perceived stress. Higher executive function and mindfulness scores were seen in ESRT-1, and lower emotional exhaustion and depersonalization scores in ESRT-2"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "4686489",
+  "sha256": "593a45411b2e0cd8932e3385bfbf38c52bdc23a950c06ed46db961d6884488b6",
+  "timestamp_utc": "2025-11-09T23:54:36.425355+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.814490358126722,
+    "reading_ease": 27.13516988062443,
+    "word_count": 242
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Patient-Specific Instrumentation with Conventional Techniques in Unicompartmental Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either PSI or conventional instrumentation."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "60 patients, aged 54–72 years, with a mean BMI of 28 kg/m², undergoing UKA."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either PSI or conventional instrumentation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether patient-specific instrumentation (PSI) offers superior results compared to conventional methods."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was gait parameters, assessed using three-dimensional analysis at 1 year post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial included 60 patients."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 1 year, no significant differences were found in gait parameters between the PSI and conventional groups: double limb support (31% vs. 30%; p = 0.67) and walking speed (1.59 m/s vs. 1.57 m/s; p = 0.41)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

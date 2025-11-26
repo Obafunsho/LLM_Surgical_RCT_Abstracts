@@ -1,0 +1,74 @@
+{
+  "pmcid": "12254995",
+  "sha256": "54f94d87e43f1781748c5cd1d1e92ecb0750820f535501f4fde9d88cb60dbcaa",
+  "timestamp_utc": "2025-11-09T15:35:04.943685+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.987413793103453,
+    "reading_ease": 13.436465517241373,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: There is controversy over the optimal management of moderate tricuspid valve regurgitation during left-sided valve surgery due to the paucity of robust evidence for enhanced outcomes from concomitant tricuspid valve repair."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Methods: We performed a literature search using MEDLINE, EMBASE, Scopus and Web of Science. We identified articles to evaluate primary outcomes of both, cardiac and overall mortality."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Results: A total of 36 studies were included with 76,249 patients. There was significant reduction in cardiac mortality ( p < 0.0001) with concomitant tricuspid valve repair despite higher CPB ( p < 0.00001) and X-Clamp times ( p < 0.00001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no differences in postoperative stroke, wound infection, atrial fibrillation, renal failure, and intensive care unit duration of stay between the two groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

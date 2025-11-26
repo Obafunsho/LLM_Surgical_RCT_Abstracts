@@ -1,0 +1,74 @@
+{
+  "pmcid": "10416686",
+  "sha256": "42b8a06b96e83fbe05856c716f2efae32f4ff4fe2f3f9a0c49614607a51279c0",
+  "timestamp_utc": "2025-11-09T21:54:29.152185+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.676445473251032,
+    "reading_ease": 43.72108796296297,
+    "word_count": 243
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Polyethylene Glycol-Coated Patch Versus Axillary Drainage in Breast Cancer Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Women aged ≥18 years with breast cancer scheduled for axillary lymph node dissection were randomly assigned (1:1)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Women aged ≥18 years with breast cancer scheduled for axillary lymph node dissection"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned (1:1) to receive either a polyethylene glycol-coated patch or axillary drainage"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to compare clinical outcomes and direct costs between polyethylene glycol-coated patch and axillary drainage"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were the need for an emergency department visit and the incidence of seroma, measured over the postoperative period"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 227 patients were randomised between July 2019 and July 2022, with 115 in the patch group and 112 in the drainage group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on all participants using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The incidence of emergency department visits was significantly higher in the drainage group (33.0%) compared to the patch group (7.0%), with an incidence rate difference of 26.1% (95% CI 14.5 to 37.7; p < 0.0001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Conversely, the seroma rate was higher in the patch group (49.6%) than in the drainage group (26.8%)"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04487561"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

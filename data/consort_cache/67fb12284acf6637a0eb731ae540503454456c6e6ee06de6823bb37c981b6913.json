@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Biomechanical Analysis of Short-Stem Total Hip Arthroplasty in Revision Scenarios: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomisation at the femur level"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "A metaphyseal anchoring SHA (Tri-Lock BPS) stem and a standard THA (Corail) stem were implanted"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether a short stem can provide adequate primary stability in revision total hip arthroplasty (THA) scenarios."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Primary stability was assessed using three-dimensional (3D) micromotions at five points around the bone\u2013implant interface."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomisation at the femur level"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial involved ten composite femurs"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "no significant differences in 3D micromotions were observed between the short and standard stems at most test points, except at the lateral point of the distal femur (P5: Tri-Lock BPS 32.9 \u00b1 7.54 \u03bcm vs. Corail 25.1 \u00b1 4.32 \u03bcm; p = 0.011)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not disclosed."
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

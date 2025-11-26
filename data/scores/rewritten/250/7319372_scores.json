@@ -1,0 +1,74 @@
+{
+  "pmcid": "7319372",
+  "sha256": "12e63182a7441350eb8bf2e16374c4ff1ba1bba43a6aeb7101a1db6c465e8c5f",
+  "timestamp_utc": "2025-11-09T22:54:35.548523+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.96916666666667,
+    "reading_ease": 37.79250000000002,
+    "word_count": 240
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Autologous Osteoblastic Cell Therapy versus Bone Marrow Aspirate Concentrate in Pre-collapse Osteonecrosis of the Femoral Head"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "67 patients with Stage I or II ONFH, excluding those with traumatic ONFH, hemoglobinopathies, or positive serology for hepatitis B, C, or HIV"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either core decompression with BMAC (n = 26) or osteoblastic cell therapy (n = 30)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to evaluate the efficacy of autologous osteoblastic cell therapy compared to bone marrow aspirate concentrate (BMAC)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the absence of progression to subchondral fracture (ARCO stage III or higher) and a clinically important pain improvement over 36 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "67 patients with Stage I or II ONFH"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "46% BMAC vs. 22% osteoblastic cells"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "hazard ratio, 0.47 [95% CI 0.17 to 1.31]; p = 0.15"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were uncommon and mild"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

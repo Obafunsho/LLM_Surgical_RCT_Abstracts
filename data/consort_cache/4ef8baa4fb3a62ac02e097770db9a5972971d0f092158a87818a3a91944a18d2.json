@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The left knee was randomized to receive either standard three-layer closure with staples or the same closure supplemented with tissue adhesive with the opposite treatment used on the contralateral knee."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Thirty patients undergoing simultaneous bilateral TKA were included in the study."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The left knee was randomized to receive either standard three-layer closure with staples or the same closure supplemented with tissue adhesive with the opposite treatment used on the contralateral knee."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose of this study was to evaluate the effect of wound closure using a high-viscosity tissue adhesive in simultaneous bilateral TKA with respect to (1) postoperative wound drainage, measured as number of dressing changes in the first 72 hours postoperatively; and (2) wound healing assessed using the ASEPSIS score."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Postoperative wound drainage was evaluated as drainage resulting in a dressing change. The number of dressing changes during the first 72 hours postoperatively was recorded."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The left knee was randomized to receive either standard three-layer closure with staples or the same closure supplemented with tissue adhesive with the opposite treatment used on the contralateral knee."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "The nurses changing the dressing were blinded to treatment allocation up to the first dressing change."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty patients undergoing simultaneous bilateral TKA were included in the study."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "One patient underwent a constrained TKA and underwent revision 2 days after the index procedure and was therefore excluded leaving 29 patients (58 knees) for analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Knees with tissue adhesive underwent fewer dressing changes (median, 0; interquartile range [IQR], 0-1) compared with the contralateral knee (IQR, 1-2; difference of medians, one dressing change; p = 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

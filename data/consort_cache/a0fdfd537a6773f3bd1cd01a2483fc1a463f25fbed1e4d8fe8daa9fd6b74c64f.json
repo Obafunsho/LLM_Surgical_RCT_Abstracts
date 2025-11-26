@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Sealants for Hemostasis in Vascular Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either sealants or standard care controls"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "including 2376 participants undergoing vascular surgery with anastomosis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either sealants or standard care controls (oxidized cellulose, gelatin sponge, manual compression)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of sealants in achieving anastomotic hemostasis in vascular surgery"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was time to hemostasis, measured intraoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the intervention"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "2376 participants were randomised: 1188 to the sealant group and 1188 to the control group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Sealant use reduced time to hemostasis (mean difference -230.09 seconds, 95% CI -329.24 to -130.94; p < 0.00001)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

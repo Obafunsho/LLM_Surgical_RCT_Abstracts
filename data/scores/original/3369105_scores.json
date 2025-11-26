@@ -1,0 +1,74 @@
+{
+  "pmcid": "3369105",
+  "sha256": "55ad140943680431d28915dc337a93a78d058ec8a1787bcc45cd14078fe58e2e",
+  "timestamp_utc": "2025-11-09T15:52:29.131301+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.570606549815501,
+    "reading_ease": 27.93568842250923,
+    "word_count": 271
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Before rating, observers were randomized to a training group (34 observers) and a nontraining group (30 observers)."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The training group received an online training module before the rating session, and the nontraining group did not."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We tested whether training can improve interobserver reliability and sensitivity, specificity, and accuracy for the diagnosis of scaphoid fracture displacement on radiographs and CT scans."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Before rating, observers were randomized to a training group (34 observers) and a nontraining group (30 observers)."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Before rating, observers were randomized to a training group (34 observers) and a nontraining group (30 observers)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The average sensitivity, specificity, and accuracy of diagnosing displacement of scaphoid fractures were, respectively, 83%, 85%, and 84% for the nontraining group and 87%, 86%, and 87% for the training group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

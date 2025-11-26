@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Bleselumab for Prevention of Recurrent Focal Segmental Glomerulosclerosis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this phase 2a, randomised, open-label trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adult kidney transplant recipients with biopsy-proven primary FSGS were enrolled at 23 sites in Canada and the United States"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to receive bleselumab with tacrolimus and corticosteroids or standard of care (SOC) with tacrolimus, mycophenolate mofetil, and corticosteroids."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates bleselumab, an anti-CD40 monoclonal antibody, for preventing recurrent FSGS (rFSGS)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was rFSGS, defined as proteinuria (protein-creatinine ratio \u22653.0 g/g) with death, graft loss, or loss to follow-up imputed as rFSGS, measured through 3 months posttransplant."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Sixty-three patients were analysed (bleselumab: 29, SOC: 34)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Sixty-three patients were analysed (bleselumab: 29, SOC: 34)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Bleselumab showed a 40.7% relative decrease in rFSGS occurrence versus SOC (95% CI, \u221289.8 to 26.8; P = 0.37)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, with no deaths reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials.gov NCT02921789."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: The study was funded by the sponsor."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

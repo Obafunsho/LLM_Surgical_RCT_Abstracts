@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Oral Choline Supplementation for Pain Management Post-Gynaecological Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a double-blind, randomised controlled trial, 60 women undergoing open gynaecological surgery were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "60 women undergoing open gynaecological surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive 20 g of lecithin or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates oral choline supplementation with lecithin for pain management after gynaecological surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was pain report at rest and with movement, measured postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty participants were randomised: 30 to the intervention and 30 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "A small but statistically significant increase in plasma choline was observed in the intervention group. However, there was no significant difference in pain reports between groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse effects were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

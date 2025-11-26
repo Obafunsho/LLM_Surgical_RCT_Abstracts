@@ -1,0 +1,74 @@
+{
+  "pmcid": "3197816",
+  "sha256": "d2b7034c85e25fcb66eedb1c575b22495b1a6aac61d8d3ebaf7a45f3d94580ef",
+  "timestamp_utc": "2025-11-09T22:36:12.615083+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.798804477256493,
+    "reading_ease": 31.188223386520605,
+    "word_count": 221
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Aspirin Response in Peripheral Arterial Disease"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The Effect of Lipid Modification on Peripheral Arterial Disease after Endovascular Intervention Trial (ELIMIT) is a randomised trial."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients with PAD on ASA therapy at baseline were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "ASA responsiveness was tested using three assays: Optical aggregation with arachidonic acid (AA), optical aggregation with adenosine diphosphate (ADP), and platelet function analyzer-100 (PFA-100) with collagen/Epinephrine cartridges."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the prevalence of poor response to aspirin (ASA) therapy in patients with lower extremity peripheral arterial disease (PAD) and to compare the classification agreement among different ASA response assays."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Poor response was defined as AA aggregation ≥30%, ADP aggregation ≥70%, or PFA-100 Epi ≤164 sec."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 102 patients randomised, 80 met inclusion criteria."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "80 met inclusion criteria."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Persistent poor response prevalence varied: 5% by AA aggregation, 27.5% by ADP aggregation, and 9.9% by PFA-100 Epi. Only AA aggregation and PFA-100 Epi showed significant agreement (K=0.3223; 95% CI 0.15–0.493, P=0.0001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

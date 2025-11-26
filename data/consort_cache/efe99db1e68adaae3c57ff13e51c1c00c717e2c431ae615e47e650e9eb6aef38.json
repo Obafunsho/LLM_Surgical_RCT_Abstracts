@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Eligible adult trauma patients admitted to the intermediate or intensive care unit were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible adult trauma patients admitted to the intermediate or intensive care unit"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized upon admission to our institutional MMPR per usual care (UC) or UC plus sub-dissociative KI"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that the addition of a sub-dissociative ketamine infusion (KI) to a standardized oral MMPR reduces inpatient opioid exposure."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was morphine milligram equivalents per day (MME/d)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 300 patients were included in the final analysis with 144 randomized to KI and 156 to UC."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 300 patients were included in the final analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients receiving KI had an absolute reduction of 7 MME/day, 96 total MME, and 5% in OP%. Additionally, KI had a relative risk (RR) reduction of 19% in MME/day (RR 0.81 [0.69 \u2013 0.95], pp = 99%)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The KI group had a higher rate of delirium (11% versus 6%)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

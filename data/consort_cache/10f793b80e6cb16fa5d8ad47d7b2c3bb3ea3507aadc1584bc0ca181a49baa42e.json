@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This study evaluated whether pressure-controlled ventilation-volume guaranteed (PCV-VG) reduces intrapulmonary shunt (Qs/Qt) and ventilator-induced lung injury (VILI) in pediatric patients."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Eighty children underwent thoracic surgery requiring OLV were randomly divided into PCV-VG group and volume-controlled ventilation (VCV) group."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Eighty children underwent thoracic surgery requiring OLV."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The PCV-VG group utilized the PCV-VG during surgery, whereas the other group employed the VCV."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated whether pressure-controlled ventilation-volume guaranteed (PCV-VG) reduces intrapulmonary shunt (Qs/Qt) and ventilator-induced lung injury (VILI) in pediatric patients."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome comprised the Qs/Qt fraction."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly divided into PCV-VG group and volume-controlled ventilation (VCV) group."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Eighty children underwent thoracic surgery requiring OLV were randomly divided into PCV-VG group and volume-controlled ventilation (VCV) group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "lowered the incidence of PPCs [38.5 to 7.3%, adjusted odds ratio (OR) 0.13, 95% confidence interval (CI): 0.03\u20130.50, p =\u202f0.001]"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "lowered the incidence of PPCs [38.5 to 7.3%, adjusted odds ratio (OR) 0.13, 95% confidence interval (CI): 0.03\u20130.50, p =\u202f0.001]"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinical trial registration: Clinicaltrials.gov , identifier ChiCTR2200065237."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

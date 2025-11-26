@@ -1,0 +1,74 @@
+{
+  "pmcid": "12060365",
+  "sha256": "7d2d72f0b8d8a3af9a75e5c158e2f4b7d4fac6354baf983513cabed6e32e7439",
+  "timestamp_utc": "2025-11-09T23:25:18.557949+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.801428571428573,
+    "reading_ease": 31.231904761904786,
+    "word_count": 280
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Intrathecal Hydromorphone and TAP Block for Postoperative Analgesia in Upper Abdominal Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This retrospective study was conducted at West China Hospital, Sichuan University"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 18-75 years undergoing elective upper abdominal surgeries between January and June 2023"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants received either ITH or TAP block"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compares the analgesic efficacy of intrathecal hydromorphone (ITH) and transversus abdominis plane (TAP) block"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of moderate-to-severe pain during movement at 24 hours postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 182 patients were analyzed after matching, with 91 in each group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 182 patients were analyzed after matching, with 91 in each group"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The ITH group had a lower incidence of moderate-to-severe pain during movement at 24 hours (27.5% vs. 44.0%; p = 0.02)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Pruritus was more frequent in the ITH group (29.7% vs. 6.6%; p < 0.001)"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ChiCTR2400079577"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

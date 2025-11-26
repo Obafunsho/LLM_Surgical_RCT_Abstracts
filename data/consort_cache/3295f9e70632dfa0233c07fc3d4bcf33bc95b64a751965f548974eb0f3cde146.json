@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Operator Radiation Exposure in Transcatheter Valve Implantation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, operators wore dosimeters during TAVR-TF (n = 50) and TAVR-AA (n = 31) procedures."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Disposable radiation shielding pads (RADPAD) or a placebo were used in a blinded manner."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare operator radiation exposure during transcatheter aortic valve replacement (TAVR) via transfemoral (TF) and alternative access (AA) approaches, and to assess the impact of disposable shielding."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was operator radiation exposure, measured in mRad."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Disposable radiation shielding pads (RADPAD) or a placebo were used in a blinded manner."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "TAVR-TF (n = 50) and TAVR-AA (n = 31) procedures."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Operator radiation exposure was significantly higher in TAVR-AA compared to TAVR-TF (median 15.1 mRad [IQR 8.6, 32.4] vs 5.5 mRad [IQR 2.4, 9.8], P < .001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

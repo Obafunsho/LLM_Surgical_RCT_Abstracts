@@ -1,0 +1,74 @@
+{
+  "pmcid": "10684486",
+  "sha256": "377d6fa290b26cce8efb21ee03d7df4fad9eaed0187aa1096ecc17fe7534e34c",
+  "timestamp_utc": "2025-11-09T15:10:37.584896+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.553333333333335,
+    "reading_ease": 42.60000000000002,
+    "word_count": 162
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Even though there was no statistically significant difference, closed lateral internal sphincterotomy (LIS) had higher rates of recurrent anal fissure (RR = 1.73 (95% CI 0.86–3.47, p = 0.90, I2 = 0%) and lower rates of postoperative incontinence rate (RR = 0.60 (95% CI 0.37–0.96, p = 0.76, I2-0) as compared with open LIS."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 3,
+    "max_score": 25
+  }
+}

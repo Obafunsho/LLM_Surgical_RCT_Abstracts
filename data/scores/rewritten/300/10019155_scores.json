@@ -1,0 +1,74 @@
+{
+  "pmcid": "10019155",
+  "sha256": "29dfd937535d81fd5820d74a86fd2bf47418ba43fcdbc274e3a11d4fbdde931b",
+  "timestamp_utc": "2025-11-09T23:03:22.490258+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.163727034120736,
+    "reading_ease": 18.649230096238,
+    "word_count": 254
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Simulation-Based Training for Cerebral Aneurysm Coiling"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial included 12 novice medical students"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at the University of Western Ontario, this randomised controlled trial included 12 novice medical students with minimal endovascular skills."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants underwent training using the ANGIO Mentor Express simulator. The intervention consisted of diagnostic cerebral angiography (CA) training followed by aneurysm coiling training over six sessions."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was procedural task time, measured over the training period."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation was not applicable as all participants received the intervention."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomised controlled trial included 12 novice medical students"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All 12 participants completed the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The average procedural time decreased significantly from 42 to 24 minutes (p < 0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by Oleksiy Zaika, Roy Eagleson, and Sandrine de Ribaupierre."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

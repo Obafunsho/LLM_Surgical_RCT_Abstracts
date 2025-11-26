@@ -1,0 +1,74 @@
+{
+  "pmcid": "7938845",
+  "sha256": "93f2a633425a393d55474178d172ba57c5927bc8e3b625ec0a4ae39f48375723",
+  "timestamp_utc": "2025-11-10T00:07:54.160854+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.591700000000003,
+    "reading_ease": 23.33968333333337,
+    "word_count": 250
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Perioperative Aspirin in Vascular Surgery: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "POISE-2 was a blinded, randomised controlled trial with computer-generated randomisation and concealed allocation."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible patients were those undergoing non-cardiac surgery, specifically vascular surgery, at multiple international sites."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The study involved 603 vascular surgery patients, with 319 in the continuation and 284 in the initiation stratum."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was a composite of death or myocardial infarction at 30 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "POISE-2 was a blinded, randomised controlled trial with computer-generated randomisation and concealed allocation."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study involved 603 vascular surgery patients, with 319 in the continuation and 284 in the initiation stratum."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Among patients undergoing aneurysm repair, the primary outcome occurred in 13.7% with aspirin and 9.0% with placebo (HR 1.48, 95% CI 0.71 to 3.09)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Bleeding rates were similar between groups, with no significant differences in adverse events."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01082874."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "The study was funded by [source of funding not provided in the abstract]."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

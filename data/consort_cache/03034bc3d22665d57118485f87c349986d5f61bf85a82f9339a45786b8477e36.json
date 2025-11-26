@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The investigation was a randomized clinical trial analysis"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomized to a mental health intervention, targeting the psychological sequalae of traumatic injury (n= 85) versus enhanced usual care control (n= 86) conditions."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective:: The American College of Surgeons Committee on Trauma (ACS/COT) now requires that trauma centers have in place protocols to identify and refer patients at high risk for the psychological sequelae of traumatic injury."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Mixed model regression was used to assess intervention and control group utilization differences over time."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomized to a mental health intervention"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Patients were randomized to a mental health intervention, targeting the psychological sequalae of traumatic injury (n= 85) versus enhanced usual care control (n= 86) conditions."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Intervention utilization reductions were greatest at the 3-6 month (intervention 15.5% versus control 26.7%, Relative Risk [RR] = 0.58, 95% Confidence Interval [95% CI] 0.34, 1.00) and 12-15 month (intervention 16.5% versus control 30.6%, RR = 0.54, 95% CI 0.32, 0.91) post-injury time points."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

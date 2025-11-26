@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Interventions to Reduce Opioid Use After Orthopaedic Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible studies included adult patients undergoing orthopaedic surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Multimodal analgesic interventions showed a lower mean daily opioid dose compared to placebo/no intervention/usual care or active control"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effectiveness of interventions aimed at reducing opioid use post-surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the mean daily dose of opioid analgesics in morphine milligram equivalents (MME) at 1\u20133 months post-randomisation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "39 RCTs were included, involving 4054 participants."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Multimodal analgesic interventions showed a lower mean daily opioid dose compared to placebo/no intervention/usual care or active control in the medium term."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 17 studies, with no significant differences between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42022357577."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

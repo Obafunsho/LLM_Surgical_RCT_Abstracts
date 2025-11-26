@@ -1,0 +1,74 @@
+{
+  "pmcid": "3889429",
+  "sha256": "5c6e5efe1cab03d3715a59792f28f6c787dcb8bbaaf32a88c0aa579b8735cf2b",
+  "timestamp_utc": "2025-11-09T23:51:04.563138+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.833349794238682,
+    "reading_ease": 10.39940740740741,
+    "word_count": 243
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tourniquet Use in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised to either continuous tourniquet use from incision through cementation (operative tourniquet group) or tourniquet use only during cementation (cementation tourniquet group)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "71 patients (79 knees) undergoing TKA, randomised to either continuous tourniquet use from incision through cementation (operative tourniquet group) or tourniquet use only during cementation (cementation tourniquet group). Conducted at a single institution, the study excluded patients at high risk for tourniquet-related complications."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either continuous tourniquet use from incision through cementation (operative tourniquet group) or tourniquet use only during cementation (cementation tourniquet group)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the impact of limited tourniquet use during cementation only."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was surgical time, with secondary outcomes including postoperative pain, knee motion, blood loss, and complications."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved via a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "71 patients (79 knees) undergoing TKA"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Analysis showed no significant differences between groups in surgical time, pain scores, pain medication requirements, range of motion, hemoglobin change, or total blood loss."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One major complication, compartment syndrome, was reported in the operative tourniquet group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not disclosed."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not disclosed."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

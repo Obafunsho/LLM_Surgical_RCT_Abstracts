@@ -1,0 +1,74 @@
+{
+  "pmcid": "12137697",
+  "sha256": "4c79e859b1af3d8aed4700f731d74b781350dca33ba25265f76c6a1b5bedada2",
+  "timestamp_utc": "2025-11-09T22:16:20.131194+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.86315789473684,
+    "reading_ease": 32.57043859649124,
+    "word_count": 228
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Cytoreductive Surgery and Hyperthermic Intrathoracic Chemotherapy for Thymic Epithelial Tumors with Pleural Spread or Recurrence"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "No randomisation or blinding was applied."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Forty-five adult patients with TETs and pleural dissemination were enrolled between August 1, 2021, and February 29, 2024."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved S-HITOC with 25 mg/m² doxorubicin and 50 mg/m² cisplatin."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the safety and efficacy of cytoreductive surgery followed by hyperthermic intrathoracic chemotherapy (S-HITOC) in this context."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of treatment-related adverse events of grade ≥3, measured perioperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "No randomisation or blinding was applied."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "No randomisation or blinding was applied."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Forty-five adult patients with TETs and pleural dissemination were enrolled between August 1, 2021, and February 29, 2024."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Eight patients (17.8%) experienced grade ≥3 adverse events."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The 2-year progression-free survival (PFS) and overall survival (OS) rates were 82.8% and 100.0%, respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Eight patients (17.8%) experienced grade ≥3 adverse events."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT05446935."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

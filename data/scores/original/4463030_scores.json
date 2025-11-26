@@ -1,0 +1,74 @@
+{
+  "pmcid": "4463030",
+  "sha256": "23c25950a835f60c14167dc2f2bf26830c068239f27a79b93e573e10b9df6edc",
+  "timestamp_utc": "2025-11-09T15:59:17.031359+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.11986013986014,
+    "reading_ease": 29.218776223776246,
+    "word_count": 260
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We conducted a single-center, randomized controlled trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Forty-five adults with abdominal injury (46.7%) or intra-abdominal sepsis (52.3%)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly allocated to the ABThera (n = 23) or Barker's vacuum pack (n = 22)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To determine whether active negative pressure peritoneal therapy with the ABThera temporary abdominal closure device reduces systemic inflammation after abbreviated laparotomy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the difference in the plasma concentration of interleukin-6 (IL-6) 24 and 48 hours after temporary abdominal closure application."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly allocated to the ABThera (n = 23) or Barker's vacuum pack (n = 22)"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty-five adults with abdominal injury (46.7%) or intra-abdominal sepsis (52.3%) were randomly allocated"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "90-day mortality was improved in the ABThera group (hazard ratio, 0.32; 95% confidence interval, 0.11–0.93; P = 0.04)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov identifier NCT01355094"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

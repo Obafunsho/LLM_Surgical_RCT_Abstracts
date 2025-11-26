@@ -1,0 +1,74 @@
+{
+  "pmcid": "11602850",
+  "sha256": "c418da7ab691c44f0dadb24060486314fce345c436fcab8a4f9a4dcfffedf0a1",
+  "timestamp_utc": "2025-11-09T15:21:28.697894+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.025303454715221,
+    "reading_ease": 20.91054621848744,
+    "word_count": 252
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Thoracotomy with rib spreading still remains the preferred approach for complex surgery."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We retrospectively analyzed the medical records of single-institution patients submitted to lateral thoracotomy from January 2016 to June 2023. Exclusion criteria were traumatic etiology and a medical history of osteoporosis."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "In this study, we evaluated the incidence of rib fracture after thoracotomy, the possible risk factors and the relationship with post-operative pain and complications."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The presence of rib fracture was retrieved by surgical reports or post-operative chest X-ray. Basal and evoked pain after surgery was assessed by Visual Analogue Scale. The considered 30-day post-operative complications were atelectasis, need of endoscopic broncho-aspiration, pneumonia and pleural effusion."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 367 consecutive patients underwent thoracotomy in the study period."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Rib fracture was detected in 179/367 (48.8%) patients."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The risk of developing post-thoracotomy rib fractures was significantly associated with age greater than the median value ( p = 0.003). The presence of rib fracture was related to significantly more elevated evoked pain at 48 h after surgery ( p = 0.039) and a higher incidence of complications (32/179 vs 20/188; p = 0.047)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The presence of rib fracture was related to significantly more elevated evoked pain at 48 h after surgery ( p = 0.039) and a higher incidence of complications (32/179 vs 20/188; p = 0.047)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

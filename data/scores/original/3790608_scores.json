@@ -1,0 +1,74 @@
+{
+  "pmcid": "3790608",
+  "sha256": "21782c6597177b2fcf2cd8e3875f4842bdd60a98e1d673f053abf7363fb28486",
+  "timestamp_utc": "2025-11-09T15:54:32.547754+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.888146788990827,
+    "reading_ease": 27.1502018348624,
+    "word_count": 109
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "40 American Society of Anesthesiologists grade ASA I and II patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "40 American Society of Anesthesiologists grade ASA I and II patients scheduled for elective surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "In group I (Index Finger group), the LMA was inserted by the classic index finger technique and, in group T (Thumb Insertion group), the thumb insertion technique was used."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We evaluated the efficacy of an alternative technique, for insertion of the silicone laryngeal mask airway (LMA) Classic™"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Ease of insertion, fiberoptic laryngoscopic position, cuff pressures and laryngopharyngeal morbidity were assessed in both study groups."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "40 American Society of Anesthesiologists grade ASA I and II patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "On statistical analysis, both groups were comparable in all respects."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12416890",
+  "sha256": "0cee30047fd4197c2533b7a092e716e67ad9d214f810a42c0fcd9f3d77549c89",
+  "timestamp_utc": "2025-11-09T22:25:37.004703+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.593989448790254,
+    "reading_ease": 44.78657085683102,
+    "word_count": 239
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Cardiopulmonary Bypass Flow Rates on Renal Function"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this nonblinded, parallel-arm trial, 36 adult patients undergoing cardiac surgery at a Swedish hospital were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "36 adult patients undergoing cardiac surgery at a Swedish hospital"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either high flow (2.9 l · min–1 · m–2, n = 19) or standard flow (2.4 l · min–1 · m–2, n = 17) during CPB"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated whether a higher-than-standard CPB flow improves renal blood flow, oxygen demand–supply relationship, and function, and reduces tubular injury."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was renal blood flow, measured by para-aminohippuric acid clearance, over 60 minutes."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by eGFR and left ventricular ejection fraction using an online tool."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "No blinding was applied."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "36 adult patients undergoing cardiac surgery at a Swedish hospital were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "randomised to receive either high flow (2.9 l · min–1 · m–2, n = 19) or standard flow (2.4 l · min–1 · m–2, n = 17) during CPB"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "High flow increased systemic oxygen delivery (100 [95% CI, 60 to 141] vs. 31 [1.9 to 65] ml · min–1 · m–2; P < 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No perfusion-related adverse events occurred."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials.gov NCT272790."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by Swedish State, ALF-agreement, Swedish Heart and Lung Foundation, and Gothenburg Society of Medicine."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "8119517",
+  "sha256": "ecfedfa00898eb9477fa64585c1a1466f79ab2c76cfe27679bfadf085dad2cc8",
+  "timestamp_utc": "2025-11-09T22:57:18.762294+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.035752995391707,
+    "reading_ease": 38.57134377880186,
+    "word_count": 217
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Oliceridine vs. Morphine for Postoperative GI Tolerability"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In two randomised, double-blind, placebo- and morphine-controlled phase 3 trials"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 18-75 years with Apfel scores ≥3"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive oliceridine (0.1, 0.35, 0.5 mg) or morphine (1 mg)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the gastrointestinal (GI) tolerability of oliceridine"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was \"complete GI response,\" defined as no vomiting and no use of rescue antiemetics, measured over 48 hours for bunionectomy and 24 hours for abdominoplasty"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealed using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 756 patients were randomised: 378 to oliceridine and 378 to morphine"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Adjusted analysis showed odds ratios of 3.14 (95% CI: 1.78, 5.56; p < 0.0001) for bunionectomy and 1.92 (95% CI: 1.09, 3.36; p = 0.024) for abdominoplasty"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02335294"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Trevena, Inc."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

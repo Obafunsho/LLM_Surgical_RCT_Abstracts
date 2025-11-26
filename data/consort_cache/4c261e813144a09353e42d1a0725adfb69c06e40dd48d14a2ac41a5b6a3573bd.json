@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Aortic Valve Replacement on Myocardial Function"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "100 patients enrolled in a clinical trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients with aortic stenosis undergoing AVR."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "97 patients underwent AVR for aortic stenosis."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to characterize the effect of intraoperative events on left ventricular (LV) function using echocardiographic measures of myocardial deformation and to evaluate right ventricular (RV) function."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Echocardiographic images were analyzed for global longitudinal myocardial strain and strain rate."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomization and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "100 patients enrolled in a clinical trial"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Echocardiographic images were acceptable for analysis in 72 patients for LV strain, 67 for LV strain rate, and 54 for RV strain and strain rate."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "LV strain did not change significantly [difference: 0.7 (97.6% CI: 0.2, 1.5)%; P = 0.07], while LV systolic strain rate improved [\u22120.3 (\u22120.4, \u22120.2) sec\u22121; P < 0.001]. RV systolic strain worsened [difference: 4.6 (3.1, 6.0)%; P < 0.001], with no change in RV systolic strain rate [0.0 (97.6% CI: \u22120.1, 0.1); P = 0.83]."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01187329."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding source not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

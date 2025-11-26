@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Surgical Treatment for Ischemic Heart Failure (STICH) Trial: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This multicenter international trial randomized patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with heart failure, left ventricular ejection fraction \u22640.35, and coronary artery disease"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "CABG with or without surgical ventricular reconstruction (SVR) compared to medical therapy (MED) alone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The STICH trial evaluates the effectiveness of coronary artery bypass graft surgery"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were long-term survival and survival free of cardiac hospitalization, measured over a follow-up period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was conducted using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the interventions."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 2,136 participants were randomized: 1,067 to CABG with or without SVR and 1,069 to MED alone."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "CABG with intensive MED showed improved long-term survival compared to MED alone (hazard ratio = 0.86, 95% CI 0.75 to 0.98; p = 0.03)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar across groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial is registered under NCT00023595"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by the NHLBI"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11974628",
+  "sha256": "d73970c8827b2445a3ce2a54bd99133a7ec78933c8f303f382bc5594464406e5",
+  "timestamp_utc": "2025-11-09T23:23:46.977140+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.93658154121864,
+    "reading_ease": 37.35820564516132,
+    "word_count": 279
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Cold-Stored vs. Room Temperature Platelet Transfusion in Traumatic Brain Injury"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A phase 2, single-center, open-label randomized controlled trial was conducted"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were TBI patients requiring platelet transfusion, determined by clinical need and imaging."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized 1:1 to receive either CSP or RT platelets."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the feasibility, efficacy, and safety of cold-stored platelet (CSP) transfusion compared to room temperature (RT) platelet transfusion in patients with traumatic brain injury (TBI)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was feasibility, and the principal clinical outcome was the 6-month Glasgow Outcome Scale–extended (GOS-E) score."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization used a permuted block design, and allocation was concealed from outcome assessors."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "open-label randomized controlled trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From March 17, 2022, to October 18, 2023, 100 patients were randomized (50 to CSP and 50 to RT)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "100 patients were randomized (50 to CSP and 50 to RT)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 6-month GOS-E scores did not differ significantly between groups (OR: 1.58, 95% CI: 0.71 to 3.54, P = 0.27)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse event rates were similar across groups, with no significant differences in thromboembolic events or transfusion reactions."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "IND 025180."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by the U.S. Department of Defense and the University of Pittsburgh."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "8038254",
+  "sha256": "f3765a08b52b282479a2863ed64baf8a8d13f4a7ae3d7a69ce6444be3e5e5f46",
+  "timestamp_utc": "2025-11-09T16:16:09.598330+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.61120961060481,
+    "reading_ease": 27.23205053852527,
+    "word_count": 284
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Of 525 patients with HCC who had liver transplantation, 350 recipients underwent pretransplant bridging therapy."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Here, the relationship between pretransplant bridging therapy and long-term survival was investigated in a subgroup analysis of the SiLVER Study."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Tumour progression despite bridging was an independent risk factor affecting overall survival (hazard ratio 1.80; P = 0.005)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  }
+}

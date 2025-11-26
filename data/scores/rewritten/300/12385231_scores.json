@@ -1,0 +1,74 @@
+{
+  "pmcid": "12385231",
+  "sha256": "b31dbd5d37879d2665954bd2f8e1fd50634f7e61b28ded2a1f82044ab4a3be07",
+  "timestamp_utc": "2025-11-09T23:35:43.788761+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.62204301075269,
+    "reading_ease": 29.108620071684584,
+    "word_count": 248
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Pain Education and Exercise Training in Primary Dysmenorrhea"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to PNE+ET or BPE+ET groups."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study included nulligravid volunteers aged 18 years and older diagnosed with PD, conducted at a physiotherapy and rehabilitation department."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to PNE+ET or BPE+ET groups."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to evaluate the effects of pain neuroscience education (PNE) versus biomedical pain education (BPE), both combined with exercise training (ET), on primary dysmenorrhea (PD)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was menstrual pain intensity, assessed over two menstrual cycles."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using an online tool with a block size of six, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 38 participants were randomised: 19 to PNE+ET and 19 to BPE+ET, between January 2022 and June 2022."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "All participants were analysed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "PNE+ET resulted in greater reductions in menstrual pain, central sensitization symptoms, and pain catastrophizing compared to BPE+ET (p < 0.05, Cohen’s d = 0.683–1.174)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT06040866."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

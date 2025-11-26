@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The REDWASH Trial: A Randomised Controlled Trial of Red Blood Cell Washing in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "60 adult patients were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "cardiac surgery patients at high risk of large-volume transfusion. Conducted at three UK cardiac centres"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive either washed RBCs or standard care RBCs"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the effects of washing allogeneic red blood cells (RBCs) on inflammation and organ injury"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was serum interleukin-8 (IL-8) measured at baseline and four postsurgery time points"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by study site and procedure type, with allocation concealed via an Internet-based system"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between May 2013 and March 2015, 29 patients were allocated to standard care and 27 to the washing group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "no significant difference in IL-8 levels between groups [adjusted mean difference 0.239 (95% CI -0.231, 0.709), P=0.318]"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were not significantly different between groups"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered under ISRCTN 27076315"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "funded by [source not specified]"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11926419",
+  "sha256": "ad5508ac9f8dc4c05434b3548af0608f4a6dec574795b0135d5467c5da4c1e6e",
+  "timestamp_utc": "2025-11-09T15:26:29.702035+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.645238095238096,
+    "reading_ease": 53.94500000000002,
+    "word_count": 246
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "All the patients who had miniplates placed for BAMP treatment between January 2010 and April 2020 in Department of Oral and Maxillofacial Diseases, Helsinki University Hospital, Finland were included in this study."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The success rate of the placement of orthodontic miniplates was evaluated between surgical residents (Group 1) and consultant surgeons (Group 2)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this retrospective study was to determine the failure rate of miniplates."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The study group consisted of 164 miniplates in 42 patients."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The overall failure rate of miniplates was 23.8% ( n = 39). The failure rate for surgical residents (Group 1) was 31.4% ( n = 27) and for consultant surgeons (Group 2), 15.3% ( n = 12) ( p < 0.05)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

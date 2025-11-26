@@ -1,0 +1,74 @@
+{
+  "pmcid": "2889289",
+  "sha256": "a46ac5a15ed6c981c8555142001a1df1a5a4285d780ad258a5c4a46b72e86ea5",
+  "timestamp_utc": "2025-11-09T23:46:34.080182+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.513611111111114,
+    "reading_ease": 33.39875000000001,
+    "word_count": 252
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Axillary Treatment in Breast Cancer Patients with Positive Sentinel Node Biopsy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This multicenter trial randomized 2,000 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "operable unifocal invasive breast cancer (5–30 mm) and clinically negative lymph nodes"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to either ALND or ART"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "investigates whether axillary lymph node dissection (ALND) or axillary radiotherapy (ART) is more effective"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the sentinel node identification rate"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was centralized by the EORTC headquarters"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "randomized 2,000 patients... The study was conducted in 26 European institutions between 2001 and 2005"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was performed on 1,953 eligible patients using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The sentinel node identification rate was 97% (1,888/1,953)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to the SNB procedure were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: EORTC 10981-22023 AMAROS."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

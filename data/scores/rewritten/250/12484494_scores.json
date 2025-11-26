@@ -1,0 +1,74 @@
+{
+  "pmcid": "12484494",
+  "sha256": "9775d54cf3e062184f75564740feb7e7dd1445d66e1a1182f034d3b7212209d3",
+  "timestamp_utc": "2025-11-09T22:29:20.745677+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.946956521739132,
+    "reading_ease": 32.33441471571908,
+    "word_count": 230
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Opioid-Sparing Analgesia in Postoperative Pain Management"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was total morphine consumption within 24 hours postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation and allocation concealment methods were assessed"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "blinding of participants and outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Opioid-sparing analgesia reduced total morphine consumption (mean difference [MD] = -9.47 mg, 95% confidence interval [CI] -13.00 to -5.95)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The incidence of postoperative nausea and vomiting (PONV) was lower (odds ratio [OR] = 0.73, 95% CI 0.59 to 0.90), as was pruritus (OR = 0.64, 95% CI 0.41 to 0.98)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42024579882."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

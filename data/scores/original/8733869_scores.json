@@ -1,0 +1,74 @@
+{
+  "pmcid": "8733869",
+  "sha256": "e6b1009ed25b59d5b7d09f2f680e4a86cb0e026c5ebe55e644619942ed12bb94",
+  "timestamp_utc": "2025-11-09T16:18:59.397556+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.391934482758622,
+    "reading_ease": 32.10651379310346,
+    "word_count": 464
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This multicenter randomized clinical trial provides the first indication, to our knowledge, that normothermic machine perfusion preservation of deceased donor livers reduces both posttransplant EAD and IBC."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This multicenter randomized clinical trial (International Randomized Trial to Evaluate the Effectiveness of the Portable Organ Care System Liver for Preserving and Assessing Donor Livers for Transplantation) was conducted between November 2016 and October 2019 at 20 US liver transplant programs."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were actively listed for liver transplant on the United Network of Organ Sharing national waiting list."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Interventions: Transplants were performed for recipients randomly assigned to receive donor livers preserved by either conventional ICS or the OCS Liver initiated at the donor hospital."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To determine whether portable normothermic machine perfusion preservation of livers obtained from deceased donors using the Organ Care System (OCS) Liver ameliorates early allograft dysfunction (EAD) and ischemic biliary complications (IBCs)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary effectiveness end point was incidence of EAD."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were actively listed for liver transplant on the United Network of Organ Sharing national waiting list."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The trial compared outcomes for 300 recipients of livers preserved using either OCS (n = 153) or ICS (n = 147)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of 293 patients in the per-protocol population, the primary analysis population for effectiveness, 151 were in the OCS Liver group (mean [SD] age, 57.1 [10.3] years; 102 [67%] men), and 142 were in the ICS group (mean SD age, 58.6 [10.0] years; 100 [68%] men)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The primary effectiveness end point was met by a significant decrease in EAD (27 of 150 [18%] vs 44 of 141 [31%]; P = .01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The primary safety end point was the number of liver graft–related severe adverse events within 30 days after transplant."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT02522871"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

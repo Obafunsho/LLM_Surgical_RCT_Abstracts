@@ -1,0 +1,74 @@
+{
+  "pmcid": "12485998",
+  "sha256": "ac30411a083503a527683127ad1d19a6f887dc559252a0b64783260ebab331aa",
+  "timestamp_utc": "2025-11-09T15:44:34.798485+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 20.435287217526312,
+    "reading_ease": -15.721186820769333,
+    "word_count": 341
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: Prehabilitation constitutes a multidisciplinary strategy aimed at optimizing patients’ physiological and psychological status prior to surgery, with the objective of improving postoperative outcomes and long-term quality of life."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Interventions commonly include structured exercise programs, nutritional optimization, respiratory muscle training, and psychosocial support."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "with the objective of improving postoperative outcomes and long-term quality of life."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Overall, 82% of included studies reported statistically significant improvements in surgical outcomes associated with prehabilitation."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  }
+}

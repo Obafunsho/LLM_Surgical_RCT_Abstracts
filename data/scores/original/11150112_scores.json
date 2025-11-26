@@ -1,0 +1,74 @@
+{
+  "pmcid": "11150112",
+  "sha256": "96dcdc522a2143b922c2d623a484b54ddc7fdfaee34f5a4adf335d19cdc0b742",
+  "timestamp_utc": "2025-11-09T15:15:40.385853+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.701932773109245,
+    "reading_ease": 50.44012605042016,
+    "word_count": 238
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Seventy-four women who underwent elective CS were randomized to receive either PIEB or CEI."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Seventy-four women who underwent elective CS were randomized to receive either PIEB or CEI."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The PIEB group received 4 ml-intermittent boluses of 0.11% ropivacaine every hour at a rate of 120 ml/h. The CEI group received a constant rate of 4 ml/h of 0.11% ropivacaine."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the analgesic effects of programmed intermittent epidural boluses (PIEB) and continuous epidural infusion (CEI) for postoperative analgesia after elective cesarean section (CS)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the pain score at rest at 36 h after CS."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Seventy-four women who underwent elective CS were randomized to receive either PIEB or CEI."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seventy-four women who underwent elective CS were randomized to receive either PIEB or CEI."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The pain score at rest at 36 h after CS was significantly lower in the PIEB group compared with that in the CEI group (3.0 vs. 0.0; median difference: 2, 95% CI [1, 2], P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "without any apparent adverse events."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11828696",
+  "sha256": "bd15356f36392f6311e969964a0dade9b203fa4b10be486ab3fa804738079972",
+  "timestamp_utc": "2025-11-09T23:21:02.996513+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.952396791234595,
+    "reading_ease": 34.58666992760715,
+    "word_count": 269
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial Comparing Cricothyrotomy Techniques"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised crossover trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "emergency physicians (EPs) and trainees trained in both techniques"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "a surgical technique using a bougie/endotracheal tube (ETT) and an open technique using the Melker catheter"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compared the time to lung insufflation between a surgical technique using a bougie/endotracheal tube (ETT) and an open technique using the Melker catheter."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the time to first insufflation of the artificial lung."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomised via block randomisation with random block sizes"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Participants were not blinded to the technique."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty-six participants (17 EPs, 19 trainees) were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Thirty-six participants (17 EPs, 19 trainees) were randomised to perform both techniques."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The Melker catheter technique was quicker, with a mean time of 29.2 seconds compared to 44.3 seconds for the bougie/ETT technique (difference 15.1 seconds, 95% CI 10.8–19.4 seconds)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

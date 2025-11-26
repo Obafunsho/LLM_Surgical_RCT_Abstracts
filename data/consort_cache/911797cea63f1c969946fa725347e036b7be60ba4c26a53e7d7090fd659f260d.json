@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: Following coronary artery bypass grafting (CABG), the standard treatment regimen typically involves dual antiplatelet therapy (DAPT), which includes a P2Y12 receptor antagonist in combination with aspirin."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Methods: A meta-analysis of eligible studies of patients undergoing CABG and receiving either aspirin plus clopidogrel (A\u2009+\u2009C) or aspirin plus ticagrelor (A\u2009+\u2009T) as antiplatelet therapy, was carried out."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Methods: A meta-analysis of eligible studies of patients undergoing CABG and receiving either aspirin plus clopidogrel (A\u2009+\u2009C) or aspirin plus ticagrelor (A\u2009+\u2009T) as antiplatelet therapy, was carried out."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this meta-analysis was to evaluate and compare the safety and efficacy of ticagrelor vs. clopidogrel in patients post-CABG."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The outcomes of interest included all-cause mortality, cardiovascular mortality, major adverse cardiovascular and cerebrovascular events (MACCEs), major bleeding, myocardial infarction, stroke, revascularization, saphenous vein occlusion and total graft occlusion."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Results: 4 randomized controlled trials and 3 observational studies ( n =\u20092,424) were eligible for final analysis."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "A\u2009+\u2009T was associated with a decreased risk of all-cause mortality (OR\u2009=\u20090.47, 95% CI 0.31\u20130.70, p <\u20090.001, p heterogeneity\u2009=\u20090.80, I 2 =\u20090%) and cardiovascular mortality (OR\u2009=\u20090.50, 95% CI 0.31\u20130.82, p =\u20090.006, p heterogeneity\u2009=\u20090.71, I 2 =\u20090%), compared with A\u2009+\u2009C group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No statistically significant difference was found in the rates of major bleeding (OR\u2009=\u20091.16; 95% CI 0.69\u20131.96; p =\u20090.57; p heterogeneity\u2009=\u20090.26; I 2 =\u200923%) between two groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

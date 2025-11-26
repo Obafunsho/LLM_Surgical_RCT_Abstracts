@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This was a subgroup analysis of a multicentre randomized trial"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients scheduled for elective colectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The MOABP group underwent mechanical bowel preparation, and took 2 g neomycin and 2 g metronidazole orally during the day before surgery. The NBP group did not undergo bowel preparation."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Among 217 patients undergoing right colectomy (106 in MOABP and 111 in NBP group)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "SSI was detected in seven (7 per cent) and 10 (9 per cent) patients (odds ratio (OR) 0.71, 95 per cent c.i. 0.26 to 1.95; P =\u20090.510)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

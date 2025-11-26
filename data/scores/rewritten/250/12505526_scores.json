@@ -1,0 +1,74 @@
+{
+  "pmcid": "12505526",
+  "sha256": "5c486ebbab6e9fd6eeefd581a3457e5229d7c4017e3e285fdee21850dbfa3e54",
+  "timestamp_utc": "2025-11-09T22:30:55.911989+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.04053900234349,
+    "reading_ease": 21.390048543689346,
+    "word_count": 206
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Neuromuscular Blockade Antagonists in Surgical Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "35 randomised controlled trials (RCTs) involving 4275 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were surgical patients requiring neuromuscular blockade reversal."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention was sugammadex, compared to neostigmine."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the impact of neuromuscular blockade antagonists on postoperative complications and recovery quality."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was time to Train-of-Four ratio (TOFR) ≥ 0.9, measured postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "35 randomised controlled trials (RCTs) involving 4275 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Sugammadex facilitated faster RNB reversal than neostigmine, with a quicker TOFR ≥ 0.9 (standardized mean difference [SMD] −3.45; 95% confidence interval [CI], −4.42 to −2.48)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not detailed."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42024561006."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "8908225",
+  "sha256": "7c1235ac8364a87f5e2becea7a1ef4783bbd0fd7f0c88efb799b1f3591b12e1c",
+  "timestamp_utc": "2025-11-09T22:59:53.472756+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.597329192546585,
+    "reading_ease": 38.59984472049692,
+    "word_count": 252
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Hyperthermic Intraperitoneal Chemotherapy in Advanced Ovarian Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "single-blind randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "184 patients with stage III or IV ovarian cancer and residual tumor size less than 1 cm"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised (1:1) to receive HIPEC (41.5 °C, 75 mg/m² of cisplatin, 90 minutes) or standard care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the clinical benefit of hyperthermic intraperitoneal chemotherapy (HIPEC) following primary or interval cytoreductive surgery in women with stage III or IV ovarian cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was progression-free survival, measured from randomisation to disease progression or death."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was performed intraoperatively"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "participants were blinded to group allocation"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "184 patients with stage III or IV ovarian cancer"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "intention-to-treat analysis was conducted"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "HIPEC improved progression-free survival (HR, 0.60; 95% CI, 0.37-0.99; P = .04) and overall survival (HR, 0.53; 95% CI, 0.29-0.96; P = .04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were more frequent in the HIPEC group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: NCT01091636."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

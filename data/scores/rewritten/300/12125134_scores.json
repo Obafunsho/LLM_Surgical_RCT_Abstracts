@@ -1,0 +1,74 @@
+{
+  "pmcid": "12125134",
+  "sha256": "43d61c821aa6538a36b072fc40020171d052e9fdbbe65fde45da52ebd3f61207",
+  "timestamp_utc": "2025-11-09T23:27:18.999754+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.636748840615084,
+    "reading_ease": 22.543807664144538,
+    "word_count": 241
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tranexamic Acid Dosing in Chinese Cardiac Surgery Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "participants aged 18-70 years undergoing cardiac surgery with CPB were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "participants aged 18-70 years undergoing cardiac surgery with CPB"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to high-dose (30 mg/kg bolus, 16 mg/kg/h maintenance, 2 mg/kg prime, n=7) or low-dose (10 mg/kg bolus, 2 mg/kg/h maintenance, 1 mg/kg prime, n=9) TXA groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to develop a population pharmacokinetic (PK) model of tranexamic acid (TXA) in Chinese patients undergoing cardiac surgery with cardiopulmonary bypass (CPB) to inform individualized dosing strategies"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the PK parameters, measured perioperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment by a blinded research coordinator"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "allocation concealment by a blinded research coordinator"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "n=7) or low-dose (10 mg/kg bolus, 2 mg/kg/h maintenance, 1 mg/kg prime, n=9)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Population estimates for clearance (CL1), volume of the central compartment (V1), diffusional clearance (CL2), and volume of peripheral compartment (V2) were 4.7 L/h, 4.9 L, 17.0 L/h, and 11.1 L, respectively"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: N/A"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

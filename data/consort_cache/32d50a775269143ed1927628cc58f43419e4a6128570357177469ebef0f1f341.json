@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Ultrasound-guided percutaneous cryoneurolysis improves maximum inspired lung volume while concurrently decreasing pain and opioid consumption after traumatic rib fracture."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Adults with one to six traumatic rib fractures were randomized to either active cryoneurolysis and sham peripheral nerve block or sham cryoneurolysis and active peripheral nerve block in a participant/observer-masked fashion."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Adults with one to six traumatic rib fractures were randomized."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to either active cryoneurolysis and sham peripheral nerve block or sham cryoneurolysis and active peripheral nerve block"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The authors hypothesized that cryoneurolysis would improve analgesia and inspired volume after rib fracture."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the maximum inspired volume the day after the procedure as measured with an incentive spirometer."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Adults with one to six traumatic rib fractures were randomized."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "participant/observer-masked fashion"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "n = 11 for cryoneurolysis and n = 9 for peripheral nerve block"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "n = 11 for cryoneurolysis and n = 9 for peripheral nerve block"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean difference, 496; 95% CI, \u2013428 to 1,420; t test P = 0.269"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

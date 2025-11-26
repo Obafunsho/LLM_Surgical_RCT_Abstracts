@@ -1,0 +1,74 @@
+{
+  "pmcid": "11482247",
+  "sha256": "b4b029235cc4a1bf646f0ebddfca4b6de8c5a7ace9a9d2e8722293a1a8186612",
+  "timestamp_utc": "2025-11-09T15:19:53.980807+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.628497709923668,
+    "reading_ease": 16.01917404580152,
+    "word_count": 262
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Data from randomized clinical trials (RCTs) evaluating the role of super-oxidized solution in perforated appendicitis are lacking."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this multicentre RCT conducted between September 2020 and March 2022, patients aged 13 years and older with perforated appendicitis undergoing open appendicectomy were randomly assigned to receive peritoneal and wound lavage with either super-oxidized solution or normal saline."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 13 years and older with perforated appendicitis undergoing open appendicectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive peritoneal and wound lavage with either super-oxidized solution or normal saline."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study objective was to determine the effect of peritoneal and wound lavage with super-oxidized solution in reducing risk of surgical-site infection following open appendicectomy for perforated appendicitis."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was surgical-site infection within 30 days after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, with allocation concealment by opaque, sequentially numbered, sealed envelope."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "The patients, surgeons, outcome assessors and statisticians performing the analysis were blinded to treatment assigned."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 102 consecutive patients (51 in the super-oxidized solution group and 51 in the normal saline group) were randomized and included in the intention-to-treat analysis."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "A total of 102 consecutive patients (51 in the super-oxidized solution group and 51 in the normal saline group) were randomized and included in the intention-to-treat analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The super-oxidized solution group showed a significant reduction in overall surgical-site infection (8 (15.6%) versus 19 (37.2%); relative risk (RR) 0.42; 95% c.i. 0.20 to 0.87; P = 0.014), and superficial surgical-site infection (5 (9.8%) versus 18 (35.3%); RR 0.28; 95% c.i. 0.11 to 0.69; P = 0.002), with a number-needed-to-treat of four patients."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no adverse events in either group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrial.gov Identifier: NCT04512196"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

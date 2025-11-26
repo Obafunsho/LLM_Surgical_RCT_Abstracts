@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This multicentre randomized trial for surgical skin antisepsis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This multicentre randomized trial for surgical skin antisepsis"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "clean-contaminated gastrointestinal and hepatobiliary-pancreatic surgeries in five hospitals"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "efficacy of olanexidine and chlorhexidine-alcohol"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to evaluate the efficacy of aqueous olanexidine compared with chlorhexidine-alcohol"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was 30-day SSI"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "700 patients from five institutions underwent randomization"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "347 received olanexidine and 345 received chlorhexidine-alcohol in the full analysis set"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "30-day SSI rate was 12.4% (43 of 347) in the olanexidine group and 13.6% (47 of 345) in the chlorhexidine-alcohol group (adjusted risk ratio (aRR) 0.911 (95% c.i. 0.625 to 1.327); P = 0.626)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Overall adverse effects were seen in two patients (0.58%) in the olanexidine group and in three patients (0.87%) in the chlorhexidine-alcohol group"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: UMIN 000049712 (University Hospital Medical Information Network Clinical Trials Registry)"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

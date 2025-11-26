@@ -1,0 +1,74 @@
+{
+  "pmcid": "11075399",
+  "sha256": "1f764edfec038bffa3f766803d2388c77f669f2cfc27b3dc49e294e479189029",
+  "timestamp_utc": "2025-11-09T23:12:24.850257+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 18.3634375,
+    "reading_ease": -1.5198798076922913,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of an Implantable Arterial Access System for Chemotherapy and Peripheral Vascular Disease"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Conducted as a single-arm pilot study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "10 patients with secondary colorectal cancer and 20 patients with critical limb ischemia were enrolled. Eligibility criteria included histologically confirmed colorectal adenocarcinoma with inoperable hepatic metastases and critical limb ischemia with no option but amputation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "an implantable arterial access system designed for targeted chemotherapy delivery and isolated arterial-to-arterial extracorporeal perfusion"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assessed an implantable arterial access system designed for targeted chemotherapy delivery and isolated arterial-to-arterial extracorporeal perfusion in end-stage peripheral vascular disease."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome for chemotherapy was partial response or stable disease over a mean survival of 11.2 months. For peripheral vascular disease, the primary outcome was avoidance of major amputation over a mean follow-up of 22 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "10 patients with secondary colorectal cancer and 20 patients with critical limb ischemia were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the chemotherapy group, six out of ten patients achieved partial response or stable disease. In the peripheral vascular disease group, 40% avoided amputation, and 20% experienced a delay of 4 months."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "In the chemotherapy group, six out of ten patients achieved partial response or stable disease. In the peripheral vascular disease group, 40% avoided amputation, and 20% experienced a delay of 4 months."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included a 4% infection rate and one minor thromboembolic event without residua."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered (ACTRN12611001273976)"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

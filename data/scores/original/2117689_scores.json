@@ -1,0 +1,74 @@
+{
+  "pmcid": "2117689",
+  "sha256": "eb7f07ba56ef1d96df65a7df13afca5b4c525756e4b5ef8437af451a81e447d4",
+  "timestamp_utc": "2025-11-09T15:47:51.285867+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.288587939698495,
+    "reading_ease": 28.064640703517597,
+    "word_count": 199
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "in 14 PD patients treated with STN stimulation during “ON” and “OFF” condition of the stimulator"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "STN stimulation during “ON” and “OFF” condition of the stimulator. The effects of a single dose of levodopa on ANS were tested"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aims of this study were to examine whether STN stimulation has an influence on functions of the ANS and to compare these effects to those induced by levodopa."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Blood pressure (BP) and heart rate (HR) during rest and orthostatic conditions, HR variability (HRV) and breathing‐induced cutaneous sympathetic vasoconstriction (CVC) were tested"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "in 14 PD patients treated with STN stimulation during “ON” and “OFF” condition of the stimulator. The effects of a single dose of levodopa on ANS were tested in 15 PD patients without DBS."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "STN stimulation had no influence on cardiovascular ANS functions, whereas CVC was significantly increased. In contrast, levodopa significantly lowered BP and HR at rest and enhanced orthostatic hypotension."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Olaparib Maintenance Therapy in BRCA-Mutated Pancreatic Ductal Adenocarcinoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This single-arm trial was conducted at a tertiary care center."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were adults with BRCA2-mutated UR-M PDAC."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved 8 courses of mFFX followed by 8 months of olaparib."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of olaparib maintenance therapy following modified FOLFIRINOX (mFFX) in achieving surgical resectability."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of conversion to resectable disease, assessed by imaging and surgical exploration."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable due to the single-arm design."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable due to the single-arm design."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One participant was enrolled and completed the intervention."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was per-protocol."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The primary tumor showed over 60% shrinkage, and hepatic metastases disappeared."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included neuropathy due to mFFX, managed by switching to olaparib."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not disclosed."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

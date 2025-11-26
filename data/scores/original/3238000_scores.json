@@ -1,0 +1,74 @@
+{
+  "pmcid": "3238000",
+  "sha256": "2bc2c6fcb59d134bac2908a21871452cd41325316a4ca814f8a3838a948a140e",
+  "timestamp_utc": "2025-11-09T15:51:49.568869+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.709906832298138,
+    "reading_ease": 45.93020186335406,
+    "word_count": 322
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods: We randomized 507 primary TKAs in 416 eligible patients to receive MB (n = 252) or FB (n = 255) devices"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "We randomized 507 primary TKAs in 416 eligible patients"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "416 eligible patients"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "to receive MB (n = 252) or FB (n = 255) devices"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We asked whether function of patients or survivorship would be greater or complications would be lesser in groups of patients with MB compared with fixed bearing (FB) TKA."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "WOMAC Index, SF-12 Health Survey, knee range of motion, and Knee Society scores were collected and compared preoperatively and at 6, 12, and 24 months postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were blinded to treatment allocation."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Patients were blinded to treatment allocation."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "We randomized 507 primary TKAs in 416 eligible patients to receive MB (n = 252) or FB (n = 255) devices from November 2001 to August 2007"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Nineteen of the 252 MB and 13 of the 255 FB knees had undergone revision of any component."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Estimated survival at 6 postoperative years was similar for the two devices: 90.1% (95% confidence interval [CI], 84.1–93.9) for MB and 94.2% (95% CI, 90.1–96.6) for FB."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "We recorded device failures and complications until October 2009."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov registration number NCT00946075"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

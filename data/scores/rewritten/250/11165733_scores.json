@@ -1,0 +1,74 @@
+{
+  "pmcid": "11165733",
+  "sha256": "747695f50539214430f1a685cdcc79c92355069797df691b4c9b7911fc10ecf4",
+  "timestamp_utc": "2025-11-09T22:00:41.963968+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.896443298969075,
+    "reading_ease": 9.887689003436464,
+    "word_count": 194
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial on Remote Expert Instructional Feedback in Endovascular Simulation-Based Education"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants, ranging from second to seventh year of residency, were randomly assigned to two groups."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study was conducted at the RCSI Simulation Centre, involving 12 vascular surgery residents in Ireland."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group 1 received in-person feedback first, followed by remote feedback, while Group 2 received remote feedback first, followed by in-person feedback."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial investigates the effectiveness of remote expert instructional feedback in endovascular simulation-based education for vascular surgery residents, aiming to enhance training opportunities."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the effectiveness of remote feedback, assessed through interviews and a validated questionnaire post-training."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants, ranging from second to seventh year of residency, were randomly assigned to two groups."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "involving 12 vascular surgery residents in Ireland."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "No significant difference was found between remote and in-person feedback in the questionnaire results."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

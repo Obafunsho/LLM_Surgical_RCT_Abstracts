@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Modified Mindfulness-Based Stress Reduction in Surgical Interns"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised to an 8-week modified Mindfulness-Based Stress Reduction (MBSR) program or an active control"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A pilot randomised controlled trial was conducted at a tertiary academic medical center from April 30, 2016, to December 2017. Twenty-one surgical interns"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to an 8-week modified Mindfulness-Based Stress Reduction (MBSR) program or an active control"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was feasibility, assessed across six domains"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was at the individual level, with allocation concealment"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of the 21 participants, 13 were men (62%)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The intervention demonstrated feasibility and acceptability, evidenced by no attrition"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Course satisfaction and perceived credibility were higher in the intervention group (P = .03)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov NCT03141190"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "5514369",
+  "sha256": "4d0b3e5770ae8b9a544ccb8fbbe750c6b678d257d1dbe77454c575ebd77e024f",
+  "timestamp_utc": "2025-11-09T23:57:53.833492+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.665477050025792,
+    "reading_ease": 20.58168471720819,
+    "word_count": 277
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of 17 β-Estradiol in Postmenopausal Women Undergoing Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 174 postmenopausal women were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were recruited from a single cardiac surgery center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either 17 β-estradiol or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to assess the effect of perioperative 17 β-estradiol on neurocognitive dysfunction and quality of life"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was neurocognitive dysfunction, assessed using a standard psychometric battery at baseline, 4 to 6 weeks, and 6 months postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 174 postmenopausal women were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 174 participants, 108 completed the study (54 in each group)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Thirteen percent exhibited neurocognitive dysfunction postoperatively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11297559",
+  "sha256": "2d3afbddbe04e8a75b60e148838e41330a3878a26802b2e499f17a14a8c71633",
+  "timestamp_utc": "2025-11-09T23:14:37.118552+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.422964211618257,
+    "reading_ease": 18.4851517116183,
+    "word_count": 241
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Normothermic and Hypothermic Cardiopulmonary Bypass in Pediatric Tetralogy of Fallot Repair"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "100 patients aged 13 years or younger were randomised into two groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at the University Children’s Hospital, Damascus, 100 patients aged 13 years or younger"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised into two groups: NCPB (n=50, temperature 35–37°C) and HCPB (n=50, temperature 28–32°C)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed the early postoperative outcomes of normothermic cardiopulmonary bypass (NCPB) versus hypothermic cardiopulmonary bypass (HCPB)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was mortality, measured over the postoperative period"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, with allocation concealment ensured by sealed envelopes"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "100 patients aged 13 years or younger were randomised into two groups"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "50, temperature 35–37°C) and HCPB (n=50, temperature 28–32°C)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Seven deaths occurred, with a mortality rate of 7% (5 in HCPB, 2 in NCPB; p=0.25)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included heart failure, septic shock, and pulmonary hemorrhage, with no significant difference in frequency or severity between groups"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not specified"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

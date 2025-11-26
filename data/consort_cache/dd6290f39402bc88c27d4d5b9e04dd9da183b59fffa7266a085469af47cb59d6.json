@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Dynamic Needle Tip Positioning and Long-Axis In-Plane Techniques for Internal Jugular Vein Cannulation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to either the DNTP group (n=50) or the LAIP group (n=50) using a computer-generated random number table."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "100 patients aged 18-70 years undergoing elective surgery requiring IJV cannulation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to either the DNTP group (n=50) or the LAIP group (n=50)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compares the first-pass success rate of IJV cannulation using the dynamic needle tip positioning (DNTP) technique versus the long-axis in-plane (LAIP) approach."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the first-pass success rate, measured immediately after the procedure."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was concealed using opaque envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "the outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to either the DNTP group (n=50) or the LAIP group (n=50)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The first-pass success rate was significantly higher in the DNTP group (96%) compared to the LAIP group (76%), with a relative risk of 1.67 (95% CI, 0.039-0.707; p=0.008)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No complications such as pneumothorax or hematoma were observed in either group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered under CTRI/2022/02/039907"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by AIIMS, Raipur."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

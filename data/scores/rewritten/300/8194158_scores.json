@@ -1,0 +1,74 @@
+{
+  "pmcid": "8194158",
+  "sha256": "a4697498032fdc502dda2fe4c830278943666118cc641db6bc7d6e685eee1510",
+  "timestamp_utc": "2025-11-10T00:08:47.694086+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.856666666666666,
+    "reading_ease": 41.81055555555557,
+    "word_count": 264
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial Comparing Suprascapular and Interscalene Nerve Blocks in Shoulder Arthroscopy"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults undergoing shoulder arthroscopy, with eligibility criteria including the use of SSNB or ISB."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aimed to evaluate the analgesic efficacy and safety of suprascapular nerve block (SSNB) compared to interscalene brachial plexus block (ISB)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the analgesic efficacy and safety of suprascapular nerve block (SSNB) compared to interscalene brachial plexus block (ISB) in patients undergoing shoulder arthroscopy."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was postoperative pain, measured using the Visual Analog Scale (VAS) at various time points."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation and allocation concealment were adequately described in 15 and 16 studies, respectively."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding of outcome assessors was reported in all studies."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "1255 patients were randomised, with 17 RCTs analysed."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "SSNB resulted in higher VAS at rest in PACU (MD = 0.56, 95% CI [0.19, 0.94], P = 0.003) and 1 hour post-operation (MD = 0.92, 95% CI [0.28, 1.57], P = 0.005), but lower VAS at 12 hours post-operation (MD = −0.71, 95% CI [−1.12, −0.3], P = 0.0006)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "SSNB had fewer complications, including Horner syndrome (P < 0.0001), numbness (P = 0.002), and dyspnea (P = 0.04)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: CRD42020205426."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

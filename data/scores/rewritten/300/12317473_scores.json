@@ -1,0 +1,74 @@
+{
+  "pmcid": "12317473",
+  "sha256": "e44891feba3ee06a8b1a79d35206da9e4ef4d6d3d7a0c7798e49568b7a33e524",
+  "timestamp_utc": "2025-11-09T23:33:05.731540+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.671063829787233,
+    "reading_ease": 0.5669230769231035,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study aimed to explore the association between preoperative platelet count and the risk of postoperative AKI in patients undergoing abdominal surgery."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective cohort study analyzed data from the INformative Surgical Patient dataset for Innovative Research Environment (INSPIRE) database."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients who underwent abdominal surgery at Seoul National University Hospital from 2011 to 2020."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to explore the association between preoperative platelet count and the risk of postoperative AKI in patients undergoing abdominal surgery."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Logistic regression and restricted cubic spline analyses were used to evaluate the relationship between preoperative platelet count and the risk of developing AKI."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "The study included 7,131 patients."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "A significant negative association was observed between preoperative platelet counts and postoperative AKI risk across all models (P for trend < 0.001 in unadjusted and partially adjusted models, 0.002 in fully adjusted model)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

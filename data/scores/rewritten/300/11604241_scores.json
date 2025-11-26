@@ -1,0 +1,74 @@
+{
+  "pmcid": "11604241",
+  "sha256": "7e81c87f7a706d413fcae2dea76fafae98e89217adf58a03d403f30d06ca2713",
+  "timestamp_utc": "2025-11-09T23:18:13.976147+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.276887379739673,
+    "reading_ease": 44.92670628183362,
+    "word_count": 285
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Electroacupuncture for Nonspecific Low Back Pain"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Participants with nonspecific low back pain were included, with no specific setting mentioned."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention was electroacupuncture, compared to standard therapy or manual needling therapies."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to assess the efficacy of electroacupuncture compared to standard therapy and manual needling therapy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pain intensity, measured using the Visual Analog Scale and Numerical Rating Scale at treatment completion and follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ten studies with 660 participants were included"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Electroacupuncture with standard therapy showed a significant reduction in pain compared to standard therapy alone (SMD -0.83, 95% CI -1.22 to -0.43, P < 0.0001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42024541800."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

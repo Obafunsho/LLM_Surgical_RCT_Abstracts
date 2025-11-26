@@ -1,0 +1,74 @@
+{
+  "pmcid": "3703640",
+  "sha256": "513ff4c1658fb0f7b1d8aefe1d70dc6067eb37efab202d71347485433cd6769b",
+  "timestamp_utc": "2025-11-09T22:38:12.422334+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.07455337690632,
+    "reading_ease": 23.955196078431385,
+    "word_count": 216
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intraperitoneal Hyperthermic Chemoperfusion with Oxaliplatin for Peritoneal Surface Malignancy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Cohorts of three patients underwent cytoreductive surgery followed by a 2-hour IPHC with escalating doses of oxaliplatin"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were adults with peritoneal dissemination from colorectal or appendiceal cancers."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Cohorts of three patients underwent cytoreductive surgery followed by a 2-hour IPHC with escalating doses of oxaliplatin"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to establish the dose-limiting toxicity (DLT) and maximum tolerated dose (MTD) of oxaliplatin in IPHC for colorectal and appendiceal cancer dissemination."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was DLT, defined as grade 3 toxicity lasting 5 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fifteen patients were enrolled at two dose levels."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "DLTs at 250 mg/m² were observed in two of three patients. The MTD was determined to be 200 mg/m²."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were significant at 250 mg/m², precluding higher doses."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

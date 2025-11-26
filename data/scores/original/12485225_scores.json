@@ -1,0 +1,74 @@
+{
+  "pmcid": "12485225",
+  "sha256": "ebe71f4c62f6051073c918380d7d7180273ff996aa89fddb10edb6aacc53b183",
+  "timestamp_utc": "2025-11-09T15:44:23.692930+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.066207494043748,
+    "reading_ease": 16.994424951267092,
+    "word_count": 243
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this single-centre RCT"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this single-centre RCT, women eligible for PMBR were assigned in a 1:1 ratio"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "women eligible for PMBR"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "either standard care alone (control) or standard care and a pDA (intervention)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the effectiveness of a PMBR-specific patient decision aid (pDA) compared with high-quality standard care."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was decisional conflict after the decision."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "women eligible for PMBR were assigned in a 1:1 ratio"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 134 patients were enrolled (66 intervention, 68 control)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "No significant differences were found in the primary (MD −2.8, 95% c.i., −8.4 to 2.8, Cohen’s d −0.18)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration number: NL-OMON28003 (NTR), NL7939 (NTR-new)"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

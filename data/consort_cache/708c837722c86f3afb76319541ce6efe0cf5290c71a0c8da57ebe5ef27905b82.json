@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Endovascular Versus Open Surgical Treatment for Isolated Popliteal Artery Lesions"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to receive either EVT or open surgery."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants included patients with isolated PA lesions, excluding those with aneurysms or traumatic injuries."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either EVT or open surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare the efficacy and safety of endovascular treatment (EVT) versus open surgical interventions for isolated PA lesions."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was primary patency at 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the interventions."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 100 to the EVT group and 100 to the open surgery group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The primary patency rate at 12 months was 71.7% in the EVT group and 75.6% in the open surgery group (p = 0.510)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 3% of the EVT group and 1% of the open surgery group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: N/A"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This study was supported by institutional research grants."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

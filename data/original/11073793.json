@@ -1,0 +1,31 @@
+{
+  "pmcid": "11073793",
+  "pmid": "28746152",
+  "title": "Intraoperative Molecular Imaging Combined with Positron Emission Tomography Improves Surgical Management of Peripheral Malignant Pulmonary Nodules",
+  "abstract": "Objective:: To determine if intraoperative molecular imaging (IMI) can improve detection of malignant pulmonary nodules.\n\nBackground:: 18 Fluorodeoxyglucose positron emission tomography (PET) is commonly utilized in preoperative assessment of patients with solid malignancies; however, false negatives and false positives remain major limitations. Using patients with pulmonary nodules as a study model, we hypothesized that IMI with a folate receptor targeted near-infrared contrast agent (OTL38) can improve malignant pulmonary nodule identification when combined with PET.\n\nMethods:: Fifty patients with pulmonary nodules with imaging features suspicious for malignancy underwent preoperative PET. Patients then received OTL38 prior to pulmonary resection. During resection, IMI was utilized to evaluate known pulmonary nodules and identify synchronous lesions. Tumor size, PET standardized uptake value (SUV), and IMI tumor-to-background ratio (TBR) were compared for known and synchronous nodules via paired and unpaired t-tests, when appropriate. Test characteristics of PET and IMI with OTL38 were compared.\n\nResults:: IMI identified 56 of 59 (94.9%) malignant pulmonary nodules identified by preoperative imaging. IMI located an additional 9 malignant lesions not identified by PET. Nodules only detected by IMI were smaller than nodules detected by PET (0.5cm vs 2.4cm; p<0.01), but displayed similar fluorescence (TBR 3.3 and 3.1; p=0.50). Sensitivity of IMI and PET were 95.6% and 73.5% (p=0.001), respectively; and positive-predictive values were 94.2% and 89.3%, respectively (p>0.05). Additionally, utilization of IMI clinically upstaged 6 (12%) subjects and improved management of 15 (30% )of subjects.\n\nConclusions:: These data suggest that combining IMI with PET may provide superior oncologic outcomes for patients with resectable lung cancer.",
+  "authors": [
+    "Jarrod D. Predina",
+    "Andrew D. Newton",
+    "Jane Keating",
+    "Eduardo M. Barbosa",
+    "Olugbenga Okusanya",
+    "Leilei Xia",
+    "Ashley Dunbar",
+    "Courtney Connolly",
+    "Michael P. Baldassari",
+    "Jack Mizelle",
+    "Edward J. Delikatny",
+    "John C. Kucharczuk",
+    "Charuhas Deshpande",
+    "Sumith A Kularatne",
+    "Phillip Low",
+    "Jeffrey Drebin",
+    "Sunil Singhal"
+  ],
+  "journal": "Annals of surgery",
+  "year": "2017",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

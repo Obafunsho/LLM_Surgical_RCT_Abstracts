@@ -1,0 +1,74 @@
+{
+  "pmcid": "12427675",
+  "sha256": "53f93f004de61487edb14ec3b17a75ee8340c596c2be454dadf7cee29eb6513b",
+  "timestamp_utc": "2025-11-09T15:41:09.434029+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.929430894308947,
+    "reading_ease": 7.087262872628742,
+    "word_count": 205
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Current diagnostic methods for bacterial infections in critically ill patients, including ventilator-associated pneumonia (VAP), are time-consuming, while empirical antibiotic therapy contributes to rising resistance."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "21 clinical isolates (derived from BAL samples of VAP patients)"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study expands knowledge of Escherichia coli metabolism by identifying VOCs produced by both multidrug-resistant and susceptible strains, characterizing their temporal profiles during growth, and assessing VOC profile changes after imipenem exposure."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 2,
+    "max_score": 25
+  }
+}

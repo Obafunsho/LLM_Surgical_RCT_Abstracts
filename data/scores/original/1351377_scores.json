@@ -1,0 +1,74 @@
+{
+  "pmcid": "1351377",
+  "sha256": "39d990e9c9fb70d741132b7a81e3870c667ac44b3436598aa3af0ee36b6eca7e",
+  "timestamp_utc": "2025-11-09T15:46:37.695269+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.432857142857145,
+    "reading_ease": 49.03598901098903,
+    "word_count": 210
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In random order, each of the drapes was evaluated"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "in 8 volunteers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compared cutaneous heat loss and skin temperature in volunteers covered with this drape to two conventional surgical drapes"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "calculated cutaneous heat loss and skin-surface temperatures from 15 area-weighted thermal flux transducers"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "In random order, each of the drapes was evaluated"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "in 8 volunteers"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Under dry conditions, baseline heat loss was 82±14 watts (W) and decreased 30% with a surgical drape ( P <0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This study was a two-group randomized controlled trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included a convenience sample of 70 children between the ages of 3 to 12 years undergoing ambulatory tonsillectomy and adenoidectomy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Children were randomly assigned to one of two groups: a control group who received preoperative acetaminophen only (n = 32) and an experimental group who received both acetaminophen and midazolam preoperatively (n = 38)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose of this investigation was to compare post-operative sleep in children as a function of pre-operative sedative medication use."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Parents completed measures of post-operative behavioral recovery and a subset of children wore actigraphs to examine objective sleep data."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Children were randomly assigned to one of two groups: a control group who received preoperative acetaminophen only (n = 32) and an experimental group who received both acetaminophen and midazolam preoperatively (n = 38)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The actigraph data revealed that children who received midazolam were awake significantly less during the night compared to the control group ( p = 0.01)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

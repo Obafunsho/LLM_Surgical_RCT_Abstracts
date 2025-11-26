@@ -1,0 +1,74 @@
+{
+  "pmcid": "12450242",
+  "sha256": "de436c5133b720674ccb6457cb82f2942e1856792ad281d371c5e5d4c0e21867",
+  "timestamp_utc": "2025-11-09T15:42:49.524585+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.02657894736842,
+    "reading_ease": 29.66336032388668,
+    "word_count": 304
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "pediatric patients undergoing cardiac surgery with CPB were enrolled after informed consent"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients were grouped by CPB prime type (sanguineous vs crystalloid)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to identify specific inflammatory mediators active in sanguineous CPB prime and their impact on the inflammatory response at CPB initiation."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty consecutive pediatric patients participated."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "patients receiving sanguineous prime exhibited a significantly larger burden of C2, C3, C3b, C5, and C5a ( p < 0.001) relative to the crystalloid group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT05154864"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

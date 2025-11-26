@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Purpose: Surgical resection provides the only possibility of cure for pancreas cancer."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A single institution phase II study of 60 patients with resected pancreatic adenocarcinoma was performed."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "60 patients with resected pancreatic adenocarcinoma"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Each immunotherapy treatment consisted of a total of 5 \u00d7 10 8 GM-CSF-secreting cells distributed equally among 3 lymph node regions."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We tested the safety and efficacy of a granulocyte-macrophage colony-stimulating factor (GM-CSF)-based immunotherapy administered in patients with resected pancreatic adenocarcinoma."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was disease free survival and secondary endpoints were overall survival and toxicity, and the induction of mesothelin-specific T cell responses."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A single institution phase II study of 60 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The median disease-free survival is 17.3 months (95% CI, 14.6\u201322.8) with median survival of 24.8 months (95% CI, 21.2\u201331.6)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The administration of immunotherapy was well tolerated."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

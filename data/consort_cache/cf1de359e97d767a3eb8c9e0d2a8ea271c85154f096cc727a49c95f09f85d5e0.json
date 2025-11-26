@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We included randomized controlled trials (RCTs) conducted in preterm and term infants"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "preterm and term infants of a postmenstrual age up to 46 weeks and 0 days with postoperative pain"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "systemic opioids were compared to 1) placebo or no intervention; 2) non\u2010pharmacological interventions; 3) different types of opioids; or 4) other drugs"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate the benefits and harms of systemic opioid analgesics in neonates who underwent surgery"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Our primary outcomes were pain assessed with validated methods, all\u2010cause mortality during initial hospitalization, major neurodevelopmental disability, and cognitive and educational outcomes in children more than five years old"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We included four RCTs enrolling 331 infants in four countries across different continents"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The evidence is very uncertain about the effect of tramadol compared with placebo on all\u2010cause mortality during initial hospitalization (RR 0.32, 95% Confidence Interval (CI) 0.01 to 7.70; RD \u20100.03, 95% CI \u20100.10 to 0.05, 71 participants, 1 study; I\u00b2 = not applicable)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This systematic review evaluates the impact of opioid-sparing analgesic strategies on postoperative pain and functional recovery to provide evidence-based guidance for clinical practice and future research."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This systematic review evaluates the impact of opioid-sparing analgesic strategies on postoperative pain and functional recovery to provide evidence-based guidance for clinical practice and future research."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the total morphine consumption within 24 h postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The total morphine consumption was reduced, with a mean difference (MD) of \u22129.47, 95% confidence interval (95% CI) [\u221213, \u22125.95]."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The incidence of PONV was lower than the control group, with an odds ratio (OR) of 0.73 (95% CI [0.59, 0.90]), and the incidence of pruritus was also lower than in the control group, with an OR of 0.64 (95% CI [0.41, 0.98])."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: The protocol for this meta-analysis: PROSPERO CRD42024579882."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10638545",
+  "sha256": "5150d3adb824314286aa41db821c21ec661eee846442c28ade391eb1e0dc9747",
+  "timestamp_utc": "2025-11-09T23:08:19.973540+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.497631408176513,
+    "reading_ease": 33.38416288124597,
+    "word_count": 268
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Antimicrobial Sutures in Hand Trauma Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was 1:1, stratified by age and injury type, using a secure online service."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults with hand or wrist injuries requiring surgery. Eligibility criteria included age 18 or older, with exclusions for allergies to Triclosan and inability to consent."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received antimicrobial sutures, while the control group received standard sutures."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the feasibility of a definitive trial comparing antimicrobial sutures to standard sutures in reducing SSI."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was feasibility, measured by recruitment, compliance, and retention over 6 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was 1:1, stratified by age and injury type, using a secure online service."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Participants were blinded to allocation, while surgeons were aware of the treatment."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From March to November 2022, 116 participants were randomised (60 intervention, 56 control)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "SSI incidence exceeded 20% in both groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to treatment allocation were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN10771059"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was supported by the UK Trauma Patient and Public Involvement Group."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

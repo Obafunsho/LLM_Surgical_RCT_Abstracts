@@ -1,0 +1,74 @@
+{
+  "pmcid": "12295672",
+  "sha256": "3705a951867731d52688f68c9b2da8547d31b17f13f1da6df5df23fc4642272f",
+  "timestamp_utc": "2025-11-09T15:36:06.879013+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 19.814102564102566,
+    "reading_ease": -0.6857692307691821,
+    "word_count": 156
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This is the first study that develops a chlorogenic acid–strontium (SrCA)-loaded polycaprolactone bioresorbable eStent that inhibits VSMC proliferation and enhances endothelial repair via Hippo–Yes-associated protein (YAP) signaling, addressing vein graft restenosis post-CABG."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 2,
+    "max_score": 25
+  }
+}

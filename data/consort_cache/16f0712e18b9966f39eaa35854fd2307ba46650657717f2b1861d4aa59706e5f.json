@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Immediate Lymphatic Reconstruction for Reducing Breast Cancer-Related Lymphedema: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "women undergoing ALND for breast cancer were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "women undergoing ALND for breast cancer"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "ILR involved lymphatic anastomosis to a regional vein using microsurgical techniques, while the control group had cut lymphatics ligated."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluates the efficacy of immediate lymphatic reconstruction (ILR) in reducing the incidence of breast cancer-related lymphedema (BCRL) following axillary lymph node dissection (ALND)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of BCRL, defined as \u226510% relative volume change (RVC) from baseline in the affected extremity at 12, 18, or 24 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 144 patients were randomised, with 72 in each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Preliminary analysis includes 99 patients with 12-month follow-up, 70 with 18-month follow-up, and 40 with 24-month follow-up."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The cumulative incidence of BCRL was 9.5% in the ILR group and 32% in the control group (p=0.014)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Registration Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of Funding]."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

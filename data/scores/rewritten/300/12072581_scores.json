@@ -1,0 +1,74 @@
+{
+  "pmcid": "12072581",
+  "sha256": "652050aa482f71aef5743d53014bfe0c3442fb5abca01f3a3892af0e6b4a8e34",
+  "timestamp_utc": "2025-11-09T23:25:53.309889+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.644351457000713,
+    "reading_ease": 20.443362058753877,
+    "word_count": 469
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The iPREDICT Study: A Randomised Controlled Trial on Interactive Consultation Tool for Anaesthesia Risk Education"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were adults scheduled for elective surgery under general or combined anaesthesia."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to receive either ICT-based online anaesthesia risk education (intervention) or a control video without anaesthetic risk content."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The iPREDICT study aimed to evaluate the effectiveness of an interactive consultation tool (ICT) in enhancing patient awareness of anaesthesia-related risks during preoperative anaesthetic assessment (PAA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the perioperative risk knowledge score, assessed immediately after PAA and two days later."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a cryptographically secure pseudo-random number generator, with allocation concealed within the software."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not feasible for patients or clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 373 participants were randomised (186 to ICT, 187 to control)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 275 participants (139 ICT, 136 control) using a per-protocol approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The ICT group demonstrated a higher median risk knowledge score post-PAA (13.0 vs. 11.0, p < 0.05) and further improvement at follow-up (14.0 vs. 13.0, p < 0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: DRKS00032514."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by the University Hospital Bonn."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

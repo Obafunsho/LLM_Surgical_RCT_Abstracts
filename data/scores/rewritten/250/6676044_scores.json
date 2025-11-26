@@ -1,0 +1,74 @@
+{
+  "pmcid": "6676044",
+  "sha256": "85591f3ed0f2f3b916c106368634049a7dfab4b2364df23d26bafcc0a1c9ef9b",
+  "timestamp_utc": "2025-11-09T22:51:31.806193+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.290977011494256,
+    "reading_ease": 22.729501915708852,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intraoperative Cerebral Oxygen Monitoring and Postoperative Cognitive Dysfunction"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was computer-generated"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adult cardiac surgery patients, recruited from a single tertiary hospital."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved monitoring rScO2, with the comparator being standard care without rScO2 monitoring."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the association between intraoperative regional cerebral oxygen saturation (rScO2) and POCD."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was POCD, assessed at hospital discharge and 3 months post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to physicians assessing outcomes."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 153 patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "153 analysed at discharge and 148 at 3 months."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "difference=0.0 min; 95% CI, −3.11–1.47; P=0.88"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to the intervention were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT 02185885."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: The study was funded by [source of funding not provided]."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

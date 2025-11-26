@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Bioactive Glass and Allograft for Benign Bone Lesions in Children"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This pragmatic multicenter randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "children aged 4 to 16 years. The study was conducted in four university hospitals in a Scandinavian country."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compared cyst recurrence after intralesional curettage and filling with allograft versus bioactive glass"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the volume of recurrent cyst at 2-year follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using sealed envelopes, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not possible due to the distinct imaging characteristics of the materials."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "51 were randomised between October 2012 and February 2019"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "12 (46%) in the allograft group and 10 (40%) in the bioactive glass group developed a recurrence"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "OR = 0.79, 95% CI = 0.25 to 2.56, p = 0.77"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered at ClinicalTrials.gov (NCT04737590)"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by foundations and national state research funding."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

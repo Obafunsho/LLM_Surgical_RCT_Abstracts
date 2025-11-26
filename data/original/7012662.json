@@ -1,0 +1,24 @@
+{
+  "pmcid": "7012662",
+  "pmid": "31415033",
+  "title": "mTOR Inhibitor Therapy Diminishes Circulating CD8 + CD28 − Effector Memory T Cells and Improves Allograft Inflammation in Belatacept-Refractory Renal Allograft Rejection",
+  "abstract": "Background:: Renal allograft rejection is more frequent under belatacept-based, compared to tacrolimus-based, immunosuppression. We studied kidney transplant recipients experiencing rejection under belatacept-based early corticosteroid withdrawal following T cell depleting induction in a recent randomized trial (BEST Trial, clinicaltrials.gov # NCT01729494 ) to determine mechanisms of rejection and treatment.\n\nMethods:: Peripheral mononuclear cells, serum creatinine levels, and renal biopsies were collected from 8 patients undergoing belatacept-refractory rejection. We used flow cytometry, histology and immunofluorescence to characterize CD8 + effector memory T cell (T EM ) populations in the periphery and graft before and after mammalian target of rapamycin (mTOR) inhibition.\n\nResults:: Here, we found that patients with belatacept-refractory rejection (BRR) did not respond to standard antirejection therapy and had a substantial increase in alloreactive CD8 + T cells with a CD28 low /DR hi /CD38 hi /CD45RO + T EM . These cells had increased activation of the mTOR pathway, as assessed by phosphorylated ribosomal protein S6 (p-RPS6) expression. Notably, everolimus (an mTOR inhibitor) treatment of patients with BRR halted the in vivo proliferation of T EM cells, their ex vivo alloreactivity, and resulted in their significant reduction in the peripheral blood. The frequency of circulating FoxP3 + regulatory T cells was not altered. Importantly, everolimus led to rapid resolution of rejection as confirmed by histology.\n\nConclusions:: Thus, while prior work has shown that concomitant belatacept + mTOR inhibitor therapy is effective for maintenance immunosuppression, our preliminary data suggest that everolimus may provide an available means for effecting “rescue” therapy for rejections occurring under belatacept that are refractory to traditional antirejection therapy with corticosteroids and polyclonal antilymphocyte globulin.",
+  "authors": [
+    "Cyd M. Castro-Rojas",
+    "Alzbeta Godarova",
+    "Tiffany Shi",
+    "Sarah A. Hummel",
+    "Adele Shields",
+    "Simon Tremblay",
+    "Rita R. Alloway",
+    "Michael B. Jordan",
+    "E. Steve Woodle",
+    "David A. Hildeman"
+  ],
+  "journal": "Transplantation",
+  "year": "2020",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

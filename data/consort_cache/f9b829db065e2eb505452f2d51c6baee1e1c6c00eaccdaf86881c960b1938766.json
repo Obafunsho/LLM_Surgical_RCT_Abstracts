@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intraoperative Molecular Imaging with a Targeted Contrast Agent for Lung Adenocarcinomas"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 50 patients with biopsy-proven lung adenocarcinoma were enrolled at a single surgical center."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "50 patients with biopsy-proven lung adenocarcinoma were enrolled at a single surgical center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were systemically administered 0.1 mg/kg of a fluorescent folate receptor alpha (FR\u03b1)-targeted molecular contrast agent intravenously before surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates a targeted molecular contrast agent for identifying lung adenocarcinomas via real-time optical imaging during surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the identification of fluorescent tumors, measured intraoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 50 patients with biopsy-proven lung adenocarcinoma were enrolled at a single surgical center."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 50 patients, 46 (92%) had fluorescent tumors."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Of the 50 patients, 46 (92%) had fluorescent tumors."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

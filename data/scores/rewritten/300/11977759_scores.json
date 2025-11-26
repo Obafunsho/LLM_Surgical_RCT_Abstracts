@@ -1,0 +1,74 @@
+{
+  "pmcid": "11977759",
+  "sha256": "dd8360e5e4769441639dddfc3cc16b765e305352c8aacb2c96a7d70ea0121e70",
+  "timestamp_utc": "2025-11-09T23:23:50.062555+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.75205106138841,
+    "reading_ease": 13.806596385542178,
+    "word_count": 249
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Preoperative Lugol Solution in Total Thyroidectomy for Graves’ Disease"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-centre, single-blinded trial involved 56 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with Graves’ disease undergoing total thyroidectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive 7 days of Lugol treatment (Lugol+ group, 29) or no Lugol treatment (Lugol− group, 27)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluated the impact of preoperative Lugol solution on thyroid vascularization and surgical morbidity"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was intraoperative and postoperative blood loss, assessed directly and indirectly."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using Sealed Envelope TM software, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Outcome assessors and clinicians were blinded, but patients were not."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "56 patients randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A per-protocol analysis was used."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant differences were observed between groups for intraoperative/postoperative blood loss (median 80 ml vs 94 ml)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported, though 35 patients experienced a metallic taste, and 15 had difficulties obtaining the solution."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT05784792."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Minimally Invasive Surgery for Intracerebral Hemorrhage"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This Phase III randomised controlled trial involved 242 participants in the surgical arm of the MISTIE trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were adults with supratentorial ICH"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention was minimally invasive surgery, compared to standard care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses surgical performance and its impact on intracerebral hemorrhage (ICH) evacuation and functional outcomes"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the modified Rankin Scale (mRS) score of 0 to 3 at 1 year"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This Phase III randomised controlled trial involved 242 participants in the surgical arm of the MISTIE trial"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was conducted on an intention-to-treat basis"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Greater ICH reduction was associated with a higher likelihood of achieving mRS 0 to 3"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not specified"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

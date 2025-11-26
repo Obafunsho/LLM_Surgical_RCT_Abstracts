@@ -1,0 +1,74 @@
+{
+  "pmcid": "11891105",
+  "sha256": "daa2cc64a4cdf07a79a8b6943105e2b0423f5c1ff25dafbe7bb4668dfaa745f9",
+  "timestamp_utc": "2025-11-09T23:22:17.012468+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.36481818181818,
+    "reading_ease": 15.58472727272732,
+    "word_count": 264
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Interventions to Reduce Opioid Use After Orthopaedic Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Eligible studies included adult patients who underwent orthopaedic surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Multimodal analgesic interventions resulted in a lower mean daily opioid dose compared to placebo/no intervention/usual care or active control"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the effectiveness of various interventions to reduce opioid consumption post-surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the mean daily dose of opioid analgesics in morphine milligram equivalents (MME) at 1–3 months post-randomisation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "39 RCTs were included, involving 4054 participants."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Multimodal analgesic interventions resulted in a lower mean daily opioid dose compared to placebo/no intervention/usual care or active control in the medium term."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 17 studies, with no significant differences between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42022357577."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

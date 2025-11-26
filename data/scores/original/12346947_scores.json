@@ -1,0 +1,74 @@
+{
+  "pmcid": "12346947",
+  "sha256": "6ea9db7b34c27e646b8f1ece9792db02c2f9e99d694d8c9d36bede36e4411d74",
+  "timestamp_utc": "2025-11-09T15:37:36.031263+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.193303167420819,
+    "reading_ease": 36.60463800904981,
+    "word_count": 208
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This prospective, multi-center, post-market study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients ≥18 years who had received V-shape AtriClip devices during non-emergent cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "evaluated the long-term safety and performance of the epicardial V-shape AtriClip device"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary performance was LAAE without residual left atrium-LAA communication, assessed by imaging at the last follow-up visit."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 155 patients from 11 U.S. centers"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "151 patients had evaluable imaging"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "97% (95% CI 93.52%, 99.29%; p = 0.0001) complete LAAE"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One device-related SAE was reported, which resolved intraprocedurally."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT05101993"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

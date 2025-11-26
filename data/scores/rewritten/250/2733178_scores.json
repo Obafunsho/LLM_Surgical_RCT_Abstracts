@@ -1,0 +1,74 @@
+{
+  "pmcid": "2733178",
+  "sha256": "ea41e838007c3cd1751129f96891dc510beb120d89ef2361eb0b940fddab2d05",
+  "timestamp_utc": "2025-11-09T22:34:24.393491+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.261647895672795,
+    "reading_ease": 34.76260027662519,
+    "word_count": 241
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Morphine in Preterm Neonates Undergoing Endotracheal Tube Suctioning"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In a multicenter, double-blind, randomised controlled trial, 898 ventilated preterm neonates from 16 centers were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included preterm neonates requiring mechanical ventilation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either placebo (n=449) or morphine (n=449)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the neonatal response to ETT suctioning, measured at 20–28 and 70–76 hours after starting the drug infusion and 10–14 hours after discontinuation."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "898 ventilated preterm neonates from 16 centers were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 875 neonates were analyzed using a non-linear mixed effects model."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant relationship was found between morphine concentrations and heart rate changes or the Premature Infant Pain Profile."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

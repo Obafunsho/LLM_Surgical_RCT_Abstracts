@@ -1,0 +1,74 @@
+{
+  "pmcid": "9994847",
+  "sha256": "94aa862672ca2f7f88243e25996d38b852398a2968a92f653eb0e2aefea5f7af",
+  "timestamp_utc": "2025-11-09T16:23:20.534238+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.471689251263207,
+    "reading_ease": 54.107873794212225,
+    "word_count": 311
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients between June 2014 and October 2020 with LARC within 12 cm from the anal verge and uninvolved MRF were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients between June 2014 and October 2020 with LARC within 12 cm from the anal verge and uninvolved MRF"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to nCT group with 4 cycles of CAPOX... or nCRT group with Capecitabine 825 mg/m² twice daily administered orally and concurrently with radiation therapy"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary end point is local-regional recurrence-free survival"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 663 initially enrolled patients, 589 received the allocated treatment (nCT, n=300; nCRT, n=289)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "589 received the allocated treatment (nCT, n=300; nCRT, n=289)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Pathologic complete response rate was 11.0% (95% CI, 7.8-15.3%) in the nCT arm and 13.8% (95% CI, 10.1-18.5%) in the nCRT arm ( P =0.33)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "surgical events, and toxicity"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

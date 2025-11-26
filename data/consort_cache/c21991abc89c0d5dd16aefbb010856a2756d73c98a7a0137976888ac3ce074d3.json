@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Decellularized Dermis Allograft for Venous Leg Ulcers: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults with VLUs \u22653 months and \u22652 cm\u00b2, with venous incompetence and an ankle-brachial pressure index \u22650.8."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive either DCD allograft plus standard care or standard care alone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial assessed the effectiveness and safety of decellularized dermis (DCD) allografts as an adjunctive treatment for VLUs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the proportion of patients with a healed index ulcer at 12 weeks."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was automated"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between October 2019 and October 2022, 71 participants were randomised (36 to intervention, 35 to control)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Healing was observed in 5.7% of the intervention group and 15.2% of the control group (OR 0.34, 95% CI 0.03 to 2.31)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Five serious adverse events were attributed to DCD application."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN 21541209"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: JP Moulton Charitable Trust"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

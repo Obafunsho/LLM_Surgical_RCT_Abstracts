@@ -1,0 +1,74 @@
+{
+  "pmcid": "12146207",
+  "sha256": "6d7529488734508293bf021b514e54d588cd8532fc3c01804c3d49088e114800",
+  "timestamp_utc": "2025-11-09T22:16:54.324525+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.150502136752138,
+    "reading_ease": 33.99831730769233,
+    "word_count": 234
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of TREO Stent-Graft for Relining AFX in Type 3b Endoleak"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was computer-generated"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients with type 3b endoleak post-AFX implantation. Eligibility criteria included prior EVAR with AFX and confirmed type 3b endoleak."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received the TREO stent-graft, while the control group received standard relining procedures."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of the TREO stent-graft for relining AFX in type 3b endoleak cases."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the resolution of the endoleak, assessed by contrast-enhanced CT on postoperative day 5."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The TREO stent-graft successfully resolved the endoleak with no adverse events reported."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "no adverse events reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: No funding was reported for this trial."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

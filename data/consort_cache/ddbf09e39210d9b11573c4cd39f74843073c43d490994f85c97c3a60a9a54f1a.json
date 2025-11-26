@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Double-Blind Randomised Controlled Trial Comparing Minimally Invasive and Classic Approaches in Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to either the MIS or CLASS group using a block-randomised, stratified method"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "enrolling 120 patients eligible for primary noncemented THA between January 2005 and November 2007"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to either the MIS or CLASS group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to evaluate whether MIS results in superior clinical outcomes compared to CLASS."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Harris Hip Score (HHS) at 6 weeks postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "using a block-randomised, stratified method"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was maintained for patients and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 120 patients were randomised, with 60 in each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was performed on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean difference = 4.5, 95% CI 0.5 to 8.5; p = 0.03"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included six complications in the MIS group and two in the CLASS group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

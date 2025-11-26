@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Effects of Intravenous Anesthetics on Ischemia-Reperfusion Injury"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A randomised controlled trial was conducted with individual participants as the unit of randomisation. The sample size was determined based on anticipated effect sizes from prior research."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were eligible if they were undergoing surgical procedures with potential IRI, and the study was completed in a hospital setting."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved administering intravenous anesthetics, while the control group received standard care."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the reduction in tissue injury, assessed over a 24-hour period post-intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, and allocation was concealed with sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was applied to outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group, recruited between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 98 participants in the intervention group and 97 in the control group, using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group demonstrated a significant reduction in tissue injury (mean difference = 5.2, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in the intervention group and 1% in the control group experiencing side effects."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

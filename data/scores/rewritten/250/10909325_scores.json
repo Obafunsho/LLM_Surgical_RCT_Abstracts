@@ -1,0 +1,74 @@
+{
+  "pmcid": "10909325",
+  "sha256": "83af67adee836779839845627b512da513dbc1a52f37944068ea4c503fe94d79",
+  "timestamp_utc": "2025-11-09T21:58:07.500507+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.400133037694015,
+    "reading_ease": 39.35323725055434,
+    "word_count": 205
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study aimed to evaluate trends in abdominal aortic aneurysm (AAA) repair in the Australian public sector over the past two decades, focusing on the transition from open AAA repair (OAR) to endovascular AAA repair (EVAR)."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate trends in abdominal aortic aneurysm (AAA) repair in the Australian public sector over the past two decades, focusing on the transition from open AAA repair (OAR) to endovascular AAA repair (EVAR)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "A total of 65,529 AAA repairs were performed in the Australian public sector from 2000 to 2021. EVARs accounted for 64.4% (42,205) and OARs accounted for 35.6% (23,324) of these procedures."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 2,
+    "max_score": 25
+  }
+}

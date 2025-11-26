@@ -1,0 +1,74 @@
+{
+  "pmcid": "12131451",
+  "sha256": "2e924f81ae1ab6cf1912887b252c683dd885456b74752ca30de0b3563fa6025e",
+  "timestamp_utc": "2025-11-09T15:31:16.146417+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.636349924585218,
+    "reading_ease": 32.066199095022625,
+    "word_count": 390
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study aimed to evaluate the association between neostigmine and postoperative atelectasis, and other complications in elderly patients undergoing laparoscopic pancreaticoduodenectomy (LPD)."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This single-center retrospective cohort study included elderly patients who underwent LPD between 2019 and 2022."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This single-center retrospective cohort study included elderly patients who underwent LPD between 2019 and 2022."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were divided into two groups based on exposure to neostigmine: the neostigmine reversal group (exposed) and the control group (not exposed)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the association between neostigmine and postoperative atelectasis, and other complications in elderly patients undergoing laparoscopic pancreaticoduodenectomy (LPD)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the incidence of atelectasis within the first 3 postoperative days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of the 501 patients initially included, 302 were successfully matched after PSM at a 1:5 ratio, comprising 89 patients in the neostigmine reversal group and 213 in the control group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 501 patients initially included, 302 were successfully matched after PSM at a 1:5 ratio, comprising 89 patients in the neostigmine reversal group and 213 in the control group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Compared to the control group, the incidence of postoperative atelectasis was lower in the neostigmine reversal group (OR 0.43 [95% CI 0.24–0.75], p = 0.003) in elderly patients undergoing elective LPD."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

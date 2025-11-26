@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Remimazolam vs. Propofol Anesthesia in Minor Hepatectomy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "72 patients scheduled for elective minor hepatectomy were randomized 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at Fudan University Shanghai Cancer Center, 72 patients scheduled for elective minor hepatectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized 1:1 to receive either remimazolam (Group R) or propofol (Group P) anesthesia"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed the hemodynamic stability of remimazolam-based anesthesia compared to propofol-based anesthesia"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the hemodynamic instability score (HI-score) measured during induction, hepatectomy, and hemostasis phases"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was performed using MinimPy2 software, with allocation concealment ensured"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was applied to outcome assessors and data entry personnel"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "72 patients scheduled for elective minor hepatectomy were randomized 1:1"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of the 72 randomized, 66 patients were analyzed (33 per group) using a per-protocol approach"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Group R exhibited significantly lower total HI-scores (22.8 \u00b1 2.1) compared to Group P (33.0 \u00b1 4.1, p = 0.029)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were not significantly different between groups"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials.gov NCT06565715"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

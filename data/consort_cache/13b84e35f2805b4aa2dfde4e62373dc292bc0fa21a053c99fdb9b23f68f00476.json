@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Sclerotherapy and Intralesional Excision for Aneurysmal Bone Cysts"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 94 patients with aneurysmal bone cysts were randomly assigned to two groups"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "94 patients with aneurysmal bone cysts"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group 1 received sclerotherapy, and Group 2 underwent intralesional excision and bone grafting"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy and safety of percutaneous repetitive sclerotherapy using polidocanol versus intralesional excision"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the healing rate, assessed over a minimum follow-up of 3.2 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "94 patients with aneurysmal bone cysts were randomly assigned to two groups"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Ninety-one patients were analysed (45 in Group 1 and 46 in Group 2) using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Healing was achieved in 93.3% of Group 1 and 84.8% of Group 2"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Group 1 experienced minor complications, while Group 2 had three deep infections, five superficial infections, and two growth disturbances"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

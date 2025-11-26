@@ -1,0 +1,74 @@
+{
+  "pmcid": "3010291",
+  "sha256": "787878feeb00b1d684244d4906ab6883d1aa7f202a61c2a318e37eefc6e41e69",
+  "timestamp_utc": "2025-11-09T15:51:03.262705+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.313524590163937,
+    "reading_ease": 24.888784153005474,
+    "word_count": 244
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "ongoing randomized clinical trial of biventricular pacing (n=11) vs. standard of care (n=9)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients at risk of low cardiac output after heart surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "biventricular pacing (n=11) vs. standard of care (n=9)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that pacing parameters independently affect cardiac output."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Effects were measured within one hour of the conclusion of cardiopulmonary bypass."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "biventricular pacing (n=11) vs. standard of care (n=9)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A sub-study was conducted in all 20 patients"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Optimized pacing increased cardiac output 13% vs. atrial pacing at matched heart rate (5.5±0.5 vs. 4.9±0.6 L/min; p = 0.003)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

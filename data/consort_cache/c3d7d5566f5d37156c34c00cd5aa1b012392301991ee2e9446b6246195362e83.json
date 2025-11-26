@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This is a double blind, prospective randomized controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "including patients aged \u226565 years ( n = 195) admitted for routine cardiac surgery with cardiopulmonary bypass"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients in the study group received Ringer\u2019s acetate 1000 mL + 400 mL Mannitol (60 g) + sodium chloride 40 mL (160 mmol) and heparin 2 mL (10 000 IU) 966 mOsmol ( n = 98), while patients in the control group received Ringer\u2019s acetate 1400 mL + heparin 2 mL (10 000 IU), 388 mOsmol ( n = 97) as pump prime"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study objective was to investigate whether a Ringer\u2019s acetate based priming solution with addition of Mannitol and sodium concentrate increases the risk of cardiac surgery associated kidney injury (CSA-AKI)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Acute kidney injury was analysed based on the Kidney Disease Improving Outcomes (KDIGO 1-3) definition."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "This is a double blind, prospective randomized controlled trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "including patients aged \u226565 years ( n = 195)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Six patients in the Ringer and five patients in the Mannitol group developed CSA-AKI (KDIGO 1-3)"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The overall incidence of CSA-AKI (KDIGO stage 1) was 2.6% on day 1 in the ICU and 5.6% on day 3, postoperatively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The overall incidence of CSA-AKI (KDIGO stage 1) was 2.6% on day 1 in the ICU and 5.6% on day 3, postoperatively."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

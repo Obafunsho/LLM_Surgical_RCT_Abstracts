@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this randomized phase 2 trial in patients diagnosed with resectable CPM"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "An open-label, parallel-group phase 2 randomized clinical trial in all 9 Dutch tertiary centers for the surgical treatment of CPM enrolled participants between June 15, 2017, and January 9, 2019."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients with pathologically proven isolated resectable CPM who did not receive systemic therapy within 6 months before enrollment."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Randomization to perioperative systemic therapy or CRS-HIPEC alone."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the feasibility and safety of perioperative systemic therapy in patients with resectable CPM and the response of CPM to neoadjuvant treatment."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Proportions of macroscopic complete CRS-HIPEC and Clavien-Dindo grade 3 or higher postoperative morbidity."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "An open-label, parallel-group phase 2 randomized clinical trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "In 79 patients included in the analysis (43 [54%] men; mean [SD] age, 62 [10] years)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analyses were done modified intention-to-treat in patients starting neoadjuvant treatment (experimental arm) or undergoing upfront surgery (control arm)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "experimental (n\u2009=\u200937) and control (n\u2009=\u200942) arms did not differ significantly regarding the proportions of macroscopic complete CRS-HIPEC (33 of 37 [89%] vs 36 of 42 [86%] patients; risk ratio, 1.04; 95% CI, 0.88-1.23; P =\u2009.74) and Clavien-Dindo grade 3 or higher postoperative morbidity (8 of 37 [22%] vs 14 of 42 [33%] patients; risk ratio, 0.65; 95% CI, 0.31-1.37; P =\u2009.25)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No treatment-related deaths occurred."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT02758951"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

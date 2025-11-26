@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of a Chlorogenic Acid\u2013Strontium-Loaded Bioresorbable eStent for Vein Graft Restenosis Prevention"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Sprague\u2013Dawley rats (n=12) were randomly assigned"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "assigned to receive either the SrCA eStent or serve as controls with non-stented vein grafts"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates a novel chlorogenic acid\u2013strontium (SrCA)-loaded polycaprolactone bioresorbable eStent designed to address these issues."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the reduction in neointimal thickness at 4 weeks post-implantation."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sprague\u2013Dawley rats (n=12) were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean difference = 0.15 mm, 95% CI 0.10 to 0.20; p < 0.01"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were observed in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by institutional grants."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

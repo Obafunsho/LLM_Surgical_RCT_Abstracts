@@ -1,0 +1,74 @@
+{
+  "pmcid": "6208881",
+  "sha256": "fc0d93648f49299f0fbfa8fad3886721830c8ba3b5e718945a6037cdc1f4b0f1",
+  "timestamp_utc": "2025-11-09T16:07:40.517885+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.803799342105265,
+    "reading_ease": 27.263898026315815,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "An institutional review board-approved, multicenter clinical trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with a single focus of IDC 20 mm or smaller by pre-ablation MRI were treated with PLA."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients with a single focus of IDC 20 mm or smaller by pre-ablation MRI were treated with PLA."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to determine the efficacy and outcome of percutaneous laser ablation (PLA) in the treatment of invasive ductal breast carcinoma (IDC)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The patients underwent a 28-day post-ablation MRI, followed by surgical resection."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "In this study, 61 patients were reported as the intention-to-treat cohort"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of these 61 patients, 51 (84%) had complete tumor ablation confirmed by pathology analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The negative predictive value (NPV) of MRI for all the patients was 92.2% (95% confidence interval [CI], 71.9–91.9%)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

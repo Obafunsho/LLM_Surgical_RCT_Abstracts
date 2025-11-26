@@ -1,0 +1,74 @@
+{
+  "pmcid": "7079046",
+  "sha256": "fdea0b901f46f7119c5d0b4c1eb5d6ff305b3a3818e70ccb0eab7f0b68615ee9",
+  "timestamp_utc": "2025-11-09T16:11:46.286345+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 20.487162162162168,
+    "reading_ease": -18.869527027027004,
+    "word_count": 74
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This multicentre pilot study investigated the role of peroperative carcinoembryonic antigen (CEA)‐specific fluorescence imaging during cytoreductive surgery–hyperthermic intraperitoneal chemotherapy surgery in peritoneal metastasized colorectal cancer."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "The use of SGM‐101 in patients with peritoneally metastasized colorectal carcinoma is feasible, and allows intraoperative detection of tumour deposits and alteration of the PCI."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This multicentre pilot study investigated the role of peroperative carcinoembryonic antigen (CEA)‐specific fluorescence imaging during cytoreductive surgery–hyperthermic intraperitoneal chemotherapy surgery in peritoneal metastasized colorectal cancer."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A correct change in peritoneal carcinomatosis index (PCI) owing to fluorescence imaging was seen in four of the 14 included patients."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "A correct change in peritoneal carcinomatosis index (PCI) owing to fluorescence imaging was seen in four of the 14 included patients."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  }
+}

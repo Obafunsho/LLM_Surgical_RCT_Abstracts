@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Neoadjuvant GAP Therapy in Resectable High-Risk Intrahepatic Cholangiocarcinoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A multi-institutional, single-arm, phase II trial was conducted."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included tumor size >5 cm, multiple tumors, major vascular invasion, or lymph node involvement."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients received preoperative GAP (gemcitabine 800 mg/m\u00b2, cisplatin 25 mg/m\u00b2, nab-paclitaxel 100 mg/m\u00b2 on days 1 and 8 of a 21-day cycle) for 4 cycles before curative-intent resection."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the feasibility of neoadjuvant gemcitabine, cisplatin, and nab-paclitaxel (GAP) in resectable, high-risk IHCC."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was completion of chemotherapy and surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty patients were enrolled, with a median age of 60.5 years."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Twenty-two patients (73%, 90% CI 57\u201386; p=0.008) completed chemotherapy and surgery."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The disease control rate was 90% (progressive disease: 10%, partial response: 23%, stable disease: 67%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Ten patients (33%) experienced grade \u22653 adverse events, primarily neutropenia and diarrhea; 50% required dose reduction."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

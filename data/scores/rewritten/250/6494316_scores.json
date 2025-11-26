@@ -1,0 +1,74 @@
+{
+  "pmcid": "6494316",
+  "sha256": "1642e2463b9c02dd046e3c9a2926ca99076d911c540d0ba35f053bac997c2bdf",
+  "timestamp_utc": "2025-11-09T22:50:47.781927+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.679748283752861,
+    "reading_ease": 25.71598398169337,
+    "word_count": 230
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Augmented Reality Headset for Training in Acetabular Component Positioning"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a randomised controlled trial, 24 final-year medical students with no prior arthroplasty experience were recruited."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "24 final-year medical students with no prior arthroplasty experience were recruited."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised into two groups: AR training with live holographic feedback and hands-on training by an expert surgeon."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates an augmented reality (AR) headset as a training tool for acetabular component positioning in simulated total hip arthroplasty (THA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the orientation error in degrees between planned and achieved orientations, measured over four weekly sessions."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "24 final-year medical students with no prior arthroplasty experience were recruited."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All 24 participants completed the study."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The AR group had a mean orientation error of 6° ± 4°, while the surgeon group had 1° ± 1° (p < 0.001). Both groups improved over the sessions, with no significant difference in final accuracy (mean difference 1.2°, 95% CI, -1.8 to 4.2°; p = 0.281)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

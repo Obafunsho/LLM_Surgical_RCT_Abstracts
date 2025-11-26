@@ -1,0 +1,74 @@
+{
+  "pmcid": "11284621",
+  "sha256": "ab4905d54d7855b33fff95e4086000b091301869b495de330a0a3f6cef1301d2",
+  "timestamp_utc": "2025-11-09T15:17:12.079210+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.54784280936455,
+    "reading_ease": 32.753135451505045,
+    "word_count": 598
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "BACKGROUND: There is no consensus on optimal management of pilonidal disease."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "DESIGN: Observational cohort study with nested mixed-methods case study."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "PARTICIPANTS: Patients aged > 16 years referred for elective surgical treatment of pilonidal disease."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "INTERVENTIONS: Surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVES: A prospective cohort study to determine: • disease severity and intervention relationship • most valued outcomes and treatment preference by patients • recommendations for policy and future research."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "MAIN OUTCOME MEASURES: Pain postoperative days 1 and 7, time to healing and return to normal activities, complications, recurrence."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Cohort study: Over half of patients (60%; N = 667) had a major procedure."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "For these procedures, pain was greater on day 1 and day 7 (mean difference day 1 pain 1.58 points, 95% confidence interval 1.14 to 2.01 points, n = 536; mean difference day 7 pain 1.53 points, 95% confidence interval 1.12 to 1.95 points, n = 512)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were higher complication rates (adjusted risk difference 17.5%, 95% confidence interval 9.1 to 25.9%, n = 579), lower recurrence (adjusted risk difference -10.1%, 95% confidence interval -18.1 to -2.1%, n = 575)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "TRIAL REGISTRATION: This trial is registered as ISRCTN95551898."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "FUNDING: This award was funded by the National Institute for Health and Care Research (NIHR) Health Technology Assessment programme (NIHR award ref: 17/17/02)."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

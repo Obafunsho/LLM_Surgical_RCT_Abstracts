@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A parallel-group, multicenter, double blind, randomized, controlled clinical trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adults after gastrointestinal, vascular, or cardiac surgery who required PN and SICU care. Subjects were without significant renal or hepatic failure or shock at entry."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Controls (n = 75) received standard GLN-free PN (STD-PN); the GLN group (n = 75) received PN containing alanyl-GLN dipeptide (0.5 g/kg/d)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To determine whether glutamine (GLN)-supplemented parenteral nutrition (PN) improves clinical outcomes in surgical ICU (SICU) patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Hospital mortality and infections were primary endpoints."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double blind"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Controls (n = 75); the GLN group (n = 75)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There were 11 hospital deaths (14.7%) in the GLN-PN group and 13 deaths in the STD-PN group and (17.3%; difference, \u22122.6%; 95% confidence interval \u221214.6 to 9.3%; P = 0.66)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Other clinical outcomes and adverse events were similar."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

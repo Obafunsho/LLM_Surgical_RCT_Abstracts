@@ -1,0 +1,74 @@
+{
+  "pmcid": "12165801",
+  "sha256": "9efe7458dbd0311cad4e070561db2c1f023e20906e07161871afa7440396d628",
+  "timestamp_utc": "2025-11-09T22:17:36.670565+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.145141402714938,
+    "reading_ease": 45.89759144042233,
+    "word_count": 221
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Gestational Hypertension on Offspring Seizure Risk"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed at the cohort level"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were children born to mothers with or without GH"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were children born to mothers with or without GH"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the association between GH and seizure risk in children."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of seizures in offspring, measured up to 18 years of age."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed at the cohort level, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "children of mothers with GH had a higher seizure incidence (OR 1.22; 95% CI: 1.21–1.23, P < 0.001)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

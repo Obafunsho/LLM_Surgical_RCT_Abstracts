@@ -1,0 +1,74 @@
+{
+  "pmcid": "1283103",
+  "sha256": "27e3440d9a36030cd7ac28d51946d225c4aa76bebb472f06c371215ee0727508",
+  "timestamp_utc": "2025-11-09T22:31:41.045227+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.444000000000003,
+    "reading_ease": 32.56200000000004,
+    "word_count": 225
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Ketamine and Nefopam for Potentiating Opioid Analgesia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "200 participants were randomised"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Participants were adults eligible for opioid analgesia"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "100 to receive ketamine 10 mg and 100 to receive nefopam 20 mg"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the efficacy and safety of ketamine and nefopam in potentiating opioid analgesia"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the reduction in opioid requirement over 24 hours"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment via sealed envelopes"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Both patients and outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "200 participants were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was conducted on an intention-to-treat basis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Both ketamine and nefopam reduced opioid requirements by approximately 40% (mean difference = [value], 95% CI [range]; p = [value])"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Sedation was observed in the ketamine group, while tachycardia and sweating were noted in the nefopam group"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This study was funded by [Funding Source]"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

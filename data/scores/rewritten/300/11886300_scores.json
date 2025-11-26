@@ -1,0 +1,74 @@
+{
+  "pmcid": "11886300",
+  "sha256": "ffbd6dba5a675444545d2e9a8299398c85735fe42fd448211d9384fd27689b6e",
+  "timestamp_utc": "2025-11-09T23:22:10.413531+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.528241758241762,
+    "reading_ease": 31.1496153846154,
+    "word_count": 260
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Venous Thromboembolism After Lung Transplantation"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised controlled trial at a tertiary care hospital"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients undergoing LT, aged over 18, and without pre-existing VTE"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "intervention group received standard VTE prophylaxis, while the control group received extended prophylaxis"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the incidence, clinical features, and outcomes of VTE following LT."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of VTE within 90 days post-LT."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation concealment was ensured using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group, recruited between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a VTE incidence of 15%, compared to 25% in the control group (risk difference = -10%, 95% CI -18% to -2%; p = 0.02)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events occurred in 5% of the intervention group and 8% of the control group, with no severe events reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The trial was funded by the National Institutes of Health."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

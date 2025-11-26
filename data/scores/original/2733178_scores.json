@@ -1,0 +1,74 @@
+{
+  "pmcid": "2733178",
+  "sha256": "5e62da22e5c187a0056c5c32cef93e2649f94413c7940b89fefd61662f61f793",
+  "timestamp_utc": "2025-11-09T15:49:45.929215+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.69862938596491,
+    "reading_ease": 57.25425986842106,
+    "word_count": 285
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Ventilated preterm neonates ( n =898) from 16 centres were randomly assigned to placebo ( n =449) or morphine ( n =449)."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Ventilated preterm neonates ( n =898) from 16 centres were randomly assigned to placebo ( n =449) or morphine ( n =449)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "After an i.v. loading dose (100 µg kg −1 ), morphine infusions [23–26 weeks postmenstrual age (PMA) 10 µg kg −1 h −1 ; 27–29 weeks 20 µg kg −1 h −1 ; and 30–32 weeks 30 µg kg −1 h −1 ] were established for a maximum of 14 days."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Morphine assay and neonatal response to ETT suctioning was measured at 20–28 and 70–76 h after starting the drug infusion and at 10–14 h after discontinuation of the study drug."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Ventilated preterm neonates ( n =898) from 16 centres were randomly assigned to placebo ( n =449) or morphine ( n =449)."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Open-label morphine (20–100 µg kg −1 ) was given for pain or agitation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ventilated preterm neonates ( n =898) from 16 centres were randomly assigned to placebo ( n =449) or morphine ( n =449)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 5119 data points (1598 measured morphine concentrations and 3521 effect measures) were available from 875 neonates for analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "There was no relationship between morphine concentrations (range 0–440 µg litre −1 ) and heart rate changes associated with ETT suctioning or with the Premature Infant Pain Profile."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

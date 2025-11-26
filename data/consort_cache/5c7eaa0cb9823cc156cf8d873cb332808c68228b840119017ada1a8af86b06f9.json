@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Fibrin Sealant Patch in Reducing Postoperative Pancreatic Fistula"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "multicentre, randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients undergoing pancreatoduodenectomy with pancreatojejunostomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "fibrin-coated collagen patch (patch group) or no patch (control group)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to assess the effectiveness of a fibrin sealant patch in reducing postoperative pancreatic fistula"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was POPF, assessed up to 42 days post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "using a secure internet-based service for allocation concealment"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "71 patients were randomised to each group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "All 142 patients were analysed using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "obesity (OR 5.28, 95% CI 1.20 to 23.18; p=0.027)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: EudraCT 2013-000639-29"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

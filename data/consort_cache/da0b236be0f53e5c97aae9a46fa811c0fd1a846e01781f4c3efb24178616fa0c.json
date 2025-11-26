@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This cluster RCT evaluated the impact of decision support interventions (DESIs) for older women with breast cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A multicentre cluster RCT compared the use of two DESIs against usual care"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "older women (aged at least \u226570 years) with breast cancer"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compared the use of two DESIs against usual care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to ascertain whether DESIs influenced quality of life, survival, decision quality, and treatment choice"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was quality of life"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "46 breast units were randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "recruiting 1339 women (670 intervention, 669 usual care)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "intention-to-treat analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "difference \u20130.20, 95 per cent confidence interval (C.I.) \u20132.69 to 2.29; P =\u20090.900"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration numbers: EudraCT 2015-004220-61 (https://eudract.ema.europa.eu/), ISRCTN46099296 ( http://www.controlled-trials.com )"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

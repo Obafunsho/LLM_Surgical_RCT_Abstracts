@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Common-Iliac-Artery Skirt Technology in Iliac Artery Aneurysms"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A retrospective analysis was conducted on 524 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with iliac artery aneurysms treated with either CST or IIAE were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compared to internal iliac artery embolization (IIAE) in managing iliac artery aneurysms."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the effectiveness of a novel common-iliac-artery skirt technology (CST)"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the technical success rate, defined as complete exclusion of aneurysms without endoleak."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seventy-two patients were included, with 39 in the CST group and 26 in the IIAE group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "CST showed a significantly shorter surgery time (97.42 \u00b1 3.891 minutes vs. 141.0 \u00b1 8.010 minutes, p < 0.001) and hospital stay (15.35 \u00b1 0.873 days vs. 19.32 \u00b1 1.067 days, p = 0.009)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The CST group had lower in-hospital MAEs (0% vs. 11.5%, p = 0.059) and 1-year follow-up MAEs (6.7% vs. 28.6%, p = 0.052)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by the National Natural Science Foundation of China and the Natural Science Foundation of Hunan Province."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

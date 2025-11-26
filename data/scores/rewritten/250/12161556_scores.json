@@ -1,0 +1,74 @@
+{
+  "pmcid": "12161556",
+  "sha256": "52bd952e3e6a6995e4a4a57e025f47553552bed784f543c7404500132a07aeea",
+  "timestamp_utc": "2025-11-09T22:17:24.042540+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.307207547169813,
+    "reading_ease": 40.04486792452835,
+    "word_count": 212
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Conductive and Forced-Air Warming in Reducing Intraoperative Hypothermia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised into four groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults undergoing elective surgery lasting 90-240 minutes."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised into four groups: (1) CW/CW, (2) FAW/FAW, (3) no active prewarming (NAPW)/CW, and (4) NAPW/FAW."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the efficacy of conductive warming (CW) and forced-air warming (FAW) in reducing intraoperative hypothermia, with and without prewarming."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the area under the temperature curve (AUC) below 36°C, measured intraoperatively using an esophageal probe."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a blocked design, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 182 patients were analysed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean AUC for CW/CW was 51% lower than NAPW/FAW (ratio 0.49, 95% CI 0.24 to 0.98), and NAPW/CW was 54% lower than NAPW/FAW (ratio 0.46, 95% CI 0.23 to 0.91)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN23065394."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

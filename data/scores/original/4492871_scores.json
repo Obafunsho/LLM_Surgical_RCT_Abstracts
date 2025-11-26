@@ -1,0 +1,74 @@
+{
+  "pmcid": "4492871",
+  "sha256": "78c5a417f41b2d61ce0d252af9418bc4f685567817b2959d3735ab9bb5537829",
+  "timestamp_utc": "2025-11-09T15:59:27.294860+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.742348178137654,
+    "reading_ease": 34.030283400809736,
+    "word_count": 247
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Residents were randomized to take an on-line short course on frailty (experimental group) or to receive no training (control group)."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Traditional track cardiothoracic surgery residents"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Residents were randomized to take an on-line short course on frailty (experimental group) or to receive no training (control group)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We assessed the influence of a frailty education module on surgical residents’ estimates of lobectomy risk."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "made an initial risk estimate of major complications for lobectomy"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Residents were randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty-one residents participated (20 in the experimental group)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The experimental group rated clinical factors as “very important” in their initial risk estimates more often than did the control group (47.6% vs 38.5%; p<0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

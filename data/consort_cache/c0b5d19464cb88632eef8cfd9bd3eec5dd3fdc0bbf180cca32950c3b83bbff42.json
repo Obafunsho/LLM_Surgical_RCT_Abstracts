@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Deep Brain Stimulation in Treatment-Refractory Obsessive-Compulsive Disorder"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to receive either sham stimulation or active DBS"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "five patients with chronic, severe treatment-refractory OCD"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either sham stimulation or active DBS"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to explore the acute effects of DBS in this region."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the acute response to stimulation, measured 30 days post-DBS placement."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Both patients and outcome assessors were blinded to the intervention."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Non-mood-related responses were significantly associated with ventral lead contacts (p = 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant side effects were associated with sham stimulation."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12122560",
+  "sha256": "6c993ec42e3009fe6f4d379fc23f998cf999cca79cb0a0a35e7df299d13ae212",
+  "timestamp_utc": "2025-11-09T23:27:11.048532+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.699400986610293,
+    "reading_ease": 25.108847780126865,
+    "word_count": 258
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Gastrointestinal Motility Agents in Elective Colorectal Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults undergoing elective colorectal surgery across various international settings."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Interventions included prokinetics and laxatives, compared to placebo or standard ERAS care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the efficacy and safety of GI motility agents in this setting."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was GI-2 recovery, defined as tolerance of solid diet and stool passage, measured within the first postoperative week."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation and allocation concealment methods varied across studies."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was implemented for patients and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "GI motility agents significantly accelerated GI-2 recovery (mean difference –1.01 days; 95% CI –1.29 to –0.73; p < 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were not significantly different between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD420250655358."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

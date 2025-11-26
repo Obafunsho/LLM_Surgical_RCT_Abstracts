@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Adjuvant Statin Therapy in Oesophageal Adenocarcinoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "centrally randomised (1:1) to simvastatin 40 mg or placebo using block randomisation, stratified by centre"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adults with OAC (including Siewert I\u2013II lesions) post-oesophagectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised (1:1) to simvastatin 40 mg or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assessed the feasibility of a phase III RCT of adjuvant statin therapy in operable OAC."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was drug absorption, measured by LDL cholesterol levels at 3 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "centrally randomised (1:1) to simvastatin 40 mg or placebo using block randomisation, stratified by centre"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included participants, clinicians, and investigators."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 120 patients assessed, 32 (26.7%) were randomised, 16 per group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "32 (26.7%) were randomised, 16 per group. Seven withdrew."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Simvastatin reduced LDL cholesterol by 3 months (adjusted mean difference \u22120.83 mmol/l, 95% CI \u22121.4 to \u22120.22; p = 0.009)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN98060456."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

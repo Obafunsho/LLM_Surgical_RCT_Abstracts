@@ -1,0 +1,74 @@
+{
+  "pmcid": "11251114",
+  "sha256": "764da946018dfd3ec01d22677acc1f1acfd127cbebcdae2cdd3b924e9a0401b7",
+  "timestamp_utc": "2025-11-09T15:16:35.680738+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.974678624813155,
+    "reading_ease": 31.83353761833584,
+    "word_count": 223
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "breast cancer patients treated with either MABS or COBS at a single hospital"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients who underwent MABS or conventional open breast surgery (COBS)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the postoperative immune function in breast patients who underwent MABS or conventional open breast surgery (COBS)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Flow cytometry was used to measure the percentages of CD3 + , CD4 + , and CD8 + cells, as well as the CD4 + /CD8 + ratio, on three different time points: preoperative day 1 (PreD1), postoperative day 1 (PostD1), and postoperative day 7 (PostD7)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "116 matched pairs were obtained through 1:1 propensity score matching (PSM)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Both the MABS and COBS groups demonstrated a significant reduction in the percentages of CD3 + , CD4 + , and CD8 + cells, along with the CD4 + /CD8 + ratio, from PreD1 to PostD1."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomized 69 knees to receive a TKA through either a midline or an anterolateral skin incision."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "We randomized 69 knees to receive a TKA through either a midline or an anterolateral skin incision."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We asked whether an anterolateral skin incision to the knee would decrease the area of skin hypesthesia and associated postoperative discomfort."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We assessed skin sensitivity by application of the Semmes-Weinstein monofilament at 13 reference points at 6 weeks and 6 and 12 months postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomized 69 knees to receive a TKA through either a midline or an anterolateral skin incision."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomized 69 knees to receive a TKA through either a midline or an anterolateral skin incision."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The area of hypesthesia was less after an anterolateral compared with a midline incision up to 1 year after surgery: the areas of hypesthesia were, respectively, 32 cm 2 versus 76 cm 2 at 6 weeks, 14 cm 2 versus 29 cm 2 at 6 months, and 7 cm 2 versus 19 cm 2 at 1 year."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

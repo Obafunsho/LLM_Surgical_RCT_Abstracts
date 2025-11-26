@@ -1,0 +1,74 @@
+{
+  "pmcid": "4925413",
+  "sha256": "636539f80b8206371d4d23c1806bed579a2117360c2ca13d98934088ccb8fefc",
+  "timestamp_utc": "2025-11-09T16:01:29.248591+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.09469702042183,
+    "reading_ease": 39.97970873786409,
+    "word_count": 515
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "two-group randomized, controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adults who self-identified as black who were at least 50 years old with moderate to severe knee OA were enrolled from urban primary care clinics"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants in the treatment group were shown a decision-aid video and had a brief session with a trained counselor in motivational interviewing. Participants in the control group received an educational booklet about OA that did not mention joint replacement."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We asked: ( 1) Does a patient-centered intervention consisting of a decision aid for knee OA and motivational interviewing improve the proportion of referrals of blacks with knee OA to orthopaedic surgery? (2) Does the intervention increase patients’ willingness to undergo TKA?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was referral to orthopaedic surgery 12 months after treatment exposure."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "two-group randomized, controlled trial"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Four hundred ninety-three patients were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "three had missing referral data at followup"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The odds of receiving a referral to orthopaedic surgery did not differ between the two study groups (36%, 90 of 253 of the control group; 32%, 76 of 240 of the treatment group; odds ratio [OR], 0.81; 95% CI, 0.56–1.18; p = 0.277)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

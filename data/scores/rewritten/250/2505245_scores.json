@@ -1,0 +1,74 @@
+{
+  "pmcid": "2505245",
+  "sha256": "b0c9bc324376ecc7d07fe5fbe7ed6268d6cf0f007c899b6e5852a930f19a9854",
+  "timestamp_utc": "2025-11-09T22:33:26.972411+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.002507739938082,
+    "reading_ease": 36.086671826625405,
+    "word_count": 190
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial involved tendon samples from 88 individuals"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "tendon samples from 88 individuals (49 men, 39 women; mean age, 58.2 years) undergoing arthroscopic rotator cuff repair"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the reliability of these two scoring systems in evaluating tendon tissue."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the intraclass correlation coefficient (ICC) between the two scoring systems, measured immediately post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "tendon samples from 88 individuals"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The ICC was 0.921 (95% CI 0.790–0.963), indicating high reliability between the scoring systems."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

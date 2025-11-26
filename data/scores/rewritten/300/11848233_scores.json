@@ -1,0 +1,74 @@
+{
+  "pmcid": "11848233",
+  "sha256": "f2617366527544cdc884508d4647737768ac933f88493f4665bb7ef68dd27549",
+  "timestamp_utc": "2025-11-09T23:21:30.342447+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.92600628930818,
+    "reading_ease": 35.78100104821803,
+    "word_count": 265
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Plasma Expansion on Renal Perfusion in Critically Ill COVID-19 Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were assigned to AKI or NO AKI groups based on KDIGO Creatinine criteria."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at Uppsala University Hospital, Sweden, this case-control study included ICU-treated COVID-19 patients without underlying kidney disease."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Renal perfusion was evaluated using magnetic resonance imaging before and after plasma expansion with 7.5 mL/kg Ringer's Acetate."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the impact of plasma expansion with a standardized fluid bolus on renal perfusion in critically ill COVID-19 patients with and without acute kidney injury (AKI)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in renal perfusion, measured immediately post-intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Seventeen patients were enrolled between June 4, 2020, and May 10, 2021, with nine in the AKI group and eight in the NO AKI group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Seventeen patients were enrolled between June 4, 2020, and May 10, 2021, with nine in the AKI group and eight in the NO AKI group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Plasma expansion increased mean arterial pressure by 9 mmHg (95% CI 0.5–18) in the AKI group and 15 mmHg (95% CI 5–24) in the NO AKI group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials ID: NCT02765191."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by Uppsala University Hospital, NoRCORP, Medical Research Council, and other grants."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

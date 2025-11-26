@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The Carotid Revascularization, Endarterectomy vs. Stenting Trial (CREST)"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized to both treatment arms in a 1:1 ratio"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "enrolled 2,522 participants across North America"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing the efficacy of carotid artery stenting (CAS) to carotid endarterectomy (CEA)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The primary aim is to contrast the efficacy of CAS versus CEA"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "preventing stroke, myocardial infarction, and all-cause mortality during a 30-day peri-procedural period"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized to both treatment arms in a 1:1 ratio"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "enrolled 2,522 participants across North America"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Sponsored by the National Institute of Neurological Disorders and Stroke (NINDS)"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

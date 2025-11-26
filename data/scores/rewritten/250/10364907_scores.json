@@ -1,0 +1,74 @@
+{
+  "pmcid": "10364907",
+  "sha256": "fbc87df4b713153ce64005c12a36f87181ad33da4159a12d666cc7cb74010fad",
+  "timestamp_utc": "2025-11-09T21:53:56.873864+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.703666462293072,
+    "reading_ease": 45.25402002861233,
+    "word_count": 233
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Decision Support Interventions for Older Women with Breast Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Units were randomised 1:1 to either DESIs or usual care"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "recruiting women aged 70 years or above with operable breast cancer. Units were randomised 1:1 to either DESIs or usual care, stratified by primary endocrine therapy and chemotherapy rates."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The DESIs included an online tool, booklet, and decision aid."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was quality of life (QoL) at 6 months, assessed using the EORTC QLQ-C30."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was by block, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 1339 women were randomised (670 intervention, 669 usual care) between December 2015 and June 2018."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Intention-to-treat analysis showed no significant difference in global QoL at 6 months"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Intention-to-treat analysis showed no significant difference in global QoL at 6 months (difference -0.20, 95% CI -2.69 to 2.29; P = 0.900)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: EudraCT 2015-004220-61, ISRCTN46099296."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funded by the National Institute for Health Research (NIHR)."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

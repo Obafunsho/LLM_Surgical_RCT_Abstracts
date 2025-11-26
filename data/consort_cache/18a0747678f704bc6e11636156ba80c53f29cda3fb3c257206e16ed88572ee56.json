@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients undergoing cardiac surgery with CPB were randomized"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients undergoing cardiac surgery with CPB"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive either two preoperative subcutaneous injections of liraglutide or a matching placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that liraglutide increases pancreatic insulin secretion during cardiac surgery with cardiopulmonary bypass (CPB)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "We measured hormone concentrations before and after surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients undergoing cardiac surgery with CPB were randomized"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "matching placebo"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Metabolic hormone concentrations were measured in 37 participants."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "HOMA-B revealed that liraglutide increased insulin secretion relative to glycemia (258 \u00b1 179 vs 116 \u00b1 180, difference (95% CI): 142 (24\u2013261), P = 0.004)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "GLOBE trial, NTR6323"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

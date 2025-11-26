@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Sugammadex on Postoperative Urinary Retention"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing sugammadex with conventional reversal agents or no reversal agents"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effects of sugammadex, a neuromuscular blockade (NMB) reversal agent, on POUR incidence and other postoperative outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was POUR incidence, measured within 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 25 studies with 163,367 patients were included: 84,362 received sugammadex, and 79,005 received neostigmine or no antagonist."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Sugammadex significantly reduced POUR incidence (Relative Risk (RR): 0.47, 95% Confidence Interval (CI): 0.34\u20130.64, P < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: CRD42024566663."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

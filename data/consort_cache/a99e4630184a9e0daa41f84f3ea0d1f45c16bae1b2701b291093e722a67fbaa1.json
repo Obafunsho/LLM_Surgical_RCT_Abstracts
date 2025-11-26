@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Diazoxide Cardioprotection in Mouse Models of Global Ischemia"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Sample size calculations were based on detecting a 5% \u00b1 4% difference with 80% power."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Myocytes were exposed to Tyrode's solution, hyperkalemic cardioplegia (CPG) \u00b1 diazoxide, \u00b1 VU591 (Kir1.1 inhibitor), and Tyrode's solution again."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to elucidate its mechanism of action to develop targeted therapies for cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was measured over a 20-minute period for myocytes and a 90-minute ischemia with 30-minute reperfusion for hearts."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Investigators were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Myocyte contractility was reduced by CPG but preserved by diazoxide. VU591 negated diazoxide's effect in myocytes. In hearts, diazoxide improved left ventricular function post-ischemia in all mouse types."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10638529",
+  "sha256": "fcda6fc7da3d038cfb3775eed960b852c7ef3ba1238a659e7b72338a098648a6",
+  "timestamp_utc": "2025-11-09T21:55:50.871960+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.048803708729082,
+    "reading_ease": 46.46009837177749,
+    "word_count": 201
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Autofluorescence in Thyroidectomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients aged over 18 years undergoing total thyroidectomy were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged over 18 years undergoing total thyroidectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to either the intervention group using Fluobeam® LX or a control group without it"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluated the use of Fluobeam® LX for parathyroid gland visualization during total thyroidectomy to reduce postoperative hypoparathyroidism"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of low parathyroid hormone (PTH) levels on the first postoperative day."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using the Eurocrine® platform with allocation concealed from patients."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "The study was single-blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between January 2021 and August 2022, 535 patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "535 patients were randomised, and 486 were analysed (246 intervention, 240 control)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The rate of low PTH levels was 26.0% in the intervention group and 32.1% in the control group (RR 0.81, 95% CI 0.61 to 1.07; p = 0.141)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No specific harm related to Fluobeam® LX was reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04509011."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

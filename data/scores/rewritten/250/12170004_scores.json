@@ -1,0 +1,74 @@
+{
+  "pmcid": "12170004",
+  "sha256": "9a5fee33bdd52c30b227f2f9453c29367a596598222d0caac7031960a5225a77",
+  "timestamp_utc": "2025-11-09T22:17:48.844487+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.250269286754005,
+    "reading_ease": 29.893996846191186,
+    "word_count": 229
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Efficacy of Intraoperative NSAIDs on Postoperative Pulmonary Complications in NSCLC: A Retrospective Analysis"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study included NSCLC patients who underwent lung resection between January 1 and May 31, 2019, at Peking University Cancer Hospital."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were divided into two groups: those receiving NSAIDs (NSAIDs group) and those not receiving NSAIDs (control group)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This retrospective study aimed to evaluate the efficacy of intraoperative non-steroidal anti-inflammatory drugs (NSAIDs) on postoperative pulmonary complications (PPCs) in patients with non-small cell lung cancer (NSCLC) undergoing lung resection."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of PPCs within 7 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 306 patients were included, with 139 in the NSAIDs group and 167 in the control group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "After PSM, 119 patients were in each group."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The NSAIDs group showed significantly lower frequencies of postoperative pneumonia (5.9% vs. 13.4%, P=0.048) and respiratory failure (0.8% vs. 5.9%, P=0.03) compared to the control group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

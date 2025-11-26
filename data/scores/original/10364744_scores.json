@@ -1,0 +1,74 @@
+{
+  "pmcid": "10364744",
+  "sha256": "3c15431a6a56a6d880e60bccb62d66fc49ed589ecfaf5d1dc2df5098407d3b1e",
+  "timestamp_utc": "2025-11-09T15:07:15.673346+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.50095652173913,
+    "reading_ease": 43.00786956521742,
+    "word_count": 300
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This was a multicentre, double-blind, parallel, placebo-controlled randomized trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This was a multicentre, double-blind, parallel, placebo-controlled randomized trial of 2 mg prucalopride versus placebo in patients undergoing elective colorectal resection."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with inflammatory bowel disease and planned ileostomy formation were excluded, but colostomy formation was allowed."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "2 mg prucalopride versus placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim was to determine whether prucalopride improved return of gut function and reduced the incidence of PPOI."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was time to passage of stool and tolerance of diet (GI-2)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Participants were allocated in a 1 : 1 ratio, in blocks of 10. Randomization was computer-generated."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "All study personnel, medical staff, and patients were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 148 patients were randomized, 74 per arm."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Demographic data were similar in the two groups."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There was no difference in median time to GI-2 between prucalopride and placebo groups: 3.5 (i.q.r. 2–5) versus 4 (3–5) days respectively ( P = 0.124)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The rate of PPOI, complications, and adverse events was similar in the two groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT02947269 ( http://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

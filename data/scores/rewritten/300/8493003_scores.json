@@ -1,0 +1,74 @@
+{
+  "pmcid": "8493003",
+  "sha256": "0241a3e806dc046cfcd764972791048f0eb882a7f1d0b0e5da46973fe6bedea8",
+  "timestamp_utc": "2025-11-10T00:09:29.467963+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.19563532187395,
+    "reading_ease": 34.774929221435826,
+    "word_count": 258
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Preoperative Breast MRI in Breast Cancer: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised multicentre trial involved 440 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "440 patients aged 56 years or less with newly diagnosed breast cancer, conducted at three breast cancer units"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive preoperative MRI (n=220) or conventional imaging (n=220)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the long-term effects of preoperative MRI compared to conventional imaging."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was DFS, assessed over a 10-year follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive preoperative MRI (n=220) or conventional imaging (n=220) between 2007 and 2010."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "DFS rates were 85.5% in the MRI group and 80.0% in the control group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "DFS rates were 85.5% in the MRI group and 80.0% in the control group (HR 1.46, 95% CI 0.93 to 2.29; P=0.099)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01859936"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by Capio St Goran’s Hospital Research Foundation, Centre for Clinical Research, Vastmanland Hospital, Percy Falk Foundation, and Vastmanland Research Foundation against Cancer."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

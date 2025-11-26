@@ -1,0 +1,74 @@
+{
+  "pmcid": "12379978",
+  "sha256": "d1733f6f3d8453f4b78bfe14906272416ed7ec9bc161bf75df3236a9832cb27f",
+  "timestamp_utc": "2025-11-09T15:39:02.677074+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.847884936075602,
+    "reading_ease": 21.30678015564203,
+    "word_count": 257
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 116 patients scheduled for elective laparoscopic hepatectomy were randomly assigned to two groups"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "116 patients scheduled for elective laparoscopic hepatectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to two groups: the goal-directed fluid therapy (GDFT) crystalloid group and the GDFT colloid group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to investigate the impact of two-stage goal-directed crystalloid versus colloid fluid therapy on postoperative quality of recovery"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcome was the 24 h postoperative Quality of Recovery-15 (QoR-15) score"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly assigned to two groups"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 116 patients scheduled for elective laparoscopic hepatectomy were randomly assigned to two groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "There was no significant difference in the total QoR-15 scores between the two groups at each point in time ( P > 0.05)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "postoperative complications"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

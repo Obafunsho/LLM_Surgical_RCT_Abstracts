@@ -1,0 +1,74 @@
+{
+  "pmcid": "12473367",
+  "sha256": "aaef7b5af4bbe4200c5681a52f273b56c7ade538aba0e0b793bf798dcea2ca9c",
+  "timestamp_utc": "2025-11-09T15:43:33.936605+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 20.440067681895098,
+    "reading_ease": -12.495927805978539,
+    "word_count": 197
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This systematic review evaluates the role of structured exercise within the Enhanced Recovery After Surgery (ERAS) protocol, a multidisciplinary approach designed to reduce surgical stress and enhance recovery."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "structured exercise interventions—such as aerobic activities, resistance training, and flexibility routines—were associated with postoperative complications, shorten hospital stays, and enhance functional recovery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This systematic review evaluates the role of structured exercise within the Enhanced Recovery After Surgery (ERAS) protocol, a multidisciplinary approach designed to reduce surgical stress and enhance recovery."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The findings consistently demonstrate that structured exercise interventions—such as aerobic activities, resistance training, and flexibility routines—were associated with postoperative complications, shorten hospital stays, and enhance functional recovery."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  }
+}

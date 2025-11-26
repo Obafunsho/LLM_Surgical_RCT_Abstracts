@@ -1,0 +1,74 @@
+{
+  "pmcid": "11224440",
+  "sha256": "8a3e3df236a7a5aeb01635e44073e239792405193d21ddd8d6951fdd899dfcae",
+  "timestamp_utc": "2025-11-09T22:01:15.004219+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.95201945345067,
+    "reading_ease": 14.476005094951404,
+    "word_count": 254
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Radiotherapy and Immune Checkpoint Inhibitor in Metastatic Esophageal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to receive either RT combined with ICI or standard care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were patients with metastatic esophageal cancer."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either RT combined with ICI or standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the effects of combining RT with ICI in patients with metastatic esophageal cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of severe thrombocytopenia, measured over a 6-month period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the intervention group, 98 participants were analysed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The intervention group experienced a higher incidence of severe thrombocytopenia compared to the control group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were more frequent in the intervention group, with 3% experiencing severe thrombocytopenia."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by Chongqing Hospital of Traditional Chinese Medicine."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

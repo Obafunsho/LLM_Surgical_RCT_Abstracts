@@ -1,0 +1,74 @@
+{
+  "pmcid": "8378225",
+  "sha256": "f7c1bdb4fe19a4cd2aa291d5f615b2566292e581fcd8619a1de8d9b2645c8252",
+  "timestamp_utc": "2025-11-09T16:17:44.117223+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.37362033195021,
+    "reading_ease": 27.7815369986169,
+    "word_count": 241
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this randomized control trial, we investigated whether combining conditioning with an OLP (COLP) in the immediate postoperative period could reduce daily opioid use and postsurgical pain among patients recovering from spine surgery."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomized to COLP or treatment as usual, with both groups receiving unrestricted access to a typical opioid-based postoperative analgesic regimen."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomized to COLP or treatment as usual, with both groups receiving unrestricted access to a typical opioid-based postoperative analgesic regimen."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "In this randomized control trial, we investigated whether combining conditioning with an OLP (COLP) in the immediate postoperative period could reduce daily opioid use and postsurgical pain among patients recovering from spine surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The generalized estimating equations method was used to assess the treatment effect of COLP on daily opioid consumption and pain during postoperative period from postoperative day (POD) 1 to POD 17."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients in the COLP group consumed approximately 30% less daily morphine milligram equivalents compared with patients in the treatment as usual group during POD 1 to 17 (−14.5 daily morphine milligram equivalents; 95% CI: [−26.8, −2.2])."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

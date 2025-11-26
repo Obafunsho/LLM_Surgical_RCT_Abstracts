@@ -1,0 +1,74 @@
+{
+  "pmcid": "11600501",
+  "sha256": "ab87be56009cb76fdf4960f96c1098d8413149a3acca9476a15fa517603591f9",
+  "timestamp_utc": "2025-11-09T15:21:22.944080+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.766398113675852,
+    "reading_ease": 37.737549516008954,
+    "word_count": 948
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We included randomised controlled trials (RCTs) enrolling adults who underwent cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "prophylactically treated with one or multiple inotropic agent(s) in comparison to any type of control"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the benefits and harms of the prophylactic use of any inotropic agent to prevent low cardiac output and associated morbidity and mortality in adults undergoing cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "levosimendan as compared to placebo may reduce the risk of LCOS (risk ratio (RR) 0.43, 95% confidence interval (CI) 0.25 to 0.74; I 2 = 66%; 1724 participants, 6 studies; GRADE: low)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "lack of blinding"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We identified 29 eligible studies, including 3307 individuals"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "levosimendan as compared to placebo may reduce the risk of LCOS (risk ratio (RR) 0.43, 95% confidence interval (CI) 0.25 to 0.74; I 2 = 66%; 1724 participants, 6 studies; GRADE: low)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The risk of adverse events did not clearly differ between levosimendan and placebo groups"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

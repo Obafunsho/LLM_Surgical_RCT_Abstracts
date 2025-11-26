@@ -1,0 +1,74 @@
+{
+  "pmcid": "12014535",
+  "sha256": "8319d27afa9dcdfadfc453da966c6e0f23a39f8042970e5e82201d7eab2557c2",
+  "timestamp_utc": "2025-11-09T23:24:25.101549+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.890576923076924,
+    "reading_ease": 10.078173076923093,
+    "word_count": 260
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Individualized End-Inspiratory Pause in Prone Spinal Surgery: A Randomized Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients scheduled for elective prone spinal surgery were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients scheduled for elective prone spinal surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to either a study group, receiving individualized EIP, or a control group, receiving a fixed EIP"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effect of individualized end-inspiratory pause (EIP) guided by driving pressure on respiratory mechanics in patients undergoing prone spinal surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was respiratory system compliance (C_RS) measured intraoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed in sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Outcome assessors, data collectors, and patients were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty-eight patients were randomized"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "18 in each group analyzed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The study group exhibited a significant increase in C_RS (mean difference = 6 mL·cmH2O−1, p < 0.05)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No postoperative pulmonary complications were observed in either group within three days after surgery."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2300074398"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

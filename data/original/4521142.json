@@ -1,0 +1,22 @@
+{
+  "pmcid": "4521142",
+  "pmid": "25909567",
+  "title": "COMPARATIVE EFFECTIVENESS AND SAFETY OF IMAGE GUIDANCE SYSTEMS IN NEUROSURGERY: A PRECLINICAL RANDOMIZED STUDY",
+  "abstract": "Object: Over the last decade image guidance systems have been widely adopted in neurosurgery. Nonetheless, the evidence supporting the use of these systems in surgery remains limited. The aim of this study was to compare simultaneously the effectiveness and safety of various image guidance systems against standard surgery.\n\nMethods: In this preclinical randomized study 50 novice surgeons were allocated to: (1) no image guidance, (2) triplanar display, (3) always-on solid overlay, (4) always-on wire mesh overlay, and (5) on-demand inverse realism overlay. Each participant was asked to identify a basilar tip aneurysm in a validated model head. The primary outcomes were time to task completion (seconds), and tool path length (millimeters). The secondary outcomes were recognition of an unexpected finding (a surgical clip), and subjective depth perception using a Likert scale.\n\nResults: The time to task completion and tool path length were significantly lower when utilizing any form of image guidance compared to no image guidance (p < 0·001 and p = 0·003, respectively). The tool path distance was also lower in groups utilizing augmented reality compared to triplanar display (p = 0·010). Always-on solid overlay resulted in the greatest inattentional blindness (20% recognition of unexpected finding). Wire mesh and on-demand overlays mitigated but did not negate inattentional blindness, and were comparable to triplanar display (40% recognition of unexpected finding in all groups). Wire mesh and inverse realism overlays also resulted in better subjective depth perception than always-on solid overlay (p = 0·031 and p = 0·008, respectively).\n\nConclusions: New augmented reality platforms may improve performance in less experienced surgeons. However, all image display modalities, including existing triplanar display, carry a risk of inattentional blindness.",
+  "authors": [
+    "Hani J Marcus",
+    "Philip Pratt",
+    "Archie Hughes-Hallett",
+    "Thomas P Cundy",
+    "Adam P Marcus",
+    "Guang-Zhong Yang",
+    "Ara Darzi",
+    "Dipankar Nandi"
+  ],
+  "journal": "Journal of neurosurgery",
+  "year": "2015",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

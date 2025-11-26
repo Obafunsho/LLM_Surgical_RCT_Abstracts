@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In a double-blind RCT"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a double-blind RCT, adults at increased risk of acute kidney injury undergoing cardiac surgery in a single UK tertiary centre were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adults at increased risk of acute kidney injury undergoing cardiac surgery in a single UK tertiary centre"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive sildenafil citrate 12.5 mg kg \u22121 i.v. over 150 min or dextrose 5%"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assessed whether i.v. sildenafil citrate prevented acute kidney injury in at-risk patients undergoing cardiac surgery with cardiopulmonary bypass."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was serum creatinine measured at six post-randomisation time points."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "In a double-blind RCT"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "There were 60 subjects in the sildenafil group and 69 in the placebo control group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis population comprised eligible randomised patients that underwent valve surgery or combined coronary artery bypass graft and valve surgery"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The difference between groups in creatinine concentration was not statistically significant (MD: 0.88 \u03bcmol L \u22121 [\u20135.82, 7.59])."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There was a statistically significant increase in multiple organ dysfunction scores in the sildenafil group (MD: 0.54 [0.02, 1.07]; P =0.044)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinical trial registration: ISRCTN18386427."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

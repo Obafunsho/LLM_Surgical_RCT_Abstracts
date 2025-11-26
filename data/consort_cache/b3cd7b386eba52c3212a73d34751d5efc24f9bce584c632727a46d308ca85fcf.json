@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomly assigned patients undergoing ACDF to either the corticosteroid group or the saline solution group."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing ACDF... All participants were Taiwanese."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients received 10 mg of local triamcinolone or saline solution prevertebrally at the cervical spine level before wound closure."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of our study was to explore the effect of local corticosteroids on dysphagia in patients undergoing anterior cervical discectomy and fusion (ACDF)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Swallowing function preoperatively and at 1 month postoperatively were compared between the groups with use of HRIM parameters... and EAT-10 scores."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomly assigned patients undergoing ACDF to either the corticosteroid group or the saline solution group."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty patients completed the study."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Thirty patients completed the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Postoperatively, the corticosteroid group had significantly lower median UES relaxation pressure than the saline solution group (24.5 versus 33.6 mm Hg; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no adverse events."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

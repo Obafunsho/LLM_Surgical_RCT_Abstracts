@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients undergoing elective hepatectomy under general anesthesia combined with thoracic epidural anesthesia were enrolled and randomly allocated"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients undergoing elective hepatectomy under general anesthesia combined with thoracic epidural anesthesia"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly allocated to either group R (remimazolam anesthesia) or group P (propofol anesthesia)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that remimazolam-based anesthesia would improve hemodynamic instability compared to propofol-based anesthesia."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "hemodynamic instability was evaluated by the hemodynamic instability scores (HI-score)"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly allocated to either group R (remimazolam anesthesia) or group P (propofol anesthesia)"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 72 subjects were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "33 ones under minor hepatectomy surgery in each group were analyzed finally"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the total HI-score was significantly lower in group R (22.8\u2009\u00b1\u20092.1) than group P (33.0\u2009\u00b1\u20094.1, P =\u20090.029)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "remimazolam-based anesthesia did not reduce incidence of major cardiovascular events"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registered at ClinicalTrials.gov (Registration No. NCT06565715"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomized 401 patients (MVS alone=203; MVS+TA=198)."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "MVS alone=203; MVS+TA=198"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Here, we analyze the timing, indications, and risk factors for these implantations."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "A PPM was implanted in 36 patients (9.6%; 95 CI 6.8%\u221213.0%) within 2 years of randomization"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomized 401 patients (MVS alone=203; MVS+TA=198)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A PPM was implanted in 36 patients (9.6%; 95 CI 6.8%\u221213.0%)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "RR 5.08; 95% CI 2.16\u201311.94; p<0.001"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "However, this benefit was counterbalanced by an increase in permanent pacemakers (PPM)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

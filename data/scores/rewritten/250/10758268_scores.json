@@ -1,0 +1,74 @@
+{
+  "pmcid": "10758268",
+  "sha256": "a34bb35777b14b84e6616088a3db22f90183bff2156bf489eba24eb4652b6444",
+  "timestamp_utc": "2025-11-09T21:56:34.610292+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.849522591645353,
+    "reading_ease": 40.24415601023017,
+    "word_count": 204
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Sclerotherapy for Chronic Venous Insufficiency"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trials and clinical trials"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients with lower limb CVI grades C1-C6."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention was sclerotherapy, compared to placebo, deferred ablation, and ligation therapy."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was quality of life (QoL), measured using the VEINES-QOL scale over 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 9,670 participants were included, with 5,450 in the intervention group and 4,220 in the control group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Sclerotherapy significantly improved QoL (pooled MD = 10.34, 95% CI 8.78 to 11.90, p < 0.00001) and closure rates (pooled RR = 0.72, 95% CI 0.55 to 0.94, p = 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

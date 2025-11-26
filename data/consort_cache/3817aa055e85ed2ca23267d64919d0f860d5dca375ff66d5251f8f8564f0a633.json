@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "METHODS:: A pragmatic randomized, controlled, pivotal trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Subjects had Visual Analog Scale scores of \u22655.0/10.0 cm for both back and leg pain, and were assigned randomly (1:1)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Subjects had Visual Analog Scale scores of \u22655.0/10.0 cm for both back and leg pain, and were assigned randomly (1:1) to receive HF10 therapy or low-frequency SCS."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "assigned randomly (1:1) to receive HF10 therapy or low-frequency SCS."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVE:: To compare long-term results of HF10 therapy and traditional low-frequency SCS."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary end point was a responder rate, defined as \u226550% back pain reduction from baseline at 3 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Subjects had Visual Analog Scale scores of \u22655.0/10.0 cm for both back and leg pain, and were assigned randomly (1:1)"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "In the study, 198 subjects were randomized (101 HF10 therapy, 97 traditional SCS)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "One hundred seventy-one subjects (90 HF10 therapy, 81 traditional SCS) successfully completed a short-term trial and were implanted."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 24 months, more subjects were responders to HF10 therapy than traditional SCS (back pain: 76.5% vs 49.3%; 27.2% difference, 95% CI, 10.1%-41.8%; P < .001 for non-inferiority and superiority; leg pain: 72.9% vs 49.3%; 23.6% difference, 95% CI, 5.9%-38.6%; P < .001 for non-inferiority and P = .003 for superiority)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "3085934",
+  "sha256": "cddd5c2ec544a2c9372d5030bf5c5042fd933c70fc986c7a73a0636c3f0d2e26",
+  "timestamp_utc": "2025-11-09T15:51:20.743540+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.153512616201859,
+    "reading_ease": 18.425611996458628,
+    "word_count": 251
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Purpose: Surgical resection provides the only possibility of cure for pancreas cancer."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A single institution phase II study of 60 patients with resected pancreatic adenocarcinoma was performed."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "60 patients with resected pancreatic adenocarcinoma"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Each immunotherapy treatment consisted of a total of 5 × 10 8 GM-CSF-secreting cells distributed equally among 3 lymph node regions."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We tested the safety and efficacy of a granulocyte-macrophage colony-stimulating factor (GM-CSF)-based immunotherapy administered in patients with resected pancreatic adenocarcinoma."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was disease free survival and secondary endpoints were overall survival and toxicity, and the induction of mesothelin-specific T cell responses."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A single institution phase II study of 60 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The median disease-free survival is 17.3 months (95% CI, 14.6–22.8) with median survival of 24.8 months (95% CI, 21.2–31.6)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The administration of immunotherapy was well tolerated."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

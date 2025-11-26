@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Posterior Pericardiotomy for Prevention of Postoperative Atrial Fibrillation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial conducted at a tertiary care hospital"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults undergoing cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive PP or standard care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluate the effect of posterior pericardiotomy (PP) on POAF"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of POAF, measured within 30 days post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealed using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the intervention"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 420 patients were randomised, 210 to PP and 210 to control, between January 2020 and June 2021"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "PP significantly reduced POAF incidence (17.7% vs 31.3%; p=0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Hemodynamic instability occurred in 8.7% of cases"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: National Institutes of Health"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

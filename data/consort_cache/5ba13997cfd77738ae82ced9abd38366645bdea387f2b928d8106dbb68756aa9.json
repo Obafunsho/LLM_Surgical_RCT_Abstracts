@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Neoadjuvant 177 Lu-DOTATATE for NF-PanNETs: A Phase II Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A sample size of 30 was calculated to test postoperative complication rates against predefined cut-offs."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were adults with sporadic, resectable or potentially resectable NF-PanNETs, positive 68 Ga-DOTA PET, and at least one high-risk feature."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "26 completed four cycles of 177 Lu-DOTATATE."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the safety of neoadjuvant 177 Lu-DOTATATE followed by surgery in high-risk NF-PanNETs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was safety, assessed by postoperative morbidity and mortality within 90 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From March 2020 to February 2023, 31 patients were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "26 completed four cycles of 177 Lu-DOTATATE."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Partial radiological response was observed in 18 patients, with stable disease in 13."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No postoperative deaths occurred, but complications were noted in 21 patients, with severe complications in seven."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04385992."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

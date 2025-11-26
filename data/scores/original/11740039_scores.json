@@ -1,0 +1,74 @@
+{
+  "pmcid": "11740039",
+  "sha256": "86dbc35cbc59d216d7d00605ce593a070bcd4da8f9401b77f861ecf50320b7f2",
+  "timestamp_utc": "2025-11-09T15:22:57.220947+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.489874686716792,
+    "reading_ease": 31.108195488721833,
+    "word_count": 273
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "343 patients who underwent elective ascending aortic or aortic arch surgery"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "right common carotid artery (CCA) cannulation using a side graft"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "92% survival at 6 years, similar to an age- and gender-matched general population (log-rank P=0.50)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The early mortality and stroke rates were 1% and 4%, respectively."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

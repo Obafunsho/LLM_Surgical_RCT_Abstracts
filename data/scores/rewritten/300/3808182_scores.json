@@ -1,0 +1,74 @@
+{
+  "pmcid": "3808182",
+  "sha256": "3e2c36eef699c4b0c9e1775def0afcfdd3a0841f15c1d2ee906a85eb46d92e43",
+  "timestamp_utc": "2025-11-09T23:50:22.219897+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.725735930735933,
+    "reading_ease": 33.096915584415626,
+    "word_count": 273
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Isolated Hepatic Perfusion with 5-FU and Oxaliplatin for Unresectable Metastatic Liver Lesions"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A standard 3 × 3 Phase I design was used."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients with unresectable isolated colorectal cancer (CRC) liver metastases scheduled for hepatic artery infusion (HAI) pump, conducted at a single center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "IHP involved fixed-dose oxaliplatin with escalating 5-FU doses."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the safety and maximum tolerated dose (MTD) of 5-FU with oxaliplatin via isolated hepatic perfusion (IHP) in patients with unresectable metastatic liver lesions."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the MTD, assessed over a 6-month period."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twelve patients were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "At 6-month follow-up, 9 patients (82%) showed partial response, and 2 (18%) had stable disease."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The 1- and 2-year overall survival probabilities were 90.9% and 71.6%, respectively, with a median follow-up of 24 months."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included 4 grade 3 and 1 grade 4 events."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

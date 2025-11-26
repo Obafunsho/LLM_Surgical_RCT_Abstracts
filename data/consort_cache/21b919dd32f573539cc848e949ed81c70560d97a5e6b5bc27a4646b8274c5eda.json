@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Acellular Dermal Matrix in Implant-Based Breast Reconstruction"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned (1:1) to IBBR with or without ADM."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Women with breast cancer scheduled for mastectomy with immediate IBBR were recruited from four centres in Sweden and one in the UK."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "IBBR with acellular dermal matrix (ADM) improves health-related quality of life (HRQoL) and patient-reported cosmetic outcomes compared to conventional IBBR without ADM."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This multicentre open-label randomised controlled trial evaluated whether implant-based breast reconstruction (IBBR) with acellular dermal matrix (ADM) improves health-related quality of life (HRQoL) and patient-reported cosmetic outcomes compared to conventional IBBR without ADM."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the number of reoperations within 6 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed until baseline questionnaires were completed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "The study was open-label."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From April 2014 to May 2017, 135 women were randomised: 65 to ADM and 70 to control."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 64 in the ADM group and 65 in the control group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Cosmetic outcomes showed small differences favoring ADM in two subscales: cosmetic outcome (mean difference 8.66, 95% CI 0.46 to 16.86; p = 0.041) and problems finding a well-fitting bra (mean difference -13.21, 95% CI -25.54 to -0.89; p = 0.038)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events requiring reoperation were more frequent in the ADM group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02061527."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

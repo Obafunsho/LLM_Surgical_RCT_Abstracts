@@ -1,0 +1,74 @@
+{
+  "pmcid": "11321919",
+  "sha256": "c9781e542965bba94001bb97f9adec22b37f05b1a2f6e84a1a1b7bac5292ad53",
+  "timestamp_utc": "2025-11-09T15:17:41.773143+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.589780487804877,
+    "reading_ease": 36.17849186991873,
+    "word_count": 287
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This double-bind, randomized, parallel group trial in children (3-17 years) undergoing tonsillectomy"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "children (3-17 years) undergoing tonsillectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compared single-dose intravenous methadone (0.1 mg/kg then 0.15 mg/kg age-ideal body weight, in a dose escalation paradigm) versus as-needed short-duration opioid (fentanyl) controls"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The primary objective of this study was to investigate the intraoperative use of methadone for pediatric tonsillectomy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was total 7-day opioid use in oral morphine equivalents per kilogram (OME/kg)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "This double-bind, randomized, parallel group trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Data analysis included 60 children (20/group)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Data analysis included 60 children (20/group)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Total 7-day opioid use (OME/kg median [interquartile range]) was 1.5 [1.2,2.1] in controls, 0.9 [0.1,1.4] after methadone 0.1 mg/kg (P=0.045), and 0.5 [0,1.4] after methadone 0.15 mg/kg (P=0.023)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No serious opioid-related adverse events occurred."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

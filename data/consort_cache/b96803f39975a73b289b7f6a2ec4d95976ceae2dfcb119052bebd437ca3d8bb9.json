@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Twenty children ages 12\u201317 years were enrolled, with 10 children in each of two groups based on diagnosis"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Twenty children ages 12\u201317 years were enrolled, with 10 children in each of two groups based on diagnosis (idiopathic scoliosis or non-idiopathic scoliosis)."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to determine the pharmacokinetics of EACA in adolescents undergoing spinal fusion surgery and make dosing recommendations."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty children ages 12\u201317 years were enrolled, with 10 children in each of two groups based on diagnosis"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinical trial registration: NCT01408823 ."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients undergoing EVAR were randomized to doxycycline (100mg twice daily) or placebo for 6 months following the procedure."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients undergoing EVAR were randomized to doxycycline (100mg twice daily) or placebo for 6 months following the procedure."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The goal of this study was to evaluate the effect of a MMP inhibitor, doxycycline, on EVAR."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Plasma MMP-9 decreased significantly below baseline in the doxycycline (N=20) treated patients at 6 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Plasma MMP-9 decreased significantly below baseline in the doxycycline (N=20) treated patients at 6 months while there was a non-significant increase in the placebo (N=24) group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Forty-four subjects were analyzed based on intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Plasma MMP-9 decreased significantly below baseline in the doxycycline (N=20) treated patients at 6 months (\u221216.4\u00b120.7%, P<0.05) while there was a non-significant increase in the placebo (N=24) group (128.1\u00b173.5%)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

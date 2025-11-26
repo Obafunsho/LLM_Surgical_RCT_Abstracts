@@ -1,0 +1,74 @@
+{
+  "pmcid": "10344543",
+  "sha256": "2e922008c1588ad18cd0b0d8be63c6c0708d6a42b33a0f2c4b9db46a5b58ddd3",
+  "timestamp_utc": "2025-11-09T15:06:40.589282+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.176345514950167,
+    "reading_ease": 37.18965116279071,
+    "word_count": 860
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This study was a Phase III, multicenter, randomized, double-blind, controlled study"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This study was a Phase III, multicenter, randomized, double-blind, controlled study conducted from 2011 to 2019"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients with ARCO Stage I and II ONFH were randomized"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "core decompression with osteoblastic cell transplantation (5 mL with 20 x 10 6 cells/mL in the study group) or core decompression with placebo (5 mL of solution without cells in the control group)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Is core decompression combined with autologous osteoblastic cell transplantation superior to core decompression with placebo implantation in relieving disease-associated pain and preventing radiologic ONFH progression in patients with nontraumatic early-stage ONFH?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary efficacy endpoint was the composite treatment response at 24 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients with ARCO Stage I and II ONFH were randomized (1:1)"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "double-blind"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Thirty percent (68 of 230) of the screened patients were eligible for inclusion in the study"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Forty-nine patients were included in the efficacy analyses"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There was no difference between the study and control groups in the proportion of patients who achieved a composite treatment response at 24 months (61% [14 of 23] versus 69% [18 of 26]; p = 0.54)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no serious adverse events related to the study treatment"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrails.gov registry number: NCT01529008"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

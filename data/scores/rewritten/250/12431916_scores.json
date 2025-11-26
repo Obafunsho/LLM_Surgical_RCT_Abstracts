@@ -1,0 +1,74 @@
+{
+  "pmcid": "12431916",
+  "sha256": "41040db3e6fa184d9418304e9f06983ea42528953c45f074dfde4f52baeadb8a",
+  "timestamp_utc": "2025-11-09T22:26:18.519476+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.217451420029896,
+    "reading_ease": 15.196600647732964,
+    "word_count": 223
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Surgical Techniques for Choledocholithiasis"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This non-randomised prospective observational study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were selected based on specific eligibility criteria and underwent different interventions"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "underwent different interventions: ERCP followed by laparoscopic cholecystectomy, laparoscopic CBD exploration, or open CBD exploration"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates postoperative outcomes of open common bile duct (CBD) exploration, laparoscopic CBD exploration, and a combined endoscopic and surgical approach"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was stone clearance, assessed intraoperatively and postoperatively over a 12-month follow-up"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "involving 50 patients diagnosed with CBD stones"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Stone clearance rates were similar across methods, with a stricture and stone recurrence rate of 2.94%"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Postoperative complications included pulmonary issues (22%) and wound infections (20%)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

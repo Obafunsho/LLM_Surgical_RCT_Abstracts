@@ -1,0 +1,74 @@
+{
+  "pmcid": "11685783",
+  "sha256": "46161bd70e6d02603e74548ca91ce2138a380062c6995cdc579d72c1b458bebd",
+  "timestamp_utc": "2025-11-09T15:22:07.878009+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.969681558935363,
+    "reading_ease": 28.764002693282663,
+    "word_count": 263
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This is a retrospective study that compares minimal invasive with conventional sternotomy aortic valve surgery in terms of early results."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The patients underwent surgery at the University Hospital Center “Mother Theresa”, Tirana, Albania between July 17, 2017, and July 30, 2024."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aimed to compare the early postoperative results of mini-sternotomy and standard sternotomy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the early postoperative results of mini-sternotomy and standard sternotomy."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Key outcomes included early mortality, perioperative complications, and intraoperative and postoperative recovery times."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The study included 168 patients (95 males, 73 females) with a mean age of 62 ± 12.5 years."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The study included 168 patients (95 males, 73 females) with a mean age of 62 ± 12.5 years."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The minimally invasive group had shorter intensive care unit (ICU) stay (39.92 ± 8.62 hours vs. 55.96 ± 32.56 hours, p < 0.001) and mechanical ventilation assistance duration (5.82 ± 2.44 hours vs. 10.41 ± 14.68 hours, p = 0.030)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no significant differences in mortality and incidence of perioperative complications between the two groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

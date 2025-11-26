@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Minimally Invasive Interventional Radiological Techniques in Colorectal Cancer Metastases"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, with allocation concealment through sealed envelopes."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were patients with colorectal cancer liver metastases unsuitable for surgical resection."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group underwent portal vein embolization, radioembolization, or ablation, while the control group received standard chemotherapy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the efficacy of minimally invasive interventional radiological techniques as alternative treatments."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the increase in future liver remnant volume (FLR) over a 6-month period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, with allocation concealment through sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group, recruited between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 98 participants in the intervention group and 97 in the control group, following an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group demonstrated a significant increase in FLR (mean difference = 15%, 95% CI 10% to 20%; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 5% in the intervention group and 3% in the control group experiencing minor complications."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01234567"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by the National Cancer Institute."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Six\u2010month data are presented from a randomized trial evaluating whether IBBR with ADM provides higher health\u2010related quality of life (HRQoL) and patient\u2010reported cosmetic outcomes compared with conventional IBBR without ADM."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this multicentre open\u2010label RCT, women with breast cancer planned for mastectomy with immediate IBBR in four centres in Sweden and one in the UK were allocated randomly (1\u2009:\u20091) to IBBR with or without ADM."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "women with breast cancer planned for mastectomy with immediate IBBR in four centres in Sweden and one in the UK"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "allocated randomly (1\u2009:\u20091) to IBBR with or without ADM"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluating whether IBBR with ADM provides higher health\u2010related quality of life (HRQoL) and patient\u2010reported cosmetic outcomes compared with conventional IBBR without ADM."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "HRQoL, a secondary endpoint, was measured as patient\u2010reported outcome measures (PROMs) using three validated instruments (EORTC\u2010QLQC30, QLQ\u2010BR23, QLQ\u2010BRR26) at baseline and 6\u2009months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "allocated randomly (1\u2009:\u20091) to IBBR with or without ADM"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "multicentre open\u2010label RCT"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between 24 April 2014 and 10 May 2017, 135 women were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "64 with and 65 without ADM were included in the final analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "cosmetic outcome (8\u00b766, 95 per cent c.i. 0\u00b746 to 16\u00b786; P = 0\u00b7041) and problems finding a well\u2010fitting bra (\u221213\u00b721, \u221225\u00b754 to \u22120\u00b789; P = 0\u00b7038)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT02061527 ( www.clinicaltrials.gov )"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "9983301",
+  "sha256": "345205d699fd196acd7544699a8156108b8111fbce81e16275a38cb3ae58495e",
+  "timestamp_utc": "2025-11-10T00:14:07.090106+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.86096499278878,
+    "reading_ease": 26.178288973384014,
+    "word_count": 263
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Systemic Opioid Analgesics in Neonates Post-Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive opioids or comparators."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "preterm and term infants up to 46 weeks postmenstrual age with postoperative pain"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive opioids or comparators."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the benefits and harms of systemic opioid analgesics compared to placebo, non-pharmacological interventions, different opioids, or other drugs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pain, assessed using validated methods during initial hospitalisation."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Four RCTs with 331 infants were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "For tramadol vs. placebo, RR for mortality was 0.32 (95% CI 0.01 to 7.70)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

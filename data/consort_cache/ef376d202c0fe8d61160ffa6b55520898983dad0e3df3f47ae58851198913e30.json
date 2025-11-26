@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study evaluated the early effects of tourniquet and/or ACB usage on quadriceps strength following TKA."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Primary, elective TKA patients were assigned to one of four groups based on whether they received an ACB and/or tourniquet."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Primary, elective TKA patients were assigned to one of four groups based on whether they received an ACB and/or tourniquet."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Primary, elective TKA patients were assigned to one of four groups based on whether they received an ACB and/or tourniquet."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the early effects of tourniquet and/or ACB usage on quadriceps strength following TKA."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We prospectively measured bilateral, isometric knee extension strength preoperatively and within 36 hours postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Primary, elective TKA patients were assigned to one of four groups based on whether they received an ACB and/or tourniquet."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Measurements were collected for 203 patients: 68, 45, 45, and 45 in the tourniquet/ACB, tourniquet/ no ACB, ACB/no tourniquet, and no tourniquet/ no ACB groups, respectively."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Tourniquet use was associated with shorter operative time (p=0.004), while ACB use was associated with longer lengths of stay (p=0.005)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No patients sustained inpatient falls."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "3944096",
+  "sha256": "49dfc83117dc6270fad483b4c7148abb3c0ccb295d3bfe0eccc5219fc9ad8eac",
+  "timestamp_utc": "2025-11-09T15:56:37.074215+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.544873663751215,
+    "reading_ease": 17.55366942014902,
+    "word_count": 343
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Background: We aimed to determine with this randomized, triple-masked, placebo-controlled study"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Subjects were randomized to receive either perineural ropivacaine 0.4% or normal saline"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "60 subjects undergoing unilateral (n = 24) or bilateral (n = 36) mastectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Subjects were randomized to receive either perineural ropivacaine 0.4% or normal saline"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We aimed to determine with this randomized, triple-masked, placebo-controlled study if benefits are afforded by adding a multiple-day, ambulatory, continuous ropivacaine paravertebral nerve block"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary end point was average pain (scale: 0–10) queried on postoperative day (POD) 1."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Subjects were randomized to receive either perineural ropivacaine 0.4% or normal saline"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "triple-masked"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "60 subjects undergoing unilateral (n = 24) or bilateral (n = 36) mastectomy"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Average pain queried on POD 1 for subjects receiving perineural ropivacaine (n=30)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "95% CI difference in medians, −4.0 – −0.3; P = 0.021"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

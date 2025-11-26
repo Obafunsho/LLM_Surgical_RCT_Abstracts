@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The rationale and design of the Surgical Treatment for Ischemic Heart Failure (STICH) trial is described."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomization of consenting patients with heart failure, left ventricular (LV) ejection fraction \u22640.35, and coronary artery disease is based on whether patients are judged by attending physicians to be candidates only for CABG or for MED or CABG."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Randomization of consenting patients with heart failure, left ventricular (LV) ejection fraction \u22640.35, and coronary artery disease."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients eligible for MED are randomly assigned between MED only and MED with CABG."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "STICH is an NHLBI-funded multicenter international randomized trial addressing 2 specific primary hypotheses."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "STICH is an NHLBI-funded multicenter international randomized trial addressing 2 specific primary hypotheses."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization of consenting patients with heart failure, left ventricular (LV) ejection fraction \u22640.35, and coronary artery disease is based on whether patients are judged by attending physicians to be candidates only for CABG or for MED or CABG."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "STICH is an NHLBI-funded multicenter international randomized trial."
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

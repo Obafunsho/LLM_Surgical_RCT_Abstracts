@@ -1,0 +1,74 @@
+{
+  "pmcid": "12250653",
+  "sha256": "7e16893622379978b52774becc7536890ef772de4086b37404e05ab6470c30ab",
+  "timestamp_utc": "2025-11-09T22:19:47.855709+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.43227586206897,
+    "reading_ease": 26.5903103448276,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Preoperative Vascular Mapping on Long-term RC-AVF Failure"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "110 patients with end-stage kidney disease (ESKD) from 2018 to 2024"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the influence of preoperative vascular mapping on long-term radio-cephalic arteriovenous fistula (RC-AVF) failure"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was long-term RC-AVF failure, assessed over a mean follow-up of 1.98 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Adherence to guidelines was associated with lower long-term failure (HR: 0.44, p = 0.012), but significance was lost after adjusting for cardiovascular risk factors and CVC presence (HR: 0.69, p = 0.328)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

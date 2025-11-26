@@ -1,0 +1,74 @@
+{
+  "pmcid": "7170680",
+  "sha256": "dcd12ae07cb82d7fc46cd426ea13c4f29da4fb96131ecb3eea7ab3fe7915f8ec",
+  "timestamp_utc": "2025-11-09T22:53:47.843714+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.473214285714288,
+    "reading_ease": 13.115535714285727,
+    "word_count": 196
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Antimicrobial Drapes in Primary Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial was conducted"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients over 18 years undergoing primary knee arthroplasty, excluding those with iodine allergy, prior knee surgery, septic arthritis, recent antibiotics, or inability to consent."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "allocated to either the intervention (antimicrobial drape) or control group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of antimicrobial drapes in reducing intraoperative microbial contamination during primary knee arthroplasty."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the proportion of contaminated patients, measured intraoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "non-blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "1659 patients allocated"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "603 in the intervention and 584 in the control group were analysed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Contamination occurred in 10% of the intervention group versus 15% in the control group (odds ratio 0.61 [95% CI 0.43 to 0.87]; p = 0.005)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

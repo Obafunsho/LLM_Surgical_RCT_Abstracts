@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomized 18 patients scheduled for a TKA into two groups, A and B."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The first assistant then cut the popliteus tendon in Group A patients but not in Group B patients."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purposes of this study were to (1) evaluate the effect of resecting the popliteus tendon on knee ligament balancing in extension and flexion intraoperatively during posterior stabilized TKA; and (2) evaluate the effect of resecting the popliteus tendon on load distribution on the tibial plateau as determined by an in vitro single limb stance model during TKA."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomized 18 patients scheduled for a TKA into two groups, A and B."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Once component trials were in place, the senior surgeon removed himself from the operating table to allow for a blinded trial."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomized 18 patients scheduled for a TKA into two groups, A and B."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The senior surgeon was unable to detect a difference in the knee stability between knees with transected popliteal tendons and those with intact popliteal tendons."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12366594",
+  "sha256": "cf1bf37c72eebdbe455fb485fc7da483740750fa0b5131ddf69dc4911a0b8a73",
+  "timestamp_utc": "2025-11-09T23:34:47.617389+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.330927536231883,
+    "reading_ease": 25.08943478260875,
+    "word_count": 276
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Near-Infrared Light Device for Peripheral Venous Catheter Placement in ICU Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 380 patients were randomised in a 1:1 ratio"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included adult ICU patients with an existing CVC no longer indicated."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised in a 1:1 ratio to either the near-infrared light device or the landmark approach"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether a near-infrared light device (AccuVein AV500) improves the first-attempt success rate of PVC placement compared to the landmark approach."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the first-attempt success rate of PVC placement, measured immediately after the attempt."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a centralised web-based system"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "blinding was not possible due to the nature of the intervention"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 380 patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis will be conducted on a modified intention-to-treat basis"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Results: The trial is ongoing, and results are not yet available."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Results: The trial is ongoing, and results are not yet available."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Clinicaltrials.gov: NCT06234293."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study is sponsored by the Hospital University Centre of Orléans, France."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

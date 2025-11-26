@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Disability Rating Scale as a Predictor of Long-term Outcome in Severe Traumatic Brain Injury"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either erythropoietin or placebo."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included adults with severe TBI, and the study was conducted in multiple trauma centers."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either erythropoietin or placebo."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the Disability Rating Scale (DRS) as a predictor of favorable 6-month Glasgow Outcome Scale extended (GOS-E)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "DRS was measured weekly from weeks 1 to 4 post-injury, and GOS-E was assessed at 6 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 200 participants, 100 were randomised to each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The model incorporating baseline demographic and injury severity variables with week 1 DRS had an area under the receiver operating characteristic curve of 0.82, increasing to 0.88 with weekly DRS until week 4."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

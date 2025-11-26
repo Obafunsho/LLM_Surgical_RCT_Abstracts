@@ -1,0 +1,74 @@
+{
+  "pmcid": "3734419",
+  "sha256": "cc7904d32eeca9b80e3a2126fe25109e83699974b3b8e8875c212fde5e83d43d",
+  "timestamp_utc": "2025-11-09T23:49:56.360416+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.006364487731787,
+    "reading_ease": 42.494146843978285,
+    "word_count": 281
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Standard and Long Intramedullary Hip Nails for Reverse Obliquity Fractures"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were patients aged 67-95 years with reverse obliquity fractures of the proximal femur."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients aged 67-95 years with reverse obliquity fractures of the proximal femur."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised to receive either standard or long (≥34 cm) intramedullary hip nails."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was reoperation rate due to fixation failure, assessed over a minimum follow-up of 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured by sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not applied to patients or clinicians."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty-three patients were randomised: 15 to standard nails and 18 to long nails."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was conducted per-protocol."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Reoperation rates showed no significant difference between groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Two patients in the long-nail group required revision surgery due to implant failure and deep infection."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not disclosed."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

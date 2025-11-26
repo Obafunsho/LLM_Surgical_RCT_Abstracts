@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of US-Guided Steroid Injections in de Quervain Disease"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "50 patients with de Quervain disease and complete intracompartmental septum were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "50 patients with de Quervain disease and complete intracompartmental septum"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive US-guided injections in both subcompartments (n = 25) or the EPB subcompartment alone (n = 25)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to compare the efficacy and safety of US-guided steroid injections"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pain reduction measured by VAS score at 6 weeks"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "50 patients with de Quervain disease and complete intracompartmental septum were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean difference -0.08, 95% CI -4.08 to 3.91; p = 0.97"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Skin hypopigmentation was less frequent in the EPB group (33% vs. 67%; odds ratio 0.25, 95% CI 0.08 to 0.83; p = 0.02)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11860008",
+  "sha256": "529636847aa61a61beea4585721143d2b40c765e5281e520f0495f97e96c1509",
+  "timestamp_utc": "2025-11-09T23:21:42.423450+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.275257034632038,
+    "reading_ease": 11.261456980519483,
+    "word_count": 231
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of a Dynamic Age-Dependent PBPK Model for Drug Pharmacokinetics"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "The study setting was virtual, involving 1000 simulated individuals."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Four CYP3A substrates—midazolam, fentanyl, alfentanil, and sufentanil—served as model drugs."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to develop a dynamic age-dependent physiologically based pharmacokinetic (PBPK) model to predict drug pharmacokinetics across different ages."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the prediction accuracy of plasma concentrations, measured over a simulated timeframe."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not used as this was a simulation study."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study setting was virtual, involving 1000 simulated individuals."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Observed plasma concentrations mostly fell within the 5th–95th percentile of predicted values in 1000 virtual individuals."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

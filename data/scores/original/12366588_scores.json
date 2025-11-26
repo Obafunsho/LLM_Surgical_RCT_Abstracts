@@ -1,0 +1,74 @@
+{
+  "pmcid": "12366588",
+  "sha256": "c86e24eb175f56bb96463430f26411b9c0a55beb0b97b35c2b502b483a167a1e",
+  "timestamp_utc": "2025-11-09T15:38:20.968495+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.48375,
+    "reading_ease": 34.62268714689267,
+    "word_count": 295
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Design: Prospective observational study."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A total of 102 older adults who were scheduled for elective gastrointestinal surgery were included in the study."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study was designed to compare the predictive effects of carotid ultrasound measurements and inferior vena cava (IVC) ultrasound measurements on postinduction hypotension (PIH) in older patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Patients were divided into hypotensive and non-hypotension group according to whether the systolic blood pressure (SBP) decreased more than 30% from the baseline or the absolute value of SBP was less than 90 mm Hg within 15 min after anaesthesia induction."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 102 older adults who were scheduled for elective gastrointestinal surgery were included in the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The area under the receiver operating characteristics curve (AUROC) of FTc(W), FTc(B) and △Vpeak for predicting PIH were 0.815, 0.691 and 0.713; the optimal cut-off values were 334.7 ms, 348.3 ms and 6.35%, respectively."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration number: ChiCTR2100054532."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

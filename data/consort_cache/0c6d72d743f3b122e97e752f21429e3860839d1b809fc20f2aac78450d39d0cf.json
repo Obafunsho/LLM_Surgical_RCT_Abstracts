@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Fibrinogen Concentrates in Dilutional Coagulopathy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either fibryga\u00ae or Haemocomplettan\u00ae at doses of 50 or 100 mg/kg."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either fibryga\u00ae or Haemocomplettan\u00ae at doses of 50 or 100 mg/kg."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was clotting time (CT) and maximum clot firmness (MCF) measured by rotational thromboelastometry (ROTEM\u00ae)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 samples were randomised, 100 to each group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on all samples using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Substitution with HES showed no difference between preparations, except for shorter thrombin time with fibryga\u00ae (p = 0.0093)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This study was funded by [source of funding]."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

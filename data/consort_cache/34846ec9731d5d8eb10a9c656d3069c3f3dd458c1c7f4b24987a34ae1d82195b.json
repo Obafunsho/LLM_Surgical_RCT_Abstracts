@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Morphine and Mexiletine for Postamputation Pain"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Sample size calculation was based on detecting a clinically significant difference in pain scores."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "adult patients with postamputation pain of 6 months or longer and greater than 3 on a 0\u201310 numeric pain rating scale."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive morphine, mexiletine, or placebo."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in average pain intensity from the drug-free baseline to the last week of maintenance."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty amputees were randomised;"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "data were analysed from 56 subjects for one drug period, 45 for two, and 35 who completed all three."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean percent pain relief was 19% for placebo, 30% for mexiletine, and 53% for morphine (P < 0.0001, morphine vs. placebo and mexiletine)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Morphine was associated with a higher rate of side effects."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

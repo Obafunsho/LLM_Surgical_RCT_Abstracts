@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "in a randomised crossover design"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "in a randomised crossover design"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "15 medical students and 12 vascular surgeons under stressing conditions"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "music and control"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The effect of music on the psychological (Six-Item State-Trait Anxiety Inventory [STAI-6] and Surgical Taskload Index [SURG-TLX]) and physiological responses (e.g., heart rate variability)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The effect of music on the psychological (Six-Item State-Trait Anxiety Inventory [STAI-6] and Surgical Taskload Index [SURG-TLX]) and physiological responses (e.g., heart rate variability)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "15 medical students and 12 vascular surgeons"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "SURG-TLX scores from baseline to control (\u039432 [22\u201342]; mean difference [95% confidence interval])"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

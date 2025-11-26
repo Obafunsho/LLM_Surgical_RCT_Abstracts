@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomised clinical trials of off\u2010pump versus on\u2010pump CABG irrespective of language, publication status and blinding were selected for inclusion."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "off\u2010pump versus on\u2010pump CABG"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: To assess the benefits and harms of off\u2010pump versus on\u2010pump CABG in patients with ischaemic heart disease."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Pooled analysis of all trials showed that off\u2010pump CABG increased all\u2010cause mortality compared with on\u2010pump CABG (189/5,180 (3.7%) versus 160/5144 (3.1%); RR 1.24, 95% CI 1.01 to 1.53; P =.04)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Eighty\u2010six trials (10,716 participants) were included."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Pooled analysis of all trials showed that off\u2010pump CABG increased all\u2010cause mortality compared with on\u2010pump CABG (189/5,180 (3.7%) versus 160/5144 (3.1%); RR 1.24, 95% CI 1.01 to 1.53; P =.04)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Pooled analysis of all trials showed that off\u2010pump CABG increased all\u2010cause mortality compared with on\u2010pump CABG (189/5,180 (3.7%) versus 160/5144 (3.1%); RR 1.24, 95% CI 1.01 to 1.53; P =.04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in myocardial infarction, stroke, renal insufficiency, or coronary re\u2010intervention were observed."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

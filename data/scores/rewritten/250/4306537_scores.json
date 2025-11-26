@@ -1,0 +1,74 @@
+{
+  "pmcid": "4306537",
+  "sha256": "6e8d348c3e40c28afe372c32784a8e2dbd34a554e58f207998124eb4d99be545",
+  "timestamp_utc": "2025-11-09T22:42:04.849453+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.03038888888889,
+    "reading_ease": 28.848250000000036,
+    "word_count": 225
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Methylene Blue-Assisted vs. Conventional Lymph Node Harvesting in Gastric Cancer Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants included 60 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included 60 patients with histologically proven adenocarcinoma of the stomach, clinical stage I-III, and planned R0 resection with D1+ or D2 lymphadenectomy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This trial compared the efficiency and quality of conventional and methylene blue-assisted methods."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial compared the efficiency and quality of conventional and methylene blue-assisted methods."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the ratio of harvested LNs per minute, measured during surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Patients were randomised using a centralized dynamic method, stratified by lymphadenectomy type, gastrectomy type, and surgical experience."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between August and December 2012, 60 patients were randomised: 29 to the conventional method and 31 to the methylene blue method."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "All patients were analysed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The methylene blue arm showed a higher mean number of harvested LNs (43.4±13.9) compared to the conventional arm (33.6±11.9; p=0.005). The primary outcome ratio was also higher in the methylene blue arm (1.49±0.59 LNs/min) than in the conventional arm (1.12±0.46 LNs/min; p=0.010)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: UMIN000008624."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

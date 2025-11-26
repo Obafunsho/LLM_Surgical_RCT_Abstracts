@@ -1,0 +1,26 @@
+{
+  "pmcid": "3320770",
+  "pmid": "22202581",
+  "title": "Assessment of Prognostic Circulating Tumor Cells in a Phase III Trial of Adjuvant Immunotherapy After Complete Resection of Stage IV Melanoma",
+  "abstract": "Objective: To verify circulating tumor cell (CTC) prognostic utility in stage IV resected melanoma patients in a prospective international phase III clinical trial.\n\nSummary Background Data: Our studies of melanoma patients in phase II clinical trials demonstrated prognostic significance for CTCs in patients with AJCC stage IV melanoma. CTCs were assessed to determine prognostic utility in follow-up of disease-free stage IV patients pre- and during treatment.\n\nMethods: After complete metastasectomy, patients were prospectively enrolled in a randomized trial of adjuvant therapy with a whole-cell melanoma vaccine plus Bacille Calmette-Guerin (BCG) vs. placebo plus BCG. Blood specimens obtained pretreatment (n=244) and during treatment (n=214) were evaluated by quantitative real-time reverse-transcriptase polymerase chain reaction (qPCR) for expression of MART-1, MAGE-A3 and PAX3 mRNA biomarkers. Univariate and multivariate Cox analyses examined CTC biomarker expression with respect to clinicopathological variables.\n\nResults: CTC biomarker(s) (≥1) was detected in 54% of patients pretreatment and in 86% of patients over the first 3 months. With a median follow-up of 21.9 months, 71% of patients recurred and 48% expired. CTC levels were not associated with known prognostic factors or treatment arm. In multivariate analysis, pretreatment CTC (>0 vs. 0 biomarker) status was significantly associated with disease-free survival (DFS) (HR 1.64, p=0.002) and overall survival (OS) (HR 1.53, p=0.028). Serial CTC (>0 vs. 0 biomarker) status was also significantly associated with DFS (HR 1.91, p=0.02) and OS (HR 2.57, p=0.012).\n\nConclusion: CTC assessment can provide prognostic discrimination before and during adjuvant treatment for resected stage IV melanoma patients. Study registration ID# NCT00052156 .",
+  "authors": [
+    "Sojun Hoshimoto",
+    "Mark B. Faries",
+    "Donald L. Morton",
+    "Tatsushi Shingai",
+    "Christine Kuo",
+    "He-jing Wang",
+    "Robert Elashoff",
+    "Nicola Mozzillo",
+    "Mark C. Kelley",
+    "John F. Thompson",
+    "Jeffrey E. Lee",
+    "Dave S.B. Hoon"
+  ],
+  "journal": "Annals of Surgery",
+  "year": "2012",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

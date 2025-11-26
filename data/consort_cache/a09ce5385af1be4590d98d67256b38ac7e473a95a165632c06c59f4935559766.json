@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of antibiotic-impregnated shunt catheters (AISC) in reducing the incidence of bacterial shunt infection in patients with hydrocephalus."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the rate of bacterial infections, whereas the rate of shunt failure was our secondary endpoint."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 27 articles with 27\u2009266 shunt operations were included in this study."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The results indicated that using AISC is significantly associated with reduction in infections (OR = 0.42; 95% CI: 0.33-0.54)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The protocol was registered on PROSPERO."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12386931",
+  "sha256": "7a70766868b001bdeafce29ec6a2ba659ac1349648ce4704a7d25c9d87f80df2",
+  "timestamp_utc": "2025-11-09T15:39:21.042367+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.313893387314444,
+    "reading_ease": 24.049454565901954,
+    "word_count": 247
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "opioid-sparing (OS) group receiving PVB and ketamine (n = 41), and the control group (n = 21) treated with postoperative morphine infusion"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We evaluated the efficacy of a perioperative multimodal analgesia protocol incorporating paravertebral block (PVB) and ketamine infusion in patients undergoing video-assisted thoracic surgery (VATS)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the need for rescue opioid therapy; secondary outcomes included postoperative pain scores assessed at multiple time points over 48 h using the numeric rating scale (NRS)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "opioid-sparing (OS) group receiving PVB and ketamine (n = 41), and the control group (n = 21)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Rescue opioid administration was significantly lower in the OS group (19.5% vs. 47.6%, p = 0.021)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No differences in haemodynamics were reported, nor were there any ketamine/PVB-related complications."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

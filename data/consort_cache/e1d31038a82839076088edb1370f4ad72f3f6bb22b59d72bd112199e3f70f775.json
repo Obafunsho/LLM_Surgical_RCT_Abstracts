@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Direct Anterior and Direct Lateral Approaches in Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 164 patients with end-stage osteoarthritis were recruited"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "164 patients with end-stage osteoarthritis were recruited from January 2012 to June 2013"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either the direct anterior or direct lateral approach"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compares these approaches regarding patient-reported outcomes, abductor weakness, and major complications."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Harris hip score (HHS) measured at 3, 6, 12, and 24 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Assessors were blinded to the surgical approach."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "164 patients with end-stage osteoarthritis were recruited from January 2012 to June 2013"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "One hundred fifty-four patients (94%) completed the 2-year follow-up, with five patients from each group lost to follow-up. Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "A higher proportion of patients had a positive Trendelenburg test at 24 months in the lateral approach group (16% [12 of 75] vs. 1% [one of 79]; odds ratio, 15; p = 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Four major nerve injuries occurred in the anterior group (three transient femoral nerve injuries and one persistent tibial nerve injury), with none in the lateral group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized controlled study of temporary BiVP after cardiopulmonary bypass"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Cardiac surgical patients at risk of left ventricular failure after cardiopulmonary bypass."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Temporary BiVP was optimized immediately after cardiopulmonary bypass."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: Atrioventricular conduction prolongation (AVCP) in cardiac pacing is measurable and results primarily from delayed atrial conduction."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "For each patient the AVCP and the pAVD producing the optimum (highest) cardiac output (OptCO) and mean arterial pressure (OptMAP) were determined."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "short-AVCP group (<64 ms, n = 3), AVCP, OptCO, and OptMAP were 40 \u00b1 11, 120 \u00b1 0, and 150 \u00b1 30 ms, respectively, and for the long-AVCP group (>64 ms, n = 4)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "OptCO and OptMAP were significantly less in the short-AVCP group ( p = 0.015 and p = 0.029, respectively)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

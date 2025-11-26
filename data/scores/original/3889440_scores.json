@@ -1,0 +1,74 @@
+{
+  "pmcid": "3889440",
+  "sha256": "c1e5a8a4249353b3d74735570374d3d833035adcca3d3bdd63c29a2ea33a8053",
+  "timestamp_utc": "2025-11-09T15:55:57.316785+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.47461206896552,
+    "reading_ease": 37.90846982758623,
+    "word_count": 290
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Two hundred patients undergoing TKA were randomized into a double-blind clinical trial"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Two hundred patients undergoing TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "to receive either intraarticular fibrinogen 2 minutes before tourniquet release or no such treatment"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "It was hypothesized that the use of human fibrinogen as a topical agent would result in a reduction of bleeding and transfusions required after TKA"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Postoperative hemoglobin and hematocrit levels, drain output, and transfusion requirements were recorded and blood loss was calculated"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Two hundred patients undergoing TKA were randomized into a double-blind clinical trial"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind clinical trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Two hundred patients undergoing TKA"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the mean postoperative drain output was 780 ± 378 mL in the fibrinogen group compared with 673 ± 301 mL in the control group (p = 0.029)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Clinical outcomes and adverse events were tracked prospectively"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

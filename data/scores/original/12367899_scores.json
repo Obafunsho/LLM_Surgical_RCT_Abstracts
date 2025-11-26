@@ -1,0 +1,74 @@
+{
+  "pmcid": "12367899",
+  "sha256": "364c193bd3c0fcb67f36dbdec6f25283196b2702ccc20750a218fd3ecfb32c6b",
+  "timestamp_utc": "2025-11-09T15:38:28.049608+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.852710622710628,
+    "reading_ease": 13.93038461538464,
+    "word_count": 156
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This retrospective cohort study included infants with CHD and cEEG monitoring, who underwent surgery by 44 weeks gestational age."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: This study aims to assess the role of continuous EEG (cEEG) background patterns and duration of cross-clamp time and cardiopulmonary bypass (CPB) in children with congenital heart disease (CHD) undergoing cardiac surgery and its correlation with abnormal neurodevelopmental outcomes at 12–24 months on Bayley Scales of Infant and Toddler Development (BSID-III)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "34 patients were included, who were operated at median age − 7 days."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Longer duration of cross- camp time was associated with poor language composite scores (LCS) (p value = 0.036). A significant association existed between severity of encephalopathy in 24-hour post-operative period and poor LCS (p value = 0.026)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

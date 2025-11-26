@@ -1,0 +1,74 @@
+{
+  "pmcid": "12329815",
+  "sha256": "94ab19369e620dad171df40e61f5bd89bfc4cc898fddae6f7d9b16f1f824a33f",
+  "timestamp_utc": "2025-11-09T23:33:25.442297+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.921503861003863,
+    "reading_ease": 32.656773166023186,
+    "word_count": 259
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intraperitoneal Chemotherapy with Raltitrexed in Stage III Colorectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to the observation group, receiving IPC with raltitrexed during laparoscopic radical resection, or the control group, receiving standard surgery without IPC."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A total of 195 patients with stage III CRC, aged 18 to 80, were recruited from The First Affiliated Hospital of Wenzhou Medical University between June 2017 and June 2018. Eligibility criteria included pathologically confirmed stage III CRC without prior neoadjuvant chemotherapy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned to the observation group, receiving IPC with raltitrexed during laparoscopic radical resection, or the control group, receiving standard surgery without IPC."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the impact of intraperitoneal chemotherapy (IPC) with raltitrexed on survival outcomes in patients with stage III colorectal cancer (CRC)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was progression-free survival (PFS), defined as the time from surgery to disease progression or death."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 195 patients, 100 were randomised to the observation group and 95 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "All participants were included in the analysis using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The observation group demonstrated significantly improved PFS (χ² = 5.416, p = 0.020) and OS (χ² = 4.673, p = 0.031) compared to the control group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Acetaminophen for Prevention of Acute Kidney Injury in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adult cardiac surgery patients"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "7,833 receiving acetaminophen and 3,750 in the control group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate whether perioperative acetaminophen administration reduces the risk of postoperative AKI in adult cardiac surgery patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of postoperative AKI, measured within the hospital stay."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation methods and allocation concealment were not specified in the included studies."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding of outcome assessors, patients, and clinicians varied across studies."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 11,583 patients were analysed"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 11,583 patients were analysed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Acetaminophen administration was associated with a lower incidence of AKI [OR 0.62 (95% CI 0.40\u20130.97), P = 0.04]."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The study was registered under PROSPERO (CRD42024514111)."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "There was no funding source for this study."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

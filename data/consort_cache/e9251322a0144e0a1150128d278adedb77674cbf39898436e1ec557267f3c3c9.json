@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Remote Ischemic Preconditioning and Anesthetic-Induced Preconditioning in Rabbit Hearts"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a randomised controlled trial, 24 male New Zealand White rabbits were allocated to four groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "24 male New Zealand White rabbits were allocated to four groups"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The rIPC group underwent four cycles of 5-minute hind limb ischemia and reperfusion. The APC group received 2.5 vol% sevoflurane for 20 minutes, followed by a 20-minute washout."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates their combined effect on myocardial protection."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was myocardial infarction size after 30 minutes of global ischemia and 2 hours of reperfusion, assessed using TTC staining."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "24 male New Zealand White rabbits were allocated to four groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Both rIPC and APC significantly reduced myocardial infarction size by over 50% compared to controls (rIPC: 12.1\u00b11.7%; APC: 13.5\u00b12.1%; control: 31.3\u00b13.0%; P<0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

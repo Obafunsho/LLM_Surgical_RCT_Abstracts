@@ -1,0 +1,74 @@
+{
+  "pmcid": "12255066",
+  "sha256": "ab41b482ea2c71531e942dcecf55a21eb5f47020c7d5da3da628e175579d8cac",
+  "timestamp_utc": "2025-11-09T23:31:23.998585+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.771548250265116,
+    "reading_ease": 8.208181336161175,
+    "word_count": 246
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study investigates the impact of sarcopenia on postoperative delirium and perioperative outcomes in elderly surgical patients."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria encompassed studies on elderly patients (aged 60 and above) undergoing surgery, with sarcopenia diagnosed using validated criteria."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the impact of sarcopenia on postoperative delirium and perioperative outcomes in elderly surgical patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of postoperative delirium, with secondary outcomes including other complications and recovery metrics."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Sarcopenia was significantly associated with postoperative delirium (univariable: OR 1.81, 95% CI 1.31 to 2.50, P < 0.001; multivariable: OR 2.42, 95% CI 1.27 to 4.59, P = 0.007)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Systematic review registration: PROSPERO CRD42023424696 (18 May 2023)."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

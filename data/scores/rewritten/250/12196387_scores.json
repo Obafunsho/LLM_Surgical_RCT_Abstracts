@@ -1,0 +1,74 @@
+{
+  "pmcid": "12196387",
+  "sha256": "22aecc8f9fb868b7f271a1175f65137d37f0981e9c71ede489bfdb12713b9524",
+  "timestamp_utc": "2025-11-09T22:18:21.246009+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.443213521608904,
+    "reading_ease": 21.74220154043644,
+    "word_count": 246
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Cardioprotective Effects of Ginsenosides Against Anthracycline-Induced Cardiotoxicity"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised controlled trial was conducted to evaluate the efficacy of ginsenosides in preventing AIC."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were eligible if they were undergoing anthracycline treatment and met specific inclusion criteria. The study was conducted in a clinical setting."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either ginsenosides or a placebo."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted to evaluate the efficacy of ginsenosides in preventing AIC."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in left ventricular ejection fraction (LVEF) over six months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was applied to patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised, with 100 in the ginsenoside group and 100 in the placebo group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the ginsenoside group and 97 in the placebo group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The ginsenoside group showed a significant improvement in LVEF compared to placebo (mean difference = 5.2%, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in the ginsenoside group and 1% in the placebo group experiencing gastrointestinal side effects."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The trial was funded by [source of funding]."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Oral Vinorelbine in Concurrent Chemoradiotherapy for Locally Advanced NSCLC"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A multicenter randomised controlled trial was conducted."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants aged 65 years or older with stage III NSCLC were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised participants to receive either oral vinorelbine with cisplatin and radiotherapy or standard cisplatin-based CCRT."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the role of oral vinorelbine in concurrent chemoradiotherapy (CCRT) for elderly patients with locally advanced non-small cell lung cancer (NSCLC), aiming to improve efficacy and reduce toxicity compared to standard cisplatin-based regimens."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was overall response rate (ORR) at 3 months post-treatment."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not applied to patients or clinicians, but outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the intervention group and 97 in the control group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The ORR was 54% in the intervention group compared to 37% in the control group (p = 0.02)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included grade 3 neutropenia in 9% of the intervention group and 4% in the control group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This study was funded by the National Cancer Institute."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

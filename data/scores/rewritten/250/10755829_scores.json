@@ -1,0 +1,74 @@
+{
+  "pmcid": "10755829",
+  "sha256": "53dd49d700d78e0c3eacfd1ec068e5cfe94e46acaec6c86069775637e8e4b86c",
+  "timestamp_utc": "2025-11-09T21:56:31.045535+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.215400000000002,
+    "reading_ease": 22.578700000000026,
+    "word_count": 250
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Arrhythmia Management in Tetralogy of Fallot"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The unit of randomisation was the individual patient. Sample size calculation was based on detecting a clinically significant difference in arrhythmia control."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included ToF patients across various age groups with documented arrhythmias."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either pharmacologic therapy or interventional therapy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to evaluate the effectiveness of different arrhythmia management strategies in ToF patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was arrhythmia control over a 12-month period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the pharmacologic group and 100 to the interventional group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the pharmacologic group and 97 in the interventional group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The interventional group showed a significant improvement in arrhythmia control (mean difference = 5.2, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 3% of the pharmacologic group and 1% of the interventional group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by the National Institutes of Health."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

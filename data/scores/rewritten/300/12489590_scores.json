@@ -1,0 +1,74 @@
+{
+  "pmcid": "12489590",
+  "sha256": "773230fd7c9b27c48106bd28ed159b00e9f58963f9858cc11c4f245bd0335220",
+  "timestamp_utc": "2025-11-09T23:41:34.388094+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.315615006150061,
+    "reading_ease": 26.411913694136956,
+    "word_count": 271
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial on Risk Factors for Postoperative Chronic Opioid Use"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study included 1,108,119 patients aged seven years or older who underwent surgery, survived at least one year, and had no additional surgeries."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to identify risk factors and develop prediction models for postoperative chronic opioid use (PCOU)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was PCOU incidence."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was conducted by an NHIS big data system manager."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study included 1,108,119 patients aged seven years or older who underwent surgery, survived at least one year, and had no additional surgeries."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "PCOU occurred in 9308 patients (0.84%). The gradient boosting model achieved the highest AUROC score of 0.8751, indicating superior predictive performance."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

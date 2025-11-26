@@ -1,0 +1,74 @@
+{
+  "pmcid": "12153937",
+  "sha256": "49c4dc29d2d2c158a3d6efee8e84cb880fc2747146bd96f19410df011648071b",
+  "timestamp_utc": "2025-11-09T15:32:29.012330+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 7.416305826678499,
+    "reading_ease": 64.65861135758652,
+    "word_count": 294
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Purpose: The study aimed to assess pharmacokinetics and safety of two oxycodone/naloxone prolonged-release tablet formulations in the Chinese population."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized, open-label, two-period crossover clinical trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study was conducted in 36 Chinese patients with chronic pain in both fasting and fed states."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "two oxycodone/naloxone prolonged-release tablet formulations"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study aimed to assess pharmacokinetics and safety of two oxycodone/naloxone prolonged-release tablet formulations in the Chinese population."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "No serious adverse events were reported."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study was conducted in 36 Chinese patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the mean (± standard deviation, SD) peak concentration (C max ), area under concentration–time curve from time 0 to the last measurable concentration (AUC 0–t ) and to infinite time (AUC 0–∞ ), and elimination half-life (t 1/2 ) of oxycodone for the brand-name and generic formulations were 50.9 ± 10.9 and 52.1 ± 9.58 ng/mL, 577 ± 148 and 554 ± 104 h*ng/mL, 579 ± 150 and 556 ± 104 h*ng/mL, and 5.17 ± 0.834 and 5.10 ± 0.877 h, respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No serious adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

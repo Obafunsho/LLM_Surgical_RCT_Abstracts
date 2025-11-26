@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "25 patients with PD were randomised to either cZi DBS or best medical treatment."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either cZi DBS or best medical treatment."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to evaluate objectively the effect of cZi DBS in patients with Parkinson\u2019s disease (PD)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were differences between the groups in the motor scores of the Unified Parkinson\u2019s Disease Rating Scale (UPDRS-III) rated single-blindly at 6\u2009months and differences in the Parkinson\u2019s Disease Questionnaire 39 items (PDQ-39)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "rated single-blindly at 6\u2009months"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "25 patients with PD were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "19 patients, 10 in the medical arm and 9 in the DBS arm, fulfilled the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The DBS group had 41% better UPDRS-III scores off-medication on-stimulation compared with baseline, whereas the scores of the non-surgical patients off-medication were unchanged."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The clinical data of 195 patients with stage III CRC admitted to The First Affiliated Hospital of Wenzhou Medical University from June 2017 to June 2018 were retrospectively analyzed."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients in the observation group were treated with intraperitoneal perfusion chemotherapy during the operation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Investigate the survival of patients with stage III colorectal cancer (CRC) treated with immediate postoperative intraperitoneal chemotherapy."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The local recurrence, abdominal cavity metastasis, and liver metastasis were followed up, and the time of disease recurrence and total survival were recorded."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The clinical data of 195 patients with stage III CRC admitted to The First Affiliated Hospital of Wenzhou Medical University from June 2017 to June 2018 were retrospectively analyzed."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The survival analysis showed that there was a significant difference in progression-free survival (\u03c7 2 = 5.416, P = 0.020) and overall survival (\u03c7 2 = 4.673, P = 0.031) between the observation group and the control group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

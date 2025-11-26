@@ -1,0 +1,74 @@
+{
+  "pmcid": "3276362",
+  "sha256": "38d80c5c266077dc040d3a8255f3cf15f8b42a1bee4caf0ede0703634a19b5b8",
+  "timestamp_utc": "2025-11-09T22:36:31.073587+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.774960806271,
+    "reading_ease": 39.84105263157895,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: This study aimed to characterize the inflammatory and coagulopathic response after endovascular thoracoabdominal aortic aneurysm (TAAA) repair and evaluate its effect on post-operative renal function."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Methods: A single-center, prospective cohort study was conducted from July 2005 to June 2008."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Forty-two patients undergoing elective endovascular TAAA repair with custom-designed multi-branched stent-grafts were enrolled."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Forty-two patients undergoing elective endovascular TAAA repair with custom-designed multi-branched stent-grafts were enrolled."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to characterize the inflammatory and coagulopathic response after endovascular thoracoabdominal aortic aneurysm (TAAA) repair and evaluate its effect on post-operative renal function."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "White blood cell count (WBC), platelet count, prothrombin time (PT), and creatinine were measured in all patients."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Forty-two patients undergoing elective endovascular TAAA repair with custom-designed multi-branched stent-grafts were enrolled. Four patients were excluded, leaving 38 for analysis."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Four patients were excluded, leaving 38 for analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The 30-day mortality rate was 5% (2/38). All patients had increased WBC (139 ± 80%, P<0.0001), decreased platelet count (56 ± 15%, P<0.0001), and increased PT (median: 17%, IQR 12 - 22%, P<0.0001) post-procedure."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

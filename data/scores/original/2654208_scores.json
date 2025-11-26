@@ -1,0 +1,74 @@
+{
+  "pmcid": "2654208",
+  "sha256": "a1c8b64025d9f1d205105fd746f7cbe4d614fc015eb3e65df90ff31e0b228e22",
+  "timestamp_utc": "2025-11-09T15:49:17.226529+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.549757575757578,
+    "reading_ease": 36.43463636363637,
+    "word_count": 264
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "double-blind, randomized, placebo-controlled, crossover study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adult patients with postamputation pain of 6 months or longer and greater than 3 on a 0–10 numeric pain rating scale"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Each of the three treatment periods (morphine, mexiletine, or placebo)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome measure was change in average pain intensity from the drug-free baseline to the last week of maintenance."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty amputees were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "data were analyzed from 56 subjects for one drug period, 45 subjects for two drug periods, and 35 subjects who completed all three drug periods"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Morphine treatment provided lower pain scores compared with placebo and mexiletine ( P = 0.0003). The mean percent pain relief during treatment with placebo, mexiletine, and morphine was 19, 30, and 53%, respectively ( P < 0.0001, morphine vs. placebo and mexiletine)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Treatment with morphine was associated with a higher rate of side effects."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

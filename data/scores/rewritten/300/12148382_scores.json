@@ -1,0 +1,74 @@
+{
+  "pmcid": "12148382",
+  "sha256": "962e4d3ef4db7e0a9b7fbe8c7105923f83bc839405497512cbec41b86a73328e",
+  "timestamp_utc": "2025-11-09T23:28:21.102550+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.582735080378772,
+    "reading_ease": 34.42469059678484,
+    "word_count": 239
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Electrocoagulation vs. Radiofrequency Ablation for Great Saphenous Vein: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial was conducted"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Fifty-seven adults with primary chronic venous insufficiency were randomly assigned"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to EA or RFA"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the long-term efficacy and safety of electrocoagulation ablation (EA) compared to radiofrequency ablation (RFA) for the great saphenous vein (GSV)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was GSV occlusion, assessed via duplex ultrasound at 1 week, 3 months, 6 months, and annually."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly assigned to EA or RFA using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "blinding was maintained for patients and outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From November 2014 to May 2016, 57 patients were randomised: 28 to EA and 29 to RFA."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "57 patients were randomised: 28 to EA and 29 to RFA."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "occlusion rates were 89.7% for EA and 66.7% for RFA (P = .001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar, with no procedure-related complications reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02139085."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Dante Pazzanese Institute."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

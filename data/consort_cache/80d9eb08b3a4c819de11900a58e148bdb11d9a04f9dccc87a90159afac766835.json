@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Mini-Subvastus and Standard Medial Parapatellar Approaches in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The unit of randomisation was the individual patient, with a sample size determined to detect clinically meaningful differences."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial involved 40 patients undergoing TKA, randomised to either a mini-subvastus or standard medial parapatellar approach."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either a mini-subvastus or standard medial parapatellar approach."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Participants were evaluated preoperatively and 2 months postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded, but patients and clinicians were not."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial involved 40 patients undergoing TKA."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant differences were found between groups in KSS, SF-12, KOOS, UCLA activity, patient milestone diary, isometric strength, or gait parameters, except for a marginally higher stair ascent speed in the MIS group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

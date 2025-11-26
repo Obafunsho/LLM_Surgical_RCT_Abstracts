@@ -1,0 +1,74 @@
+{
+  "pmcid": "8092672",
+  "sha256": "322d254d66882c78a7bfa92ca524a4c995c9ced61af44a71204d2200d852ea22",
+  "timestamp_utc": "2025-11-09T16:16:31.201745+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.351209912536444,
+    "reading_ease": 44.346556963444755,
+    "word_count": 686
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We included randomized controlled trials of adults undergoing SWL."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants in the intervention group had to have received an alpha‐blocker as adjuvant medical expulsive therapy plus usual care. For the comparator group, we considered studies in which participants received placebo."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: To assess the effects of alpha‐blockers as adjuvant medical expulsive therapy plus usual care compared to placebo and usual care or usual care alone in adults undergoing shock wave lithotripsy for renal or ureteral stones."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Alpha‐blockers may improve clearance of stone fragments after SWL (risk ratio (RR) 1.16, 95% confidence interval (CI) 1.09 to 1.23; I² = 78%; studies = 36; participants = 4084; low certainty evidence)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We included 40 studies with 4793 participants randomized to usual care and an alpha‐blocker versus usual care alone."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Alpha‐blockers may improve clearance of stone fragments after SWL (risk ratio (RR) 1.16, 95% confidence interval (CI) 1.09 to 1.23; I² = 78%; studies = 36; participants = 4084; low certainty evidence)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Alpha‐blockers may reduce major adverse events (RR 0.60, 95% CI 0.46 to 0.80; I² = 0%; studies = 7; participants = 747; low certainty evidence)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

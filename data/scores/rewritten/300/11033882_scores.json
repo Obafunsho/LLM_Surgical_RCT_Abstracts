@@ -1,0 +1,74 @@
+{
+  "pmcid": "11033882",
+  "sha256": "19a9aca2a27c6288ab582cc454871b496a9b1cb65e950137e01b12c5ed188a13",
+  "timestamp_utc": "2025-11-09T23:11:38.777936+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.378775510204083,
+    "reading_ease": 19.923129251700715,
+    "word_count": 245
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Remote Ischemic Preconditioning in Reducing Postoperative Cognitive Dysfunction"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were adults undergoing coronary artery bypass grafting (CABG) with RIPC."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Eligible participants were adults undergoing coronary artery bypass grafting (CABG) with RIPC."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of remote ischemic preconditioning (RIPC) in reducing neurocognitive dysfunction in patients undergoing CPB surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of POCD, assessed up to 12 months postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation and allocation concealment were adequately reported in all studies."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was maintained for participants and personnel."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Five RCTs with a total of 1,843 participants were included."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was conducted using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "RIPC was not associated with a significant reduction in the incidence of POCD (OR = 0.79, 95% CI = 0.56–1.11) or improvement in cognitive function (OR = 0.80, 95% CI = 0.50–1.27)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42023430880."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study received no financial support."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

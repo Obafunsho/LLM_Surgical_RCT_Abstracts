@@ -1,0 +1,74 @@
+{
+  "pmcid": "1388094",
+  "sha256": "fb7a3613937e3ad150f7155d871b888df9a97720fdd304f4787141c3f5d2d37b",
+  "timestamp_utc": "2025-11-09T22:32:04.968080+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.00164772727273,
+    "reading_ease": 18.596761363636375,
+    "word_count": 192
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Supplemental Fluid Administration on Postoperative Wound Infections in Elective Colon Resections"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients undergoing open colon resection were randomly assigned"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients undergoing open colon resection"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "small volume (8 mL·kg⁻¹·h⁻¹, n=124) or large volume (16-18 mL·kg⁻¹·h⁻¹, n=129) fluid management"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether supplemental fluid administration during and after elective colon resections reduces postoperative wound infections."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of surgical wound infections, diagnosed by purulent exudate with culture-positive pathogenic bacteria or CDC criteria, assessed by a blinded observer within 15 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients undergoing open colon resection were randomly assigned"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "assessed by a blinded observer"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "small volume (8 mL·kg⁻¹·h⁻¹, n=124) or large volume (16-18 mL·kg⁻¹·h⁻¹, n=129)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "14 patients developed surgical wound infections, compared to 11 in the large fluid group (P=0.46)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

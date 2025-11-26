@@ -1,0 +1,74 @@
+{
+  "pmcid": "11422119",
+  "sha256": "60969b4fa1fa9e6c18b9f641dcd09236a8e0c5b480fd6369ef0b22caee8a3b51",
+  "timestamp_utc": "2025-11-09T22:03:33.280286+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.021682769726247,
+    "reading_ease": 11.261159420289886,
+    "word_count": 216
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Intraoperative End-Tidal Carbon Dioxide and Recurrence-Free Survival in Pancreatic Cancer Surgery: A Retrospective Cohort Study"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "652 patients undergoing elective pancreatic cancer resection at Heidelberg University Hospital from 2009 to 2016"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were divided into high-EtCO2 and low-EtCO2 groups based on mean intraoperative EtCO2 values"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the association between EtCO2 levels and recurrence-free survival in pancreatic cancer surgery"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was recurrence-free survival"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "652 patients undergoing elective pancreatic cancer resection at Heidelberg University Hospital from 2009 to 2016"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Recurrence-free survival did not differ between groups [HR = 1.043 (95% CI: 0.875–1.243), p = 0.909]"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "secondary outcomes including cardiovascular events, surgical site infections, sepsis, reoperations, and overall survival"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

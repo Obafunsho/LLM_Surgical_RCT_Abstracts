@@ -1,0 +1,74 @@
+{
+  "pmcid": "9090984",
+  "sha256": "29feac70a01c18302bf7858aec7ef80b93216e0a812706bc32577643f449d801",
+  "timestamp_utc": "2025-11-10T00:11:28.246513+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.571524064171125,
+    "reading_ease": 26.95208556149734,
+    "word_count": 272
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of N-acetylcysteine Plus Amiodarone for Prevention of Postoperative Atrial Fibrillation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive N-acetylcysteine plus amiodarone or placebo plus amiodarone."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This double-blind, placebo-controlled trial included 154 patients at high risk of postoperative AF undergoing major thoracic surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive N-acetylcysteine plus amiodarone or placebo plus amiodarone."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine if N-acetylcysteine reduces the incidence of postoperative AF by mitigating inflammation and oxidative stress."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was sustained AF >30 s by telemetry or symptoms requiring intervention confirmed by ECG within 7 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This double-blind, placebo-controlled trial included 154 patients."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Postoperative AF occurred in 15 of 78 patients (19%) receiving N-acetylcysteine and 13 of 76 (17%) receiving placebo."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Postoperative AF occurred in 15 of 78 patients (19%) receiving N-acetylcysteine and 13 of 76 (17%) receiving placebo (odds ratio, 1.24; 95.1% CI, 0.53–2.88; p = 0.615)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

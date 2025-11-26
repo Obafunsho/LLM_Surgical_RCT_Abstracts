@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: Local excision (LE) after chemoradiotherapy is a new option in low rectal cancer, but morbidity has never been compared prospectively with total mesorectal excision (TME)."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Method: This was a post-hoc analysis from a randomized trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with clinical T2/T3 low rectal cancer with good response to the chemoradiotherapy and having either LE, LE with eventual completion TME, or TME were considered."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Early and late morbidity were compared in patients treated either by LE or TME after neoadjuvant chemoradiotherapy for rectal cancer."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Early and late morbidity were compared in patients treated either by LE or TME after neoadjuvant chemoradiotherapy for rectal cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Early (1\u2009month) and late (2\u2009years) morbidities were compared between the three groups."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Method: This was a post-hoc analysis from a randomized trial."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Early surgical morbidity (20 per cent LE versus 36 per cent TME versus 43 per cent completion TME, P =\u20090.025) and late surgical morbidity (4 per cent versus 33 per cent versus 57 per cent, P <\u20090.001) were significantly lower in the LE group than in the TME or the completion TME group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no deaths following surgery in any of the three groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10909325",
+  "sha256": "a5d5eb15cb5cf03b5a4a2dda3227a9f4e7596eefb6694cbce6d9840eb790d45a",
+  "timestamp_utc": "2025-11-09T23:10:28.722900+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.667293233082706,
+    "reading_ease": 48.31367167919802,
+    "word_count": 266
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate trends in abdominal aortic aneurysm (AAA) repair in the Australian public sector over the past two decades, focusing on the transition from open AAA repair (OAR) to endovascular AAA repair (EVAR)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Regression analysis demonstrated a significant decrease in OAR (β = −0.77, p < 0.001 for males; β = −0.21, p < 0.001 for females) and a concurrent significant increase in EVAR (β = 0.53, p < 0.001 for males; β = 0.15, p < 0.001 for females)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 3,
+    "max_score": 25
+  }
+}

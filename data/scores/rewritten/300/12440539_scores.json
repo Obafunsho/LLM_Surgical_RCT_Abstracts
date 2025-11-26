@@ -1,0 +1,74 @@
+{
+  "pmcid": "12440539",
+  "sha256": "11d4a229479f1a3533aaf0e08c61647626c7141c94b33bfaae110dda77018e3d",
+  "timestamp_utc": "2025-11-09T23:38:21.793010+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.41047413793104,
+    "reading_ease": 31.19881465517244,
+    "word_count": 290
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Retrospective Observational Cohort Study on Fluid Responsiveness in Pediatric Intensive Care"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective observational cohort study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients ≤18 years old within the first 72 hours of admission to a PICU"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "IV crystalloid fluid boluses ≥10 mL/kg"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the association between Ea dyn and mean arterial pressure (MAP) after fluid bolus in children"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "FR was defined as an increase of ≥10% in MAP from pre-bolus to the average MAP over 20 minutes post-bolus"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "We analyzed 490 fluid boluses given to children"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Pre-bolus Ea dyn was not associated with FR (p > 0.1)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The study found no adverse events related to the fluid boluses"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "no trial registration"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "no trial registration or specific funding source was reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

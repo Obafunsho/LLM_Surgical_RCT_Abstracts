@@ -1,0 +1,74 @@
+{
+  "pmcid": "3696348",
+  "sha256": "d5d8a5620b4ff5ba88ec2cdac0e7a4b47107666f138bfc20cc39189583201442",
+  "timestamp_utc": "2025-11-09T15:53:53.322595+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.838645161290323,
+    "reading_ease": 18.12463440860219,
+    "word_count": 248
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To identify the types and mechanisms of peri-procedural stroke after angioplasty and stenting for ICAD."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Patients that suffered a hemorrhagic or ischemic stroke or a cerebral infarct with temporary signs (CITS) within 30 days of attempted angioplasty and stenting in SAMMPRIS were identified."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Twenty-one patients suffered an ischemic stroke (n= 19) or CITS (n=2) within 30 days of angioplasty and stenting."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Six patients suffered subarachnoid hemorrhage (three from wire perforation) and seven a delayed intraparenchymal hemorrhage."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

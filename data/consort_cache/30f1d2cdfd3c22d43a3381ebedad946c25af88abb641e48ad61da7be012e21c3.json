@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Effectiveness of Cognitive Aids in Surgical Settings"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Teams were randomised to manage three simulated deteriorating patient scenarios with or without cognitive aids."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were eligible if they were part of a surgical ward team."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Teams were randomised to manage three simulated deteriorating patient scenarios with or without cognitive aids."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effectiveness of cognitive aids in improving adherence to best practices in managing deteriorating postoperative patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the percentage of omitted critical management steps, measured immediately after each scenario."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fifty surgical teams were randomised, with 25 teams in each group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Using cognitive aids reduced omitted critical management steps from 33% to 10% (70% reduction, P < .001). Multivariate analysis confirmed this effect (odds ratio, 0.63; 95% CI, \u22120.228 to \u22120.061; P = .001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: NCT03812861."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

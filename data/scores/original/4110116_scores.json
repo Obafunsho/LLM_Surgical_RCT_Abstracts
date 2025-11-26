@@ -1,0 +1,74 @@
+{
+  "pmcid": "4110116",
+  "sha256": "c268d4420b8692e0b17fed728cb5be39068b025e3667337ce5d99b1bfd4ab653",
+  "timestamp_utc": "2025-11-09T15:57:22.596479+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.3940625,
+    "reading_ease": 29.861354166666672,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients having knee arthroplasty with femoral nerve catheters were randomly assigned"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients having knee arthroplasty"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "1) ultrasound alone (n=147); 2) ultrasound and electrical stimulation through the needle (n=152); or, 3) ultrasound and electrical stimulation through both the needle and catheter (n=138)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We tested the primary hypothesis that ultrasound guidance alone is noninferior on both postoperative pain scores and opioid requirement and superior on at least one of the two."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Noninferiority between any two interventions was defined for pain as no more than 0.5 points worse on a 0–10 Verbal Response Scale (VRS) scale and for opioid consumption as no more than 25% greater than the mean."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients having knee arthroplasty with femoral nerve catheters were randomly assigned"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "1) ultrasound alone (n=147); 2) ultrasound and electrical stimulation through the needle (n=152); or, 3) ultrasound and electrical stimulation through both the needle and catheter (n=138)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "difference (95% CI) in mean VRS pain score [stimulating needle versus stimulating catheter] of −0.16 (−0.61, 0.29), P<0.001; percent difference in mean IV morphine equivalent dose of −5% (−25%, 21%), P=0.002"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

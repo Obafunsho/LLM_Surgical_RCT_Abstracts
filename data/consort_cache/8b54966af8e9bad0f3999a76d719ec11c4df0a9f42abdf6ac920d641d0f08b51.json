@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We included randomized controlled trials of adults undergoing SWL."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants in the intervention group had to have received an alpha\u2010blocker as adjuvant medical expulsive therapy plus usual care. For the comparator group, we considered studies in which participants received placebo."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: To assess the effects of alpha\u2010blockers as adjuvant medical expulsive therapy plus usual care compared to placebo and usual care or usual care alone in adults undergoing shock wave lithotripsy for renal or ureteral stones."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Alpha\u2010blockers may improve clearance of stone fragments after SWL (risk ratio (RR) 1.16, 95% confidence interval (CI) 1.09 to 1.23; I\u00b2 = 78%; studies = 36; participants = 4084; low certainty evidence)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We included 40 studies with 4793 participants randomized to usual care and an alpha\u2010blocker versus usual care alone."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Alpha\u2010blockers may improve clearance of stone fragments after SWL (risk ratio (RR) 1.16, 95% confidence interval (CI) 1.09 to 1.23; I\u00b2 = 78%; studies = 36; participants = 4084; low certainty evidence)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Alpha\u2010blockers may reduce major adverse events (RR 0.60, 95% CI 0.46 to 0.80; I\u00b2 = 0%; studies = 7; participants = 747; low certainty evidence)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

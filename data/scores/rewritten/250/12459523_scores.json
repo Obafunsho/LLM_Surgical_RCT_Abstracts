@@ -1,0 +1,74 @@
+{
+  "pmcid": "12459523",
+  "sha256": "44788e8c25d6a0cae8a0bab8c0c4c89904ef562d4eea50ad3f3dfc4ff4473f1d",
+  "timestamp_utc": "2025-11-09T22:28:04.376029+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.491986301369863,
+    "reading_ease": 41.51049086757993,
+    "word_count": 219
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of LFCN Block Addition to PENG Block in Hip Fracture Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "60 patients aged 18-75 undergoing hip fracture surgery were randomised into three groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at Zonguldak Bülent Ecevit University Hospital, Türkiye, 60 patients aged 18-75 undergoing hip fracture surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The PENG group received 20 mL of 0.25% bupivacaine, while the PENG + LFCN group received an additional 5 mL LFCN block"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the effect of adding a lateral femoral cutaneous nerve (LFCN) block to a pericapsular nerve group (PENG) block on postoperative opioid consumption and pain scores in hip fracture surgery under spinal anesthesia."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative opioid consumption within 24 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-assisted with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "60 patients aged 18-75 undergoing hip fracture surgery were randomised into three groups"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "60 patients were analysed (20 per group) using a per-protocol approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Postoperative opioid consumption was significantly lower in the PENG (8.10 ± 6.72 mg) and PENG + LFCN (8.40 ± 4.38 mg) groups compared to CONTROL (15.30 ± 5.59 mg, P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT06226675."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

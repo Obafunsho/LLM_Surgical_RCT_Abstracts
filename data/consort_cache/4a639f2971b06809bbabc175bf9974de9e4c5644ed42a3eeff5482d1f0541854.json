@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Covered Stents and Drug-Coated Balloons in Femoropopliteal Artery Occlusion"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to receive either CS (n=94) or DCB (n=100) angioplasty."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "194 patients with chronic total femoropopliteal occlusion were included from seven centers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned to receive either CS (n=94) or DCB (n=100) angioplasty."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the midterm efficacy of covered stents (CS) versus drug-coated balloons (DCB) in patients with femoropopliteal artery occlusion."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was primary patency at 24 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to receive either CS (n=94) or DCB (n=100) angioplasty."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "194 patients with chronic total femoropopliteal occlusion were included from seven centers between January 2020 and December 2022."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The CS group showed significantly greater primary patency at 24 months compared to the DCB group (74.4% vs. 55.8%, p=0.019)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences were observed in secondary outcomes."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by the National Natural Science Foundation of China (No. 82370459)."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

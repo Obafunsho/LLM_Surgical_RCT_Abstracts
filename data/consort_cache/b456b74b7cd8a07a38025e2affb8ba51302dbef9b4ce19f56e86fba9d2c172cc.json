@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "910 patients undergoing isolated total arterial coronary artery bypass grafting with internal thoracic arteries (ITAs) at our institution, between January 2017 and February 2020."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "TTFM was assessed in 430 patients (TTFM group). They were compared with 480 patients without TTFM assessment (no TTFM group)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to evaluate the impact of transit-time flow measurement (TTFM) on early postoperative outcomes in total arterial coronary revascularization."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Primary end point was the occurrence of in-hospital major cardiac adverse events (MACE)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "910 patients undergoing isolated total arterial coronary artery bypass grafting with internal thoracic arteries (ITAs) at our institution, between January 2017 and February 2020."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "TTFM was protective against MACE occurrence (odds ratios 0.46, 95% confidence interval 0.23\u20130.85, P = 0.016)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Six (1.4%) patients in the TTFM group versus no patient in the no TTFM group underwent intraoperative graft revision because of unsatisfying flow values ( P = 0.011)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Ticagrelor vs. Clopidogrel in Post-CABG Patients"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "receiving either aspirin plus clopidogrel (A+C) or aspirin plus ticagrelor (A+T)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were all-cause mortality and cardiovascular mortality, measured over a follow-up period."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation methods and allocation concealment varied across studies."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not consistently reported."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "A+T was associated with a decreased risk of all-cause mortality (OR=0.47, 95% CI 0.31\u20130.70, p<0.001) and cardiovascular mortality (OR=0.50, 95% CI 0.31\u20130.82, p=0.006) compared to A+C."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant difference was found in major bleeding rates (OR=1.16; 95% CI 0.69\u20131.96; p=0.57)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42022330721."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

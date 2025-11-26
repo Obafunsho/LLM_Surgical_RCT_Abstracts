@@ -1,0 +1,74 @@
+{
+  "pmcid": "7431264",
+  "sha256": "c46a1202f7ca7c423a1e2017fdc277cc381438b11ae1c20929a6fa2687eb7f2f",
+  "timestamp_utc": "2025-11-09T16:13:57.341133+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.589674565560824,
+    "reading_ease": 43.65472694130517,
+    "word_count": 633
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Seventy-eight patients (156 knees) were included in this prospective, quasi-randomized study"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Seventy-eight patients (156 knees) were included"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patellar cauterization was always performed on the right knee during simultaneous, bilateral TKA."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We evaluated patients undergoing bilateral, simultaneous TKA procedures without patellar resurfacing to ask: (1) Does circumferential patellar cauterization decrease anterior knee pain (Kujala score) postoperatively compared with non-cauterization of the patella?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Clinical outcomes, consisting of clinician-reported outcomes (ROM and Kujala score) and patient-reported outcomes (VAS pain score, Oxford knee score, and Knee Injury and Osteoarthritis Outcome Score), were evaluated preoperatively and at 1 month and 2 years postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seventy-eight patients (156 knees) were included"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Five patients (6%) were lost to follow-up before the 2-year minimum follow-up interval."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "no difference was observed in the mean Kujala score (82 ± 2.9 and 83 ± 2.6 for cauterized and non-cauterized knees, respectively; mean difference 0.3; 95% confidence interval, -0.599 to 1.202; p = 0.509)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complications were uncommon and there were no differences between the groups (one deep venous thromboembolism in the cauterized group and two in the control group; odds ratio 0.49, 95% CI, 0.04-5.56; p = 0.57)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

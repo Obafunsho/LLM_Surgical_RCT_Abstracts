@@ -1,0 +1,74 @@
+{
+  "pmcid": "11935356",
+  "sha256": "b3fcd9686c352454f465be9aacc5da46d54f111fb972aa60e202006dec7e0ffc",
+  "timestamp_utc": "2025-11-09T23:23:16.741071+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.148815789473684,
+    "reading_ease": 8.951447368421071,
+    "word_count": 240
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Intraoperative Bleeding in LVAD Implantation: A Retrospective Cohort Study"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This single-center retrospective cohort study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adult patients aged 18 years or older who underwent CF-LVAD implantation at the University of Iowa Health Care"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to identify predictors of intraoperative bleeding"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "intraoperative bleeding, defined as the transfusion of 4 or more units of packed red blood cells during surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Among 208 patients analyzed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "odds ratio [OR] 2.98, confidence interval [CI] 1.2-7.42, p = 0.01"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: None."
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Lateral Oblique Closing Wedge Osteotomy for Cubitus Varus in Adults"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised controlled trial was conducted at a single orthopedic center. Twelve adult patients (aged 31\u201348 years) with cubitus varus deformity were randomly assigned to receive either the intervention or standard care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Twelve adult patients (aged 31\u201348 years) with cubitus varus deformity were randomly assigned to receive either the intervention or standard care."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either the intervention or standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of a lateral oblique closing wedge osteotomy with lag screw fixation and early motion in adults with cubitus varus deformity."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the improvement in the humerus-elbow-wrist angle, measured over a minimum follow-up of 15 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured by sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not applied to patients or clinicians, but outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twelve patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Twelve patients were randomised, and all were included in the analysis, which followed an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The humerus-elbow-wrist angle improved from \u221223.3\u00b0 to 8\u00b0 (p < 0.002), with a mean gain of 29.6\u00b0."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No nerve palsy was reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

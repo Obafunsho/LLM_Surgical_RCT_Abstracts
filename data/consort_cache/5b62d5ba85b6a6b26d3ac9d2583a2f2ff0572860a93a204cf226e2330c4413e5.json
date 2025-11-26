@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Prophylactic Anticoagulation in Deceased-Donor Liver Transplantation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were adults aged 18-70 years undergoing deceased-donor liver transplantation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised 1:1 to receive either enoxaparin (40 mg daily) or normal saline for 7 days post-transplantation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the efficacy and safety of prophylactic anticoagulation with enoxaparin in this context."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary efficacy outcome was the incidence of venous thrombosis within 90 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by surgeon and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was applied to patients and ICU physicians, while surgeons were aware of group allocation."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 462 patients were randomised between April 2020 and August 2023, with 231 in each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the intention-to-treat analysis, 89 patients (19.3%) experienced venous thrombosis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Subgroup analysis revealed a lower risk of deep vein thrombosis in hepatocellular carcinoma patients receiving enoxaparin (HR 0.44, 95% CI 0.23 to 0.86, p = 0.016)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Major bleeding occurred in 141 patients (30.5%), with a higher incidence in the enoxaparin group (35.5% vs. 25.5%, p = 0.020)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2000032441."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12244350",
+  "sha256": "fc989680ac8a65c08ed44f7b709ceb614587e13ac7c30d33a5989559844594f3",
+  "timestamp_utc": "2025-11-09T15:34:52.637858+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.82047159090909,
+    "reading_ease": 18.45270738636367,
+    "word_count": 275
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Medical records of 234 hospitalized patients with moderate/severe AS were retrospectively analyzed. Exclusion criteria included acute myocardial infarction, prior valvular surgery, and congenital heart defects."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Aim: To assess the impact of common cardiovascular comorbidities on echocardiographic evaluation of AS."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Among the 234 patients (median age 76, 47.4% female), 85.0% had severe AS."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "AF was associated with lower aortic valve mean pressure gradient (AVGmean, p = 0.001), peak velocity (Vmax, p < 0.001), and stroke volume (SV, p = 0.01), and higher left atrial (LA) area ( p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Opioid-Free Anesthesia in Bariatric Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomized controlled trial was conducted at a tertiary care hospital."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were morbidly obese patients (BMI > 60 kg/m\u00b2) scheduled for laparoscopic gastric bypass."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized to receive either OFA with total intravenous anesthesia (TIVA) using propofol, lidocaine, ketamine, and dexmedetomidine or standard opioid-based anesthesia."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the efficacy of opioid-free anesthesia (OFA) with multimodal analgesia in minimizing respiratory and opioid-related complications in morbidly obese patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative pain control, assessed by the visual analog scale (VAS) over 48 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 100 participants were randomized: 50 to the OFA group and 50 to the control group, with recruitment from January 2020 to June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The OFA group experienced a shorter ICU stay and earlier discharge (mean difference = 2 days, 95% CI 1 to 3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were minimal, with 2% in the OFA group and 5% in the control group experiencing mild side effects."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by the National Institute of Health."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

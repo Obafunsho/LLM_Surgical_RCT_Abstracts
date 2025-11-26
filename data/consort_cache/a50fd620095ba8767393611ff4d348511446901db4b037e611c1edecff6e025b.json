@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We therefore wished to compare the outcome of patellofemoral arthroplasty (PFA) with TKA in a blinded randomized controlled trial."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "One hundred patients were included from 2007 to 2014 and were randomized to PFA or TKA."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients were eligible if they had debilitating symptoms and isolated patellofemoral disease."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to PFA or TKA."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We therefore wished to compare the outcome of patellofemoral arthroplasty (PFA) with TKA in a blinded randomized controlled trial."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "SF-36 bodily pain was the primary outcome."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized to PFA or TKA (blinded for the first year; blinded to patient, therapists, primary care physicians, etc; quasiblinded to assessor)."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "blinded to patient, therapists, primary care physicians, etc; quasiblinded to assessor."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "One hundred patients were included from 2007 to 2014 and were randomized to PFA or TKA."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Four percent (two of 50) of patients died within the first 2 years in the PFA group (none in the TKA group), and 2% (one of 50) became ill and declined further participation after 1 year in the PFA group (none in the TKA group)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The area under the curve (AUC) up to 2 years for SF-36 bodily pain of patients undergoing PFA and those undergoing TKA was 9.2 (SD 4.3) and 6.5 (SD 4.5) months, respectively (p = 0.008)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There was no difference in the number of complications."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

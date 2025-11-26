@@ -1,0 +1,74 @@
+{
+  "pmcid": "9191810",
+  "sha256": "080e21067da0731a32e5e51942b8fd3f63583dff231ea2c33b893a1578781bf3",
+  "timestamp_utc": "2025-11-09T16:20:31.462635+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.688387423935094,
+    "reading_ease": 21.23064908722111,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Pregnant patients requiring conversion from labor to CD with a pre-existing labor epidural at our institution from 2009 to 2014 were identified."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate the rate and risk factors of labor epidural conversion failure requiring general anesthesia for Caesarean delivery (CD)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 673 patients were included in the study."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The rate of epidural conversion failure was 21%. Main risk factors for epidural conversion failure requiring general anesthesia included: younger maternal age (95% CI 0.94, P = 0.0002) and supplementation of intravenous fentanyl (95% CI 0.19, P < 0.0001) or midazolam (95% CI 0.26, P = 0.0008) during CD."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

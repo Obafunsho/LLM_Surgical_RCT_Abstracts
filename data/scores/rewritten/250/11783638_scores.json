@@ -1,0 +1,74 @@
+{
+  "pmcid": "11783638",
+  "sha256": "90eba41cfa8858833452cfcfc7f5547bd35b083e176decf2dd125290cc0d00af",
+  "timestamp_utc": "2025-11-09T22:08:05.131509+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.759166666666669,
+    "reading_ease": 46.422500000000014,
+    "word_count": 240
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Initial Propofol Bolus Doses in Different TCI Pumps"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "13 virtual patients with varying age, sex, height, and weight"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Two pumps used a fixed equilibration rate constant (ke0) of 0.456 min−1, while the other two used a fixed time to peak concentration (tpeak) of 1.6 min."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether differences exist in the initial bolus dose between different TCI pumps using the same pharmacokinetic (PK) model."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the propofol bolus dose measured on a high precision scale."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "For example, a virtual 60-year-old, obese man received 72.0 ± 1.0 mg with a Perfusor Space pump and 111.9 ± 1.2 mg with an Alaris pump (P < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

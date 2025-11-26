@@ -1,0 +1,74 @@
+{
+  "pmcid": "12269756",
+  "sha256": "2a49d43562e5311713f2602f50580c5697711de90ab8043c7064432a9c17ec52",
+  "timestamp_utc": "2025-11-09T15:35:37.473035+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.55,
+    "reading_ease": 44.405,
+    "word_count": 240
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This prospective observational study included 454 patients undergoing elective coronary artery bypass grafting (CABG)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This prospective observational study included 454 patients undergoing elective coronary artery bypass grafting (CABG)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Moderate and high risk patients received amiodarone in combination with beta blockers (Amiodarone group), while low risk patients received beta blockers only."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective:: To assess the effect of amiodarone on POAF incidence and onset timing in moderate and high risk patients."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was POAF incidence, analyzed via Kaplan-Meier and Cox regression."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The relative risk reduction was 27% (RR = 0.27, 95% CI = 0.105-0.689, p = 0.006)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "5831447",
+  "sha256": "e89a28df459d9cf534d48e07e02875491b1201c8c4f1db7863ff403f9f870de8",
+  "timestamp_utc": "2025-11-09T23:59:16.683662+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.38637890441061,
+    "reading_ease": 34.8787396013185,
+    "word_count": 277
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Incentive Spirometry in Bariatric Surgery Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised noninferiority clinical trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible patients undergoing bariatric surgery from May 1, 2015, to June 30, 2016, were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either postoperative IS (control group) or clinical observation without IS (test group)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the frequency of hypoxemia, defined as an arterial oxygen saturation (Sa o 2) level of less than 92% without supplementation at 6, 12, and 24 postoperative hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 224 patients (50 men and 174 women; mean age, 45.6 years) were randomised, with 112 in each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was based on the evaluable population."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant differences in postoperative hypoxemia were observed between the control and test groups at 6 (11.9% vs 10.4%; P = .72), 12 (5.4% vs 8.2%; P = .40), or 24 (3.7% vs 4.6%; P = .73) hours."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02431455."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

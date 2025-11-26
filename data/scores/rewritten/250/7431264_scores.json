@@ -1,0 +1,74 @@
+{
+  "pmcid": "7431264",
+  "sha256": "ed1530725577839c96c94c8f2b138fd1a70c253a09dc46dfc3a70abf8f5f4de1",
+  "timestamp_utc": "2025-11-09T22:55:05.635269+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.595227524972255,
+    "reading_ease": 26.972635960044414,
+    "word_count": 212
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Circumferential Patellar Cauterization in Bilateral TKA"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this prospective, quasi-randomized trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "78 patients (156 knees) undergoing bilateral, simultaneous TKA without patellar resurfacing were included"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "with patellar cauterization performed on the right knee"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of circumferential patellar cauterization in reducing anterior knee pain and improving functional outcomes"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Kujala score for anterior knee pain, assessed preoperatively and at 1 month and 2 years postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was based on laterality"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "blinding was not implemented"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "78 patients (156 knees)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "no significant difference was found in the Kujala score between cauterized and non-cauterized knees (mean difference 0.3; 95% CI, -0.599 to 1.202; p = 0.509)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complication rates were similar, with one deep venous thromboembolism in the cauterized group and two in the control group"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

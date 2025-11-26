@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing AR-Based and Accelerometer-Based Portable Navigation Systems in THA"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "prospective, two-arm, parallel-group trial included patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with osteoarthritis, idiopathic osteonecrosis, rheumatoid arthritis, or femoral neck fracture scheduled for unilateral primary THA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The AR-based system was compared to the accelerometer-based system"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluated the accuracy of acetabular cup placement using an augmented reality (AR)-based portable navigation system compared to an accelerometer-based system in total hip arthroplasty (THA)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "primary outcome being the absolute difference in cup placement angles measured on postoperative radiographs"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "randomised using a computer-generated sequence, with allocation concealed in opaque envelopes"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "The outcome assessors and patients were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between August and December 2021, 126 patients were randomised (62 to AR group, 64 to accelerometer group)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "62 to AR group, 64 to accelerometer group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean absolute difference in radiographic anteversion angle was smaller in the AR group (2\u00b0 \u00b1 2\u00b0) compared to the accelerometer group (5\u00b0 \u00b1 4\u00b0; 95% CI -4.2\u00b0 to -2.0\u00b0; p < 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Few complications were observed: in the AR group, one patient each experienced a surgical site infection, intraoperative fracture, distal deep vein thrombosis, and pin loosening; in the accelerometer group, one patient each had an intraoperative fracture and pin loosening"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12188808",
+  "sha256": "e4123a62a79fc5cefecf77697616fa2f7f4333540dcf785e6058e5b55383fd58",
+  "timestamp_utc": "2025-11-09T23:29:35.755477+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.65832562174668,
+    "reading_ease": 7.054625506072881,
+    "word_count": 247
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "The study was not a randomized controlled trial"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "The study was not a randomized controlled trial"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Conducted at a cardiac surgery center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "the intervention involved coronary artery bypass grafting (CABG) of the proximal right coronary artery and the left anterior descending artery"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study underscores the importance of timely identification and management of coronary insufficiency to prevent refractory VF."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the resolution of VF episodes, assessed immediately post-intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "The study was not a randomized controlled trial"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "The study was not a randomized controlled trial"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "The study was not a randomized controlled trial"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "The study was not a randomized controlled trial"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "CABG successfully resolved the VF, allowing the patient to be weaned from CPB and transferred to the intensive care unit."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "no trial registration or funding information is applicable"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "no trial registration or funding information is applicable"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10976826",
+  "sha256": "24cd1df3c9bf2923e65f6bb88d6c64c08de53c4a934feb206a6612d32ae759dc",
+  "timestamp_utc": "2025-11-09T15:13:39.084425+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.004619341563792,
+    "reading_ease": 16.3849537037037,
+    "word_count": 243
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "peripheral blood monocyte from sepsis patients and healthy volunteers"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "The effects of propofol on TLR4 and Rab5a were investigated"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we investigated the mechanisms underlying the immunomodulatory activity of propofol"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "We showed that propofol reduced membrane TLR4 expression on macrophages"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

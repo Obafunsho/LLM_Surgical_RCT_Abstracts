@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The study randomized 881 patients to open (n = 437) or EVR (n = 444)."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The study randomized 881 patients to open (n = 437) or EVR (n = 444)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of this study was to evaluate the costs of the device, abdominal aortic aneurysm repair, and total health care costs when different endograft systems are selected for the endovascular repair (EVR)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Mean device, hospitalization, and total health care costs from randomization to 2 years were compared."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Device selection was recorded before randomization; therefore, open repair controls were matched to each device cohort."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study randomized 881 patients to open (n = 437) or EVR (n = 444)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Data were excluded for two low-volume devices, implanted in only 13 individuals, leaving 423 control and 431 endovascular patients."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Mean device (range, $13,600-$14,400), initial hospitalization (range, $34,800-$38,900), and total health care costs at 2 years in the endovascular (range, $72,400-$78,200) and open repair groups (range, $75,600-$82,100) were not significantly different among device systems."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

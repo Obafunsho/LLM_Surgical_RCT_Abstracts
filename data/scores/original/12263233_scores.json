@@ -1,0 +1,74 @@
+{
+  "pmcid": "12263233",
+  "sha256": "14e937f34d41fb040cf5760d5a7a385f6ced16b952eccb5c5c14c115d791eb78",
+  "timestamp_utc": "2025-11-09T15:35:25.286748+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.390102040816327,
+    "reading_ease": 30.231683673469405,
+    "word_count": 245
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The randomized phase III POST trial aimed to compare the efficacies of two adjuvant S-1-based doublet chemotherapies"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The randomized phase III POST trial aimed to compare the efficacies of two adjuvant S-1-based doublet chemotherapies"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compare the efficacies of two adjuvant S-1-based doublet chemotherapies: S-1 plus cisplatin (SP) and S-1 plus docetaxel (DS)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to validate the nProfiler1 assay using a distinct cohort from the POST trial."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Disease-free survival (DFS) and overall survival (OS), including 5-year survival rates, were calculated for the enrolled patients."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 153 patients in the POST trial, 118 were included in the post-hoc analysis."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "no significant difference in DFS or OS was observed between the SP and DS groups."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

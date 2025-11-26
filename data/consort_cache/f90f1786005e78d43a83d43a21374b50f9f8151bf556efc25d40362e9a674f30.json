@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study is a case report of a 58-year-old male patient"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "The study was not a randomized controlled trial"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "The patient was treated at a cardiac surgery center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved coronary artery bypass grafting (CABG) of the proximal right coronary artery and the left anterior descending artery"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the resolution of VF episodes, measured immediately post-intervention"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "The study was not a randomized controlled trial"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "The study was not a randomized controlled trial"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "The study was not a randomized controlled trial"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "The study was not a randomized controlled trial"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "CABG successfully resolved the VF, allowing the patient to be weaned from CPB and transferred to the intensive care unit"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "no trial registration or funding information is applicable"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "no trial registration or funding information is applicable"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

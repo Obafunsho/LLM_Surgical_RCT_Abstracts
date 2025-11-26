@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing 125 I Seed and Hookwire Localization in Breast-Conserving Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Between September 2013 and March 2018, 690 women with non-palpable breast cancer eligible for breast-conserving surgery were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "690 women with non-palpable breast cancer eligible for breast-conserving surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to preoperative localization using 125 I seeds or hookwires"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to compare re-excision and positive margin rates in breast-conserving surgery using 125 I seed versus hookwire localization"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were re-excision and positive margin rates, measured post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was stratified by lesion type and study site, with allocation concealed via a secure online database."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between September 2013 and March 2018, 690 women"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of the 690 women randomised, 659 were analysed"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The re-excision rate was significantly lower in the 125 I seed group compared to the HWL group (13.9% vs. 18.9%; p = 0.019)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included suboptimal positioning requiring corrective action in 9 cases for seeds and 13 for wires."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ACTRN12613000655741."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

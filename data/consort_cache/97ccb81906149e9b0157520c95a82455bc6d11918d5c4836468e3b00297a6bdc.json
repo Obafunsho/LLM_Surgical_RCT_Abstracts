@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this supplementary analysis of 100 patients enrolled in a clinical trial ( NCT01187329 )"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "97 patients underwent AVR for aortic stenosis"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Our primary objective thus to characterize the effect of intraoperative events on LV function during AVR using echocardiographic measures of myocardial deformation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Myocardial deformation assessed at the beginning of surgery was compared with the end of surgery using paired t-tests corrected for multiple comparisons."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "In this supplementary analysis of 100 patients enrolled in a clinical trial"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Echocardiographic images were acceptable for analysis in 72 patients for LV strain"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "LV strain did not change at the end of surgery compared with the beginning of surgery [difference: 0.7 (97.6%CI: 0.2, 1.5)%; P =0.07] while LV systolic strain rate improved (became more negative) [\u22120.3 (\u22120.4, \u22120.2) sec \u22121 ; P<0.001]."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT01187329"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

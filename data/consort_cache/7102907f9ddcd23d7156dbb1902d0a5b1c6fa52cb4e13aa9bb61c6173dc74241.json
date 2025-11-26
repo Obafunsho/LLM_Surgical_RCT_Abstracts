@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Topical Tranexamic Acid in Mastectomy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This two-centre, stratified, parallel-group, placebo-controlled, double-blind randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing mastectomy with or without axillary lymph node clearance"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive either 25 mg/ml TXA or 0.9% sodium chloride (placebo)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated whether moistening a surgical wound with tranexamic acid (TXA) before closure reduces postoperative bleeding in mastectomy patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative bleeding measured by drain production in the first 24 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between January 2016 and August 2018, 208 patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "202 included in the analysis (101 TXA, 101 placebo) using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "TXA significantly reduced mean drain production at 24 hours (110 ml vs. 144 ml; mean difference 34 ml, 95% CI 8 to 60; p = 0.011)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Early haematoma occurred in 1 patient in the TXA group versus 7 in the placebo group"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02627560."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: The study was funded by the involved institutions."
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

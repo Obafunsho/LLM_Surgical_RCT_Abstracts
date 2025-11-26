@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Alfentanil in Hysteroscopic Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "One hundred and forty female patients, ASA grade I or II, aged 18\u201365 years, scheduled for hysteroscopy at Women\u2019s Hospital, Zhejiang University, were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "One hundred and forty female patients, ASA grade I or II, aged 18\u201365 years, scheduled for hysteroscopy at Women\u2019s Hospital, Zhejiang University"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive 8 \u00b5g\u00b7kg\u22121, 10 \u00b5g\u00b7kg\u22121, 12 \u00b5g\u00b7kg\u22121, 14 \u00b5g\u00b7kg\u22121 alfentanil, or 0.15 \u00b5g\u00b7kg\u22121 sufentanil"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to determine the median effective dose (ED50) and the 95% effective dose (ED95) of alfentanil"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the ED50 and ED95 of alfentanil, measured using probit analysis"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated and allocation was concealed in sealed envelopes"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, outcome assessors, and clinicians"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One hundred and forty female patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The ED50 and ED95 of alfentanil were 9.73 \u00b5g\u00b7kg\u22121 (95% CI 8.57 to 10.56) and 15.02 \u00b5g\u00b7kg\u22121 (95% CI 13.57 to 18.12), respectively"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The incidence of intraoperative hypotension was lower in the 8\u201314 \u00b5g\u00b7kg\u22121 alfentanil groups compared to sufentanil (p = 0.044), while desaturation was higher in the 14 \u00b5g\u00b7kg\u22121 group (p < 0.001)"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2400080232"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

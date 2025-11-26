@@ -1,0 +1,74 @@
+{
+  "pmcid": "12492990",
+  "sha256": "900fe8e88df401876db264ed73822b7b688ae607c31f92b29271338795a2aa26",
+  "timestamp_utc": "2025-11-09T22:30:07.475553+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.741769316909298,
+    "reading_ease": 11.401052631578949,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Neuromuscular Blocking Agents in Anesthesia"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured by sealed envelopes."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were recruited from diverse age groups, with eligibility criteria including age-specific physiological characteristics. The study was conducted in a clinical anesthesiology setting."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved administering NMBAs with adjustments based on age-related pharmacokinetics, compared to standard dosing regimens."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted to clarify dosage differences and their physiological bases."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of residual muscle blockade, measured over a 24-hour period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured by sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was applied to outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 98 participants in the intervention group and 97 in the control group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a significant reduction in residual blockade (mean difference = 5.2%, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 3% of the intervention group and 1% of the control group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by the Anesthesiology Research Foundation."
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  }
+}

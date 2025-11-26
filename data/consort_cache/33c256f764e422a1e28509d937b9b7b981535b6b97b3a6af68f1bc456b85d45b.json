@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tranexamic Acid in Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This double-blind, randomised controlled trial included 50 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were aged 18\u201385 years, ASA Physical Status 1\u20133."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised 1:1 to receive either TXA (10 mg/kg) or placebo (0.9% sodium chloride)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized no difference in fibrinolysis and blood loss between TXA and placebo."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was fibrinolysis, defined as maximum lysis (ML) >15% within 1 hour, measured by rotational thromboelastometry (ROTEM)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation used a permuted block design, with allocation concealed by opaque envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, surgeons, and assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "This double-blind, randomised controlled trial included 50 patients undergoing primary THA at Thomas Jefferson University Hospital from April 2019 to December 2021."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "22 patients received TXA and 25 received placebo."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant differences in clinical outcomes, including blood loss and coagulation profiles, were observed."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Two thrombotic events occurred in the placebo group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT03897621."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Department of Anesthesiology, Thomas Jefferson University Hospital."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

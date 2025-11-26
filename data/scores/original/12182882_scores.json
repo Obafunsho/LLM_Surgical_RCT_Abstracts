@@ -1,0 +1,74 @@
+{
+  "pmcid": "12182882",
+  "sha256": "8d1eff3f6c66a05801c6e45859f9299027ff6c2fb2f0a8a311285d2e43675f25",
+  "timestamp_utc": "2025-11-09T15:33:17.173985+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.314871794871795,
+    "reading_ease": 17.61068376068377,
+    "word_count": 182
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Malignant pleural mesothelioma (MPM) is an aggressive malignancy with limited evaluates the efficacy and safety of these treatments."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes included physical function, social function, and lethargy."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The meta-analysis found no statistically significant differences between experimental and control groups in terms of physical function (standardized mean difference [SMD]: -0.34, 95% confidence interval [CI]: -1.14 to 0.45), social function (SMD: 0.01, 95% CI: -0.52 to 0.53), or lethargy (SMD: -0.34, 95% CI: -0.96 to 0.27)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

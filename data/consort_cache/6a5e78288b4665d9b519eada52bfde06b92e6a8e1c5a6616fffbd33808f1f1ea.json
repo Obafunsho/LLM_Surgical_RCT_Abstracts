@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Quercetin in Ropivacaine-Induced Neurotoxicity"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted using SH-SY5Y cells."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Quer significantly reduced Rop-induced viability inhibition and apoptosis in SH-SY5Y cells in a dose-dependent manner."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates Quer\u2019s efficacy in reducing Rop-induced neurotoxicity."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Quer significantly reduced Rop-induced viability inhibition and apoptosis in SH-SY5Y cells in a dose-dependent manner."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

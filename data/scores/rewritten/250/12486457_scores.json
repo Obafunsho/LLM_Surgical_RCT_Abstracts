@@ -1,0 +1,74 @@
+{
+  "pmcid": "12486457",
+  "sha256": "81c929aaf54734ae6d82c9595f592177889925c580bddcb2d1d04f8c66bfbe24",
+  "timestamp_utc": "2025-11-09T22:29:41.884877+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.771169994401944,
+    "reading_ease": 21.543166635566337,
+    "word_count": 233
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Comparative Effectiveness of Coronary Revascularization Techniques: A Network Meta-Analysis"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The interventions compared were on-pump coronary artery bypass (ONCAB), off-pump coronary artery bypass (OPCAB), OPCAB with proximal anastomotic device (OPCAB-PAD), anaortic OPCAB (anOPCAB), and percutaneous coronary intervention (PCI)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the effectiveness of five revascularization techniques in reducing early mortality, stroke, complete revascularization, postoperative atrial fibrillation (POAF), and renal failure."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Odds ratios (ORs) with 95% confidence intervals (CIs) were calculated using a random effects model."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Compared to ONCAB, early mortality was significantly lower with anOPCAB (OR: 0.57, 95% CI: 0.44–0.73), OPCAB-PAD (OR: 0.61, 95% CI: 0.40–0.92), and OPCAB (OR: 0.64, 95% CI: 0.47–0.87)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42024586444."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11916683",
+  "sha256": "bb60fdaf8c6eb395a1d5fdb173f27a57326e4a7601960ad10879600a56f10ab9",
+  "timestamp_utc": "2025-11-09T15:26:12.470374+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.028299559471368,
+    "reading_ease": 28.610349486049955,
+    "word_count": 227
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomized cross‐over study compared the Trachway and the Airway Scope"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This randomized cross‐over study compared the Trachway and the Airway Scope"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the use of this system for tracheal intubation by novice operators."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome measure in both airway scenarios was the time required for a successful tracheal intubation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Average intubation time did not differ significantly between the Trachway and Airway Scope for the normal airway scenario (11.2 ± 6.5 vs. 9.8 ± 4.3 seconds, respectively; p = 0.07), but was significantly longer using the Trachway than with the Airway Scope on the difficult airway scenario (17.1 ± 11.1 vs. 9.5 ± 4.1 seconds, respectively; p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

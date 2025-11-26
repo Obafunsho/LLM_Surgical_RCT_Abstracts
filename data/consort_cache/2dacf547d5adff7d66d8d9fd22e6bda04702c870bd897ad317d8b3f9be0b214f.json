@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This retrospective observational study investigated medium-term restenosis rates between commercially available biological and synthetic carotid patches."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective observational study investigated medium-term restenosis rates between commercially available biological and synthetic carotid patches."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "All primary CEA with patch angioplasty performed between 2007 and 2019 at a single university hospital were identified from theatre records."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Chi-square tests and Kaplan-Meier curves were used to compare restenosis rates between biological (bovine pericardium) and synthetic patches (Dacron, PFTE and polyester-urethane)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This retrospective observational study investigated medium-term restenosis rates between commercially available biological and synthetic carotid patches."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Restenosis was defined using the European Society for Vascular Surgery duplex criteria, either moderate (50\u201369%, PSV >213cm/s) or critical (70\u201399%, PSV >274cm/s)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Overall, 127 CEAs were included in the restenosis analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Compared with synthetic material, bovine was significantly associated with >50% restenosis but not >70% ( p =0.042 and p =0.197, respectively)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There was no significant difference in peri-operative complication rates between patch types."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

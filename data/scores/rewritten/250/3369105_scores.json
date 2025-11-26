@@ -1,0 +1,74 @@
+{
+  "pmcid": "3369105",
+  "sha256": "88d569ffbd030a9cc3c4d14bf9c2eb9e6ff9744a3b6ee3db69d8a0bc2ac11c4b",
+  "timestamp_utc": "2025-11-09T22:36:44.560137+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.46633962264151,
+    "reading_ease": 23.688723270440278,
+    "word_count": 212
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Training to Improve Diagnosis of Scaphoid Fracture Displacement"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 64 orthopaedic surgeons were randomised"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "64 orthopaedic surgeons were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "training group received an online module before assessment"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether training can enhance interobserver reliability and diagnostic accuracy"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Interobserver reliability was measured using Siegel’s multirater kappa"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "64 orthopaedic surgeons were randomised into a training group (34) and a nontraining group (30)"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "64 orthopaedic surgeons were randomised into a training group (34) and a nontraining group (30)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Sensitivity, specificity, and accuracy were 87%, 86%, and 87% for the training group"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

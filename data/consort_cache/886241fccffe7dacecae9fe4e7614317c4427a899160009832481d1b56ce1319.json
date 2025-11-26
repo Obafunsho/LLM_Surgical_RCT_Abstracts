@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Effect of Reverse Bevel Nasotracheal Intubation on Epistaxis"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this randomised controlled trial, 74 patients undergoing right-sided maxillofacial surgery requiring left nasotracheal intubation were enrolled"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "74 patients undergoing right-sided maxillofacial surgery requiring left nasotracheal intubation were enrolled at Asan Medical Center, Seoul, Korea"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly allocated to the control group (conventional tube direction) or the reverse group (180\u02da reverse bevel direction)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effect of a 180\u02da reverse bevel and tip direction of the nasotracheal tube on the incidence of epistaxis during left nostril intubation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of epistaxis, assessed via videolaryngoscopy."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using web-based software, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "74 patients undergoing right-sided maxillofacial surgery requiring left nasotracheal intubation were enrolled at Asan Medical Center, Seoul, Korea, between November 2021 and September 2023."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The incidence of epistaxis was significantly lower in the reverse group (9/37 [24.3%]) compared to the control group (20/37 [54.1%], P = 0.009; relative risk: 0.45, 95% CI [0.24, 0.85])."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The incidence of epistaxis was significantly lower in the reverse group (9/37 [24.3%]) compared to the control group (20/37 [54.1%], P = 0.009; relative risk: 0.45, 95% CI [0.24, 0.85])."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No nasotracheal tube-related complications were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: KCT0006672."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

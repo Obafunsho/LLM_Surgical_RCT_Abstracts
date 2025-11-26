@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This equivalence-dose randomized controlled trial evaluated whether liposomal bupivacaine provides non-inferior analgesia to the standard combination when administered via rhomboid intercostal block (RIB)."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this double-blind randomized controlled trial, 90 VATS patients were randomly assigned to receive either..."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "90 VATS patients were randomly assigned to receive either..."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "a 20-ml premixed solution containing 93 mg of liposomal bupivacaine combined with 25 mg of plain bupivacaine (liposomal bupivacaine group), or a 20-ml admixture of 105 mg of plain bupivacaine and 5 mg of dexamethasone (plain bupivacaine with dexamethasone group)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This equivalence-dose randomized controlled trial evaluated whether liposomal bupivacaine provides non-inferior analgesia to the standard combination when administered via rhomboid intercostal block (RIB)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome assessed was the area under the curve (AUC) of the 48-h resting pain numeric rating scale (NRS)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "In this double-blind randomized controlled trial, 90 VATS patients were randomly assigned to receive either..."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "In this double-blind randomized controlled trial..."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "90 VATS patients were randomly assigned to receive either..."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Liposomal bupivacaine was shown to be non-inferior to plain bupivacaine with dexamethasone, with a 48-h NRS AUC of 105.5\u2009\u00b1\u200913.6 vs . 113.1\u2009\u00b1\u200916.3 (mean difference \u2212\u20097.6; 95% CI \u2212\u200913.9 to \u2212\u20091.2, upper limit\u2009<\u2009non-inferiority margin 3.7)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Safety profiles were comparable, with no between-group differences in postoperative nausea and vomiting or other severe complications ( P >\u20090.05)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered on ClinicalTrials.gov ( NCT06392191 )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A trial was designed and conducted to evaluate the safety and oncological efficacy of early adjuvant chemotherapy compared with conventional adjuvant chemotherapy."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A multicentre, randomized (1 : 1), open-label, phase III trial was conducted comparing early adjuvant chemotherapy with conventional adjuvant chemotherapy."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients who underwent radical surgery who had stage III colon cancer confirmed by histopathological assessment were screened and randomized."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The adjuvant chemotherapy with FOLFOX was delivered between postoperative day 10 and 14 in the early adjuvant chemotherapy arm, and between postoperative day 24 and 28 in the conventional adjuvant chemotherapy arm."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "A trial was designed and conducted to evaluate the safety and oncological efficacy of early adjuvant chemotherapy compared with conventional adjuvant chemotherapy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was 3-year disease-free survival."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized (1 : 1)"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between 9 September 2011 and 6 March 2020, 443 patients consented to randomization at eight sites."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The intention-to-treat population included 423 patients (209 in the early adjuvant chemotherapy arm and 214 in the conventional adjuvant chemotherapy arm), and the safety population included 380 patients (192 in the early adjuvant chemotherapy arm and 188 in the conventional adjuvant chemotherapy arm)."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "There was no statistically significant difference in overall toxicity (28.1 per cent in the early adjuvant chemotherapy arm and 28.2 per cent in the conventional adjuvant chemotherapy arm, P = 0.244), surgical complications, and quality of life between the two arms."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There was no statistically significant difference in overall toxicity (28.1 per cent in the early adjuvant chemotherapy arm and 28.2 per cent in the conventional adjuvant chemotherapy arm, P = 0.244), surgical complications, and quality of life between the two arms."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

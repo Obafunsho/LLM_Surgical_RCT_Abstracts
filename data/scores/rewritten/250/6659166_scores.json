@@ -1,0 +1,74 @@
+{
+  "pmcid": "6659166",
+  "sha256": "122ab21c4a4be7107f3240f30ab9854a4fcf303df2c06c6f23f7d1ade78658e5",
+  "timestamp_utc": "2025-11-09T22:51:28.592004+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.303524039752887,
+    "reading_ease": 22.627904915390843,
+    "word_count": 219
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Assessing Tourniquet Application Proficiency Post-B-Con Training"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "crossover, sequential randomised clinical trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A volunteer sample of 102 laypeople who completed the American College of Surgeons Bleeding Control Basic (B-Con) training was assessed."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised using permutated blocks to apply five different tourniquet types."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was correct tourniquet application, defined as applied pressure of ≥250 mm Hg within 2 minutes."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomised using permutated blocks"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "This nonblinded, crossover, sequential randomised clinical trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "conducted at Gillette Stadium and the Longwood Medical Area in Boston, Massachusetts, from April 4, 2018, to October 9, 2018. A volunteer sample of 102 laypeople"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Participants correctly applied the Combat Application Tourniquet (CAT) at a significantly higher rate (92.2%) compared to other commercial tourniquets"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov identifier: NCT03538379."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

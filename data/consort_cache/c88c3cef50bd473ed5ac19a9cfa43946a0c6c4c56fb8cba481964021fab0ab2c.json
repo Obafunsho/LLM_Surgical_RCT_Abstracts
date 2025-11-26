@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of a Flipped Classroom Model in Nursing Education"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 228 participants were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study was conducted at the University of Ruse, Bulgaria, with eligibility criteria including enrollment in the nursing or midwifery program."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "control group receiving traditional instruction and an experimental group engaged in a digitally enhanced preparatory phase."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the effect of a digitally enhanced flipped classroom model on the self-perceived competence of Bulgarian nursing and midwifery students."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "A 25-item self-report questionnaire measured perceived competence in injection techniques, hygiene care, midwifery skills, and digital readiness before and after the intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 228 participants were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Statistical analysis using Welch\u2019s t-test revealed significant improvements in the experimental group across all domains (p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

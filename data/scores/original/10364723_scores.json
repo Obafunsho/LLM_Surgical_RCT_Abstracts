@@ -1,0 +1,74 @@
+{
+  "pmcid": "10364723",
+  "sha256": "b88494fda52260a4bceaf3361c6bb21eb3f62dc3ff0224492d40523e86b8ec71",
+  "timestamp_utc": "2025-11-09T15:07:11.818788+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.7446013986014,
+    "reading_ease": 23.311004662004677,
+    "word_count": 286
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients were randomized openly into two equal-sized groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with suspected appendicitis with symptoms for fewer than 24 h and an Adult Appendicitis Score of 11–15 were eligible for this trial."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients in the imaging group had ultrasound imaging followed by CT when necessary, whereas those in the observation group were reassessed after 6–8 h with repeated scoring and managed accordingly."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aims of this study were to examine whether early imaging results in more patients being diagnosed with acute appendicitis than initial observation, and to study the safety and feasibility of score-based observation compared with imaging in patients with equivocal signs of appendicitis."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the number of patients requiring treatment for acute appendicitis within 30 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients were randomized openly into two equal-sized groups"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ninety-three patients were randomized to imaging and 92 to observation"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "after exclusions, 93 and 88 patients respectively were analysed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "72 versus 57 per cent (difference 15 (95 per cent c.i. 1 to 29) per cent)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT02742402"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12471051",
+  "sha256": "f9b91a2ae3a8dd245d56fe60342554ac48f5efe690a87eaf6a41e219bb0bce4d",
+  "timestamp_utc": "2025-11-09T23:40:04.130190+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.983613231552162,
+    "reading_ease": 6.393172179813433,
+    "word_count": 262
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Cannulation Strategies in Aortic Arch Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to either right axillary or innominate artery cannulation."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted across six Canadian centers, this randomised controlled trial included patients undergoing proximal aortic arch surgery. Eligibility criteria encompassed patients with ATAAD."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were assigned to right axillary artery cannulation (intervention) or innominate artery cannulation (control)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare the efficacy of right axillary and innominate artery cannulation strategies for cerebral protection."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the incidence of new severe ischemic lesions, evaluated through diffusion-weighted magnetic resonance imaging postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation concealment was achieved using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Due to the nature of the intervention, blinding was not feasible."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 222 participants were randomised, with 111 in each group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis followed an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The incidence of new severe ischemic lesions was comparable between the axillary group (34%) and the innominate group (38.8%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Thirty-day mortality rates and adverse events, including seizures and delirium, were similar across both groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

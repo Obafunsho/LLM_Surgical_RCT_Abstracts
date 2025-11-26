@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Distension Pressure on Long Saphenous Vein Grafts in CABG"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this prospective, single-center randomised controlled trial"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "from CABG patients"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised into non-distended (group A) and distended (group B) groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the effect of unregulated distension pressure on LSVG endothelium."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Histological and CD31 immunohistochemical analyses assessed endothelial cell loss."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "21 paired vein samples from CABG patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Distended veins showed significantly higher endothelial cell loss (31.95%\u2009\u00b1\u200931.31) compared to non-distended veins (11.67%\u2009\u00b1\u200928.65) (p =\u20090.034)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source]."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

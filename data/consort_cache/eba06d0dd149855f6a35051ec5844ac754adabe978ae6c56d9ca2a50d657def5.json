@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Patient-Specific Instrumentation in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Forty patients scheduled for primary TKA were randomised into two groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included adults with knee osteoarthritis."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised into two groups: PSI and conventional instrumentation"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "investigated whether patient-specific instrumentation (PSI) in total knee arthroplasty (TKA) enhances patient-reported outcomes and gait compared to conventional instrumentation"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was walking speed, assessed using a 3-D gait analysis system"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, with allocation concealment via sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty patients scheduled for primary TKA were randomised"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "All 40 patients completed the study and were analyzed using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Both groups demonstrated improvements in functional scores, quality of life, and gait parameters from preoperative to 3 months postoperative. However, no significant differences were observed between the PSI and conventional groups in KSS, KOOS, SF-12, or gait parameters."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

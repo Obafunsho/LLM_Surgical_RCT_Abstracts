@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Vitamin Supplementation on Cardiovascular Health"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Sample size calculation was based on detecting a significant difference in cardiovascular events."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults with cardiovascular risk factors."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received a combination of hydrophilic and lipophilic vitamins, while the control group received a placebo."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the efficacy of vitamin supplementation in reducing the incidence of CVD."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of cardiovascular events over a 12-month period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was maintained for participants, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were recruited and randomised, with 100 assigned to the intervention group and 100 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the intervention group and 97 in the control group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group experienced a significant reduction in cardiovascular events (mean difference = 5.2 events, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in the intervention group and 1% in the control group experiencing gastrointestinal side-effects."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by [source of funding]."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

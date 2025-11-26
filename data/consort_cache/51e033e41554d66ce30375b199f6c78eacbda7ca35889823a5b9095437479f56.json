@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intravenous Preemptive Analgesia in Vitreoretinal Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomly assigned to receive AoA-guided GA combined with IPA at a single dose of 1 g of paracetamol, 2.5 g of metamizole, or both"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "165 patients scheduled for VRS at the Department of Ophthalmology, 5th Regional Hospital in Sosnowiec"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "IPA at a single dose of 1 g of paracetamol, 2.5 g of metamizole, or both"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to evaluate the impact of intravenous preemptive analgesia (IPA) with cyclooxygenase-3 (COX-3) inhibitors"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of PONV, OCR, and OER, measured within 24 hours postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using sealed envelopes, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was applied to outcome assessors and patients"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 165 patients scheduled for VRS"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 153 patients analyzed"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "PONV occurred in 4%, OCR in 10%, and OER in 0%"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences were observed between groups regarding IPA type"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT03389243"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Antiplatelet Agents in Intermittent Claudication"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants with stable IC were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants with stable IC were randomised to receive oral antiplatelet agents or placebo. Exclusions included asymptomatic PAD, advanced PAD, and those undergoing surgical intervention."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants with stable IC were randomised to receive oral antiplatelet agents or placebo."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates antiplatelet agents' effectiveness in reducing mortality and cardiovascular events in IC patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was all-cause mortality over a follow-up period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 12,168 patients were randomised: 6,084 to antiplatelet agents and 6,084 to placebo."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Antiplatelet agents reduced all-cause mortality (RR 0.76, 95% CI 0.60 to 0.98) and cardiovascular mortality (RR 0.54, 95% CI 0.32 to 0.93)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were higher with antiplatelets, including gastrointestinal symptoms (RR 2.11, 95% CI 1.23 to 3.61)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not provided."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

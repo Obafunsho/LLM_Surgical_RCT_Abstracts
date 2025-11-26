@@ -1,0 +1,74 @@
+{
+  "pmcid": "10392959",
+  "sha256": "c3050b27d89887bbf3cf738243318ad53ce70eb05db02e0111f2b4eee1e31421",
+  "timestamp_utc": "2025-11-09T23:06:42.025405+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.665535714285713,
+    "reading_ease": 22.43925595238099,
+    "word_count": 245
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Exercise and Nutritional Intake Post-Oesophagectomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to a 12-week exercise intervention or usual care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients post-oesophagectomy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to a 12-week exercise intervention or usual care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the effects of a 12-week supervised exercise programme on energy and protein intake, body composition, and malnutrition risk."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was quality of life, with secondary outcomes including dietary intake and body composition."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 120 participants, 79 were invited for dietetic measurements, and 37 consented."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The exercise group showed a non-significant weight reduction compared to controls (−1.19 kg, 95% CI −2.48 to 0.10)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NTR5045."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

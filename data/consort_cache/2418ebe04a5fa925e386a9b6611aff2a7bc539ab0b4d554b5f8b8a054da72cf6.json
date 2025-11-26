@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Two hundred sixty such patients were randomized"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Ablation was randomized between pulmonary vein isolation and biatrial maze."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective:: To use novel statistical methods for analyzing the effect of lesion set on (long-standing) persistent atrial fibrillation (AF)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "During 12 months postsurgery, 228 patients (88%) submitted 7949 transtelephonic monitoring (TTM) recordings, analyzed for AF, atrial flutter (AFL), or atrial tachycardia (AT)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Two hundred sixty such patients were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "228 patients (88%) submitted 7949 transtelephonic monitoring (TTM) recordings"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Estimated freedom from AF/AFL/ATon any transmission trended higher after biatrial maze than pulmonary vein isolation (odds ratio, 2.31; 95% confidence interval, 0.95\u20135.65; P = .07)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

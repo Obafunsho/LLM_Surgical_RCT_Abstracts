@@ -1,0 +1,74 @@
+{
+  "pmcid": "12395080",
+  "sha256": "28b98c66f45f6b4b4c851246f34a4f49823277f9035f755830def4a0eccc51a1",
+  "timestamp_utc": "2025-11-09T15:39:31.884147+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.481612903225805,
+    "reading_ease": 4.504919354838762,
+    "word_count": 248
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "377 patients (173 delirious, 204 non-delirious) consecutively enrolled across three sites."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to investigate whether quantitative electroencephalography (qEEG) characteristics of delirium differ among etiology-based delirium subtypes or converge on common neurophysiological patterns."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We compared peak frequency, relative power, and phase lag index (PLI) between delirious and non-delirious patients across different etiologies using standardized mean differences (SMDs) with 95% confidence intervals (CI)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The peak frequency showed a consistent decrease between all delirium groups and non-delirious controls (SMD = -0.81, CI:-1.50 to −0.13), relative delta power increased (SMD = 1.44, CI:0.61 to 2.26), and relative beta power decreased (SMD = -1.72, CI:-2.46 to −0.97)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

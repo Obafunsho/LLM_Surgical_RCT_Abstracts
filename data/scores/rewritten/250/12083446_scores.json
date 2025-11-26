@@ -1,0 +1,74 @@
+{
+  "pmcid": "12083446",
+  "sha256": "2a2e449bb7ab83c710484531b4700fcaf4a0af8da4d6eebbca9520b08e9542e0",
+  "timestamp_utc": "2025-11-09T22:14:42.815586+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.846684782608694,
+    "reading_ease": 28.561766304347856,
+    "word_count": 230
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Impact of Transit-Time Flow Measurement on Postoperative Outcomes in Coronary Artery Bypass Grafting: A Retrospective Analysis"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "A single-centre retrospective analysis was conducted on 910 patients undergoing isolated total arterial coronary artery bypass grafting with internal thoracic arteries (ITAs) at our institution between January 2017 and February 2020."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "910 patients undergoing isolated total arterial coronary artery bypass grafting with internal thoracic arteries (ITAs) at our institution between January 2017 and February 2020."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were divided based on the use of TTFM: 430 patients in the TTFM group and 480 in the no TTFM group."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the impact of transit-time flow measurement (TTFM) on early postoperative outcomes in total arterial coronary revascularization."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the occurrence of in-hospital major cardiac adverse events (MACE)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were divided based on the use of TTFM: 430 patients in the TTFM group and 480 in the no TTFM group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "MACE were significantly lower in the TTFM group (14, 3.3%) than in the no TTFM group (33, 6.9%, P = 0.014). TTFM was protective against MACE occurrence (odds ratio 0.46, 95% CI 0.23–0.85, P = 0.016)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Six (1.4%) patients in the TTFM group underwent intraoperative graft revision due to unsatisfactory flow values, compared to none in the no TTFM group (P = 0.011)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

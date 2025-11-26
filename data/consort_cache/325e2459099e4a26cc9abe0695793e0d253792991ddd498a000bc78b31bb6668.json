@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were allocated to a standard\u2010care control group or an exercise group"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were allocated to a standard\u2010care control group or an exercise group, who were prescribed standard care plus twice\u2010weekly high\u2010intensity aerobic exercise and resistance training sessions."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study examined the safety and feasibility of preoperative exercise training during neoadjuvant treatment in these patients."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was the incidence of serious adverse events (SAEs) that prevented surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The risk of failure to reach surgery was 5 versus 21 per cent in the control group (risk ratio (RR) 0\u00b723, 95 per cent c.i. 0\u00b704 to 1\u00b729)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The incidence of SAEs was not increased in the exercise group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "9338414",
+  "sha256": "286918ada1c0e8434610191d666c33f142da1e8880f642490b0efb6e414822c0",
+  "timestamp_utc": "2025-11-10T00:12:18.929898+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.424117647058825,
+    "reading_ease": 30.713903290129622,
+    "word_count": 236
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Efficacy of Cricoid Pressure during Rapid Sequence Induction"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to receive either cricoid pressure (n=20) or simulated cricoid pressure (n=20)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial included 40 participants undergoing elective surgery requiring general anaesthesia."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either cricoid pressure (n=20) or simulated cricoid pressure (n=20) during RSI."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the prevalence of aspiration, measured by visual inspection, pepsin detection, or radiographic changes."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to receive either cricoid pressure (n=20) or simulated cricoid pressure (n=20)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "The analysis approach was not specified, and the number of participants analysed in each group was not detailed."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The study found no significant difference in the primary outcome between the cricoid pressure and control groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

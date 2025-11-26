@@ -1,0 +1,74 @@
+{
+  "pmcid": "11899157",
+  "sha256": "8d6e27b1892a23c3982126214d7ef7974e8e0b610d863980d5ac94ba388682a3",
+  "timestamp_utc": "2025-11-09T15:25:50.774007+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.7400439882698,
+    "reading_ease": 31.330065982404705,
+    "word_count": 341
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: ‘Downstream’ adverse outcomes associated with transfusion-related immune modulation (TRIM) occur postoperatively."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "The main aim of this retrospective observational study was to evaluate the cost implications associated with perioperative adverse outcomes following allogeneic blood transfusion (ABT)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Surgical patients (n = 2129) receiving blood transfusion at the Royal Brisbane and Women’s Hospital (Queensland, Australia) (2016–2018) were included: receiving ICS only (n = 115), allogeneic red blood cells (RBCs) only (n = 1944), or RBCs and ICS (n = 70)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "receiving ICS only (n = 115), allogeneic red blood cells (RBCs) only (n = 1944), or RBCs and ICS (n = 70)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The main aim of this retrospective observational study was to evaluate the cost implications associated with perioperative adverse outcomes following allogeneic blood transfusion (ABT)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Surgical patients (n = 2129) receiving blood transfusion at the Royal Brisbane and Women’s Hospital (Queensland, Australia) (2016–2018) were included: receiving ICS only (n = 115), allogeneic red blood cells (RBCs) only (n = 1944), or RBCs and ICS (n = 70)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Most adverse outcomes (≥3) occurred following RBCs and ICS (37.1%), followed by RBCs (23.7%) and ICS (16.5%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Most adverse outcomes (≥3) occurred following RBCs and ICS (37.1%), followed by RBCs (23.7%) and ICS (16.5%)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

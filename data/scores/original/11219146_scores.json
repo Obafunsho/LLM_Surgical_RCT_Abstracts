@@ -1,0 +1,74 @@
+{
+  "pmcid": "11219146",
+  "sha256": "22522435ac405a282cff3b5eff377c70440bde542c99f912cf834439fa330aef",
+  "timestamp_utc": "2025-11-09T15:16:17.218177+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.535495129870132,
+    "reading_ease": 56.5526325757576,
+    "word_count": 704
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "a post hoc power analysis was performed for this long-term follow-up study, with survival as the primary outcome."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "104 patients were randomized to receive either cementless MoM THA (50 patients) or cementless MoP THA (54 patients)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "104 patients were randomized to receive either cementless MoM THA (50 patients) or cementless MoP THA (54 patients)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Questions/purposes: At 10 years of follow-up, (1) what is the difference in survival and revision rates between large-head (38 to 60 mm) MoM THA and conventional 28-mm MoP THA?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "the primary endpoint was survivorship free from revision for any cause at the 10-year follow-up interval"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "104 patients were randomized"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Harris Hip Score; the latter was assessed by a blinded nurse practitioner."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "104 patients were randomized to receive either cementless MoM THA (50 patients) or cementless MoP THA (54 patients)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "78% (81 of 104) of patients completed the 10-year postoperative follow-up: 36 patients with MoM THA (72%; six patients lost to follow-up) and 45 with MoP THA (83%; four lost to follow-up)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "95% [95% CI 85% to 98%] versus 92% [95% CI 82% to 98%]; p = 0.6"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "A higher percentage of patients in the MoM group had pseudotumors on CT than those in the MoP group did"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

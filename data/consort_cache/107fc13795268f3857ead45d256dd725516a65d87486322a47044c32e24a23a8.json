@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Sugammadex Dosing in Morbidly Obese Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Eight randomised controlled trials (RCTs) involving 645 participants were included."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were MO patients undergoing bariatric surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention was sugammadex dosing based on different weight scalars: total body weight (TBW), ideal body weight (IBW), 20% corrected body weight (CBW), and 40% CBW."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was recovery time from moderate or deep NMB, measured by the time to a Train of Four (TOF) ratio of 0.9."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation methods and allocation concealment varied across studies"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "blinding was not consistently reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was conducted using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "A dose of 2 mg/kg of sugammadex based on 40% CBW and a 4 mg/kg dose based on 40% CBW provided reliable and timely reversal of moderate and deep NMB, respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "no trial registration number was provided"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by institutional sources"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

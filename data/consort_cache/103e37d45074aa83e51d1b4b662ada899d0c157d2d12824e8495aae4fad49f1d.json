@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A multicenter, cooperative group, single-arm phase II trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with biopsy-confirmed PDAC in the pancreatic head without evidence of involvement of major mesenteric vessels (resectable) were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients (n=123) received an eight-week cycle of G+E before and after surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated perioperative gemcitabine + erlotinib (G+E) for resectable PDAC."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was two-year overall survival (OS)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Patients (n=123) received an eight-week cycle of G+E before and after surgery."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "One hundred fourteen patients were eligible, consented, and initiated protocol treatment."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The two-year OS rate for the entire cohort (n=114) was 40% (95%CI 31\u201350) with a median OS of 21.3 months (95%CI 17.2\u201325.9)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Grade 3+ toxicity was reported in 60% and 79% of patients during the neoadjuvant phase and overall, respectively."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "(ACOSOG Z5041)"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

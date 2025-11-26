@@ -1,0 +1,74 @@
+{
+  "pmcid": "8404630",
+  "sha256": "29de625996623b8d548182c3c8e136bf314d43dc0989ae1e98dbb318036c344e",
+  "timestamp_utc": "2025-11-09T16:17:48.055507+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.572132770951772,
+    "reading_ease": 24.661346048046966,
+    "word_count": 287
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Here we assessed a total of 1,000 CVD patients (male 782 and female 218) who underwent PCI and were treated with clopidogrel and/or aspirin."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "treated with clopidogrel and/or aspirin"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we aimed to assess the prevalence of CYP2C19*2, CYP2C19*17, and ITGB3 polymorphisms among Bangladeshi patients with cardiovascular disease (CVD) who underwent PCI."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Here we assessed a total of 1,000 CVD patients (male 782 and female 218)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Among the clopidogrel-treated patients, we observed 64.1% polymorphism (hetero + mutant) of CYP2C19*2 (loss-of-function allele) and 22.7% (hetero + mutant) of CYP2C19*17 (gain-of-function allele)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

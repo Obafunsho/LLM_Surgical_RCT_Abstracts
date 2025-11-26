@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Marker-based roentgen stereophotogrammetric analysis (RSA) is an accurate method for measuring in\u00a0vivo implant migration, which requires attachment of tantalum markers to the implant."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "24 patients"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The effect of contour reduction on the accuracy of the model-based method was investigated using three different contour selection schemes on tibial components in 24 patients at 3 and 6 month followup."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The effect of contour reduction on the accuracy of the model-based method was investigated using three different contour selection schemes on tibial components in 24 patients at 3 and 6 month followup."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "24 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The agreement interval (mean \u00b1 2 standard deviations), which bounds the differences between the marker-based and model-based methods with contour reduction was smaller than \u22120.028 \u00b1 0.254 mm."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

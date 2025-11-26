@@ -1,0 +1,74 @@
+{
+  "pmcid": "11916864",
+  "sha256": "db9139a53b87da284578bdbd9bb0aa931832859d5d3173f738f8dfc5cdf072d6",
+  "timestamp_utc": "2025-11-09T15:26:16.977390+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 18.494609929078013,
+    "reading_ease": 8.972222222222257,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Epidural morphine in patient‐controlled analgesia regimens controls postoperative pain well but easily induces pruritus and other epidural morphine‐related side effects."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to two nalbuphine groups (5 μg/kg/hour, Group N5 or 10 μg/kg/hour, Group N10) and bolus dose of 1.6 μg/kg for PCP or the control (normal saline) group."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "With 90 pregnant American Society of Anesthesiologists physical status II females scheduled for elective cesarean delivery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned to two nalbuphine groups (5 μg/kg/hour, Group N5 or 10 μg/kg/hour, Group N10) and bolus dose of 1.6 μg/kg for PCP or the control (normal saline) group."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The present study was designed to evaluate the efficacy and safety profile of patient‐controlled antipruritus (PCP) use of intravenous nalbuphine‐based regimens for attenuation of postoperative pruritus and related side effects in combination with epidural morphine patient‐controlled analgesia with regard to the quality of postoperative pain management."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Comparable visual analog scale scores for rest pain at each measured time interval among the three groups demonstrated that adequate pain relief was offered."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to two nalbuphine groups."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "With 90 pregnant American Society of Anesthesiologists physical status II females scheduled for elective cesarean delivery."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Fewer episodes and milder severity of pruritus were observed in patients in Groups N5 and N10 at all postoperative time intervals."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Epidural morphine provided good postoperative pain relief but with incommodious side effects."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

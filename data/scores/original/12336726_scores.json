@@ -1,0 +1,74 @@
+{
+  "pmcid": "12336726",
+  "sha256": "d3df7e60f791a590bd504a13cfbbe49c9aca9fdd82a7a613d168c95780df1141",
+  "timestamp_utc": "2025-11-09T15:37:15.615602+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.027166164658638,
+    "reading_ease": 15.043881777108425,
+    "word_count": 249
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this randomized, double-blind trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "54 patients scheduled for laparoscopic nephrectomy were allocated"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "54 patients scheduled for laparoscopic nephrectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "allocated to receive either ESPB or QLB with 25 mL of 0.4% ropivacaine"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to directly compare the analgesic effectiveness and recovery benefits of ESPB versus QLB"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was cumulative morphine consumption within 6 hours postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "54 patients scheduled for laparoscopic nephrectomy"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients receiving ESPB had significantly lower morphine consumption during the first 6 hours postoperatively compared to those receiving QLB (4.11±4.05 vs. 6.63±4.61 mg, P<0.05)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No block-related complications were observed in either group"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: Chinese Clinical Trial Registry, ChiCTR2300074743"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

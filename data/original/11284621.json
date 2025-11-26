@@ -1,0 +1,31 @@
+{
+  "pmcid": "11284621",
+  "pmid": "34303591",
+  "title": "Treatment options for patients with pilonidal sinus disease: PITSTOP, a mixed-methods evaluation.",
+  "abstract": "BACKGROUND: There is no consensus on optimal management of pilonidal disease. Surgical practice is varied, and existing literature is mainly single-centre cohort studies of varied disease severity, interventions and outcome assessments.\n\nOBJECTIVES: A prospective cohort study to determine: • disease severity and intervention relationship • most valued outcomes and treatment preference by patients • recommendations for policy and future research.\n\nDESIGN: Observational cohort study with nested mixed-methods case study. Discrete choice experiment. Clinician survey. Three-stage Delphi survey for patients and clinicians. Inter-rater reliability of classification system.\n\nSETTING: Thirty-one National Health Service trusts.\n\nPARTICIPANTS: Patients aged > 16 years referred for elective surgical treatment of pilonidal disease.\n\nINTERVENTIONS: Surgery.\n\nMAIN OUTCOME MEASURES: Pain postoperative days 1 and 7, time to healing and return to normal activities, complications, recurrence. Outcomes compared between major and minor procedures using regression modelling, propensity score-based approaches and augmented inverse probability weighting to account for measured potential confounding features.\n\nRESULTS: Clinician survey: There was significant heterogeneity in surgeon practice preference. Limited training opportunities may impede efforts to improve practice. Cohort study: Over half of patients (60%; N = 667) had a major procedure. For these procedures, pain was greater on day 1 and day 7 (mean difference day 1 pain 1.58 points, 95% confidence interval 1.14 to 2.01 points, n = 536; mean difference day 7 pain 1.53 points, 95% confidence interval 1.12 to 1.95 points, n = 512). There were higher complication rates (adjusted risk difference 17.5%, 95% confidence interval 9.1 to 25.9%, n = 579), lower recurrence (adjusted risk difference -10.1%, 95% confidence interval -18.1 to -2.1%, n = 575), and longer time to healing (>34 days estimated difference) and time to return to normal activities (difference 25.9 days, 95% confidence interval 18.4 to 33.4 days). Mixed-methods analysis: Patient decision-making was influenced by prior experience of disease and anticipated recovery time. The burden involved in wound care and the gap between expected and actual time for recovery were the principal reasons given for decision regret. Discrete choice experiment: The strongest predictors of patient treatment choice were risk of infection/persistence (attribute importance 70%), and shorter recovery time (attribute importance 30%). Patients were willing to trade off these attributes. Those aged over 30 years had a higher risk tolerance (22.35-34.67%) for treatment failure if they could experience rapid recovery. There was no strong evidence that younger patients were willing to accept higher risk of treatment failure in exchange for a faster recovery. Patients were uniform in rejecting excision-and-leave-open because of the protracted nursing care it entailed. Wysocki classification analysis: There was acceptable inter-rater agreement (κ = 0.52, 95% confidence interval 0.42 to 0.61). Consensus exercise: Five research and practice priorities were identified. The top research priority was that a comparative trial should broadly group interventions. The top practice priority was that any interventions should be less disruptive than the disease itself.\n\nLIMITATIONS: Incomplete recruitment and follow-up data were an issue, particularly given the multiple interventions. Assumptions were made regarding risk adjustment.\n\nCONCLUSIONS AND FUTURE WORK: Results suggest the burden of pilonidal surgery is greater than reported previously. This can be mitigated with better selection of intervention according to disease type and patient desired goals. Results indicate a framework for future higher-quality trials that stratify disease and utilise broad groupings of common interventions with development of a patient-centred core outcome set.\n\nTRIAL REGISTRATION: This trial is registered as ISRCTN95551898.\n\nFUNDING: This award was funded by the National Institute for Health and Care Research (NIHR) Health Technology Assessment programme (NIHR award ref: 17/17/02) and is published in full in Health Technology Assessment; Vol. 28, No. 33. See the NIHR Funding and Awards website for further award information.",
+  "authors": [
+    "Steven Brown",
+    "Daniel Hind",
+    "Emily Strong",
+    "Mike Bradburn",
+    "Farhat Vanessa Nasim Din",
+    "Ellen Lee",
+    "Matthew J Lee",
+    "Jonathan Lund",
+    "Christine Moffatt",
+    "Jonathan Morton",
+    "Asha Senapati",
+    "Philip Shackley",
+    "Peter Vaughan-Shaw",
+    "Arkadiusz Peter Wysocki",
+    "Tia Callaghan",
+    "Helen Jones",
+    "Nyantara Wickramasekera"
+  ],
+  "journal": "Health Technology Assessment (Winchester, England)",
+  "year": "2024",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

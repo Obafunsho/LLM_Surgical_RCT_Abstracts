@@ -1,0 +1,74 @@
+{
+  "pmcid": "10646917",
+  "sha256": "370c5996e02c46dae1e9f5a95f4454419af6abdc52643d4190379d1e746a44df",
+  "timestamp_utc": "2025-11-09T23:08:26.590525+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.934509803921571,
+    "reading_ease": 29.045294117647074,
+    "word_count": 255
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Bupivacaine Implants for Postoperative Pain in Abdominoplasty"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this multicenter, double-blind, placebo-controlled trial, 366 patients undergoing abdominoplasty were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included adults aged 18-65 years with a BMI of 18-35 kg/m²."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive either three 100 mg bupivacaine implants or placebo collagen implants."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assessed the efficacy and safety of bupivacaine implants (INL-001) versus placebo for managing postoperative pain in abdominoplasty."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "the primary outcome was the sum of pain intensity (SPI24) over 24 hours post-treatment."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by study center and BMI, with allocation concealed using a centralized electronic system."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "366 patients undergoing abdominoplasty were randomised 1:1"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 181 patients received INL-001 and 184 received placebo."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean SPI24 was significantly lower in the INL-001 group (102, SD 42) compared to placebo (117, SD 45; p=0.002)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 84% of INL-001 patients and 87% of placebo patients"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04785625."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Innocoll Pharmaceuticals."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

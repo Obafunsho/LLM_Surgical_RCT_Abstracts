@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "INSPIRE 2.0 was a randomized, controlled, parallel, multicenter study"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized, controlled, parallel, multicenter study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with AIS grade A, thoracic (T2-T12), nonpenetrating SCI requiring spine surgery \u22647 days postinjury"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized (1:1, computer-generated allocation) to undergo NSS implantation or spine surgery alone (control group)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we evaluated whether NSS implantation demonstrates probable benefit for safety and neurological recovery in patients with thoracic complete SCI vs standard-of-care spine surgery"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "proportion of patients with improvement of \u22651 AIS grade at 6 months postsurgery (primary endpoint)"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "randomized (1:1, computer-generated allocation)"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Patients and follow-up International Standards for Neurological Classification of SCI assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Target enrollment was reached (N = 20) with 10 patients randomized and analyzed in each group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "10 patients randomized and analyzed in each group"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "At 6 months postsurgery, an improvement in the AIS grade was reported in 2 NSS patients (20%; both to AIS C) and 3 control group patients (30%; to AIS B [n = 2] or AIS C [n = 1])"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No serious or unanticipated adverse device effects were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov , NCT03762655"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by InVivo Therapeutics Corporation"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "2807020",
+  "sha256": "baa773b3aed51b2b455048d0e8896687bebb0f4874c29dc9d538530f5bcb3e7f",
+  "timestamp_utc": "2025-11-09T22:34:34.690967+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.153464912280704,
+    "reading_ease": 26.1396710526316,
+    "word_count": 228
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Hip Resurfacing and Large-Head Total Hip Arthroplasty in Young and Active Patients with Hip Osteoarthritis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either HR or large-head THA."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "48 patients with hip osteoarthritis, eligible based on age and activity level, at a single orthopedic center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either HR or large-head THA."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare HR with large-diameter femoral head THA."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was gait speed, measured preoperatively and at 3, 6, and 12 months postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty-eight patients were randomised: 24 to HR and 24 to large-head THA."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "All participants were analysed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Gait speed and postural balance evaluations, functional tests, and clinical scores were similar between HR and large-head THA groups at all follow-up periods."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in adverse events were reported between groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

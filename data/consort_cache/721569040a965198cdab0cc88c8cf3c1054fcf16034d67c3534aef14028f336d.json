@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Ultrasound-Guided Subclavian Vein Puncture Techniques"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Sixty patients requiring right subclavian vein catheterization were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial was conducted at the Air Force Specialty Medical Center. Sixty patients requiring right subclavian vein catheterization"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to either the traditional group (n=30) or the improved group (n=30)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the effectiveness of an improved ultrasound-guided subclavian vein puncture technique with the traditional method"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the one-time puncture success rate, measured immediately post-procedure"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, and allocation was concealed using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the intervention"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty patients requiring right subclavian vein catheterization were randomly assigned to either the traditional group (n=30) or the improved group (n=30)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The improved group demonstrated a higher one-time puncture success rate (80% vs. 66.7%) and reduced procedure time (mean difference = 5.0334 minutes, 95% CI 3.1 to 7.3; p < 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complications were lower in the improved group (10% vs. 37%; p < 0.05), with fewer cases of pneumothorax and hematoma"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

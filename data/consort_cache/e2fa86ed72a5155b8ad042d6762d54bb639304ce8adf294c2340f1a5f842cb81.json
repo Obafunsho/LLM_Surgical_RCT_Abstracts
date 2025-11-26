@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "BACKGROUND: Haemodynamic monitoring and management is a mainstay of peri-operative anaesthetic care."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "DESIGN: Web-based survey."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "PARTICIPANTS: ESAIC members responding to the survey."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVE: To determine how anaesthesiologists measure and manage blood pressure and cardiac output, and how they guide fluid administration and assess fluid responsiveness in patients having noncardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "MAIN OUTCOME MEASURES: Respondents\u2019 answers to 30 questions on haemodynamic monitoring and management, and fluid therapy."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "RESULTS: A total of 615 fully completed surveys were analysed."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

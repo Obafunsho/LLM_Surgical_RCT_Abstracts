@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "EAGLE: A Randomised Controlled Trial to Reduce Anastomotic Leaks after Right Colectomy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This multicentre, batched, cluster-randomized trial involved hospital teams as the unit of randomization."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study was conducted in 332 hospital teams across 64 countries, with 39.2% from low- and middle-income countries."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention included an online educational module, risk stratification, an intraoperative checklist, and harmonized surgical techniques."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate whether a standardized international quality improvement intervention could reduce anastomotic leak rates."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the anastomotic leak rate within 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Clusters were randomized using a stepped-wedge design."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Patients were blinded to allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 355 hospital teams registered, with 332 included in the final analysis."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The primary analysis included 3039 of 3268 patients."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "leak rates of 10.1% before and 9.6% after intervention (adjusted OR 0.87, 95% CI 0.59 to 1.30; P = 0.498)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04270721."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Euros 460,000."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

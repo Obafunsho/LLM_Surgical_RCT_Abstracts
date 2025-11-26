@@ -1,0 +1,74 @@
+{
+  "pmcid": "12060424",
+  "sha256": "e00d90f429d1486f9b2c45cb1198c0885451b0d661d49dbf1e87e59cd3dc1a6c",
+  "timestamp_utc": "2025-11-09T23:25:21.997241+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.267864012525163,
+    "reading_ease": 20.323987922165117,
+    "word_count": 263
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Remote Ischaemic Conditioning in Orthopaedic Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation methods varied"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included RCTs investigating RIC in fracture healing and orthopaedic surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "RIC protocols varied in cycle frequency, duration, and pressure, but all were administered as a single dose at anaesthesia induction."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effects of RIC on outcomes following orthopaedic surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the effect of RIC on oxidative stress, measured immediately post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation methods varied"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "blinding was implemented in most clinical studies"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixteen clinical RCTs with 628 patients undergoing elective orthopaedic procedures"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "showed significant reductions in oxidative stress and pain scores, and improved oxygenation."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not specified."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

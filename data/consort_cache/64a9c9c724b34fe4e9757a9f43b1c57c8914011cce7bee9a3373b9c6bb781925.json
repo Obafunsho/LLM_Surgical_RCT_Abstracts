@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Risk Factors for Serious Hypotension Following Intravenous Acetaminophen in Hematologic Malignancies: A Retrospective Case-Control Study"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Hospitalized patients with hematologic malignancies who received intravenous AAP were included."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Hospitalized patients with hematologic malignancies who received intravenous AAP were included."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to identify risk factors associated with this adverse event."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Elevated body temperature prior to administration (OR 9.81, 95% CI 3.49\u201327.53), acute kidney injury (OR 14.99, 95% CI 3.13\u201371.87), and bacteremia (OR 6.36, 95% CI 2.01\u201320.11) were identified as significant risk factors for serious hypotension."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "This study aimed to identify risk factors associated with this adverse event."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

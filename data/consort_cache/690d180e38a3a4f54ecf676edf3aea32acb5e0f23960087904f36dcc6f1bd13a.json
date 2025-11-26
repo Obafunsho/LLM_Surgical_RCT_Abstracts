@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to NPWT and CWT stratified by study site and wound size using a centralized web-based tool."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The multicenter, multinational, randomized clinical SAWHI study enrolled a total of 539 consecutive, compliant adult patients with SAWHI after surgery without fascial dehiscence between August 2, 2011, and January 31, 2018."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned to NPWT and CWT stratified by study site and wound size using a centralized web-based tool."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The resource use analysis was primarily based on the per protocol population (NPWT 157; CWT 174)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to NPWT and CWT stratified by study site and wound size using a centralized web-based tool."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The multicenter, multinational, randomized clinical SAWHI study enrolled a total of 539 consecutive, compliant adult patients with SAWHI after surgery without fascial dehiscence between August 2, 2011, and January 31, 2018."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The resource use analysis was primarily based on the per protocol population (NPWT 157; CWT 174)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Although treatment length within 42\u200adays was significantly shorter in the NPWT arm {Mean [Standard deviation (SD)] NPWT 22.8 (13.4); CWT 30.6 (13.3); P < 0.001 U -test}, hospitalization time was shorter with CWT [Mean (SD) NPWT 13.9 (11.1); CWT 11.8 (10.8); P = 0.047 U -test]."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

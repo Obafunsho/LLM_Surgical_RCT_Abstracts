@@ -1,0 +1,74 @@
+{
+  "pmcid": "10752261",
+  "sha256": "00451189099a917a30f9fc1cdda35ab66d6599ddb2fc447688a66d62f5a0139b",
+  "timestamp_utc": "2025-11-09T15:11:06.925656+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 6.666286195286197,
+    "reading_ease": 64.90165151515154,
+    "word_count": 297
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods:: We compared cyst recurrence after intralesional curettage and filling with allograft versus bioactive glass (BG-S53P4; Bonalive) in a randomized clinical trial."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "51 (mean age, 11.1 years) were randomized to undergo filling of the cyst using morselized allograft (26) or bioactive glass (25)."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Of 64 eligible children, 51 (mean age, 11.1 years) were randomized."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "filling of the cyst using morselized allograft (26) or bioactive glass (25)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The volume of recurrent cyst at 2-year follow-up was the primary outcome."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "51 (mean age, 11.1 years) were randomized to undergo filling of the cyst using morselized allograft (26) or bioactive glass (25)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "51 (mean age, 11.1 years) were randomized to undergo filling of the cyst using morselized allograft (26) or bioactive glass (25)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "odds ratio [OR] for bioactive glass = 0.79, 95% confidence interval [CI] = 0.25 to 2.56, p = 0.77"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Four (15%) of the children in the allograft group and 6 (24%) in the bioactive glass group required a reoperation during the follow-up"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

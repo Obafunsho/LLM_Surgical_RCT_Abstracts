@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of ROTEM\u00ae-Guided Transfusion Strategy in Obstetric Haemorrhage"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details are not applicable as this was a retrospective analysis."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at the Rotunda Hospital, Dublin, this trial included 944 women experiencing PPH \u22651500 ml over five years."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "evaluate the effectiveness of a ROTEM\u00ae-guided transfusion strategy compared to conventional transfusion methods"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effectiveness of a ROTEM\u00ae-guided transfusion strategy compared to conventional transfusion methods in managing postpartum haemorrhage (PPH) \u22651500 ml."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the overall consumption of blood coagulation products, measured over one year post-implementation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details are not applicable as this was a retrospective analysis."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details are not applicable as this was a retrospective analysis."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "this trial included 944 women experiencing PPH \u22651500 ml over five years"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Participants were retrospectively analysed, with 238 women in the post-ROTEM\u00ae group and 706 in the pre-ROTEM\u00ae group."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The post-ROTEM\u00ae group showed a 46% reduction in fibrinogen concentrate use, a 72% decrease in Octaplas\u00ae, and a 79% reduction in platelet use, resulting in a cost saving of \u20ac51,738."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

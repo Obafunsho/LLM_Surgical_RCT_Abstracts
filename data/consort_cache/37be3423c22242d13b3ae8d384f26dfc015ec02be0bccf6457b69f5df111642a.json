@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The UK Medical Research Council ST03 trial compared perioperative epirubicin, cisplatin and capecitabine (ECX) chemotherapy with or without bevacizumab (B) in gastric and oesophagogastric junctional cancer."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Of 1063 patients randomized, 895 (84\u00b72 per cent) underwent resection; surgical details were available for 880 (98\u00b73 per cent)."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The UK Medical Research Council ST03 trial compared perioperative epirubicin, cisplatin and capecitabine (ECX) chemotherapy with or without bevacizumab (B) in gastric and oesophagogastric junctional cancer."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 1063 patients randomized, 895 (84\u00b72 per cent) underwent resection; surgical details were available for 880 (98\u00b73 per cent)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Postoperative assessment data were available for 873 patients; complications occurred in 458 (52\u00b75 per cent) overall."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "No difference in survival was noted between the arms of the trial."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complications occurred in 458 (52\u00b75 per cent) overall, of whom 71 (8\u00b71 per cent) developed complications deemed to be life\u2010threatening by the responsible clinician."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT00450203 ( http://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

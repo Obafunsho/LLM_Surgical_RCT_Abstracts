@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "BACKGROUND: Glioblastoma, the most common primary brain malignancy, has a poor prognosis."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "TRIAL DESIGN: The study was nonrandomized, with no control group."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "PARTICIPANTS: Eligibility included adults with recurrent glioblastoma."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "INTERVENTION: Anti-PD-1 and anti-LAG-3 checkpoint inhibitors were administered."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVE: To determine the proportion of patients with increased interferon gamma levels in brain tumor tissue after nivolumab and evaluate the safety of brain tumor microdialysis for immune response monitoring, alongside assessing the safety of anti-PD-1 and anti-LAG-3 checkpoint inhibition."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "OUTCOME: Primary outcome was interferon gamma level increase, measured over the treatment period."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "RANDOMISATION: Not applicable due to nonrandomized design."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "BLINDING: Not applicable."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "NUMBER RANDOMISED: Not applicable."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "NUMBER ANALYSED: All enrolled patients were analyzed."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "RESULTS: Interferon gamma levels increased in treated patients as measured by microdialysis."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "HARM: Adverse events were consistent with known profiles of checkpoint inhibitors."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "TRIAL REGISTRATION: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "FUNDING: [Source of funding]."
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

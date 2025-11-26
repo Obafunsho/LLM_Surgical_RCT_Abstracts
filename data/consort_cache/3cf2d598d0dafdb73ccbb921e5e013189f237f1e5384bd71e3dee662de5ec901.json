@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to evaluate the performance of predictors of fluid responsiveness in children across different settings and conditions."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to either shock or non-shock states."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study included children under 18 years, with physiological responses to intravenous fluid administration assessed. The trial was conducted in both pediatric intensive care units (PICU) and non-PICU settings."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Participants were randomised to either shock or non-shock states."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to evaluate the performance of predictors of fluid responsiveness in children across different settings and conditions."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the area under the receiver operating characteristic curve (AUROC) for fluid responsiveness, measured over a specified timeframe."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured through sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "100 participants randomised to each group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The meta-analysis revealed poor predictive performance across all tools (AUROC 0.66, 95% CI [0.63, 0.69])."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The trial was registered under [Trial Registration Number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "and funded by [Funding Source]."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

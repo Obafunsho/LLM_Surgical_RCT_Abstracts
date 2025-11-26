@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Carotid Revascularization and Medical Management for Asymptomatic Carotid Stenosis Trial (CREST-2): A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "CREST-2 consists of two randomised trials."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "This analysis details the credentialing process for carotid artery stenting (CAS) interventionists."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The CREST-2 trial investigates the efficacy of carotid revascularization combined with intensive medical management (IMM) in patients with asymptomatic high-grade atherosclerotic stenosis."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "randomisation and allocation concealment methods not specified"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The case rate was significantly associated with initial approval (P < .00001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported during the credentialing process."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The trial registration number and funding source were not provided in the manuscript."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "The trial registration number and funding source were not provided in the manuscript."
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

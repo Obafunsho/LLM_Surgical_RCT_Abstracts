@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Pharmacological Interventions to Accelerate Rocuronium Onset Time"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Effective interventions included rocuronium priming, ephedrine pretreatment, and magnesium sulphate pretreatment."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to identify effective pharmacological interventions to accelerate the onset time of rocuronium."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the onset time of rocuronium-induced neuromuscular blockade."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty-three trials with 2,465 patients were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Effective interventions included rocuronium priming (MD \u221221.0 s, 95% CI \u221227.6 to \u221214.3 s), ephedrine pretreatment (MD \u221222.3 s, 95% CI \u221229.1 to \u221215.5 s), and magnesium sulphate pretreatment (MD \u221228.2 s, 95% CI \u221250.9 to \u22125.6 s)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not specified."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

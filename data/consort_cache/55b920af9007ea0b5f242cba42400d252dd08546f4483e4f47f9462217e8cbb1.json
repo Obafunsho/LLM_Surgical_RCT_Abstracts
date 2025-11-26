@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This study was a single-center phase 2 clinical trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with a diagnosis of borderline resectable esophageal squamous cell carcinoma (BR-ESCC) because of the primary tumor or bulky lymph node that potentially invaded adjacent organs were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The treatment started with TPF chemotherapy followed by surgery if the cancer was resectable, or by concurrent chemoradiation if it was unresectable."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "This updated report presents the 3-year overall survival (OS) and progression-free survival (PFS) rates."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Surgery was performed for 27 patients (57.4%)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Surgery was performed for 27 patients (57.4%), and R0 resection was confirmed in 25 patients (53.2%)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The median OS for all the patients was 41.9 months (95% confidence interval [CI], 18.6\u201365.3 months), with a median PFS of 38.7 months (95% CI, 23.5\u201353.9 months)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration ClinicalTrials.gov identifer: NCT02976909 ."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

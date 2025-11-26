@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Postoperative Immune Function in Minimal Access Breast Surgery and Conventional Open Breast Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included female patients aged 18-75 with cancer stages 0-III and no prior surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "829 breast cancer patients treated with MABS or conventional open breast surgery (COBS)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative immune function, assessed by CD3+, CD4+, and CD8+ lymphocyte percentages and CD4+/CD8+ ratio, measured on preoperative day 1 (PreD1), postoperative day 1 (PostD1), and postoperative day 7 (PostD7) using flow cytometry."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Both MABS and COBS groups showed significant reductions in CD3+, CD4+, and CD8+ percentages and CD4+/CD8+ ratio from PreD1 to PostD1. By PostD7, the MABS group returned to preoperative levels, while the COBS group remained significantly lower."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The study was not registered"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "funding sources were not disclosed"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

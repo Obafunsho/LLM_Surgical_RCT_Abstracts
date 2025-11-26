@@ -1,0 +1,74 @@
+{
+  "pmcid": "11481812",
+  "sha256": "5e2797c0f87111c1a43be36936921425e8b4e7ba490cf716f0f58ad15f2a988e",
+  "timestamp_utc": "2025-11-09T22:04:04.896038+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.495172413793107,
+    "reading_ease": 31.304568965517262,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Fascial Plane Blocks in Chronic Pain Management"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Eligibility criteria included studies referencing 'fascial plane blocks' for chronic pain conditions"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Fascial plane blocks have emerged as a promising intervention for chronic pain management, offering an alternative to conventional drugs and opioids."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates their efficacy and safety in chronic pain treatment."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pain reduction, measured using standard scales over a 12-week period."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The effect size for pain reduction was significant, with a mean difference of 5.2 on the numeric rating scale (95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were rare, with mild side effects reported in 3% of the intervention group and 1% of the control group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

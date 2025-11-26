@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We conducted a double\u2010blind, randomised feasibility trial comparing peri\u2010operative angiotensin\u20102 with noradrenaline."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomly allocated 60 patients at two centres to a blinded equipotent angiotensin\u20102 or noradrenaline infusion."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "We randomly allocated 60 patients at two centres to a blinded equipotent angiotensin\u20102 or noradrenaline infusion intra\u2010operatively and for up to 48\u2009h postoperatively."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We conducted a double\u2010blind, randomised feasibility trial comparing peri\u2010operative angiotensin\u20102 with noradrenaline."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Primary feasibility outcomes included consent rate, protocol adherence, infusion duration, mean arterial pressure maintenance in the target range and major adverse outcomes."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomly allocated 60 patients at two centres to a blinded equipotent angiotensin\u20102 or noradrenaline infusion."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "We conducted a double\u2010blind, randomised feasibility trial."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomly allocated 60 patients at two centres."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Acute kidney injury occurred in 7 of 28 in the angiotensin\u20102 group vs. 12 of 32 patients in the noradrenaline group."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Acute kidney injury occurred in 7 of 28 in the angiotensin\u20102 group vs. 12 of 32 patients in the noradrenaline group (p\u2009=\u20090.31)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One participant had a stroke, one required extracorporeal support and three required renal replacement therapy, all in the noradrenaline group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

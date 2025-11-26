@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Cardiopulmonary Bypass Flow Rates on Renal Function"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "parallel-arm randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Thirty-six adult patients undergoing cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either high flow (2.9 l \u00b7 min\u20131 \u00b7 m\u20132, n = 19) or standard flow (2.4 l \u00b7 min\u20131 \u00b7 m\u20132, n = 17)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine if a higher-than-standard CPB flow improves renal blood flow, oxygen demand\u2013supply relationship, and function, and reduces tubular injury."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was renal blood flow, measured by para-aminohippuric acid clearance, over 60 minutes."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was stratified by eGFR and left ventricular ejection fraction using an online tool."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Neither patients nor clinicians were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty-six adult patients undergoing cardiac surgery were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "High flow led to a larger increase in systemic oxygen delivery (100 [95% CI, 60 to 141] vs. 31 [1.9 to 65] ml \u00b7 min\u20131 \u00b7 m\u20132; P < 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No perfusion-related adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov NCT272790."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by Swedish State, ALF-agreement, Swedish Heart and Lung Foundation, and Gothenburg Society of Medicine."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

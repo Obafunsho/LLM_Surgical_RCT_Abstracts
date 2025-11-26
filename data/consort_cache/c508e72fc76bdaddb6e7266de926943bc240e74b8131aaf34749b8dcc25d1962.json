@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Dexmedetomidine for Preventing Postoperative Delirium in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to dexmedetomidine (n=3009) or control (n=3037) groups."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of dexmedetomidine in preventing postoperative delirium (POD) in cardiac surgery patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of POD, measured within 5 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation and allocation concealment methods were assessed"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "blinding of outcome assessors, patients, and clinicians"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomised to dexmedetomidine (n=3009) or control (n=3037) groups."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Dexmedetomidine significantly reduced POD incidence (RR=0.67, 95% CI 0.59\u20130.76, p<0.00001) and POAF (RR=0.82, 95% CI 0.74\u20130.92, p=0.0005)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The study was registered with INPLASY (INPLASY2024110008)"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "funded by [source not specified]"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

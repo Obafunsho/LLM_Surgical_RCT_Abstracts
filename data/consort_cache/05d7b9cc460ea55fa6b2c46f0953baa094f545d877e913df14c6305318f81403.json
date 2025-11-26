@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Balancing of the joint gap in extension and flexion is a prerequisite for success of a total knee arthroplasty."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We therefore hypothesized the state of the knee extensor mechanism (including the patellar tendon) would influence the joint gap."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "we measured the joint gap and the patellar tendon strain from 0\u00b0 to 135\u00b0 flexion with the femoral component in position."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "When the patella was reduced, the joint gap was decreased at 90\u00b0 and 135\u00b0 (by 1.9 mm and 5.5 mm, respectively) compared with the gap with the patella everted."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

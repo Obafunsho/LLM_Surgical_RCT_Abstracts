@@ -1,0 +1,74 @@
+{
+  "pmcid": "12419121",
+  "sha256": "1fdac91c08de91019cbcc13fa976acf6eb1f42c237b974d652555767900efc7c",
+  "timestamp_utc": "2025-11-09T15:40:54.151366+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.704624848379833,
+    "reading_ease": 6.912537688442228,
+    "word_count": 398
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This was a pre-specified sub-study of two multicenter randomized controlled trials"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "older adults undergoing major elective surgery"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The primary objective was to evaluate agreement between researchers’ and family members’ postoperative delirium assessment."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Agreement between researcher-rated CAM/CAM-ICU and family-rated FAM-CAM was analyzed using Generalized Linear Mixed Model with repeated measures"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 817 patients had 1349 concurrent delirium assessments."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 817 patients had 1349 concurrent delirium assessments."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Repeated measures Cohen’s kappa indicated good overall agreement (kappa = 0.72 [95 % confidence interval, 0.63 to 0.81])."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

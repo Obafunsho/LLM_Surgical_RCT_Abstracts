@@ -1,0 +1,74 @@
+{
+  "pmcid": "12317102",
+  "sha256": "8890a3754e1491564b1e26adeefba43db5b8f9fb2b96a50dce210bff672f4c6c",
+  "timestamp_utc": "2025-11-09T22:21:35.151450+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.806555555555558,
+    "reading_ease": 28.894000000000005,
+    "word_count": 216
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Genetic Screening in Amyotrophic Lateral Sclerosis"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This multicenter, prospective cohort study enrolled 1000 incident ALS patients from 22 ALS centers in France between April 2021 and April 2022. Participants met ALS diagnostic criteria"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the frequency of SOD1 variants and C9orf72 G4C2 repeats, assessed at baseline."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "This multicenter, prospective cohort study enrolled 1000 incident ALS patients from 22 ALS centers in France between April 2021 and April 2022."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "C9orf72 G4C2 repeats were found in 7.6% of patients, while SOD1 variants were present in 1.6%."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04819555"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

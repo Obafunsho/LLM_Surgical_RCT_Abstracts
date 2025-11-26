@@ -1,0 +1,74 @@
+{
+  "pmcid": "9856244",
+  "sha256": "5b83866aeea25b7e6ad0a84d56c9757fb3555a31aaed0c533b4912906b8bb9e5",
+  "timestamp_utc": "2025-11-10T00:13:34.416525+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.31625,
+    "reading_ease": 26.427708333333356,
+    "word_count": 265
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Second Arterial Conduit Use in Coronary Artery Bypass Grafting"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted using a state-maintained clinical registry"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were patients undergoing primary, isolated multi-vessel CABG with the left internal thoracic artery between 2006 and 2011."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received a second arterial conduit (right internal thoracic artery or radial artery), while the control group received a venous conduit."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the outcomes of using a second arterial conduit compared to a venous conduit."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was all-cause mortality at 7 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 5,866 patients received a second arterial conduit, and 53,566 received a venous conduit."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group demonstrated significantly lower mortality (13.1% vs. 10.6%; HR 0.79, 95% CI 0.72–0.87)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "increased sternal wound infection risk (risk difference 1.07%, 95% CI 0.15%–2.07%)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11848233",
+  "sha256": "f015b029d0cf9e6359209ec3783da2038502e2eda4538299268a141c711de49f",
+  "timestamp_utc": "2025-11-09T15:24:42.156013+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.771861471861474,
+    "reading_ease": 37.081363636363676,
+    "word_count": 264
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "A case control study design was used to investigate group differences before and after a standardized intervention."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "ICU‐treated COVID‐19 patients without underlying kidney disease were assigned to two groups based on KDIGO Creatinine criteria for AKI."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Renal perfusion was assessed by magnetic resonance imaging using phase contrast and arterial spin labeling before and directly after plasma expansion with 7.5 mL/kg Ringer's Acetate (Baxter)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of this study was to compare the effects of plasma expansion with a standardized fluid bolus on renal perfusion in critically ill patients with AKI compared to similar patients without AKI."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Renal perfusion was assessed by magnetic resonance imaging using phase contrast and arterial spin labeling before and directly after plasma expansion."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Nine patients with AKI and eight without were included in the study."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The hemodynamic response to plasma expansion was similar in both groups, with increases in MAP by 9 mmHg (95% CI 0.5–18) and 15 mmHg (95% CI 5–24) in patients with and without AKI, respectively."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

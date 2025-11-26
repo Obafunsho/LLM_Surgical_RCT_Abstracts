@@ -1,0 +1,74 @@
+{
+  "pmcid": "10077024",
+  "sha256": "160e7d827e9b5b05cff21023d4c0b6bdcf9d62329df42640a417faca1d0b4df6",
+  "timestamp_utc": "2025-11-09T23:03:41.983626+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.863882783882786,
+    "reading_ease": 25.989450549450567,
+    "word_count": 273
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Polyethylene Glycol-Coated Haemostatic Patch in Reducing Clinically Relevant Postoperative Pancreatic Fistula"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-centre, open-label, parallel, two-arm, superiority randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "included patients aged 18-80 years undergoing PD with pancreatojejunostomy for benign or malignant periampullary tumours"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "pancreatojejunostomy reinforced with two polyethylene glycol-coated haemostatic patches (patch group) or without reinforcement (control group)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial aimed to evaluate the impact of a polyethylene glycol-coated haemostatic patch on the incidence of clinically relevant postoperative pancreatic fistula (CR-POPF) after pancreatoduodenectomy (PD)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was CR-POPF within 90 days, defined as grade B/C according to International Study Group of Pancreatic Surgery criteria."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a secure internet-based service with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between 15 May 2018 and 22 June 2020, 72 patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "72 patients were randomised, and 64 were analysed (31 in the patch group and 33 in the control group)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The risk of CR-POPF was reduced by 90% (OR 0.10, 95% CI 0.01 to 0.89, P = 0.039)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One patient died in the patch group versus three in the control group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT03419676"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

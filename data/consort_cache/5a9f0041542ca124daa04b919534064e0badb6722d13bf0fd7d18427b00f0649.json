@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The aim of this trial was to evaluate the impact of a polyethylene glycol-coated haemostatic patch on the incidence of clinically relevant postoperative pancreatic fistula after pancreatoduodenectomy."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomized, single-centre, clinical trial, patients undergoing pancreatoduodenectomy were randomized 1 : 1"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients undergoing pancreatoduodenectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "to receive pancreatojejunostomy reinforced with two polyethylene glycol-coated haemostatic patches (patch group) or without any reinforcement (control group)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this trial was to evaluate the impact of a polyethylene glycol-coated haemostatic patch on the incidence of clinically relevant postoperative pancreatic fistula after pancreatoduodenectomy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was clinically relevant postoperative pancreatic fistula, defined as grade B/C according to International Study Group of Pancreatic Surgery criteria, within 90 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients undergoing pancreatoduodenectomy were randomized 1 : 1"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From 15 May 2018 to 22 June 2020, 72 patients were randomized"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "72 patients were randomized, and 64 were included in the analyses (31 in the patch group and 33 in the control group)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The risk of clinically relevant postoperative pancreatic fistula was reduced by 90 per cent (OR 0.10, 95 per cent c.i. 0.01 to 0.89, P = 0.039)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One patient died within 90 days in the patch group versus three patients in the control group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT03419676 ( http://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

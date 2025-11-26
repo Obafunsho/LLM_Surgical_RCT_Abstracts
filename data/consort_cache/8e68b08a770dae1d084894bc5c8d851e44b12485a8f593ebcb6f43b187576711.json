@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this randomized, double-blind, placebo-controlled, dose-ranging study"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomly assigned, in a 1:1:1:1 ratio"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "120 otherwise healthy adults who underwent the extraction of bilateral impacted mandibular third molar teeth and experienced moderate to severe pain postsurgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "to receive one dose of either placebo or DFN-15 at 3 doses: 62.5, 125, and 250 mg"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The analgesic efficacy and safety of DFN-15, a new oral liquid formulation of celecoxib with more rapid absorption than the capsule, were evaluated in the treatment of acute pain in adult patients after dental surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the summed pain intensity difference (SPID) over the 6-hour postdose period (SPID6)"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly assigned, in a 1:1:1:1 ratio"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "120 otherwise healthy adults"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "All 3 doses of DFN-15 were significantly superior to placebo in SPID6 (least square mean difference over placebo: \u2212756.6, \u22121120.7, and \u22121355.1, P < 0.0001 for all comparisons)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "DFN-15 was similar to placebo in the incidence of adverse events with no apparent dose-related effects."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

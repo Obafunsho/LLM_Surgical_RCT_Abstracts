@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Electrocorticographic Monitoring in Severe Traumatic Brain Injury"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants exhibiting SDs were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing surgery for severe TBI with subdural electrode placement were eligible. This randomised controlled trial was conducted in an intensive care setting."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to standard care or a tiered intervention protocol targeting SD suppression"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial evaluates the feasibility and efficacy of a treatment protocol guided by electrocorticographic monitoring of SDs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the reduction in secondary injury, measured over 10 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention and 100 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 intervention and 97 control participants using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a significant reduction in secondary injury (mean difference = 5.2, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 3% of the intervention group and 1% of the control group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

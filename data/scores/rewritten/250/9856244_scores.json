@@ -1,0 +1,74 @@
+{
+  "pmcid": "9856244",
+  "sha256": "7faf7f049a79f9689a083ad5b50b3773450a32aeccced23090d88bc308081062",
+  "timestamp_utc": "2025-11-09T23:02:22.200115+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.737110323886643,
+    "reading_ease": 29.24401906207828,
+    "word_count": 247
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Second Arterial Conduit Use in Coronary Artery Bypass Grafting"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted using a state-maintained clinical registry"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients undergoing primary, isolated multi-vessel CABG with the left internal thoracic artery between 2006 and 2011."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received a second arterial conduit (right internal thoracic artery or radial artery), while the control group received a venous conduit."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effect of using a second arterial conduit compared to a venous conduit."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was all-cause mortality at 7 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 5,866 patients received a second arterial conduit, and 53,566 received a venous conduit."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group had significantly lower mortality (13.1% vs. 10.6%; HR 0.79, 95% CI 0.72–0.87) and reduced risks of myocardial infarction (HR 0.78, 95% CI 0.70–0.87) and repeat revascularization (HR 0.82, 95% CI 0.76–0.88)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Right internal thoracic artery grafts had similar mortality to radial artery grafts but increased sternal wound infection risk (risk difference 1.07%, 95% CI 0.15%–2.07%)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

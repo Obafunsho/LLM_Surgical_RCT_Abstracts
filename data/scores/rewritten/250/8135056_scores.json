@@ -1,0 +1,74 @@
+{
+  "pmcid": "8135056",
+  "sha256": "ec90bddb7e88b7465587fd9ef4a4cbe55b1e23a1655c6beafdec0f522022cf43",
+  "timestamp_utc": "2025-11-09T22:57:22.577926+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.29316966456004,
+    "reading_ease": 17.942374817695708,
+    "word_count": 242
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Perioperative Systemic Therapy in Resectable Colorectal Peritoneal Metastases"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "open-label, parallel-group phase 2 randomised clinical trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were patients with pathologically confirmed isolated resectable CPM who had not received systemic therapy within six months prior to enrollment."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either perioperative systemic therapy or CRS-HIPEC alone."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the proportion of macroscopic complete CRS-HIPEC and Clavien-Dindo grade 3 or higher postoperative morbidity."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 79 patients were randomised, with 37 in the experimental arm and 42 in the control arm."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was conducted on a modified intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The proportions of macroscopic complete CRS-HIPEC were 89% in the experimental arm and 86% in the control arm (risk ratio, 1.04; 95% CI, 0.88-1.23; P = .74)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Clavien-Dindo grade 3 or higher morbidity was 22% in the experimental arm and 33% in the control arm (risk ratio, 0.65; 95% CI, 0.31-1.37; P = .25). No treatment-related deaths occurred."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT02758951"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

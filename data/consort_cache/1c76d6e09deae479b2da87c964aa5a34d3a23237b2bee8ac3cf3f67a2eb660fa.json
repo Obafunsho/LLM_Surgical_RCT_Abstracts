@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "This study was performed in 13 patients who were candidates for facelift."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Submitted to one of three protocols: injection of SVF-enriched fat or expanded adipose-derived stem cells or fat plus PRP in the preauricular areas."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: To determine if PRP injection could replace the cutaneous regenerative effect of adipose-derived stem cells."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Fragments of skin were removed before and 3 months after treatment and analyzed by optical and electron microscopy."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The use of fat plus PRP led to the presence of more pronounced inflammatory infiltrates and a greater vascular reactivity."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

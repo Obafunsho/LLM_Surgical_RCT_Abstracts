@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Biventricular Pacing After Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "50 adult patients at high risk of left ventricular dysfunction post-cardiac surgery were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "50 adult patients at high risk of left ventricular dysfunction post-cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either temporary biventricular pacing or standard care (no pacing)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "VIS was measured after cardiopulmonary bypass, after sternal closure, and 0\u20137 hours post-intensive care unit (ICU) admission"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "50 adult patients at high risk of left ventricular dysfunction post-cardiac surgery were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "VIS decreased in the biventricular pacing group from 12.0\u00b11.5 to 10.5\u00b12.0, while it increased in the standard care group from 12.5\u00b11.9 to 15.5\u00b12.9"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

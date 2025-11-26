@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Decision Support Interventions for Older Women with Breast Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "cluster randomised controlled trial (cRCT)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "women aged 70 years or above with operable breast cancer. Units were randomised 1:1 to either DESIs or usual care"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The DESIs comprised an online tool, booklet, and decision aid."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was quality of life (QoL) at 6 months, measured using the EORTC QLQ-C30."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was by block, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 1339 women were randomised (670 intervention, 669 usual care) between December 2015 and June 2018."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Intention-to-treat analysis revealed no significant difference in global QoL at 6 months"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "no significant difference in global QoL at 6 months (difference -0.20, 95% CI -2.69 to 2.29; P = 0.900)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "no significant adverse events reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: EudraCT 2015-004220-61, ISRCTN46099296."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This study was funded by the National Institute for Health Research (NIHR)."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

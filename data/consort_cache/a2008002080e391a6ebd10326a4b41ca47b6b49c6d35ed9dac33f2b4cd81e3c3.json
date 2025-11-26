@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Oral Antibiotics After Two-Stage Exchange Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive 3 months of oral antibiotics or no antibiotics after negative operative cultures at reimplantation."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This multicenter, randomised controlled trial included adult patients undergoing two-stage hip or knee revision arthroplasty for PJI, meeting Musculoskeletal Infection Society (MSIS) criteria."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive 3 months of oral antibiotics or no antibiotics after negative operative cultures at reimplantation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether a 3-month course of oral antibiotics post-reimplantation reduces infection recurrence."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was infection-free survival, assessed over a mean follow-up of 14 months for the antibiotic group and 10 months for the control group."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 107 patients were randomised: 59 to the antibiotic group and 48 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Infection recurrence was lower in the antibiotic group (5% vs. 19%; hazard ratio, 4.37; 95% CI, 1.297\u201319.748; p = 0.016)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse reactions to antibiotics occurred in three patients, leading to discontinuation."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

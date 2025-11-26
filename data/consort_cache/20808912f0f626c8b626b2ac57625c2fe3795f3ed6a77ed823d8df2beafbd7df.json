@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Wound perfusion and oxygenation are important determinants of the development of postoperative wound infections."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients undergoing open colon resection were randomly assigned to small (n=124, 8 mL\u00b7kg -1 \u00b7h -1 ) or large volume (n=129, 16-18 mL\u00b7kg -1 \u00b7h -1 ) fluid management."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients undergoing open colon resection were randomly assigned to small (n=124, 8 mL\u00b7kg -1 \u00b7h -1 ) or large volume (n=129, 16-18 mL\u00b7kg -1 \u00b7h -1 ) fluid management."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients undergoing open colon resection were randomly assigned to small (n=124, 8 mL\u00b7kg -1 \u00b7h -1 ) or large volume (n=129, 16-18 mL\u00b7kg -1 \u00b7h -1 ) fluid management."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We tested the hypothesis that supplemental fluid administration during and after elective colon resections decreases the incidence of postoperative wound infections."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "All wound infections diagnosed using either criterion by a blinded observer in the 15 days following surgery were considered in the analysis."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "All wound infections diagnosed using either criterion by a blinded observer in the 15 days following surgery were considered in the analysis."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Patients undergoing open colon resection were randomly assigned to small (n=124, 8 mL\u00b7kg -1 \u00b7h -1 ) or large volume (n=129, 16-18 mL\u00b7kg -1 \u00b7h -1 ) fluid management."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Of the patients given small fluid administration, 14 had surgical wound infections; 11 given large fluid therapy had infections, P =0.46."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

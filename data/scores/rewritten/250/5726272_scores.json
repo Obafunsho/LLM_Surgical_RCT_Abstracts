@@ -1,0 +1,74 @@
+{
+  "pmcid": "5726272",
+  "sha256": "680c21e895a27f7bef182f99a40aa86f37d3a2291627fc889c34fcb3d7f2026d",
+  "timestamp_utc": "2025-11-09T22:47:45.568033+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.97865573770492,
+    "reading_ease": 38.08068852459016,
+    "word_count": 244
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of a Decision Aid to Improve Access to Total Knee Replacement Surgery for Black Patients with Osteoarthritis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either a 40-minute decision aid video on TKR or usual care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "336 black participants aged 50 years or older with chronic knee pain, a Western Ontario McMaster Universities Osteoarthritis Index score of at least 39, and radiographic evidence of knee OA were recruited from three medical centers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either a 40-minute decision aid video on TKR or usual care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether a decision aid improves access to TKR for black patients with OA of the knee."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was receipt of TKR within 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 168 participants were randomised to each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the intention-to-treat analysis, 25 intervention patients (14.9%) and 13 controls (7.7%) underwent TKR within 12 months"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The adjusted odds ratio for TKR receipt was 2.10 (95% CI, 1.04–4.27)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: clinicaltrials.gov Identifier: NCT01851785."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

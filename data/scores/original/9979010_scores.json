@@ -1,0 +1,74 @@
+{
+  "pmcid": "9979010",
+  "sha256": "d2f619e38e9dafa2e313675368a4a46c13849aacb0458fe9ebab9a2a68a7b643",
+  "timestamp_utc": "2025-11-09T16:23:08.605646+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.569588815789476,
+    "reading_ease": 45.72227796052633,
+    "word_count": 475
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The BREAST trial was a randomized clinical trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The BREAST trial was a randomized clinical trial conducted between November 2, 2015, and October 31, 2021, performed in 7 hospitals across the Netherlands."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The patients with breast cancer who had undergone mastectomy and were seeking breast reconstruction were screened for eligibility (radiotherapy history and physique) by participating plastic surgeons."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Interventions: Breast reconstruction with AFT plus expansion or 2-phased IBR."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To investigate quality of life (QoL) among patients undergoing a new breast reconstruction technique, autologous fat transfer (AFT), compared with that among patients undergoing implant-based reconstruction (IBR)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The predefined primary outcome was QoL at 12 months after final surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was done in a 1:1 ratio."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 193 female patients (mean [SD] age, 49.2 [10.6] years) 18 years or older who desired breast reconstruction were included."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "In total, 64 women in the AFT group and 68 women in the IBR group completed follow-up."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The BREAST-Q scores were higher in the AFT group in all 5 domains and significantly higher in 3: satisfaction with breasts (difference, 9.9; P = .002), physical well-being: chest (difference; 7.6; P = .007), and satisfaction with outcome (difference, 7.6; P = .04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No differences in oncological serious adverse events were found."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT02339779"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

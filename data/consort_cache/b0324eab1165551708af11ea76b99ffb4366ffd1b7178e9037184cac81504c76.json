@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This cluster randomized clinical trial of 577 eligible patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were cluster randomized by room"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "577 eligible patients enrolled 377 older patients (\u226565 years of age) undergoing gastrectomy, pancreaticoduodenectomy, and colectomy at a 2000-bed urban medical center in Taipei, Taiwan"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention (implemented by an mHELP nurse) consisted of 3 protocols administered daily: orienting communication, oral and nutritional assistance, and early mobilization."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To examine whether a modified Hospital Elder Life Program (mHELP) reduces incident delirium and LOS in older patients undergoing abdominal surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Presence of delirium was assessed daily by 2 trained nurses who were masked to intervention status by using the Confusion Assessment Method."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were cluster randomized by room"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Presence of delirium was assessed daily by 2 trained nurses who were masked to intervention status"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "377 (65.3%) were enrolled and randomly assigned to the mHELP (n\u2009=\u2009197) or control (n\u2009=\u2009180) group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Postoperative delirium occurred in 13 of 196 (6.6%) mHELP participants vs 27 of 179 (15.1%) control individuals"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Postoperative delirium occurred in 13 of 196 (6.6%) mHELP participants vs 27 of 179 (15.1%) control individuals, representing a relative risk of 0.44 in the mHELP group (95% CI, 0.23\u20130.83; P =\u2009.008)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: clinicaltrials.gov Identifier: NCT01045330 ."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

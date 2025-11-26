@@ -1,0 +1,74 @@
+{
+  "pmcid": "3705144",
+  "sha256": "22b36bba7bca2afe04d5bcd3f900d41a3a74d41d64330d50c41e7b227859b05c",
+  "timestamp_utc": "2025-11-09T15:53:59.823087+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.9904776119403,
+    "reading_ease": 40.1332537313433,
+    "word_count": 268
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "open-label, nonrandomized, within-patient, phase 3 trials"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "13 centers contributed 148 patients with breast cancer"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Each patient received [ 99m Tc]tilmanocept and vital blue dye (VBD)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint, concordance (lower boundary set point at 90 %), was the proportion of nodes detected by VBD and [ 99m Tc]tilmanocept"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "13 centers contributed 148 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "207 of 209 nodes detected by VBD were also detected by [ 99m Tc]tilmanocept for a concordance rate of 99.04 % ( p < 0.0001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No serious adverse events were attributed to [ 99m Tc]tilmanocept"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "7614411",
+  "sha256": "a2476974e598ffe2341157a2bf9857102eb1f17d2496fb6143aa0941edc9ceef",
+  "timestamp_utc": "2025-11-09T16:14:56.972149+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.85466552315609,
+    "reading_ease": 37.22789879931392,
+    "word_count": 212
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The aim of this RCT was to assess the clinical effectiveness and cost-effectiveness of nail bed repair with fingernail replacement/substitution compared with repair without fingernail replacement."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A two-arm 1 : 1 parallel-group open multicentre superiority RCT was performed across 20 secondary-care hospitals in the UK."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "451 children presenting with a suspected nail bed injury were recruited between July 2018 and July 2019."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "224 were allocated to the nail-discarded arm, and 227 to the nail-replaced arm."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this RCT was to assess the clinical effectiveness and cost-effectiveness of nail bed repair with fingernail replacement/substitution compared with repair without fingernail replacement."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The co-primary outcomes were surgical-site infection at around 7 days after surgery and cosmetic appearance summary score at a minimum of 4 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "A two-arm 1 : 1 parallel-group open multicentre superiority RCT was performed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "open multicentre superiority RCT"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "451 children presenting with a suspected nail bed injury were recruited between July 2018 and July 2019; 224 were allocated to the nail-discarded arm, and 227 to the nail-replaced arm."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean total healthcare cost over the 4 months after surgery was €84 (95 per cent c.i. 34 to 140) lower for the nail-discarded arm than the nail-replaced arm ( P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There was no difference in the number of surgical-site infections at around 7 days between the two interventions."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: ISRCTN44551796 ( http://www.controlled-trials.com )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

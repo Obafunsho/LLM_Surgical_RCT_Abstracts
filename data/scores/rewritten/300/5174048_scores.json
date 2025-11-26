@@ -1,0 +1,74 @@
+{
+  "pmcid": "5174048",
+  "sha256": "4db81b5342f6dc399bff1a737ae34da8c856e6fcc188953b9aa2c55ab8e044e7",
+  "timestamp_utc": "2025-11-09T23:56:53.085391+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.637454545454549,
+    "reading_ease": 34.47118181818183,
+    "word_count": 264
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Imageless Navigation in Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised controlled trial included 135 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients scheduled for primary THA. The study was conducted at a single orthopedic center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to surgery with or without imageless navigation"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether imageless navigation reduces psoas impingement compared to standard techniques."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the anterior protrusion of the cup above the acetabular rim, assessed postoperatively on 3-D CT by a blinded external institute."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomised controlled trial included 135 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Cup anteversion (HR, 0.87; 95% CI, 0.81–0.93; p < 0.001) and female sex (HR, 3.88; 95% CI, 1.01–14.93; p = 0.049) were associated with potential psoas impingement."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The trial was registered under [Trial Registration Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding was provided by [Funding Source]."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

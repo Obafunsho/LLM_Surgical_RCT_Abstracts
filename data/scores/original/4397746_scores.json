@@ -1,0 +1,74 @@
+{
+  "pmcid": "4397746",
+  "sha256": "e1d2a17550cd259fe2623fd7a02f537493f0a527b6399bdaa224145af3c9980d",
+  "timestamp_utc": "2025-11-09T15:59:11.941894+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.063390099009904,
+    "reading_ease": 37.35685742574259,
+    "word_count": 404
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Twenty-two patients (44 tibias) undergoing bilateral tibial lengthening enrolled in this randomized trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "All patients underwent stature lengthening for familial short stature with the lengthening over nail technique."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Ten patients (20 segments) received BMAC combined with PRP injection (treatment group) and 10 patients (20 segments) received no injection (control group)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "In patients undergoing bilateral tibial lengthening, we compared those receiving an osteotomy site injection of autologous bone marrow aspirate concentrate (BMAC) plus platelet-rich plasma (PRP) with those not receiving such an injection."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "external fixator index (time in external fixation divided by amount of lengthening), full weightbearing index (time until a patient was permitted to do full weightbearing divided by amount of lengthening), four cortical healing indexes (time until each cortical union divided by amount of lengthening), and callus shape and type."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "this assessment was made by the surgeon who was blinded to the treatment each patient received."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Twenty-two patients (44 tibias) undergoing bilateral tibial lengthening enrolled in this randomized trial."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "leaving 20 patients (40 segments) for inclusion."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "mean cortical healing indexes (anterior/posterior/medial/lateral) were 1.14/0.81/0.96/0.88 months/cm in the treatment group and 1.47/1.26/1.42/1.22 months/cm in the control group (all p < 0.001)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

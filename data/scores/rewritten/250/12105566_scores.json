@@ -1,0 +1,74 @@
+{
+  "pmcid": "12105566",
+  "sha256": "bd54ec5ceaa4410a4e58c8d38addb13953f28421962df76811261091d0b9fb00",
+  "timestamp_utc": "2025-11-09T22:15:25.946860+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.534453622846357,
+    "reading_ease": 26.101477460467322,
+    "word_count": 223
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Accuracy of Surgical Ward Round Documentation"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This prospective observational cohort study was conducted"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants included adults admitted to surgical wards who could consent and comprehend English."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the accuracy of surgical ward round documentation."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the accuracy of Major discussion documentation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "32.4% of Major discussion points were omitted from case notes, and 11% contained significant errors."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Central Adelaide Local Health Network Human Research Ethics Committee (#12993)."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by the Avant Foundation Grant."
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

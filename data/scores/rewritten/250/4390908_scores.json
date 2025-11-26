@@ -1,0 +1,74 @@
+{
+  "pmcid": "4390908",
+  "sha256": "58b75451c72345881a197771e627ccb742369017739ccd1124e946180041f7cf",
+  "timestamp_utc": "2025-11-09T22:42:19.785085+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.658175693184766,
+    "reading_ease": 35.26238144597045,
+    "word_count": 227
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Highly Porous Metal Tibia in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "397 patients (age 67.8 ± 8.7 years; 54% female) were randomised into three groups"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "397 patients (age 67.8 ± 8.7 years; 54% female)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "highly porous metal tibia with a traditional modular cemented tibia"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to compare the effectiveness of a highly porous metal tibia with a traditional modular cemented tibia"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was survivorship at 5 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Stratified randomisation was performed based on surgeon, patient’s age, sex, and body mass index."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From 2003 to 2006, 397 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Four patients were lost to follow-up before 2 years."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Survivorship at 5 years was similar across groups (96.8% [1]; 97.6% [2]; 96.7% [3]; p = 0.59)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "complication rates were comparable between groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

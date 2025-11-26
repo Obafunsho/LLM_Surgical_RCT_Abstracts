@@ -1,0 +1,74 @@
+{
+  "pmcid": "9996687",
+  "sha256": "c0364c6183c2f7596700e16d4ec975684e1666642807ca28391844e21f0f48d8",
+  "timestamp_utc": "2025-11-10T00:14:17.266076+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.981947791164657,
+    "reading_ease": 26.215627896200232,
+    "word_count": 249
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Embolic Protection Devices in Surgical Aortic Valve Replacement"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial involved 383 patients undergoing SAVR"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "to evaluate the efficacy of embolic protection devices"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 90-day functional status, neurocognitive decline from pre-surgical baseline, and quality of life (QoL)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial involved 383 patients undergoing SAVR"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Stroke was associated with longer hospital stays (HR 0.62; 95% CI 0.42–0.94; p=0.02) and poorer outcomes at 90 days, including higher modified Rankin scores (OR 5.9; 95% CI 1.7–20.1; p=0.01), depression (OR 5.3; 95% CI 1.6–17.3; p=0.006), and neurocognitive decline (OR 7.8; 95% CI 2.3–26.4; p=0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

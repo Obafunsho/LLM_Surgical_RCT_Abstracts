@@ -1,0 +1,74 @@
+{
+  "pmcid": "12470380",
+  "sha256": "6c88ae1050ec3a38a060d3a00e0cd58c0da52b0c88eee68e7de6d703ebb6288e",
+  "timestamp_utc": "2025-11-09T23:39:59.289722+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.171158695217134,
+    "reading_ease": 18.116822093255962,
+    "word_count": 263
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Regional Anesthesia in Kidney Transplant Recipients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were divided into two groups: Group A received ultrasound-guided TAP blocks, and Group B did not."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at Wellstar MCG, Augusta University, Georgia, USA, this retrospective study included 100 adult patients undergoing deceased donor kidney transplant, excluding those with opioid dependence."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group A received ultrasound-guided TAP blocks, and Group B did not."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the impact of transversus abdominis plane (TAP) blocks on peri-operative analgesic use and side effects."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the use of intra-operative and post-operative analgesia up to 24 hours post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fifty patients were included in each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Fifty patients were included in each group."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Group A demonstrated a statistically significant reduction in intra-operative fentanyl use (p = 0.04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No complications were recorded from TAP block use."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

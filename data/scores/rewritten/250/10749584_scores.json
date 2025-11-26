@@ -1,0 +1,74 @@
+{
+  "pmcid": "10749584",
+  "sha256": "e020eb3dddcc135e9aad66273f52b266c744f0e06e5204aea98ad1bdf016c10d",
+  "timestamp_utc": "2025-11-09T21:56:20.155794+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.675902702702704,
+    "reading_ease": 34.33801621621623,
+    "word_count": 222
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Endovascular Aneurysm Repair versus Open Surgical Repair in Abdominal Aortic Aneurysm Management"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "eligibility based on fitness for surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compares endovascular aneurysm repair (EVAR) with open surgical repair (OSR)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compares endovascular aneurysm repair (EVAR) with open surgical repair (OSR)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was short-term mortality, measured within 30 days post-intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of interventions."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 2790 participants were randomised: 1362 to EVAR and 1361 to OSR."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Short-term mortality was significantly lower in the EVAR group (1.4% vs. 4.2%, OR 0.33, 95% CI 0.20 to 0.55; P < 0.0001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Pulmonary complications were more frequent in the OSR group (OR 0.36, 95% CI 0.17 to 0.75; P = 0.006)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not disclosed."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "4294909",
+  "sha256": "86d5fb6f991b0f100b4ffd3294f694e25fa4a0fddd4534770ed33437b02e818e",
+  "timestamp_utc": "2025-11-09T23:53:18.793198+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.036749698674168,
+    "reading_ease": 33.32570711128972,
+    "word_count": 262
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Surgeon Bias in Recommendations for Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A randomised controlled trial was conducted using standardized patient scenarios. An a priori power analysis determined that 112 participants were needed to detect a 15% difference in recommendations with 90% power at a 0.05 significance level."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Orthopaedic surgeons attending the 2012 annual meetings of the New York State Society of Orthopaedic Surgeons and American Association of Hip and Knee Surgeons were recruited. Eligibility criteria included surgeons passing an open recruitment table."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized to view one of three experimental scenarios (white female, black male, black female) after viewing a control scenario (white male)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the influence of surgeon bias on recommendations for total knee arthroplasty (TKA) based on patient race and sex."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the recommendation for TKA, measured immediately after viewing each scenario."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable as participants were aware of the scenarios."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 113 surgeons, 39 viewed the white male plus black female scenario, 37 viewed the white male plus black male scenario, and 37 viewed the white male plus white female scenario."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 113 surgeons, 39 viewed the white male plus black female scenario, 37 viewed the white male plus black male scenario, and 37 viewed the white male plus white female scenario."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Concordant responses were 85%, 89%, and 77%, respectively, with no significant effect of patient race or sex (p = 0.99, p = 0.32, p = 0.71)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "pmcid": "5325087",
+  "pmid": "28225739",
+  "title": "Damage control laparotomy utilization rates are highly variable among Level I trauma centers: PROPPR findings",
+  "abstract": "Background: Damage control laparotomy (DCL) is intended to limit deleterious effects from trauma induced coagulopathy. DCL has been associated with mortality reduction, but may increase complications including sepsis, abscess, respiratory failure, hernia, and gastrointestinal fistula. We hypothesized that (1) DCL incidence would vary between institutions; (2) mortality rates would vary with DCL rates; (3) standard DCL criteria of pH, INR, temperature and major intra-abdominal vascular injury (MVI) would not adequately capture all patients.\n\nMethods: Trauma patients at 12 level 1 North American trauma centers were randomized based on transfusion ratios as described in the PROPPR trial. We analyzed outcomes following emergent laparotomy using a mixed-effects logistic model comparing DCL versus definitive surgical management (DSM) with random effect for study site. Primary outcomes were 24-hour and 30-day mortality.\n\nResults: 329 patients underwent emergent laparotomy: 213 DCL (65%) and 116 DSM (35%). DCL rates varied between institutions (33%-83%), (p=0.002). Median ISS was higher in the DCL group, 29 (IQR: 13,34) versus 21 (IQR: 22,41) (p<0.001). 24-hour mortality was 19% with DCL versus 4% (p<0.001); 30-day mortality was 28% with DCL versus 19% (p<0.001). In a mixed-effects model, ISS and MVI were correlates of DCL (OR: 1.05, 95% CI: 1.02-1.07 and 2.7, 95% CI: 1.4-5.2). DCL was not associated with 30-day mortality OR 2.33 (CI 0.97-5.60). Correlates included ISS (OR: 1.06, 95% CI: 1.02, 1.09), PRBCs in 24hrs (OR: 1.10, 95% CI: 1.03, 1.18), and age (1.04, 95% CI: 1.01, 1.06). No significant mortality difference was detected between institutions (p=0.63). Sepsis and VAP occurred more frequently with DCL (p<0.05). 80% (135/213) of DCL patients met standard criteria.\n\nConclusions: Although DCL utilization varied significantly between institutions, there was no significant mortality difference between centers. This finding suggests tempering DCL use may not decrease mortality, but could decrease related complications.",
+  "authors": [
+    "Justin J. Watson",
+    "Jamison Nielsen",
+    "Kyle Hart",
+    "Priya Srikanth",
+    "John D. Yonge",
+    "Christopher R. Connelly",
+    "Phillip M. Kemp Bohan",
+    "Hillary Sosnovske",
+    "Barbara C. Tilley",
+    "Gerald van Belle",
+    "Bryan A. Cotton",
+    "Terence S. O'Keeffe",
+    "Eileen M. Bulger",
+    "Karen J. Brasel",
+    "John B. Holcomb",
+    "Martin A. Schreiber"
+  ],
+  "journal": "The journal of trauma and acute care surgery",
+  "year": "2017",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

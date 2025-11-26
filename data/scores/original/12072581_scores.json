@@ -1,0 +1,74 @@
+{
+  "pmcid": "12072581",
+  "sha256": "bd601364d894484a5deebefdce5a00ddd0e208b7f958b2c3a5144538814f25e0",
+  "timestamp_utc": "2025-11-09T15:29:33.820801+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.435320584926888,
+    "reading_ease": 23.88299212598426,
+    "word_count": 254
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "prospective, single-centre, randomised, placebo-controlled clinical study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients scheduled for elective surgery under general or combined general and regional anaesthesia"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "ICT group (intervention) or a control group that watched a video without anaesthetic risk content"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The iPREDICT study aims to investigate the feasibility of using an interactive consultation tool (ICT) to improve patient awareness of anaesthesia-related risks."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "assessed about anaesthetic risk knowledge after PAA and two days later"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 373 participants were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "315 completed the assigned online module prior to their PAA"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "ICT group identifying significantly more correct risks than the control group (median 13.0 vs. 11.0, p < 0.05)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

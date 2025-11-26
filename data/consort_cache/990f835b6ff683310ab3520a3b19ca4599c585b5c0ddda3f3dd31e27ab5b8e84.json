@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomized to laser versus radiofrequency ablation (RFA)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients diagnosed by percutaneous biopsy (ultrasound or stereotactic-guided) with breast cancer \u22641.5cm, >1cm from the skin and <5mm residual disease by MRI were accrued to this IRB-approved study."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomized to laser versus radiofrequency ablation (RFA)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: Percutaneous ablation of breast cancer has shown promise as a treatment alternative to open lumpectomy."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomized to laser versus radiofrequency ablation (RFA)."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "21 patients were accrued to the study."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Fifteen patients received RFA and all showed 100% ablation and negative margins."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

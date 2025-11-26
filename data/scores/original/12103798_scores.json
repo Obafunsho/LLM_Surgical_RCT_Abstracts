@@ -1,0 +1,74 @@
+{
+  "pmcid": "12103798",
+  "sha256": "d16557852c4c687fd5c93e1d7362d5e045bc1548722a85aa03aba5d629bed201",
+  "timestamp_utc": "2025-11-09T15:30:27.712086+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.600158730158736,
+    "reading_ease": 10.573901098901104,
+    "word_count": 252
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This single-center, retrospective study included 640 adult patients who underwent NTI at Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, between June 2020 and December 2021."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to identify risk factors for epistaxis following NTI and develop a nomogram-based prediction model to provide clinicians with a reliable risk assessment tool."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "This single-center, retrospective study included 640 adult patients who underwent NTI at Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, between June 2020 and December 2021."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 574 patients were included."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The model's area under curve (AUC) was 0.957 in the training set and 0.900 in the validation set, indicating good discrimination and accuracy."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

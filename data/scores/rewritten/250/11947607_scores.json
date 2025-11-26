@@ -1,0 +1,74 @@
+{
+  "pmcid": "11947607",
+  "sha256": "ff97d03d1735cd672b05fbfa27c466e52166924475ab4503972a7c63a77d0907",
+  "timestamp_utc": "2025-11-09T22:11:33.275892+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.477491408934714,
+    "reading_ease": 15.32002863688433,
+    "word_count": 194
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to update the 2019 EACTS/EACTA/EBCP guidelines on cardiopulmonary bypass (CPB) in adult cardiac surgery"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The task force was funded exclusively by EACTS, EACTAIC, and EBCP, without involvement from the healthcare industry."
+      }
+    },
+    "total_score": 2,
+    "max_score": 25
+  }
+}

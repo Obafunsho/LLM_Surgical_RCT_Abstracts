@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients undergoing elective Caesarean section were assigned alternately to one of two groups."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients undergoing elective Caesarean section"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "In Group 1, all blood and AF was collected with one suction. In Group 2, AF was aspirated to waste with a second separate suction device before collection of any blood."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this exploratory study was to measure amniotic fluid (AF), heparin, and fetal red cell contamination of washed filtered salvaged maternal blood and to investigate differences based on the number of suction devices used."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Mean AFP levels post-filtration were 2.58 IU ml \u22121 in Group 1 and 3.53 IU ml \u22121 in Group 2."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

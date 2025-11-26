@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Cemented and Uncemented Hemiarthroplasty for Displaced Femoral Neck Fractures in the Elderly"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either a cemented implant (n=112) or an uncemented, hydroxyapatite-coated implant (n=108)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 70 years and older with displaced femoral neck fractures"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either a cemented implant (n=112) or an uncemented, hydroxyapatite-coated implant (n=108)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the mean Harris hip score at 3 and 12 months post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 220 participants were randomised between January 2020 and June 2021"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean Harris hip score showed equivalence between groups: 70.9 in the cemented group and 72.1 in the uncemented group at 3 months (mean difference, 1.2) and 78.9 and 79.8 at 12 months (mean difference, 0.9)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complication and mortality rates were similar"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

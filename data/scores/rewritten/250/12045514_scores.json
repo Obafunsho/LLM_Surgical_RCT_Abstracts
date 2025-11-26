@@ -1,0 +1,74 @@
+{
+  "pmcid": "12045514",
+  "sha256": "2b00c943c3dc633182274a3f13726a518be98dc910953e634832a6f0bbc39534",
+  "timestamp_utc": "2025-11-09T22:13:31.463860+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.782422764227647,
+    "reading_ease": 25.459731707317104,
+    "word_count": 246
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Early Peritoneal Dialysis in Newborns Post-Cardiac Surgery: A Retrospective Cohort Study"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This retrospective single-center study was conducted at the Children's Hospital of Mississippi, involving 49 newborns who underwent congenital heart surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Newborns with prolonged CPB times (>180 minutes), postoperative oligoanuria, and/or inability to achieve negative fluid balance within 24 hours were selected for early PD (PD [+])."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were 5% fluid accumulation at 48 hours and severe AKI on postoperative day (POD) 5."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "involving 49 newborns who underwent congenital heart surgery between January 2012 and December 2015."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 49 newborns, 29 were initiated on early PD, while 20 used the PD catheter as an abdominal drain."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The early PD group had significantly less urine output on POD 1 (0.98 vs. 3.02 ml/kg per hour; P = 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

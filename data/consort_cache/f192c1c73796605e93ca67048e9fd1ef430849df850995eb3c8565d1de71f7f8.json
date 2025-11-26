@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "A retrospective was conducted."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "10 patients with TPFs were treated at our hospital"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compare the biomechanical strength and directional deformation between standard medial dual plates (MDPs) and medial customized plate (MCP)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to validate the feasibility of customized implants through optimized manufacturing within a clinically acceptable timeframe and evaluate the mechanical strength of customized internal implants through finite element analysis."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From May 1, 2023, to June 1, 2023, 10 patients with TPFs were treated"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Follow-up analysis showed operative times of 1.37\u2009\u00b1\u20090.58\u2009h, intraoperative blood loss of 260\u2009\u00b1\u2009179.20\u2009mL, and favorable functional outcomes"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the \u03b3\u2010type plate showed comparable strength to the MDPs system via finite element analysis and demonstrated a more vital ability to resist the separation of fracture fragments, with the maximum displacement of MDPs (0.61878\u2009mm) 2.4 times higher than that of MCP (0.26124\u2009mm)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

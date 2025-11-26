@@ -1,0 +1,74 @@
+{
+  "pmcid": "2914304",
+  "sha256": "64ee2165864a49cf848f105de76592cc15fd1610fcc5c503b0990e5e7fecfb12",
+  "timestamp_utc": "2025-11-09T22:35:15.408956+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.840921465968592,
+    "reading_ease": 18.50961954624782,
+    "word_count": 191
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The Carotid Revascularization, Endarterectomy vs. Stenting Trial (CREST): A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1 to CAS or CEA."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants with symptomatic carotid stenosis (≥50% by angiography, ≥70% by ultrasound) or asymptomatic stenosis (≥60% by angiography, ≥70% by ultrasound) were randomised 1:1 to CAS or CEA."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing carotid artery stenting (CAS) to carotid endarterectomy (CEA)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "CREST aims to provide insights into the efficacy of CAS versus CEA in preventing major cardiovascular events."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the composite of stroke, myocardial infarction, and all-cause mortality during a 30-day peri-procedural period, and ipsilateral stroke over up to 4 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "1,261 participants were randomised to each group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "The analysis approach was not specified."
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "The primary outcome results, effect size, and precision are not provided."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not detailed."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Sponsored by the National Institute of Neurological Disorders and Stroke (NINDS)."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

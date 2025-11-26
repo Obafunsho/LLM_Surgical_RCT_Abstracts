@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Shared Decision-Making in Major Surgery for Older Adults"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive a question prompt list brochure or standard care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "involved 43 surgeons and 446 patients aged 60 or older with at least one comorbidity at outpatient surgical clinics across five academic centers."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive a question prompt list brochure or standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the use of shared decision-making in surgical consultations."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the OPTION5 score, measuring shared decision-making (range 0-100), assessed over consultations from June 1, 2016, to November 31, 2018."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "involved 43 surgeons and 446 patients aged 60 or older with at least one comorbidity at outpatient surgical clinics across five academic centers."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 378 consultations analysed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "the mean OPTION5 score was 34.7 (SD 20.6), with no significant difference between the intervention (mean 36.7, SD 21.2) and control (mean 32.9, SD 19.9) groups (effect estimate 3.80; 95% CI, \u22120.30 to 8.00; P =\u2009.07)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT02623335."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

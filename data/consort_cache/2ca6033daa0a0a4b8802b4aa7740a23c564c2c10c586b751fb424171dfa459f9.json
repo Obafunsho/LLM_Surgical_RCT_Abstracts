@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Ventilation Modes in Pediatric Thoracic Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomly assigned to either the PCV-VG group (n=42) or the volume-controlled ventilation (VCV) group (n=41)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eighty-three children aged 6 months to 18 years, undergoing video-assisted thoracoscopic lobectomy with OLV"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to either the PCV-VG group (n=42) or the volume-controlled ventilation (VCV) group (n=41)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated whether pressure-controlled ventilation-volume guaranteed (PCV-VG) reduces intrapulmonary shunt (Qs/Qt) and ventilator-induced lung injury (VILI)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was Qs/Qt, measured at five time points during surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealed in opaque envelopes"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Data collectors and surgical staff were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomly assigned to either the PCV-VG group (n=42) or the volume-controlled ventilation (VCV) group (n=41)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "PCV-VG improved oxygenation (higher PaO2, PaO2/FiO2), reduced airway pressure (25 cmH2O to 20 cmH2O at T2, p<0.0001), and lowered PPCs incidence (38.5% to 7.3%, OR 0.13, 95% CI: 0.03\u20130.50, p=0.001)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ChiCTR2200065237"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

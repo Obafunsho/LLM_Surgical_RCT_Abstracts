@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Parecoxib for Postoperative Analgesia in Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Sixty-two patients were randomly assigned"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "parecoxib 40 mg at induction, placebo at wound closure, and parecoxib 40 mg 12 hours after induction (pre); or 3) placebo at induction, parecoxib 40 mg at wound closure, and parecoxib 40 mg 12 hours after induction (post)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed the analgesic efficacy of parecoxib"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Pain scores were recorded every 4 hours for 24 hours using a visual analog scale"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty-two patients were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Postoperative pain scores were lower in the pre and post groups compared to the control group"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were recorded every 4 hours, with no significant differences in frequency or severity between groups"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

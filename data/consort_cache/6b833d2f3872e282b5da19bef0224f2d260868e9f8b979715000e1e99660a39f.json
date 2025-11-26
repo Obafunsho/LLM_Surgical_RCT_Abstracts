@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "205 patients who underwent varicose vein treatment with either polidocanol foam sclerotherapy (57 patients, 90 legs) or conventional surgery (148 patients, 236 legs)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "polidocanol foam sclerotherapy compared to conventional surgery"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This large sample-size study was designed to evaluate the outcomes of polidocanol foam sclerotherapy compared to conventional surgery based on an analysis of PROMs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Patients were preoperatively assessed and re-evaluated 30 days after the procedure using the Venous Disease Severity Score (VCSS) and specific venous disease quality-of-life questionnaires (VEINES-QoL/Sym)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "205 patients who underwent varicose vein treatment"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "57 patients, 90 legs) or conventional surgery (148 patients, 236 legs)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "surgery promoted greater improvements in VCSS (on average 4.02-points improvement, p < 0.001), VEINES-QoL (average 8-points improvement, p < 0.001), and VEINES-Sym (average 11.66 points improvement, p < 0.001)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

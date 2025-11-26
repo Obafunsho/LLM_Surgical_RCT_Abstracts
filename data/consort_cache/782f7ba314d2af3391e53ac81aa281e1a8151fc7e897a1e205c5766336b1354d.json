@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Obesity and OSAS on Morphine Pharmacokinetics in Children"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "children aged 5\u201312 years undergoing surgery were randomised into three groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "children aged 5\u201312 years undergoing surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Each participant received a morphine dose of 0.05 mg/kg."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the independent effects of obesity, OSAS, and leptin on morphine metabolism."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the dose-adjusted mean maximum morphine concentration (C MAX ) over 540 minutes."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "children aged 5\u201312 years undergoing surgery were randomised into three groups"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty-four patients were randomised: 16 controls, 8 nonobese/OSAS, and 10 obese/OSAS."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The obese/OSAS group exhibited a higher C MAX compared to controls (P < .001) and nonobese/OSAS (P = .014)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

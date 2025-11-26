@@ -1,0 +1,74 @@
+{
+  "pmcid": "12131451",
+  "sha256": "c25fbdff2613edefa72cbde8467017345f3a4a317086f53a64d9a72748a00758",
+  "timestamp_utc": "2025-11-09T23:27:34.997963+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.166231282698899,
+    "reading_ease": 33.66927476095981,
+    "word_count": 241
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Neostigmine Reversal in Elderly Patients Undergoing Laparoscopic Pancreaticoduodenectomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "single-center randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Elderly patients (≥65 years) undergoing elective LPD with cis-atracurium"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive neostigmine reversal or no reversal"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effect of neostigmine reversal on postoperative atelectasis and other complications"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of atelectasis within the first 3 postoperative days"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment via sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 501 patients were randomised: 89 to the neostigmine group and 213 to the control group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 302 patients using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Neostigmine reversal was associated with a lower incidence of atelectasis (OR 0.43, 95% CI 0.24–0.75, p = 0.003)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [2022]285."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

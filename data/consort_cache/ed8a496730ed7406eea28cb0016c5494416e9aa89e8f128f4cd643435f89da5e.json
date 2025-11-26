@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "In this retrospective cohort study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "351 patients with rectal carcinoma at or below the peritoneal reflection were analyzed"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients with T1 or T2 tumors without suspected lymph nodes underwent total mesorectal excision (TME), while those with suspected T3 or T4 disease or positive lymph nodes received lateral lymph node dissection (LLND)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the risk factors and patterns of local recurrence in rectal carcinoma patients"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The unilateral LLND group had a 33% local relapse rate, significantly higher than the 14% in the bilateral LLND group (p = 0.04)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

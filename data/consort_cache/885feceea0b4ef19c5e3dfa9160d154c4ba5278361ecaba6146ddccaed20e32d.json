@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Self-Hypnotic Relaxation for Pain and Anxiety Management in Outpatient Breast Biopsy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a randomised controlled trial, 236 women referred to an urban tertiary university-affiliated medical center were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included adult women undergoing biopsy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to standard care (n=76), structured empathic attention (n=82), or self-hypnotic relaxation (n=78)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of adjunct self-hypnotic relaxation during large core needle breast biopsy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was self-rated pain and anxiety on 0\u201310 verbal analog scales, measured at 10-minute intervals."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "236 women referred to an urban tertiary university-affiliated medical center were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Anxiety increased in the standard group (logit slope = 0.18, p < 0.001), remained unchanged in the empathy group (slope = \u22120.04, p = 0.45), and decreased in the hypnosis group (slope = \u22120.27, p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

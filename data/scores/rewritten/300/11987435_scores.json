@@ -1,0 +1,74 @@
+{
+  "pmcid": "11987435",
+  "sha256": "a683430bff59b426c539c2c910e287c6657aae0f77337f39174d0e5241123424",
+  "timestamp_utc": "2025-11-09T23:24:01.006419+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.672433783108449,
+    "reading_ease": 38.758335832083986,
+    "word_count": 261
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing MIDCAB and Conventional CABG for Myocardial Revascularization"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable due to the study's retrospective nature."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This retrospective analysis included 1915 patients with coronary artery disease who underwent either MIDCAB or conventional CABG at Tel-Aviv Medical Center from January 2000 to December 2011."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "minimally invasive direct coronary artery bypass (MIDCAB) versus conventional coronary artery bypass grafting (CABG)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the early and late outcomes of minimally invasive direct coronary artery bypass (MIDCAB) versus conventional coronary artery bypass grafting (CABG)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was overall survival, measured over a median follow-up of 20 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable due to the study's retrospective nature."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable due to the study's retrospective nature."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 1915 patients, 1752 underwent conventional CABG and 163 underwent MIDCAB."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In a matched cohort of 134 patients each, late survival remained superior for MIDCAB (p = 0.004)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Multivariable analysis showed a hazard ratio of 0.429 (95% CI 0.321–0.574, p < 0.001) for the whole cohort and 0.559 (95% CI: 0.376–0.831, p = 0.004) for the matched cohort."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "No specific funding was received for this study."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

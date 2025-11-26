@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We conducted a prospective, single-arm, phase II trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Fifty-three patients had clinical T1N0 lesions, and 4 had T2N0 lesions in the low rectum, located below the peritoneal reflection."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "57 patients were treated with local excision after additional external beam irradiation (45 Gy) plus continuous 5-week intravenous injection of 5-fluorouracil (250\u2009mg/m 2 per day)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose of this study was to determine the efficacy of chemoradiotherapy combined with local excision in the treatment of T1 to T2 low rectal cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary end point was disease-free survival at 5 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From April 2003 to October 2010, 57 patients were treated"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The completion rate for full-dose chemoradiotherapy was 86% (49/57)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the 5-year disease-free survival rate was 94% for the 53 patients with T1 lesions and 75% for the 4 patients with T2 lesions."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Serious, nontransient treatment-related complications were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

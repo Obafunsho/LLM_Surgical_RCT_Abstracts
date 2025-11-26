@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A single-blind, randomised trial was conducted"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Children were randomly allocated using sealed envelopes"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "children of both genders, aged 1\u20135 years, undergoing elective surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "early hydration (EH) within 30 min of arrival to the post-anaesthesia care unit (PACU) or delayed standard hydration (SH) after 2 h"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The primary objective of this study was to compare the Face, Legs, Activity, Cry, Consolability (FLACC) score"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the FLACC score in PACU after 1 h"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Children were randomly allocated using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "A single-blind, randomised trial was conducted"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Out of the initially randomised 66 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "61 were finally analysed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "FLACC score after 1 h in PACU was significantly lower in Group EH [1 (0.25\u20132)] than in Group SH [2 (1\u20133)] ( P = 0.028)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no major complications"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

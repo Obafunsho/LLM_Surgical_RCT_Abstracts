@@ -1,0 +1,74 @@
+{
+  "pmcid": "12404354",
+  "sha256": "9226bf411bf362a51de34905d7360c5276eefb8858d6a230aa19a2731d690517",
+  "timestamp_utc": "2025-11-09T15:39:57.876726+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.57032558139535,
+    "reading_ease": 6.896767441860504,
+    "word_count": 344
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "BACKGROUND:: Poor post-amputation healing delays prosthetic fitting, adversely affecting mortality, quality of life, and cardiovascular health."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVE(S):: This review aimed to identify predictive, diagnostic, and indicative chemical biomarkers of healing of the tissues and structures found in the residual limbs of adults with amputation."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 1,
+    "max_score": 25
+  }
+}

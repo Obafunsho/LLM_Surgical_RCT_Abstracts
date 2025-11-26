@@ -1,0 +1,74 @@
+{
+  "pmcid": "8831428",
+  "sha256": "66b8cd787817cffbcc2822d1752dd182c9ce99cd9d2f525e5ca1edbb28c3e93c",
+  "timestamp_utc": "2025-11-09T22:59:41.822587+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.569188909043795,
+    "reading_ease": 14.39189686447267,
+    "word_count": 227
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Cardiovascular Drugs on Myocardial Injury After Noncardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either cardiovascular drugs (aspirin, antihypertensives, statins) or standard care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults undergoing noncardiac surgery, with eligibility based on elevated cTn levels within 30 days post-surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either cardiovascular drugs (aspirin, antihypertensives, statins) or standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effect of cardiovascular drugs on myocardial injury after noncardiac surgery (MINS)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the reduction in postoperative mortality within 30 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 98 in the intervention group and 97 in the control group, using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The primary outcome was the reduction in postoperative mortality within 30 days, with a significant effect size (hazard ratio = 0.75, 95% CI 0.60 to 0.90; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, occurring in 3% of the intervention group and 1% of the control group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by the National Institutes of Health."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

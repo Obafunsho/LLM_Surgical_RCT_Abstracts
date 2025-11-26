@@ -1,0 +1,30 @@
+{
+  "pmcid": "5875375",
+  "pmid": "29299602",
+  "title": "Effect of Standardized Handoff Curriculum on Improved Clinician Preparedness in the Intensive Care Unit",
+  "abstract": "Importance: Clinician miscommunication contributes to an estimated 250 000 deaths in US hospitals per year. Efforts to standardize handoff communication may reduce errors and improve patient safety.\n\nObjective: To determine the effect of a standardized handoff curriculum, UW-IPASS, on interclinician communication and patient outcomes.\n\nDesign, Setting, and Participants: This cluster randomized stepped-wedge randomized clinical trial was conducted from October 2015 to May 2016 at 8 medical and surgical intensive care units at 2 hospital systems within an academic tertiary referral center. Participants included residents, fellows, advance-practice clinicians, and attending physicians (n = 106 clinicians, with 1488 handoff events over 8 months) and data were collected from daily text message–based surveys and patient medical records.\n\nExposures: The UW-IPASS standardized handoff curriculum\n\nMain Outcomes and Measures: The primary aim was to assess the effect of the UW-IPASS handoff curriculum on perceived adequacy of interclinician communication. Patient days of mechanical ventilation, intensive care unit length of stay, reintubations within 24 hours, and order workflow patterns were also analyzed. Mixed-effects logistic regression was used to compute odds ratios and confidence intervals with adjustment for location, time period, and clinician.\n\nResults: A total of 63 residents and advance practice clinicians, 13 fellows, and 30 attending physicians participated in the study. During the control period, clinicians reported being unprepared for their shift because of a poor-quality handoff in 35 of 343 handoffs (10.2%), while UW-IPASS–period residents reported being unprepared in 53 of 740 handoffs (7.2%) (odds ratio, 0.19; 95% CI, 0.03-0.74; P = .03). Compared with the control phase, the perceived duration of handoffs among clinicians using UW-IPASS was unchanged (+5.5 minutes; 95% CI, 0.34-9.39; P = .30). Early morning order entry decreased from 106 per 100 patient-days in the control phase to 78 per 100 patient-days in the intervention period (−28 orders; 95% CI, −55 to −4; P = .04). Overall, UW-IPASS was not associated with any changes in intensive care unit length of stay, duration of mechanical ventilation, or the number of reintubations.\n\nConclusions and Relevance: The UW-IPASS standardized handoff curriculum was perceived to improve intensive care provider preparedness and workflow. IPASS-based curricula represent an important step forward in communication standardization efforts and may help reduce communication errors and omissions.\n\nTrial Registration: isrctn.org Identifier: ISRCTN14209509",
+  "authors": [
+    "Brodie Parent",
+    "Lacey N. LaGrone",
+    "Mohamed T. Albirair",
+    "Peter T. Serina",
+    "Jonathan M. Keller",
+    "Joseph Cuschieri",
+    "Erin J. Addison",
+    "Lapio Choe",
+    "Genecelle B. Delossantos",
+    "Cameron E. Gaskill",
+    "Sarah D. Moon",
+    "Jestine T. MacDonald",
+    "Matthew J. Stolzberg",
+    "Erik G. Van Eaton",
+    "Jennifer M. Zech",
+    "Patricia A. Kritek"
+  ],
+  "journal": "JAMA Surgery",
+  "year": "2018",
+  "full_text": "",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/articles/instance/5875375/bin/jamasurg-e175440-s001.pdf",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": true
+}

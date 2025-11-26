@@ -1,0 +1,74 @@
+{
+  "pmcid": "12380095",
+  "sha256": "5f9f2b65471b7224b6c563b360ce6bcc3d10c54e9f520c44ae47ac95337bf430",
+  "timestamp_utc": "2025-11-09T23:35:35.264574+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.510378947368423,
+    "reading_ease": 14.466136842105271,
+    "word_count": 250
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Spinal Analgesia–Epidural Analgesia and Combined Spinal–Epidural Analgesia in Reducing Neurological Complications During Labor Analgesia"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "In the SA-EA group, a standard spinal needle was used for dural puncture, followed by intrathecal injection of 2mL of 0.1% ropivacaine + 1µg/mL sufentanil. An epidural catheter was inserted approximately 4cm into the epidural space. In the CSEA group, an epidural needle was used for puncture, followed by a spinal needle for dural puncture and the same intrathecal injection. An epidural catheter was inserted thereafter."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial aims to compare spinal analgesia–epidural analgesia (SA-EA) and combined spinal–epidural analgesia (CSEA) in mitigating these complications."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to SA-EA or CSEA groups using [Randomisation Method] with allocation concealment via [Concealment Method]."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to [Blinded Parties]."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in [Frequency and Severity by Group]."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Registration Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of Funding]."
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

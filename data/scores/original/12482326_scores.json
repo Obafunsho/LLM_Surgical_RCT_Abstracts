@@ -1,0 +1,74 @@
+{
+  "pmcid": "12482326",
+  "sha256": "bc4a64e7c7f6804fb683c3537e703d108fcfb0bd1a2ac0c4f331417266f69e38",
+  "timestamp_utc": "2025-11-09T15:43:54.361155+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.127956989247316,
+    "reading_ease": 11.142491039426545,
+    "word_count": 372
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective cohort study included 366 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "366 patients with histologically confirmed resectable ESCC who underwent curative thoraco-laparoscopic McKeown esophagectomy at a high-volume thoracic surgery center"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the prognostic value of the ARISCAT score and its integration with other perioperative indicators for predicting postoperative pneumonia."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Postoperative pneumonia was diagnosed based on radiologic, clinical, and laboratory criteria within 30 days after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Postoperative pneumonia occurred in 99 of 366 patients (27.0%)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "In multivariate analysis, the ARISCAT score was independently associated with postoperative pneumonia (adjusted OR = 1.40, 95% CI 1.22–1.60, p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

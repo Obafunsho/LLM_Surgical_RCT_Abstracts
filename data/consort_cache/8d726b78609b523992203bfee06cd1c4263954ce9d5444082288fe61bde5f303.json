@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A dose escalation Phase I clinical trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with suspected stage I/II NSCLC"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "NIR imaging following peritumoral injection of 3.8 \u2013 2500 \u03bcg indocyanine green (ICG)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Our objective was to perform a dose escalation study to assess safety and feasibility of intraoperative near-infrared (NIR) fluorescence imaging"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Visualization of lymphatic migration, SLN identification, and adverse events were recorded."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty eight patients underwent ICG injection and NIR imaging"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "SLN identification increased with ICG dose with <25% SLN detected in dose cohorts \u2264600ug vs 89% success at \u22651000 \u03bcg."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse reactions were noted."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

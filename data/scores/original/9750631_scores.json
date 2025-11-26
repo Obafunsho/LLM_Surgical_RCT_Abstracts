@@ -1,0 +1,74 @@
+{
+  "pmcid": "9750631",
+  "sha256": "dafc39e885e4bc0495c8e5d20645008355bc94f77060faacf2f4db352a87649c",
+  "timestamp_utc": "2025-11-09T16:22:12.737412+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.404799811587377,
+    "reading_ease": 51.71574187470563,
+    "word_count": 772
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The double-blind, randomized, placebo-controlled phase 3 study of orally administered PLX3397"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "ENLIVEN was a phase 3 randomized, placebo-controlled clinical trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adults with TGCT not amenable to improvement with surgery received pexidartinib or placebo for 24 weeks"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "received pexidartinib or placebo for 24 weeks"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "What level of pain relief was achieved by pexidartinib treatment in ENLIVEN?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "primary definition of a pain response was a decrease of at least 30% in the weekly mean worst-pain NRS score and increase of less than 30% in narcotic analgesic use between baseline and week 25"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "121 were randomized (50% [60] to placebo, 50% [61] to pexidartinib)"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "The double-blind, randomized, placebo-controlled phase 3 study"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "121 were randomized (50% [60] to placebo, 50% [61] to pexidartinib)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "120 were given either placebo or pexidartinib (59 received placebo and 61 received pexidartinib) and were included in an intent-to-treat analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "response percentage 31% [19 of 61] [95% CI 21% to 44%] versus 15% [9 of 59] [95% CI 8% to 27%]; one-sided p = 0.03"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

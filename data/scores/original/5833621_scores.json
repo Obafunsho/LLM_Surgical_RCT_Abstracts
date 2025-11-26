@@ -1,0 +1,74 @@
+{
+  "pmcid": "5833621",
+  "sha256": "5f9fad90978fb1b69f0e8b5239dbbddaf561152af05613142aad75b1e41f2a4e",
+  "timestamp_utc": "2025-11-09T16:06:00.923263+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.902332291962512,
+    "reading_ease": 35.32593240556662,
+    "word_count": 503
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A randomized phase 3 trial was opened to compare adjuvant RT vs sequential chemotherapy plus RT after RC for LABC"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A randomized phase 3 trial was opened to compare adjuvant RT vs sequential chemotherapy plus RT after RC for LABC"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with bladder cancer 70 years or younger having 1 or more risk factors (≥pT3b, grade 3, or positive nodes) with negative margins after radical cystectomy plus pelvic lymph node dissection were eligible. The setting was an academic center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Chemotherapy plus RT included 2 cycles of gemcitabine (1000 mg/m 2 intravenously on days 1, 8, and 15) and cisplatin (70 mg/m 2 intravenously on day 2) before and after RT to 4500 cGy in 150 cGy twice-daily fractions over 3 weeks using 3-dimensional conformal techniques. Chemotherapy alone included 4 cycles of gemcitabine and cisplatin."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To investigate if adjuvant sequential RT plus chemotherapy can improve locoregional recurrence–free survival (LRFS) compared with adjuvant chemotherapy alone."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Main Outcome and Measure: Locoregional recurrence–free survival."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "a third arm was added later as a randomized phase 2 trial to compare chemotherapy plus RT vs adjuvant chemotherapy alone, an emerging standard."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The chemotherapy plus RT arm accrued 75 patients, and the chemotherapy-alone arm accrued 45 patients, with a weighted randomization to speed accrual."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The intent-to-treat phase 2 trial reported herein enrolled patients from December 2002 to July 2008."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Two-year outcomes and overall adjusted hazard ratios (HRs) for chemotherapy plus RT vs chemotherapy alone were 96% vs 69% (HR, 0.08; 95% CI, 0.02-0.39; P < .01) for LRFS"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Five patients (7%) had RT-associated late grade 3 gastrointestinal tract adverse effects in the chemotherapy plus RT arm."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: clinicaltrials.gov Identifier: NCT01734798"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

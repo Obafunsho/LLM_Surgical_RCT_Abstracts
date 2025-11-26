@@ -1,0 +1,74 @@
+{
+  "pmcid": "6018837",
+  "sha256": "ecb98c65d7db6268fa69ff0e36d59d3220f8907770e58a92a5fdfc341fb59e55",
+  "timestamp_utc": "2025-11-09T22:48:52.672888+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.08139026812314,
+    "reading_ease": 35.48803872889772,
+    "word_count": 212
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Interspinous Process Devices vs. Decompressive Surgery for Lumbar Stenosis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1 to IPD or SDS"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This multicenter, international, open-label, randomised controlled trial enrolled 163 patients from 19 sites across 10 countries"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to IPD or SDS"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the safety and noninferiority of a minimally invasive percutaneous IPD compared to standalone decompressive surgery (SDS)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the mean percentage change in Zurich Claudication Questionnaire (ZCQ) physical function from baseline to 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomisation implemented via an electronic data capture system using blinded blocks"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "enrolled 163 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 12 months, both groups showed significant improvement in ZCQ physical function (IPD: −32.3 ± 32.1, SDS: −37.5 ± 22.8, both P < .001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The study was registered at ClinicalTrials.gov (NCT00905359)"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by Medtronic Spinal and Biologics"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Development of Enhanced Recovery After Surgery (ERAS) Guidelines for Colorectal Cancer: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The unit of randomisation was the individual study, with sample size determined by the availability of randomised controlled trials (RCTs) and propensity score-matched studies."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Eligibility criteria included studies on colorectal cancer surgeries."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved implementing ERAS protocols, while the comparator was standard postoperative care."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of postoperative complications, assessed within 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not detailed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 9 studies were included"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "showing significant reductions in postoperative complication rates in the intervention group (odds ratio [OR], 0.70; 95% confidence interval [CI], 0.51 to 0.97)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

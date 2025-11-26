@@ -1,0 +1,74 @@
+{
+  "pmcid": "11935356",
+  "sha256": "dba1f12fde0e01a85b28a5f09807caaf4608784a656904ce26987d0f7206ca8e",
+  "timestamp_utc": "2025-11-09T22:11:21.946999+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.748607305936076,
+    "reading_ease": 10.992682648401853,
+    "word_count": 219
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Intraoperative Bleeding in LVAD Implantation: A Retrospective Cohort Study"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adult patients aged 18 years or older who underwent CF-LVAD implantation at the University of Iowa Health Care"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to identify predictors of intraoperative bleeding"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "intraoperative bleeding, defined as the transfusion of 4 or more units of packed red blood cells during surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Among 208 patients analyzed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "odds ratio [OR] 2.98, confidence interval [CI] 1.2-7.42, p = 0.01"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: None."
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

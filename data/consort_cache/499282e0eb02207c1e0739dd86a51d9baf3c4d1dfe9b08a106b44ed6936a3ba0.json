@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "double-blind, randomized clinical trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Individuals with lower limb varicose veins and incompetence of GSV were randomly assigned to two treatment groups"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to two treatment groups: EA and RFA"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: Thermoablation is increasingly being used as an alternative to traditional surgery for treating primary varicose veins."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome measured was GSV occlusion, evaluated through postoperative duplex ultrasound examination."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly assigned to two treatment groups"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind, randomized clinical trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 57 patients were included"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "data for 59 procedures (69.4%) were available"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "occlusion rates of 89.7% for the EA group (n = 29) and 66.7% for the RFA group (n = 30) ( P = .001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no procedure-related complications ( P = .127)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

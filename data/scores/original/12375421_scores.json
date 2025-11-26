@@ -1,0 +1,74 @@
+{
+  "pmcid": "12375421",
+  "sha256": "434d9363b31b7a065f23667d4df8404db6bdab056b2633f89cae789e906b7d8c",
+  "timestamp_utc": "2025-11-09T15:38:53.094022+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.285574585635363,
+    "reading_ease": 3.371787292817686,
+    "word_count": 181
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Ischemic mitral regurgitation (IMR) presents a clinical challenge amidst evolving treatment paradigms, particularly when accompanied by coronary artery disease (CAD)."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Studies encompassing varied interventions, including coronary revascularization and concomitant mitral valve procedures, were scrutinized to gauge their impact on patient outcomes."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "However, the Cardiothoracic Surgical Trials Network (CTSN) trials raised concerns regarding adverse events and recurrence rates post-mitral repair."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 2,
+    "max_score": 25
+  }
+}

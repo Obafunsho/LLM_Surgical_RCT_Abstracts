@@ -1,0 +1,74 @@
+{
+  "pmcid": "11584224",
+  "sha256": "118adea39fd00c53921ca7946d0d559ba95e321e06a21bc28d7675f22bdf914c",
+  "timestamp_utc": "2025-11-09T15:21:04.699836+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.807708502024294,
+    "reading_ease": 32.56667746288801,
+    "word_count": 247
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "This study evaluated intraoperative stress, anxiety, and safety in 18 patients undergoing peripheral nerve block with dexmedetomidine."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This study evaluated intraoperative stress, anxiety, and safety in 18 patients undergoing peripheral nerve block with dexmedetomidine."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The intraoperative OAA/S score was 3–5, indicating that appropriate sedation was obtained."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One patient had bradycardia and 9 had hypoxemia."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  }
+}

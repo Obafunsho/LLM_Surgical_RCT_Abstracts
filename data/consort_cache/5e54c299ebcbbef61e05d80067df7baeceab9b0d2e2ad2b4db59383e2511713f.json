@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Evaluating PVI for Fluid Responsiveness in Modified Prone Position"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "included 50 patients aged 20-80 years with ASA physical status I-III, excluding those with chronic obstructive pulmonary disease, cardiovascular disease, pulmonary disease, obesity, or renal disorders"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants received a 4 mL/kg crystalloid load in both supine and modified prone positions"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to evaluate the ability of pleth variability index (PVI) to predict fluid responsiveness in the modified prone position during cervical spine surgery"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Fluid responsiveness was defined as a \u226515% increase in stroke volume (SV) measured by FloTrac/Vigileo\u2122"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "study included 50 patients"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of 50 patients, 43 were analyzed after excluding those with surgery cancellation or vasoactive drug use"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The ROC AUCs for \u0394PVI, \u0394SVV, and \u0394PPV were 0.524 (95% CI 0.329\u20130.730, p = 0.476), 0.749 (95% CI 0.566\u20130.931, p = 0.004), and 0.790 (95% CI 0.641\u20130.938, p < 0.001), respectively"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The study was registered at ClinicalTrials.gov (NCT04002193)"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by institutional resources"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

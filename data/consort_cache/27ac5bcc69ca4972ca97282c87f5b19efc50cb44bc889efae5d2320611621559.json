@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Sniffing Position and Simple Head Extension for Laryngoscopic Intubation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised into two groups: SP (n=250) and simple head extension (n=250)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "500 adult patients (ASA Physical Status I\u2013III) scheduled for elective surgery under general anesthesia"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised into two groups: SP (n=250) and simple head extension (n=250)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compares the sniffing position (SP) with simple head extension to evaluate laryngoscopic view and intubation difficulty."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the Intubation Difficulty Scale (IDS) score, measured during intubation."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "The anesthesiologist performing the intubation was not blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomised into two groups: SP (n=250) and simple head extension (n=250)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The IDS score was significantly lower in the SP group compared to the simple head extension group (p=0.000)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: None."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

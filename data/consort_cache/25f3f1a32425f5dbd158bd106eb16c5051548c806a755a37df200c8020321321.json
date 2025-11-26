@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A multicenter randomized controlled trial was conducted in 6 hospitals in Thailand"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomized to PC (ie, immediately wound closure) or DPC (ie, wound closure at postoperative days 3\u20135)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "enrolling patients with gangrenous and ruptured appendicitis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomized to PC (ie, immediately wound closure) or DPC (ie, wound closure at postoperative days 3\u20135)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To compare superficial surgical site infection (SSI) rates between delayed primary wound closure (DPC) and primary wound closure (PC) for complicated appendicitis."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Superficial SSI was defined by the Center for Disease Control criteria."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "303 and 304 patients were randomized to PC and DPC groups"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "300 and 298 patients in the modified intention-to-treat analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The superficial SSI rate was lower in the PC than DPC groups [ie, 7.3% (95% confidence interval 4.4, 10.3) vs 10% (95% CI 6.6, 13.3)] with a risk difference (RD) of \u22122.7% (\u22127.1%, 1.9%)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

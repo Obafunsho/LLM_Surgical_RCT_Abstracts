@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomized cross\u2010over study compared the Trachway and the Airway Scope"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This randomized cross\u2010over study compared the Trachway and the Airway Scope"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the use of this system for tracheal intubation by novice operators."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome measure in both airway scenarios was the time required for a successful tracheal intubation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Average intubation time did not differ significantly between the Trachway and Airway Scope for the normal airway scenario (11.2\u2009\u00b1\u20096.5 vs. 9.8\u2009\u00b1\u20094.3 seconds, respectively; p =\u20090.07), but was significantly longer using the Trachway than with the Airway Scope on the difficult airway scenario (17.1\u2009\u00b1\u200911.1 vs. 9.5\u2009\u00b1\u20094.1 seconds, respectively; p <\u20090.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

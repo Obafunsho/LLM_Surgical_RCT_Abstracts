@@ -1,0 +1,74 @@
+{
+  "pmcid": "2423424",
+  "sha256": "788b98e1556d2efa3761f175336ae9f935a4899c34cd009d28cc7599d6f5f209",
+  "timestamp_utc": "2025-11-09T15:48:00.686393+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.604421416234889,
+    "reading_ease": 50.059562464018455,
+    "word_count": 193
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "one group underwent selective dorsal rhizotomy (SDR) followed by intensive physical therapy (PT), and the other group underwent the latter only (PT group)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "the authors compared impairment and functional outcomes between two groups of children with cerebral palsy (CP)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Data pertaining to the 68 children with CP were collected before any intervention and again 8 and 20 months afterwards"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The pre- to postoperative change in the Gross Motor Abilities Estimate score was significantly greater in the SDR-PT group than in the PT-only group"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

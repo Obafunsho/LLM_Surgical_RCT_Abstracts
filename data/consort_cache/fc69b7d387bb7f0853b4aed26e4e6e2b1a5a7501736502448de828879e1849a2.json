@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Ultrasound-Guided Stellate Ganglion Blockade in Thoracoscopic Pulmonary Lobectomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "88 patients were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 18-75 undergoing elective thoracoscopic pulmonary lobectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either SGB (n=40) or standard care (n=39)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the potential of ultrasound-guided stellate ganglion blockade (SGB) to mitigate these complications."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in oxygenation index (OI) and pulmonary shunt fraction (Qs/Qt) during SLV, measured at multiple time points."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "88 patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "SGB significantly improved OI and reduced Qs/Qt compared to controls."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported, with mild complications occurring in 3% of the SGB group and 1% of the control group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Chinese Clinical Trial Registry (#ChiCTR2200063210)."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

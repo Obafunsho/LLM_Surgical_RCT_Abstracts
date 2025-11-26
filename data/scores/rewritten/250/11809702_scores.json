@@ -1,0 +1,74 @@
+{
+  "pmcid": "11809702",
+  "sha256": "9b5688e6a7e45feca58ad77e53e8f96337cec1af749b8831804aa44c48f1a56c",
+  "timestamp_utc": "2025-11-09T22:08:33.940431+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.67922619047619,
+    "reading_ease": 27.535982142857165,
+    "word_count": 210
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Autologous Skin Cell Suspension with Split-Thickness Skin Grafting for Nonthermal Skin Defects"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive either standard meshed STSG (control) or ASCS+STSG. Randomisation was performed using sealed envelopes, and outcome assessors were blinded. The primary outcomes were noninferiority of ASCS+STSG for complete closure by 8 weeks and superiority in reducing donor skin area. Sample size was calculated to provide ≥80% power for both primary endpoints."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "65 patients aged 5 years or older with acute full-thickness nonthermal skin defects were randomised 1:1 to receive either standard meshed STSG (control) or ASCS+STSG."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive either standard meshed STSG (control) or ASCS+STSG."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the efficacy of autologous skin cell suspension (ASCS) combined with split-thickness skin grafting (STSG) in reducing donor skin requirements for full-thickness nonthermal skin defects."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were noninferiority of ASCS+STSG for complete closure by 8 weeks and superiority in reducing donor skin area."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using sealed envelopes, and outcome assessors were blinded."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "65 patients aged 5 years or older with acute full-thickness nonthermal skin defects were randomised 1:1"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 65 randomised patients, 52 were analysed per protocol."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 8 weeks, complete closure was achieved in 65% of ASCS+STSG areas versus 58% of control areas (p = 0.005), confirming noninferiority. ASCS+STSG required 27.4% less donor skin (p < 0.001), establishing superiority."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Safety profiles were comparable, with no serious ASCS device-related events."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04091672."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

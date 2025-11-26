@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Design: A prospective, randomized, controlled, single-blind study."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants: A total of 100 patients classified as ASA physical status II\u2013III who were scheduled for thoracoscopic surgery were enrolled."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Interventions: Participants were randomly allocated to receive either LB or conventional bupivacaine hydrochloride via intercostal nerve block, performed under ultrasound guidance."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: This study aimed to evaluate and compare the analgesic efficacy of liposomal bupivacaine (LB) versus conventional bupivacaine hydrochloride for intercostal nerve block after thoracoscopic surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative pain intensity assessed using the Visual Analog Scale (VAS; 0\u201310) both at rest and during exercise at 6, 8, 12, 24, 48, and 72\u202fh after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomly allocated to receive either LB or conventional bupivacaine hydrochloride."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Design: A prospective, randomized, controlled, single-blind study."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants: A total of 100 patients classified as ASA physical status II\u2013III who were scheduled for thoracoscopic surgery were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Compared with conventional bupivacaine, the LB group showed significantly lower VAS scores at rest and during exercise at all six postoperative time points (6\u201372\u202fh; all p <\u202f0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Safety outcomes included the incidence of postoperative nausea and vomiting (PONV), pruritus, pulmonary complications, and cardiovascular events."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinical trial registration: www.chictr.org.cn , ChiCTR2300076708."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

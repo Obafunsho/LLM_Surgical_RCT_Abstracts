@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Negative Pressure Wound Therapy vs. Conventional Wound Therapy for Surgical Abdominal Wound Healing Impairment"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to NPWT or conventional wound therapy (CWT) using a computer-generated list with allocation concealment."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This multicenter, multinational, randomised controlled trial enrolled 539 adult patients with surgical abdominal wound healing impairment (SAWHI) without fascial dehiscence across 34 sites in Germany, Belgium, and the Netherlands"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to NPWT or conventional wound therapy (CWT)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was resource use, including inpatient and outpatient time, personnel, and material for wound treatment over 42 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to NPWT or conventional wound therapy (CWT) using a computer-generated list with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "This multicenter, multinational, randomised controlled trial enrolled 539 adult patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was primarily per-protocol (NPWT 157; CWT 174)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Treatment length was significantly shorter with NPWT [Mean (SD) NPWT 22.8 (13.4) days; CWT 30.6 (13.3) days; P < 0.001]."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials.gov Identifier: NCT01528033."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

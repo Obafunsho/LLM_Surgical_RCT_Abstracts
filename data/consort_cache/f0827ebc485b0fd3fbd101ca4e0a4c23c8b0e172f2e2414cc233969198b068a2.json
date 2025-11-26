@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intrastriatal Carotid Body Autotransplantation in Advanced Parkinson's Disease"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This phase I\u2013II trial involved 13 patients"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "13 patients with advanced PD"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "bilateral stereotactic implantation of CB cell aggregates into the striatum"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the feasibility, safety, and effects of intrastriatal CB autotransplantation in advanced Parkinson's disease (PD)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in video-blinded Unified Parkinson's Disease Rating Scale III score in the off-medication state."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "video-blinded Unified Parkinson's Disease Rating Scale III score"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "13 patients with advanced PD"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 12 patients analyzed"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "10 showed clinical improvement in the primary outcome, peaking at 6\u201312 months post-transplantation (5\u201374% improvement). Mean improvement at 6 months was 23%."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source]."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

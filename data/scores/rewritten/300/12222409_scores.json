@@ -1,0 +1,74 @@
+{
+  "pmcid": "12222409",
+  "sha256": "f1df2614bf7b04286043c7fc813a0db503ef69dfde30e30358b59e98a85ac485",
+  "timestamp_utc": "2025-11-09T23:30:32.363995+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.608656609195407,
+    "reading_ease": 33.71919181034485,
+    "word_count": 261
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Portal Vein Embolization Techniques"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised controlled trial was conducted at a tertiary care center"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were adults scheduled for major hepatectomy requiring FLR optimization"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive PVE using either NBCA with iodized oil or PVA particles with coils"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study aimed to evaluate the efficacy of different embolic materials in portal vein embolization"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the degree of FLR hypertrophy at 28 days post-PVE"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the intervention"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 100 patients were randomised between January 2020 and June 2021, with 50 in each group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 48 patients in the NBCA group and 47 in the PVA group using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean difference in hypertrophy was 20% (95% CI 12 to 28)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 2/48 (4%) of the NBCA group and 3/47 (6%) of the PVA group"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by the National Institute of Health"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

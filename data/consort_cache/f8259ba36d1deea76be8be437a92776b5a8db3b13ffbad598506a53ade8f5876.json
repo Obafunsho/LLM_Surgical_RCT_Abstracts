@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Meloxicam IV for Postoperative Pain Management"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "multicenter, randomised, double-blind, placebo- and active-controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "486 women aged 18-65 with moderate-to-severe pain were enrolled"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive a single dose of meloxicam IV (5-60 mg), placebo, or morphine (0.15 mg/kg)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the efficacy and safety of meloxicam IV in reducing postoperative pain and opioid consumption"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The coprimary outcomes were summed pain intensity difference (SPID 24) and total pain relief (TOTPAR 24) over 24 hours"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was centralised with allocation concealment"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "blinding included patients, clinicians, and outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "486 women aged 18-65 with moderate-to-severe pain were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All 486 participants were analysed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Meloxicam IV and morphine significantly improved SPID 24 and TOTPAR 24 compared to placebo (p < 0.001). Effect sizes for meloxicam IV ranged from 1.25 to 2.05 SDs"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were generally mild, with no treatment-related serious adverse events reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered at ClinicalTrials.gov (NCT01084161)"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by Recro Pharma, Inc."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

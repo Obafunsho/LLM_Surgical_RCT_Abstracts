@@ -1,0 +1,74 @@
+{
+  "pmcid": "6326436",
+  "sha256": "b326c08db8d2a0b749178e9416d0d01eaa1f25c56462996c462f7cc468133fde",
+  "timestamp_utc": "2025-11-10T00:01:15.978271+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.653092768227623,
+    "reading_ease": 41.185057053941904,
+    "word_count": 241
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Papaverine Concentrations for Vasospasm Prevention in Radial Artery Grafts"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "RA segments were harvested from 10 CABG patients."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "RA segments were harvested from 10 CABG patients."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The segments were randomly assigned to two groups: 0.5 mg/ml papaverine (n=12) and 2 mg/ml papaverine (n=12)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of two papaverine concentrations (0.5 mg/ml and 2 mg/ml) for preventing vasospasm and their impact on endothelial integrity in radial artery (RA) grafts used in coronary artery bypass graft (CABG) surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the vasodilatory effect, assessed using ex vivo myography over 60 minutes."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The segments were randomly assigned to two groups: 0.5 mg/ml papaverine (n=12) and 2 mg/ml papaverine (n=12)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 2 mg/ml papaverine group demonstrated stronger vasodilatation (mean difference = 24.67%, 95% CI 15.23 to 34.11; p < 0.001) but caused more endothelial damage (mean difference = 22.63%, 95% CI 8.91 to 36.35; p = 0.002) compared to the 0.5 mg/ml group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

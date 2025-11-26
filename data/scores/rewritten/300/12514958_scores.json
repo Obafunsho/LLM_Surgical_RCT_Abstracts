@@ -1,0 +1,74 @@
+{
+  "pmcid": "12514958",
+  "sha256": "dc576661523c2ccccdb5dd2947adebaa0e3ae14c5034474def0731c8c82aebc0",
+  "timestamp_utc": "2025-11-09T23:42:56.342437+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.477729112992272,
+    "reading_ease": 32.413921604711106,
+    "word_count": 286
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Tacrolimus Plus Prednisone in CIDP Management"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This retrospective cohort study was conducted at Xuanwu Hospital, Capital Medical University, from April 2019 to June 2023."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults diagnosed with CIDP according to the 2021 EAN/PNS guidelines, with an INCAT disability score ≥2."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aimed to evaluate the efficacy and safety of tacrolimus plus prednisone (T&P) compared to prednisone monotherapy (PM) in CIDP maintenance treatment."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy and safety of tacrolimus plus prednisone (T&P) compared to prednisone monotherapy (PM) in CIDP maintenance treatment."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the response rate, defined as a ≥1-point improvement in INCAT score at 3, 6, and 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 74 screened patients, 34 were included (16 T&P, 18 PM)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 74 screened patients, 34 were included (16 T&P, 18 PM)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The T&P group demonstrated significantly higher response rates at 3 and 6 months compared to PM, though this difference attenuated by 12 months."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Both groups showed comparable safety profiles, with no serious adverse reactions reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Neuroprotective Strategies in Coronary Artery Interventions: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this randomised controlled trial, high-risk patients undergoing coronary interventions were enrolled."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "high-risk patients undergoing coronary interventions were enrolled. The trial was conducted at a tertiary care center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either pharmacological neuroprotection or standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of neuroprotective strategies in reducing these complications."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of neurological complications within 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group, from January 2020 to June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on an intention-to-treat basis, with 98 participants in the intervention group and 97 in the control group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group experienced a significant reduction in complications compared to the control group (mean difference = 5.2%, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in the intervention group and 1% in the control group reporting gastrointestinal side-effects."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by the National Institutes of Health."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

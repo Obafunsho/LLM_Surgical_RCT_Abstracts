@@ -1,0 +1,74 @@
+{
+  "pmcid": "5213945",
+  "sha256": "93f934bdbc81246b8c3f17fae055fbcbc4d7402934f0a87767540e0e67eae7b2",
+  "timestamp_utc": "2025-11-09T16:02:59.633453+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.671456422018348,
+    "reading_ease": 42.82122133027525,
+    "word_count": 436
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients with displaced midshaft clavicle fractures were enrolled and randomized to plate or intramedullary nail fixation"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with displaced midshaft clavicle fractures were enrolled"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to plate or intramedullary nail fixation"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We asked: (1) Does plate fixation or intramedullary nail fixation for displaced midshaft clavicle fractures result in less disability?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The QuickDASH was obtained at final followup and compared between patients"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients with displaced midshaft clavicle fractures were enrolled and randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 58 patients with plate and 62 patients with intramedullary nails initially were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Two patients (3%) with plate fixation and two patients (3%) with intramedullary nails were lost to followup"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "no differences in QuickDASH scores (plate, 1.8 ± 3.6; intramedullary nail, 1.8 ± 7.2; mean difference, −0.7; 95% CI, −2.2 to 2.04; p = 0.95)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Postoperative complications measured include infection, implant-related irritation, implant failure, nonunion, and refracture after implant removal"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

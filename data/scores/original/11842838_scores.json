@@ -1,0 +1,74 @@
+{
+  "pmcid": "11842838",
+  "sha256": "b1fa8082d8ca1ff0a8b90fad84741a18783e5231c3334fb77f03e194ef17d2f4",
+  "timestamp_utc": "2025-11-09T15:24:38.935214+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.213341523341526,
+    "reading_ease": 43.44504914004918,
+    "word_count": 222
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Blood transfusions were frequently in massive burn patients, current studies focus on the trigger threshold of red blood cell transfusion, and few studies focus on the impact of red blood cell transfusion volume on patient outcomes."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "379 patients in three centers were enrolled to the cohort."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We initiated a multicenter cohort study to explore the impact of red blood cell transfusions volume on patient mortality."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The extroperative and overall RBC transfusion in the death group were significantly higher than those in the survival group ( p < 0.001), and this difference became insignificant within the operation ( p = 0.312)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There was no significant difference in the outcome and bloodstream infection between the two groups, but the length of stay, length of stay in burn ICU and mechanical ventilation time of the low red blood cell group were significantly lower than those of the high red blood cell group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

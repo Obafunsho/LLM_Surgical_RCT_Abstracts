@@ -1,0 +1,74 @@
+{
+  "pmcid": "3517909",
+  "sha256": "af8275e02daa6e49eb645d2f3abc5a1d702886c36b9377bed52cd750abef1e5b",
+  "timestamp_utc": "2025-11-09T23:48:37.640850+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.631406187223785,
+    "reading_ease": 36.23181398151871,
+    "word_count": 262
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Deep Brain Stimulation in Parkinson’s Disease: Effects on Jaw Velocity"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a randomised, double-blind, longitudinal trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "27 PD patients were assigned to GPi or STN DBS"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compares DBS in the globus pallidus internus (GPi) versus the subthalamic nucleus (STN)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compares DBS in the globus pallidus internus (GPi) versus the subthalamic nucleus (STN) on jaw velocity."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was peak jaw velocity, measured preoperatively and 6 months postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "14 patients were randomised to GPi and 13 to STN."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was per-protocol."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Self-scaled jaw velocity decreased in the STN group postoperatively across all conditions compared to baseline (mean difference = -X mm/s, 95% CI Y to Z; p < 0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported. Mild side effects occurred in 2/14 (14%) GPi and 3/13 (23%) STN patients."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

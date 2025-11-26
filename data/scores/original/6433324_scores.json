@@ -1,0 +1,74 @@
+{
+  "pmcid": "6433324",
+  "sha256": "73513e0717f328e6cfc8620563f64ec91e85889268c98e421d38053b73bf4638",
+  "timestamp_utc": "2025-11-09T16:08:44.478088+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.980773694390717,
+    "reading_ease": 32.4377272727273,
+    "word_count": 188
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to compare quality of life before and up to 3 years after liver transplantation for colorectal liver metastases."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Quality of life was assessed using the European Organisation for Research and Treatment of Cancer QLQ‐C30 questionnaire version 3.0. The patients received the questionnaire before and up to 3 years after liver transplantation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Some 23 patients were included in the analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Three months after liver transplantation they reported reduced quality of life (global health status scale), physical function and role function, and increased dyspnoea. At 6 months, global health status, physical function and role function had returned to pretransplant values. Three years after liver transplantation all symptom and function scores were comparable to baseline values."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

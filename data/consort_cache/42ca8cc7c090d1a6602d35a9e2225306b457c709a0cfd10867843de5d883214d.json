@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Isolated Hepatic Perfusion Versus Best Alternative Care for Uveal Melanoma Liver Metastases"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this multicenter, phase III randomised controlled trial, 93 patients with untreated isolated liver metastases from uveal melanoma were enrolled between 2013 and 2021."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "93 patients with untreated isolated liver metastases from uveal melanoma"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised 1:1 to receive a one-time IHP treatment or BAC"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses isolated hepatic perfusion (IHP) versus best alternative care (BAC) for overall survival (OS) and health-related quality of life (HRQOL)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the 24-month OS rate."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "93 patients with untreated isolated liver metastases from uveal melanoma were enrolled between 2013 and 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The intention-to-treat (ITT) analysis included 43 patients in the IHP group and 44 in the control group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 24-month OS rate was 46.5% in the IHP group versus 29.5% in the control group (P=0.12). Median OS was 21.7 months for IHP and 17.6 months for BAC (HR 0.64, 95% CI 0.37\u20131.10)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Severe adverse events occurred in 19.5% of IHP patients and 6.5% of BAC patients."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01785316."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

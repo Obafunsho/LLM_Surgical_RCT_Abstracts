@@ -1,0 +1,74 @@
+{
+  "pmcid": "3889440",
+  "sha256": "178dcc251f2d21c19be9d1aeedc74e0c0ef1b8f89b9688cef0b244e722d59ffd",
+  "timestamp_utc": "2025-11-09T23:51:19.173866+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.516441634241243,
+    "reading_ease": 28.213261673151806,
+    "word_count": 257
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Intraarticular Fibrinogen in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive intraarticular fibrinogen or no treatment before tourniquet release."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "200 patients undergoing TKA for osteoarthritis."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive intraarticular fibrinogen or no treatment before tourniquet release."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the efficacy of intraarticular fibrinogen in reducing bleeding and transfusion needs post-TKA."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative blood loss, assessed by drain output and hemoglobin drop at Day 2."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "100 patients were allocated to each group, with analysis conducted on an intention-to-treat basis."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "100 patients were allocated to each group, with analysis conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Mean drain output was 780 ± 378 mL in the fibrinogen group versus 673 ± 301 mL in the control group (p = 0.029)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were comparable between groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

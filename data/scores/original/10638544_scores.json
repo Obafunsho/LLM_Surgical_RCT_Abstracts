@@ -1,0 +1,74 @@
+{
+  "pmcid": "10638544",
+  "sha256": "32a1deebadd5db17f0281b6244dd7e752ad3d02c56c08a0fbe4aaee42d5aa894",
+  "timestamp_utc": "2025-11-09T15:10:25.755413+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.669683520599254,
+    "reading_ease": 35.17463764044945,
+    "word_count": 267
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This was an open, multicentre, randomized controlled trial."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients with intermittent claudication attending vascular surgery outpatient clinics were randomized (1:1)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with intermittent claudication attending vascular surgery outpatient clinics"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized (1:1) to receive either neuromuscular electrical stimulation (NMES) or not in addition to local standard care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of this trial was to investigate the clinical efficacy of an NMES device in addition to local standard care in improving walking distances in patients with claudication."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was change in absolute walking distance, measured by a standardized treadmill test at 3 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients with intermittent claudication attending vascular surgery outpatient clinics were randomized (1:1)"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "This was an open, multicentre, randomized controlled trial."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 200 participants randomized"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "160 were included in the primary analysis (intention to treat, Tobit regression model)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "SET as local standard care seemed to improve distance compared to best medical therapy at 3 months (3.29 units; 95 per cent c.i., 1.77 to 4.82; P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No serious adverse events relating to the device were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN18242823."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was supported by a grant from the Efficacy and Mechanism Evaluation Program, a Medical Research Council and National Institute for Health and Care Research partnership."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

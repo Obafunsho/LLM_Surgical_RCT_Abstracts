@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the ability of PVI to predict fluid responsiveness in the modified prone position during cervical spine surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Fluid responsiveness was defined as stroke volume (SV) \u2265 15%, assessed by the FloTrac/Vigileo\u2122 (Edwards Lifesciences Corp, Irvine, CA, USA)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Data from a total of 43 subjects were analyzed."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Data from a total of 43 subjects were analyzed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "the areas under the ROC curves for \u0394PVI, \u0394SVV, and \u0394PPV after fluid loading were 0.524 (95% confidence interval [CI] 0.329\u20130.730, p = 0.476), 0.749 (95% CI 0.566\u20130.931, p = 0.004), and 0.790 (95% CI 0.641\u20130.938, p < 0.001), respectively."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

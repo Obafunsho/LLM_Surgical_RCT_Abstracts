@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Revascularization vs. Non-Operative Management in Intermittent Claudication"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised controlled trial was conducted at an academic medical center from 2016 to 2021."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "IC patients were randomised to revascularization (bypass or PVI) or non-operative management (medication and exercise therapy)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "IC patients were randomised to revascularization (bypass or PVI) or non-operative management (medication and exercise therapy)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was patient-reported physical function (PROMIS-PF) and satisfaction in social roles (PROMIS-SA) over a follow-up of up to 7 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of interventions."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 225 patients were randomised: 89 to revascularization and 136 to non-operative management."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was conducted using a linear mixed-effect model adjusted for age, sex, diabetes, Charlson Comorbidity Index, Clinical Frailty Score, tobacco use, and index ABI."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant differences were found in PROMIS-PF between groups over time (P=0.07). PROMIS-SA improved significantly in all patients (P=0.019), with greater improvement in the non-operative group (P=0.045)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

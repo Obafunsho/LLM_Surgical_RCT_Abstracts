@@ -1,0 +1,74 @@
+{
+  "pmcid": "6467054",
+  "sha256": "a4ab4689c786602d2062ab8451abac6fbc1359c67ade5596201c472bea36e496",
+  "timestamp_utc": "2025-11-09T22:50:34.008612+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.232083333333332,
+    "reading_ease": 22.360138888888912,
+    "word_count": 224
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Influence of Physician and Patient Race on Surgical Decision-Making"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was computer-generated"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were recruited from various U.S. medical centers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "videos of SPs randomized to black or white"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether physician and standardized patient (SP) race in videos influence surgeon decision-making."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in risk estimation for major surgical complications, measured immediately after video viewing."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable as participants viewed videos."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 113 surgeons (38 practicing, 75 trainees) participated"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The percentage change in risk estimates was not significantly related to patient race (p = 0.11) or surgeon race (p = 0.52)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

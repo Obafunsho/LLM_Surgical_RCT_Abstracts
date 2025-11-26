@@ -1,0 +1,74 @@
+{
+  "pmcid": "7146919",
+  "sha256": "1098f8f64fa3174b70c3f8a95a4ef584386c2500ba895d47fe1b2a31c879e5e8",
+  "timestamp_utc": "2025-11-09T16:12:01.890525+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.109702811244983,
+    "reading_ease": 30.639012048192797,
+    "word_count": 249
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "ASTER is a randomized trial"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing angiographic revascularization with the stent retriever (SR) and contact aspiration (CA) thrombectomy techniques"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: We report the rate and benefits of FPE in the Aspiration versus Stent Retriever (ASTER) trial."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Outcomes were compared between FPE-SR and FPE-CA patients, and between FPE and non-FPE patients."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "FPE was achieved in 97/336 patients (28.9%)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "adjusted RR for CA versus SR 0.84, 95% CI 0.54 to 1.31; p=0.44"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "a significantly lower rate of hemorrhagic transformation and procedural complications than in non-FPE patients."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration number: Unique identifier: NCT02523261 ."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

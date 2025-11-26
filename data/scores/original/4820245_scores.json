@@ -1,0 +1,74 @@
+{
+  "pmcid": "4820245",
+  "sha256": "3212f329fc9f219221b8f87e6c48108c0705ccfeb741919afd4fce9af317e00a",
+  "timestamp_utc": "2025-11-09T16:00:41.022119+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.288537549407117,
+    "reading_ease": 41.62304043782305,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The Carotid Revascularization Endarterectomy versus Stenting Trial (CREST)"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "2,502 patients"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients randomized to carotid artery stenting (CAS) than to carotid endarterectomy (CEA)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Herein, we seek factors that affect the CAS-CEA treatment differences"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "2,502 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "odds ratio [OR] = 3.42; 95% confidence interval [CI], 1.19-9.78"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

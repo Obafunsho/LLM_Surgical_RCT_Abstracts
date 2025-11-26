@@ -1,0 +1,74 @@
+{
+  "pmcid": "2467497",
+  "sha256": "8c9d33ab5d9ac46c88c915f96ed285b8d21f9a5faee2d84130608906da0ef95c",
+  "timestamp_utc": "2025-11-09T23:44:41.819068+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.294242424242423,
+    "reading_ease": 14.798863636363677,
+    "word_count": 264
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Isolated Hepatic Perfusion with Melphalan for Liver Metastases"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "this trial involved 19 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included WHO performance status 0-1 and specific hematological and biochemical parameters."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients received a 60-min IHP with 200 mg melphalan."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the efficacy of isolated hepatic perfusion (IHP) with melphalan in patients with isolated liver metastases from diverse primary tumors."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was tumor response per RECIST criteria, evaluated over a median follow-up of 74 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable as this was a single-arm study."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable as this was a single-arm study."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "this trial involved 19 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Among the 18 patients analyzed"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "33% achieved a partial hepatic response, 50% had stable disease, and 17% were immediately progressive."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "reversible grade 3 or 4 hepatotoxicity occurred in 56%, and veno-occlusive disease in 22%."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "no trial registration or funding information was provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "no trial registration or funding information was provided."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

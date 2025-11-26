@@ -1,0 +1,74 @@
+{
+  "pmcid": "8765334",
+  "sha256": "6d2a2211d54d1cf2a026b2353b4db5d3cff4da473038709a48f1f16b66c56b38",
+  "timestamp_utc": "2025-11-09T22:59:27.657835+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.960434782608697,
+    "reading_ease": 33.654698996655554,
+    "word_count": 230
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Stockholm III Trial: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This multicenter trial randomized 840 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "840 patients with biopsy-proven resectable rectal adenocarcinoma"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing short-course radiotherapy (SRT) with immediate surgery, SRT with delayed surgery, and long-course radiotherapy (LRT) with delayed surgery"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was time to local recurrence (LR) over a minimum follow-up of 5 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was stratified by center"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "randomized 840 patients"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "analysis was conducted on an intention-to-treat basis"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The incidence of LR was 3/129, 4/128, and 7/128"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered under NTC00904813"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by the Swedish Research Council and other Swedish institutions"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

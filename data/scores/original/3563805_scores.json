@@ -1,0 +1,74 @@
+{
+  "pmcid": "3563805",
+  "sha256": "1f7dbba859baef31a35a18d9e272cfcb5101f4c5d817e9368199ab2d6c1098a7",
+  "timestamp_utc": "2025-11-09T15:53:21.727867+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.057889162095709,
+    "reading_ease": 34.02788537923212,
+    "word_count": 311
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "We treated 170 patients with high-grade soft tissue sarcoma between 1999 and 2009."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Fifty-one of these patients underwent acridine orange therapy. The remaining 119 patients underwent a conventional wide-margin resection for limb salvage surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We determined the survival, local recurrence, and limb function outcomes in patients treated with a less radical approach and adjunctive acridine orange therapy compared with those who underwent a conventional wide-margin resection."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "We recorded the survival, local recurrence, and functional score (International Society of Limb Salvage [ISOLS]) score) for all the patients."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "We treated 170 patients with high-grade soft tissue sarcoma between 1999 and 2009."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "We recorded the survival, local recurrence, and functional score (International Society of Limb Salvage [ISOLS]) score) for all the patients."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The 10-year overall survival rates in the acridine orange therapy group and the conventional surgery group were 68% and 63%, respectively."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

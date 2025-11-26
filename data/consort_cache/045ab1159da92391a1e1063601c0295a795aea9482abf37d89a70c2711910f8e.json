@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Methylene Blue-Assisted vs. Conventional Lymph Node Harvesting in Gastric Cancer Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomised using a centralized dynamic method"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "60 patients with histologically confirmed adenocarcinoma of the stomach, clinical stage I-III, and planned R0 resection with D1+ or D2 lymphadenectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "conventional versus methylene blue-assisted LN harvesting methods"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the efficiency and quality of conventional versus methylene blue-assisted LN harvesting methods."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the ratio of harvested LNs per minute, measured intraoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomised using a centralized dynamic method"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From August to December 2012, 60 patients were randomised: 29 to the conventional method and 31 to the methylene blue method."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "All patients were analysed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The methylene blue arm had a higher mean number of harvested LNs (43.4\u00b113.9) compared to the conventional arm (33.6\u00b111.9; p=0.005). The primary outcome ratio was also higher in the methylene blue arm (1.49\u00b10.59 LNs/min) than in the conventional arm (1.12\u00b10.46 LNs/min; p=0.010)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: UMIN000008624."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

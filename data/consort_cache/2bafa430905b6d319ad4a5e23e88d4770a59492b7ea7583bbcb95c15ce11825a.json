@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Autologous Fat Transfer Versus Implant-Based Reconstruction in Post-Mastectomy Breast Reconstruction"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were women aged 18 years or older who had undergone mastectomy and were seeking breast reconstruction, excluding those receiving postmastectomy radiotherapy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to receive either autologous fat transfer (AFT) plus expansion or 2-phased implant-based reconstruction (IBR)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was quality of life (QoL) at 12 months post-surgery, measured by the BREAST-Q questionnaire."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 193 participants were randomised, with 91 in the AFT group and 80 in the IBR group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Per-protocol analysis included 64 AFT and 68 IBR participants."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "AFT showed higher BREAST-Q scores in all domains, significantly in satisfaction with breasts (difference, 9.9; P = .002), physical well-being: chest (difference, 7.6; P = .007), and satisfaction with outcome (difference, 7.6; P = .04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in serious adverse events were observed."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT02339779"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

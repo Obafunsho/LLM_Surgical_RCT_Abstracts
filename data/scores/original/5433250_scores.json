@@ -1,0 +1,74 @@
+{
+  "pmcid": "5433250",
+  "sha256": "f1e82cc3a044b3c8540c47331b870d40bbcc7d18c05ba8dacbcb9a1f237ffae8",
+  "timestamp_utc": "2025-11-09T16:03:45.593354+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.063333333333333,
+    "reading_ease": 33.465,
+    "word_count": 252
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "American College of Surgeons Oncology Group (ACOSOG) Z1072 is a phase II trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible patients included those with unifocal invasive ductal breast cancer ≤2 cm, with <25 % intraductal component and tumor enhancement on MRI."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "cryoablation in the treatment of breast cancers"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "A secondary objective was to evaluate the negative predictive value of magnetic resonance imaging (MRI) to determine residual IBC or DCIS."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint of Z1072 was the rate of complete tumor ablation, defined as no remaining invasive breast cancer (IBC) or ductal carcinoma in situ (DCIS) on pathologic examination of the targeted lesion."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 19 centers contributed 99 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "86 patients (87 breast cancers) were evaluable for data analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Final pathology results, regardless of whether residual IBC/DCIS was in the targeted ablation zone or elsewhere in the breast, showed successful ablation in 66/87 (75.9 %) cancers. The 90 % confidence interval for the estimate of successful cryoablation was 67.1–83.2, with the one-sided lower-sided 90 % CI of 69.0."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

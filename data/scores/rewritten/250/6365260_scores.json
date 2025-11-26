@@ -1,0 +1,74 @@
+{
+  "pmcid": "6365260",
+  "sha256": "687c035048b6e2ce7f81e0e564373ad789482e9ecf965b7ee1e9b408ab31cdf0",
+  "timestamp_utc": "2025-11-09T22:50:12.220936+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.100357142857145,
+    "reading_ease": 33.24464285714288,
+    "word_count": 224
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Partial and Circumferential Stapled Hemorrhoidopexy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-center, parallel-group, randomised, noninferiority trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "300 patients with grade III/IV hemorrhoids were recruited"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned in a 1:1 ratio to receive either PSH (n = 150) or CSH (n = 150)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of recurrent prolapse at a median follow-up of 5 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "blocked randomisation with a fixed block size of 4. Allocation was concealed using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Patients and outcome assessors were blinded to the intervention"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "300 patients with grade III/IV hemorrhoids were recruited between August 2011 and November 2013"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "PSH (n = 150) or CSH (n = 150)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 5-year cumulative recurrence rate was 9% (95% CI, 4%–13%) for PSH and 12% (95% CI, 7%–17%) for CSH"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were minimal in both groups"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: chiCTR-trc-11001506"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

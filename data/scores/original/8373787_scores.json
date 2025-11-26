@@ -1,0 +1,74 @@
+{
+  "pmcid": "8373787",
+  "sha256": "88ae7e119e7cd62819a30dcc227933b27cd6814efb0633d467e43f3ffcc0a30f",
+  "timestamp_utc": "2025-11-09T16:17:40.343115+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.490686492495833,
+    "reading_ease": 16.69821984435802,
+    "word_count": 257
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "5-years after randomization"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with T2DM and obesity"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Roux-en-Y gastric bypass (RYGB) and sleeve gastrectomy (SG) were superior to intensive medical therapy (IMT)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To investigate the long-term effects of medical and surgical treatments of type 2 diabetes mellitus (T2DM) on patient reported outcomes (PROs)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "administered two generic health-related quality of life (QoL) questionnaires (RAND-36 and EQ-5D-3L) and a diabetes-specific instrument at baseline, and then on an annual basis up to 5-years after randomization."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "a subset of 104 patients participating in the STAMPEDE trial"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "RYGB and SG significantly improved the domains of physical functioning, general health perception, energy/fatigue, and diabetes-related QoL compared with IMT group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

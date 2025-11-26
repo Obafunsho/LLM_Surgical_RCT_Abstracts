@@ -1,0 +1,74 @@
+{
+  "pmcid": "12232135",
+  "sha256": "c2e8f5dae215f6d4e00221d6dadd05de47f3236674acc25efcf56cd44e45fcd9",
+  "timestamp_utc": "2025-11-09T22:19:25.392803+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.384430284857572,
+    "reading_ease": 31.407946026986536,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Inhaled Nitric Oxide in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing inhaled NO with placebo or standard care"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the incidence of acute kidney injury (AKI)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ten RCTs involving 838 patients were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "NO administration reduced AKI incidence (RR: 0.78; 95% CI: 0.64–0.94; p = 0.010)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "PROSPERO registration: CRD42025649095."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

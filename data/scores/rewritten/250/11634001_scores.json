@@ -1,0 +1,74 @@
+{
+  "pmcid": "11634001",
+  "sha256": "6e00f11e21cacf166505b0f7aabb34e2a15a16c4a897796402cf1eea264d5dba",
+  "timestamp_utc": "2025-11-09T22:05:50.564517+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.87038348082596,
+    "reading_ease": 39.490226155358926,
+    "word_count": 226
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Systematic Review of Supraglottic Airway Devices for Blind Endotracheal Intubation: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcomes were the success rate of blind ETI and intubation time."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation methods and allocation concealment were assessed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "blinding was not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "SGDs with the highest overall success rates were i-gel, S.A.L.T., LMA Fastrach, and single-use LMA Fastrach, achieving success rates greater than 90%."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The study was not registered"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "funding sources were not disclosed"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

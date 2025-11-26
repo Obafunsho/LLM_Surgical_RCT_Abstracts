@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The patients were divided into two groups those who underwent supra-annular (n=59) and intra-annular (n=54) AVR."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Between 2013 and 2019, 113 patients (77 males; mean age 57.8\u00b116.36 years) who underwent isolated AVR were evaluated."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The patients were divided into two groups those who underwent supra-annular (n=59) and intra-annular (n=54) AVR."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: This study aims to compare the early results of patients who underwent isolated aortic valve replacement (AVR) with supra-annular and intra-annular AVR."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "There was no significant difference between the two groups in the postoperative first-week transthoracic echocardiographic (TTE) findings."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between 2013 and 2019, 113 patients (77 males; mean age 57.8\u00b116.36 years) who underwent isolated AVR were evaluated."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The patients were divided into two groups those who underwent supra-annular (n=59) and intra-annular (n=54) AVR."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The cross-clamp (XCL) and cardiopulmonary bypass (CPB) times of the patients who underwent supra-annular AVR were found to be significantly higher than the patients who underwent intra-annular AVR."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "However, there was no significant difference between the two groups in terms of postoperative adverse events."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12054398",
+  "sha256": "9abe6786384d54646727fbf2624a4ed1cb1c77c6204e3080f4bde1c00a1843dd",
+  "timestamp_utc": "2025-11-09T15:28:56.291826+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.07019290780142,
+    "reading_ease": 35.78580000000002,
+    "word_count": 282
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients with IVH on the stability CT scan"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Exposure was minimally invasive surgery plus alteplase (MIS+alteplase)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcome was deltaIVH defined as IVH volume on end-of-treatment CT minus IVH volume on stability CT scan."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 499 patients in MISTIE-III, 310 (62.1%) had IVH on stability scans"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 146 (47.1%) received the MISTIE procedure and 164 (52.9%) standard medical care (SMC) only."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "MIS+alteplase was associated with greater deltaIVH in multivariable linear regression analysis adjusted for potential confounders (beta, −0.80; 95%CI, −1.37 to −0.22; p=0.007)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

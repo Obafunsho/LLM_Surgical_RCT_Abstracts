@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Total Arterial Revascularization vs. Single Internal Thoracic Artery with Saphenous Vein Graft in Elderly Patients Undergoing Off-Pump Coronary Artery Bypass Grafting"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "single-center retrospective study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "598 patients aged >70 years who underwent coronary revascularization"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "TAR and single ITA\u2009+\u2009SVG groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate whether total arterial revascularization (TAR) offers survival and freedom from major adverse cardiac or cerebrovascular events (MACCE) benefits"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was survival and MACCE-free rates over 5 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "100 patients in each group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "428 patients remained"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "TAR (HR = 0.74, 95% CI = 0.44\u20131.22, p = 0.233)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

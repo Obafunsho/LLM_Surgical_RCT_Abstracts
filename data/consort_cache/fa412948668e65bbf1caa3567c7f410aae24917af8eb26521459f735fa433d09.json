@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of MRI and Intraoperative Electrophysiological Recording in Targeting the Subthalamic Nucleus for Parkinson's Disease"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 27 patients with Parkinson's disease were recruited from a single surgical center."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included a diagnosis of Parkinson's disease and suitability for STN targeting."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Target planning was based on MRI visualisation and coordinate guidelines relative to the AC\u2013PC line. Intraoperative microelectrode recording was used to adjust electrode positions."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the role of magnetic resonance imaging (MRI) and intraoperative electrophysiological recording in improving electrode placement accuracy."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Postoperative MRI verified electrode placement accuracy in 16 cases."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 27 patients with Parkinson's disease were recruited from a single surgical center."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean target based on MRI was 11.5 mm lateral, 2.5 mm posterior, and 4.1 mm inferior to the AC\u2013PC line. Electrophysiological correction adjusted the mean target to 11.7 mm lateral, 2.1 mm posterior, and 3.8 mm inferior."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No postoperative MRI-related complications were observed."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not provided."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

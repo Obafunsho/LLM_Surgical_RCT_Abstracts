@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Hyperthermia as an Adjunct to Immunotherapy in Cancer Treatment"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were eligible if they had resistant tumors and were recruited from a single oncology center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received HT combined with immune checkpoint inhibitors (ICIs), while the control group received ICIs alone."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted to evaluate the effects of HT on immune response and tumor microenvironment modulation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the transformation of 'cold' tumors into 'hot' tumors, measured over six months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised, with 100 in each group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "In the intervention group, 98 participants were analysed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "showing a significant increase in immune cell infiltration and antigen presentation (mean difference = 5.2, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in the intervention group and 1% in the control group experiencing gastrointestinal side-effects."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by the National Cancer Institute."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

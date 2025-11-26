@@ -1,0 +1,74 @@
+{
+  "pmcid": "11685783",
+  "sha256": "e6bfeb218e904968aa501a336f03d08f6c7bc5f1fcbf8095d38a8ccd81d344e6",
+  "timestamp_utc": "2025-11-09T23:18:53.961791+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.147500000000004,
+    "reading_ease": 8.28125,
+    "word_count": 245
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Ministernotomy and Standard Sternotomy in Aortic Valve Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "115 undergoing standard sternotomy and 53 undergoing mini-sternotomy"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were adults requiring only aortic valve surgery, with 115 undergoing standard sternotomy and 53 undergoing mini-sternotomy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "115 undergoing standard sternotomy and 53 undergoing mini-sternotomy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare early postoperative outcomes between these surgical approaches."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was early postoperative recovery, assessed by ICU stay and mechanical ventilation duration."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "115 undergoing standard sternotomy and 53 undergoing mini-sternotomy"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Data were analyzed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mini-sternotomy group experienced significantly shorter ICU stays (39.92 ± 8.62 hours vs. 55.96 ± 32.56 hours, p < 0.001) and mechanical ventilation durations (5.82 ± 2.44 hours vs. 10.41 ± 14.68 hours, p = 0.030)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were comparable, with no significant differences in perioperative complications."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "No trial registration or funding source was reported."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "No trial registration or funding source was reported."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

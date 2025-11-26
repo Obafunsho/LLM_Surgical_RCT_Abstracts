@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Chewing Gum for Postoperative Recovery after Colorectal Resection"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted in five UK hospitals from October 2010 to April 2013, the trial included adults scheduled for elective colorectal resection."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to standard postoperative care with or without chewing gum (sugar-free gum for at least 10 minutes, four times daily on days 1\u20135)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated whether chewing gum reduces the length of hospital stay (LOS) following colorectal resection."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was LOS, measured from the operation date to discharge."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with concealed allocation."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not feasible for participants or outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 412 recruited, 402 patients were analysed (199 in the gum group, 203 in the control group)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "402 patients were analysed (199 in the gum group, 203 in the control group) using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Median LOS was 7 days in both groups (hazard ratio 0.94, 95% CI 0.77 to 1.15; p = 0.557)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Participants in the gum group reported worse quality of life at 6 and 12 weeks post-operation and experienced more complications graded III or above (16 vs. 6) and deaths (11 vs. 0), none attributed to gum."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN55784442."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

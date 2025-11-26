@@ -1,0 +1,74 @@
+{
+  "pmcid": "12210766",
+  "sha256": "bf01b330d5074096c55d0b63495fac203e221c13fcd081e20764debb5272b986",
+  "timestamp_utc": "2025-11-09T15:34:18.425075+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.081046511627907,
+    "reading_ease": 10.89389534883722,
+    "word_count": 344
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "we designed a randomized controlled trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients undergoing thoracoscopic lobectomy were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients undergoing thoracoscopic lobectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "dynamic lung compliance group that received individualized PEEP guided by the maximum dynamic pulmonary compliance or a conventional ventilation group with a fixed PEEP of 5 cm H 2 O"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to assess whether titrating PEEP to the maximum dynamic lung compliance in patients undergoing lung resection surgery impacts the occurrence of postoperative pulmonary complications (PPCs)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was a composite of PPCs occurring within seven days"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients undergoing thoracoscopic lobectomy were randomly assigned"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One hundred patients were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Patients in the conventional ventilation group experienced 38% postoperative pulmonary complications versus 20% in the dynamic lung compliance group compared with the control group ( P < 0.01)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "This study was registered at the Chinese Clinical Trials Registry on 04/07/2021 with registration number ChiCTR2100048201"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

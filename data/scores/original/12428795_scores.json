@@ -1,0 +1,74 @@
+{
+  "pmcid": "12428795",
+  "sha256": "cac7c115cbc2a416c4519fcbc2d1f0f99b21bb9d0557085fa82b19b027c29537",
+  "timestamp_utc": "2025-11-09T15:41:12.561145+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.060557491289199,
+    "reading_ease": 28.814756097560974,
+    "word_count": 328
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "165 patients scheduled for VRS were randomly assigned"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "AoA-guided GA combined with IPA at a single dose of 1 g of paracetamol (acetaminophen) or 2.5 g of metamizole or both"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we assessed the impact of preemptive analgesia with COX-3 inhibitors"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "impact of preemptive analgesia with COX-3 inhibitors, administered alongside GA with AoA-guided IROA, on the incidence of PONV, oculocardiac reflex (OCR), and oculoemetic reflex (OER)"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients scheduled for VRS were randomly assigned"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "165 patients scheduled for VRS were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "153 analyzed patients undergoing VRS"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "PONV in 4%, OCR in 10%, and OER in 0% of the 153 analyzed patients"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "PONV was observed in 2.11% (3/142) of patients"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

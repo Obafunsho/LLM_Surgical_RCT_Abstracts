@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Surgical Cognitive Simulation Training in Surgical Trainees"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this randomised controlled trial, general surgical trainees in years 3\u20135 from the West Midlands Deanery were recruited."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "general surgical trainees in years 3\u20135 from the West Midlands Deanery were recruited."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to an intervention group receiving SCS training or a control group without training."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the impact of surgical cognitive simulation (SCS) training on surgical skills."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in procedure-based assessment scores, evaluated over four months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a random number generator, and assessors were blinded to group allocation."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "assessors were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between January and June 2021, 21 participants were recruited, with 10 assigned to the intervention group and 11 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Complete data were available for 7 participants in each group."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The intervention group demonstrated a statistically significant improvement in 11 of 16 assessment domains (P < 0.050) and a mean reduction in procedure time (\u201315.98 vs. \u20131.14 min; P = 0.024)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by Health Education England (West Midlands) and supported by a Fellowship from the Alan Turing Institute and an MRC Confidence in Concept Award."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

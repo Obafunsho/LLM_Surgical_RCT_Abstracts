@@ -1,0 +1,74 @@
+{
+  "pmcid": "11875857",
+  "sha256": "d3e6ec89431e07304a0d9251ec1c3ee72ac4adafaa1b1d20c5a5de3315288e39",
+  "timestamp_utc": "2025-11-09T15:24:57.949796+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 6.877814814814819,
+    "reading_ease": 50.56116666666668,
+    "word_count": 27
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "选取从2018年1月~2021年12月在郑州大学第一附属医院单治疗组行非体外循环冠状动脉旁路移植术且左室射血分数小于50%的患者86例"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "左室射血分数小于50%的患者86例，其中行多支动脉桥OPCABG 22例（多支动脉桥组），行单支动脉桥OPCABG 64例（单支动脉桥组）"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "行多支动脉桥OPCABG 22例（多支动脉桥组），行单支动脉桥OPCABG 64例（单支动脉桥组）"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "目的: 比较多支动脉桥和单支动脉桥非体外循环下冠状动脉旁路移植术（OPCABG）在左心功能降低患者中的围手术期及近中期结果。"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "术后随访29.28±14.84月，比较两组患者围手术期及随访结果"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "86例，其中行多支动脉桥OPCABG 22例（多支动脉桥组），行单支动脉桥OPCABG 64例（单支动脉桥组）"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Logistic回归分析女性（OR：0.191，95% CI ：0.049-0.075）、肌酐（OR：1.016，95% CI ：1.000-1.033）是患者术后MACE发生的影响因素"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "术后低血压状态发生率较高（34.78% vs 11.54%， P =0.009）"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

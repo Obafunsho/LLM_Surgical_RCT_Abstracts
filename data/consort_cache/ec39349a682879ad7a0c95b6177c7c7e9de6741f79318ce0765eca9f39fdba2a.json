@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Modified Mindfulness-Based Stress Reduction in Surgical Interns"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed at the individual level"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Twenty-one surgical interns were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either an 8-week modified Mindfulness-Based Stress Reduction (MBSR) program or an active control"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was feasibility"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed at the individual level, and allocation concealment was ensured"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Twenty-one surgical interns were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Thirteen men (62%) participated"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Satisfaction and perceived credibility were higher in the intervention group (P = .03)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov NCT03141190"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

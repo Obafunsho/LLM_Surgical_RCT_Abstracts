@@ -1,0 +1,74 @@
+{
+  "pmcid": "4390908",
+  "sha256": "d2f4a7a6f73c662d8e48d20c8868b8446bfa302e63042cd3204078080ce8da63",
+  "timestamp_utc": "2025-11-09T15:58:58.756847+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.753391812865498,
+    "reading_ease": 28.517631578947373,
+    "word_count": 342
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Conclusions: At 5 years this randomized clinical trial demonstrated that highly porous metal tibias provided comparably durable fixation and reliable pain relief and restoration of function when compared with a traditional cemented modular tibia in TKA."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Stratified randomization was done for surgeon, patient’s age, sex, and body mass index."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "From 2003 to 2006, 397 patients (age 67.8 ± 8.7 years; 54% female) were randomized to three groups."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomized to three groups: (1) traditional modular cemented tibia; (2) cemented highly porous metal tibia; and (3) uncemented highly porous metal tibia."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose of this study was to compare, in the context of a randomized clinical trial, a highly porous metal tibia compared with a traditional modular cemented tibia in terms of survivorship, Knee Society scores, range of motion (ROM), and complications."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Survivorship at 5 years was compared between the groups, as were Knee Society scores, ROM, and complications."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Stratified randomization was done for surgeon, patient’s age, sex, and body mass index."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From 2003 to 2006, 397 patients (age 67.8 ± 8.7 years; 54% female) were randomized to three groups."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Four patients were lost to followup before 2 years."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Highly porous metal tibias (both uncemented and cemented) were no different from traditional cemented modular tibial modular components in terms of survivorship at 5 years using a intention-to-treat analysis (96.8% [ 1 ]; 97.6% [ 2 ]; 96.7% [ 3 ]; p = 0.59)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Highly porous metal tibias performed comparably to traditional cemented modular tibias in terms of Knee Society scores, ROM, and the frequency of complications."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

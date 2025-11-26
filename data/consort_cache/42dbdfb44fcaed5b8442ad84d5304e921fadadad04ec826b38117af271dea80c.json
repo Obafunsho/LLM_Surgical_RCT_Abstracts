@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This is the first randomised controlled trial examining the effect of prophylactic high\u2010flow nasal oxygen use on patient\u2010centred outcomes in cardiac surgical patients at high risk for postoperative respiratory complications."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Adult patients with pre\u2010existing respiratory disease undergoing elective cardiac surgery were randomly allocated to receive high\u2010flow nasal oxygen (n\u00a0=\u00a051) or standard oxygen therapy (n\u00a0=\u00a049)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients with pre\u2010existing respiratory disease undergoing elective cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly allocated to receive high\u2010flow nasal oxygen (n\u00a0=\u00a051) or standard oxygen therapy (n\u00a0=\u00a049)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We sought to determine whether routine administration of high\u2010flow nasal oxygen, compared with standard oxygen therapy, leads to reduced hospital length of stay after cardiac surgery in patients with pre\u2010existing respiratory disease at high risk for postoperative pulmonary complications."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was hospital length of stay"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomly allocated to receive high\u2010flow nasal oxygen (n\u00a0=\u00a051) or standard oxygen therapy (n\u00a0=\u00a049)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "all analyses were carried out on an intention\u2010to\u2010treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Geometric mean hospital length of stay was 29% lower in the high\u2010flow nasal group (95%CI 11\u201344%, p\u00a0=\u00a00.004)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

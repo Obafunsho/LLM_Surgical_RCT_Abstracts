@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This was a single-case study conducted at a tertiary care hospital."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "An 80-year-old male patient with a ruptured IIAA and AVF was treated."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved temporary balloon occlusion of the AVF through the femoral vein, followed by EVAR with coil embolization."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effectiveness of temporary balloon occlusion of an arteriovenous fistula (AVF) via the femoral vein in stabilizing hemodynamics before endovascular aneurysm repair (EVAR)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was hemodynamic stability, assessed immediately post-intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The patient achieved hemodynamic stability following the temporary balloon occlusion of the AVF."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Subsequent EVAR was performed successfully without complications."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The authors reported no funding sources for this study."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

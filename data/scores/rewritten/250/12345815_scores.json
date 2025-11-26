@@ -1,0 +1,74 @@
+{
+  "pmcid": "12345815",
+  "sha256": "c1cd01f76da786895facde08e917cd6b7e7d05edb691dbe05fc9e98ddff969c8",
+  "timestamp_utc": "2025-11-09T22:22:20.303845+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.44032122559921,
+    "reading_ease": 33.008428465530045,
+    "word_count": 213
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Cost-Effectiveness of Rubber Band Ligation Versus Hemorrhoidectomy for Grade III Hemorrhoids: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to RBL (n=46) or hemorrhoidectomy (n=33)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "79 adults with symptomatic grade III hemorrhoids, conducted in 10 Dutch hospitals"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to RBL (n=46) or hemorrhoidectomy (n=33)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the cost-effectiveness of rubber band ligation (RBL) versus hemorrhoidectomy for grade III hemorrhoids."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were cost per quality-adjusted life year (QALY) gained and cost per recurrence avoided over 24 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to RBL (n=46) or hemorrhoidectomy (n=33) from September 2019 to November 2022."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to RBL (n=46) or hemorrhoidectomy (n=33)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Hemorrhoidectomy resulted in a QALY difference of 0.08 (95% CI, 0.06–0.16; p=0.034) and a recurrence difference of 33.5% (95% CI, 15.3%–51.7%; p=0.002)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04621695"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

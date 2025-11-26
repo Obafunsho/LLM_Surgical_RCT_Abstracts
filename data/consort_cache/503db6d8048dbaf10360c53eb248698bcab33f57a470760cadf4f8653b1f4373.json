@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "500 randomly selected postmenopausal women with osteoporosis"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "500 randomly selected postmenopausal women with osteoporosis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "abaloparatide (250 patients) or placebo (250 patients)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that abaloparatide would improve BMD in proximal femoral regions surrounding a virtual THA stem."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "obtained dual x-ray absorptiometry (DXA) hip scans from 500 randomly selected postmenopausal women with osteoporosis from the Phase-3 Abaloparatide Comparator Trial in Vertebral Endpoints (ACTIVE, NCT01343004 ) study after 0, 6, and 18 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "500 randomly selected postmenopausal women with osteoporosis"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "abaloparatide (250 patients) or placebo (250 patients)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Compared with placebo, the abaloparatide group showed greater increases in integral volumetric BMD in all zones at months 6 and 18"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ACTIVE, NCT01343004"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

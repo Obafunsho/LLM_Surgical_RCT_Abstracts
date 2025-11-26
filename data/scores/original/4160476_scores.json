@@ -1,0 +1,74 @@
+{
+  "pmcid": "4160476",
+  "sha256": "ee50c8525274d9cf68ac78faaf027bc8ca0b7ac34e3764ff46452fcd84646b08",
+  "timestamp_utc": "2025-11-09T15:57:30.567658+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.827619047619049,
+    "reading_ease": 25.995000000000005,
+    "word_count": 540
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A randomized clinical trial was conducted in which 90 patients were enrolled and divided into three groups"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "90 patients were enrolled and divided into three groups"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "divided into three groups: CT-based, MRI-based patient-specific instrumentation, and conventional instrumentation"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We compared the accuracy of MRI- and CT-based patient-specific instrumentation with conventional instrumentation and with each other in TKAs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Clinical outcomes (Knee Society and WOMAC scores) were evaluated preoperatively and at a mean of 3 months postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "90 patients were enrolled and divided into three groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "MRI versus conventional, 1.0° [range, 0°–4°] versus 4.5° [range, 0°–8°], p < 0.001"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

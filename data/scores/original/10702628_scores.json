@@ -1,0 +1,74 @@
+{
+  "pmcid": "10702628",
+  "sha256": "04e0f987ae2e564e2aac113d630cc5f2de394eac2d46b15c4e47c00e96a08c1f",
+  "timestamp_utc": "2025-11-09T15:10:40.503620+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.931326530612246,
+    "reading_ease": 19.181887755102053,
+    "word_count": 245
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The study was designed as a RCT with two arms (intervention and control)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A total of 40 patients with colorectal cancer (WHO performance status I or II) undergoing elective surgery with curative intent were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention consisted of 4 weeks of multimodal prehabilitation, with supervised physical training, nutritional support and medical optimization. The control group received standard of care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of the present study was to test the effect of prehabilitation on immediate postoperative recovery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative recovery within the first 3 postoperative days, measured by Quality of Recovery-15, a validated questionnaire with a scoring range between 0 and 150 and a minimal clinically relevant difference of 8."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 40 patients with colorectal cancer (WHO performance status I or II) undergoing elective surgery with curative intent were included."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "In total, 36 patients were analysed with 16 in the intervention group and 20 in the control group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The overall treatment effect associated with the intervention was a 21.9 (95% c.i. 4.5–39.3) higher quality of recovery-15 score during the first 3 postoperative days compared to control, well above the minimal clinically relevant difference."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT04167436 ( http://www.clinicaltrials.gov )"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

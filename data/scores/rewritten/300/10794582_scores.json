@@ -1,0 +1,74 @@
+{
+  "pmcid": "10794582",
+  "sha256": "8be807ea9aa2acb89c0fd2cb27ed645e65777df188d97f3e828edcb5b4b4e00d",
+  "timestamp_utc": "2025-11-09T23:09:38.263936+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.424658008658014,
+    "reading_ease": 19.074129870129866,
+    "word_count": 231
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This randomised controlled trial investigated the comparative performance of predictors of fluid responsiveness in children"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "participants were randomised to shock or non-shock states"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The trial included children under 18 years, assessing physiological responses to intravenous fluid administration. Conducted in both PICU and non-PICU settings"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "participants were randomised to shock or non-shock states"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial investigated the comparative performance of predictors of fluid responsiveness in children"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the area under the receiver operating characteristic curve (AUROC) for fluid responsiveness, evaluated over a defined period"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, with allocation concealment via sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "100 participants randomised to each group"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Meta-analysis indicated poor predictive performance across all tools (AUROC 0.66, 95% CI [0.63, 0.69])"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "no significant adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

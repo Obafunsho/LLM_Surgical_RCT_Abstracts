@@ -1,0 +1,74 @@
+{
+  "pmcid": "10433136",
+  "sha256": "7f5482486d5b6b3639d4354548148b09e377b33950f10c632035eedf88ea780e",
+  "timestamp_utc": "2025-11-09T15:08:55.396292+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.687861471861474,
+    "reading_ease": 31.526077922077945,
+    "word_count": 462
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "US cardiothoracic surgeons were then randomized to receive 1 clinical vignette"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "515 African American patients (308 [59.8%] female; mean [SD] age, 66.2 [9.4] years)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "surgeons randomized to the vignette with African American race–corrected PFTs"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: To identify how many hospitals providing lung cancer surgery use race correction"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Main Outcomes and Measures: Number of hospitals using race correction in PFTs"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "US cardiothoracic surgeons were then randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 225 surgeons (194 male [87.8%]; mean [SD] time in practice, 19.4 [11.3] years) were successfully randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 515 African American patients (308 [59.8%] female; mean [SD] age, 66.2 [9.4] years) were included in the study"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "percent predicted preoperative FEV 1 and postoperative FEV 1 would have decreased by 9.2% (95% CI, −9.0% to −9.5%; P < .001)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

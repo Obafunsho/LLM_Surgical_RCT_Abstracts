@@ -1,0 +1,74 @@
+{
+  "pmcid": "12218838",
+  "sha256": "9da86548dc32a2159d6a6983a2b343aacaffaa301876b8aed278fad1ab926827",
+  "timestamp_utc": "2025-11-09T22:19:02.125894+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 19.30846153846154,
+    "reading_ease": -12.496794871794862,
+    "word_count": 208
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial on Diesel Particulate Matter-Induced Ischemic Heart Disease"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "A cohort of diesel engine testers (DETs) with stable DPM exposure was studied."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to identify biomarkers and mechanisms of DPM-induced myocardial hypoxia injury."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Compromised myocardial mitochondrial aerobic metabolism was identified as a precursor biomarker for myocardial hypertrophy and hypoxia injury in DPM exposure."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

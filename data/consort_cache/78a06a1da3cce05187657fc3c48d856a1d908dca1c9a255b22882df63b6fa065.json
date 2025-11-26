@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of the Thai Translation of the Aberdeen Varicose Vein Questionnaire"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included adults with CEAP C2-C6 and truncal reflux."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Venous interventions were performed, and outcomes were measured using AVVQ-Thai, VCSS, and EQ-5D pre- and one-month post-intervention."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to translate the Aberdeen Varicose Vein Questionnaire into Thai (AVVQ-Thai) and evaluate its reliability, validity, and minimal clinically important differences (MCID) in patients with chronic venous disease (CVD)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in AVVQ-Thai scores."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 119 patients were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Median AVVQ scores improved significantly post-intervention from 15.4 to 4.2 in C2-C3 and from 18.9 to 7.3 in C4-C6."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

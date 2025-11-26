@@ -1,0 +1,74 @@
+{
+  "pmcid": "6509049",
+  "sha256": "23b06b734bcc68f6a3b96ac16a620d93f24dcd47da74fe5f47bdf13352c4ed27",
+  "timestamp_utc": "2025-11-09T16:09:20.174841+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.805245098039219,
+    "reading_ease": 4.456102941176482,
+    "word_count": 255
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We tested the hypothesis that hyperinsulinemic normoglycemia reduces 30-day mortality and morbidity after cardiac surgery."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This dual-center, parallel group, superiority trial randomized cardiac surgical patients between August 2007 and March 2015 at the Cleveland Clinic and Royal Victoria Hospital."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "cardiac surgical patients between August 2007 and March 2015 at the Cleveland Clinic and Royal Victoria Hospital."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "1)hyperinsulinemic normoglycemia, a fixed high-dose insulin and concomitant variable glucose infusion titrated to glucose concentrations of 80–110 mg·dL −1 ; or 2)standard glycemic management, low-dose insulin infusion targeting glucose >150 mg·dL −1."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We tested the hypothesis that hyperinsulinemic normoglycemia reduces 30-day mortality and morbidity after cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was a composite of 30-day mortality, mechanical circulatory support, infection, renal or neurologic morbidity."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "This dual-center, parallel group, superiority trial randomized cardiac surgical patients."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "At the third interim analysis (N=1,439; hyperinsulinemic normoglycemia 709, standard glycemic management 730; 52% planned maximum)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "At the third interim analysis (N=1,439; hyperinsulinemic normoglycemia 709, standard glycemic management 730; 52% planned maximum)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At least one component of the composite outcome occurred in 49(6.9%) patients receiving hyperinsulinemic normoglycemia versus 82(11.2%) receiving standard glucose management (P<efficacy boundary 0.0085); estimated relative risk (95%interim-adjusted CI) 0.62(0.39,0.97), P=0.0043."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Severe hypoglycemia (<40 mg·dL −1 ) occurred in 6(0.9%) patients."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

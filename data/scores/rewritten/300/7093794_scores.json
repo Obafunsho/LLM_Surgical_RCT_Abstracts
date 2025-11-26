@@ -1,0 +1,74 @@
+{
+  "pmcid": "7093794",
+  "sha256": "fb446c589bc0a1a3cfd5fca03c8ee6e53a1884d2edd0153b854b86281ad3bfe2",
+  "timestamp_utc": "2025-11-10T00:04:20.548440+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.120701754385966,
+    "reading_ease": 29.53657894736844,
+    "word_count": 228
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of DACC-Coated vs. Alginate Dressings for Pilonidal Sinus Wound Healing"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 246 patients undergoing pilonidal sinus surgery were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This multicentre, open-label randomised controlled trial was conducted in four French hospitals"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either DACC-coated or alginate dressings postoperatively"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of dialkylcarbamoyl chloride (DACC)-coated dressings compared to alginate dressings in wound healing."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the proportion of wounds healed at 75 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via telephone."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not feasible for patients or clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 246 patients undergoing pilonidal sinus surgery were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In per-protocol analysis, 78 of 103 patients (75.7%) in the DACC group and 58 of 97 (60%) in the alginate group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "odds ratio 2.55, 95% CI 1.12 to 5.92; P = 0.023"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events in the alginate group included severe pain, hyperglycaemia, pregnancy, and hyperalgic inflammatory granulation."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02011802."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "1894940",
+  "sha256": "793498de784c5694be30b4cd59fcae457065f2de87153f334c1c458a0357e323",
+  "timestamp_utc": "2025-11-09T15:47:32.011287+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 22.860303951367786,
+    "reading_ease": -9.039999999999964,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "New insights into the biological properties of cyclooxygenase-2 (COX-2) and its response pathway challenge the hypothesis that COX-2 is simply pro-inflammatory and inhibition of COX-2 solely prevents the development of inflammation and ameliorates inflammatory pain."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The present study performed a comprehensive analysis of gene/protein expression induced by a selective inhibitor of COX-2, rofecoxib, compared with a non-selective COX inhibitor, ibuprofen, and placebo in a clinical model of acute inflammatory pain (the surgical extraction of impacted third molars) using microarray analysis followed by quantitative RT-PCR verification and Western blotting."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Compared to placebo, rofecoxib treatment increased the gene expression of ANXA3 (annexin 3), SOD2 (superoxide dismutase 2), SOCS3 (suppressor of cytokine signaling 3) and IL1RN (IL1 receptor antagonist) which are associated with inhibition of phospholipase A2 and suppression of cytokine signaling cascades, respectively."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 3,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "3528899",
+  "sha256": "070ea33ebe6bdaeb69baa6d6161c973dd237015479d8e969311c892eedf61a3e",
+  "timestamp_utc": "2025-11-09T15:53:05.505338+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.2846355085244,
+    "reading_ease": 9.224907407407414,
+    "word_count": 243
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Twenty-two patients undergoing primary TKA were randomized into two groups."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group 1 received 1 g cefazolin systemically 10 minutes before tourniquet inflation. Group 2 received 1 g cefazolin intraosseously in 200 mL of normal saline through a tibial cannula after tourniquet inflation and before skin incision."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We compared tissue concentrations of cefazolin achieved with systemic versus regional intraosseous administration."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Subcutaneous fat and femoral bone samples were taken at set intervals during the procedure and antibiotic concentrations measured using a validated technique involving high-performance liquid chromatography."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty-two patients undergoing primary TKA were randomized into two groups."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The overall mean tissue concentration of cefazolin in subcutaneous fat was 186 ug/g in the intraosseous group and 11 ug/g in the systemic group. The mean tissue concentration in bone was 130 ug/g in the intraosseous group and 11 ug/g in the systemic group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

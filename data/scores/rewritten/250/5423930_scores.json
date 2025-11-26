@@ -1,0 +1,74 @@
+{
+  "pmcid": "5423930",
+  "sha256": "6231816bb5a32cd1efffdff537d7c32d16aafd484247bcb6dea591bdeaca403b",
+  "timestamp_utc": "2025-11-09T22:46:10.422465+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.342594339622643,
+    "reading_ease": 30.1720990566038,
+    "word_count": 212
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Development and Validation of Prognostic Models for Hospital Outcomes in Hypoglycaemia Admissions: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to develop and validate prognostic models to predict inpatient death, 24-hour discharge, and one-month readmission in patients admitted for hypoglycaemia."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "C-indices for the base and disease models were 0.77 and 0.78 for death, 0.57 for one-month readmission, and 0.68 and 0.69 for 24-hour discharge."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  }
+}

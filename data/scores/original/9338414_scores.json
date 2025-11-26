@@ -1,0 +1,74 @@
+{
+  "pmcid": "9338414",
+  "sha256": "3c16977d954c2a345f5d226a6f6f67f5f37d65a445fe7b52ffe98deb4ec57705",
+  "timestamp_utc": "2025-11-09T16:21:08.737223+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.845636558153753,
+    "reading_ease": 15.07629935299812,
+    "word_count": 727
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants (male or female) were involved in any type of procedure where general anaesthetic utilizing RSI or emergency airway management utilizing RSI and endotracheal intubation was undertaken."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "We included all RCTs comparing people undergoing RSI who have cricoid pressure applied, either intermittently or continuously, with people undergoing RSI who do not have cricoid pressure applied."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: To identify and evaluate all randomized controlled trials (RCTs) involving participants undergoing elective or emergency airway management via RSI and compare participants who have cricoid pressure administered with participants who do not have cricoid pressure administered."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome of interest was the reported event rate or prevalence of aspiration determined by a) documented gastric aspiration determined by visual inspection of aspirated stomach contents on laryngoscopy; b) pepsin detection in tracheal aspirate using the Ufberg method; c) post‐anaesthetic radiographic changes suggestive of aspiration pneumonitis or d) any combination of a to c."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty participants were recruited, 20 of whom had cricoid pressure applied and 20 of whom had cricoid pressure simulated."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The main outcomes reported were systolic arterial pressure and heart rate after laryngoscopy and tracheal intubation."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

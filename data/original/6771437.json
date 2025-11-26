@@ -1,0 +1,29 @@
+{
+  "pmcid": "6771437",
+  "pmid": "31349348",
+  "title": "Earlier time to hemostasis is associated with decreased mortality and rate of complications: results from the Pragmatic Randomized Optimal Platelet and Plasma Ratio (PROPPR) trial",
+  "abstract": "Introduction:: Clinicians intuitively recognize that faster time to hemostasis is important in bleeding trauma patients, but these times are rarely reported.\n\nMethods:: Prospectively collected data from the PROPPR trial were analyzed. Hemostasis was predefined as no intraoperative bleeding requiring intervention in the surgical field or resolution of contrast blush on interventional radiology. Patients who underwent an emergent (within 90 minutes) OR or IR procedure were included. Mixed-effects Poisson regression with robust error variance (controlling for age, injury severity score [ISS], treatment arm, injury mechanism, base excess on admission [missing values estimated by multiple imputation], and time to OR/IR as fixed effects and study site as a random effect) with modified Bonferroni corrections tested the hypothesis that decreased time to hemostasis was associated with decreased mortality and decreased incidence of acute kidney injury (AKI), acute respiratory distress syndrome (ARDS), multiple organ failure (MOF), sepsis, and venous thromboembolism (VTE).\n\nResults:: Of 680 enrolled patients, 468 (69%) underwent an emergent procedure. Patients with decreased time to hemostasis were less severely injured, had less deranged base excess on admission, and lower incidence of blunt trauma (all p<0.05). In 408 patients (87%) in whom hemostasis was achieved, every 15 minute decrease in time to hemostasis was associated with decreased 30-day mortality (RR 0.97, 95% CI 0.94–0.99), AKI (RR 0.97, 95% CI 0.96–0.98), ARDS (RR 0.98, 95% CI 0.97–0.99), MOF (RR 0.94, 95% CI 0.91–0.97), and sepsis (RR 0.98, 95% CI 0.96–0.99), but not VTE (RR 0.99, 95% CI 0.96–1.03).\n\nConclusion:: Earlier time to hemostasis was independently associated with decreased incidence of 30-day mortality, AKI, ARDS, MOF, and sepsis in bleeding trauma patients. Time to hemostasis should be considered as an endpoint in trauma studies and as a potential quality indicator.\n\nLevel of evidence:: Level III (Therapeutic / Care Management)",
+  "authors": [
+    "Ronald Chang",
+    "Jeffrey D. Kerby",
+    "Kyle J. Kalkwarf",
+    "Gerald Van Belle",
+    "Erin E. Fox",
+    "Bryan A. Cotton",
+    "Mitchell J. Cohen",
+    "Martin A. Schreiber",
+    "Karen Brasel",
+    "Eileen M. Bulger",
+    "Kenji Inaba",
+    "Sandro Rizoli",
+    "Jeanette M. Podbielski",
+    "Charles E. Wade",
+    "John B. Holcomb"
+  ],
+  "journal": "The journal of trauma and acute care surgery",
+  "year": "2019",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

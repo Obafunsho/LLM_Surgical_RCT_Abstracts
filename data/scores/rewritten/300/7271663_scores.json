@@ -1,0 +1,74 @@
+{
+  "pmcid": "7271663",
+  "sha256": "93aef440e1e3910006494e1529bf2f66de5c7a6adf01ec67d28823ef79c13ff4",
+  "timestamp_utc": "2025-11-10T00:05:17.818255+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.114364478114478,
+    "reading_ease": 23.08043560606066,
+    "word_count": 297
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The effect of sildenafil on post-cardiac surgery acute kidney injury: a randomised controlled trial."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In a double-blind, parallel-group randomised controlled trial, 129 adults at increased risk of AKI undergoing cardiac surgery at a single UK tertiary centre were randomised."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "129 adults at increased risk of AKI undergoing cardiac surgery at a single UK tertiary centre."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either sildenafil citrate 12.5 mg intravenously over 150 minutes or a dextrose 5% placebo at the start of surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assessed the efficacy of intravenous sildenafil citrate in preventing acute kidney injury (AKI) in patients undergoing cardiac surgery with cardiopulmonary bypass."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was serum creatinine concentration measured at six time points up to 96 hours post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by procedure type and baseline estimated glomerular filtration rate, with allocation concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between September 2015 and September 2018, 60 participants were randomised to sildenafil and 69 to placebo."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The intention-to-treat analysis showed no significant difference in serum creatinine between groups."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean difference: 0.88 μmol/L, 95% CI: -5.82 to 7.59, p = 0.797"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar, with no anaphylactic reactions reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN18386427."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: British Heart Foundation and Leicester and Bristol National Institute for Health Research Cardiovascular Biomedical Research Units."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 121 eligible children aged 13\u2009years, who were scheduled for transthoracic echocardiography were randomized into three groups."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "A total of 121 eligible children aged 13\u2009years, who were scheduled for transthoracic echocardiography were randomized into three groups."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "They were treated with intranasal dexmedetomidine 1\u2009mcg.kg \u22121 + esketamine 0.5\u2009mg.kg \u22121 (group S1), dexmedetomidine 1\u2009mcg.kg \u22121 + esketamine 1\u2009mg.kg \u22121 (group S2), or dexmedetomidine 1\u2009mcg.kg \u22121 + esketamine 1.5\u2009mg.kg \u22121 (group S3)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "In this study, we compared the different doses of intranasal esketamine combined with dexmedetomidine for sedation during transthoracic echocardiography in toddlers."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the success rate of sedation, other outcomes included HR, SpO 2 , onset time, wake-up time, and adverse effects."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "A total of 121 eligible children aged 13\u2009years, who were scheduled for transthoracic echocardiography were randomized into three groups."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 121 eligible children aged 13\u2009years, who were scheduled for transthoracic echocardiography were randomized into three groups."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The success rate of sedation was significantly higher in groups S2 (85.4%) and S3 (87.5%) than ingroup S1 (60%) ( p =\u20090.004)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "However, there were no differences in the wake-up time or adverse effects among the three groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinical trial registration number: ChiCTR2200060976, 2022/06/14 (trail from August 2022 to January 2023)"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

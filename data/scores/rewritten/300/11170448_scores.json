@@ -1,0 +1,74 @@
+{
+  "pmcid": "11170448",
+  "sha256": "9984272a6a6a97eeeb711fe803b0a1af6a9e61a19e5b625cffca4ca54940a01f",
+  "timestamp_utc": "2025-11-09T23:13:10.431490+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.849620733249054,
+    "reading_ease": 36.44441002949853,
+    "word_count": 226
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Timing of Adjuvant Chemotherapy in Colorectal Cancer: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomization was computer-generated with allocation concealment."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants had high-risk stage II or III nonmetastatic colorectal cancer and underwent curative surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "They were randomized to 3 or 6 months of adjuvant chemotherapy with fluoropyrimidine and oxaliplatin."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the impact of chemotherapy timing on outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was disease-free survival over a median follow-up of 72 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "This post hoc analysis of the phase 3 SCOT trial included 5719 patients from 244 centers in 6 countries."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Five-year disease-free survival was 78.0% in the early-start group compared to 73.2% in the late-start group (hazard ratio, 1.24; 95% CI, 1.06-1.46; P = .01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, with no significant difference in the total treatment period (odds ratio, 0.82; 95% CI, 0.65-1.04; P = .09) or the first cycle (odds ratio, 0.77; 95% CI, 0.56-1.09; P = .13)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ISRCTN59757862."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

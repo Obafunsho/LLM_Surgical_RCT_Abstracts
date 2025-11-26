@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This paper describes the long-term follow up over a 3\u201310-year postoperative period of the patients, grafted and non-grafted, recruited to this cohort using the \u2018Core assessment program for intracerebral transplantations-HD\u2019 assessment protocol."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Between 2000 and 2003, the \u2018NEST-UK\u2019 consortium carried out bilateral striatal transplants of human fetal striatal tissue in five HD patients."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Between 2000 and 2003, the \u2018NEST-UK\u2019 consortium carried out bilateral striatal transplants of human fetal striatal tissue in five HD patients."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Between 2000 and 2003, the \u2018NEST-UK\u2019 consortium carried out bilateral striatal transplants of human fetal striatal tissue in five HD patients."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between 2000 and 2003, the \u2018NEST-UK\u2019 consortium carried out bilateral striatal transplants of human fetal striatal tissue in five HD patients."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant differences were found over time between the patients, grafted and non-grafted, on any subscore of the Unified Huntington's Disease Rating Scale, nor on the Mini Mental State Examination."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Importantly, no significant adverse or placebo effects were seen."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

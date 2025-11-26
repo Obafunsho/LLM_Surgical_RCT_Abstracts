@@ -1,0 +1,74 @@
+{
+  "pmcid": "2866935",
+  "sha256": "5af5684f2932d7c15f3a77d21211ce423740f46426da4ecb6fbd1afb379e7773",
+  "timestamp_utc": "2025-11-09T15:50:21.218585+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.16021739130435,
+    "reading_ease": 49.87119565217395,
+    "word_count": 184
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We performed a randomized, controlled trial in patients 70 years and older comparing a cemented implant (112 hips) with an uncemented, hydroxyapatite-coated implant (108 hips), both with a bipolar head."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We performed a randomized, controlled trial in patients 70 years and older comparing a cemented implant (112 hips) with an uncemented, hydroxyapatite-coated implant (108 hips), both with a bipolar head."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "We performed a randomized, controlled trial in patients 70 years and older comparing a cemented implant (112 hips) with an uncemented, hydroxyapatite-coated implant (108 hips), both with a bipolar head."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing a cemented implant (112 hips) with an uncemented, hydroxyapatite-coated implant (108 hips), both with a bipolar head."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The mean Harris hip score showed equivalence between the groups, with 70.9 in the cemented group and 72.1 in the uncemented group after 3 months (mean difference, 1.2) and 78.9 and 79.8 after 12 months (mean difference, 0.9)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "comparing a cemented implant (112 hips) with an uncemented, hydroxyapatite-coated implant (108 hips)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean Harris hip score showed equivalence between the groups, with 70.9 in the cemented group and 72.1 in the uncemented group after 3 months (mean difference, 1.2) and 78.9 and 79.8 after 12 months (mean difference, 0.9)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The rates of complications and mortality were similar between groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

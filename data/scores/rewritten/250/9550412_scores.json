@@ -1,0 +1,74 @@
+{
+  "pmcid": "9550412",
+  "sha256": "ee4f63ffb4a0b20a81e8b842132217af815fc8a8f708618558358733a60cbf74",
+  "timestamp_utc": "2025-11-09T23:01:31.364891+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.23661971830986,
+    "reading_ease": 29.345460455037966,
+    "word_count": 213
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Fenestrated and Branched Endovascular Aneurysm Repair (F/B-EVAR) for Thoracoabdominal Aortic Aneurysm"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients with TAAA or complex AAA eligible for F/B-EVAR."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received F/B-EVAR, while the control group underwent conventional open surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to evaluate the efficacy and safety of F/B-EVAR compared to conventional open surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of spinal cord injury (SCI) within 30 days post-procedure."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the interventions."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 100 to the F/B-EVAR group and 100 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The incidence of SCI was 5% in the F/B-EVAR group and 15% in the control group (p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 10% of the F/B-EVAR group and 20% of the control group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by the National Institutes of Health."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

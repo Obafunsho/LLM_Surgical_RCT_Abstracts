@@ -1,0 +1,74 @@
+{
+  "pmcid": "5989938",
+  "sha256": "59cc4a192887fae8d44ee3872446cdb7b4593b3063511b3c507b70fbb3cd428b",
+  "timestamp_utc": "2025-11-09T16:07:01.414841+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.8416592019544,
+    "reading_ease": 44.33884059446254,
+    "word_count": 307
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The aim of this study was to evaluate whether a fibrin sealant patch is able to reduce POPF in patients undergoing pancreatoduodenectomy with pancreatojejunostomy."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this multicentre trial, patients undergoing pancreatoduodenectomy were randomized to receive either a fibrin patch (patch group) or no patch (control group)"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients undergoing pancreatoduodenectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive either a fibrin patch (patch group) or no patch (control group)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to evaluate whether a fibrin sealant patch is able to reduce POPF"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was POPF."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients undergoing pancreatoduodenectomy were randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 142 patients were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Forty‐five of 71 patients (63 per cent) in the patch group and 40 of 71 (56 per cent) in the control group developed biochemical leakage or POPF"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Forty‐five of 71 patients (63 per cent) in the patch group and 40 of 71 (56 per cent) in the control group developed biochemical leakage or POPF ( P = 0·392)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no differences in postoperative complications (54 patients in patch group and 50 in control group; P = 0·839)"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: 2013‐000639‐29 (EudraCT register)."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

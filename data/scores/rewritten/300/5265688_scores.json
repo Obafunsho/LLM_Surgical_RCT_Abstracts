@@ -1,0 +1,74 @@
+{
+  "pmcid": "5265688",
+  "sha256": "fb34a1ce6ef286f301addc2bb52a4c2ef48c5d225d411d793e850cdeb2b999e9",
+  "timestamp_utc": "2025-11-09T23:57:10.709553+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.48429487179487,
+    "reading_ease": 51.60028846153847,
+    "word_count": 234
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Everolimus Plus Reduced-Dose Tacrolimus in Liver Transplant Recipients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Adult recipients of primary liver transplants from deceased donors, with an eGFR of 30 mL/min per 1.73 m² or greater, were randomised 1:1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult recipients of primary liver transplants from deceased donors, with an eGFR of 30 mL/min per 1.73 m² or greater"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1:1 to EVR + rTAC, TAC-WD, or TAC-C"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This international, randomised controlled trial assessed the impact of everolimus plus reduced-dose tacrolimus (EVR + rTAC) on renal function and efficacy compared to standard-dose tacrolimus (TAC-C)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the composite of treated biopsy-proven acute rejection, graft loss, or death at 12 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was stratified by pretransplant HCV status and eGFR"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "The study was open-label"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 719 participants, 211 were from North America"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The study was open-label, and the analysis was intention-to-treat"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At month 12, the composite efficacy endpoint was 10.9% for EVR + rTAC and 13.1% for TAC-C. Mean changes in eGFR favored EVR + rTAC at months 12 (+3.7 vs −4.5 mL/min per 1.73 m²; P = 0.032) and 24 (+2.7 vs −6.6 mL/min per 1.73 m²; P = 0.042)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were more frequent in the EVR + rTAC group, leading to higher discontinuation rates. Common adverse events included hypertension, leukopenia, and hyperlipidemia"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01204993"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Novartis Pharmaceuticals"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

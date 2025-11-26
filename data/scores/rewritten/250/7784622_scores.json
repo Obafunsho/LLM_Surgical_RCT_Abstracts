@@ -1,0 +1,74 @@
+{
+  "pmcid": "7784622",
+  "sha256": "7917dfd62e07f78ee1416e8170e34b63e6ecb1597b341d1ea3722b89bc6f9e7d",
+  "timestamp_utc": "2025-11-09T22:56:08.109881+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.441538461538464,
+    "reading_ease": 14.678461538461562,
+    "word_count": 234
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Adjuvant αDC1 Vaccination with Chemokine Modulation after CRS/HIPEC"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This single-institution phase II trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "enrolled patients with appendiceal cancer, colorectal cancer, or peritoneal mesothelioma at the University of Pittsburgh"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants received intranodal and intradermal injections of autologous tumor-loaded αDC1 vaccine and CKM, consisting of celecoxib, interferon (IFN)-α, and rintatolimod"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the safety and efficacy of adjuvant αDC1 vaccination with chemokine modulation (CKM) following cytoreductive surgery and hyperthermic intraperitoneal chemotherapy (CRS/HIPEC)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was progression-free survival (PFS), measured over a median follow-up period."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty-six patients were analysed"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Forty-six patients were analysed"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Median PFS for appendiceal cancer was 50.4, 34.2, and 8.9 months for grades 1, 2, and 3, respectively, and 20.5 and 8.9 months for moderately and poorly differentiated colorectal tumors."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The regimen was well tolerated, with common adverse events being mild flu-like symptoms."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered under NCT02151448."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding was provided by institutional sources."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

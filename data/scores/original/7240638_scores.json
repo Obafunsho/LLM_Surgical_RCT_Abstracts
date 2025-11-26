@@ -1,0 +1,74 @@
+{
+  "pmcid": "7240638",
+  "sha256": "53efc0f88aaaa6dc9863b32ac08328fe3e7dfbd5afe5c133b0faf683c2491fff",
+  "timestamp_utc": "2025-11-09T16:12:35.062591+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.653183118741058,
+    "reading_ease": 27.40110991893181,
+    "word_count": 466
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "residents were randomized 1:1 using permuted-block design stratified by site, training level, and gender"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "96 individuals with academic career interests met eligibility criteria; 86 residents completed phase 1"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Residents read abstracts that either reported that women had worse laparoscopic skill performance than men (trigger of stereotype threat [A]) or had no difference in performance (protection against stereotype threat [B])"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate the association between pro-male gender bias and career engagement and the effect of stereotype threat on skill performance among trainees in academic surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Association between perception of pro-male gender bias and career engagement survey scores (phase 1) and stereotype threat intervention and FLS scores (phase 2) were the outcomes."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "residents were randomized 1:1 using permuted-block design stratified by site, training level, and gender"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind, randomized clinical trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Eighty-five residents were randomized in phase 2, and 4 residents in each arm were lost to follow-up."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Seventy-seven residents (38 women [49.4%]) completed both phases of the study."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The association between pro-male gender bias and career engagement differed by gender (interaction coefficient, −1.19; 95% CI, −1.90 to −0.49; P = .02)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT03623009"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

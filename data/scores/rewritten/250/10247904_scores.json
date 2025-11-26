@@ -1,0 +1,74 @@
+{
+  "pmcid": "10247904",
+  "sha256": "6704a67aef20d3bdbf4c7df8d2b9c3fd4b29ab7b0ce95fe48cfb9d998ab84b4a",
+  "timestamp_utc": "2025-11-09T21:52:13.344218+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.95939006799918,
+    "reading_ease": 47.168028023902764,
+    "word_count": 211
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tricuspid Annuloplasty During Mitral Valve Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a multicenter, randomised controlled trial, 401 patients were randomised"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients were randomised to MVS alone (n=203) or MVS with TA (n=198)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to MVS alone (n=203) or MVS with TA (n=198)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the composite rate of death, re-operation for TR, or TR progression at 2 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "401 patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "A PPM was implanted in 36 patients (9.6%; 95% CI 6.8%−13.0%) within 2 years, with 30/187 (16.0%) in the MVS+TA group and 6/188 (3.2%) in the MVS group (RR 5.08; 95% CI 2.16–11.94; p<0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

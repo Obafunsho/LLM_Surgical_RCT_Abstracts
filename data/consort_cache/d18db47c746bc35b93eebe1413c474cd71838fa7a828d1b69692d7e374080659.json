@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients at seven centers randomized to receive 3 months of oral antibiotics or no further antibiotic treatment"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients undergoing two-stage hip or knee revision arthroplasty for a periprosthetic infection who met Musculoskeletal Infection Society (MSIS) criteria for infection at the first stage were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive 3 months of oral antibiotics or no further antibiotic treatment"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Does a 3-month course of oral antibiotics decrease the risk of failure secondary to infection after a two-stage exchange?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "A log-rank survival curve was used to analyze the primary outcome of reinfection."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients at seven centers randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "59 patients were successfully randomized to the antibiotic group and 48 patients to the control group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was performed as intent to treat with all randomized patients included in the groups to which they were randomized."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients treated with oral antibiotics failed secondary to infection less frequently than those not treated with antibiotics (5% [three of 59] versus 19% [nine of 48]; hazard ratio, 4.37; 95% confidence interval, 1.297\u201319.748; p = 0.016)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Three patients had an adverse reaction to the oral antibiotics severe enough to cause them to stop taking the antibiotics early"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

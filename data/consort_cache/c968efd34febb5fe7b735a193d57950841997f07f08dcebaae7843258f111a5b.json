@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Superficial Surgical Site Infection Rates Between Delayed Primary and Primary Wound Closure for Complicated Appendicitis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were adults with gangrenous or ruptured appendicitis. They were randomised to either PC or DPC."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults with gangrenous or ruptured appendicitis. A multicenter randomised controlled trial was conducted in six hospitals in Thailand."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to either PC or DPC."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare SSI rates between delayed primary wound closure (DPC) and primary wound closure (PC)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of superficial SSI within 30 days, defined by the Center for Disease Control criteria."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using permuted blocks, and allocation was concealed in sealed opaque envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to research assistants assessing subjective outcomes."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 607 patients were randomised, with 303 to PC and 304 to DPC."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Modified intention-to-treat analysis included 300 in PC and 298 in DPC."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The SSI rate was 7.3% in PC and 10% in DPC, with a risk difference of \u22122.7% (95% CI \u22127.1% to 1.9%), not statistically significant."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials.gov ID NCT01659983."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

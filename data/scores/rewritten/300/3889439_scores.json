@@ -1,0 +1,74 @@
+{
+  "pmcid": "3889439",
+  "sha256": "76757d21635bd7e5b0eb14194e671cf7d1b5998fa3916e7a7c98341568294f01",
+  "timestamp_utc": "2025-11-09T23:51:12.998893+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.050922140060894,
+    "reading_ease": 31.3492540234885,
+    "word_count": 242
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Robotic-Assisted vs. Conventional THA"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This matched-pair controlled study involved 100 patients undergoing THA"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Participants were matched by gender, age ±5 years, and BMI ±7 units"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group (n=50) received robotic-assisted THA, while the control group (n=50) underwent conventional THA"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether robotic-assisted THA improves cup positioning within safe zones compared to conventional techniques"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the proportion of cups positioned within the safe zones of Lewinnek et al. and Callanan et al., assessed radiographically"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This matched-pair controlled study involved 100 patients undergoing THA"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The intervention group (n=50) received robotic-assisted THA, while the control group (n=50) underwent conventional THA"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Odds ratios for cups outside the safe zones were zero and 0.142, respectively (95% CI, 0.044, 0.457)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

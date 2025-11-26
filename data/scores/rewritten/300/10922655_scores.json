@@ -1,0 +1,74 @@
+{
+  "pmcid": "10922655",
+  "sha256": "ce0d7ab2804e80f4ebc55f9da18f1b336d7382f3461251125b2f0588d04c8e9f",
+  "timestamp_utc": "2025-11-09T23:10:38.052556+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.733090225563913,
+    "reading_ease": 34.6309887218045,
+    "word_count": 266
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Long-term Outcomes of Immediate vs. Postponed Drainage in Infected Necrotizing Pancreatitis: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "multicenter randomised controlled trial enrolled 104 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted in 22 Dutch hospitals, this multicenter randomised controlled trial enrolled 104 patients with infected necrotizing pancreatitis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised to immediate catheter drainage (55 patients) or postponed catheter drainage (49 patients)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The POINTER trial aimed to compare the long-term outcomes of immediate versus postponed drainage in patients with infected necrotizing pancreatitis"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was a composite of death and major complications, assessed over a median follow-up of 51 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "enrolled 104 patients with infected necrotizing pancreatitis between August 2015 and October 2019"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of the 104 patients, 88 were re-evaluated after the initial 6-month follow-up"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The primary outcome occurred in 7 of 47 patients (15%) in the immediate-drainage group and 7 of 41 patients (17%) in the postponed-drainage group (RR 0.87, 95% CI 0.33–2.28; P = 0.78)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in adverse events were reported between groups"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN33682933"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This research did not receive any specific funding"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

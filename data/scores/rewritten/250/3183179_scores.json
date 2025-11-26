@@ -1,0 +1,74 @@
+{
+  "pmcid": "3183179",
+  "sha256": "5192db6a126489a149fd6c32d68fbf6e42815a74b5d5e3d4de388063e5d45d33",
+  "timestamp_utc": "2025-11-09T22:36:07.151428+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.08086337760911,
+    "reading_ease": 27.262618595825444,
+    "word_count": 248
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Anterolateral Versus Midline Skin Incision in Total Knee Arthroplasty: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "69 knees were assigned to TKA via either a midline or an anterolateral skin incision"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were eligible if they required TKA and were recruited from a single orthopedic center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "TKA via either a midline or an anterolateral skin incision"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether an anterolateral skin incision reduces skin hypesthesia and postoperative discomfort"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the area of skin hypesthesia, measured using Semmes-Weinstein monofilament at 13 reference points at 6 weeks, 6 months, and 12 months postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "69 knees were assigned"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The anterolateral incision group exhibited significantly smaller areas of hypesthesia compared to the midline group at all time points: 32 cm² vs. 76 cm² at 6 weeks, 14 cm² vs. 29 cm² at 6 months, and 7 cm² vs. 19 cm² at 1 year"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

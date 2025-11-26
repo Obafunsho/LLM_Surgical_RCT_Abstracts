@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We assessed the clinical efficacy and safety of the ANI-REMI-LOOP \u201cexpert-system software\u201d during burn surgery in a monocentric randomized controlled trial."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "52 adults were randomized into two groups: manual remifentanil infusion (standard practice) or automatic remifentanil infusion (expert-system software) during BIS-guided propofol anesthesia at the burn center of the hospital."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "52 adults were randomized into two groups: manual remifentanil infusion (standard practice) or automatic remifentanil infusion (expert-system software) during BIS-guided propofol anesthesia at the burn center of the hospital."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "manual remifentanil infusion (standard practice) or automatic remifentanil infusion (expert-system software)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We assessed the clinical efficacy and safety of the ANI-REMI-LOOP \u201cexpert-system software\u201d during burn surgery in a monocentric randomized controlled trial."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the cumulative remifentanil dose administered during anesthesia and secondary endpoints were related to the clinical safety of automatic remifentanil administration with the incidence and duration of hypotension, bradycardia, hypertension or tachycardia related to nociception."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "52 adults were randomized into two groups"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From 2018 to 2022, 52 adults were randomized into two groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The cumulative remifentanil dose was significantly lower in the automatic group 0.125 \u00b5g.kg -1 .min -1 [0.106 to 0.149] vs. 0.152 \u00b5g.kg -1 .min -1 [0.137 to 0.237], p =\u20090.004)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no safety issues, and pain and analgesic requirements were similar in both groups after surgery."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

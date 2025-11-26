@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This study evaluates the safety and efficacy of a granulocyte-macrophage colony-stimulating factor (GM-CSF)-based immunotherapy in patients with resected pancreatic adenocarcinoma."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This single-institution phase II randomised controlled trial included 60 patients with resected pancreatic adenocarcinoma."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "This single-institution phase II randomised controlled trial included 60 patients with resected pancreatic adenocarcinoma."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive GM-CSF-based immunotherapy or standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the safety and efficacy of a granulocyte-macrophage colony-stimulating factor (GM-CSF)-based immunotherapy in patients with resected pancreatic adenocarcinoma."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was disease-free survival, measured over a median follow-up of 24.8 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This single-institution phase II randomised controlled trial included 60 patients with resected pancreatic adenocarcinoma."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The median disease-free survival was 17.3 months (95% CI, 14.6\u201322.8), and median overall survival was 24.8 months (95% CI, 21.2\u201331.6)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Immunotherapy was well tolerated, with no severe adverse events reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11729218",
+  "sha256": "71b7bdf13732c2f1056f93a1f07d9dc64bcfa8825ddebe8164905f9467a0262f",
+  "timestamp_utc": "2025-11-09T15:22:46.479236+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.5240065681445,
+    "reading_ease": 13.278793103448294,
+    "word_count": 348
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Non‐participant observations were used to examine deteriorating patient escalation events."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Methods: Escalation event data were collected by a researcher who shadowed clinical staff, between February 16th 2021 and March 17th 2022 from two National Health Service Trusts."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Aims: To address knowledge gaps by (i) developing a theoretical understanding of escalation and (ii) identifying escalation success factors."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Events were analysed using Framework Analysis. Escalation tasks were mapped using a Hierarchical Task Analysis diagram and data presented as percentages, frequency and 95% CI."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

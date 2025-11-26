@@ -1,0 +1,74 @@
+{
+  "pmcid": "11392575",
+  "sha256": "aaf1606572ffa5cd8e7df75eb6f5aca8c509b959095d4a3baf76ed95b118cf09",
+  "timestamp_utc": "2025-11-09T15:18:57.574100+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.736398678414101,
+    "reading_ease": 37.44163179148313,
+    "word_count": 227
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "We enrolled 30 healthy volunteers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "These included 3-minute tidal volume breathing and 8 vital capacity breaths, with and without oxygen flowing through the nasal cannula as an adjunct."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To observe the benefits of oxygen through nasal cannula when used as an adjunct during preoxygenation."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "end-tidal O 2 (ETO 2 ) was recorded at the end of each test."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We enrolled 30 healthy volunteers"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "When comparing the efficacy of the two preoxygenation methods, we found that the addition of oxygen through the nasal cannula improved the efficacy of preoxygenation with both the 3-minute tidal volume breathing method and the 8 vital capacity method ( p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

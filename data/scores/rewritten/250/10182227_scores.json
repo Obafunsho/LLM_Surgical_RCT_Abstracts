@@ -1,0 +1,74 @@
+{
+  "pmcid": "10182227",
+  "sha256": "87b403ef93ff55fece9904385eb9ca6be33b502b8771db472fd56cc99626fbe7",
+  "timestamp_utc": "2025-11-09T21:51:56.880080+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.84459330143541,
+    "reading_ease": 17.26907618697095,
+    "word_count": 209
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Incidence and Risk Factors of Intraoperative Hypotension in Non-Cardiac Surgery: A Retrospective Study"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "13,226 adult patients undergoing non-cardiac surgery at a university hospital"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "IOH was defined as at least one fall of mean arterial pressure (MAP) during general anesthesia"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "11,210 cases out of 13,226 adult patients"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Moderate to very severe hypotension occurred in 86.3% of patients"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

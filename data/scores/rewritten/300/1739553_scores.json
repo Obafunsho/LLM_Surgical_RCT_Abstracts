@@ -1,0 +1,74 @@
+{
+  "pmcid": "1739553",
+  "sha256": "c3def922b89063abc9b60c046ad327abfb1741eb40ac622b801832276e70bfd6",
+  "timestamp_utc": "2025-11-09T23:43:43.905646+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.042408256880734,
+    "reading_ease": 10.564040519877722,
+    "word_count": 218
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of MRI and Intraoperative Electrophysiological Recording in Targeting the Subthalamic Nucleus for Parkinson's Disease"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial involved 27 Parkinson's disease patients from a single surgical center"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "27 Parkinson's disease patients from a single surgical center, meeting eligibility criteria for STN targeting"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Target planning utilised MRI visualisation and coordinate guidelines relative to the AC–PC line. Intraoperative microelectrode recording refined electrode positions"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the efficacy of magnetic resonance imaging (MRI) and intraoperative electrophysiological recording in enhancing electrode placement accuracy"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "27 Parkinson's disease patients from a single surgical center"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean placement error was 0.48 mm, 0.69 mm, and 2.9 mm in the x, y, and z axes, respectively"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No postoperative MRI-related complications were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not provided"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "4016458",
+  "sha256": "dc4680143cf89d2deb5d0cb22713d8685dbbf71a3795ad495930db03b36f92c3",
+  "timestamp_utc": "2025-11-09T22:40:41.065003+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.669545581265684,
+    "reading_ease": 40.674025648173995,
+    "word_count": 211
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Web-Based Versus In-Person Followup After Total Joint Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "256 patients who were at least 12 months post-primary total hip or knee arthroplasty were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "256 patients who were at least 12 months post-primary total hip or knee arthroplasty were randomised to either a web-based followup or an in-person clinic visit. The study was conducted at a single orthopedic center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either a web-based followup or an in-person clinic visit"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates patient satisfaction with web-based followup compared to in-person followup after total joint arthroplasty."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was patient satisfaction, measured at the time of followup and one year later for the web-based group."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "256 patients who were at least 12 months post-primary total hip or knee arthroplasty were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 229 patients completed the study (111 in the usual-care group, 118 in the web-based group)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Satisfaction was higher in the usual-care group (82.0% extremely or very satisfied) compared to the web-based group (75.6%, p < 0.01; OR = 3.95; 95% CI, 1.79–8.76)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

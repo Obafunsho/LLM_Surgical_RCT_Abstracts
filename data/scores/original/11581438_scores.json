@@ -1,0 +1,74 @@
+{
+  "pmcid": "11581438",
+  "sha256": "9c335efd2aac8bcc13e3507ef9bcab066d5632a5909249c22afbb4519def3e21",
+  "timestamp_utc": "2025-11-09T15:21:00.634548+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.336003584229392,
+    "reading_ease": 27.057338709677452,
+    "word_count": 279
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "multicenter randomized controlled trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomized to receive"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "in kidney transplant recipients (KTRs)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "single dose of mRNA-1273 (100 μg, n = 25), a double dose of mRNA-1273 (2 × 100 μg, n = 25), or a single dose of adenovirus type 26 encoding the SARS-CoV-2 spike glycoprotein (Ad26.COV2.S) (n = 25)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "investigating different repeated vaccination strategies in KTR who showed poor serological responses"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "compared SARS-CoV-2-specific interleukin-21 memory T-cell and B-cell responses"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomized to receive"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "n = 25"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "odd ratio, 3.84 [1.89-7.78]; P < 0.001"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT05030974"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

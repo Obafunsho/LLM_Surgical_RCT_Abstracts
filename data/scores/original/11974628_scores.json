@@ -1,0 +1,74 @@
+{
+  "pmcid": "11974628",
+  "sha256": "5b2ca676e451fe2f2bd1d72770bf48489bd20236570a154cf5603829e85720bd",
+  "timestamp_utc": "2025-11-09T15:27:24.470401+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.300681114551082,
+    "reading_ease": 37.946749226006204,
+    "word_count": 255
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A phase 2, randomized, open-label clinical trial was performed at a single U.S. trauma center."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Traumatic brain-injured patients with positive brain imaging and a need for platelet transfusion received up to 2 apheresis units of CSPs stored out to 14 days versus standard care RT platelet transfusion."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "received up to 2 apheresis units of CSPs stored out to 14 days versus standard care RT platelet transfusion."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To determine the feasibility, efficacy, and safety of cold storage compared with room temperature (RT) platelet transfusion in patients with traumatic brain injury (TBI)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was feasibility and the principal clinical outcome for efficacy and safety was the 6-month Glasgow Coma Scale–extended score."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 6-month Glasgow Outcome Scale–extended score distributions were not different across cold stored and RT platelet arms (odds ratio: 1.58, 95% CI: 0.71 to 3.54, P = 0.27)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse event rates did not differ across groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

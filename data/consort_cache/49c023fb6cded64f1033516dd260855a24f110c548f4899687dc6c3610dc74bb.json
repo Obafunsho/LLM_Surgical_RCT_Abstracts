@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Genetically Modified Mesenchymal Stromal Cells Overexpressing VEGF for Critical Limb Ischemia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved MSCs overexpressing VEGF (MSC/VEGF), while the control group received unmodified MSCs."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the safety and efficacy of MSCs genetically modified to overexpress Vascular Endothelial Growth Factor (VEGF-A165)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was angiogenesis, assessed using a Matrigel plug model over a 6-month period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 40 mice were randomised, with 20 receiving MSC/VEGF and 20 receiving unmodified MSCs."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was conducted per protocol."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "MSC/VEGF demonstrated superior angiogenic potential compared to controls, with a significant increase in vascular structures (p < 0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included mild to large intramuscular hematomas at the injection site in 15% of mice, with no systemic pathology observed."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by internal institutional grants."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

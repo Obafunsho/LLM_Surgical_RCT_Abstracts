@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "All patients recruited to the multicenter Simvastatin in Aneurysmal Hemorrhage Trial (STASH) were included."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess whether biochemical markers sampled in the first days after the initial hemorrhage can predict poor outcome."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The t -test compared outcomes, and a backwards stepwise binary logistic regression was used to determine the factors providing independent prediction of an unfavorable outcome."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Baseline biochemical data were obtained in approximately 91% of cases from 803 patients."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "For patients presenting with good grade on admission, higher levels of C-reactive protein, glucose, and white blood cells and lower levels of hematocrit, albumin, and hemoglobin were associated with poor outcome at discharge."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

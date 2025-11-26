@@ -1,0 +1,74 @@
+{
+  "pmcid": "12085918",
+  "sha256": "97af1c0b1ee197a2b8aa21b33a4049e3d2d6f0f7b8fd7fb4ab83e49b7ac1c9d6",
+  "timestamp_utc": "2025-11-09T23:26:18.057841+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.518835820895525,
+    "reading_ease": 36.345194029850745,
+    "word_count": 268
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "MATTERHORN: A Randomised Controlled Trial Comparing MitraClip Transcatheter Edge-to-Edge Repair and Surgical Mitral Valve Repair in High-Risk Heart Failure Patients with Functional Mitral Regurgitation"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The MATTERHORN trial was a multicenter, prospective, open-label, non-inferiority trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A total of 208 patients with significant FMR were randomized 1:1 to M-TEER or surgical repair. Inclusion criteria included FMR grade 3+ or 4+, LVEF ≥20%, and NYHA class ≥2."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aimed to compare the efficacy and safety of MitraClip transcatheter edge-to-edge repair (M-TEER) versus surgical mitral valve repair."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the efficacy and safety of MitraClip transcatheter edge-to-edge repair (M-TEER) versus surgical mitral valve repair in high-risk patients with heart failure and FMR."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was a composite of death, heart failure hospitalization, mitral valve re-intervention, assist device implantation, or stroke within 1 year."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "104 patients were randomized to each group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 1 year, the primary endpoint occurred in 16.7% of the M-TEER group and 22.5% of the surgery group (mean difference: -6 percentage points; 95% CI: -17 to 6; P < 0.001 for non-inferiority)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were lower in the M-TEER group (41.0% vs. 77.3%), with serious adverse events at 35% in M-TEER and 66% in surgery."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCTXXXXXXX."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by [Funding Source]."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

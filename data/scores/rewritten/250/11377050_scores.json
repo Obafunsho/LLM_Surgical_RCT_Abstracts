@@ -1,0 +1,74 @@
+{
+  "pmcid": "11377050",
+  "sha256": "ac5bd34d771d1022e28123d6d2ab650100288393c2f0e2c164b9f0523b56da88",
+  "timestamp_utc": "2025-11-09T22:03:06.617111+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.645747474747477,
+    "reading_ease": 22.031954545454568,
+    "word_count": 198
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Dexamethasone as a Local Anaesthetic Adjunct in Lower Limb Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing intravenous and perineural dexamethasone as local anaesthetic adjuncts"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the duration of analgesia, measured from the block's performance to the first analgesic request."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation and allocation concealment methods varied across trials."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding of outcome assessors, patients, and clinicians was inconsistently reported."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Nine trials with 546 patients were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Perineural dexamethasone increased the duration of analgesia from 19.54 to 22.27 hours, with a mean difference of 2.73 hours (95% CI 1.07 to 4.38; p = 0.001; I² = 87)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not consistently reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD 42023442453."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding sources were not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

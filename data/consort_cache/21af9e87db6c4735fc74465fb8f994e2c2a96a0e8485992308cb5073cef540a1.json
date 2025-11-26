@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed the impact of behaviour change technique-based interventions"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with intermittent claudication, who are less active than their peers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either a behaviour change technique-based intervention or standard care as a control."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed the impact of behaviour change technique-based interventions on daily physical activity and clinical outcomes"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in daily physical activity, measured in steps per day, over short-term (<6 months) and maintenance (>6 months) periods."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised, with 100 allocated to each group, during the recruitment period from January 2020 to June 2021."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "In the short term, the intervention group demonstrated a significant increase in daily physical activity (standardised mean difference = 0.20, 95% CI 0.07 to 0.33, ~473 steps/day) compared to the control group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "TRIAL REGISTRATION: PROSPERO CRD42020159869."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "FUNDING: National Institute for Health and Care Research (NIHR) Health Technology Assessment programme (NIHR award ref: NIHR130664)."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,33 @@
+{
+  "pmcid": "10882505",
+  "pmid": "38381429",
+  "title": "Total Neoadjuvant Therapy With PD-1 Blockade for High-Risk Proficient Mismatch Repair Rectal Cancer",
+  "abstract": "Importance: Total neoadjuvant therapy (TNT) is the standard treatment for locally advanced rectal cancer, especially for patients with high-risk factors. However, the efficacy of TNT combined with immunotherapy for patients with proficient mismatch repair (pMMR) rectal cancer is unknown.\n\nObjectives: To evaluate the safety and efficacy of TNT with induction chemoimmunotherapy followed by long-course chemoradiation in patients with high-risk, pMMR rectal cancer and to identify potential molecular biomarkers associated with treatment efficacy.\n\nDesign, Setting, and Participants: This cohort study was a single-arm phase 2 trial conducted at Gastrointestinal Cancer Center, Peking University Cancer Hospital & Institute, from June 2020 to October 2021. Biopsies and plasma were collected before treatment for whole-exome sequencing and cell-free DNA sequencing, respectively. Data were analyzed from May 2022 to September 2022.\n\nInterventions: Participants received 3 cycles of induction oxaliplatin and capecitabine combined with camrelizumab and radiotherapy (50.6 Gy in 22 fractions) with concurrent capecitabine. Patients without disease progression received 2 cycles of consolidation oxaliplatin/capecitabine.\n\nMain Outcomes and Measures: The primary end point was pathologic complete response rate.\n\nResults: Of 25 patients enrolled (19 men [76%]; 6 women [24%]; median [IQR] age, 58 [48-64] years), 22 patients (88%) completed the TNT schedule. The pathologic complete response rate was 33.3% (7/21). Twelve patients (48%) achieved clinical complete response, and 4 patients (16%) chose to watch and wait. R0 resection was achieved in 21 of 21 patients, and the major pathologic response rate was 38.1% (8/21). The most common adverse event was nausea (80%, 20/25); grade 3 toxic effects occurred in 9 of 25 patients (36%). Patients with tumor shrinkage of 50% or greater after induction oxaliplatin/capecitabine and camrelizumab or clinical complete response had higher percentages of LRP1B mutation. Mutation of LRP1B was associated with high tumor mutation burden and tumor neoantigen burden. Patients with high tumor mutation burden all benefited from therapy.\n\nConclusions and Relevance: This study found that TNT with induction chemoimmunotherapy followed by long-course chemoradiation was safe and effective for patients with high-risk rectal cancer with pMMR status. Longer follow-up and larger clinical studies are needed to validate this innovative regimen. There is also an urgent need to further validate the predictive value of LRP1B and discover other novel biomarkers with potential predictive value for rectal cancer.",
+  "authors": [
+    "Yingjie Li",
+    "Chaohu Pan",
+    "Yuye Gao",
+    "Li Zhang",
+    "Dengbo Ji",
+    "Xiaoli Cui",
+    "Xiaoyan Zhang",
+    "Yong Cai",
+    "Yangzi Zhang",
+    "Yunfeng Yao",
+    "Lin Wang",
+    "Jiahua Leng",
+    "Tiancheng Zhan",
+    "Dongfang Wu",
+    "Zhibo Gao",
+    "Ying-Shi Sun",
+    "Zhongwu Li",
+    "Haitao Luo",
+    "Aiwen Wu"
+  ],
+  "journal": "JAMA Surgery",
+  "year": "2024",
+  "full_text": "",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/articles/instance/10882505/bin/jamasurg-e237996-s001.pdf",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": true
+}

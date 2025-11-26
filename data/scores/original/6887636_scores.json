@@ -1,0 +1,74 @@
+{
+  "pmcid": "6887636",
+  "sha256": "560185c79db0b8caa8a3cd9a7cd1eab33d7822ed6f6b2575cf2af99940ff2ae3",
+  "timestamp_utc": "2025-11-09T16:10:59.688395+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.521666666666668,
+    "reading_ease": 48.81790489642185,
+    "word_count": 295
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We performed a multisite factorial randomized trial enrolling patients with hip or knee osteoarthritis."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients with hip or knee osteoarthritis."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned to use a long, detailed DA (long DA) or short, interactive DA (short DA)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Knowledge scores were higher for the short-DA group (mean difference = 9%; p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

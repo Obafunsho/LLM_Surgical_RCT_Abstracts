@@ -1,0 +1,74 @@
+{
+  "pmcid": "7093788",
+  "sha256": "89e93f6d8aa3fa3f977ae225a9eb9cf0e47255e681ec8a0d334ab44309c479f0",
+  "timestamp_utc": "2025-11-09T16:11:51.422453+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.968562293729377,
+    "reading_ease": 42.983734529702986,
+    "word_count": 303
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "double‐blind RCT"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "two‐centre, stratified, parallel‐group, placebo‐controlled, double‐blind RCT"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing mastectomy with or without axillary lymph node clearance"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "moistening of wound surface before closure with either 25 mg/ml TXA or 0·9 per cent sodium chloride (placebo)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to investigate whether moistening a surgical wound with TXA before closure, leaving a thin film of drug only, would reduce postoperative bleeding."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was postoperative bleeding as measured by drain production in the first 24 h."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized 1 : 1"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double‐blind RCT"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between 1 January 2016 and 31 August 2018, 208 patients were randomized."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "202 patients were included in the study (101 in the TXA and 101 in the placebo group)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "TXA reduced mean drain production at 24 h (110 versus 144 ml; mean difference 34 (95 per cent c.i. 8 to 60) ml, P = 0·011)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One patient in the TXA group had early haematoma compared with seven in the placebo group"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT02627560"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

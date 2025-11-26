@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Importance: Acute normovolemic hemodilution (ANH) is a well-known blood conservation technique, yet its adoption in the US remains low (<20%), and cardiac surgery remains the largest consumer of blood components."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Design, Setting, and Participants: A retrospective propensity\u2013score matched cohort study using data from the Society of Thoracic Surgeons (STS) Adult Cardiac Surgery Database (version 4.20.2)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study included adult patients (\u226518 years) undergoing coronary artery bypass grafting (CABG) and/or valve surgery with CPB (July 2020 to September 2023)."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Exposure: The primary exposure was ANH, defined as any recorded use/volume in the STS database."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To evaluate ANH use in perioperative transfusion and blood component use in patients undergoing surgery with cardiopulmonary bypass (CPB)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Main Outcome and Measures: The primary outcome was intraoperative or postoperative transfusion of any blood component."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Results: Among 16\u2009795 patients (mean [SD] age, 65.3 [10.5] years; 12\u2009114 male [72.1%]), ANH was reported in 2463 cases (14.7%)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "After propensity score matching (n\u2009=\u20092282 pairs), transfusion rates were significantly lower in the ANH group (31.2% vs 36.4%; P\u2009< .001)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "ANH was associated with 27% lower odds of any transfusion (odds ratio, 0.73; 95% CI, 0.60-0.89)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "One-year outcomes from the Early Venous Reflux Ablation (EVRA) randomized trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Between October 24, 2013, and September 27, 2016, the EVRA randomized clinical trial enrolled 450 participants"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "450 participants (450 legs) with venous leg ulceration of less than 6 months\u2019 duration and superficial venous reflux. Initially, 6555 patients were assessed for eligibility"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned to receive compression therapy with early endovenous ablation within 2 weeks of randomization (early intervention, n\u2009=\u2009224) or compression with deferred endovenous treatment of superficial venous reflux (deferred intervention, n\u2009=\u2009226)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate the clinical and cost-effectiveness of early endovenous ablation of superficial venous reflux in patients with venous leg ulceration."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome for the extended phase was time to first ulcer recurrence."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Surgeons, participants, and follow-up assessors were not blinded to the treatment group."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between October 24, 2013, and September 27, 2016, the EVRA randomized clinical trial enrolled 450 participants"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "A total of 426 of 450 participants (94.7%) from the vascular surgery departments of 20 hospitals in the United Kingdom were included in the analysis for ulcer recurrence."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Ulcers recurred at a lower rate of 0.11 per person-year in the early-intervention group compared with 0.16 per person-year in the deferred-intervention group (incidence rate ratio, 0.658; 95% CI, 0.480-0.898; P =\u2009.003)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov identifier: ISRCTN02335796"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

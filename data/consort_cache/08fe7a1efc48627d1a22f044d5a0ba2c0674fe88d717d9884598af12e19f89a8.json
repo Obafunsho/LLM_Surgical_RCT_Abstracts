@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 18,307 patients undergoing isolated CABG were consecutively enrolled and categorized into three groups based on SHR tertiles."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study is the first to investigate the association between SHR and both short-term and long-term prognosis in CABG patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The perioperative outcome was defined as a composite of in-hospital death, myocardial infarction, cerebrovascular accident, and reoperation during hospitalization."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 18,307 patients undergoing isolated CABG were consecutively enrolled."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "As SHR increased, the risk of perioperative events initially decreased (OR per SD: 0.87, 95% CI 0.79\u20130.97, P =\u20090.013) and then elevated (OR per SD: 1.16, 95% CI 1.04\u20131.28, P =\u2009\u20090.004)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

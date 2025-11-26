@@ -1,0 +1,74 @@
+{
+  "pmcid": "12366164",
+  "sha256": "58c224f1d7f0fdb45cd71213b991dd339aa736d883aca7055f7b3a92cefc7217",
+  "timestamp_utc": "2025-11-09T23:34:39.021255+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.592149122807019,
+    "reading_ease": 27.281447368421084,
+    "word_count": 240
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Dexmedetomidine for Preventing Postoperative Delirium in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to dexmedetomidine (n=3009) or control (n=3037) groups."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the efficacy of dexmedetomidine in preventing postoperative delirium (POD) in patients undergoing cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of POD, assessed within 5 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation and allocation concealment methods were evaluated"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "blinding of outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomised to dexmedetomidine (n=3009) or control (n=3037) groups."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Dexmedetomidine significantly reduced POD incidence (RR=0.67, 95% CI 0.59–0.76, p<0.00001) and POAF (RR=0.82, 95% CI 0.74–0.92, p=0.0005)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported, with mild gastrointestinal side-effects occurring in 3% of the intervention group and 1% of the control group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The study was registered with INPLASY (INPLASY2024110008)"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "funded by [source not specified]"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

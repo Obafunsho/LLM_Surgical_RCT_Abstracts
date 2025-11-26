@@ -1,0 +1,74 @@
+{
+  "pmcid": "12232135",
+  "sha256": "9e442a2ebc60e2f0f7edcebb87aa0d6b21793bfb08b7371e050d4a7794d2d164",
+  "timestamp_utc": "2025-11-09T23:30:49.760520+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.91426135640667,
+    "reading_ease": 33.457011070110724,
+    "word_count": 271
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Inhaled Nitric Oxide in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This systematic review and meta-analysis included randomised controlled trials (RCTs)"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "RCTs comparing inhaled NO with placebo or standard care"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the incidence of acute kidney injury (AKI)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ten RCTs involving 838 patients were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "NO administration reduced AKI incidence (RR: 0.78; 95% CI: 0.64–0.94; p = 0.010)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "PROSPERO registration: CRD42025649095."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

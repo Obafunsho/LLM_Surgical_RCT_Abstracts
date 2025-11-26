@@ -1,0 +1,74 @@
+{
+  "pmcid": "5052204",
+  "sha256": "4074eefa9d9316569da8fadc04439e0fc6db9a37fdb0b26670fc8c9de01342da",
+  "timestamp_utc": "2025-11-09T22:45:03.478973+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.771990846681927,
+    "reading_ease": 22.898581235697947,
+    "word_count": 207
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tobramycin-Impregnated Bone Cement in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "15 patients undergoing primary TKA were randomly assigned"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Conducted at a single center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "intervention group (n=10) receiving tobramycin-impregnated bone cement or the control group (n=5) receiving standard intravenous tobramycin"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to evaluate the efficacy of tobramycin-impregnated bone cement"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was intraarticular tobramycin concentration."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a blinded envelope method."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "blinded envelope method"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "15 patients undergoing primary TKA were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "intervention group (n=10) receiving tobramycin-impregnated bone cement or the control group (n=5)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The intervention group showed significantly higher intraarticular tobramycin levels at 6 hours (median=31.8 μg/mL, p=0.002), 24 hours (median=17.1 μg/mL, p=0.002), and 48 hours (median=6.8 μg/mL, p=0.02) compared to the control group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not disclosed."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

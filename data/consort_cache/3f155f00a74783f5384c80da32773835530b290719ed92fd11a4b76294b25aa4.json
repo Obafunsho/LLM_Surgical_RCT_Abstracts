@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Regional Anesthesia in Kidney Transplant Recipients"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A total of 100 adult patients undergoing deceased donor kidney transplant were included, excluding those with opioid dependence."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were divided into two groups: Group A received ultrasound-guided TAP blocks, and Group B did not."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effect of transversus abdominis plane (TAP) blocks on peri-operative pain management in kidney transplant recipients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the use of intra-operative and post-operative analgesia up to 24 hours post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fifty patients were included in each group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Group A showed a statistically significant reduction in intra-operative fentanyl use (p = 0.04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No complications were recorded from TAP block use."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

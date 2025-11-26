@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A randomized, double-blind, placebo-controlled trial of perioperative gabapentin"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A randomized, double-blind, placebo-controlled trial of perioperative gabapentin was conducted at a single-center, tertiary referral teaching hospital."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A total of 1805 patients aged 18 to 75 years scheduled for surgery (thoracotomy, video-assisted thoracoscopic surgery, total hip replacement, total knee replacement, mastectomy, breast lumpectomy, hand surgery, carpal tunnel surgery, knee arthroscopy, shoulder arthroplasty, and shoulder arthroscopy) were screened."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Interventions: Gabapentin, 1200 mg, preoperatively and 600 mg, 3 times a day postoperatively or active placebo (lorazepam, 0.5 mg) preoperatively followed by inactive placebo postoperatively for 72 hours."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To determine the effect of perioperative gabapentin on remote postoperative time to pain resolution and opioid cessation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcome was time to pain resolution (5 consecutive reports of 0 of 10 possible levels of average pain at the surgical site on the numeric rating scale of pain)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "A randomized, double-blind, placebo-controlled trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 202 patients were randomized to active placebo and 208 patients were randomized to gabapentin in the intention-to-treat analysis"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Intention-to-treat analysis was used in evaluation of the findings."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Perioperative gabapentin did not affect time to pain cessation (hazard ratio [HR], 1.04; 95% CI, 0.82-1.33; P =\u2009.73) in the intention-to-treat analysis. However, participants receiving gabapentin had a 24% increase in the rate of opioid cessation after surgery (HR, 1.24; 95% CI, 1.00-1.54; P =\u2009.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences were noted in the number of adverse events as well as the rate of medication discontinuation due to sedation or dizziness (placebo, 42 of 202 [20.8%]; gabapentin, 52 of 208 [25.0%])."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: clinicaltrials.gov Identifier: NCT01067144"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

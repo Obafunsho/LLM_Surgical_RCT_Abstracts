@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "randomized trials of subjects with a degenerative meniscal tear"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "One hundred and sixty-four subjects were randomized to and received APM and 177 were randomized to PT"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "subjects \u226545 years old who had mild-to-moderate osteoarthritis and a degenerative meniscal tear"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "APM with PT versus PT alone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We sought to identify factors associated with crossing over to APM and to compare pain relief"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "compared pain relief at 6 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One hundred and sixty-four subjects were randomized to and received APM and 177 were randomized to PT"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "81% of subjects who crossed over to APM and 82% of those randomized to APM had an improvement"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "risk ratio [RR] = 1.99; 95% confidence interval [CI] = 1.00, 3.93"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11076394",
+  "sha256": "d130895de4c15757346a27d8819cd123aadd161dccf9c194fb85c8ad050b3da4",
+  "timestamp_utc": "2025-11-09T15:15:03.741800+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.378481498194947,
+    "reading_ease": 22.811548962093866,
+    "word_count": 277
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The NEPAFOX trial evaluated perioperative treatment with FOLFIRINOX in resectable pancreatic cancer."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This multicenter phase II trial randomized patients with resectable or borderline resectable pancreatic cancer without metastases."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "randomized patients with resectable or borderline resectable pancreatic cancer without metastases"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized patients into arm (A,) upfront surgery plus adjuvant gemcitabine, or arm (B,) perioperative FOLFIRINOX."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was overall survival (OS)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "recruitment was prematurely stopped after randomization of 40 of the planned 126 patients (A: 21, B: 19)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 21 patients in arm A and 19 patients in arm B, 17 and 7 underwent curative surgery"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Median RFS/PFS was almost doubled in arm B (14.1 months) compared with arm A (8.4 months)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Perioperative morbidity occurred in 72% in arm A and 46% in arm B, whereas non-surgical toxicity was comparable in both arms."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

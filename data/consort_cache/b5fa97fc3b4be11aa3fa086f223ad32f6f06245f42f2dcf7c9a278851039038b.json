@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "randomised double-blinded study"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Sixty patients participated in this randomised double-blinded study."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Thirty patients received lidocaine 1% (lido group) with a 1.5 mg.kg \u22121 IV bolus in 10 min followed by a 1.5 mg.kg \u22121 .h \u22121 IV infusion and other patients received saline (control group)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate whether a continuous intravenous (IV) low-dose lidocaine infusion reduced postoperative pain and modified nociceptive pain threshold after total hip arthroplasty."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Pain scores, morphine consumption, operative hip flexion were recorded over 48 h."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "randomised double-blinded study"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty patients participated in this randomised double-blinded study."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "In comparison with the placebo, lidocaine did not induce any opioid-sparing effect during the first 24 hours (\u2212 2 mg with 95 CI [\u22125; 9]; p = 0.55)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

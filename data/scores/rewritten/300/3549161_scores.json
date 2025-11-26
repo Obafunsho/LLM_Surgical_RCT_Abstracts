@@ -1,0 +1,74 @@
+{
+  "pmcid": "3549161",
+  "sha256": "b4c0810994227ef0cb71676dd16b9b6f9e02f63e0b660775519703532d0adbdb",
+  "timestamp_utc": "2025-11-09T23:48:58.226965+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.11503676470588,
+    "reading_ease": 29.420790441176507,
+    "word_count": 255
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Parecoxib as an Analgesic Adjuvant in Brachial Plexus Nerve Block"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly allocated into three groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "150 patients undergoing elective forearm surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group A (n=50) received ropivacaine 0.25% alone, Group B (n=50) received ropivacaine with 20 mg parecoxib locally, and Group C (n=50) received 20 mg parecoxib intravenously"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the analgesic efficacy of parecoxib"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the duration of sensory and motor blocks, assessed over a 24-hour postoperative period"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "150 patients undergoing elective forearm surgery from January 2009 to November 2010"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Participants were randomly allocated into three groups: Group A (n=50), Group B (n=50), and Group C (n=50)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Group B demonstrated significantly prolonged motor and sensory block times compared to Group A (mean difference = X hours, 95% CI Y to Z; p < 0.05)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in any group"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Registration Number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of Funding]"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

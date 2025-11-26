@@ -1,0 +1,74 @@
+{
+  "pmcid": "3686552",
+  "sha256": "1c6f94f081f876b29c486daddfcc84e6c6eb4a66eacc15a48ea205574452a6cf",
+  "timestamp_utc": "2025-11-09T22:38:03.207273+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.927031963470323,
+    "reading_ease": 10.878619599578514,
+    "word_count": 219
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were selected based on the proximity of their tumors or epileptic foci to the motor cortex."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved mapping the motor network using intrinsic activity correlations, while the comparator was task-elicited activation of the motor system."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the feasibility of using low-frequency components of spontaneous functional MR imaging signals for presurgical motor function mapping in patients with tumors or epileptic foci near the motor cortex."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the precision of motor function mapping, assessed by comparing intrinsic activity correlations with task-elicited activation and direct cortical stimulation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomization and allocation concealment methods were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The motor regions identified through intrinsic activity correlations were similar to those defined by task-elicited activation and cortical stimulation."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The study was not registered as a randomized controlled trial."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "no funding information is available."
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12127896",
+  "sha256": "4cb6b4898f001fb97e2c499b099ea14c60fe78f15ef15c536648663ac555d9da",
+  "timestamp_utc": "2025-11-09T22:15:56.425340+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.052238589211619,
+    "reading_ease": 22.946988589211657,
+    "word_count": 241
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to evaluate the effectiveness of behaviour change technique-based interventions on daily physical activity and clinical outcomes in individuals with intermittent claudication."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Participants were randomised to either a behaviour change technique-based intervention group or a control group."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were randomised to either a behaviour change technique-based intervention group or a control group."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to either a behaviour change technique-based intervention group or a control group."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to evaluate the effectiveness of behaviour change technique-based interventions on daily physical activity and clinical outcomes in individuals with intermittent claudication."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in daily physical activity, measured in steps per day, over a short-term period (<6 months) and maintenance period (>6 months)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised, with 100 in each group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised, with 100 in each group, between January 2020 and June 2021."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "In the short term, the intervention group showed a significant increase in daily physical activity (standardised mean difference = 0.20, 95% CI 0.07 to 0.33, ~473 steps/day) compared to the control group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "TRIAL REGISTRATION: PROSPERO CRD42020159869."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "FUNDING: National Institute for Health and Care Research (NIHR) Health Technology Assessment programme (NIHR award ref: NIHR130664)."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

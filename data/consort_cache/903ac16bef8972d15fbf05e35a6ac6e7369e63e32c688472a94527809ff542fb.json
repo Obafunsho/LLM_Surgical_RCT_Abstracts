@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients with left-side colorectal cancer scheduled for elective resection with primary anastomosis were randomized 1 : 1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with left-side colorectal cancer scheduled for elective resection with primary anastomosis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized 1 : 1 to preoperative mechanical bowel preparation with either oral preparation or rectal enema"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the impact of oral preparation and rectal enema on the gut microbiome and postoperative complications."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was difference in \u03b2-diversity between groups on postoperative day 6."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized 1 : 1"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "This open-label pilot RCT"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty participants were randomized to oral preparation (20) or rectal enema (20)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The two groups had similar changes in microbiome composition, and there was no difference in \u03b2-diversity on postoperative day 6."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Postoperative infections occurred in 12 patients (32%), without differences between the study groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT04013841 ( http://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

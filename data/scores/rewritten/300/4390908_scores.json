@@ -1,0 +1,74 @@
+{
+  "pmcid": "4390908",
+  "sha256": "de56ceee442e9307501988f0bc9f57d1247e7d75714a8d69f2111372bf885064",
+  "timestamp_utc": "2025-11-09T23:53:41.723782+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.155825842696633,
+    "reading_ease": 31.68924438202248,
+    "word_count": 267
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Highly Porous Metal Tibia in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "397 patients (age 67.8 ± 8.7 years; 54% female) were randomised into three groups"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "397 patients (age 67.8 ± 8.7 years; 54% female)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "highly porous metal tibia compared to a traditional modular cemented tibia"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the effectiveness of a highly porous metal tibia compared to a traditional modular cemented tibia in total knee arthroplasty"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 5-year survivorship"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Stratified randomisation was based on surgeon, patient’s age, sex, and body mass index"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between 2003 and 2006, 397 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A per-protocol analysis showed no highly porous metal tibia was revised for aseptic loosening"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 5 years, survivorship was similar across groups (96.8% [1]; 97.6% [2]; 96.7% [3]; p = 0.59)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not detailed in the manuscript"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "5919221",
+  "sha256": "af23b47d21173688092ee08aa8f971d4df8be8c1848f966ce91fc11b14f24a94",
+  "timestamp_utc": "2025-11-09T16:06:29.383606+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.53778735632184,
+    "reading_ease": 39.603309386973194,
+    "word_count": 551
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This randomized trial evaluated the effect of a one-time, one-on-one preoperative physical therapy education session coupled with a web-based microsite (preopPTEd) on patients’ readiness to discharge from physical therapy (PT), length of hospital stay, and patient-reported functional outcomes after total joint arthroplasty."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were then randomized into two groups."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Between February and June 2015, 126 typical arthroplasty patients underwent unilateral TKA or THA."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "One group (control; n = 63) received no further education after the group education class, whereas the intervention group (experimental; n = 63) received preopPTEd."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomized trial evaluated the effect of a one-time, one-on-one preoperative physical therapy education session coupled with a web-based microsite (preopPTEd) on patients’ readiness to discharge from physical therapy (PT), length of hospital stay, and patient-reported functional outcomes after total joint arthroplasty."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Outcome measures assessed included readiness to discharge from PT, which was calculated by adding the number of postoperative inpatient PT visits patients had to meet PT milestones."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were then randomized into two groups."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between February and June 2015, 126 typical arthroplasty patients underwent unilateral TKA or THA."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Complete followup was available on 100% of control group patients and 100% patients in the intervention group for all three outcome measures (control and intervention of 63, respectively)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The preopPTEd group had fewer postoperative inpatient PT visits (mean, 3.3; 95% confidence interval [CI], 3.0-3.6 versus 4.4; 95% CI, 4.1-4.7; p < 0.001) and achieved readiness to discharge from PT faster (mean, 1.6 days; 95% CI, 1.2-1.9 days versus 2.7 days; 95% CI, 2.4-3.0; p < 0.001) than the control group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

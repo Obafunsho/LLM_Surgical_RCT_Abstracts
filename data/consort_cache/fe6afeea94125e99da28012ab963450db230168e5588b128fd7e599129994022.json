@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This phase II trial randomized patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with K RAS WT resected colorectal liver metastases (CRLM)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "adjuvant HAI FUDR + SYS FOLFIRI +/\u2212 Pmab"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose was to determine whether adding Pmab versus no Pmab to an adjuvant regimen of HAI of floxuridine (FUDR) plus systemic (SYS) leucovorin, fluorouracil, and irinotecan (FOLFIRI) improves 15-month recurrence-free survival (RFS) for patients with RAS wild-type (WT) colorectal cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "15-month recurrence-free survival (RFS)"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized patients"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seventy-five patients were randomized."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Twenty-five (69%; 95% CI, 53 to 82) patients in the Pmab arm versus 18 (47%; 95% CI, 32 to 63) patients in the arm without Pmab were alive and recurrence-free at 15 months."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Patient characteristics and toxicity were not different in the two arms, except for rash in +Pmab arm."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT01312857"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

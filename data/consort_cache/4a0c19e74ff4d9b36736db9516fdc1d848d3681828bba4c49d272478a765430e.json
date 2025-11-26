@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Phase I was conducted in the Outpatient Clinic and included 122 patients, 38 women and 84 men, aged 41 to 88 years, with chronic lower limb ischemia."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study (conducted in phases I\u2013III) aimed to identify health problems and assess patients\u2019 quality of life with chronic lower limb ischemia treated in one Polish clinical center."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The Polish version of the Vascular Life Quality Questionnaire scale (consisting of five domains (subscales)) was used to assess quality of life."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Phase I was conducted in the Outpatient Clinic and included 122 patients, 38 women and 84 men, aged 41 to 88 years, with chronic lower limb ischemia."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Moreover, statistically significant differences in the quality of life were observed between the patients before and after revascularization treatment in the overall assessment and each area of the VascuQol scale."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

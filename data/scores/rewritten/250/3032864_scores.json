@@ -1,0 +1,74 @@
+{
+  "pmcid": "3032864",
+  "sha256": "aece603f24aebcac39fae937e6c8faa7a82a1856a3b0a8355b7521364d3f8e0a",
+  "timestamp_utc": "2025-11-09T22:35:35.243387+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.110652173913046,
+    "reading_ease": 21.548586956521774,
+    "word_count": 230
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Scarf Osteotomy for Hallux Valgus Correction"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 29 patients (34 feet) with hallux valgus were recruited from a single orthopedic center."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were eligible if they had symptomatic hallux valgus requiring surgical intervention."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "They were randomised to undergo scarf osteotomy with distal soft tissue realignment."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effectiveness of scarf osteotomy in improving deformity and patient satisfaction."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in American Orthopaedic Foot and Ankle Society (AOFAS) scores from baseline to a minimum follow-up of 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "29 patients (34 feet) with hallux valgus were recruited from a single orthopedic center."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean AOFAS scores improved from 61.5 to 90.3."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complications included superficial wound infection (one), recurrence (two), and troughing (three)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

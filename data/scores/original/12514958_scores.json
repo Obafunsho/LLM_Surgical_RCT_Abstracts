@@ -1,0 +1,74 @@
+{
+  "pmcid": "12514958",
+  "sha256": "5254f4323cfbcae2dc26f9c258cf2a55604d81b468802423456b86e798c0859a",
+  "timestamp_utc": "2025-11-09T15:46:22.402703+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.291870554765293,
+    "reading_ease": 34.68385490753914,
+    "word_count": 296
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective cohort analysis was conducted using data from CIDP patients in the database of Xuanwu Hospital, Capital Medical University between April 2019 and June 2023."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "using data from CIDP patients in the database of Xuanwu Hospital, Capital Medical University between April 2019 and June 2023."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study compared the efficacy of tacrolimus plus prednisone (T&P) versus prednisone monotherapy (PM) as maintenance immunosuppressive therapy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy and safety of tacrolimus as an add-on therapy in patients with chronic inflammatory demyelinating polyneuropathy (CIDP)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the response rate, defined as ≥1-point improvement in INCAT score, assessed at 3, 6, and 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Among 74 screened CIDP patients, 34 (45.9%) were included, with 16 receiving T&P and 18 receiving PM."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All patients completed follow-up (median: 1.4 years; range: 1.0–6.5 years)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The T&P group demonstrated significantly higher response rates at 3 and 6 months compared to PM, though this difference attenuated by 12 months."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Both groups showed comparable safety profiles, with no serious adverse reactions reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

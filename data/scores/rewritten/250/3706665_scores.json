@@ -1,0 +1,74 @@
+{
+  "pmcid": "3706665",
+  "sha256": "e8221daec4659bb9af67c1ebcf26bc121e0a036b1ee3e036725fdda6736d9818",
+  "timestamp_utc": "2025-11-09T22:38:20.981450+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.977041666666668,
+    "reading_ease": 41.40956250000002,
+    "word_count": 225
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Volar Locking Plate Fixation in Low-Grade Open vs. Closed Distal Radius Fractures"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients with Gustilo and Anderson Type I or II open DRFs. Participants were treated at a single orthopedic center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aimed to compare the outcomes of volar locking plate fixation in low-grade open distal radius fractures (DRFs) versus closed DRFs."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the outcomes of volar locking plate fixation in low-grade open distal radius fractures (DRFs) versus closed DRFs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Disabilities of the Arm, Shoulder, and Hand (DASH) score, measured at 3 months and 1 year postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial included 60 participants, with 20 patients in the open fracture group and 40 in the closed fracture group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 3 months, the closed fracture group showed better wrist flexion, extension, grip strength, and DASH scores. However, at 1 year, no significant differences were observed between the groups in functional outcomes."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not disclosed."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

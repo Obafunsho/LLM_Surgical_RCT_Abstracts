@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "BARI-OPTIMISE: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "double-blind, randomised, placebo-controlled trial, 70 adults"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "70 adults with \u226420% weight loss post-RYGB or SG and suboptimal GLP-1 response were recruited from two London hospitals"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to liraglutide, 3.0 mg, or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy and safety of liraglutide, 3.0 mg, in patients with poor weight loss and suboptimal GLP-1 response post-surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was percentage body weight change from baseline to 24 weeks"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, stratified by surgery type and diabetes status, with allocation concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "All participants and study personnel were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "70 adults with \u226420% weight loss post-RYGB or SG and suboptimal GLP-1 response were recruited from two London hospitals between October 2018 and November 2019."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of 70 randomised (35 per group), 57 completed follow-up."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Mean percentage weight change was \u22128.82% (SD 4.94) with liraglutide vs \u22120.54% (SD 3.32) with placebo. The mean difference was \u22128.03% (95% CI, \u221210.39 to \u22125.66; P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were more frequent with liraglutide (80%) than placebo (57%), predominantly gastrointestinal, with no serious events or deaths."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT03341429"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

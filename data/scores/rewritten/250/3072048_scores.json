@@ -1,0 +1,74 @@
+{
+  "pmcid": "3072048",
+  "sha256": "c445430c37fb16eadccc8850fdc78262078533f383f78bf9e3f4cc8770da91e4",
+  "timestamp_utc": "2025-11-09T22:35:41.647479+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.251398176291797,
+    "reading_ease": 16.805000000000007,
+    "word_count": 188
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Deep Brain Stimulation in Parkinson's Disease"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial involved 16 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "16 patients with advanced idiopathic Parkinson's disease, recruited from multiple surgical centers. Eligibility required evidence of pathological synchrony in the subthalamic region."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Bilateral STN DBS electrodes were implanted, and recordings were made during stimulation using a custom amplifier."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to investigate this mechanism."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the suppression of local field potential (LFP) activity in the 11–30 Hz range, measured over a few days post-implantation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented for clinical assessments."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial involved 16 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "DBS progressively suppressed LFP peaks between 11 and 30 Hz as voltage increased beyond 1.5 V, with median peak power reduced to 54% of baseline at 3.0 V."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

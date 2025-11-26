@@ -1,0 +1,26 @@
+{
+  "pmcid": "7830775",
+  "pmid": "32472902",
+  "title": "CHARACTERIZATION OF UNEXPECTED SURVIVORS FOLLOWING A PREHOSPITAL PLASMA RANDOMIZED TRIAL",
+  "abstract": "Background:: Prehospital plasma improves survival for severely injured trauma patients transported by air ambulance. We sought to characterize the unexpected survivors, patients who survived despite having high predicted mortality following traumatic injury.\n\nMethods:: The Prehospital Air Medical Plasma (PAMPer) trial randomized severely injured patients (n=501) to receive either standard care (crystalloid) or two units of prehospital plasma followed by standard care fluid resuscitation. We built a generalized linear model to estimate patient mortality. Area under the receiver operating characteristic curve (AUC) was used to evaluate model performance. We defined unexpected survivors as patients who had a predicted mortality >50% and survived to 30 days. We characterized patient demographics, clinical features, and outcomes of the unexpected survivors. Observed to expected (O/E) ratios and Z-statistics were calculated using model-estimated mortality for each cohort.\n\nResults:: Our model predicted mortality better than ISS or RTS parameters and identified 36 unexpected survivors. Compared to expected survivors, unexpected survivors were younger (33 [24, 52] vs. 47 [32, 59] years, P=0.013), were more severely injured (ISS 34 [22, 50] vs. 18 [10, 27], P<0.001), had worse organ dysfunction and hospital resource outcomes (MOF, ICU and hospital length of stay, and ventilator days), and were more likely to receive prehospital plasma (67 vs. 46%, P=0.031). Nonsurvivors with high predicted mortality were more likely to receive standard care resuscitation (P<0.001). Unexpected survivors who received prehospital plasma had a lower observed to expected mortality than those that received standard care resuscitation (O/E 0.56 [0.33–0.84] vs. 1.0 [0.73–1.32]). The number of prehospital plasma survivors (24) exceeded the number of predicted survivors (n=10) estimated by our model (P<0.001).\n\nConclusions:: Prehospital plasma is associated with an increase in the number of unexpected survivors following severe traumatic injury. Prehospital interventions may improve the probability of survival for injured patients with high predicted mortality based on early injury characteristics, vital signs, and resuscitation measures.",
+  "authors": [
+    "Danielle S Gruen",
+    "Frank X. Guyette",
+    "Joshua B. Brown",
+    "Brian J. Daley",
+    "Richard S. Miller",
+    "Brian G. Harbrecht",
+    "Jeffrey A. Claridge",
+    "Herb A. Phelan",
+    "Mark H Yazer",
+    "Matthew D. Neal",
+    "Brian S. Zuckerbraun",
+    "Jason L. Sperry"
+  ],
+  "journal": "The journal of trauma and acute care surgery",
+  "year": "2020",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

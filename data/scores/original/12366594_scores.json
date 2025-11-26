@@ -1,0 +1,74 @@
+{
+  "pmcid": "12366594",
+  "sha256": "2d7e0bf81b5565d58be04e390677dde0d56b3eec019608222db0d638b72785e0",
+  "timestamp_utc": "2025-11-09T15:38:24.590330+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.561126696832584,
+    "reading_ease": 22.859608597285074,
+    "word_count": 221
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of three hundred and eighty patients are to be randomised in two parallel groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "critically ill patients with an existing CVC"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compares the near-infrared light device to the landmark approach"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study objective is to compare the first-attempt success rate of PVC placement"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "first-attempt success rate of PVC placement"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomised in two parallel groups with a stratification on centre and anticipated difficulty"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of three hundred and eighty patients are to be randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration number: Clinicaltrials.gov: NCT06234293"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

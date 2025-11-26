@@ -1,0 +1,74 @@
+{
+  "pmcid": "9831043",
+  "sha256": "d56fad20b9cb357c1c7a16c151d3e47f9636065943864537a230f2d2fa07a529",
+  "timestamp_utc": "2025-11-09T23:02:18.516526+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.029215686274512,
+    "reading_ease": 44.53147058823532,
+    "word_count": 204
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Lymph Node Size as a Prognostic Marker in Esophageal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "802 patients with locally advanced resectable EC were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "802 patients with locally advanced resectable EC"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to surgery alone (S) or neoadjuvant chemotherapy plus surgery (C+S)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the prognostic value of LN size in EC patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 5-year overall survival (OS)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "802 patients with locally advanced resectable EC were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "LN size was measured in 367 patients (188 S, 179 C+S)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Large LN size was associated with lower pN category (P = 0.01) and lower lymphatic invasion (P = 0.02)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

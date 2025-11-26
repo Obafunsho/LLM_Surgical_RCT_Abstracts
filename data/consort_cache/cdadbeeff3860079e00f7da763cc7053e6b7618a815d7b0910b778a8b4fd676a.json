@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods: In this randomized controlled trial, elderly patients (aged \u2265 60 years) undergoing elective TKA were randomly allocated in a 1:1:1 ratio to 0.6 \u03bcg/kg/h dexmedetomidine (Group D2), 0.3 \u03bcg/kg/h dexmedetomidine (Group D1) and saline (Group N)."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Methods: In this randomized controlled trial, elderly patients (aged \u2265 60 years) undergoing elective TKA were randomly allocated in a 1:1:1 ratio to 0.6 \u03bcg/kg/h dexmedetomidine (Group D2), 0.3 \u03bcg/kg/h dexmedetomidine (Group D1) and saline (Group N)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "elderly patients (aged \u2265 60 years) undergoing elective TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly allocated in a 1:1:1 ratio to 0.6 \u03bcg/kg/h dexmedetomidine (Group D2), 0.3 \u03bcg/kg/h dexmedetomidine (Group D1) and saline (Group N)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the effects of different doses of dexmedetomidine on postoperative QoR in elderly TKA patients, and whether there is a correlation with specific EEG changes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "On postoperative days 1 and 3, the15-item Quality of Recovery (QoR-15) scale was used to evaluate the postoperative recovery of patients among the three groups."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly allocated in a 1:1:1 ratio"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The difference of QoR-15 scores on postoperative day 1 was significant for Group D2 vs Group N (126 [123\u2013129] points vs 120 [116\u2013123] points; median difference, 6 points [95% CI, 4 to 8]; P < 0.001) and Group D2 vs Group D1 (126 [123\u2013129] points vs 122 [118\u2013126]; median difference, 4 points [95% CI, 2 to 5]; P = 0.001)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

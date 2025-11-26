@@ -1,0 +1,74 @@
+{
+  "pmcid": "12485866",
+  "sha256": "136c6c5e18b35ea579bc8f86d8b41fce9bf206eed022545a433f5e393a1b0cea",
+  "timestamp_utc": "2025-11-09T15:44:30.713646+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.411666666666669,
+    "reading_ease": 34.620000000000005,
+    "word_count": 240
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Randomized controlled trials in English that compared fluorescence angiography with standard care were considered eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Randomized controlled trials in English that compared fluorescence angiography with standard care were considered eligible."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Our objective was to perform a systematic review and meta‐analysis of randomized controlled trials on the effect of fluorescence angiography on anastomotic leak and postoperative morbidity."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Among 477 identified studies, 401 were retained for screening but only eight were included in the quantitative analysis (3999 patients)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Fluorescence angiography was significantly protective against anastomotic leak, with an odds ratio of 0.64 (95% CI: 0.39–0.98, I 2 : 0%, p < 0.0001) and a reduction in risk of 4 percentage points (95% CI: −0.05 to 0.02, I 2 : 0%, p < 0.0001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "However, fluorescence angiography did not reduce postoperative morbidity compared with the control group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

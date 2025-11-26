@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of a Preoperative Frailty Screening and Optimization Toolkit in Elderly Cancer Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "cluster-randomised trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients aged 70 or above undergoing curative intent surgery were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "usual care (UC), OPTI-Surg, or OPTI-Surg with an implementation coach"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assessed the effect of a practice-level preoperative frailty screening and optimization toolkit (OPTI-Surg) on postoperative functional recovery and complications in elderly cancer patients undergoing major surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 8-week postoperative function (kcal/wk)"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Practices were randomised 1:1:1"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From July 2019 to September 2022, 325 patients were enrolled in 29 practices."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "A total of 199 (64 UC, 135 OPTI-Surg) and 279 (78 UC, 201 OPTI-Surg) were evaluable for primary and secondary analysis, respectively."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant differences were found in total caloric expenditure (2.2 UC, 2.0 OPTI-Surg, P = 0.53) or postoperative complications (25.6% UC, 35.3% OPTI-Surg, P = 0.5)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "postoperative complications (25.6% UC, 35.3% OPTI-Surg, P = 0.5)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

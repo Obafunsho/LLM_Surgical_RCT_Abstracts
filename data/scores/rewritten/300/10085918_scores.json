@@ -1,0 +1,74 @@
+{
+  "pmcid": "10085918",
+  "sha256": "b8ecbbbf8199d715c0fddbaf45032c3767cadef7d6c85bb874c3e500b1f759e0",
+  "timestamp_utc": "2025-11-09T23:03:51.515158+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.717419562419568,
+    "reading_ease": 8.004795152295173,
+    "word_count": 259
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Perioperative Systemic Therapy Versus CRS–HIPEC Alone in Resectable Colorectal Peritoneal Metastases"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adults with isolated resectable colorectal peritoneal metastases"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "perioperative systemic therapy versus cytoreductive surgery and hyperthermic intraperitoneal chemotherapy (CRS–HIPEC) alone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated patient-reported outcomes (PROs)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "PROs were assessed using EORTC QLQ-C30, QLQ-CR29, and EQ-5D-5L questionnaires at baseline, after neoadjuvant treatment, and at 3 and 6 months postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From June 2017 to January 2019, 80 patients were randomised, with 40 in each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the modified intention-to-treat analysis, 37 patients received perioperative systemic therapy and 42 underwent upfront surgery."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The experimental arm experienced worsening of fatigue (MD +14, p = 0.001), loss of appetite (MD +15, p = 0.003), hair loss (MD +18, p < 0.001), and loss of taste (MD +27, p < 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02758951."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

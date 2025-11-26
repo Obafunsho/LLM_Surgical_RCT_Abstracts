@@ -1,0 +1,74 @@
+{
+  "pmcid": "12324758",
+  "sha256": "d9d5d571bed57c490d004cd3bc5c44fde55845e4b8a4135899a6149039136c7b",
+  "timestamp_utc": "2025-11-09T15:37:02.053474+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.520425531914892,
+    "reading_ease": 1.646923076923116,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This meta-analysis sought to clarify whether perioperative administration of acetaminophen could reduce the risk of postoperative AKI in adult patients undergoing cardiac procedures."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Studies comparing the effects of perioperative acetaminophen to those of no acetaminophen in adult cardiac surgery patients were evaluated"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This meta-analysis sought to clarify whether perioperative administration of acetaminophen could reduce the risk of postoperative AKI in adult patients undergoing cardiac procedures."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The results showed that acetaminophen administration was associated with a lower incidence of AKI [OR 0.62 (95% CI 0.40–0.97), P = 0.04]."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

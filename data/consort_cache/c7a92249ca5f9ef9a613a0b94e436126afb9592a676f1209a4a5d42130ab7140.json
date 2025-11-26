@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Forced-Air Warming Systems in Preventing Inadvertent Perioperative Hypothermia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to either the FAW group or the control group (no technology)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients undergoing surgery lasting over 30 minutes were eligible. This randomised controlled trial was conducted in a medium-large hospital in Northern Italy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to either the FAW group or the control group (no technology)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the effectiveness and efficiency of Forced-Air Warming (FAW) systems compared to no warming technology."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the incidence of IPH-related adverse events, measured postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the FAW group and 100 to the control group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the FAW group and 97 in the control group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The FAW group showed a significant reduction in surgical site infections (3% vs. 12%), cardiac events (3.5% vs. 7.6%), and blood transfusions (6.2% vs. 7.4%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by [Funding source]."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

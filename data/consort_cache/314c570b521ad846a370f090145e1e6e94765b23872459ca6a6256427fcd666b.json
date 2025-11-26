@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Gadoxetic Acid-Enhanced MRI, ECCM-MRI, and CE-CT for Hepatic Staging in Suspected CRCLM"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1:1 to receive gadoxetic acid-enhanced MRI, ECCM-MRI, or CE-CT."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "the trial included patients aged 18 years or older with suspected CRCLM."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1:1 to receive gadoxetic acid-enhanced MRI, ECCM-MRI, or CE-CT."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "assessed the impact of gadoxetic acid-enhanced MRI, ECCM-MRI, and CE-CT as first-line imaging modalities in patients with suspected colorectal cancer liver metastases (CRCLM)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the proportion of patients requiring further imaging for a confident diagnosis."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated list with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 360 patients were randomised, with 118, 112, and 112 patients in the gadoxetic acid-enhanced MRI, ECCM-MRI, and CE-CT groups, respectively."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Efficacy was analysed in 342 patients."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Further imaging was required in 0% of the gadoxetic acid-enhanced MRI group, 17.0% of the ECCM-MRI group, and 39.3% of the CE-CT group (P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00764621; EudraCT: 2008-000583-16."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

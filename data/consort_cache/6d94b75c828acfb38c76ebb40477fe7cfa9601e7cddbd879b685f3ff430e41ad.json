@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Combined cup and stem anteversion in THA based on femoral anteversion has been suggested as a method to compensate for abnormal femoral anteversion."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "We investigated the combined anteversion technique using computer navigation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We investigated the combined anteversion technique using computer navigation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We determined precision (the reproducibility) and bias (how close the average test number is to the true value) of the stem position."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Combined anteversion by postoperative CT scan was 37.6\u00b0 \u00b1 7\u00b0 (standard deviation) (range, 19\u00b0\u201350\u00b0)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

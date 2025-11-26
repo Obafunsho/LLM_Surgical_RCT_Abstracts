@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Cluster Randomised Controlled Trial of the Modified Hospital Elder Life Program in Reducing Delirium and Length of Stay in Older Patients Undergoing Abdominal Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This cluster randomised controlled trial was conducted at a 2000-bed urban medical center in Taipei, Taiwan, from August 1, 2009, to October 31, 2012."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were older patients (\u226565 years) undergoing elective gastrectomy, pancreaticoduodenectomy, or colectomy with an expected LOS longer than 6 days."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were cluster randomised by room to receive either the modified Hospital Elder Life Program (mHELP) or usual care."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the presence of delirium, assessed daily using the Confusion Assessment Method by blinded nurses."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were cluster randomised by room"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "assessed daily using the Confusion Assessment Method by blinded nurses"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 577 eligible patients, 377 were randomised (197 to mHELP, 180 to control)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 577 eligible patients, 377 were randomised (197 to mHELP, 180 to control)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Delirium occurred in 6.6% of mHELP participants versus 15.1% of controls, with a relative risk of 0.44 (95% CI, 0.23\u20130.83; P = .008)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01045330."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

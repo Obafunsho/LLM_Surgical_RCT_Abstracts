@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Single Ventricle Reconstruction Trial: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This multicenter randomised controlled trial included 393 participants"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients undergoing the Norwood procedure"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either a modified Blalock-Taussig shunt or a right ventricle-to-pulmonary artery shunt"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The Single Ventricle Reconstruction trial evaluated the impact of shunt type on outcomes"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was hospital length of stay (LOS) at the stage II procedure, measured in days"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured by sealed envelopes"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Due to the nature of the intervention, blinding was not feasible"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 393 participants were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "196 allocated to the modified Blalock-Taussig shunt and 197 to the right ventricle-to-pulmonary artery shunt"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The median stage II procedure hospital LOS was 8 days (IQR 6, 14), with no significant difference between shunt types"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were not significantly different between groups"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The trial was registered under [Trial Registration Number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding was provided by [Source of Funding]"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

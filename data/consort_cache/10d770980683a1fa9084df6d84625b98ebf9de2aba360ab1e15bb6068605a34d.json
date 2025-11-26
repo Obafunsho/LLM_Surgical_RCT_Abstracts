@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods: This clinical trial aimed to examine the effect of a personalized pain education and management intervention"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Between February 2021 and September 2022, 212 patients were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Most participants in the final sample of 129 identified as Black (73% [94 of 129]) and women (56% [72 of 129])"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients randomized to the intervention worked with the paraprofessional coaches throughout hospitalization"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Questions/purposes: Does personalized pain education and management delivered by coaches"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Surveys included average pain intensity scores over the past 24 hours measured on the pain numeric rating scale"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "212 patients were randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "212 patients were randomized to the intervention (49% [104]) or control group (51% [108])"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "leaving 69% (72 of 104) and 53% (57 of 108) for analysis in the intervention and control group, respectively"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "OR 2.2 [95% confidence interval (CI) 0.9 to 5.3]; p = 0.08"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

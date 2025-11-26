@@ -1,0 +1,74 @@
+{
+  "pmcid": "3890161",
+  "sha256": "8e5bfb8fe45d0df4af36f9dea4576fc62f75211fc6a44082280a65edd66a1f4d",
+  "timestamp_utc": "2025-11-09T22:40:05.029947+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.076513009049776,
+    "reading_ease": 25.912145079185535,
+    "word_count": 221
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Infrapatellar Fat Pad Excision in Minimally Invasive Total Knee Arthroplasty: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial included 90 patients"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "90 patients undergoing MIS TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised into two groups: 45 patients with complete infrapatellar fat pad excision and 45 without"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was anterior knee pain, measured at 6 weeks, 3 months, 6 months, and 1 year postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "90 patients undergoing MIS TKA, randomised into two groups"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Complete follow-up data were available for 77 of 90 patients (86%)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "anterior knee pain was more prevalent in the excision group (8.3% versus 0%; p = 0.03; 95% CI, −0.007 to 0.174)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No patellar complications were reported in either group"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

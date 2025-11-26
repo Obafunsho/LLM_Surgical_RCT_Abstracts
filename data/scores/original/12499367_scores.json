@@ -1,0 +1,74 @@
+{
+  "pmcid": "12499367",
+  "sha256": "060575faa098926389a171fa6204e6a9327822e2704e364eac19e61a33c3aee5",
+  "timestamp_utc": "2025-11-09T15:45:23.576156+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.913523206751055,
+    "reading_ease": 25.884150438169456,
+    "word_count": 237
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this single-center, double-blind trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this single-center, double-blind trial, 150 patients undergoing elective GLS were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "150 patients undergoing elective GLS"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive esketamine (0.25mg/kg, n=75) or sufentanil (0.1μg/kg, n=75)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Esketamine, the dextrorotatory form of ketamine with analgesic, sedation and anti-inflammatory properties, was evaluated for PONV prophylaxis compared to sufentanil."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes were PONV incidence and severity in Postanesthesia care unit (PACU) and during 48 hours postoperation."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "150 patients undergoing elective GLS were randomized"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "150 patients undergoing elective GLS were randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The esketamine group demonstrated significantly lower PONV incidence (in PACU: 57.3% vs 36%, p=0.014; 24h: 53.3% vs 36%, p=0.048) and reduced severity within 24 hours (in PACU, p<0.001; 6h, P=0.042; 24h, p=0.029)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

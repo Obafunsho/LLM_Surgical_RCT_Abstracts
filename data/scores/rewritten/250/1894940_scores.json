@@ -1,0 +1,74 @@
+{
+  "pmcid": "1894940",
+  "sha256": "1cee32a0628477158137ca8a5acba6515cac321b152804a8262acc48dca676d8",
+  "timestamp_utc": "2025-11-09T22:32:40.676153+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.652631975867273,
+    "reading_ease": 19.048168677727517,
+    "word_count": 221
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of COX-2 Inhibition in Acute Inflammatory Pain"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A randomised controlled trial was conducted with participants undergoing surgical extraction of impacted third molars."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "participants undergoing surgical extraction of impacted third molars"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive rofecoxib, ibuprofen, or placebo."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the effects of selective COX-2 inhibition on gene expression in acute inflammatory pain."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was gene expression changes, measured over 24 hours post-surgery using microarray analysis, RT-PCR, and Western blotting."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "150 participants were randomised: 50 to rofecoxib, 50 to ibuprofen, and 50 to placebo."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean difference in ANXA3 expression was 2.5 (95% CI 1.8 to 3.2; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 2% in the rofecoxib group and 1% in the ibuprofen group reporting gastrointestinal side effects."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01234567"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by the National Institutes of Health."
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "pmcid": "5014820",
+  "pmid": "27334320",
+  "title": "Is Model-based Radiostereometric Analysis Suitable for Clinical Trials of a Cementless Tapered Wedge Femoral Stem?",
+  "abstract": "Background: In clinical trials of THA, model-based radiostereometric analysis (RSA) techniques may be less precise than conventional marker-based RSA for measurement of femoral stem rotation. We verified the accuracy and clinical precision of RSA based on computer-aided design models of a cementless tapered wedge femoral stem.\n\nQuestions: We asked: (1) Is the accuracy of model-based RSA comparable to that of marker-based RSA? (2) What is the clinical precision of model-based RSA?\n\nMethods: Model-based RSA was performed using combined three-dimensional computer-aided design models of the stem and head provided by the implant manufacturer. The accuracy of model-based RSA was compared with that of marker-based RSA in a phantom model using micromanipulators for controlled translation in three axes (x, y, z) and rotation around the y axis. The clinical precision of model-based RSA was evaluated by double examinations of patients who had arthroplasties (n = 24) in an ongoing trial. The clinical precision was defined as being at an acceptable level if the number of patients needed for a randomized trial would not differ from a trial done with conventional marker-based RSA (15–25 patients per group).\n\nResults: The accuracy of model-based RSA was 0.03 mm for subsidence (translation along the y axis) (95% CI for the difference between RSA measurements and actual displacement measured with micrometers, −0.03–0.00) and 0.39° for rotation around the y axis (95% CI, −0.41 to −0.06). The accuracy of marker-based RSA was 0.06 mm for subsidence (95% CI, −0.04–0.01; p = 0.728 compared with model-based RSA) and 0.18° for the y axis rotation (95% CI, −0.23 to −0.07; p = 0.358). The clinical precision of model-based RSA was 0.14 mm for subsidence (95% CI for the difference between double examinations, −0.02–0.04) and 0.79° for the y axis rotation (95% CI, −0.16–0.18).\n\nConclusions: The accuracy of model-based RSA for measurement of the y axis rotation was not quite as high as that of marker-based RSA, but its clinical precision is at an acceptable level.\n\nClinical relevance: Model-based RSA may be suitable for clinical trials of cementless tapered wedge femoral stem designs.",
+  "authors": [
+    "Sanaz Nazari-Farsani",
+    "Sami Finnilä",
+    "Niko Moritz",
+    "Kimmo Mattila",
+    "Jessica J. Alm",
+    "Hannu T. Aro"
+  ],
+  "journal": "Clinical Orthopaedics and Related Research",
+  "year": "2016",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

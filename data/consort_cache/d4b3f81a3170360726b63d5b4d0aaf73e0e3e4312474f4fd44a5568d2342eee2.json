@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This single-centre, open-label, randomised controlled trial included 128 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "128 patients undergoing elective surgeries that required central vein cannulation"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised to either the anterior out-of-plane or in-plane technique"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The primary objective of the study was to compare the first-pass success rate"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "First-pass success rates, puncture and cannulation times, needle redirections, additional punctures, and complications were recorded"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This single-centre, open-label, randomised controlled trial included 128 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Successful cannulation was achieved in 119 patients"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The first-pass success rate was significantly higher with the anterior out-of-plane approach (95%) compared to the in-plane approach (77%) ( P < 0.05)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "fewer needle redirections, punctures, and complications, including arterial punctures (1 vs 5), were observed"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

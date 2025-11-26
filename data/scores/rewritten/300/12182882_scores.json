@@ -1,0 +1,74 @@
+{
+  "pmcid": "12182882",
+  "sha256": "7b1deee17faf97a5ba5e431609a644d1fb0ed7161700f5f5592b5bff696a8bbb",
+  "timestamp_utc": "2025-11-09T23:29:17.387836+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.303333333333331,
+    "reading_ease": 24.66500000000002,
+    "word_count": 270
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Multimodal Therapies for Early-Stage Malignant Pleural Mesothelioma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Participants were selected based on eligibility criteria, focusing on early-stage MPM"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention included multimodal therapies such as extrapleural pneumonectomy and extended pleurectomy/decortication, compared to standard care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy and safety of multimodal therapies for early-stage MPM"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was quality of life, measured over a 12-month period"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment via sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 564 participants were randomised, with 282 in the intervention group and 282 in the control group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was conducted using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The meta-analysis found no statistically significant differences between groups in physical function (SMD: -0.34, 95% CI: -1.14 to 0.45), social function (SMD: 0.01, 95% CI: -0.52 to 0.53), or lethargy (SMD: -0.34, 95% CI: -0.96 to 0.27)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar across groups, with moderate to high heterogeneity (I²: 47%-76%)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: N/A"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

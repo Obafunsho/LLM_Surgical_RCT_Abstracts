@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to receive follow-up care via a mobile app or at an in-person visit during the first 30 days after the operation."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "among ambulatory patients undergoing breast reconstruction at an academic ambulatory care hospital."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned to receive follow-up care via a mobile app or at an in-person visit during the first 30 days after the operation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To determine whether follow-up care delivered via a mobile app can be used to avert in-person follow-up care visits compared with conventional, in-person follow-up care in the first 30 days following ambulatory surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary end point was the number of in-person follow-up visits during the first 30 days after the operation."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to receive follow-up care via a mobile app or at an in-person visit during the first 30 days after the operation."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 65 women in the study (mean [SD] age, 47.7 [13.4] years), 32 (49%) were in the mobile app group, and 33 (51%) were in the in-person follow-up care group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Those in the mobile app group attended a mean of 0.66 in-person visits, vs 1.64 in-person visits in the in-person follow-up care group, for a difference of 0.40 times fewer in-person visits (95% CI, 0.24-0.66; P <\u2009.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There was no difference between groups in the number of telephone communications, satisfaction scores, or complication rates."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: clinicaltrials.gov Identifier: NCT02318953"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

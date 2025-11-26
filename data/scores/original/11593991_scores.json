@@ -1,0 +1,74 @@
+{
+  "pmcid": "11593991",
+  "sha256": "64c3b9fc3b89556704501c7bda83278f5dfdde89a3f27f4e768bd3e4c77f91dc",
+  "timestamp_utc": "2025-11-09T15:21:09.286809+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.630652482269504,
+    "reading_ease": 23.65300000000002,
+    "word_count": 282
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we hypothesized that CKD promotes EndMT during venous remodeling and that disruption of endothelial TGF (transforming growth factor)-β signaling inhibits EndMT to prevent AVF failure even in the end-stage kidney disease environment."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "CKD accelerates TGF-β activation and promotes EndMT that is associated with increased AVF wall thickness and reduced patency in mice."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 2,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The Effect of Popliteus Tendon Resection on Knee Stability in Total Knee Arthroplasty: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to Group A (n=9), where the popliteus tendon was resected, or Group B (n=9), where it was preserved."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients scheduled for primary TKA."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to Group A (n=9), where the popliteus tendon was resected, or Group B (n=9), where it was preserved."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the effects of popliteus tendon resection on knee ligament balancing and load distribution during TKA."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was knee stability, evaluated intraoperatively by a blinded senior surgeon."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with concealed allocation."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "The primary outcome was knee stability, evaluated intraoperatively by a blinded senior surgeon."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to Group A (n=9), where the popliteus tendon was resected, or Group B (n=9), where it was preserved."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis followed a per-protocol approach."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The senior surgeon found no difference in knee stability between the groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

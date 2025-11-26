@@ -1,0 +1,74 @@
+{
+  "pmcid": "12466067",
+  "sha256": "b6a284ea9e3df7d3dfdc8bbc322a969a41422e7bda4c27a7df87db0791f1e930",
+  "timestamp_utc": "2025-11-09T22:28:23.406447+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.565942760942761,
+    "reading_ease": 29.627878787878814,
+    "word_count": 216
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Sugammadex on Postoperative Urinary Retention"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing sugammadex with conventional reversal agents or no reversal agents"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effects of sugammadex, a neuromuscular blockade (NMB) reversal agent, on POUR incidence and other postoperative outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was POUR incidence, measured within 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 25 studies with 163,367 patients were included: 84,362 received sugammadex, and 79,005 received neostigmine or no antagonist."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Sugammadex significantly reduced POUR incidence (Relative Risk (RR): 0.47, 95% Confidence Interval (CI): 0.34–0.64, P < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: CRD42024566663."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

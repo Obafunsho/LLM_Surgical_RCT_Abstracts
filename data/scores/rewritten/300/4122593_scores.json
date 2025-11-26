@@ -1,0 +1,74 @@
+{
+  "pmcid": "4122593",
+  "sha256": "b26b8e756369adbdb03f72344a20ec929cf22809e12be12844d803227d20b9dc",
+  "timestamp_utc": "2025-11-09T23:52:26.300173+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.83727272727273,
+    "reading_ease": 21.979242424242443,
+    "word_count": 220
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Trimodality Therapy in Superior Sulcus Non-Small Cell Lung Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this single-arm trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with T3-T4, N0-N1, M0 SS NSCLC"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "received induction therapy with cisplatin-etoposide and thoracic RT 45 Gy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The primary objective was feasibility"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary objective was feasibility"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 46 registered patients, 44 were eligible"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "38 (86%) completed induction, 29 (66%) underwent resection"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Three-year progression-free survival was 56%, and overall survival was 61%."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Two patients (7%) died of ARDS."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

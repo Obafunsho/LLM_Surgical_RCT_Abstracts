@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This randomized clinical trial provides high-level evidence for mesh repair for umbilical hernias less than or equal to 2\u2005cm."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A randomized, controlled, parallel-group, double-blind, multicentre trial across six Swedish surgical units is comparing 4 \u00d7 4\u2005cm macroporous lightweight onlay mesh repair with conventional suture repair for primary elective umbilical hernias less than or equal to 2\u2005cm."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A randomized, controlled, parallel-group, double-blind, multicentre trial across six Swedish surgical units is comparing 4 \u00d7 4\u2005cm macroporous lightweight onlay mesh repair with conventional suture repair for primary elective umbilical hernias less than or equal to 2\u2005cm."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "A randomized, controlled, parallel-group, double-blind, multicentre trial across six Swedish surgical units is comparing 4 \u00d7 4\u2005cm macroporous lightweight onlay mesh repair with conventional suture repair for primary elective umbilical hernias less than or equal to 2\u2005cm."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to report the preliminary results of a trial investigating surgical-site occurrences in suture versus mesh repair for umbilical hernias less than or equal to 2\u2005cm."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome of the trial is recurrence at 3 years, whereas secondary outcomes (the focus of this study) include surgical-site occurrences and pain intensity at 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Intraoperative centralized web-based randomization ensured allocation concealment."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "A randomized, controlled, parallel-group, double-blind, multicentre trial across six Swedish surgical units."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From February 2020 to January 2024, 290 participants were randomly assigned to either suture or mesh repair."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "After exclusion and loss to follow-up, the remaining population for analysis was 144 participants for suture repair and 135 participants for mesh repair."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Surgical-site occurrences (Clavien\u2013Dindo grade greater than or equal to I) affected 32 mesh repair participants (23.7%) compared with 26 suture repair participants (18.1%), without any significant increase in surgical-site occurrences for mesh repair (OR 1.39 (95% c.i. 0.78 to 2.51))."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Surgical-site occurrences (Clavien\u2013Dindo grade greater than or equal to I) affected 32 mesh repair participants (23.7%) compared with 26 suture repair participants (18.1%)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT04231071 ( http://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

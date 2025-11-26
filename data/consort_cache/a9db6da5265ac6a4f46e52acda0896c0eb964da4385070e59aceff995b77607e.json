@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This study sought to determine if intraoperative methylprednisolone during neonatal cardiac surgery is associated with neurodevelopmental outcomes at 12 months of age"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A planned secondary analysis of a two-center, double-blind, randomized, placebo-controlled trial"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized, placebo-controlled trial of intraoperative methylprednisolone in neonates undergoing cardiac surgery"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study sought to determine if intraoperative methylprednisolone during neonatal cardiac surgery is associated with neurodevelopmental outcomes at 12 months of age"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Bayley Scales of Infant and Toddler Development-III (BSID-III) were performed at 12 months of age"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "double-blind, randomized"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "There were 129 participants (n=61 methylprednisolone, n=68 placebo)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "There were no significant differences in BSID-III scores and brain injury biomarker levels between the two treatment groups"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

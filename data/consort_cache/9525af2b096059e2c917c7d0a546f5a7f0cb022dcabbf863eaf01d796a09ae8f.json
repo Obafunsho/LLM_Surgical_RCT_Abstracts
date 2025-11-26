@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "double\u2010blind RCT"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "two\u2010centre, stratified, parallel\u2010group, placebo\u2010controlled, double\u2010blind RCT"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing mastectomy with or without axillary lymph node clearance"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "moistening of wound surface before closure with either 25\u2009mg/ml TXA or 0\u00b79 per cent sodium chloride (placebo)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to investigate whether moistening a surgical wound with TXA before closure, leaving a thin film of drug only, would reduce postoperative bleeding."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was postoperative bleeding as measured by drain production in the first 24\u2009h."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized 1\u2009:\u20091"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double\u2010blind RCT"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between 1 January 2016 and 31 August 2018, 208 patients were randomized."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "202 patients were included in the study (101 in the TXA and 101 in the placebo group)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "TXA reduced mean drain production at 24\u2009h (110 versus 144\u2009ml; mean difference 34 (95 per cent c.i. 8 to 60) ml, P = 0\u00b7011)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One patient in the TXA group had early haematoma compared with seven in the placebo group"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT02627560"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

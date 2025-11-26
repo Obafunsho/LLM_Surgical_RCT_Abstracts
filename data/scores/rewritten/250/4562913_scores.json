@@ -1,0 +1,74 @@
+{
+  "pmcid": "4562913",
+  "sha256": "506e881c1b7b6326d05fcf92ac3f7ad2fdc690fb9dd361ee959e5b2562e63d6b",
+  "timestamp_utc": "2025-11-09T22:42:45.795625+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.787793427230046,
+    "reading_ease": 18.22433369447458,
+    "word_count": 213
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included a tumor edge to articular surface distance of 10 to 15 mm, good chemotherapy response, no pathologic fracture, and no major neurovascular involvement."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved transepiphysis tumor resection with navigation-assisted microwave ablation, followed by reconstruction using allograft and a vascularized fibula flap."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of joint-preserving tumor resection for juxtaarticular osteosarcoma after microwave ablation of the tumor edge under navigation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was local tumor control, assessed over the follow-up period."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "11 patients with juxtaarticular osteosarcoma of the proximal tibia (mean age, 12 years; range, 9–16 years) underwent joint-preserving surgery."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No local recurrences were observed. Major complications included osteonecrosis of part of the epiphysis in two patients and deep infection in one."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Major complications included osteonecrosis of part of the epiphysis in two patients and deep infection in one."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

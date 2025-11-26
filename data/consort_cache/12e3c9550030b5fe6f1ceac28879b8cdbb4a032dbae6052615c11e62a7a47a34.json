@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Intraoperative Dexmedetomidine and Postoperative Delirium: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomized to receive either dexmedetomidine (0.5 \u00b5g/kg/h) or saline placebo"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "elderly patients (>68 years) undergoing major elective noncardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive either dexmedetomidine (0.5 \u00b5g/kg/h) or saline placebo"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative delirium, assessed daily."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, with allocation concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 404 patients were randomized (202 to dexmedetomidine, 202 to placebo); Recruitment occurred from February 2008 to May 2014."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "390 completed delirium assessments."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Postoperative delirium incidence was similar between groups (12.2% dexmedetomidine vs 11.4% placebo, P = .94)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar across groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00561678."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

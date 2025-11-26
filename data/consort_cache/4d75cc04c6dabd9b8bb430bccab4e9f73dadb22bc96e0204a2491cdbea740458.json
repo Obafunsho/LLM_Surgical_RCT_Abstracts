@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing RIMA-SVG and Ao-SVG Techniques in Multivessel CABG"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This single-centre, prospective, double-blind, randomised clinical trial will enrol 300 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "300 patients undergoing CABG at the Second Hospital of Jilin University"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants will be randomised into two groups (RIMA-SVG vs Ao-SVG)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether the right internal mammary artery-saphenous vein graft (RIMA-SVG) technique is non-inferior to the conventional aorta-saphenous vein graft (Ao-SVG) approach in terms of 1-year graft patency."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome is the 1-year SVG patency rate, assessed using coronary CT angiography."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "randomised into two groups (RIMA-SVG vs Ao-SVG) using computer-generated randomisation with allocation concealment."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding will be maintained for patients and data analysts."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The trial will randomise 150 participants to each group, with recruitment from February 2025 to July 2026."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events will be monitored"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT06787651."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study is funded by the Second Hospital of Jilin University."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12091215",
+  "sha256": "31273fd819eb6cf5a80a6ba894d77924d8f8b10d5214ac2d6bd50b3dc083ec62",
+  "timestamp_utc": "2025-11-09T22:14:57.683470+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.96339525283798,
+    "reading_ease": 40.3483746130031,
+    "word_count": 228
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of NPC-21 for CMV Prevention in Kidney Transplant Recipients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "multicenter, randomized, double-blind, placebo-controlled, phase 2 trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult KT recipients aged 18-75 years"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized in a 4:1:4 ratio to receive monthly 6 mg/kg NPC-21, 12 mg/kg NPC-21, or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluated the efficacy and safety of fiztasovimab (NPC-21), an anti-CMV monoclonal antibody, in kidney transplant (KT) recipients"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was CMV infection by week 16"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was stratified by region (United States or Japan) using an Interactive Response Technology system, with allocation concealed from investigators and patients"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 87 participants were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "CMV infections occurred in 76.3%, 81.8%, and 68.4% of patients"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "CMV infections occurred in 76.3%, 81.8%, and 68.4% of patients"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were observed"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

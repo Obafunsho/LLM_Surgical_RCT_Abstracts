@@ -1,0 +1,74 @@
+{
+  "pmcid": "3705144",
+  "sha256": "2738540a307cc4580ad152d71d51d4b717dae1c62ee8e54468fb217c7ff3a3f6",
+  "timestamp_utc": "2025-11-09T22:38:16.241716+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.974832474226805,
+    "reading_ease": 37.97451675257733,
+    "word_count": 194
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of [99m Tc]Tilmanocept for Sentinel Lymph Node Mapping in Breast Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "148 breast cancer patients without presurgical lymph node metastases were enrolled"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at 13 centers, 148 breast cancer patients without presurgical lymph node metastases were enrolled"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Each received [99m Tc]tilmanocept and vital blue dye (VBD)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates [99m Tc]tilmanocept, a receptor-targeted radiopharmaceutical, in SLN mapping"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the concordance of SLN detection between [99m Tc]tilmanocept and VBD, measured intraoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 148 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 148 patients, 207 of 209 nodes detected by VBD were also detected by [99m Tc]tilmanocept"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "achieving a concordance rate of 99.04% (p < 0.0001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No serious adverse events were attributed to [99m Tc]tilmanocept"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00671918 and NCT01106040"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Sponsored by Navidea Biopharmaceuticals"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The study was randomized, double blind, and sham controlled."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The study was randomized, double blind, and sham controlled."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "87 patients with chronic knee osteoarthritis were randomized"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to either cryoneurolysis or a sham procedure"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective was to investigate whether cryoneurolysis was superior to sham in reducing pain intensity in patients with chronic knee osteoarthritis."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the difference in average pain at 14 days after intervention"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "The study was randomized, double blind, and sham controlled."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 87 patients with chronic knee osteoarthritis were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "For the intention-to-treat analysis, no difference was observed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "no difference was observed for the primary outcome (0.49; 95% CI, \u20130.3 to 1.2; P = 0.198)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Cryoneurolysis was well tolerated, with minor, transient adverse effects."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

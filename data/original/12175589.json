@@ -1,0 +1,24 @@
+{
+  "pmcid": "12175589",
+  "pmid": "29945735",
+  "title": "Regional Lung Volume Changes with Non-Invasive Positive Pressure Ventilation in Healthy Adults",
+  "abstract": "Introduction:: Non-invasive assessments of lung volume distribution often require inhaled contrast and are limited by low regional resolution. We aimed to examine a non-contrast imaging method of spatial lung volume displacement, adapted to assess changes with non-invasive positive pressure ventilation (NIPPV)\n\nMethods:: This study evaluated regional lung volume displacement in nine healthy volunteers (6 males, 3 females; ages 29 – 55 years; BMI 20.2 – 31.3 kg/m 2 ) using X-ray velocimetry (XV). Participants were assessed during tidal breathing and, also with 15 cm H 2 O inspiratory and 5 cm H 2 O expiratory pressures in a supine position. Regional specific ventilation (SV) was measured during tidal breathing and NIPPV. Mean specific ventilation (MSV, mL/mL), low volume region (LVR; % < 0.1 mL/mL), and high-volume region (HVR; % > 0.3 mL/mL) were calculated as output variables. Images were segmented into lobar as well as central and peripheral zones. Two-way ANOVA and paired t-tests were used to determine regional differences within individuals and the effect of NIPPV.\n\nResults:: NIPPV increased MSV in both peripheral (p=0.01) and central (p=0.02) lung regions compared to tidal breathing. High volume regions increased in both peripheral (p=0.04) and central regions (p=0.04) during NIPPV.\n\nDiscussion:: This study demonstrates that non-contrast imaging techniques can assess regional lung ventilation and redistribution of lung volumes on NIPPV. Heterogeneous responses to NIPPV may be associated with distinct distribution of ventilation, and further work is needed to ascertain differential response to NIPPV due to lung pathology among those with respiratory disease.",
+  "authors": [
+    "D. Karmali",
+    "S. Afanador-Castiblanco",
+    "T. Ötvös",
+    "G. Aguilar",
+    "S. Hossen",
+    "N. Eikelis",
+    "K. Nilsen",
+    "N. M. Punjabi",
+    "T. Siddharthan",
+    "J. P. Kirkness"
+  ],
+  "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+  "year": "2025",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

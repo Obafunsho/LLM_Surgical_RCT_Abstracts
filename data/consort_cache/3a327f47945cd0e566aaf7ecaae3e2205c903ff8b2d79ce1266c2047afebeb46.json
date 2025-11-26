@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The POWER Trial: A Randomised Controlled Trial on Pre-Operative Endocrine Therapy in Early-Stage Breast Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted at [study setting]."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were older women with early-stage, ER-positive breast cancer."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received pre-ET, while the control group did not."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "investigates whether 3 months of pre-operative endocrine therapy (pre-ET) informs adjuvant radiation therapy decisions in older women with early-stage, ER-positive breast cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in Ki-67 expression, measured over 3 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was performed using [randomisation method] with allocation concealment by [method]."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Thirty-seven participants completed pre-ET and surgery."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Ki-67 expression decreased from 13% to 5% (p<0.001), and cellularity decreased from 40% to 23% (p<0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04272801"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

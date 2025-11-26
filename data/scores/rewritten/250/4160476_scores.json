@@ -1,0 +1,74 @@
+{
+  "pmcid": "4160476",
+  "sha256": "6c8159e98d0f123de4f4ccd3b2cb37cadb0bbeb4762fcf248fffc083add4f3be",
+  "timestamp_utc": "2025-11-09T22:41:19.321688+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.356453467481138,
+    "reading_ease": 10.874443047071509,
+    "word_count": 242
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing MRI- and CT-based Patient-Specific Instrumentation with Conventional Instrumentation in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Ninety patients were randomised into three groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients undergoing primary TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "MRI- and CT-based patient-specific instrumentation with conventional instrumentation"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the accuracy and clinical outcomes of MRI- and CT-based patient-specific instrumentation with conventional instrumentation in total knee arthroplasty (TKA)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the accuracy of coronal and sagittal alignment, measured postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ninety patients were randomised into three groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "MRI- and CT-based instrumentation showed higher accuracy in coronal limb axis compared to conventional instrumentation (MRI: 1.0° vs. 4.5°, p < 0.001; CT: 3.0° vs. 4.5°, p = 0.02)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

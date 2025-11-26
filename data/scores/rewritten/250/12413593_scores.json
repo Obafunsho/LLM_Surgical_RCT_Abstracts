@@ -1,0 +1,74 @@
+{
+  "pmcid": "12413593",
+  "sha256": "6d30af5f6958620713047f7b386ccedcee2542c25db65b1d0baa9dec21b1d8d9",
+  "timestamp_utc": "2025-11-09T22:25:27.219817+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.102071307300509,
+    "reading_ease": 35.735628183361655,
+    "word_count": 228
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Effectiveness of Gum Chewing in Relieving Postoperative Ileus Symptoms"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effectiveness of gum chewing in alleviating POI symptoms."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Meta-analysis showed significant reductions in time to first flatus (−7.4 h; 95% CI, −11.08 to −3.85; p = 0.0003) and defecation (−18.64 h; 95% CI, −25.0 to −12.27; p < 0.0001) in general/colorectal surgery."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42021234567."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: No external funding."
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

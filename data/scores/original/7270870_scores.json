@@ -1,0 +1,74 @@
+{
+  "pmcid": "7270870",
+  "sha256": "f001a2ff0277b1da5c92ddf16eaefda99106242e0fe04d55b3795af345489ced",
+  "timestamp_utc": "2025-11-09T16:12:39.162313+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.465157211209846,
+    "reading_ease": 25.113600478468925,
+    "word_count": 418
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Multicenter randomized clinical trial."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Multicenter randomized clinical trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing ultralow anterior rectal resection needing hand-sewn coloanal anastomosis were randomly assigned to 2-stage Turnbull-Cutait pull-through hand-sewn coloanal anastomosis or standard hand-sewn coloanal anastomosis associated with diverting ileostomy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients assigned to the 2-stage Turnbull-Cutait pull-through group underwent exteriorization of a segment of left colon through the anal canal and, after 6 to 10 days, the exteriorized colon was resected and a delayed hand-sewn coloanal anastomosis was performed. For patients assigned to standard coloanal anastomosis, the hand-sewn coloanal anastomosis was performed with diverting ileostomy at first operation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To compare 30-day postoperative and 1-year follow-up results of Turnbull-Cutait pull-through hand-sewn coloanal anastomosis and standard hand-sewn coloanal anastomosis after ultralow rectal resection for rectal cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcome was 30-day postoperative morbidity."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Neither patients nor surgeons were blinded for technique."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Ninety-two white patients, 72 men and 20 women, with a median age of 62 years, were randomized and included in the analysis."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Ninety-two white patients, 72 men and 20 women, with a median age of 62 years, were randomized and included in the analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 30-day overall composite postoperative complications rate was similar between the 2 groups (34.8% in 2-stage pull-through hand-sewn coloanal anastomosis group vs 45.7% in standard hand-sewn coloanal anastomosis group; P = .40), with a difference of −10.9 (95% CI, −29.5 to 8.9)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The 30-day overall composite postoperative complications rate was similar between the 2 groups (34.8% in 2-stage pull-through hand-sewn coloanal anastomosis group vs 45.7% in standard hand-sewn coloanal anastomosis group; P = .40), with a difference of −10.9 (95% CI, −29.5 to 8.9)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT01766661 ."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

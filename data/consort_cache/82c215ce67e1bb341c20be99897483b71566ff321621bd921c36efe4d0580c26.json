@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Continuous Ropivacaine Infusion for Post-Mastectomy Analgesia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "60 subjects undergoing unilateral or bilateral mastectomy were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "eligibility criteria including adult patients undergoing mastectomy. The study was conducted at a single hospital"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive either perineural ropivacaine 0.4% or normal saline via portable infusion pumps"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of adding a multiple-day, ambulatory, continuous ropivacaine paravertebral nerve block"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was average pain on postoperative day (POD) 1, measured on a 0\u201310 scale"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "triple-masked, placebo-controlled trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "60 subjects undergoing unilateral or bilateral mastectomy were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "the ropivacaine group (n=30) was 2 (interquartile range 0\u20133), compared to 4 (1\u20135) for the saline group (n=30)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "95% CI difference in medians, \u22124.0 to \u22120.3; P = 0.021"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

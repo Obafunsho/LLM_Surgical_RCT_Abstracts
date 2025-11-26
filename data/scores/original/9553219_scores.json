@@ -1,0 +1,74 @@
+{
+  "pmcid": "9553219",
+  "sha256": "dd08ee7dd141679c8df04acb5e3a18141f570710f4c0f978a4a25b4f8f037360",
+  "timestamp_utc": "2025-11-09T16:21:42.130665+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.901621233859398,
+    "reading_ease": 41.25543041606889,
+    "word_count": 328
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A substudy of a randomised controlled trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "One hundred and sixty-two patients with a BMI at least 35 kg per square metre undergoing elective open or laparoscopic surgery lasting at least 120 min."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised to PEEP of 4 cmH 2 O ( n = 79) or PEEP of 12 cmH 2 O with hourly ARMs ( n = 83)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To investigate the effects of PEEP levels and ARMs on ventilation distribution, oxygenation, haemodynamic parameters and cerebral oximetry."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the fraction of ventilation in the dependent lung as measured by electrical impedance tomography."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "One hundred and sixty-two patients with a BMI at least 35 kg per square metre undergoing elective open or laparoscopic surgery lasting at least 120 min."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Patients were randomised to PEEP of 4 cmH 2 O ( n = 79) or PEEP of 12 cmH 2 O with hourly ARMs ( n = 83)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Compared with low PEEP, high PEEP was associated with smaller intra-operative decreases in dependent lung ventilation [-11.2%; 95% confidence interval (CI) -8.7 to -13.7 vs. -13.9%; 95% CI -11.7 to -16.5; P = 0.029], oxygen saturation index (-49.6%; 95% CI -48.0 to -51.3 vs. -51.3%; 95% CI -49.6 to -53.1; P < 0.001) and a lower driving pressure (-6.3 cmH 2 O; 95% CI -5.7 to -7.0)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Haemodynamic parameters did not differ between the groups, except at the end of ARMs when arterial pressure and cardiac index decreased on average by -13.7 mmHg (95% CI -12.5 to -14.9) and by -0.54 l min -1 m -2 (95% CI -0.49 to -0.59) along with increased cerebral tissue oximetry (3.0 and 3.2% on left and right front brain, respectively)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "TRIAL REGISTRATION: NCT02148692 , https://clinicaltrials.gov/ct2"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "8294837",
+  "sha256": "3bf42f2bc9d2ca8a965a050966ccff02fdb8bce85c717c881f414e349822bb5f",
+  "timestamp_utc": "2025-11-09T16:17:27.071357+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.831387978142079,
+    "reading_ease": 10.458557377049175,
+    "word_count": 183
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This open-label, single-arm, phase 2 trial conducted at 5 transplant centers"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "evaluated the ability of imlifidase to create a negative crossmatch test within 24 h"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "evaluated the ability of imlifidase to create a negative crossmatch test within 24 h"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "This open-label, single-arm, phase 2 trial"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "89.5% demonstrated conversion of baseline positive crossmatch to negative within 24 h after imlifidase treatment"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Seven adverse events in 6 patients were classified as possibly or probably related to treatment and were mild-moderate in severity"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

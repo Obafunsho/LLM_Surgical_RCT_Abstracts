@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomized, double-blind, and longitudinal, with matched healthy control subjects"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "before and after 6 months of bilateral DBS in the GPi or the STN"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We made quantitative measures of jaw velocity to compare the relative effectiveness of DBS in the globus pallidus internus (GPi) or the subthalamic nucleus (STN)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The peak velocities of self-scaled and externally-scaled jaw movements were studied"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Randomized, double-blind, and longitudinal"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Self-scaled jaw velocity was impaired by the DBS procedure in STN; velocity was significantly decreased across all postoperative conditions compared to either the off- and on-levodopa baseline conditions."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

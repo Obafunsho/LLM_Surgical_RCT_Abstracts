@@ -1,0 +1,74 @@
+{
+  "pmcid": "12184701",
+  "sha256": "4e5514eaa3c8cdfb1bf7aac327097ae3737f829784b01e64520af883aa762212",
+  "timestamp_utc": "2025-11-09T22:18:06.882344+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.469000000000001,
+    "reading_ease": 35.099500000000035,
+    "word_count": 225
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Nalbuphine for Alleviating Catheter-Related Bladder Discomfort in Male Patients Undergoing Ureteroscopic Lithotripsy"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "male patients who underwent URL under general anesthesia at Jiaxing University Affiliated Hospital"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were categorized into four groups based on nalbuphine dosage: 0.025, 0.05, 0.075, and 0.10 mg/kg."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the median effective dose (ED50) and effective dose 95% (ED95) of nalbuphine for alleviating moderate-severe CRBD."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the CRBD score measured 5 minutes after laryngeal mask removal."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Data from 76 patients were analyzed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The ED50 of nalbuphine was 0.03 mg/kg (95% CI: 0.013–0.046), and the ED95 was 0.108 mg/kg (95% CI: 0.085–0.188)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The study was not registered"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "funding sources were not disclosed"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

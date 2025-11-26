@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We evaluated 40 consecutive patients"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "undergoing elective total arch replacement using 5- to 8-cm upper mini-sternotomy between 2018 and 2022"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "mini-access total arch replacement performed by stratified approaches and to evaluate perioperative outcomes"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We aimed to present a mini-access total arch replacement performed by stratified approaches and to evaluate perioperative outcomes"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "to evaluate perioperative outcomes"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "We evaluated 40 consecutive patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "lower risks of stroke (odds ratio, 0.88; 95% CI, 0.78-1.00; P = .049) and a composite of major complications (odds ratio, 0.79; 95% CI, 0.68-0.92; P = .003)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "2 patients experienced disabling stroke (5.0%)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

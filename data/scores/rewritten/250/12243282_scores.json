@@ -1,0 +1,74 @@
+{
+  "pmcid": "12243282",
+  "sha256": "6496586f6862e8c179860460fa8fa6a6d66d108ea82968c630a351a0b94a338b",
+  "timestamp_utc": "2025-11-09T22:19:36.188556+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.038052036199097,
+    "reading_ease": 35.60658031674211,
+    "word_count": 221
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Minimally Invasive Tissue-Selective Therapy Stapler (TST) for Severe Hemorrhoids"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised into three groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included ages 18-80, grades III-IV hemorrhoids, and no prior hemorrhoid surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "minimally invasive TST surgery compared to PPH and EPH techniques"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy and safety of minimally invasive TST surgery compared to PPH and EPH techniques."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was clinical efficacy, measured by symptom resolution at 3 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using block randomisation with a block size of 6, and allocation was concealed until surgery."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 141 patients with severe hemorrhoids were randomised into three groups: TST (n=47), PPH (n=47), and EPH (n=47)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The TST group showed a higher total effective rate (93.62%) compared to PPH (74.47%) and EPH (72.34%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The complication rate was lower in the TST group (10.64%) compared to PPH (27.66%) and EPH (31.91%)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

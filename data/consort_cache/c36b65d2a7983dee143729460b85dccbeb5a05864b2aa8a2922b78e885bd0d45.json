@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "DESIGN: Systematic review of randomised controlled trials with meta-analysis."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "DESIGN: Systematic review of randomised controlled trials with meta-analysis."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "ELIGIBILITY CRITERIA: Randomised controlled trials, which compared the intravenous with perineural administration of dexamethasone as a local anaesthetic adjunct in peripheral nerve blocks for surgery of the lower limb."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "ELIGIBILITY CRITERIA: Randomised controlled trials, which compared the intravenous with perineural administration of dexamethasone as a local anaesthetic adjunct in peripheral nerve blocks for surgery of the lower limb."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVES: To compare the pharmacodynamic characteristics of intravenous and perineural dexamethasone in the lower limb."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome, the duration of analgesia, was investigated by all nine trials ( n =\u200a546 patients)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The primary outcome, the duration of analgesia, was investigated by all nine trials ( n =\u200a546 patients)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Overall, compared with intravenous dexamethasone, perineural dexamethasone increased the duration of analgesia from 19.54 to 22.27\u200ah, a mean difference [95% confidence interval (CI) of 2.73 (1.07 to 4.38) h; P =\u200a0.001, I 2 =\u200a87]."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No differences were shown for any of the secondary outcomes related to efficacy and side effects."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

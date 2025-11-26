@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Incisional Negative Pressure Wound Therapy in Infrainguinal Vascular Surgery: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either iNPWT or sterile gauze dressings."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at Karolinska University Hospital and Stockholm South General Hospital, the trial included patients over 18 years undergoing elective open infrainguinal vascular surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either iNPWT or sterile gauze dressings."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed the effectiveness of incisional negative pressure wound therapy (iNPWT) versus standard gauze dressings in reducing surgical site infections (SSIs) and evaluating quality of life post-infrainguinal vascular surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of SSIs within 30 days, measured using the ASEPSIS scoring protocol."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was performed using an online system with a block size of ten."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "surgeons were blinded to the dressing type."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The study recruited 123 patients between 2018 and 2023."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 123 patients randomised, 109 completed the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "SSIs occurred in 15% of the iNPWT group and 25% of the control group (P = 0.340)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events related to the device led to withdrawal in 7 patients."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT03395613"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

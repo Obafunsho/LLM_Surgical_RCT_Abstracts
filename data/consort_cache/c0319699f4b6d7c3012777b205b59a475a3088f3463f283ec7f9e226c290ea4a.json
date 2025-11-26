@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "A single-center, prospective cohort study was conducted from July 2005 to June 2008."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Forty-two patients undergoing elective endovascular TAAA repair with custom-designed multi-branched stent-grafts were enrolled."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Forty-two patients undergoing elective endovascular TAAA repair with custom-designed multi-branched stent-grafts were enrolled."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to characterize the inflammatory and coagulopathic response after endovascular thoracoabdominal aortic aneurysm (TAAA) repair and evaluate its effect on post-operative renal function."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "White blood cell count (WBC), platelet count, prothrombin time (PT), and creatinine were measured in all patients."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Forty-two patients undergoing elective endovascular TAAA repair with custom-designed multi-branched stent-grafts were enrolled. Four patients were excluded, leaving 38 for analysis."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Four patients were excluded, leaving 38 for analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The 30-day mortality rate was 5% (2/38). All patients had increased WBC (139 \u00b1 80%, P<0.0001), decreased platelet count (56 \u00b1 15%, P<0.0001), and increased PT (median: 17%, IQR 12 - 22%, P<0.0001) post-procedure."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

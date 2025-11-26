@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial Comparing Partial and Circumferential Stapled Hemorrhoidopexy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-center, parallel-group, randomised, noninferiority trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "300 patients with grade III/IV hemorrhoids were recruited between August 2011 and November 2013"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned in a 1:1 ratio to receive either PSH (n = 150) or CSH (n = 150)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The long-term outcomes of partial stapled hemorrhoidopexy (PSH) versus circumferential stapled hemorrhoidopexy (CSH) for grade III/IV hemorrhoids remain unclear."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of recurrent prolapse at a median follow-up of 5 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "blocked randomisation with a fixed block size of 4. Allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Patients and outcome assessors were blinded to the intervention."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "300 patients with grade III/IV hemorrhoids were recruited between August 2011 and November 2013"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "PSH (n = 150) or CSH (n = 150)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 5-year cumulative recurrence rate was 9% (95% CI, 4%\u201313%) for PSH and 12% (95% CI, 7%\u201317%) for CSH (p = 0.137)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were minimal, with no rectovaginal fistulas reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: chiCTR-trc-11001506."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12438655",
+  "sha256": "506fa5782e5c4b81316fcdb2861ed91013c1565793edf2d0eadd844a1eaa0314",
+  "timestamp_utc": "2025-11-09T15:41:47.257056+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 7.868000000000002,
+    "reading_ease": 51.47700000000003,
+    "word_count": 36
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "2019年7月至2024年10月接受新辅助靶向治疗后进行手术切除的 EGFR 突变IIA-IIIB期肺腺癌患者"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "新辅助靶向治疗"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "本研究旨在通过分析新辅助靶向治疗在 EGFR 突变可手术切除肺腺癌患者中的有效性和安全性，探索其潜在的应用价值"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "共纳入来自3个中心的24例 EGFR 突变肺腺癌患者"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "客观缓解率（objective response rate, ORR）为83.3%（20/24），主要病理缓解率（major pathologic response, MPR）为37.5%（9/24），其中2例（8.3%）患者实现了病理完全缓解（pathological complete response, pCR）"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "在新辅助治疗期间，24例患者中有13例（54.2%）经历了1-2级不良事件，未出现3级及以上不良事件"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

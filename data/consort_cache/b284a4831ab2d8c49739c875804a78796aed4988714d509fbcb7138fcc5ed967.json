@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Modified Blumgart Mattress Suture in Pancreaticojejunostomy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Sample size calculation estimated 200 patients were needed to detect a difference with 80% power and a 0.05 significance level."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were those scheduled for PD, excluding those with severe comorbidities or requiring additional organ resection."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either the interrupted suture group or the modified Blumgart mattress suture group."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial (RCT) evaluated whether the modified Blumgart mattress suture technique during pancreaticojejunostomy (PJ) reduces the incidence of clinically relevant postoperative pancreatic fistula (POPF) after pancreaticoduodenectomy (PD)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of grade B/C POPF within 90 days, defined by the International Study Group on Pancreatic Fistula criteria."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computerised with a permuted block size of 4, stratified by pancreatic texture."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "224 patients scheduled for PD between June 2013 and May 2017 were randomised."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "A total of 103 patients in the interrupted suture group and 107 in the modified Blumgart group were analysed by intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Grade B/C POPF occurred in 7 patients (6.8%) in the interrupted group and 11 (10.3%) in the modified Blumgart group (P = 0.367)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered with ClinicalTrials.gov (NCT01898780)."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by institutional sources."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

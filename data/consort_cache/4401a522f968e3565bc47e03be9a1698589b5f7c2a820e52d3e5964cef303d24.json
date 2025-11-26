@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The patients were randomized into two groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We included 38 patients (40 limbs) undergoing limb lengthening or deformity correction using an external fixator"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "a polyhexamethylene biguanide group (22 limbs) and a control group (18 limbs)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We compared the rate of pin tract infection using plain gauze and gauze impregnated with polyhexamethylene biguanide"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The metal-skin interfaces were assessed by a researcher blinded to the type of gauze at 2, 4, 8, and 12 weeks after surgery for the pin site infection"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The patients were randomized into two groups"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "assessed by a researcher blinded to the type of gauze"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "We included 38 patients (40 limbs) undergoing limb lengthening or deformity correction using an external fixator between July 2009 and June 2010"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "polyhexamethylene biguanide group (n = 1068; 1.0%) than for the control group (n = 864; 4.5%)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "the risk for infection was lower (relative risk, 0.228; 95% confidence interval, 0.118, 0.443)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

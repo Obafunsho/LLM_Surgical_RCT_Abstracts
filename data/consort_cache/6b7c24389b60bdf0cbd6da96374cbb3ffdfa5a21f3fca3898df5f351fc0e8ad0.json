@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Since 2014, 298 CAS procedures in 287 non-consecutive patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "287 non-consecutive patients (203 men, mean age 70.5 \u00b18.6 years, 100% symptomatic/high risk lesions)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "performed using the Roadsaver stent and proximal (40%) or distal (60%) neuroprotection system"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Aim: To assess immediate and long-term safety and effectiveness of CAS using the Roadsaver double-nitinol-layer-micromesh stent."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Clinical and neurological examinations as well as duplex ultrasound were completed before CAS, before discharge, at 1, 6 and 12 months, then annually."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Since 2014, 298 CAS procedures in 287 non-consecutive patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 4-year follow-up showed 82% overall survival (95% CI: 69\u201391%)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "In hospital, 1 ipsilateral periprocedural major (0.3%) and 3 minor (1.34%) ischemic strokes occurred"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "9311282",
+  "sha256": "dd238f9b7d4c22543e8a1098141941520a8f2453d1a6218548cea8748f9c3f46",
+  "timestamp_utc": "2025-11-09T23:01:01.123051+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.226944971537005,
+    "reading_ease": 30.136888045540786,
+    "word_count": 217
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Immunosuppressive Regimens on COVID-19 Vaccine Response in Elderly Kidney Transplant Recipients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "elderly KTRs (≥65 years) were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "elderly KTRs (≥65 years) were randomised...The trial was conducted at the University Medical Center Groningen"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either a standard regimen of calcineurin inhibitor (CNI), mycophenolate mofetil (MMF), and prednisolone, or a regimen with low-dose CNI, everolimus, and prednisolone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effect of different immunosuppressive regimens on vaccine response."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was seroconversion rate, measured after 2 and 3 COVID-19 mRNA vaccinations."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was open-label"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Randomisation was open-label, and outcome assessors were not blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "32 participants analysed for humoral response and 15 for cellular response."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "32 participants analysed for humoral response and 15 for cellular response."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Seroconversion rates were 13% and 38% in the MMF group after 2 and 3 vaccinations, respectively, compared to 56% (p = 0.009) and 100% (p = 0.006) in the everolimus group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT03797196"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

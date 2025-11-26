@@ -1,0 +1,74 @@
+{
+  "pmcid": "12250653",
+  "sha256": "89be57f77370d22cbdb83d40d422630e4cdc351f732e7d474ff488bf5c751978",
+  "timestamp_utc": "2025-11-09T23:31:16.633171+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.672098214285715,
+    "reading_ease": 25.922604166666673,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Preoperative Vascular Mapping on Long-term RC-AVF Failure"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at the Vascular Surgery Department, Emergency County Hospital of Târgu Mureș, this retrospective, monocentric, observational study enrolled 110 patients with end-stage kidney disease (ESKD) from 2018 to 2024."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the role of preoperative vascular mapping in long-term radio-cephalic arteriovenous fistula (RC-AVF) failure, focusing on adherence to European Society of Vascular Surgery (ESVS) guidelines."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was long-term RC-AVF failure, monitored over a mean follow-up of 1.98 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "this retrospective, monocentric, observational study enrolled 110 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Adherence to guidelines correlated with reduced long-term failure (HR: 0.44, p = 0.012), but this lost significance after adjusting for cardiovascular risk factors and CVC presence (HR: 0.69, p = 0.328). Only cephalic vein diameter remained an independent predictor (HR: 0.68, p = 0.026)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

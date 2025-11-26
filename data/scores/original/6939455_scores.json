@@ -1,0 +1,74 @@
+{
+  "pmcid": "6939455",
+  "sha256": "1a523a775e6075e942f66c1cc7246a9eb17e3f9dd80eccbbd43b04c2b736dc70",
+  "timestamp_utc": "2025-11-09T16:11:10.043528+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.885674796747967,
+    "reading_ease": 17.54997560975613,
+    "word_count": 246
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "SAVR patients in a randomized trial of two embolic protection devices"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "randomized trial of two embolic protection devices"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we investigated the association between epiaortic ultrasound-based atheroma grade during surgical aortic valve replacement (SAVR) and perioperative adverse outcomes"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "adverse outcomes including death, clinically apparent stroke, cerebral infarction on diffusion-weighted magnetic resonance imaging (DW-MRI), delirium, and acute kidney injury (AKI) by 7 and 30 days"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 383 randomized patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "326 (85.1%) had pre-cannulation epiaortic ultrasound data available"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "adjusted odds ratio [OR]: 2.63; 95% confidence interval [CI]: 1.24–5.58; p=0.01"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "moderate/severe atheroma grade was associated with a greater risk of AKI by 7 days"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

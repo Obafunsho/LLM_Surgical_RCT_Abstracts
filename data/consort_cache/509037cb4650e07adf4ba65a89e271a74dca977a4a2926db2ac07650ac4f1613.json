@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The participants were randomized 1:1:1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study population consisted of 51 women \u226536 gestational weeks with planned vaginal delivery at S\u00f6dersjukhuset, Stockholm"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized 1:1:1:1 to receive 2\u2009g of tranexamic acid as an oral solution, tablets, effervescent tablets, or 1\u2009g of intravenous tranexamic acid"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study aims to assess the uptake of oral tranexamic acid during active labor."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Our main outcome measures were time to therapeutic level, duration in therapeutic interval, and maximum plasma concentration of tranexamic acid."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The participants were randomized 1:1:1:1"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The study population consisted of 51 women...from December 2022 through February 2023."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Overall, 37 women (88%) found the intake of oral tranexamic acid during active labor acceptable."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Therapeutic level (5.0\u2009mg/L) was reached at the 2\u2010h time point for oral (7.11\u2009\u00b1\u20093.31\u2009mg/L) and the 30\u2010min time point for intravenous forms (30.6\u2009\u00b1\u200915.0\u2009mg/L)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

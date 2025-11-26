@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: A Randomised Controlled Trial Comparing Lobar and Sublobar Resection in Peripheral cT1aN0 NSCLC"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to LR (357) or sublobar resection (SLR) (340)"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to LR (357) or sublobar resection (SLR) (340)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was DFS over five years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "697 patients were enrolled between June 2007 and March 2017."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 362 patients underwent LR, 131 SR, and 204 WR."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Five-year DFS was 64.7% for LR, 63.8% for SR, and 62.5% for WR (p = 0.888)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

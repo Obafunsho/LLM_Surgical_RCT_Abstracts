@@ -1,0 +1,74 @@
+{
+  "pmcid": "12448043",
+  "sha256": "ae853a34afa6a0f09a7c4a5882a60d3773360fff13e5c4ea48099d3e4e649d16",
+  "timestamp_utc": "2025-11-09T22:27:20.264886+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.382511210762335,
+    "reading_ease": 22.500079337702687,
+    "word_count": 223
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of ROTEM®-Guided Transfusion Strategy in Obstetric Haemorrhage"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details are not applicable as this was a retrospective analysis."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at the Rotunda Hospital, Dublin, this trial included 944 women experiencing PPH ≥1500 ml over five years."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "evaluate the effectiveness of a ROTEM®-guided transfusion strategy compared to conventional transfusion methods"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effectiveness of a ROTEM®-guided transfusion strategy compared to conventional transfusion methods in managing postpartum haemorrhage (PPH) ≥1500 ml."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the overall consumption of blood coagulation products, measured over one year post-implementation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details are not applicable as this was a retrospective analysis."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details are not applicable as this was a retrospective analysis."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "this trial included 944 women experiencing PPH ≥1500 ml over five years"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Participants were retrospectively analysed, with 238 women in the post-ROTEM® group and 706 in the pre-ROTEM® group."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The post-ROTEM® group showed a 46% reduction in fibrinogen concentrate use, a 72% decrease in Octaplas®, and a 79% reduction in platelet use, resulting in a cost saving of €51,738."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Cell Salvage in Obstetrics"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "34 patients undergoing elective Caesarean section at the Royal Cornwall Hospital were alternately assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "34 patients undergoing elective Caesarean section at the Royal Cornwall Hospital"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing one versus two suction devices"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate amniotic fluid (AF), heparin, and fetal red cell contamination"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the reduction of AF, heparin, and fetal red cells post-filtration"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was alternate assignment"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "no blinding was implemented"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "34 patients undergoing elective Caesarean section at the Royal Cornwall Hospital were alternately assigned to Group 1 (n=17, one suction) or Group 2 (n=17, two suctions) over a 4-month period"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Group 1 (n=17, one suction) or Group 2 (n=17, two suctions)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Post-filtration, alpha-fetoprotein (AFP), squames cells, and heparin were significantly reduced (P<0.001) in both groups"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by an educational grant from Pall Medical"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

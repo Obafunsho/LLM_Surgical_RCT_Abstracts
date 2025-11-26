@@ -1,0 +1,74 @@
+{
+  "pmcid": "11419535",
+  "sha256": "11490189509698f4f2ff6476e183a8afe57171ef7e9c3e134971fe6330f03aec",
+  "timestamp_utc": "2025-11-09T23:16:00.573979+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.921017811704836,
+    "reading_ease": 28.35042408821039,
+    "word_count": 262
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Personalized Pain Education and Management in Orthopaedic Trauma: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "212 patients were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with orthopaedic trauma"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention consisted of personalized pain education and management by coaches, while the control group received standard written discharge instructions."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed the impact of personalized pain education and management"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the mean pain score at 12 weeks, measured using the pain numeric rating scale."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Conducted between February 2021 and September 2022, 212 patients were randomised to either the intervention group (104 patients) or the control group (108 patients)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 72 intervention and 57 control patients, following a per-protocol approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The odds ratio for achieving the minimum clinically important difference in pain scores was 2.2 (95% CI 0.9 to 5.3; p = 0.08)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

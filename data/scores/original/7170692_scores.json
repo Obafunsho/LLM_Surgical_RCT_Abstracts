@@ -1,0 +1,74 @@
+{
+  "pmcid": "7170692",
+  "sha256": "5e8f0eac1c66248e938d9b2d055e0c23654b70302f1aa803fe2c966ecd10ba51",
+  "timestamp_utc": "2025-11-09T16:12:22.777735+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.723333333333336,
+    "reading_ease": 26.35833333333335,
+    "word_count": 300
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Forty-six patients were randomly assigned"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Forty-six patients were randomly assigned"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "AR-based portable navigation system (AR navigation group) or placement of a mechanical alignment guide (conventional group)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Is acetabular component placement more accurate using the AR-based portable navigation system compared with the conventional freehand technique?"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "We compared the absolute value of the difference between the targeted placement angle and postoperative measured placement angle"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Forty-six patients were randomly assigned"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty-six patients were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the mean differences between the targeted placement angle and postoperative measured angle were smaller in the AR navigation group than in the conventional group for both radiographs and CT images (2.3° ± 1.4° versus 3.9° ± 2.4°, respectively; p = 0.009 and 1.9° ± 1.3° versus 3.4° ± 2.6°, respectively; p = 0.02)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No complications were associated with the use of the AR-based portable navigation system"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

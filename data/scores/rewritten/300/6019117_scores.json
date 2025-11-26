@@ -1,0 +1,74 @@
+{
+  "pmcid": "6019117",
+  "sha256": "74e7c859c3fc374724d1207cd95de074c7d20616820e35314b25c748a8cb6a9e",
+  "timestamp_utc": "2025-11-10T00:00:17.319665+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.618739495798323,
+    "reading_ease": 22.358613445378154,
+    "word_count": 238
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "CHAMP: A Randomised Controlled Trial of Mesenchymal Stromal Cells in Critical Limb Ischemia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised to receive intramuscular injections of allogeneic MSCs (n=16) or autogenous concentrated bone marrow aspirate (cBMA, n=16)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study setting included [study location], with eligibility criteria encompassing patients with rest pain or tissue loss."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive intramuscular injections of allogeneic MSCs (n=16) or autogenous concentrated bone marrow aspirate (cBMA, n=16)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to assess the safety and therapeutic mechanisms of mesenchymal stromal cells (MSC) in patients with CLI requiring below-knee amputation (BKA)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was proangiogenic cytokine expression, assessed at the time of amputation."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment achieved through sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The phase I/II CHAMP trial enrolled 32 extremities with CLI requiring BKA"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "To date, ten patients have been treated per protocol."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Preliminary findings suggest potential efficacy in enhancing proangiogenic cytokine expression."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were monitored, with no severe events reported thus far."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

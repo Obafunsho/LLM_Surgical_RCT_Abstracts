@@ -1,0 +1,74 @@
+{
+  "pmcid": "10556815",
+  "sha256": "ea09b86a3709374916b46c1881fbeb72de0d0ccccb125fd9c9ea86586928907b",
+  "timestamp_utc": "2025-11-09T15:09:38.760690+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 18.73262453531599,
+    "reading_ease": -7.29967534076826,
+    "word_count": 269
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Isolated mouse (wild-type, sensitive regulatory subunit 1 [−/−], and cardiac knockout renal outer medullary potassium) hearts were given cardioplegia ± diazoxide (N = 9-16 each) before global ischemia (90 minutes) and 30 minutes reperfusion."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that pharmacologic blockade or genetic deletion (knockout) of renal outer medullary potassium and sensitive regulatory subunit 1 would result in loss of diazoxide cardioprotection in models of global ischemia with cardioplegia."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Left ventricular pressures were compared before and after ischemia."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "N = 9-16 each"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "In isolated hearts, diazoxide improved left ventricular function after prolonged ischemia compared with cardioplegia alone in wild-type and knockout (sensitive regulatory subunit 1 [−/−] and cardiac knockout renal outer medullary potassium) mice."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

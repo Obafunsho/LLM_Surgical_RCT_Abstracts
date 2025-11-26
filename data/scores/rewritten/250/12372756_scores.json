@@ -1,0 +1,74 @@
+{
+  "pmcid": "12372756",
+  "sha256": "65a31c8e8168f7cf8c49e6ec288cfaff2132bce5fa8291a4ecb54e96d35cbcd6",
+  "timestamp_utc": "2025-11-09T22:23:42.029473+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.202238325281808,
+    "reading_ease": 17.136159420289886,
+    "word_count": 216
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial Comparing Endovascular and Open Repair for Descending Thoracic Aortic Aneurysm"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable as this was a meta-analysis."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aimed to evaluate the efficacy of endovascular versus open repair for descending thoracic aortic aneurysm (DTAA)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of endovascular versus open repair for descending thoracic aortic aneurysm (DTAA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative mortality, measured over the short-term period."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable as this was a meta-analysis."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not performed."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Endovascular repair was associated with significantly lower postoperative mortality (OR: 0.57, 95% CI: 0.45-0.72) and morbidity."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

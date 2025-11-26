@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomly divided 94 patients into two treatment groups."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "percutaneous repetitive sclerotherapy using polidocanol (Group 1) with those with intralesional excision (extended curettage with a high-speed burr) and bone grafting (Group 2)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We therefore compared the healing rates and functional scores in patients having percutaneous repetitive sclerotherapy using polidocanol (Group 1) with those with intralesional excision (extended curettage with a high-speed burr) and bone grafting (Group 2) for treatment of aneurysmal bone cyst."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We assessed healing rates (primary outcome measure), pain relief, time to healing and recurrence, hospital stay, and the Enneking functional score."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomly divided 94 patients into two treatment groups."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomly divided 94 patients into two treatment groups."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Forty-five patients from Group 1 and 46 from Group 2 were available for study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At last followup, 93.3% in Group 1 and 84.8% in Group 2 had achieved healing."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complications in Group 1 were minor and resolved. In Group 2, three patients had deep infections and five had superficial infections, and two had growth disturbances."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

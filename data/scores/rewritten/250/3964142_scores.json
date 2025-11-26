@@ -1,0 +1,74 @@
+{
+  "pmcid": "3964142",
+  "sha256": "58ccb2b5d49f191e086490e2eb736da0c821b2d2a0e073c4d72d5136479dbacf",
+  "timestamp_utc": "2025-11-09T22:40:36.720902+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.93812144212524,
+    "reading_ease": 28.286005692599616,
+    "word_count": 248
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Single Ventricle Reconstruction Trial: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either a modified Blalock-Taussig shunt or a right ventricle-to-pulmonary artery shunt."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial included 393 participants with single right ventricle lesions, recruited from multiple centers."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either a modified Blalock-Taussig shunt or a right ventricle-to-pulmonary artery shunt."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The Single Ventricle Reconstruction trial aimed to compare outcomes of two shunt types in patients with single right ventricle lesions undergoing the Norwood procedure."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was hospital length of stay (LOS) at the stage II procedure, measured in days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, with allocation concealment ensured by sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 393 participants were randomised, with 196 receiving the modified Blalock-Taussig shunt and 197 receiving the right ventricle-to-pulmonary artery shunt."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The median stage II procedure hospital LOS was 8 days (IQR 6, 14), with no significant difference between shunt types."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Hospital mortality was 4.3%, and transplantation occurred in 0.8% of cases."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The trial was registered under [Trial Registration Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding was provided by [Source of Funding]."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

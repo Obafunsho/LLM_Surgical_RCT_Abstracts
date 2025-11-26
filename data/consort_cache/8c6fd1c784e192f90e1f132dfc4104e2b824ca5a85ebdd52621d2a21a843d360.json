@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Simple Trapeziectomy and Trapeziectomy with Ligament Reconstruction and Tendon Interposition for Trapeziometacarpal Joint Osteoarthritis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 54 participants with painful trapeziometacarpal joint osteoarthritis were randomised"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "54 participants with painful trapeziometacarpal joint osteoarthritis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either simple trapeziectomy (n=25) or trapeziectomy with ligament reconstruction and tendon interposition (LRTI) (n=29)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate radiographic progression of degenerative joint disease, changes in pseudarthrosis height, and the association of degenerative changes with clinical outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Radiographic changes were assessed using the Kellgren and Lawrence system, and clinical outcomes were measured using the Patient Evaluation Measure (PEM), Disabilities of the Arm, Shoulder and Hand (DASH) questionnaires, and thumb key pinch strength at 1-year and 6-year follow-ups."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "54 participants with painful trapeziometacarpal joint osteoarthritis were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Increased degenerative changes were observed in 7/25 simple trapeziectomy cases and 1/29 LRTI cases."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

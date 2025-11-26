@@ -1,0 +1,74 @@
+{
+  "pmcid": "3916618",
+  "sha256": "6088a6847b44e0ee6421e6914bfbddda615d8edfa86c2f1797e8b1e57c879843",
+  "timestamp_utc": "2025-11-09T23:51:40.900085+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.641628498727737,
+    "reading_ease": 23.184011874469917,
+    "word_count": 262
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Effects of Unloader Knee Braces on Tibiofemoral Joint Loading"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to varus, valgus, or no brace conditions."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "20 healthy participants (mean age 28.3 years; BMI 22.9 kg/m²) with normal knee alignment were recruited."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to varus, valgus, or no brace conditions."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the impact of varus and valgus adjustments on knee joint loading and muscle activation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the knee adduction moment, assessed during gait analysis over a specified timeframe."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation concealment was ensured."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "20 healthy participants (mean age 28.3 years; BMI 22.9 kg/m²) with normal knee alignment were recruited."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Despite the lack of statistical significance, the observed effect sizes were moderate to large, suggesting the potential for further investigation."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported during the study."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Free Dermal Fat Graft and Superficial Musculoaponeurotic System Flap in Superficial Parotidectomy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Sample size was calculated to detect differences in Frey\u2019s syndrome incidence with 80% power and a 5% significance level."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at a single centre, this prospective study included 78 adult patients undergoing superficial conservative parotidectomy for benign indications."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised into two equal groups using a closed envelope method: one group received FDFG, and the other received SMAS flap."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to compare the effectiveness of free dermal fat graft (FDFG) and superficial musculoaponeurotic system (SMAS) flap in reducing these complications."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the development of Frey\u2019s syndrome, assessed at 6 months postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was concealed, and outcome assessors were blinded."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Randomisation was concealed, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between February 2016 and October 2021, 78 patients were randomised equally."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "78 patients were randomised equally."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "There was no significant difference in the incidence of Frey\u2019s syndrome between the FDFG and SMAS groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were minimal, with mild infection and seroma occurring only in the FDFG group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT05452837."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

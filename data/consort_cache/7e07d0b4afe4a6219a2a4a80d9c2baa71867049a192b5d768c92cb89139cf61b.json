@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "25 patients who underwent EVLA from April 2022 to June 2023 at the Hospital das Cl\u00ednicas de Pernambuco/UFPE"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study evaluates hemodynamic and anatomic changes in great saphenous vein (GSV) tributaries after endovenous laser ablation (EVLA)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: This study evaluates hemodynamic and anatomic changes in great saphenous vein (GSV) tributaries after endovenous laser ablation (EVLA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "All patients were evaluated by Doppler ultrasound preoperatively and 3 months after the surgical treatment."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "This case series analyzed 112 areas in 28 lower limbs of 25 patients who underwent EVLA from April 2022 to June 2023"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The results included 28 lower limbs from 23 patients"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Ninety days after EVLA, all treated GSVs were occluded. The average diameter of GSV decreased in all four regions studied: saphenous-femoral junction, medium thigh, knee, and medium leg ( P \u2264 .001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

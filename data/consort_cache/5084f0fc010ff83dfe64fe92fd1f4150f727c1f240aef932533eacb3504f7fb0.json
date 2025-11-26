@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Total Arterial Revascularization vs. Single Internal Thoracic Artery with Saphenous Vein Graft in Elderly Patients Undergoing Off-Pump Coronary Artery Bypass Grafting"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This single-center retrospective study included 598 patients aged >70 years who underwent coronary revascularization from August 2017 to July 2023."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Propensity score matching was used to create TAR and single ITA\u2009+\u2009SVG groups with 1:1 ratio (100 patients in each group)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate whether total arterial revascularization (TAR) offers survival and freedom from major adverse cardiac or cerebrovascular events (MACCE) benefits in elderly patients with multivessel coronary artery disease undergoing off-pump coronary artery bypass grafting (OPCAB), compared to using a single internal thoracic artery (ITA) with additional saphenous vein graft (SVG)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was survival and MACCE-free rates over 5 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Propensity score matching was used to create TAR and single ITA\u2009+\u2009SVG groups with 1:1 ratio (100 patients in each group)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Univariable analysis showed that TAR (HR = 0.74, 95% CI = 0.44\u20131.22, p = 0.233) and complete revascularization (HR = 0.61, 95% CI = 0.34\u20131.09, p = 0.094) were not significant risk factors for long-term mortality."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not specifically reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

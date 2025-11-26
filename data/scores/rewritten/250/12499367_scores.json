@@ -1,0 +1,74 @@
+{
+  "pmcid": "12499367",
+  "sha256": "cb68d84dc0abde0d9a65c4804932215ee935de9d0115801cf75e254df7c83491",
+  "timestamp_utc": "2025-11-09T22:30:22.200072+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.602057788944723,
+    "reading_ease": 22.434242462311573,
+    "word_count": 199
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Esketamine for PONV Prophylaxis in Gynecological Laparoscopy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this single-center, double-blind trial, 150 patients aged 18–60 years, ASA I–II, undergoing elective GLS at the Third Affiliated Hospital of Sun Yat-Sen University were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "150 patients aged 18–60 years, ASA I–II, undergoing elective GLS at the Third Affiliated Hospital of Sun Yat-Sen University"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive esketamine (0.25mg/kg, n=75) or sufentanil (0.1μg/kg, n=75)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates esketamine, an NMDA receptor antagonist, for PONV prophylaxis compared to sufentanil."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was PONV incidence and severity within 48 hours postoperation."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed in opaque envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind trial... Outcome assessors and data collectors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "150 patients... randomized to receive esketamine (0.25mg/kg, n=75) or sufentanil (0.1μg/kg, n=75)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The esketamine group showed significantly lower PONV incidence in the PACU (57.3% vs 36%, p=0.014) and at 24 hours (53.3% vs 36%, p=0.048)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2300075533."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

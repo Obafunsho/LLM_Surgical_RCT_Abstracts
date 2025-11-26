@@ -1,0 +1,74 @@
+{
+  "pmcid": "3819730",
+  "sha256": "c21c041dd9b1ebff5271c73d20a18e6b1387b7f65f27a221726bb4433adc10b2",
+  "timestamp_utc": "2025-11-09T22:39:07.258267+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.512121212121212,
+    "reading_ease": 39.28818181818184,
+    "word_count": 198
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This was a retrospective cohort study involving 4,987 cardiac surgery patients from 2002 to 2007 at a medical center in northern New England."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the association between the duration of AKI and long-term survival."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Adjusted hazard ratios (HR) for mortality, with no AKI as the referent, were: 1–2 days (18%, HR 1.66; 95% CI 1.32–2.09), 3–6 days (11%, HR 1.94; 95% CI 1.51–2.49), and ≥7 days (9%, HR 3.40; 95% CI 2.73–4.25)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

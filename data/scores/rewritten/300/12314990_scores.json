@@ -1,0 +1,74 @@
+{
+  "pmcid": "12314990",
+  "sha256": "f37f9e8ef1719b4fd591556c1750f217b0976314ea82c15ac2131fd0d74d4239",
+  "timestamp_utc": "2025-11-09T23:32:56.733490+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.779297188755024,
+    "reading_ease": 13.741154618473928,
+    "word_count": 249
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Hydrocortisone for Prevention of Postoperative Delirium in Digestive Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This multicentre, randomised, blinded, placebo-controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 65 and older undergoing digestive surgery at three hospitals in Japan"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either 500 mg HC or placebo intravenously before surgery"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial evaluates the effectiveness of hydrocortisone (HC) in preventing POD."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome is the incidence of POD from postoperative days 1 to 3"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation is stratified by age, sex, disease stage, and procedure type, with allocation concealed via a web-based system."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding includes patients, surgeons, anaesthesiologists, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "As of May 2025, 61 of the planned 180 participants have been enrolled."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis will be conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No serious adverse events have been reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: jRCTs041240032."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The trial is supported by Nagoya University Hospital."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

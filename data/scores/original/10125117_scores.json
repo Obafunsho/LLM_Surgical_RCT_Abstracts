@@ -1,0 +1,74 @@
+{
+  "pmcid": "10125117",
+  "sha256": "518823839fe26e77e657ac6efa8929c831c7de07dbcf15bbb179f9f271770a20",
+  "timestamp_utc": "2025-11-09T15:05:14.499184+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 5.493669467787118,
+    "reading_ease": 72.97794117647062,
+    "word_count": 204
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The 3-mo 2-h OGTT (end of treatment) was 141.00 ± 62.44 mg/dL in the sitagliptin arm and 165.22 ± 72.03 mg/dL ( P = 0.218) in the placebo arm."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The primary efficacy objective was to improve 2-h oral glucose tolerance test (OGTT) by > 20 mg/dL at 3 mo posttransplant."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary efficacy objective was to improve 2-h oral glucose tolerance test (OGTT) by > 20 mg/dL at 3 mo posttransplant."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty-one patients consented, and 50 patients were analyzed."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Sixty-one patients consented, and 50 patients were analyzed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The 3-mo 2-h OGTT (end of treatment) was 141.00 ± 62.44 mg/dL in the sitagliptin arm and 165.22 ± 72.03 mg/dL ( P = 0.218) in the placebo arm."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Participants tolerated sitagliptin well."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

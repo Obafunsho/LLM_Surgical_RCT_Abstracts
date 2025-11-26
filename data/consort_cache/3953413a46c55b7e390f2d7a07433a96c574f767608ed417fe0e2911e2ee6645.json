@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Monocentric retrospective study on 26 patients affected by head and neck paragangliomas"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "26 patients affected by head and neck paragangliomas"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "preoperatively treated with internal carotid artery stents"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "the indications and results of preoperative internal carotid artery stenting should be critically assessed"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "26 patients affected by head and neck paragangliomas"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Gross total tumor resection was possible in 85% of cases"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The stent complication rate was less than 3.1%"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "sixty-six supracondylar femoral fractures (OTA/AO classification of 33A or 33C) treated at a single institution"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that three-dimensional (3-D) fracture-site motion as estimated by finite element (FE) analysis would influence callus formation"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Callus formation was assessed radiographically for all patients at six, twelve, and twenty-four weeks postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "sixty-six supracondylar femoral fractures"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Longitudinal motion promoted callus formation at twelve and twenty-four weeks (p = 0.017 for both). Shear inhibited callus formation at twelve and twenty-four weeks (p = 0.017 and p = 0.022, respectively)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

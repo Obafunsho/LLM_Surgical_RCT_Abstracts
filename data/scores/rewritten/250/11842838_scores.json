@@ -1,0 +1,74 @@
+{
+  "pmcid": "11842838",
+  "sha256": "48487a0e5c5862a063bd0e34219131f637eaaf2fcf14b1da9ac2ca5cfa837c53",
+  "timestamp_utc": "2025-11-09T22:09:14.631938+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.349887920298883,
+    "reading_ease": 34.81083437110834,
+    "word_count": 219
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective cohort study included 379 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "379 patients with over 50% total body surface area burns admitted to three burn centers in China"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to explore the relationship between RBC transfusion volume and mortality in burn patients."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was in-hospital mortality."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The relationship between RBC transfusion volume and mortality was L-shaped, with a significant increase in risk at low transfusion volumes (p < 0.0001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

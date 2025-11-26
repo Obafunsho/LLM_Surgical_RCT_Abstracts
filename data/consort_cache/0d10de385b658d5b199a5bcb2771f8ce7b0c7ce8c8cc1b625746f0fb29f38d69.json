@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study aimed to assess the impact of common cardiovascular comorbidities on echocardiographic evaluation of aortic stenosis (AS) in a hospital setting."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "We retrospectively analyzed medical records of 234 hospitalized patients with moderate to severe AS, excluding those with acute myocardial infarction, prior valvular surgery, and congenital heart defects."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We retrospectively analyzed medical records of 234 hospitalized patients with moderate to severe AS, excluding those with acute myocardial infarction, prior valvular surgery, and congenital heart defects."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the impact of common cardiovascular comorbidities on echocardiographic evaluation of aortic stenosis (AS) in a hospital setting."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the alteration in echocardiographic parameters due to comorbidities, measured within one month of admission."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Among the 234 patients (median age 76, 47.4% female), 85.0% had severe AS."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "AF was associated with lower aortic valve mean pressure gradient (AVGmean, p = 0.001), peak velocity (Vmax, p < 0.001), and stroke volume (SV, p = 0.01), and higher left atrial (LA) area (p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

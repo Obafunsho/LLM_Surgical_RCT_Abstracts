@@ -1,0 +1,74 @@
+{
+  "pmcid": "6696995",
+  "sha256": "8daaafa0d461baa2109fc0d34bfba832ef721e51af793574d9ca60012c801978",
+  "timestamp_utc": "2025-11-09T22:51:38.255673+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.60486473070241,
+    "reading_ease": 36.69230081906181,
+    "word_count": 237
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Plasma Biomarker Kinetics in Identifying Postoperative Pulmonary Complications: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Two hundred and forty-two adult patients scheduled for abdominal surgery and at risk of PPCs were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This preplanned substudy of the PROVHILO trial was conducted in the operating rooms of five centers. Two hundred and forty-two adult patients scheduled for abdominal surgery and at risk of PPCs"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either high (12 cmH2O) or low (≤2 cmH2O) PEEP"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether plasma biomarker kinetics can identify patients at risk of PPCs and if these kinetics are influenced by intraoperative positive end-expiratory pressure (PEEP) levels."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was a composite of individual PPCs."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 242 patients were randomised: 120 to high PEEP and 122 to low PEEP."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on all patients using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Increases in TNF-α, IL-6, IL-8, and CC-16, and a decrease in SP-D were more pronounced in patients developing PPCs, but the area under the curve was low for all biomarkers."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: clinicaltrials.gov (PROVHILO trial)."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

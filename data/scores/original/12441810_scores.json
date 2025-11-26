@@ -1,0 +1,74 @@
+{
+  "pmcid": "12441810",
+  "sha256": "3af593257e9f64640f958d585d89c3729f84ac810e51170c9b0c22b583a9da63",
+  "timestamp_utc": "2025-11-09T15:41:59.693402+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.225310104529619,
+    "reading_ease": 19.983307781649273,
+    "word_count": 287
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with clinically staged cT1 to cT2 proximal gastric cancer who underwent either PG‐DTR or TG with Roux‐en‐Y reconstruction (TG‐RY) were enrolled."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aimed to compare the outcomes of PG‐DTR with those of TG in patients with proximal gastric cancer."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the outcomes of PG‐DTR with those of TG in patients with proximal gastric cancer."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Quality of life (QOL) was assessed at 3, 6, and 12 months postoperatively using the Postgastrectomy Syndrome Assessment Scale‐45 (PGSAS‐45)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "After PSM, 93 patients were included in each group (PG‐DTR and TG‐RY)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The PG‐DTR group had fewer retrieved lymph nodes than the TG‐RY group. No significant differences were observed between the groups in operative time, blood loss, postoperative complications, length of hospital stay, reflux esophagitis, overall survival (OS), or disease‐free survival (DFS)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Female sex, preoperative BMI, TG‐RY procedure, and severe postoperative complications (POCs) were identified as independent risk factors for malnutrition at 3 months postgastrectomy."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

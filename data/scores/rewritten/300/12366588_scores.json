@@ -1,0 +1,74 @@
+{
+  "pmcid": "12366588",
+  "sha256": "d5c8c19610e9bb2b28bfdb0d86b28f935a0fc9d7c8300711fd3d340cc1d4dcb3",
+  "timestamp_utc": "2025-11-09T23:34:43.289259+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.197179536679542,
+    "reading_ease": 23.510827220077232,
+    "word_count": 259
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial Comparing Carotid and IVC Ultrasound Measurements for Predicting Postinduction Hypotension in Older Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This prospective observational study included 102 older adults scheduled for elective gastrointestinal surgery"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria were age 65-75 years, ASA physical status II-III, and BMI 15-30 kg/m²."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aimed to compare the predictive effects of carotid and inferior vena cava (IVC) ultrasound measurements on PIH."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the predictive effects of carotid and inferior vena cava (IVC) ultrasound measurements on PIH."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "PIH was defined as a >30% decrease in systolic blood pressure (SBP) or SBP <90 mm Hg within 15 minutes post-induction."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "This prospective observational study included 102 older adults scheduled for elective gastrointestinal surgery, conducted from January to June 2022."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The area under the receiver operating characteristics curve (AUROC) for FTc(W), FTc(B), and ΔVpeak were 0.815, 0.691, and 0.713, respectively."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2100054532."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

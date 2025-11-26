@@ -1,0 +1,74 @@
+{
+  "pmcid": "11749271",
+  "sha256": "ab79e2136c896616436c9e5b117c450c18150a82e4f2b22f1016c01e89c9aa35",
+  "timestamp_utc": "2025-11-09T22:07:43.965481+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.83831034482759,
+    "reading_ease": 45.18772413793104,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intranasal Esketamine and Dexmedetomidine for Sedation in Toddlers"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this prospective, double-blind, randomised controlled trial, 121 children aged 1-3 years scheduled for TTE at Hunan Children's Hospital were enrolled."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "121 children aged 1-3 years scheduled for TTE at Hunan Children's Hospital were enrolled."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive dexmedetomidine 1 mcg.kg−1 combined with esketamine 0.5 mg.kg−1 (group S1), 1 mg.kg−1 (group S2), or 1.5 mg.kg−1 (group S3)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the optimal dose of intranasal esketamine combined with dexmedetomidine for sedation in toddlers undergoing transthoracic echocardiography (TTE)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the success rate of sedation, measured within 45 minutes."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included anesthesiologists, sonographers, children, and parents."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "121 children aged 1-3 years scheduled for TTE at Hunan Children's Hospital were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of the 121 children, 40 were analysed in group S1, 41 in group S2, and 40 in group S3."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The success rates were 60% in S1, 85.4% in S2, and 87.5% in S3 (p = 0.004)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were minimal, with one case of upper airway obstruction in S3."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2200060976"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by the Scientific Research Fund of the Hunan Medical Association and the Scientific Research Project of the Hunan Provincial Health Commission."
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  }
+}

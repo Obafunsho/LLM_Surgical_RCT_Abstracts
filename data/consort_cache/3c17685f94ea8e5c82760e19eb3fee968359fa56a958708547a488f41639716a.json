@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Morbidity of Local Excision and Total Mesorectal Excision after Neoadjuvant Chemoradiotherapy for Low Rectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients with clinical T2/T3 low rectal cancer showing a good response to chemoradiotherapy were randomised to LE or TME"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with clinical T2/T3 low rectal cancer showing a good response to chemoradiotherapy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to LE or TME"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare early and late morbidity between local excision (LE) and total mesorectal excision (TME) following neoadjuvant chemoradiotherapy in patients with low rectal cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was surgical morbidity, assessed at 1 month (early) and 2 years (late) post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed centrally, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between March 2007 and September 2012, 148 patients were randomised: 74 to LE and 74 to TME."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Intention-to-treat analysis was conducted on 145 patients."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Early surgical morbidity was significantly lower in the LE group (20%) compared to TME (36%) and completion TME (43%) (P = 0.025)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No deaths occurred in any group. LE was associated with fewer medical morbidities, though not statistically significant."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00427375."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: National Cancer Institute of France."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

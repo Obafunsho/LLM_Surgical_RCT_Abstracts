@@ -1,0 +1,74 @@
+{
+  "pmcid": "1449741",
+  "sha256": "57fe3401fe12c31891af84f5762b8ffd80c0d9f1e5bdd4a3ec5c83a9df366e08",
+  "timestamp_utc": "2025-11-09T15:47:00.836615+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 18.093823529411768,
+    "reading_ease": 10.757205882352963,
+    "word_count": 255
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "prospective, randomized, double-blind, placebo-controlled Phase I/IIa dose escalation study"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Eighty patients undergoing elective carotid endarterectomy were randomly assigned"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients undergoing carotid endarterectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to a placebo control group (n = 38) or to one of the three intravenous magnesium groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we sought to examine the incidence of α-agonist treated hypotension"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "the amount and duration of phenylephrine needed to maintain that pressure was compared across treatment groups"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Eighty patients undergoing elective carotid endarterectomy were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "All treatment groups achieved levels significantly different from baseline at 12 and 24 hours ( P < 0.01)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Magnesium treatment did not significantly increase the proportion of patients requiring pressure support"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

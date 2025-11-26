@@ -1,0 +1,74 @@
+{
+  "pmcid": "12400462",
+  "sha256": "ac5f373a6b3ad8e68f9ee4d96341aa2fdad2031afa4c37713d7c97bb3138b60c",
+  "timestamp_utc": "2025-11-09T23:36:11.835675+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.28227272727273,
+    "reading_ease": 26.516136363636377,
+    "word_count": 241
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial on Medium-Term Restenosis Rates in Carotid Endarterectomy with Biological vs. Synthetic Patches"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This single-centre retrospective study identified all primary CEA with patch angioplasty performed between 2007 and 2019 at a university hospital."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included patients with symptomatic or asymptomatic 50–99% internal carotid artery stenosis."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Bovine pericardium served as the biological patch, while Dacron, ePTFE, and polyester-urethane were synthetic comparators."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was moderate (50–69%) and critical (70–99%) restenosis, defined by duplex ultrasonography criteria."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 127 CEAs were analysed, with 75 using bovine pericardium."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 127 CEAs were analysed, with 75 using bovine pericardium."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Bovine patches were significantly associated with >50% restenosis (p = 0.042) but not >70% (p = 0.197)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included neck haematomas (2.1%), patch infections (1.4%), and patch thrombosis (1.4%)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The study was not registered"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "funding sources were not disclosed"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

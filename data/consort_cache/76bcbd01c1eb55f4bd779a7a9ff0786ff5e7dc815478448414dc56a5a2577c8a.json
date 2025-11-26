@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A blinded randomized noninferiority study was conducted"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "across the entire range of surgical pathology cases (biopsies and resections, including hematoxylin and eosin, immunohistochemistry, and special stains) from 4 institutions"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Sixteen pathologists interpreted cases by microscopy or WSI"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of this study was to demonstrate that WSI is noninferior to microscopy for primary diagnosis in surgical pathology."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The major discordance rate with the reference standard diagnosis was 4.9% for WSI and 4.6% for microscopy."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Cases were scanned, converted to WSI and randomized."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "A blinded randomized noninferiority study was conducted"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 1992 cases were included"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The difference between major discordance rates for microscopy and WSI was 0.4% (95% confidence interval, \u22120.30% to 1.01%)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

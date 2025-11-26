@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Axillary Lymph Node Dissection Omission in Mastectomy Patients with Sentinel Lymph Node Metastases"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned (1:1)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with histologically confirmed invasive BC, tumour size \u22645 cm, cN0, and \u22642 metastatic SLNs"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned (1:1) to receive ALND followed by adjuvant treatment (standard arm) or adjuvant treatment alone (experimental arm)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was overall survival (OS) and the secondary endpoint was recurrence-free survival (RFS), assessed over a median follow-up of 33.0 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 218 patients were randomised: 111 to the ALND group and 107 to the SLNB-only group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the intention-to-treat analysis"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the 5-year OS rates were 97.8% in the ALND arm and 98.7% in the SLNB-only arm (P = 0.597)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT05160324"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

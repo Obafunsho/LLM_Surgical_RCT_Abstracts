@@ -1,0 +1,74 @@
+{
+  "pmcid": "7184830",
+  "sha256": "3dc14afa9babc9a0baded983c1ca2c1d88151660562bd9fc5bbb1f60ea85c2d5",
+  "timestamp_utc": "2025-11-09T16:12:26.874402+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.89656160458453,
+    "reading_ease": 47.217380794945285,
+    "word_count": 349
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "We tested the effect of fibrinogen concentrates Haemocomplettan® (CSL Behring, Marburg, Germany) and fibryga® (Octapharma GmbH, Langenfeld, Germany)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We tested the effect of fibrinogen concentrates Haemocomplettan® (CSL Behring, Marburg, Germany) and fibryga® (Octapharma GmbH, Langenfeld, Germany) on the impairments induced by 60% dilutional coagulopathy in vitro."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Dilution with either diluent resulted in prolonged clotting time (CT) in an extrinsic activated test (CTEXTEM) and decreased maximum clot firmness (MCFFIBTEM) as expressed, e.g., by gelatine: (59.5 s [62/54.8] vs. 95 s [102.8/86.8]; p < 0.001 and 14 mm [16/10.5] vs. 3 mm [4–3]; p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

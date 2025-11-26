@@ -1,0 +1,74 @@
+{
+  "pmcid": "9911325",
+  "sha256": "2ff2d2aec5798d18ce5259855f161a992640be428be56a094f61aeb6c3899ae9",
+  "timestamp_utc": "2025-11-09T23:02:53.155969+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.498634639696586,
+    "reading_ease": 5.527876106194725,
+    "word_count": 226
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of MIRTH: A Novel Catheter-Based Intramyocardial Ventricular Remodeling Procedure"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Animals were randomly assigned to receive MIRTH or serve as controls."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "juvenile Yorkshire swine with healthy myocardium or ischemic cardiomyopathy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Animals were randomly assigned to receive MIRTH or serve as controls."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in left ventricular performance, measured by contractility and mechanical efficiency, over a 90-day period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 33 animals were randomised: 17 with healthy myocardium and 16 with ischemic cardiomyopathy."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "MIRTH significantly improved left ventricular performance in cardiomyopathic animals, with increased contractility and mechanical efficiency (p < 0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to myocardial erosion were observed."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by the Division of Intramural Research, National Heart Lung and Blood Institute, National Institutes of Health USA (grant Z01-HL006040)."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

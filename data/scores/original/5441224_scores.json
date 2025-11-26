@@ -1,0 +1,74 @@
+{
+  "pmcid": "5441224",
+  "sha256": "51b2a4ff8a4d32ab17049a0992a36f3ddb605288bb89d5eb1042b53dd16d27b3",
+  "timestamp_utc": "2025-11-09T16:03:53.070398+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.094621848739497,
+    "reading_ease": 24.290084033613482,
+    "word_count": 238
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "CALGB 140503 is an ongoing multi-center randomized trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "multi-center randomized trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with suspected small NSCLC ≤2 cm"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of this report is to determine the reasons precluding intra-operative randomization."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "389 were successfully randomized (61%) and 248 patients were not randomized (39%)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The rate of randomization was significantly higher in those patients who had a preoperative biopsy (p<0.001)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

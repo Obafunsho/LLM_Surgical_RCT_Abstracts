@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Pituitrin in Cardiac Surgery Patients with Pulmonary Hypertension"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized, single-blind, parallel-group controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "300 adult patients with pulmonary hypertension undergoing elective cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive either continuous intravenous infusion of pituitrin at 0.04 U/(kg h) or normal saline"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether pituitrin, a vasopressin and oxytocin substitute, improves postoperative outcomes in these patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was a composite endpoint of all-cause mortality or common complications within 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, with allocation concealed in opaque envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Outcome assessors and patients were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study enrolled 300 participants, with 150 in each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "The primary outcome's effect size and precision will be reported upon study completion."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events, including mild gastrointestinal side effects, were monitored."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT05727618"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by The First Hospital affiliated with Shandong First Medical University."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

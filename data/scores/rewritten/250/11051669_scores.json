@@ -1,0 +1,74 @@
+{
+  "pmcid": "11051669",
+  "sha256": "56d1062cfb83d81746e8c7d13c1b11ff69e6119b46ee04116b9afe176359608e",
+  "timestamp_utc": "2025-11-09T21:59:19.703681+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.122929292929296,
+    "reading_ease": 33.03772727272727,
+    "word_count": 198
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Sugammadex Dosing in Morbidly Obese Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Eight randomised controlled trials (RCTs) involving 645 participants were included."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were MO patients undergoing bariatric surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention was sugammadex dosing based on different weight scalars: total body weight (TBW), ideal body weight (IBW), 20% corrected body weight (CBW), and 40% CBW."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was recovery time from moderate or deep NMB, measured by the time to a Train of Four (TOF) ratio of 0.9."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation methods and allocation concealment varied across studies"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "blinding was not consistently reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Eight randomised controlled trials (RCTs) involving 645 participants were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "A dose of 2 mg/kg of sugammadex based on 40% CBW and a 4 mg/kg dose based on 40% CBW provided reliable and timely reversal of moderate and deep NMB, respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

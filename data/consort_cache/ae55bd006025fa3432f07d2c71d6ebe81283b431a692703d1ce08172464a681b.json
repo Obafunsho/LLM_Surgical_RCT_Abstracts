@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Double-Blind Randomised Controlled Trial Comparing Minimally Invasive and Classic Approaches in Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to MIS or CLASS groups using a block-randomised, stratified method"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at a single center, this double-blind, randomised controlled trial enrolled 120 patients eligible for primary noncemented THA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Minimally invasive surgery (MIS) for total hip arthroplasty (THA) is hypothesized to offer faster rehabilitation due to smaller incisions and reduced muscle dissection compared to the classic approach (CLASS)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the clinical outcomes of MIS versus CLASS."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Harris Hip Score (HHS) at 6 weeks postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to MIS or CLASS groups using a block-randomised, stratified method"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was maintained for patients and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Conducted at a single center, this double-blind, randomised controlled trial enrolled 120 patients eligible for primary noncemented THA from January 2005 to November 2007."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "An intention-to-treat analysis was performed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 6 weeks, the MIS group demonstrated a statistically significant increase in mean HHS compared to the CLASS group (mean difference = 4.5, 95% CI 0.5 to 8.5; p = 0.03)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included six complications in the MIS group and two in the CLASS group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

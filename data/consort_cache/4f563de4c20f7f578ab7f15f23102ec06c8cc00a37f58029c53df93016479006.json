@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of VTE Prophylaxis and Persistent Wound Drainage After Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Two hospitals were randomized to administer aspirin (100 mg daily) or enoxaparin (40 mg daily)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Between April 2019 and December 2020, 1339 of 1679 eligible patients were included"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Two hospitals were randomized to administer aspirin (100 mg daily) or enoxaparin (40 mg daily)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the association between VTE prophylaxis type (enoxaparin vs. aspirin) and persistent wound drainage."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Persistent wound drainage was defined as drainage beyond Postoperative Day 3."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was by hospital"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Assessors were not blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between April 2019 and December 2020, 1339 of 1679 eligible patients were included"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "1339 of 1679 eligible patients were included"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "No significant difference in persistent wound drainage was found between enoxaparin (9%) and aspirin (8%) groups (OR 1.2, 95% CI 0.8 to 1.8; p = 0.40)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source]."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

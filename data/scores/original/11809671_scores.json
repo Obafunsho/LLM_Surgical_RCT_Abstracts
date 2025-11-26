@@ -1,0 +1,74 @@
+{
+  "pmcid": "11809671",
+  "sha256": "2dc67a435d2b058a8bb9b0466c4e948b0925c1eabb7eea2393476c5b650f124c",
+  "timestamp_utc": "2025-11-09T15:24:01.172708+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.325907500971628,
+    "reading_ease": 37.70541002720563,
+    "word_count": 415
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomised clinical trials of off‐pump versus on‐pump CABG irrespective of language, publication status and blinding were selected for inclusion."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "off‐pump versus on‐pump CABG"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: To assess the benefits and harms of off‐pump versus on‐pump CABG in patients with ischaemic heart disease."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Pooled analysis of all trials showed that off‐pump CABG increased all‐cause mortality compared with on‐pump CABG (189/5,180 (3.7%) versus 160/5144 (3.1%); RR 1.24, 95% CI 1.01 to 1.53; P =.04)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Eighty‐six trials (10,716 participants) were included."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Pooled analysis of all trials showed that off‐pump CABG increased all‐cause mortality compared with on‐pump CABG (189/5,180 (3.7%) versus 160/5144 (3.1%); RR 1.24, 95% CI 1.01 to 1.53; P =.04)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Pooled analysis of all trials showed that off‐pump CABG increased all‐cause mortality compared with on‐pump CABG (189/5,180 (3.7%) versus 160/5144 (3.1%); RR 1.24, 95% CI 1.01 to 1.53; P =.04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in myocardial infarction, stroke, renal insufficiency, or coronary re‐intervention were observed."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

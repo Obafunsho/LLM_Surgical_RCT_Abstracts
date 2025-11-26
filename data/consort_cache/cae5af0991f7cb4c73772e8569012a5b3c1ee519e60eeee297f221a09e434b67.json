@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "randomized clinical trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "single-center, double-blind, parallel-group, randomized clinical trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "120 smoking patients with COPD who were referred to 5 Azar Educational Hospital in Gorgan, Northern Iran, in 2021"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "60 patients in the intervention group were inhaled with 2 puffs of albuterol spray. In the control group, patients were inhaled with 2 puffs of placebo spray."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to evaluate the effect of albuterol spray on hypoxia and bronchospasm in patients with COPD under general anesthesia."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "the occurrence of wheezing, bronchospasm, coughing, hemodynamic changes, postoperative shivering, dyspnea, and nausea and vomiting were evaluated"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "120 smoking patients with COPD"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The difference between systolic blood pressure before induction of anesthesia (after administration of albuterol spray) between the group receiving albuterol spray and the group not receiving it was statistically significant (p=0.04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant side effects were detected in the albuterol-treated group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

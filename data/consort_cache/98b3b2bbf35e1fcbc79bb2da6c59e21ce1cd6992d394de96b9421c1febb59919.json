@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This document describes the consensus process and intervention for a National Institutes of Health (NIH)-funded multi-site feasibility study utilizing acupuncture for ACU te pa I n in T he Emergenc Y Department (ACUITY)."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "The acupuncture intervention is designed to be flexible and responsive to the most common Emergency Department (ED) scenarios, including trauma, acute pain of the low back, abdomen and/or musculoskeletal system, renal colic and headache."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration number:: NCT04880733 ( ClinicalTrials.gov )."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "NIH-funded"
+      }
+    },
+    "total_score": 3,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

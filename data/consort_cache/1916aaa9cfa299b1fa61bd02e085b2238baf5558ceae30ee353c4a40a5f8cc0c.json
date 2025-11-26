@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Adjuvant Interferon Therapy in Hepatitis B-Related Hepatocellular Carcinoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with no residual disease after hepatic resection for predominantly hepatitis B-related HCC were enrolled from February 1999 to June 2002."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to no treatment (control) or interferon alpha-2b 10 MIU/m\u00b2 thrice weekly for 16 weeks (IFN-I group)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was overall survival, assessed at 1 and 5 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 80 patients were randomised: 40 to the control group and 40 to the IFN-I group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The relative risk of death for interferon treatment was 0.42 (95% CI, 0.17\u20131.05; P = 0.063)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse effects led to discontinuation in the higher dose group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

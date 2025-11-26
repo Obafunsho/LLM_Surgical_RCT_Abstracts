@@ -1,0 +1,74 @@
+{
+  "pmcid": "5014820",
+  "sha256": "2dd43c5a76d43bdc2fab9cc71f075edae1356f4e335eb6f4fb5713648d63d367",
+  "timestamp_utc": "2025-11-09T16:01:49.311884+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.857831858407081,
+    "reading_ease": 47.60981109598367,
+    "word_count": 339
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients who had arthroplasties (n = 24) in an ongoing trial"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Model-based RSA was performed using combined three-dimensional computer-aided design models of the stem and head provided by the implant manufacturer."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We asked: (1) Is the accuracy of model-based RSA comparable to that of marker-based RSA? (2) What is the clinical precision of model-based RSA?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The clinical precision of model-based RSA was evaluated by double examinations of patients who had arthroplasties (n = 24) in an ongoing trial."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "patients who had arthroplasties (n = 24) in an ongoing trial"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The accuracy of model-based RSA was 0.03 mm for subsidence (translation along the y axis) (95% CI for the difference between RSA measurements and actual displacement measured with micrometers, −0.03–0.00) and 0.39° for rotation around the y axis (95% CI, −0.41 to −0.06)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

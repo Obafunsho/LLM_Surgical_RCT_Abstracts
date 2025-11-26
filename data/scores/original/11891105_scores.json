@@ -1,0 +1,74 @@
+{
+  "pmcid": "11891105",
+  "sha256": "8e86a40ce12f3b614ac38f0b24bcf37c1c83a3881933b25976ecac43e21a07e9",
+  "timestamp_utc": "2025-11-09T15:25:34.830024+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.897033102766802,
+    "reading_ease": 23.59163661067197,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This review investigated the effectiveness of interventions aimed at reducing opioid use in patients after orthopaedic surgery."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The mean daily dose was lower with multimodal analgesia interventions than with placebo/no intervention/usual care or active control in the medium term."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This review investigated the effectiveness of interventions aimed at reducing opioid use in patients after orthopaedic surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the mean daily dose of opioid analgesic medications in the medium term (1–3 months after randomisation)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean daily dose was lower with multimodal analgesia interventions than with placebo/no intervention/usual care or active control in the medium term."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

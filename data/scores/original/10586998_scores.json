@@ -1,0 +1,74 @@
+{
+  "pmcid": "10586998",
+  "sha256": "e09df18077b05cab3f024aa137acbced88d23006e4369cb2ea65dab7fdc3ee00",
+  "timestamp_utc": "2025-11-09T15:09:59.167071+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.28800959232614,
+    "reading_ease": 20.13298960831338,
+    "word_count": 278
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "In this narrative review, we provide a comprehensive overview of the available evidence for the different analgesia regimens for esophagectomy."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "In this narrative review, we provide a comprehensive overview of the available evidence for the different analgesia regimens for esophagectomy."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Next to mild or moderate side-effects such as hypotension and urinary retention, several reports emphasized the incidence of serious neurologic complications to be much higher than estimated before."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 2,
+    "max_score": 25
+  }
+}

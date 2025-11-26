@@ -1,0 +1,74 @@
+{
+  "pmcid": "12071954",
+  "sha256": "1badf79d4548fd34180464fad97178edd4f9233d5e6a21cdef4423ab44a29e6f",
+  "timestamp_utc": "2025-11-09T23:25:50.692767+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.172409743366682,
+    "reading_ease": 23.308758155719914,
+    "word_count": 242
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of a Reference Guide for Bariatric Surgery Nursing Care"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A quasi-experimental design was conducted at Mansoura University Hospital"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "involving 78 nurses and 156 patients"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were divided into two groups: 78 patients before and 78 after the guide's implementation"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the impact of a reference guide on nurses' knowledge and patient satisfaction"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the improvement in nurses' knowledge and patient satisfaction, measured over a 9-month period"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "involving 78 nurses and 156 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Participants were divided into two groups: 78 patients before and 78 after the guide's implementation"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the percentage of nurses with good knowledge increased from 10.3% to 80.8%, and poor self-reported practices decreased from 80.8% to 5.1%"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

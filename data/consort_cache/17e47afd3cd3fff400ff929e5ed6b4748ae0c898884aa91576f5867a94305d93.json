@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "They were randomly assigned to Group A, who received a bolus of 1.5\u2009mg kg\u207b 1 of 2% lignocaine hydrochloride over 3 minutes, followed by an IV infusion of 1\u2009mg kg\u207b 1 h\u207b 1 until skin closure, and Group B, who received an equal volume of normal saline."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Forty-eight patients were recruited for laparoscopic cholecystectomy, appendicectomy, or ovarian cystectomy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group A, who received a bolus of 1.5\u2009mg kg\u207b 1 of 2% lignocaine hydrochloride over 3 minutes, followed by an IV infusion of 1\u2009mg kg\u207b 1 h\u207b 1 until skin closure, and Group B, who received an equal volume of normal saline."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "this study was designed to investigate the impact of IV lignocaine infusion on the intraoperative end-tidal desflurane (Et-Des) concentration required to maintain the Bispectral Index Scale (BIS) values between 40 and 60."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Et-Des concentration, hemodynamic changes, BIS, minimum alveolar concentration, the dose of fentanyl administered, and the amount and cost of desflurane used between the 2 groups were analyzed."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "They were randomly assigned to Group A"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty-eight patients were recruited"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Et-Des concentration in Group A (4.3%\u2005\u00b1\u20050.45%) was significantly lower than in Group B (5.3%\u2005\u00b1\u20050.56%, P <\u2005.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "without significant hemodynamic changes or side effects"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

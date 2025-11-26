@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Allopurinol in Neonates with CCHD Undergoing Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Fourteen neonates with prenatal CCHD diagnosis were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Fourteen neonates with prenatal CCHD diagnosis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either allopurinol or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "investigating the effect of postnatal and perioperative allopurinol on postoperative brain injury"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the pharmacokinetics (PK) of allopurinol and oxypurinol, measured over the preoperative, intraoperative, and postoperative phases."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed by Ace Pharmaceuticals using blocking, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fourteen neonates with prenatal CCHD diagnosis were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "A two-compartment model for allopurinol and a one-compartment model for oxypurinol best described the PK."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT04217421"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

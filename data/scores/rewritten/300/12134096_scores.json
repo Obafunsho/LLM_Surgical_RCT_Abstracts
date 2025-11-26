@@ -1,0 +1,74 @@
+{
+  "pmcid": "12134096",
+  "sha256": "952148b5ef0c14856829c4211a3f7f5159c08d1ed944f654c72ad61dae76ff40",
+  "timestamp_utc": "2025-11-09T23:27:41.984285+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.866666666666667,
+    "reading_ease": 27.597777777777793,
+    "word_count": 267
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The STRAUSS Study: A Randomised Controlled Trial on the Effect of Music on Surgical Stress"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This non-blinded, randomised crossover trial was conducted at the University of Auckland from April to October 2023."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included 15 medical students and 12 vascular surgeons. Eligibility criteria excluded those with significant physical impairments, pregnancy, cardiac history, or hearing impairments."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants performed a carotid patch-angioplasty under two conditions: self-selected music and ambient theatre noise (control)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the psycho-physiological effects of music on stress in inexperienced and experienced operators during a simulated surgical task."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the effect of music on psychological (STAI-6, SURG-TLX) and physiological responses (heart rate variability) measured immediately post-task."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was by coin toss, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not possible."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "This non-blinded, randomised crossover trial was conducted at the University of Auckland from April to October 2023. Participants included 15 medical students and 12 vascular surgeons."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Experienced operators performed faster and more accurately, with no differential response to music."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "SURG-TLX scores increased from baseline to control (Δ32 [22–42]) and music (Δ30 [20–40]), with no difference between conditions. STAI-6 scores increased similarly. Heart rate increased (peak Δ5.1 bpm [3.0–7.1], p < 0.0001), with music exacerbating sympathetic (SNS index: 0.14 [0.004–0.27], p = 0.042) and reducing parasympathetic activity (PNS index: −0.11 [−0.22 to −0.008], p = 0.032)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ACTRN12623000306617."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

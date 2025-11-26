@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients undergoing hysteroscopic surgery at the affiliated hospital of North Sichuan Medical College were randomly divided into five groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "One hundred and fifty patients undergoing hysteroscopic surgery at the affiliated hospital of North Sichuan Medical College"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "administered dexmedetomidine at a dose of 0.4 \u00b5g/kg, 0.6 \u00b5g/kg, 0.8 \u00b5g/kg, or 1.0 \u00b5g/kg, or saline"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Hemodynamic parameters and adverse events related to anesthesia were also evaluated"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly divided into five groups"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One hundred and fifty patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The EC50 of propofol was significantly lower in the Dex 0.6, Dex 0.8, and Dex 1.0 groups compared to the S group ( p <0.05)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "the incidence of respiratory depression decreased ( p <0.01). Nevertheless, the incidence of bradycardia slightly increased ( p =0.02)"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "registration number: ChiCTR2000033220"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

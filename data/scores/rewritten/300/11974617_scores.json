@@ -1,0 +1,74 @@
+{
+  "pmcid": "11974617",
+  "sha256": "8c42781b5c28cd5c9df81abf86ff1cbe05251b25204c50ea6bad7a38cd321c45",
+  "timestamp_utc": "2025-11-09T23:23:37.625112+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.076160361377756,
+    "reading_ease": 37.11022397891966,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Fully Closed-Loop Versus Usual Care Glucose Control in Major Abdominal Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Thirty-eight patients aged ≥18 years undergoing major abdominal surgery were randomised (1:1) to FCL or UC glucose management."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Thirty-eight patients aged ≥18 years undergoing major abdominal surgery were randomised (1:1) to FCL or UC glucose management."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised (1:1) to FCL or UC glucose management."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the efficacy and safety of fully closed-loop (FCL) glucose control compared to usual care (UC)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the proportion of time with sensor glucose values in the target range of 5.6 to 10.0 mmol/L from hospital admission to discharge (max 20 days)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation used a minimization method"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "open-label with masked continuous glucose monitoring in the UC group."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty-eight patients aged ≥18 years undergoing major abdominal surgery were randomised (1:1)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Thirty-seven patients were analysed (18 FCL, 19 UC) using a modified intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The FCL group spent 80.1% ± 10.0% of time in the target range compared to 53.7% ± 19.7% in the UC group (P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No study-related serious adverse events occurred, with four serious adverse events in the FCL group unrelated to the study."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT05392452"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

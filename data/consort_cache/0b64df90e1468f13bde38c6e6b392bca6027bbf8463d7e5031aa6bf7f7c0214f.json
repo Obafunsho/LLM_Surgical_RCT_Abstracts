@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of the BEACON Caresystem in Mechanical Ventilation Weaning"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "multicentre, randomised controlled trial included adult ICU patients ventilated for over 24 hours"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adult ICU patients ventilated for over 24 hours"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either BEACON Caresystem advice (intervention) or usual care (control)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the BEACON Caresystem, a decision support tool, in reducing ventilation duration."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the duration of mechanical ventilation from intubation to successful extubation."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between September 2017 and March 2020, 252 patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 112 patients due to early termination from COVID-19."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant difference in ventilation duration was observed. However, the intervention group had fewer adverse events, primarily hypoxaemia, and lower tidal volumes."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events occurred in 9% of the intervention group and 15% of the control group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by [Funding Source]."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

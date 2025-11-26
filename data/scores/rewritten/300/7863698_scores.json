@@ -1,0 +1,74 @@
+{
+  "pmcid": "7863698",
+  "sha256": "4c0abf6da0b96cbccd53b8feb453f1b9440798dccd2f9f727536ed2c74cbbfc9",
+  "timestamp_utc": "2025-11-10T00:07:32.263991+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.781271367521366,
+    "reading_ease": 7.967548076923123,
+    "word_count": 234
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Effects of ESRT on Stress and Cognitive Function in PGY-1 Trainees: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Two small single-institution randomised clinical trials were conducted."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included first-year surgical (ESRT-1, n = 44) and mixed specialty (ESRT-2, n = 45) residents."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "ESRT-1 consisted of 8 weekly 2-hour classes, while ESRT-2 comprised 6 weekly 90-minute classes."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the impact of an iteratively adapted MBI, ESRT, on perceived stress, executive cognitive function, psychosocial well-being, and pro-inflammatory gene expression in surgical and mixed specialty PGY-1 trainees."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was perceived stress, measured pre- and post-intervention and at follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants included first-year surgical (ESRT-1, n = 44) and mixed specialty (ESRT-2, n = 45) residents."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "ESRT did not significantly impact perceived stress. However, ESRT-1 participants exhibited higher executive function and mindfulness scores, while ESRT-2 participants showed reduced emotional exhaustion and depersonalization scores at follow-up."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

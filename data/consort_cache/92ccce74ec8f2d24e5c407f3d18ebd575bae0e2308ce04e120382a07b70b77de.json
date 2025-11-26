@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients were considered eligible for this procedure if they had a distance from the tumor edge to the articular surface between 10 to 15 mm, good chemotherapy responses, no pathologic fracture and no tumor involvement of major neurovascular structures."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "joint-preserving surgery by transepiphysis tumor resection after navigation-assisted microwave ablation of the tumor edge"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We therefore asked (1) whether joint-preserving tumor resection could be performed for juxtaarticular osteosarcoma after microwave ablation of the tumor edge under navigation without leading to local recurrences, (2) what is the resulting function, and (3) what are the complications associated with this procedure."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "we recorded local tumor control, complications, and functional outcomes using the Musculoskeletal Tumor Society score, which ranges from 0 to 30, with higher scores indicating better function."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between 2009 and 2011, we treated 11 patients who had juxtaarticular osteosarcoma of the proximal tibia"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "11 patients who had juxtaarticular osteosarcoma of the proximal tibia"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "There were no local recurrences. Major complications included osteonecrosis of part of the epiphysis in two patients and deep infection in one. The Musculoskeletal Tumor Society score ranged from 26 to 30 with a mean of 29."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Major complications included osteonecrosis of part of the epiphysis in two patients and deep infection in one."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

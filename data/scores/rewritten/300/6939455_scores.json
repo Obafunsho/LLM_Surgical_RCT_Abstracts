@@ -1,0 +1,74 @@
+{
+  "pmcid": "6939455",
+  "sha256": "ed05bf139799d8bf0622c742cb820d64a8ee3266f2c6e6fd4b9a8849274cddec",
+  "timestamp_utc": "2025-11-10T00:03:39.335633+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.689375000000002,
+    "reading_ease": 22.854062500000026,
+    "word_count": 233
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Epiaortic Ultrasound in Surgical Aortic Valve Replacement"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a randomised controlled trial, SAVR patients were assigned to two embolic protection devices."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study included 383 randomised patients, with 326 (85.1%) having pre-cannulation epiaortic ultrasound data."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "SAVR patients were assigned to two embolic protection devices."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Multivariable logistic regression estimated associations between atheroma grade and adverse outcomes, including death, stroke, cerebral infarction on DW-MRI, delirium, and acute kidney injury (AKI) by 7 and 30 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study included 383 randomised patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "with 326 (85.1%) having pre-cannulation epiaortic ultrasound data."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "moderate/severe atheroma grade was associated with a greater risk of AKI by 7 days (adjusted OR: 2.63; 95% CI: 1.24–5.58; p=0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences were observed in the composite of death, stroke, or cerebral infarction on DW-MRI by 7 days."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

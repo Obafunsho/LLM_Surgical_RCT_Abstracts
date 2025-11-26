@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Sumatriptan for Postoperative Recovery After Microvascular Decompression"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial included 50 patients"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients experiencing postoperative headaches after MVD"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "subcutaneous injection of sumatriptan (6 mg) or saline"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effect of sumatriptan on postoperative recovery quality."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Quality of Recovery-40 (QoR-40) score at 24 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Both patients and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fifty patients were randomised: 25 to the sumatriptan group and 25 to the placebo group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Fifty patients were randomised: 25 to the sumatriptan group and 25 to the placebo group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The sumatriptan group had significantly higher QoR-40 scores (median 184; interquartile range 169\u2013196) compared to the placebo group (133; 119\u2013155; P <0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild and occurred in 3/25 (12%) of the sumatriptan group and 1/25 (4%) of the placebo group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01632657."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

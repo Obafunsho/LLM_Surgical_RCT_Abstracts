@@ -1,0 +1,74 @@
+{
+  "pmcid": "6902237",
+  "sha256": "1c7deaff52785e75a8af2d267c98d8b63e8bd2b3a97d0dd11256fd11ca2a14da",
+  "timestamp_utc": "2025-11-09T16:11:02.729123+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.044530757097792,
+    "reading_ease": 32.23485081493166,
+    "word_count": 317
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomized clinical trial in a simulation setting."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Surgical teams consisted of 1 surgeon and 2 nurses from a surgical ward from 4 different hospitals in Amsterdam, the Netherlands."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The teams were randomized to manage 3 simulated deteriorating patient scenarios with or without the use of cognitive aids."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To test the effectiveness of cognitive aids on adherence to best practice in the management of deteriorating postoperative surgical ward patients."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome of the study was failure to adhere to best practice, expressed as the percentage of omitted critical management steps."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty-five surgical teams performed 75 patient scenarios with cognitive aids, and 25 teams performed 75 patient scenarios without cognitive aids."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Using the cognitive aids resulted in a reduction of omitted critical management steps from 33% to 10%, which is a 70% ( P < .001) reduction. This effect remained significant (odds ratio, 0.63; 95% CI, −0.228 to −0.061; P = .001) in a multivariate analysis."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov identifier: NCT03812861"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

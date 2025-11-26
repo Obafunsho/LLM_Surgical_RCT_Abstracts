@@ -1,0 +1,74 @@
+{
+  "pmcid": "5516212",
+  "sha256": "e89466372ef98f8199014fcd82a95c598186bcf6ad1018c74c8fa43697b8911a",
+  "timestamp_utc": "2025-11-09T16:04:06.534347+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.132216404886563,
+    "reading_ease": 17.201774287376395,
+    "word_count": 382
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "175 postmenopausal women not receiving estrogen replacement therapy and scheduled to undergo coronary artery bypass graft (with or without valve surgery) were prospectively randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "175 postmenopausal women not receiving estrogen replacement therapy and scheduled to undergo coronary artery bypass graft (with or without valve surgery)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive 17 β -estradiol or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Our purpose in this study was to evaluate the prognostic value of troponin I levels for predicting cardiovascular complications in postmenopausal women undergoing cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary end-point of the present study was major adverse cardiovascular events (MACE) defined as a Q-wave myocardial infarction, low cardiac output state or death within 30 days of surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "prospectively randomized"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind manner"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "175 postmenopausal women"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Troponin I levels on postoperative day 1 were predictive of MACE (area under the receiver operator curve = 0.862). A cutoff point for troponin I of >7.6 ng/mL (95% confidence interval, 6.4–10.8) provided the optimal sensitivity and specificity for identifying patients at risk for MACE."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

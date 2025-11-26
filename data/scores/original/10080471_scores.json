@@ -1,0 +1,74 @@
+{
+  "pmcid": "10080471",
+  "sha256": "11155b7a3140cbba371585246777906e7266926ce3ccb02b327f5ea7e5dad5db",
+  "timestamp_utc": "2025-11-09T15:04:54.945075+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.460641711229947,
+    "reading_ease": 27.368609625668483,
+    "word_count": 275
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "86 participants aged >18 yr were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "86 participants aged >18 yr were randomly assigned to 50 min of either sham or active bilateral TAN, undertaken before, and again 24 h after, surgery for orthopaedic trauma."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to 50 min of either sham or active bilateral TAN"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We tested the hypothesis that transcutaneous auricular nerve stimulation (TAN) reduces pain after orthopaedic trauma surgery through autonomic modulation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was absolute change in pain 24 h postoperatively, comparing the 100 mm visual analogue scale (VAS) before and after TAN."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly assigned to 50 min of either sham or active bilateral TAN"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "the analysis of which was masked to allocation"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From June 22, 2021 to July 7, 2022, 79/86 participants (49 yr; 45% female) completed TAN before and after surgery."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "79/86 participants (49 yr; 45% female) completed TAN before and after surgery."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "For the primary outcome, the mean reduction in VAS was 19 mm (95% confidence interval [CI]: 12–26) after active TAN ( n =40), vs 10 mm (95% CI: 3–17) after sham TAN ( n =39; P =0.023)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Prespecified adverse events (auricular skin irritation) occurred in six participants receiving active TAN, compared with two receiving sham TAN."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

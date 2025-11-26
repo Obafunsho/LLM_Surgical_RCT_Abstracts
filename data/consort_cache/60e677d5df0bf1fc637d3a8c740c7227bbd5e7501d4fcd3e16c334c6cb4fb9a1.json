@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Programmed Intermittent Epidural Bolus Intervals for Labor Analgesia"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "double-blinded, randomised controlled trial included 100 nulliparous women"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "100 nulliparous women with singleton pregnancies at \u226537 weeks gestation"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to one of five PIEB intervals (35, 40, 45, 50, or 55 minutes)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the optimal interval for programmed intermittent epidural bolus (PIEB) analgesia"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was effective analgesia, defined as no requirement for patient-controlled epidural analgesia (PCEA) during the first stage of labor."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "using sequentially numbered opaque envelopes"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was maintained for patients and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "100 nulliparous women"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "93 were analyzed per protocol"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The estimated PIEB intervals for 50% (EI50) and 90% (EI90) effectiveness were 52.5 (95% CI, 48.4\u201362.6) and 37.0 (95% CI, 28.4\u201340.9) minutes, respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ChiCTR2100047291"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

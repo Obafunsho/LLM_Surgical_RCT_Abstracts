@@ -1,0 +1,74 @@
+{
+  "pmcid": "6855316",
+  "sha256": "319f5e2c92bf9550200ad4080a5d0c37875f972969ffee8cd97265c33b232aa0",
+  "timestamp_utc": "2025-11-09T22:52:16.131138+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.125438423645324,
+    "reading_ease": 32.23364203612482,
+    "word_count": 203
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tritube vs. Microlaryngeal Tube in Laryngeal Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly allocated to either the Tritube-FCV group or the MLT-VCV group."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "55 patients over 18 years were assessed, with 40 included in the analysis."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Tritube with flow-controlled ventilation (FCV) compared to a conventional microlaryngeal tube (MLT) with volume-controlled ventilation (VCV)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the effectiveness of a Tritube with flow-controlled ventilation (FCV) compared to a conventional microlaryngeal tube (MLT) with volume-controlled ventilation (VCV) in improving laryngeal visibility during elective laryngeal surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the concealment of laryngeal structures, measured immediately post-intubation."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated in blocks of 10, with allocation concealed in closed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not possible due to visible differences in tubes."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From October 2017 to May 2018, 20 patients were randomised to each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "40 included in the analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The Tritube group showed significantly less laryngeal concealment (7% [6 to 9]) compared to the MLT group (22% [18 to 27], p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: DRKS00013097."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

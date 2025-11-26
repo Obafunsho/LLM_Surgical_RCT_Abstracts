@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Fully Closed-Loop Versus Usual Care Glucose Control in Major Abdominal Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this two-centre, open-label, randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "38 patients aged \u226518 years undergoing major abdominal surgery at University Hospital Bern and University Hospital Basel"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised (1:1) to FCL or UC glucose management"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy and safety of fully closed-loop (FCL) glucose control compared to usual care (UC) in this context."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the proportion of time with sensor glucose values in the target range of 5.6 to 10.0 mmol/L from hospital admission to discharge (max 20 days)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a minimization method"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "open-label with masked continuous glucose monitoring in the UC group"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "38 patients aged \u226518 years undergoing major abdominal surgery"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Thirty-seven patients were analysed (18 FCL, 19 UC) using a modified intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The FCL group spent 80.1% \u00b1 10.0% of time in the target range compared to 53.7% \u00b1 19.7% in the UC group (P < 0.001). Mean glucose was 7.5 \u00b1 0.5 mmol/L in the FCL group and 9.1 \u00b1 2.4 mmol/L in the UC group (P = 0.015)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No study-related serious adverse events occurred."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT05392452"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

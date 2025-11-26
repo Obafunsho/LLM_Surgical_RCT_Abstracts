@@ -1,0 +1,19 @@
+{
+  "pmcid": "2939497",
+  "pmid": "20087132",
+  "title": "Transcranial MRI-guided focused ultrasound surgery of brain tumors: Initial findings in three patients",
+  "abstract": "Objective: This work evaluated the clinical feasibility of transcranial MRI-guided focused ultrasound surgery (TcMRgFUS).\n\nMethods: In initial trials in three glioblastoma patients, multiple focused ultrasound exposures were applied up to maximum acoustic power available. Offline analysis of the MR temperature images evaluated the temperature changes at the focus and brain surface.\n\nInstrumentation: The method combines a hemispherical phased array transducer and patient-specific treatment planning based on acoustic models with feedback control based on MR temperature imaging to overcome the effects of the skull and allow for controlled and precise thermal ablation in the brain.\n\nTechnical Development: TcMRgFUS offers a potential noninvasive alternative to surgical resection.\n\nResults: We found that it was possible to focus an ultrasound beam transcranially into the brain and to visualize the heating with MR temperature imaging. While we were limited by the device power available at the time and thus appeared to not achieve thermal coagulation, extrapolation of the temperature measurements at the focus and on the brain surface suggests that thermal ablation will be possible with this device without overheating the brain surface, with some possible limitation on the treatment envelope.\n\nConclusion: While significant hurdles remain, these findings are a major step forward in producing a completely noninvasive alternative to surgical resection for brain disorders.",
+  "authors": [
+    "Nathan McDannold",
+    "Greg Clement",
+    "Peter Black",
+    "Ferenc Jolesz",
+    "Kullervo Hynynen"
+  ],
+  "journal": "Neurosurgery",
+  "year": "2010",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

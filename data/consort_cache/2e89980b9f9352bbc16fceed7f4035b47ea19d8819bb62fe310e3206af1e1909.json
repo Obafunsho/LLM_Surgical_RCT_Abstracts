@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "One hundred patients who underwent complete TOF repair were enrolled and categorized into two groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We conducted this study in the Pediatric Cardiac Intensive Care Unit (PCICU) at the University Children\u2019s Hospital."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "categorized into two groups: the normothermic group ( n =\u200950, temperature 35\u201337 \u00b0C) and the moderate hypothermic group ( n =\u200950, temperature 28\u201332 \u00b0C)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the early postoperative outcomes of normothermic cardiopulmonary bypass (NCPB) for complete surgical repair via the Tetralogy of Fallot (TOF) within our national context."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "We evaluated mortality, morbidity, and postoperative complications in the PCICU as outcome measures."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One hundred patients who underwent complete TOF repair were enrolled and categorized into two groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The study recorded seven deaths, yielding an overall mortality rate of 7%."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences were observed between the two groups concerning mortality, morbidity, or postoperative complications in the PCICU."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

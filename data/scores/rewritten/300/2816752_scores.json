@@ -1,0 +1,74 @@
+{
+  "pmcid": "2816752",
+  "sha256": "ea55f3c9681e2d7ab32a7bcad7ab8630523e9181a39983f4e068cfd8c19d25f9",
+  "timestamp_utc": "2025-11-09T23:46:18.410640+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.533816964285716,
+    "reading_ease": 26.914010416666684,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Tibial Bone Remodeling with Total Knee Arthroplasty: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "54 participants were randomised"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "54 participants were randomised to receive either rotating-platform (n=28) or fixed-platform (n=26) cemented TKA."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare tibial bone density changes in cemented TKA components with different bearing designs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "CT scans were performed postoperatively and at 1 and 2 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using [randomisation method] with allocation concealment via [allocation concealment method]."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was applied to [outcome assessors/patients/clinicians]."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "54 participants were randomised to receive either rotating-platform (n=28) or fixed-platform (n=26) cemented TKA."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The effect size for cancellous bone density loss was [effect size], 95% CI [confidence interval]; p = [p-value]."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

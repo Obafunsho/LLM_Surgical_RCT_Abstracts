@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial on Pharyngeal and Laryngeal Alterations in ABI Patients with Nasogastric and Tracheostomy Tubes"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable due to the retrospective nature of the study."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "103 ABI patients with NGT indwelled for more than 1 month, admitted to Huashan Hospital, Fudan University, from October 2019 to October 2023."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were divided into two groups based on tracheostomy status."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to explore the effects of prolonged nasogastric tube (NGT) and tracheostomy on pharyngeal and laryngeal structures in patients with acquired brain injury (ABI)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the presence of structural abnormalities, measured at the time of FEES."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable due to the retrospective nature of the study."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The NGT\u2013TRACH group exhibited higher rates of epiglottis shape abnormality, glossoptosis, and pharyngeal stenosis compared to the NGT group (p < 0.05)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "The study did not report adverse events."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: The study did not specify funding sources."
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

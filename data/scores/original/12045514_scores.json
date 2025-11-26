@@ -1,0 +1,74 @@
+{
+  "pmcid": "12045514",
+  "sha256": "d0b92557b014b9e98c58fcb29375930184a079bdcc59ca9cd09ae887c643ba13",
+  "timestamp_utc": "2025-11-09T15:28:40.624957+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.91045782692132,
+    "reading_ease": 44.29126108014256,
+    "word_count": 353
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes were 5% fluid accumulation at postop 48 hours and severe AKI on postop day (POD) 5."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "There were 49 newborns. Twenty-nine newborns were early PD (+) starts, and 20 used the PD catheter as an abdominal drain (PD −)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The early PD (+) group produced significantly less urine output during POD 1 (0.98 versus 3.02 ml/kg per hour; P = 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

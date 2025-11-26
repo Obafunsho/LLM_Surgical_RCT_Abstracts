@@ -1,0 +1,74 @@
+{
+  "pmcid": "11935356",
+  "sha256": "2ea4a047be46d6cd459b18f6ed6c6b7bb7461e5ebd3861c9409afd4d6d8846db",
+  "timestamp_utc": "2025-11-09T15:26:52.026575+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.139422452952633,
+    "reading_ease": 14.44386437378327,
+    "word_count": 268
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "adult patients older than 18 years old who underwent CF-LVAD implantation"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Our study aims at identifying potential predictors of intraoperative bleeding"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 208 patients were included in the analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Multilogistic regression analysis showed that artery bypass grafting pre-LVAD (odds ratio [OR] 2.98, confidence interval [CI] 1.2-7.42, p = 0.01) and temporary mechanical assist device pre-LVAD (OR 3.67, 95%CI 1.72-7.85, p < 0.001) were independent predictors of intraoperative bleeding"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

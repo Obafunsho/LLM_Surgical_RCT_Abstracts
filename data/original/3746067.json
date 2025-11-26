@@ -1,0 +1,20 @@
+{
+  "pmcid": "3746067",
+  "pmid": "23600935",
+  "title": "Fast presurgical functional mapping using task-related intracranial high gamma activity",
+  "abstract": "Object: Electrocorticography (ECoG) is a powerful tool for presurgical functional mapping. Power increase in the high gamma band has been observed from ECoG electrodes on the surface of the sensory motor cortex during the execution of body movements. In this study the authors aim to validate the clinical usage of high gamma activity in presurgical mapping by comparing ECoG mapping with traditional direct electrical cortical stimulation (ECS) and functional MRI (fMRI) mapping.\n\nMethods: Seventeen patients with epilepsy participated in an ECoG motor mapping experiment. The patients executed a 5-minute hand/tongue movement task while the ECoG signal was recorded. All 17 patients also underwent extraoperative ECS mapping to localize the motor cortex. Eight patients also participated in a presurgical fMRI study. The high gamma activity on ECoG was modeled using the general linear model (GLM), and the regions showing significant gamma power increase during the task condition compared with the rest condition were localized. The maps derived from GLM-based ECoG mapping, ECS, and fMRI were then compared.\n\nResults: High gamma activity in the motor cortex can be reliably modulated by motor tasks. Localization of the motor regions achieved with GLM-based ECoG mapping was consistent with the localization determined by ECS. The maps also appeared to be highly localized compared with the fMRI activations. Using the ECS findings as the reference, GLM-based ECoG mapping showed a significantly higher sensitivity than fMRI (66.7% for ECoG, 52.6% for fMRI, p < 0.05), while the specificity was high for both techniques (> 97%). If the current-spreading effect in ECS is accounted for, ECoG mapping may produce maps almost identical to those produced by ECS mapping (100% sensitivity and 99.5% specificity).\n\nConclusions: General linear model–based ECoG mapping showed a superior performance compared to traditional ECS and fMRI mapping in terms of efficiency and accuracy. Using this method, motor functions can be reliably mapped in less than 5 minutes.",
+  "authors": [
+    "Tianyi Qian",
+    "Wenjing Zhou",
+    "Zhipei Ling",
+    "Shangkai Gao",
+    "Hesheng Liu",
+    "Bo Hong"
+  ],
+  "journal": "Journal of neurosurgery",
+  "year": "2013",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

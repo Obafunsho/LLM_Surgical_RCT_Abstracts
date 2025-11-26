@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We performed a randomized controlled trial using a radiostereometric analysis"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This parallel-group trial (ClinicalTrials.gov: NCT01966848 ) randomized 50 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "randomized 50 patients with an intact ACL who were eligible to undergo TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized 50 patients...to receive either a bicruciate-retaining or cruciate-retaining TKA"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We performed a randomized controlled trial using a radiostereometric analysis and asked, at 2 years: (1) Is there a difference in tibial implant migration between the bicruciate-retaining and cruciate-retaining TKA designs?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the maximum total point motion (MTPM) of the tibial component measured with model-based radiostereometric analysis (RSA) at 2 years postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were blinded to treatment allocation."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Patients were blinded to treatment allocation."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "randomized 50 patients with an intact ACL"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "RSA images were available for 22 patients who underwent bicruciate-retaining and 23 patients who underwent cruciate-retaining TKA, while patient-reported outcome measures were available for 24 patients in each group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The median (interquartile range [IQR]) MTPM was 0.52 mm (0.35 to 1.02) and 0.42 mm (0.34 to 0.70) in the bicruciate-retaining and cruciate-retaining groups, respectively (p = 0.63)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Three patients in the bicruciate-retaining group underwent arthroscopically assisted manipulation at 3 to 4 months postoperatively, and one patient in the bicruciate-retaining group sustained a tibial island fracture during primary surgery and underwent a revision procedure after 6 months."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov: NCT01966848"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

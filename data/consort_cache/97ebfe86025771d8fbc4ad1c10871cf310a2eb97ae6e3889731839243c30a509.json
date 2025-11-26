@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Multiplayer vs. Single-Player iVR Training for Surgical Skills Acquisition"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a randomised controlled trial, 40 participants were allocated to either individual or team iVR training using block randomisation with a 1:1 ratio."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included junior orthopedic surgical residents and novice scrub technicians."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved five iVR training sessions over six weeks, followed by a real-world assessment of anterior approach total hip arthroplasty on a high-fidelity model."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether multiplayer immersive Virtual Reality (iVR) training surpasses single-player training in acquiring technical and nontechnical skills for complex surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Non-Operative Technical Skills for Surgeons (NOTSS) score, assessed by two blinded observers."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "block randomisation with a 1:1 ratio"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "assessed by two blinded observers"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "40 participants were allocated to either individual or team iVR training using block randomisation with a 1:1 ratio."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Team-trained participants demonstrated superior nontechnical skills (NOTSS: 13.1\u00b11.5 vs 10.6\u00b11.6, P = 0.002) and completed procedures 33% faster (28.2 minutes \u00b1 5.5 vs 41.8 \u00b1 8.9, P < 0.001) with fewer technical errors (10.4 \u00b1 6.1 vs 22.6 \u00b1 5.4, P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN32225943."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

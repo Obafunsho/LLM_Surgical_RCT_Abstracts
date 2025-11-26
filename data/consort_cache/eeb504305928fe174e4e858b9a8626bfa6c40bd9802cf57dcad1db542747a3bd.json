@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Long-term Impact of Mesh Type on Chronic Pain in Open Anterior Inguinal Hernia Repair: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The sample size calculation required 240 patients to detect a reduction in pain from 30% to 15% with 80% power."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "men aged 25 years or older with symptomatic unilateral inguinal hernia"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised (1:1) to receive either heavyweight (90 g/m\u00b2) or lightweight (28 g/m\u00b2) mesh."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed the long-term effects of heavyweight versus lightweight mesh on chronic pain following open anterior inguinal hernia repair."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was chronic pain affecting daily activities, measured by the Short-Form Inguinal Pain Questionnaire 9\u201312 years post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed via a web-based server."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not achieved."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 412 randomised patients, 363 were analysed, with 271 completing the follow-up (121 heavyweight, 150 lightweight)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of 412 randomised patients, 363 were analysed, with 271 completing the follow-up (121 heavyweight, 150 lightweight)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Pain affecting daily activities was significantly less in the lightweight group (generalized odds 1.33, 95% CI 1.10 to 1.61; p = 0.004), translating to a number needed to treat of 7.06 (95% CI 4.28 to 21.44)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00451893."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by Ume\u00e5 University."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

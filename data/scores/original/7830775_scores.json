@@ -1,0 +1,74 @@
+{
+  "pmcid": "7830775",
+  "sha256": "6f88f9c9012077c8d63456bdea77db0026eb486669f51d90eed6c36d1e620930",
+  "timestamp_utc": "2025-11-09T16:15:24.658939+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.772696303866468,
+    "reading_ease": 18.11624425140522,
+    "word_count": 309
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The Prehospital Air Medical Plasma (PAMPer) trial randomized severely injured patients (n=501)"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized severely injured patients (n=501) to receive either standard care (crystalloid) or two units of prehospital plasma followed by standard care fluid resuscitation"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We sought to characterize the unexpected survivors, patients who survived despite having high predicted mortality following traumatic injury."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We defined unexpected survivors as patients who had a predicted mortality >50% and survived to 30 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomized severely injured patients (n=501)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Unexpected survivors who received prehospital plasma had a lower observed to expected mortality than those that received standard care resuscitation (O/E 0.56 [0.33–0.84] vs. 1.0 [0.73–1.32])."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

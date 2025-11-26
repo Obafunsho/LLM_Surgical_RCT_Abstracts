@@ -1,0 +1,74 @@
+{
+  "pmcid": "4252114",
+  "sha256": "fe38035a222d8f49e49d817935a63fcfcab1e18cd13189f8ac84929ca468d1a4",
+  "timestamp_utc": "2025-11-09T15:58:03.644914+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.092568181818184,
+    "reading_ease": 28.773518939393938,
+    "word_count": 275
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing drug interventions with placebo or another drug to shorten the onset time of rocuronium"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study systematically investigated the most efficacious pharmacological interventions for accelerating the onset time of rocuronium."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Mean differences (MDs) with their 95% confidence intervals (95% CIs) were used to analyze the effects of drug interventions on the onset time of rocuronium."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "43 randomized controlled trials with 2,465 patients were analyzed."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Priming with rocuronium [Mean difference (MD) −21.0 s, 95% confidence interval (95% CI) (−27.6 to −14.3 s)], pretreatment with ephedrine [−22.3 s (−29.1 to −15.5 s)], pretreatment with magnesium sulphate [−28.2 s (−50.9 to −5.6 s)] were all effective in reducing the onset time of rocuronium."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

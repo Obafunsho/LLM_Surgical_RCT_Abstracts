@@ -1,0 +1,74 @@
+{
+  "pmcid": "12507096",
+  "sha256": "e6c4fa905d0fa12674a3bb884923285a73b82b7fb945af1abbc04a5fcdf4c3ec",
+  "timestamp_utc": "2025-11-09T15:46:08.277268+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.575796933085503,
+    "reading_ease": 13.336855250929403,
+    "word_count": 269
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to surgery with or without intraoperative molecular imaging (10:1 ratio)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "112 patients with suspected or biopsy-confirmed cancer in the lung scheduled for sublobar pulmonary resection"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to surgery with or without intraoperative molecular imaging"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study objective was to determine the clinical utility of pafolacianine"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary end point was the proportion of participants with a clinically significant event"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to surgery with or without intraoperative molecular imaging (10:1 ratio)."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "112 patients with suspected or biopsy-confirmed cancer in the lung"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "In 38 participants, at least 1 event was a margin 10 mm or less from the resected primary nodule (38%, 95% confidence interval, 28.5–48.3)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No drug-related serious adverse events occurred."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

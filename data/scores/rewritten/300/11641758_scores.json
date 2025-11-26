@@ -1,0 +1,74 @@
+{
+  "pmcid": "11641758",
+  "sha256": "3f5d6ffe73b68a0ec1c2d438760ee5b4e19c78cac471d5c599a7e54b31d2941b",
+  "timestamp_utc": "2025-11-09T23:18:28.838502+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.01778543307087,
+    "reading_ease": 37.17620570866143,
+    "word_count": 254
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Mesenchymal Stem Cell Therapy for Enhancing Arteriovenous Fistula Patency"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised controlled trial was conducted at a tertiary care center."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were CKD patients eligible for AVF creation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received MSC therapy, while the control group received standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the efficacy of mesenchymal stem cell (MSC) therapy in enhancing AVF patency."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was AVF patency at 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was applied to outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the MSC group and 100 to the control group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 98 in the MSC group and 97 in the control group, using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The MSC group demonstrated a significant improvement in AVF patency (mean difference = 15%, 95% CI 10% to 20%; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in the MSC group and 1% in the control group experiencing minor side effects."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by the National Institutes of Health."
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  }
+}

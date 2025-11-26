@@ -1,0 +1,74 @@
+{
+  "pmcid": "4656171",
+  "sha256": "a4124e3d29c84d2db428d34b45bea5b09e18b532f5767ba158ae2c3a8da4fcb1",
+  "timestamp_utc": "2025-11-09T16:00:07.988232+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.139965034965034,
+    "reading_ease": 14.627383449883467,
+    "word_count": 143
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Endovenous ablative methods substitute stripping by thermal of chemical destruction of the saphenous trunk; they usually refrain from saphenofemoral junction ligation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "randomized studies with long-term follow-ups exceeding 10 years are necessary for trustworthy assessment whether it is justified to abstain from saphenofemoral junction ligation."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 3,
+    "max_score": 25
+  }
+}

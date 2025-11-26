@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Role of the Iliocapsularis Muscle in Hip Stability"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "85 participants, with 45 hips in Group I (deficient acetabular coverage) and 40 hips in Group II (excessive acetabular coverage). Participants were recruited from a single orthopedic center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group I (deficient acetabular coverage) and 40 hips in Group II (excessive acetabular coverage)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare its anatomical dimensions and fatty infiltration in hips with deficient versus excessive acetabular coverage."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the difference in muscle dimensions and fatty infiltration between groups, measured over a 6-month period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "85 participants, with 45 hips in Group I (deficient acetabular coverage) and 40 hips in Group II (excessive acetabular coverage)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean difference in CSA was significant (p < 0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This study was funded by [Funding source]."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

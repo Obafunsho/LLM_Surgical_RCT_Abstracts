@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Perioperative Normoxia vs. Hyperoxia in Cyanotic Neonates Undergoing Cardiopulmonary Bypass"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial enrolled 29 neonates"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "neonates with cyanotic congenital heart disease at a single tertiary care center. Eligibility criteria included neonates requiring cardiopulmonary bypass."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to normoxia (PaO2 60\u2013100 mmHg) or hyperoxia (PaO2 200\u2013300 mmHg) during bypass."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the feasibility, safety, and oxidative stress response of perioperative normoxia versus hyperoxia in cyanotic neonates undergoing cardiopulmonary bypass."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was serum thiobarbituric acid reactive substances (TBARS) measured at baseline, 2, 6, and 24 hours postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty-nine neonates (median age 5 days) were randomised: 15 to normoxia and 14 to hyperoxia."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "TBARS levels were significantly lower in the normoxia group at 2 hours (1.21\u00b10.26 vs 1.93\u00b10.63), 6 hours (1.09\u00b10.25 vs 1.77\u00b10.7), and 24 hours (0.96\u00b10.16 vs 1.41\u00b10.29); all p<0.01."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

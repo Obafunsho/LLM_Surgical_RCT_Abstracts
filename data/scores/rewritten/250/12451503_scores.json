@@ -1,0 +1,74 @@
+{
+  "pmcid": "12451503",
+  "sha256": "3f850f08dbfc27b580b5f2760a8d65fc0d7727f0926345a9ed102fef624dadd6",
+  "timestamp_utc": "2025-11-09T22:27:55.297798+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.273860182370822,
+    "reading_ease": 26.996666666666698,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial on Perioperative Oxygen Therapy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either a high fraction of inspired oxygen or a low fraction."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We included participants undergoing surgery, with eligibility based on specific criteria. The study was conducted in a hospital setting."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either a high fraction of inspired oxygen or a low fraction."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of surgical site infection, measured within 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the high oxygen group and 100 to the low oxygen group, between April 2018 and March 2022."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 98 participants in the high oxygen group and 97 in the low oxygen group, using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The high oxygen group showed a slight reduction in surgical site infection (risk ratio 0.91, 95% CI 0.78 to 1.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included increased atelectasis in the high oxygen group (risk ratio 1.47, 95% CI 1.20 to 1.79)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42021272361."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: National Institute for Health and Care Research (NIHR) Health Technology Assessment programme (NIHR award ref: NIHR132987)."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

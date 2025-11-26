@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Short- versus Long-term Dual Antiplatelet Therapy for Stent-Assisted Coil Embolization of Cerebral Aneurysms"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This multicenter, open-label, parallel-group randomised controlled trial was conducted in 17 hospitals in Japan."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients aged \u226520 years, treated with SACE, and on DAPT were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to long-term (12 months) or short-term (3 months) DAPT with aspirin and clopidogrel."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial aimed to determine if long-term DAPT reduces ischemic stroke occurrence compared to short-term DAPT."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was time to ischemic stroke from 3 to 12 months post-SACE."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was web-based, with no blinding."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation was web-based, with no blinding."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From November 4, 2016, to January 7, 2019, 142 patients were randomised: 65 to long-term and 68 to short-term DAPT."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 65 in the long-term and 68 in the short-term group."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Ischemic stroke occurred in 0 patients in the long-term group and 1 in the short-term group (0.0 vs 2.1/100 person-years; P=0.33)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Two hemorrhagic events occurred in the long-term group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered (jRCTs051180141)."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The trial was funded by Daiichi Sankyo Co., Ltd. Japan."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Acellular Dermal Matrix in Implant-Based Breast Reconstruction"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned (1:1)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "women with breast cancer planned for mastectomy with immediate IBBR"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "IBBR with or without ADM"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "assessed whether implant-based breast reconstruction (IBBR) with acellular dermal matrix (ADM) enhances health-related quality of life (HRQoL) and patient-reported cosmetic outcomes compared to conventional IBBR without ADM"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the number of reoperations within 6 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed until baseline questionnaires were completed"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "The study was open-label"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between April 2014 and May 2017, 135 women were randomised: 65 to the ADM group and 70 to the control group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 64 in the ADM group and 65 in the control group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "cosmetic outcome (mean difference 8.66, 95% CI 0.46 to 16.86; p = 0.041)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events requiring reoperation were more frequent in the ADM group"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02061527"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

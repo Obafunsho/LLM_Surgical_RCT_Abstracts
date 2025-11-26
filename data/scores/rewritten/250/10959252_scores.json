@@ -1,0 +1,74 @@
+{
+  "pmcid": "10959252",
+  "sha256": "81530427cffe2591018d388f9b912e9e8e03d88f1d01e89570cbca01a8a6367d",
+  "timestamp_utc": "2025-11-09T21:58:27.337547+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.741422708618334,
+    "reading_ease": 4.730328317373477,
+    "word_count": 215
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Folate Receptor-Targeted Intraoperative Molecular Imaging for Pulmonary Nodule Localization"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This Phase I trial enrolled 20 subjects"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "20 subjects with biopsy-proven pulmonary adenocarcinomas at a single center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants received OTL38, a folate receptor-α targeted optical contrast agent"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the safety and efficacy of folate receptor-targeted intraoperative molecular imaging using OTL38 in localizing pulmonary nodules during resection."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "fluorescence was quantified"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "20 subjects"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Sixteen of 20 (80%) subjects had tumors with in situ fluorescence, with a mean tumor-to-background fluorescence level of 2.9 (IQR, 2.1 to 4.2)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Three Grade I adverse events (transient nausea/abdominal pain) were observed, resolving post-infusion."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

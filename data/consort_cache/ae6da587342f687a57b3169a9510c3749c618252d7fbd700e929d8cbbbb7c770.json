@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Twenty consecutive patients treated by volar locking plate fixation for low-grade open DRFs constituted the open fracture group, and 40 patients were selected from among the total number of patients treated by volar, locking plate fixation for closed DRFs as the closed fracture group."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Twenty consecutive patients treated by volar locking plate fixation for low-grade open DRFs constituted the open fracture group, and 40 patients were selected from among the total number of patients treated by volar, locking plate fixation for closed DRFs as the closed fracture group."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We asked whether low-grade open DRFs had worse DASH scores and higher infection rates than closed DRFs when the DRFs were treated by volar plate fixation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Clinical outcomes and radiographic assessments were performed postoperatively at 3 months and 1 year."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty consecutive patients treated by volar locking plate fixation for low-grade open DRFs constituted the open fracture group, and 40 patients were selected from among the total number of patients treated by volar, locking plate fixation for closed DRFs as the closed fracture group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 3 postoperative months, wrist flexion and extension, grip strengths, and DASH scores were better in the closed fracture group; however, no difference was observed postoperatively between the two groups in terms of any functional outcome measure at 1 year."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complications including infection were recorded."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "9365439",
+  "sha256": "b48012a3bac56e3404bf5d186a5b3473f23c17473607153c19a091c8ed5d5636",
+  "timestamp_utc": "2025-11-10T00:12:31.315814+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.017947982062783,
+    "reading_ease": 24.78747802690583,
+    "word_count": 223
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial Comparing Carotid Artery Stenting and Endarterectomy in Asymptomatic Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised to CAS or CEA, in addition to standard medical therapy"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "2544 patients with ≥70% asymptomatic carotid stenosis, randomised to CAS or CEA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to CAS or CEA"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare CAS and CEA outcomes in asymptomatic, non-octogenarian patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary composite endpoint was any stroke, myocardial infarction, or death during the periprocedural period or ipsilateral stroke within 4 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Neurologic assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomised to CAS or CEA"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The primary endpoint showed no significant difference between CAS and CEA (5.3% vs. 5.1%, HR = 1.02; 95% CI 0.7–1.5; P=.91)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported as periprocedural complications."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source]."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

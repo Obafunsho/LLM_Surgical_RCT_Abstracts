@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomly allocated to the probe-based NIRAF or control group"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients undergoing parathyroidectomy for primary hyperparathyroidism were prospectively enrolled"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly allocated to the probe-based NIRAF or control group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate the benefits of probe-based near infrared autofluorescence (NIRAF) parathyroid identification during parathyroidectomy."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "number of parathyroids identified with high confidence by the surgeon and the resident"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly allocated to the probe-based NIRAF or control group"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One hundred and sixty patients were randomly enrolled under both surgeons to the probe group (n=80) vs. control (n=80)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "parathyroid identification rate of the senior surgeon improved significantly from 3.2 to 3.6 parathyroids per patient (p<0.001)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

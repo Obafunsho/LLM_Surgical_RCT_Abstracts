@@ -1,0 +1,74 @@
+{
+  "pmcid": "10997181",
+  "sha256": "fa5bd74c9f4e347ed920ab2fbe3b776caf90aaa3899204e9c16e64353e085e04",
+  "timestamp_utc": "2025-11-09T23:11:24.364992+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.228233840304181,
+    "reading_ease": 23.644403992395468,
+    "word_count": 263
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Postoperative Antibiotic Duration in Complex Appendicitis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients aged ≥8 years undergoing appendectomy for complex appendicitis were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients aged ≥8 years undergoing appendectomy for complex appendicitis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either 2 days or 5 days of intravenous antibiotics"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the cost-effectiveness of 2 days versus 5 days of postoperative antibiotics"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was a composite of infectious complications and mortality within 90 days"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using computerized block randomisation, stratified by center"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "nonblinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 1066 patients were randomised, with 502 in the 2-day group and 503 in the 5-day group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The intention-to-treat analysis included 1005 patients"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean difference in overall societal costs was –€625 (95% CI: –€958 to –€278)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered in the Netherlands Trial Register (code NL5946)"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "The trial was funded by [source not specified]"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

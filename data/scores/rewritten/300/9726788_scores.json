@@ -1,0 +1,74 @@
+{
+  "pmcid": "9726788",
+  "sha256": "20bc22c429b6e3694d6e44699256dfd5ee5dcc0dca286c5c9cd3361f3a1b4ca7",
+  "timestamp_utc": "2025-11-10T00:13:05.485809+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.710198991031387,
+    "reading_ease": 21.591576513452964,
+    "word_count": 223
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Fluorescence-Guided Surgery and Photoimmunotherapy in Pancreatic Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Mice were randomised into FGS-only (n=8) and FGS + PIT (n=8) groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "16 nude mice with surgical orthotopic implantation of the human pancreatic cancer cell line BxPC-3"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Mice were randomised into FGS-only (n=8) and FGS + PIT (n=8) groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the effectiveness of combining fluorescence-guided surgery (FGS) with photoimmunotherapy (PIT)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of metastatic recurrence, assessed four weeks post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "using a computer-generated sequence, with allocation concealment"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied to outcome assessors, patients, or clinicians"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Mice were randomised into FGS-only (n=8) and FGS + PIT (n=8) groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The metastatic recurrence rate was 100% in the FGS-only group and 25% in the FGS + PIT group (p=0.007)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not specified"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

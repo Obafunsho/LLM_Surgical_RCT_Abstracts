@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Genetic Screening in Amyotrophic Lateral Sclerosis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This multicenter, prospective cohort study enrolled 1000 incident ALS patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants met ALS diagnostic criteria and were followed for 12 months."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Genetic analysis focused on SOD1 and C9orf72 genes."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the frequency of SOD1 variants and C9orf72 G4C2 repeats, assessed at baseline."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "This multicenter, prospective cohort study enrolled 1000 incident ALS patients from 22 ALS centers in France between April 2021 and April 2022."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "C9orf72 G4C2 repeats were found in 7.6% of patients, while SOD1 variants were present in 1.6%."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "C9orf72 G4C2 repeats were found in 7.6% of patients, while SOD1 variants were present in 1.6%."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to genetic testing were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04819555"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

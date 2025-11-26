@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: This study aimed to determine the incidence of postoperative cognitive dysfunction (POCD) in older adults using the Auto-MoCA application and to identify associated risk factors."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Methods: This prospective cohort study was conducted at a university hospital in Bangkok, Thailand, from March to October 2024."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were Thai-speaking patients aged 60 years or older scheduled for major elective surgery."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Background: This study aimed to determine the incidence of postoperative cognitive dysfunction (POCD) in older adults using the Auto-MoCA application and to identify associated risk factors."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Cognitive performance was assessed using the Auto-MoCA application preoperatively, and at 1 week and 3 months postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 113 patients were enrolled, with 45 (39.8%) developing POCD at 1 week post-surgery."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of these, 35 completed the 3-month follow-up, and 15 (42.9%) showed cognitive improvement."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean MoCA scores showed a slight decline at 1 week, with recovery close to preoperative levels by 3 months."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

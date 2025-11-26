@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Image Guidance Systems in Neurosurgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This preclinical randomised study involved 50 novice surgeons"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "50 novice surgeons"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to one of five groups: (1) no image guidance, (2) triplanar display, (3) always-on solid overlay, (4) always-on wire mesh overlay, and (5) on-demand inverse realism overlay"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effectiveness and safety of various image guidance systems compared to standard surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes were time to task completion (seconds) and tool path length (millimeters), measured immediately post-intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the study design."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This preclinical randomised study involved 50 novice surgeons"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Image guidance significantly reduced time to task completion and tool path length compared to no guidance (p < 0.001 and p = 0.003, respectively)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source]."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

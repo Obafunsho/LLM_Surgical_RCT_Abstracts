@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Seventeen epilepsy patients participated in an ECoG motor mapping experiment at a single center. Eligibility included patients undergoing presurgical evaluation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients performed a 5-minute hand/tongue movement task while ECoG signals were recorded. All patients underwent ECS mapping, and eight also had fMRI."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to validate ECoG for presurgical mapping by comparing it with direct electrical cortical stimulation (ECS) and functional MRI (fMRI)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "GLM-based ECoG mapping showed consistent motor region localization with ECS."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "ECoG had higher sensitivity than fMRI (66.7% vs. 52.6%, p < 0.05) with high specificity for both (>97%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

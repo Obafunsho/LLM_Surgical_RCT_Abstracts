@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This study evaluated the feasibility of immediate urinary catheter removal after radical gastrectomy."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This was a non-inferiority randomized clinical trial performed at a university-affiliated hospital in China."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing radical gastrectomy were randomized in a 1 : 1 ratio to either immediate removal (IR) or early removal (ER) of the urinary catheter."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients undergoing radical gastrectomy were randomized in a 1 : 1 ratio to either immediate removal (IR) or early removal (ER) of the urinary catheter."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the feasibility of immediate urinary catheter removal after radical gastrectomy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome measure was postoperative urinary retention with a non-inferiority margin of 10% to compare IR with ER."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The randomization sequence was computer generated; the investigators and patients were not blinded to group allocation."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "The investigators and patients were not blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Initially, 248 patients were assessed for eligibility for this study."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Data were analysed for 92 patients in the IR group and 89 patients in the ER group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The incidence of postoperative urinary retention was 4.4% and 3.4% in the IR and ER groups, respectively ( P = 0.733; 1.0% difference, 95% confidence interval \u22124.6 to 6.6%)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT06718114 ( http://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

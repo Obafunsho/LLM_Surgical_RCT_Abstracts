@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Omission of Tamponade Dressings after Haemorrhoidectomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients with grade III or IV haemorrhoids were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with grade III or IV haemorrhoids were randomised 1:1 to either no tamponade (intervention) or tamponade (control) groups."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to either no tamponade (intervention) or tamponade (control) groups."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated whether omitting tamponade dressings post-haemorrhoidectomy reduces postoperative pain without increasing severe bleeding risk."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were maximum pain intensity within 48 hours post-surgery (superiority) and severe bleeding requiring surgical re-intervention within 7 days (non-inferiority)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was centre-stratified with variable block sizes, and allocation was concealed via a web-based tool."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "No blinding was implemented."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between May 2017 and November 2020, 754 patients were randomised (366 intervention, 359 control)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "754 patients were randomised (366 intervention, 359 control)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group reported lower median pain intensity (5, i.q.r. 3\u20137) compared to the control group (6, i.q.r. 4\u20137), P < 0.001. Severe bleeding occurred in 1.1% of patients in both groups, with a non-inferiority margin of \u22120.03% (90% CI \u22121.47% to +1.41%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, with 10 serious adverse events recorded (3 intervention, 7 control), including urinary retention, wound infections, fever, and vomiting."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: DRKS00011590."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

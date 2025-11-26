@@ -1,0 +1,74 @@
+{
+  "pmcid": "12499704",
+  "sha256": "5a02e73f184e0b38b75e9f80afc56d32d3b138e1bd75c92af5d709741dc20632",
+  "timestamp_utc": "2025-11-09T22:30:33.279983+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.786071428571432,
+    "reading_ease": 21.15892857142856,
+    "word_count": 224
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Effect of Intravenous Lignocaine Infusion on Intraoperative Desflurane Requirements"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive either a bolus of 1.5 mg/kg of 2% lignocaine hydrochloride followed by an infusion of 1 mg/kg/h (Group A) or an equal volume of normal saline (Group B)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Forty-eight patients aged 18-75 years, scheduled for laparoscopic cholecystectomy, appendicectomy, or ovarian cystectomy at Hospital Universiti Kebangsaan Malaysia"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive either a bolus of 1.5 mg/kg of 2% lignocaine hydrochloride followed by an infusion of 1 mg/kg/h (Group A) or an equal volume of normal saline (Group B)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial investigated the impact of intravenous (IV) lignocaine infusion on intraoperative end-tidal desflurane (Et-Des) concentration"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Et-Des concentration, measured every 10 minutes until skin closure."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Both patients and clinicians were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty-eight patients aged 18-75 years"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Forty-seven patients were analysed (23 in Group A, 24 in Group B)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Group A had a significantly lower Et-Des concentration (4.3% ± 0.45%) compared to Group B (5.3% ± 0.56%, p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One adverse event of fast atrial fibrillation occurred in Group A."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT06064331."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by Azlina Masdar."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

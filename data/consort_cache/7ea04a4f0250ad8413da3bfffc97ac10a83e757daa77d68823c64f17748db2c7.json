@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The present study was undertaken to examine the feasibility of assessing adjuvant statin therapy in patients with operable OAC in a phase III RCT."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "centrally allocated (1 : 1) to simvastatin 40\u2009mg or matching placebo by block randomization, stratified by centre."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adults with OAC (including Siewert I\u2013II lesions) who had undergone oesophagectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "centrally allocated (1 : 1) to simvastatin 40\u2009mg or matching placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The present study was undertaken to examine the feasibility of assessing adjuvant statin therapy in patients with operable OAC in a phase III RCT."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "centrally allocated (1 : 1) to simvastatin 40\u2009mg or matching placebo by block randomization, stratified by centre."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Participants, clinicians and investigators were blinded to treatment allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 120 patients were assessed for eligibility at four centres, of whom 32 (26\u00b77 per cent) were randomized, 16 in each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Seven patients withdrew."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Participants allocated to simvastatin had lower low\u2010density lipoprotein cholesterol levels by 3\u2009months (adjusted mean difference \u22120\u00b783 (95 per cent\u2009c.i. \u22121\u00b74 to \u22120\u00b722) mmol/l; P = 0\u00b7009)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between the groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: ISRCTN98060456 ( http://www.isrctn/com )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

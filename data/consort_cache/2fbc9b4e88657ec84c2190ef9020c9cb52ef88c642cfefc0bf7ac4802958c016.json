@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Men aged 25 years or older with an inguinal hernia evaluated in the outpatient clinic were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Men aged 25 years or older with an inguinal hernia evaluated in the outpatient clinic"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized in an unblinded fashion to heavyweight or lightweight mesh for open anterior inguinal hernia repair"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Data on pain affecting daily activities, as measured by the Short-Form Inguinal Pain Questionnaire 9\u201312 years after surgery, were collected as the primary outcome"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized in an unblinded fashion"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "randomized in an unblinded fashion"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 412 patients were randomized"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "363 were analysed with 320 questionnaires sent out"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Pain affecting daily activities was more pronounced in patients randomized to heavyweight versus lightweight mesh (generalized odds 1.33, 95 per cent c.i. 1.10 to 1.61)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Two reoperations for recurrence were noted in the heavyweight mesh group, and one in the lightweight mesh group"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT00451893"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

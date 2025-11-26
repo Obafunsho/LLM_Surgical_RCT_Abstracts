@@ -1,0 +1,74 @@
+{
+  "pmcid": "10646917",
+  "sha256": "d4a89b1bb5fc337625b6b18de8397a2203619b6cac15a4032ede93c71c8e90a5",
+  "timestamp_utc": "2025-11-09T15:10:33.381939+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.49517385444744,
+    "reading_ease": 31.34852897574126,
+    "word_count": 371
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This study examined the efficacy and safety of the bupivacaine implant (300 mg) compared with placebo for postsurgical pain after abdominoplasty."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this double-blind, placebo-controlled study, patients undergoing abdominoplasty were randomized to three 100 mg bupivacaine implants or three placebo collagen implants, in a 1:1 ratio, implanted intraoperatively."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients undergoing abdominoplasty"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients undergoing abdominoplasty were randomized to three 100 mg bupivacaine implants or three placebo collagen implants"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study examined the efficacy and safety of the bupivacaine implant (300 mg) compared with placebo for postsurgical pain after abdominoplasty."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcome: the analgesic effect of the bupivacaine implants through 24 hours postsurgery, measured by the sum of time-weighted pain intensity (SPI24)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients undergoing abdominoplasty were randomized"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "In this double-blind, placebo-controlled study"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The bupivacaine implant patients (n=181) reported statistically significant lower SPI24"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The bupivacaine implant patients (n=181) reported statistically significant lower SPI24"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The bupivacaine implant patients (n=181) reported statistically significant lower SPI24 (mean (SD) SPI24=102 (43), 95% CI 95 to 109) compared with placebo patients (n=184; SPI24=117 (45), 95% CI 111 to 123, p=0.002)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The only adverse event occurring in ≥5% of patients and for which proportion INL-001 >placebo was back pain (7.7% vs 7.6%)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration number: NCT04785625 ."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

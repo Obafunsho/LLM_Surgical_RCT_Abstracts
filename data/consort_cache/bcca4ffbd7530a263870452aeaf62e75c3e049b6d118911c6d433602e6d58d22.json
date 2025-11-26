@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tranexamic Acid in Reducing Blood Loss During Nephrectomy for Wilms Tumor in Children"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This prospective, randomised controlled trial was conducted at a tertiary healthcare center in India."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Sixty children under 10 years with Wilms tumor scheduled for elective nephrectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "TXA group (n=30) received 50 mg/kg TXA intravenously, followed by 5 mg/kg/h infusion; NS group (n=30) received an equivalent volume of normal saline."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of tranexamic acid (TXA) in reducing blood loss during this procedure."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was intraoperative blood loss, measured during surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Both patients and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty children under 10 years with Wilms tumor scheduled for elective nephrectomy were randomised into two groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The TXA group had significantly lower intraoperative blood loss (216.33 mL vs 306.33 mL; p=0.001) and PRBC transfusion volume (167.0 mL vs 199.8 mL; p=0.045)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Clinical Trial Registry of India (No. 2024/09/073921)."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

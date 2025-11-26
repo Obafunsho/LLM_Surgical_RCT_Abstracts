@@ -1,0 +1,74 @@
+{
+  "pmcid": "8831428",
+  "sha256": "69f1e143c9fca99181d79e0314c58cbcf0e363bad3cab4b0379f12f026c0014c",
+  "timestamp_utc": "2025-11-10T00:10:52.943991+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.818878676470593,
+    "reading_ease": 8.470606617647093,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Cardiovascular Drugs on Myocardial Injury After Noncardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised controlled trial was conducted across multiple international centers"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were adults undergoing noncardiac surgery, identified by elevated cTn levels within 30 days post-surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either a regimen of cardiovascular drugs (aspirin, antihypertensives, statins) or standard care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the efficacy of cardiovascular drugs in reducing mortality related to myocardial injury after noncardiac surgery (MINS)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the reduction in postoperative mortality within 30 days"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment achieved through sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group, recruited between January 2020 and June 2021"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 98 participants in the intervention group and 97 in the control group, following an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "showing a significant effect size (hazard ratio = 0.75, 95% CI 0.60 to 0.90; p = 0.01)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% of the intervention group and 1% of the control group experiencing mild gastrointestinal side-effects"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by the National Institutes of Health"
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12283117",
+  "sha256": "07075dcb9daefe8d507b0c6b498779d5aec4aaac825712380192cf89a24f7977",
+  "timestamp_utc": "2025-11-09T22:20:49.228104+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.751915887850469,
+    "reading_ease": 28.231362928348915,
+    "word_count": 214
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial Comparing Recurrence Rates of Diabetic Foot Ulcers and Chronic Limb-Threatening Ischaemia to Advanced-Stage Cancers"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the 3-year recurrence rates of diabetic foot ulcers (DFU) and the rate of endovascular reintervention for chronic limb-threatening ischaemia (CLTI) to recurrence rates of advanced-stage cancers."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the 3-year recurrence rate."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The pooled 3-year DFU recurrence rate was 58%, while the CLTI reintervention rate was 50%. These rates are comparable to cancer recurrence rates: breast (25%-40%), prostate (30%-40%), colorectal (30%-50%), and lung (60%-80%)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not provided."
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

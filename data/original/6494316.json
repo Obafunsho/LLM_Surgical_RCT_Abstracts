@@ -1,0 +1,20 @@
+{
+  "pmcid": "6494316",
+  "pmid": "30507832",
+  "title": "Can an Augmented Reality Headset Improve Accuracy of Acetabular Cup Orientation in Simulated THA? A Randomized Trial",
+  "abstract": "Background: Accurate implant orientation reduces wear and increases stability in arthroplasty but is a technically demanding skill. Augmented reality (AR) headsets overlay digital information on top of the real world. We have developed an enhanced AR headset capable of tracking bony anatomy in relation to an implant, but it has not yet been assessed for its suitability as a training tool for implant orientation.\n\nQuestions/purposes: (1) In the setting of simulated THA performed by novices, does an AR headset improve the accuracy of acetabular component positioning compared with hands-on training by an expert surgeon? (2) What are trainees’ perceptions of the AR headset in terms of realism of the task, acceptability of the technology, and its potential role for surgical training?\n\nMethods: Twenty-four study participants (medical students in their final year of school, who were applying to surgery residency programs, and who had no prior arthroplasty experience) participated in a randomized simulation trial using an AR headset and a simulated THA. Participants were randomized to two groups completing four once-weekly sessions of baseline assessment, training, and reassessment. One group trained using AR (with live holographic orientation feedback) and the other received one-on-one training from a hip arthroplasty surgeon. Demographics and baseline performance in orienting an acetabular implant to six patient-specific values on the phantom pelvis were collected before training and were comparable. The orientation error in degrees between the planned and achieved orientations was measured and was not different between groups with the numbers available (surgeon group mean error ± SD 16° ± 7° versus AR 14° ± 7°; p = 0.22). Participants trained by AR also completed a validated posttraining questionnaire evaluating their experiences.\n\nResults: During the four training sessions, participants using AR-guidance had smaller mean (± SD) errors in orientation than those receiving guidance from the surgeon: 1° ± 1° versus AR 6° ± 4°, p < 0.001. In the fourth session’s assessment, participants in both groups had improved (surgeon group mean improvement 6°, 95% CI, 4–8°; p < 0.001 versus AR group 9°, 95% CI 7–10°; p < 0.001). There was no difference between participants in the surgeon-trained and AR-trained group: mean difference 1.2°, 95% CI, -1.8 to 4.2°; p = 0.281. In posttraining evaluation, 11 of 12 participants would use the AR platform as a training tool for developing visuospatial skills and 10 of 12 for procedure-specific rehearsals. Most participants (11 of 12) stated that a combination of an expert trainer for learning and AR for unsupervised training would be preferred.\n\nConclusions: A novel head-mounted AR platform tracked an implant in relation to bony anatomy to a clinically relevant level of accuracy during simulated THA. Learners were equally accurate, whether trained by AR or a surgeon. The platform enabled the use of real instruments and gave live feedback; AR was thus considered a feasible and valuable training tool as an adjunct to expert guidance in the operating room. Although there were no differences in accuracy between the groups trained using AR and those trained by an expert surgeon, we believe the tool may be useful in education because it demonstrates that some motor skills for arthroplasty may be learned in an unsupervised setting. Future studies will evaluate AR-training for arthroplasty skills other than cup orientation and its transfer validity to real surgery.\n\nLevel of Evidence: Level I, therapeutic study.",
+  "authors": [
+    "Kartik Logishetty",
+    "Luke Western",
+    "Ruairidh Morgan",
+    "Farhad Iranpour",
+    "Justin P. Cobb",
+    "Edouard Auvinet"
+  ],
+  "journal": "Clinical Orthopaedics and Related Research",
+  "year": "2018",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

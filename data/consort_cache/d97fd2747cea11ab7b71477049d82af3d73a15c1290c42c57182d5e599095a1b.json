@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The children were randomly assigned to one of three groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Sixty-three children aged 1\u20136 years, belonging to American Society of Anesthesia (ASA) physical status I, II, and scheduled to undergo elective infraumbilical surgeries, were enrolled in the study."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group D received a caudal block with dexmedetomidine 1 \u03bcg/kg, Group M received morphine 30 \u03bcg/kg, and Group C received clonidine 1.5 \u03bcg/kg."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The primary objective of the current study is to compare the duration of postoperative analgesia with morphine, clonidine, or dexmedetomidine as adjuvants to 0.2% ropivacaine in a for caudal block, in children undergoing elective abdominal, urogenital, and lower limb surgeries."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The duration of analgesia, total analgesic requirements during the first 24 hours after the surgery, and the incidence of complications in the three groups were monitored."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The children were randomly assigned to one of three groups"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "monitored by a pain nurse who was blinded to the study allocation"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty-three children aged 1\u20136 years"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The median time taken for the first rescue analgesic in the dexmedetomidine group was 380 minutes, in the clonidine group was 360 minutes, and in the morphine group was 405 minutes."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The total perioperative opioids used and side effects were similar among the three groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

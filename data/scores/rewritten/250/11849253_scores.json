@@ -1,0 +1,74 @@
+{
+  "pmcid": "11849253",
+  "sha256": "99ff9b9b72fc295b5352c8163fc513ffb9d1fde4e246f9cde1d7edaed272f84d",
+  "timestamp_utc": "2025-11-09T22:09:33.745709+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.320270935960593,
+    "reading_ease": 21.9089655172414,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Hyperosmolar Prime Solution on Cardiac Surgery Associated Acute Kidney Injury"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this double-blind, prospective randomised controlled trial, 200 patients aged ≥65 years scheduled for routine cardiac surgery with cardiopulmonary bypass at a single tertiary teaching hospital in Sweden were randomised (1:1)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "200 patients aged ≥65 years scheduled for routine cardiac surgery with cardiopulmonary bypass at a single tertiary teaching hospital in Sweden"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised (1:1) to receive either a hyperosmolar prime solution (Ringer’s acetate 1000 mL + 400 mL Mannitol + sodium chloride 40 mL + heparin 2 mL, 966 mOsmol) or a control solution (Ringer’s acetate 1400 mL + heparin 2 mL, 388 mOsmol)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate whether a Ringer’s acetate-based priming solution with Mannitol and sodium chloride increases the risk of cardiac surgery associated acute kidney injury (CSA-AKI)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was CSA-AKI, defined by KDIGO criteria, assessed on day 1 in the ICU and day 3 postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "In this double-blind, prospective randomised controlled trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "200 patients aged ≥65 years scheduled for routine cardiac surgery"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 195 patients analysed (98 Mannitol, 97 Ringer)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the incidence of CSA-AKI was 2.6% on day 1 and 5.6% on day 3. No significant intergroup differences in serum creatinine levels were observed."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT05914896."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

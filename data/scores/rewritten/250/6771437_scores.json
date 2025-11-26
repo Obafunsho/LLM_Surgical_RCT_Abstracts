@@ -1,0 +1,74 @@
+{
+  "pmcid": "6771437",
+  "sha256": "87b7617cfd1451b6837a803696e3357c54f8181faa02339c9b57ee22e54f6de0",
+  "timestamp_utc": "2025-11-09T22:51:48.247795+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.77927272727273,
+    "reading_ease": 40.62390909090911,
+    "word_count": 220
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Time to Hemostasis in Bleeding Trauma Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial analyzed data from the PROPPR trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included patients undergoing emergent procedures within 90 minutes"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the impact of time to hemostasis on clinical outcomes"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 30-day mortality"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 680 patients, 468 underwent emergent procedures"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was per-protocol"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "RR 0.97, 95% CI 0.94–0.99"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

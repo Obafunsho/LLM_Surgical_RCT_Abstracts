@@ -1,0 +1,74 @@
+{
+  "pmcid": "11974623",
+  "sha256": "4060f5e6431068fff888b6ae8267762c3fc78b866cba21b5358479efb57c4c7b",
+  "timestamp_utc": "2025-11-09T15:27:18.487115+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.311344537815124,
+    "reading_ease": 35.63343137254904,
+    "word_count": 340
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The authors conducted a randomized single-center study at Amiens University Hospital (Amiens, France)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study population consisted of adult patients admitted for scheduled cardiac surgery with an expected cardiopulmonary bypass (CPB) time greater than 90 min."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The patients were allocated to either the standard group or the Oxiris group. The intervention consisted of using the Oxiris membrane on a Prismaflex device (Baxter, USA) at a blood flow rate of 450 ml/min during CPB."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The authors hypothesized that in patients at high risk of inflammation, the use of the Oxiris membrane could decrease inflammation, preserve endothelial function, and improve postoperative outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the assessment of microcirculation on day 1 after surgery by measuring sublingual microcirculation using the microvascular flow index."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The patients were allocated to either the standard group or the Oxiris group."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From October 2019 to November 2022, the study included 70 patients."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "An intention-to-treat analysis was performed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The microvascular flow index did not differ between groups on day 1 from baseline: difference (95% CI) Oxiris minus standard at –0.17 (–0.44 to 0.10); P = 0.2."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The occurrence of a composite adverse outcome did not significantly differ between groups (14 [42%] for the Oxiris group vs. 12 [35%] for the standard group; P = 0.7)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

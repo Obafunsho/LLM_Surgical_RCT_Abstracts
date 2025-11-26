@@ -1,0 +1,74 @@
+{
+  "pmcid": "3790608",
+  "sha256": "da6e2a785bc66a9132c17bdb95d82e1743d038dc25219adf679aa5a501c9afa0",
+  "timestamp_utc": "2025-11-09T22:38:42.819298+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.716778947368422,
+    "reading_ease": 27.325336842105287,
+    "word_count": 250
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Thumb and Index Finger Techniques for Laryngeal Mask Airway Insertion"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised, double-blind trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were 40 American Society of Anesthesiologists grade I and II patients aged 18-60 years. Exclusion criteria included risk of aspiration, limited mouth opening, and certain medical conditions."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly allocated into two groups: Group I (Index Finger) and Group T (Thumb Insertion)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of the thumb insertion technique compared to the conventional index finger technique for inserting the silicone laryngeal mask airway (LMA) Classic™"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was ease of insertion, assessed immediately post-insertion."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was achieved using sealed numbered envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Patients were randomly allocated into two groups: Group I (Index Finger) and Group T (Thumb Insertion), with 20 patients each."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean time for insertion was 29.00 seconds for Group I and 34.00 seconds for Group T, with no statistical significance."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

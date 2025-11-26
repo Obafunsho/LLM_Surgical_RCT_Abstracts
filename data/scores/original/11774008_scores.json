@@ -1,0 +1,74 @@
+{
+  "pmcid": "11774008",
+  "sha256": "f1ac892e085a829faff6ddd80ed1dce30f5e7b1779e1cd713a8a32db443cd923",
+  "timestamp_utc": "2025-11-09T15:23:28.696073+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.241580246913582,
+    "reading_ease": 0.3031111111110931,
+    "word_count": 243
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: Globally, haemodialysis is the most frequent type of kidney replacement therapy and necessitates access to the bloodstream either through a native arteriovenous fistula, arteriovenous graft or central venous catheter."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Design: Systematic review."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "All studies involved patient education, predominantly provided by nurses, and employed a variety of teaching resources, such as education booklets, practical demonstrations and videos."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To examine the effectiveness of educational or behavioural interventions designed to improve self‐management of long‐term vascular access in adults receiving haemodialysis."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Overall, vascular access self‐management significantly improved following education."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 3,
+    "max_score": 25
+  }
+}

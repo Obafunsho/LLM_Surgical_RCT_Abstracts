@@ -1,0 +1,74 @@
+{
+  "pmcid": "12448851",
+  "sha256": "8028859c523189d3720f14dbfb43d0ec4f12bd3c9740ecf4cac400e95d620a1b",
+  "timestamp_utc": "2025-11-09T15:42:32.257724+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.096116722783389,
+    "reading_ease": 51.7070707070707,
+    "word_count": 405
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "CReST2 is a phase III multicentre RCT."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomized 1 : 1 to receive either a covered or uncovered stent."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomized 1 : 1 to receive either a covered or uncovered stent."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Co-primary endpoints were stent patency up to 6 months after randomization and QoL at 3 months (30 days for patients who died before 3 months) from randomization."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Treatment allocation was via a central randomization service, minimized for: age (≤70 years, >70 years), WHO performance status, tumour site, and indication for palliation."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Patients and all medical personnel except the person placing the stent were blinded to allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 377 patients were randomised across 28 sites."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In this stented population, 216 patients (66.1%) contributed to QoL assessment at 3 months."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Stent patency at 6 months in stented patients was 117 of 161 (72.7%, covered) and 136 of 166 (81.9%, uncovered) (adjusted HR 1.48, 97.5% confidence interval (c.i.): 0.86–2.54)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The total numbers of patients experiencing at least one complication in the first 6 months after randomization were 42 of 161 (26.1%) for covered stents and 29 of 166 (17.5%) for uncovered stents."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: ISRCTN54834267."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

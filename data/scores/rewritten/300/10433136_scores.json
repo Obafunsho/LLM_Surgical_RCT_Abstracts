@@ -1,0 +1,74 @@
+{
+  "pmcid": "10433136",
+  "sha256": "5f54c763c7eb7960f42a244fc4def3b1bc5d295f86d40e2715142a5709877eb5",
+  "timestamp_utc": "2025-11-09T23:07:00.506000+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.512154195011341,
+    "reading_ease": 21.51869236583522,
+    "word_count": 245
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Race Correction Removal in Pulmonary Function Tests for African American Lung Cancer Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Surgeons were randomised to receive clinical vignettes with race-corrected or race-neutral PFTs."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were African American patients who underwent lung cancer resection between January 1, 2015, and September 31, 2022."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Surgeons were randomised to receive clinical vignettes with race-corrected or race-neutral PFTs."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study examines the impact of removing race correction on surgical recommendations."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in treatment recommendations, assessed immediately after vignette presentation."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Among 225 surgeons, those receiving race-corrected vignettes recommended lobectomy more frequently."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 515 African American patients, 473 (91.8%) had race-corrected PFTs."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Using race-neutral equations, preoperative and postoperative FEV1 would have decreased by 9.2% (95% CI, −9.0% to −9.5%) and 7.6% (95% CI, −7.3% to −7.9%), respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

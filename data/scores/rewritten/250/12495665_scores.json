@@ -1,0 +1,74 @@
+{
+  "pmcid": "12495665",
+  "sha256": "f6657a0d3dd540fffe01da3f792fbc0faebdfccb4e9f8c469453edadd1bda64b",
+  "timestamp_utc": "2025-11-09T22:30:10.902549+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.023748176956733,
+    "reading_ease": -1.6344846864365365,
+    "word_count": 242
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of a Nomogram for Predicting High-Risk Pathology in Stage IA Lung Adenocarcinoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly divided into training (80%) and validation (20%) sets."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "545 patients with clinical stage IA left upper lobe (LUL) adenocarcinoma who underwent surgery between January 2018 and May 2022."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "545 patients with clinical stage IA left upper lobe (LUL) adenocarcinoma who underwent surgery between January 2018 and May 2022."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The nomogram demonstrated excellent discriminative ability, with AUCs of 0.837 in the training set and 0.865 in the validation set."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not provided."
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

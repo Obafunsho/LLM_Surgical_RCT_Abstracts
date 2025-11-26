@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The Austrian Breast and Colorectal Cancer Study Group (ABCSG) 8 RCT compared 5 years of tamoxifen with tamoxifen for 2 years followed by anastrozole for 3 years"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "postmenopausal women with endocrine receptor-positive breast cancer"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compared 5 years of tamoxifen with tamoxifen for 2 years followed by anastrozole for 3 years"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to investigate whether the PAM-50-based 46-gene assay carries prognostic value for risk of local recurrence of breast cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "After a median follow-up of 10.8 years, 23 local events had been observed"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Tumour blocks from 1204 patients who had breast-conserving surgery were available for the PAM-50 analysis"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "1034 of these received radiotherapy"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "0.1 (95 per cent c.i. 0 to 0.7) versus 2.2 (0.9 to 4.6) per cent respectively; subhazard ratio (SHR) 17.18, 95 per cent c.i. 2.06 to 142.88; P =\u20090.009"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

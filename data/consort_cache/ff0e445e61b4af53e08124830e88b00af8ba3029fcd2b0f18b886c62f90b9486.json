@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Ceramic-on-Ceramic vs. Metal-on-Polyethylene Bearings in Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "189 patients (216 hips) who were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients undergoing total hip arthroplasty."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either alumina ceramic bearings (144 hips) or cobalt chrome-on-polyethylene bearings (72 hips)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the survivorship of the bearing surface and implant systems over a minimum of 10 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "189 patients (216 hips) who were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Kaplan-Meier survivorship analysis revealed no significant difference"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Revisions for any reason were significantly lower in the ceramic group (3.1%) compared to the control group (10.5%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Squeaking was reported in 1.4% of the ceramic group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not provided."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

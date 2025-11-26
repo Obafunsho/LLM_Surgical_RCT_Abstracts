@@ -1,0 +1,74 @@
+{
+  "pmcid": "1449741",
+  "sha256": "e678e4d208467e20fcb660079261dd1a95ed8cf7185a7f1272ae14776882880a",
+  "timestamp_utc": "2025-11-09T22:32:08.740623+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.672664092664093,
+    "reading_ease": 18.11027027027032,
+    "word_count": 222
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Magnesium Therapy in Carotid Endarterectomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "80 patients undergoing elective carotid endarterectomy were randomised"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to a placebo group (n = 38) or one of three intravenous magnesium groups"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the amount and duration of phenylephrine required to maintain target systolic blood pressure post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "80 patients undergoing elective carotid endarterectomy were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "All treatment groups achieved significantly different magnesium levels from baseline at 12 and 24 hours (P < 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

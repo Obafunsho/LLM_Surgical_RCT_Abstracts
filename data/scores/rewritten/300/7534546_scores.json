@@ -1,0 +1,74 @@
+{
+  "pmcid": "7534546",
+  "sha256": "bb2b10400daf4790dcda95221022edfb011fc41120bf1187ddbf5f5382dae08c",
+  "timestamp_utc": "2025-11-10T00:06:49.287163+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.191600000000001,
+    "reading_ease": 38.80763728813562,
+    "word_count": 236
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Second-Generation HydroCoil Embolic System vs. Bare Platinum Coil in Intracranial Aneurysms"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1 to HES (n=297) or bare platinum coil (BPC, n=303) using stratified randomisation by site."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised, controlled trial enrolled 600 subjects with 3-14 mm ruptured or unruptured intracranial aneurysms across 46 centers in the US and Canada."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to HES (n=297) or bare platinum coil (BPC, n=303)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was aneurysm recurrence on the Raymond-Roy scale over 24 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "using stratified randomisation by site."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Imaging assessors were blinded, but patients and clinicians were not."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "This randomised, controlled trial enrolled 600 subjects with 3-14 mm ruptured or unruptured intracranial aneurysms."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Recurrence occurred in 11 (4.4%) HES and 44 (15.4%) BPC subjects."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Recurrence occurred in 11 (4.4%) HES and 44 (15.4%) BPC subjects (OR 3.97, 95% CI [1.99, 7.92], p=0.002)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar: 286 (47.9%) in HES and 311 (52.1%) in BPC."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01407952"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: MicroVention, Inc."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

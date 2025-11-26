@@ -1,0 +1,74 @@
+{
+  "pmcid": "4849200",
+  "sha256": "5e0f42c2be880813400be0ea474d3ebefe0eac25414745cc1cebcb51479eb954",
+  "timestamp_utc": "2025-11-09T16:00:59.826753+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 7.0973749999999995,
+    "reading_ease": 59.37679166666669,
+    "word_count": 128
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We allocated 76 men scheduled for radical retropubic prostatectomy"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "to peri‐operative lidocaine 2% or saline 0.9%"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Lidocaine reduced the postoperative hospital stay by a mean (95% CI ) of 1.3 (0.3–2.4) days"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We allocated 76 men"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Lidocaine reduced the postoperative hospital stay by a mean (95% CI ) of 1.3 (0.3–2.4) days"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

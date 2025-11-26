@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this prospective randomized controlled trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomized 65 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients were included in the trial if they had a culture-positive aspiration and had not taken antibiotics within 2 weeks of the procedure."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomized to receive prophylactic antibiotics either before the skin incision or after a minimum of three sets of intraoperative cultures were obtained."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we determined the effect of a single dose of prophylactic antibiotics on cultures obtained at the time of revision arthroplasty."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Results between patients who did and did not receive antibiotics were compared using an equivalence test for proportion differences"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomized 65 patients"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomized 65 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Intraoperative cultures yielded the same organisms as preoperative cultures in 28 of 34 patients"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "statistically equivalent by TOST estimate: p = 0.0290"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

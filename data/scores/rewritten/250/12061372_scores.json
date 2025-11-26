@@ -1,0 +1,74 @@
+{
+  "pmcid": "12061372",
+  "sha256": "032140459a80d9c935e4f5a50219acdfa90a09a36471ba37fdfe8e0e08a82a66",
+  "timestamp_utc": "2025-11-09T22:14:03.270041+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.215038461538466,
+    "reading_ease": 33.179961538461555,
+    "word_count": 208
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Suzetrigine for Acute Pain Management"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Two phase 3, randomised, double-blind, placebo- and active-controlled trials"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "conducted in adults with moderate-to-severe acute pain after abdominoplasty or bunionectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised in a 2:2:1 ratio to receive suzetrigine (100 mg loading dose, then 50 mg every 12 h), hydrocodone bitartrate/acetaminophen (5/325 mg every 6 h), or placebo for 48 h"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates suzetrigine, a selective NaV1.8 inhibitor, for treating moderate-to-severe acute pain"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the time-weighted sum of the pain intensity difference (SPID48) on the numeric pain rating scale"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using an interactive web response system"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 2,191 participants were randomised: 1,118 in the abdominoplasty trial and 1,073 in the bunionectomy trial"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "suzetrigine showing a significant reduction in pain versus placebo (abdominoplasty: mean difference 48.4, 95% CI 33.6 to 63.1, P < 0.0001; bunionectomy: mean difference 29.3, 95% CI 14.0 to 44.6, P = 0.0002)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild to moderate"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT05558410, NCT05553366"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Vertex Pharmaceuticals"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

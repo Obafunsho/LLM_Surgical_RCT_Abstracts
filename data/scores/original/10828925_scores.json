@@ -1,0 +1,74 @@
+{
+  "pmcid": "10828925",
+  "sha256": "ac563480c8b2777e0ecd684350d0c3bc9df7a44208f675d3ba7b41d44ad4630d",
+  "timestamp_utc": "2025-11-09T15:12:16.601558+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.895172413793102,
+    "reading_ease": 36.81591511936344,
+    "word_count": 290
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate whether PLX-PAD would increase amputation-free survival in people with CLTI who were not candidates for revascularization."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized, parallel-group, placebo-controlled, multinational, blinded, trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "People with CLTI and minor tissue loss (Rutherford 5) who were unsuitable for revascularization"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "PLX-PAD was compared with placebo (2 : 1 randomization), with 30 intramuscular injections (0.5 ml each) into the index leg on days 0 and 60."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate whether PLX-PAD would increase amputation-free survival in people with CLTI who were not candidates for revascularization."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Planned follow-up was 12–36 months, and included vital status, amputations, lesion size, pain and quality-of-life assessments, haemodynamic parameters, and adverse events."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized, parallel-group, placebo-controlled, multinational, blinded, trial"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "blinded, trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 213 patients enrolled, 143 were randomized to PLX-PAD and 70 to placebo."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 213 patients enrolled, 143 were randomized to PLX-PAD and 70 to placebo."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The probability of major amputation or death was similar for placebo and PLX-PAD (33 and 28.6% respectively; HR 0.93, 95% c.i. 0.53 to 1.63; P = 0.788)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Most patients (76.6%) reported at least one adverse event, which were mostly expected events in CLTI, such as skin ulcer or gangrene."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT03006770 ( http://www.clinicaltrials.gov ); 2015-005532-18 (EudraCT Clinical Trials register - Search for 2015-005532-18)."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

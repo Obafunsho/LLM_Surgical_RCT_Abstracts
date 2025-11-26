@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Virtual Reality for Postoperative Pain Management: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "106 adults undergoing elective primary total hip arthroplasty at a single hospital"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either 2\u20138-minute-long three-dimensional immersive VR presentations or two-dimensional nature films with neutral music"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to assess whether a virtual reality (VR) program could decrease acute postoperative pain and opioid requirements"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pain after VR or sham video presentations, adjusted for pre-treatment scores, measured on a 0\u201310 scale"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Patients and outcome assessors were blinded to group assignments"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "52 patients were randomised to VR and 54 to sham presentations"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean difference in pain scores was \u22120.1 points [95% CI: \u22120.5, 0.2, P=0.391]"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The trial was registered under [Trial Registration Number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding was provided by [Source of Funding]"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

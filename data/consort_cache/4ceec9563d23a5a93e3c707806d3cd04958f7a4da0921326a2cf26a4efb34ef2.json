@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Residual neuromuscular blockade (RNB) is linked to an increased risk of perioperative adverse events."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The meta-analysis revealed that sugammadex facilitated faster reversal of RNB compared to neostigmine."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study systematically evaluates the impact of neuromuscular blockade antagonists on postoperative complications and quality of recovery in surgical patients."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The meta-analysis revealed that sugammadex facilitated faster reversal of RNB compared to neostigmine, as indicated by a quicker recovery to a Train-of-Four ratio (TOFR) \u2265 0.9 (standardized mean difference [SMD] \u22123.45; 95% confidence interval [CI], \u22124.42 to \u22122.48), a shorter extubation time (SMD \u22121.44; 95% CI, \u22122.02 to \u22120.85), and a decreased incidence of RNB (risk ratio [RR] 0.18; 95% CI, 0.07 to 0.47)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Moreover, sugammadex significantly reduced postoperative complications compared to neostigmine, including the incidence of postoperative nausea and vomiting (PONV) (RR 0.64; 95% CI, 0.46 to 0.88), postoperative pulmonary complications (PPCs) (RR 0.62; 95% CI, 0.38 to 0.99), and bradycardia (RR 0.32; 95% CI, 0.20 to 0.50)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10364680",
+  "sha256": "82ac742522b4165f94b9bddb46f75b5647534f3d3d18d34f7e558284d83e7fd3",
+  "timestamp_utc": "2025-11-09T21:53:22.593867+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.492903385223627,
+    "reading_ease": 25.46194959229061,
+    "word_count": 213
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Cost-Effectiveness of UDCA Prophylaxis in Preventing Symptomatic Gallstone Disease: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In a multicentre, double-blind, randomised placebo-controlled superiority trial, patients scheduled for laparoscopic RYGB or sleeve gastrectomy were randomised to receive 900 mg UDCA or placebo for 6 months."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients scheduled for laparoscopic RYGB or sleeve gastrectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive 900 mg UDCA or placebo for 6 months"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the cost-effectiveness and cost-utility of ursodeoxycholic acid (UDCA) prophylaxis for preventing symptomatic gallstone disease after Roux-en-Y gastric bypass (RYGB) in patients without preoperative gallstones."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of symptomatic gallstone disease within 24 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The study included 985 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "705 analysed in the modified intention-to-treat analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "UDCA prophylaxis significantly reduced the risk of symptomatic gallstone disease (relative risk 1.06, 95% CI 1.02 to 1.11; P = 0.002)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCTXXXXX."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by [Funding Source]."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

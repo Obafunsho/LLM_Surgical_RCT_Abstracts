@@ -1,0 +1,74 @@
+{
+  "pmcid": "7431269",
+  "sha256": "0db378429e13b20d4053444c4c7fe01536ed7ae8df8cf1cabc6fcf8b18c5ad6a",
+  "timestamp_utc": "2025-11-09T22:55:08.758775+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.577611218568666,
+    "reading_ease": 23.912954545454568,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Bicruciate-Retaining versus Cruciate-Retaining Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this parallel-group trial (ClinicalTrials.gov: NCT01966848), 50 patients with intact ACLs undergoing TKA were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "50 patients with intact ACLs undergoing TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either bicruciate-retaining or cruciate-retaining TKA"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates tibial component migration and patient-reported outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was maximum total point motion (MTPM) of the tibial component at 2 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and patients were blinded to allocation."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "patients were blinded to allocation"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "50 patients with intact ACLs undergoing TKA were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "At 2 years, 22 bicruciate-retaining and 23 cruciate-retaining patients were analysed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant difference in MTPM was found (median MTPM: 0.52 mm vs. 0.42 mm, p = 0.63)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Three bicruciate-retaining patients required arthroscopic manipulation, and one had a tibial fracture requiring revision."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov: NCT01966848"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

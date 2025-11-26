@@ -1,0 +1,74 @@
+{
+  "pmcid": "6771829",
+  "sha256": "8bf382e5ab93d10a9284575eecd5e8ac650d2b70bde1b1c7282682d70c12d51c",
+  "timestamp_utc": "2025-11-09T16:10:35.114503+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.04068656716418,
+    "reading_ease": 33.38988557213932,
+    "word_count": 268
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The UK Medical Research Council ST03 trial compared perioperative epirubicin, cisplatin and capecitabine (ECX) chemotherapy with or without bevacizumab (B) in gastric and oesophagogastric junctional cancer."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Of 1063 patients randomized, 895 (84·2 per cent) underwent resection; surgical details were available for 880 (98·3 per cent)."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The UK Medical Research Council ST03 trial compared perioperative epirubicin, cisplatin and capecitabine (ECX) chemotherapy with or without bevacizumab (B) in gastric and oesophagogastric junctional cancer."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 1063 patients randomized, 895 (84·2 per cent) underwent resection; surgical details were available for 880 (98·3 per cent)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Postoperative assessment data were available for 873 patients; complications occurred in 458 (52·5 per cent) overall."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "No difference in survival was noted between the arms of the trial."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complications occurred in 458 (52·5 per cent) overall, of whom 71 (8·1 per cent) developed complications deemed to be life‐threatening by the responsible clinician."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT00450203 ( http://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "4160517",
+  "sha256": "54df97fff8809d483ab27dcf8d06ef2b29e18d40456864e638bb377af70bdc0a",
+  "timestamp_utc": "2025-11-09T22:41:21.985057+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.603042596348889,
+    "reading_ease": 36.181511156186644,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Torsion Adapter Versus Rigid Adapter in Unilateral Transtibial Amputees"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 10 unilateral transtibial amputees were randomly assigned"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to wear either a torsion or rigid adapter"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Functional mobility was assessed using an activity monitor and a 6-minute walk test with turns."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "10 unilateral transtibial amputees were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Participants wearing a torsion adapter took more low- and medium-intensity steps per day (331 ± 365 and 437 ± 511 difference in steps; effect size = 0.44 and 0.17; CI, 70–592 and 71–802; p = 0.019 and 0.024, respectively) and reported less pain interference (1.9 ± 1.7 change in score; effect size = 0.83; CI, 0.3–3.4; p = 0.026)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10330108",
+  "sha256": "a4da1e58c41b8e2d6441289bcd3839a5ba9efae860a9fef5ee76ea219db32f92",
+  "timestamp_utc": "2025-11-09T21:52:54.741190+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.362000000000002,
+    "reading_ease": 34.61986440677967,
+    "word_count": 236
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Preoperative Exercise in Pancreatic Cancer Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients with pancreatic cancer were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with pancreatic cancer"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either Arm A (enhanced usual care) or Arm B (prescribed aerobic and resistance exercise during neoadjuvant therapy)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to evaluate the effects of a preoperative, home-based exercise program on fitness and physical function in patients with pancreatic cancer"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the 6-minute walk distance (6MWD), with a clinically meaningful improvement defined as ≥14 meters."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 151 patients were randomised, with 76 in Arm A and 75 in Arm B."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The 6MWD improved in both Arm A (mean change 18.6±56.8 m, P =0.01) and Arm B (27.3±68.1 m, P =0.002)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT03187951."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

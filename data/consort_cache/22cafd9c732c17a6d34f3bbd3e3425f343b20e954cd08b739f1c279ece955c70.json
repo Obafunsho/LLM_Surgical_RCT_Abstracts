@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Accelerometry-Based Motion Detectors in Brachial Plexus Reconstruction"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, five male patients, with an average age of 41 years, underwent nerve transfer for brachial plexus injury."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "five male patients, with an average age of 41 years, underwent nerve transfer for brachial plexus injury."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants wore bilateral accelerometry-based motion detectors for 7 days."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the efficacy of accelerometry-based motion detectors in evaluating functional outcomes following nerve transfer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were the time of use ratio (VT) and magnitude ratio (VM) of the affected arm compared to the unaffected arm."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "The randomisation and allocation concealment methods were not specified"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "blinding details were not provided"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "five male patients, with an average age of 41 years, underwent nerve transfer for brachial plexus injury."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The VT for the affected side compared to the unaffected side was 0.73 (\u00b10.27), and the VM was 0.63 (\u00b10.59)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported during the study."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

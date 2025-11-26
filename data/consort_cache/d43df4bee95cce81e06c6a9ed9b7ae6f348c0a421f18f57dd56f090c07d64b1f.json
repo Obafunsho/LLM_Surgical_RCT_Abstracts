@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "From June 2019 to February 2024, a total of 265 patients with aortoiliac aneurysm from four tertiary hospitals in China were included."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "265 patients with aortoiliac aneurysm from four tertiary hospitals in China were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "preserving bilateral internal iliac arteries (IIAs) in patients with aortoiliac aneurysms using iliac branch stent grafts (IBSG)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of study is to investigate the safety and efficacy of preserving bilateral internal iliac arteries (IIAs) in patients with aortoiliac aneurysms using iliac branch stent grafts (IBSG)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was major adverse events, and the secondary endpoint was pelvic ischemia."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From June 2019 to February 2024, a total of 265 patients with aortoiliac aneurysm from four tertiary hospitals in China were included."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "After matching, there were 76 patients in the Group BB (38 patients) and the Group BU (38 patients)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "3 patients (7.9%) in the Group BB and 2 patients (5.3%) in the Group BU experienced IBSG occlusion."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "no patients experienced aneurysm-related mortality."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

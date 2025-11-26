@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of the CASPER Stent in Carotid Artery Stenting"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable as this was a single-arm study."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible patients had \u226550% symptomatic or \u226580% asymptomatic stenosis."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "A total of 140 patients underwent carotid artery stenting with the CASPER stent."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate its safety and effectiveness in patients at high or normal risk for carotid endarterectomy (CEA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the absence of major adverse events (MAEs) within 30 days and ipsilateral stroke within 1 year."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable as this was a single-arm study."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable as this was a single-arm study."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 140 patients underwent carotid artery stenting with the CASPER stent."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The non-MAE rate was 98.6% (95% CI 94.4% to 99.6%), surpassing the performance goal."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The MAE rate was 1.4%, with two strokes reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: TCD-15152, UMIN000023562."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

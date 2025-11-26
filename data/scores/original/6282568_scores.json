@@ -1,0 +1,74 @@
+{
+  "pmcid": "6282568",
+  "sha256": "965f3d583b21b6742e09d9879716370c6f565f6a6bfcf626a06ea36e0f498ec0",
+  "timestamp_utc": "2025-11-09T16:08:00.195466+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.743050589577788,
+    "reading_ease": 20.89144161278054,
+    "word_count": 239
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This is the first randomised controlled trial examining the effect of prophylactic high‐flow nasal oxygen use on patient‐centred outcomes in cardiac surgical patients at high risk for postoperative respiratory complications."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Adult patients with pre‐existing respiratory disease undergoing elective cardiac surgery were randomly allocated to receive high‐flow nasal oxygen (n = 51) or standard oxygen therapy (n = 49)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients with pre‐existing respiratory disease undergoing elective cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly allocated to receive high‐flow nasal oxygen (n = 51) or standard oxygen therapy (n = 49)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We sought to determine whether routine administration of high‐flow nasal oxygen, compared with standard oxygen therapy, leads to reduced hospital length of stay after cardiac surgery in patients with pre‐existing respiratory disease at high risk for postoperative pulmonary complications."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was hospital length of stay"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomly allocated to receive high‐flow nasal oxygen (n = 51) or standard oxygen therapy (n = 49)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "all analyses were carried out on an intention‐to‐treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Geometric mean hospital length of stay was 29% lower in the high‐flow nasal group (95%CI 11–44%, p = 0.004)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

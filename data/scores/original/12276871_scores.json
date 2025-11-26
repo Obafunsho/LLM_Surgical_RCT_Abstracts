@@ -1,0 +1,74 @@
+{
+  "pmcid": "12276871",
+  "sha256": "4770f9c0c009ee48f8fe20cd3f11b551c6eff23eac64e949ad4fab0c84499d8e",
+  "timestamp_utc": "2025-11-09T15:35:49.537454+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.443991575928663,
+    "reading_ease": 34.51250974593361,
+    "word_count": 519
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Double‐blind randomised controlled trials"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with stable intermittent claudication were included. Patients with asymptomatic PAD (stage I Fontaine), stage III and IV Fontaine PAD, and those undergoing or awaiting endovascular or surgical intervention were excluded."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing oral antiplatelet agents versus placebo, or versus other antiplatelet agents"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To determine the effectiveness of antiplatelet agents in reducing mortality (all cause and cardiovascular) and cardiovascular events in patients with intermittent claudication."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Data on methodological quality, participants, interventions and outcomes including all cause mortality, cardiovascular mortality, cardiovascular events, adverse events, pain free walking distance, need for revascularisation, limb amputation and ankle brachial pressure indices were collected."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Double‐blind randomised controlled trials"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 12 studies with a combined total of 12,168 patients were included in this review."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Antiplatelet agents reduced all cause (RR 0.76, 95% CI 0.60 to 0.98) and cardiovascular mortality (RR 0.54, 95% CI 0.32 to 0.93) in patients with IC compared with placebo."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Antiplatelet therapy was associated with a higher risk of adverse events, including gastrointestinal symptoms (dyspepsia) (RR 2.11, 95% CI 1.23 to 3.61) and adverse events leading to cessation of therapy (RR 2.05, 95% CI 1.53 to 2.75) compared with placebo"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "8851363",
+  "sha256": "0030a9f21be1eed3057ebf993140e08a98e5cf34ee22123f24fd2cbb6bf8a392",
+  "timestamp_utc": "2025-11-10T00:11:02.523824+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.599850320741272,
+    "reading_ease": 37.962255880256606,
+    "word_count": 244
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Long-term Outcomes of Off-Pump vs On-Pump Coronary Artery Bypass Grafting: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to off-pump or on-pump CABG."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included veterans requiring CABG."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to off-pump or on-pump CABG."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were all-cause death and a composite endpoint of death or subsequent revascularization over 10 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed centrally, and outcome assessors were blinded."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 1104 patients were assigned to off-pump and 1099 to on-pump CABG."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analyses were conducted using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 10-year death rates were 34.2% for off-pump and 31.1% for on-pump (relative risk, 1.05; 95% CI, 0.99-1.11; P = .12)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT01924442"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by the Department of Veterans Affairs."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

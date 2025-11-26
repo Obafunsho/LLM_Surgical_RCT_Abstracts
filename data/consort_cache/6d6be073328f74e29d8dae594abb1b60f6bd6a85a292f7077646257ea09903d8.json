@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This was a randomised single-blind study involving 90 surgical patients requiring endotracheal intubation."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "90 surgical patients requiring endotracheal intubation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised into 3 groups: A (control), B (intra-cuff magnesium sulphate) and C (intravenous magnesium sulphate)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study sought to compare the effects of intravenous and intra-cuff magnesium sulphate on the incidence and severity of PEST, cough and hoarseness of voice."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The occurrence of PEST, cough and hoarseness of voice were recorded at 0, 4, 8, 12 and 24 h after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomised into 3 groups"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "randomised single-blind study"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "90 surgical patients requiring endotracheal intubation."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The incidence of PEST on swallowing in the intra-cuff magnesium sulphate group compared to the intravenous magnesium sulphate group at 4, 8, and 12 h post-operatively were 51.7% vs 12.5%, 51.7% vs 18.8% and 51.7% vs 21.9% respectively."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PACTR202211634990263."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

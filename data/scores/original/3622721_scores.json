@@ -1,0 +1,74 @@
+{
+  "pmcid": "3622721",
+  "sha256": "54f09f8e7b8d56cb7bd8becaa47cb85edc3fc63a28ebdb235b5f6f158423d0c0",
+  "timestamp_utc": "2025-11-09T15:53:25.828485+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.555072142064372,
+    "reading_ease": 25.643884572697033,
+    "word_count": 265
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 30 patients (mean ejection fraction 35%± 15%, mean QRS 119 ± 24 ms) underwent coronary bypass and/or valve surgery."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Optimized biventricular pacing was finally compared with atrial pacing at a matched heart rate and to a sinus rhythm during 30-second intervals."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the possible sustained benefit, we reviewed in the present study the effects of biventricular pacing on the mean arterial pressure after chest closure."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The mean arterial pressure was maximized during biventricular pacing using atrioventricular delays of 90 to 270 ms and interventricular delays of+80 to−80 ms during 20-second intervals in random sequence."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "20-second intervals in random sequence."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 30 patients (mean ejection fraction 35%± 15%, mean QRS 119 ± 24 ms) underwent coronary bypass and/or valve surgery."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Optimized biventricular pacing increased the mean arterial pressure 4% versus sinus rhythm (78.5 ± 2.4 vs 75.1 ± 2.4 mm Hg; P = .002) and 3% versus atrial pacing (76.4 ± 2.7 mm Hg; P = .017)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

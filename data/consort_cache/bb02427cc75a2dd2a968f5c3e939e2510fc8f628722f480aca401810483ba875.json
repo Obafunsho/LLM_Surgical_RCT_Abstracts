@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Kinematic and Mechanical Alignment in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Sample size was calculated to detect a 5-point OKS difference with 80% power."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were eligible if undergoing primary TKA, and the study was conducted at a single institution."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "In the KA group, patient-specific cutting blocks were created using preoperative MRI data, while the MA group used computer navigation for neutral alignment."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated whether kinematic alignment (KA) offers superior patient-reported outcomes compared to mechanical alignment (MA) in total knee arthroplasty (TKA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Oxford Knee Score (OKS), assessed preoperatively and at 6 weeks, 6 months, 1 year, and 2 years postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ninety-nine primary TKAs in 95 patients were randomised to KA (n = 49) or MA (n = 50) groups."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 2 years, no significant difference was observed in OKS change scores between KA and MA groups (mean difference 1.0, 95% CI, \u22121.4 to 3.4, p = 0.4)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complication rates were similar between groups, with no significant differences in adverse events."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

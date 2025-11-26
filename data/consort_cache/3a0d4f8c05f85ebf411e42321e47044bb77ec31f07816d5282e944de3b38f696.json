@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Neuromuscular Electrical Stimulation for Intermittent Claudication: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A sample size of 192 was calculated to detect a 60 m difference in AWD with 90% power."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants with IC were randomised 1:1 to receive either NMES plus local standard care or local standard care alone."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants with IC were randomised 1:1 to receive either NMES plus local standard care or local standard care alone."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial assessed the efficacy of neuromuscular electrical stimulation (NMES) as an adjunct to standard care in improving walking distances."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in absolute walking distance (AWD) at 3 months, measured by a standardised treadmill test."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From February 2018 to March 2020, 200 participants were randomised; 100 to NMES and 100 to control."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Primary analysis included 160 participants (intention-to-treat)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "NMES showed no significant improvement in AWD (0.83 units; 95% CI, \u22120.67 to 2.34; p = 0.28)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No device-related serious adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN18242823."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Efficacy and Mechanism Evaluation Program, Medical Research Council, and National Institute for Health and Care Research."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

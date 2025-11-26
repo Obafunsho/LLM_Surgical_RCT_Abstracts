@@ -1,0 +1,74 @@
+{
+  "pmcid": "11645970",
+  "sha256": "a270be5b6376fb1c983ea147675a60aa1cb9539fe9158374a4246dee34e08af5",
+  "timestamp_utc": "2025-11-09T15:21:52.285903+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.13372950819672,
+    "reading_ease": 6.5537909836066035,
+    "word_count": 244
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This study was designed as a prospective trial with retrospective control group"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Approval was granted for study of children receiving total pancreatectomy with islet cell autotransplantation and liver transplantation ages 3–18 years."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Magnesium sulfate bolus (50 mg/kg) followed by intravenous infusion (15 mg/kg/h) was initiated in the operating room and extended postoperatively (maximum 48 h)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to determine feasibility for implementing a high‐dose prolonged magnesium sulfate infusion for adjuvant analgesia in the pediatric intensive care unit."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcome was oral morphine equivalent per kg per day during intensive care course (maximum 7 days)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Eleven patients were enrolled between January 2020 and December 2022."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Treatment and control groups were otherwise comparable in targeted outcomes and overall adverse event profile."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no serious adverse events."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

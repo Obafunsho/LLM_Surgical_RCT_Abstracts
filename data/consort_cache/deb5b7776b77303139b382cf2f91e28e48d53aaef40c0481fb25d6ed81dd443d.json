@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Purpose: To evaluate the safety and efficacy of new staple-line reinforcement (SLR) in pulmonary resection through a prospective study and to compare the results of this study with historical control data in an exploratory study."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "The subjects of this study were 48 patients who underwent thoracoscopic lobectomy."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "The use of SLR in pulmonary resection was safe and effective."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Purpose: To evaluate the safety and efficacy of new staple-line reinforcement (SLR) in pulmonary resection through a prospective study and to compare the results of this study with historical control data in an exploratory study."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was air leakage from the staple line."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The subjects of this study were 48 patients who underwent thoracoscopic lobectomy."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "When compared with the historical group, the SLR group had a significantly lower incidence of air leakage from the staple line (6.3% vs. 28.5%, P <\u20090.001) and significantly shorter indwelling chest drainage time ( P =\u20090.049) and length of hospital stay ( P <\u20090.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Three patients had prolonged air leakage as a postoperative pulmonary complication."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

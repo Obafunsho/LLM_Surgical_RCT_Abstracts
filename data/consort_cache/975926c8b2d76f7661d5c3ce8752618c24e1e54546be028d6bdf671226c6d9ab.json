@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "An a priori power analysis showed that 112 participants were needed to detect a 15% difference in the likelihood of recommending surgery for white versus nonwhite patients in the test scenarios evaluated with 90% power at a level of significance of 0.05."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Orthopaedic surgeons attending the 2012 annual meetings of the New York State Society of Orthopaedic Surgeons and American Association of Hip and Knee Surgeons were recruited for the study."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "All participants viewed the \u201ccontrol\u201d patient\u2019s story (white male) and were randomized to view one of the three \u201cexperimental\u201d scenarios (white female, black male, black female)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We sought to evaluate the effect of surgeon bias on recommendations for TKA."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "After viewing each scenario, the participants were anonymously asked whether they would recommend TKA."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "All participants viewed the \u201ccontrol\u201d patient\u2019s story (white male) and were randomized to view one of the three \u201cexperimental\u201d scenarios (white female, black male, black female)."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 1111 surgeons in attendance at either meeting, 113 (10.2%) participated in the study."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 39 surgeons who viewed the white male plus black female scenario, there were 33 (85%) concordant responses."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Of the 39 surgeons who viewed the white male plus black female scenario, there were 33 (85%) concordant responses (TKA offered to both patients) and six discordant responses (TKA offered to only one of the patients), with no effect of patient race and sex (p = 0.99)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12492841",
+  "sha256": "06dd45077918be7f0a8c08f84aad0e4176ddef958920197e42c23a57fa3a3c20",
+  "timestamp_utc": "2025-11-09T22:30:02.986537+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.31286970863112,
+    "reading_ease": 29.206539307311715,
+    "word_count": 214
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of a Standardized Operating Procedure and Educational Program on Adherence to Intraoperative Lung Protective Ventilation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This prospective, pre-post interventional study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients undergoing general anesthesia, with 164 patients meeting inclusion criteria."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved implementing an SOP and educational program."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effect of a standardized operating procedure (SOP) with an educational program on adherence to intraoperative lung protective ventilation (IOLPV)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was adherence to the IOLPV bundle, measured over one month pre- and post-intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomization and blinding were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomization and blinding were not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 164 patients were analyzed (Group A: 82 pre-intervention, Group B: 82 post-intervention)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 164 patients were analyzed (Group A: 82 pre-intervention, Group B: 82 post-intervention)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Adherence to the IOLPV bundle increased significantly in Group B (Group A: 4%, Group B: 24%; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT05831683."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

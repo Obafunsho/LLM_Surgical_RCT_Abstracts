@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of AI-Assisted Systematic Review in Evaluating NPWT Efficacy"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the utility of artificial intelligence (AI) in conducting systematic reviews compared to human investigators, focusing on negative-pressure wound therapy (NPWT)"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the quality of evidence scores assigned by AI and humans."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "AI generally assigned lower quality of evidence scores compared to humans, potentially indicating reduced bias."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The trial was not registered"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "no funding source was disclosed"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

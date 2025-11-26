@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A dual-centre RCT of patients assigned to receive either enoxaparin or normal saline after liver transplantation was conducted."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A dual-centre RCT of patients assigned to receive either enoxaparin or normal saline after liver transplantation was conducted."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients assigned to receive either enoxaparin or normal saline after liver transplantation"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to evaluate the efficacy and safety of prophylactic anticoagulation in patients undergoing deceased-donor liver transplantation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary efficacy outcome was the incidence of venous thrombosis (portal vein thrombosis and deep vein thrombosis) and the primary safety outcome was the incidence of major bleeding."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 462 patients were recruited."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the intention-to-treat analysis, 89 patients (19.3%) experienced venous thrombosis and 141 patients (30.5%) experienced major bleeding within 90 days after transplantation."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Subgroup analysis revealed that anticoagulation was associated with a lower risk of deep vein thrombosis in hepatocellular carcinoma patients (HR 0.44 (95% c.i. 0.23 to 0.86), P = 0.016)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The anticoagulant group demonstrated a markedly elevated incidence of major bleeding (35.5% versus 25.5%, P = 0.020)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: ChiCTR2000032441 ( www.chictr.org.cn )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

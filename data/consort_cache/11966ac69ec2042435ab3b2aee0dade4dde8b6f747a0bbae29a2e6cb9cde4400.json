@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Preoperative Flow Assessment in Coronary Artery Bypass Grafting"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "The study was observational, and no randomisation or blinding was performed."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This nationwide cohort study included 18,211 patients who underwent first-time isolated CABG in Sweden from 2013 to 2020."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "2,869 patients (15.8%) underwent preoperative flow assessment."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the impact of preoperative physiological flow assessment on mid-term outcomes in patients undergoing coronary artery bypass grafting (CABG)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of all-cause mortality, stroke, new myocardial infarction, new coronary angiography, and new revascularization, measured over a median follow-up of 3.6 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "The study was observational, and no randomisation or blinding was performed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "The study was observational, and no randomisation or blinding was performed."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "The study was observational, and no randomisation or blinding was performed."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the total cohort, 2,869 patients (15.8%) underwent preoperative flow assessment."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "preoperative flow assessment was associated with a higher risk of new angiography (adjusted hazard ratio [aHR] 1.32, 95% confidence interval [CI] 1.08\u20131.62, P = .008) and new revascularization (aHR 1.55, 95% CI 1.18\u20132.04, P = .002)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "6996094",
+  "sha256": "b45515ed95cd039bcadfc0c67fde2816d83e6bd4157776a4a39bbbc018d1bf80",
+  "timestamp_utc": "2025-11-09T16:11:21.635882+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.4507354925776,
+    "reading_ease": 37.40734930274405,
+    "word_count": 247
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "25 patients with TRD during a 1-year, open-label, maintenance period"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "25 patients with TRD during a 1-year, open-label, maintenance period"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "DBS targeted at the ventral anterior limb of the internal capsule (vALIC)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Our objective was to assess the efficacy and safety of DBS targeted at the ventral anterior limb of the internal capsule (vALIC)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes were response rate (≥50% HAM-D-17 score reduction) after the maintenance phase, approximately 2 years after DBS surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "1-year, open-label, maintenance period"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 25 operated patients, 21 entered and 18 completed the maintenance phase"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "eight patients were classified as responder (observed response rate: 44.4%; intention-to-treat: 32.0%)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "the mean IDS-SR score decreased from 38.8 (95% CI 31.2 to 46.5) to 35.0 (95% CI 26.1 to 43.8) (p=0.008)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Four non-DBS-related serious adverse events occurred, including one suicide attempt"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration number: NTR2118"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

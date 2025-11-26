@@ -1,0 +1,74 @@
+{
+  "pmcid": "12015046",
+  "sha256": "74b5b257232f72e25165624b1e9fccb971588ef3f3fb210fb0c43418e7a53565",
+  "timestamp_utc": "2025-11-09T23:24:29.035315+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.335256270447111,
+    "reading_ease": 28.84647582697204,
+    "word_count": 262
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Hotspot Targeting in Deep Brain Stimulation for Parkinson’s Disease"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomised to DBS under general or local anaesthesia."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "PD patients undergoing bilateral STN DBS between May 2015 and March 2019."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised to DBS under general or local anaesthesia."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to validate and refine a previously defined hotspot for dorsolateral STN targeting in deep brain stimulation (DBS) for Parkinson’s disease (PD)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was hemibody improvement on the Movement Disorder Society–Unified Parkinson’s Disease Rating Scale motor examination (MDS-UPDRS ME) at 6 months post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 109 patients were randomised."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "106 were analysed using a per-protocol approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Poor responders showed a 13% improvement compared to -8% in historical controls (p=0.044)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not specified."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

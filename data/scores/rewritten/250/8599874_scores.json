@@ -1,0 +1,74 @@
+{
+  "pmcid": "8599874",
+  "sha256": "a7f0cfbae32fc3373b7fa17ba0af0a55677dbb96ca020642f069c84c35264fc3",
+  "timestamp_utc": "2025-11-09T22:58:48.413220+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.237343565525382,
+    "reading_ease": 49.36064738292015,
+    "word_count": 242
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Distal and Standard Roux-en-Y Gastric Bypass in Patients with BMI 50–60 kg/m²"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this double-blind, parallel-group RCT, 123 patients aged 20–60 years with a BMI of 50–60 kg/m² were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "123 patients aged 20–60 years with a BMI of 50–60 kg/m² were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either standard RYGB (150 cm alimentary limb) or distal RYGB (150 cm common channel)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was change in BMI at 2 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using permuted-block randomization with allocation concealment"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, outcome assessors, and the statistician were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "123 patients aged 20–60 years with a BMI of 50–60 kg/m² were randomised"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of 113 patients who received an intervention, 92 attended the 5-year follow-up"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "BMI reduction was 15.1 kg/m² (95% CI 13.9 to 16.2) for standard RYGB and 15.7 kg/m² (14.5 to 16.9) for distal RYGB"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included repeat abdominal surgery in 28% of standard and 18% of distal RYGB patients"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00821197"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: South-Eastern Norway Regional Health Authority and Alexander Malthes Foundation"
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

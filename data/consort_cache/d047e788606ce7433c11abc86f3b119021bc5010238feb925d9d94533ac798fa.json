@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Patellofemoral Arthroplasty and Total Knee Arthroplasty for Severe Patellofemoral Osteoarthritis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 100 patients with debilitating symptoms and isolated patellofemoral disease were recruited from 2007 to 2014."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "100 patients with debilitating symptoms and isolated patellofemoral disease were recruited from 2007 to 2014."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either PFA or TKA."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the outcomes of patellofemoral arthroplasty (PFA) and total knee arthroplasty (TKA) in patients with severe patellofemoral osteoarthritis."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the area under the curve (AUC) for SF-36 bodily pain over 2 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either PFA or TKA."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Randomisation was blinded for the first year and quasi-blinded to assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "100 patients with debilitating symptoms and isolated patellofemoral disease were recruited from 2007 to 2014."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The AUC for SF-36 bodily pain was significantly better for PFA (9.2 months, SD 4.3) compared to TKA (6.5 months, SD 4.5; p = 0.008)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Two revisions occurred in the PFA group. No significant difference in complications was observed."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

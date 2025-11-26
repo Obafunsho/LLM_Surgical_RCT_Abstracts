@@ -1,0 +1,74 @@
+{
+  "pmcid": "9577753",
+  "sha256": "deb60372f2750b214b9acb000f9b0b76f10bc10ee299b88910133ebbe8b4ccc2",
+  "timestamp_utc": "2025-11-10T00:13:01.683614+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.02974854063763,
+    "reading_ease": 29.095875617422564,
+    "word_count": 262
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Efficacy of Recombinant Human Brain Natriuretic Peptide in Post-CABG Acute Kidney Injury"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at The Affiliated Hospital of Qingdao University, this single-center retrospective study included patients diagnosed with AKI within 4 days post-CABG from January 2016 to December 2020."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were divided into BNP and non-BNP groups based on intravenous rh-BNP administration."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the efficacy of recombinant human brain natriuretic peptide (rh-BNP) in enhancing renal function in patients with AKI post-CABG."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in serum creatinine levels and urine volume within 4 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 395 patients were included, with 56 in the BNP group and 339 in the non-BNP group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "After PSM, 175 patients were analyzed, with the BNP group showing a stronger decrease in creatinine levels."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The BNP group exhibited a significant decrease in serum creatinine levels (P<0.001) and increased urine volume (P=0.001) compared to the non-BNP group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

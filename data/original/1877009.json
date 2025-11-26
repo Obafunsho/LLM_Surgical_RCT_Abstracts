@@ -1,0 +1,21 @@
+{
+  "pmcid": "1877009",
+  "pmid": "17435550",
+  "title": "Impact of Hospital Volume on Recurrence and Survival After Surgery for Gastric Cancer",
+  "abstract": "Background:: Some, but not all, studies using registry data have suggested a small but significant long-term survival advantage following a curative surgical resection of gastric cancer at hospitals where the volume of such surgeries is high. However, because such data may be significantly influenced by the impact of postoperative mortality, and may be imbalanced for factors important to survival, the true nature of this relationship remains uncertain.\n\nMethods:: We conducted a nested volume-outcome study in a sample of 448 surgical survivors with stage IB through IV (M0) gastric and gastroesophageal junction adenocarcinoma, previously randomized to adjuvant chemoradiation after surgery or surgery alone, to measure the effect of hospital surgical volume, as assessed by Medicare claims data, on overall survival and gastric cancer recurrence.\n\nResults:: In this selected sample of postoperative survivors, hospital surgical volume was not predictive of overall survival ( P = 0.46) or disease-free survival ( P = 0.43) at a median follow-up of 8.9 years. However, patients who underwent either a D1 or D2 dissection at a high- or moderate-volume center experienced an adjusted hazard ratio of 0.80 (95% CI, 0.53–1.20) for overall survival and 0.78 (95% CI, 0.53–1.14) for disease-free survival compared with those patients resected at a low-volume hospital; these results were not statistically significant. When a D0 resection was performed, hospital procedure volume showed no impact on survival.\n\nConclusions:: Excluding the impact of perioperative mortality by utilizing prospectively recorded data from a large postoperative adjuvant trial, hospital procedure volume had no overall effect on long-term gastric cancer survival. The potential benefit of moderate- to high-volume centers for patients who underwent a D1 or D2 dissection requires confirmation in larger studies.",
+  "authors": [
+    "Peter C. Enzinger",
+    "Jacqueline K. Benedetti",
+    "Jeffrey A. Meyerhardt",
+    "Sheryl McCoy",
+    "Scott A. Hundahl",
+    "John S. Macdonald",
+    "Charles S. Fuchs"
+  ],
+  "journal": "Annals of Surgery",
+  "year": "2007",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

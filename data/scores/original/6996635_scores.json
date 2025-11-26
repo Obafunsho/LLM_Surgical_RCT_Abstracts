@@ -1,0 +1,74 @@
+{
+  "pmcid": "6996635",
+  "sha256": "5f8600b929d78ee6b33ec4b7f0a6d4c55b471a2cb030f93f8bf50f9940e075d1",
+  "timestamp_utc": "2025-11-09T16:11:25.874968+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.074953161592507,
+    "reading_ease": 25.785450819672178,
+    "word_count": 305
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A single‐blind RCT was performed"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A single‐blind RCT was performed at a tertiary colorectal unit."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Inclusion criteria were patient aged 18 years and over undergoing open elective surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received warmed (37°C), humidified (98 per cent relative humidity) carbon dioxide (WHCO 2 group)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Postoperative clinical outcomes were compared between the groups."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "A single‐blind RCT was performed"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 40 patients enrolled, 20 in the WHCO 2 group and 19 in the control group were available for analysis."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 40 patients enrolled, 20 in the WHCO 2 group and 19 in the control group were available for analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "A significant log(T end /T 0 ) difference between control and WHCO 2 groups was documented for interleukin (IL) 2 (5·3 versus 2·8 respectively; P = 0·028) and IL‐4 (3·5 versus 2·0; P = 0·041)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT02975947 ( http://www.clinicaltrials.gov/ )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

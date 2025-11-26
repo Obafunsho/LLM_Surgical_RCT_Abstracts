@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intraoperative Lymphatic Mapping and Sentinel Node Biopsy in Early-Stage Melanoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients with primary cutaneous melanoma (\u22651 mm with Clark level \u2265III, or any thickness with Clark level \u2265IV) were randomly assigned in a 4:6 ratio"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with primary cutaneous melanoma (\u22651 mm with Clark level \u2265III, or any thickness with Clark level \u2265IV)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned in a 4:6 ratio to wide excision (WE) plus observation (WEO) with delayed complete lymphadenectomy (CLND) for nodal recurrence, or to WE plus LM/SNB with immediate CLND for sentinel node (SN) metastasis"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the accuracy, use, and morbidity of intraoperative lymphatic mapping and sentinel node biopsy (LM/SNB) for staging regional nodal basins in early-stage melanoma"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the accuracy of LM/SNB, assessed by SN identification rates and nodal metastases incidence, over a recruitment period ending March 31, 2002"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation occurred after each center achieved 85% accuracy in SN identification during a 30-case learning phase"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not specified"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "over a recruitment period ending March 31, 2002, with 2001 patients enrolled"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The overall SN identification rate was 95.3%"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The overall SN identification rate was 95.3%, with specific rates of 99.3% for the groin, 95.3% for the axilla, and 84.5% for the neck basins"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complication rates were 10.1% for LM/SNB, increasing to 37.2% with CLND"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

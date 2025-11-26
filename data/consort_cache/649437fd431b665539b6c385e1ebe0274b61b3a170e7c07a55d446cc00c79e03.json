@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Five-hundred patients were included in this study and randomly distributed to SP or simple head extension."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "In the sniffing group, an incompressible head ring was placed under the head to raise its height by 7 cm from the neutral plane followed by maximal extension of the head. In the simple extension group, no headrest was placed under the head; however, maximal head extension was given at the time of laryngoscopy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We conducted a prospective study comparing the sniffing head position with simple head extension to study the laryngoscopic view and intubation difficulty during direct laryngoscopy."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Various factors as ability to mask ventilate, laryngoscopic visualization, intubation difficulty, and posture of the anesthesiologist during laryngoscopy and tracheal intubation were noted."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly distributed to SP or simple head extension"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Five-hundred patients were included in this study"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The IDS score differed significantly between sniffing group and simple extension group ( P = 0.000) with an increased difficulty during intubation in the simple head extension."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

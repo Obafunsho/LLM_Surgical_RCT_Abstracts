@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We enrolled 36 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with locally advanced resectable esophageal/GEJ adenocarcinoma"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients with locally advanced resectable esophageal/GEJ adenocarcinoma received PET directed chemoradiation with durvalumab prior to esophagectomy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To determine the safety and efficacy of adding the anti-PD-1 antibody durvalumab to induction FOLFOX and preoperative chemotherapy in locally advanced esophageal adenocarcinoma."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint of the study was pathologic complete response (pCR)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We enrolled 36 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "33 of whom completed all preoperative treatment and underwent surgery."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "pCR was identified in 8 (22% [one-sided 90% lower bound: 13.3%]) patients with mPR in 22 (61% [one sided 90% lower bound: 50%]) patients."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Preoperative treatment was well tolerated, with no delays to surgery nor new safety signals."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12471133",
+  "sha256": "73daa4b4c2bfa3e5a8411f6e8e73f6c99c31141e768a397f554cbe88976c23b8",
+  "timestamp_utc": "2025-11-09T22:28:34.740755+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.627381524350294,
+    "reading_ease": 48.63106573487664,
+    "word_count": 241
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Carbon Nanotubes in Cancer Treatment"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to receive either CNT-based treatment or standard care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients diagnosed with PC, LC, GC, CRC, or RC. The trial was conducted in a clinical setting."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either CNT-based treatment or standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the effectiveness of CNTs in improving treatment outcomes for PC, LC, GC, CRC, and RC."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the improvement in survival rate over a 5-year period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised, with 100 in the CNT group and 100 in the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the CNT group and 97 in the control group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The CNT group showed a significant improvement in survival rate (mean difference = 5.2%, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in the CNT group and 1% in the control group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01773850."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "The trial was funded by [source not specified]."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods.: This was a randomized, double-blind, placebo-controlled, phase 2 trial of patients undergoing renal transplantation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Subjects were randomized as 2:1 to 3, once-daily IV infusions of ANG-3777, 2 mg/kg (n = 19), or placebo (n = 9)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients undergoing renal transplantation with <50 cc/h urine output for 8 consecutive hours over the first 24 hours posttransplantation, or creatinine reduction ratio <30% from pretransplantation to 24 hours posttransplantation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Subjects were randomized as 2:1 to 3, once-daily IV infusions of ANG-3777, 2 mg/kg (n = 19), or placebo (n = 9)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary endpoint: time in days to achieve \u22651200 cc urine for 24 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "This was a randomized, double-blind, placebo-controlled, phase 2 trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Subjects were randomized as 2:1 to 3, once-daily IV infusions of ANG-3777, 2 mg/kg (n = 19), or placebo (n = 9)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Patients treated with ANG-3777 were more likely to achieve the primary endpoint of 1200 cc urine for 24 hours by 28 days posttransplantation (83.3% versus 50% placebo; log-rank test: \u03c7 2 = 2.799, P = 0.09)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events occurred in a similar percentage of subjects in both arms."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

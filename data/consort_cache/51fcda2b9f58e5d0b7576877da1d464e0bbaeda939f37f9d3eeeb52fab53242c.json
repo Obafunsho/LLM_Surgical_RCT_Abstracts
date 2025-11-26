@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomized, open-label study enrolled 13 women"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "13 women with a body mass index (BMI) \u226430 kg/m 2 and lower abdominal subcutaneous fat suitable for small-volume liposuction"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "One side below the umbilicus was injected with PC-DC. The contralateral, control side received no treatment."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The authors evaluate the effects of PC-DC treatments on body composition, adipocyte function, and mechanisms responsible for fat loss."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was change in adipose tissue thickness at baseline and 8 weeks after the final treatment."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomized by the final digit of their Social Security numbers"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomized, open-label study enrolled 13 women"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Seven women completed the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Treatment with PC-DC significantly reduced the thickness of the anterior subcutaneous abdominal fat ( P = .004)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "These treatments do not appear to increase circulating markers of inflammation or affect glucose and lipid metabolism."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

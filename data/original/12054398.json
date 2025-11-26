@@ -1,0 +1,24 @@
+{
+  "pmcid": "12054398",
+  "pmid": "38670789",
+  "title": "Does Stereotactic Thrombolysis with Alteplase for Intracerebral Haemorrhage alter Intraventricular Hematoma Volume? A Secondary Analysis of the MISTIE-III Trial",
+  "abstract": "Background:: Stereotactic thrombolysis reduces intracerebral haemorrhage (ICH) volume in patients with spontaneous ICH. Whether intrahematomal alteplase administration is associated with a change in intraventricular haemorrhage volume (deltaIVH) and functional outcomes is unknown.\n\nMethods:: Post-hoc secondary analysis of the MISTIE-III trial in patients with IVH on the stability CT scan. Exposure was minimally invasive surgery plus alteplase (MIS+alteplase). Primary outcome was deltaIVH defined as IVH volume on end-of-treatment CT minus IVH volume on stability CT scan. Secondary outcomes were favorable functional outcome (modified Rankin scale 0–3) and mortality at 365 days. We assessed the relationship between MIS+alteplase and deltaIVH in the primary analysis using multivariable linear regression, and between deltaIVH and functional outcomes in secondary analyses using multiple logistic regression.\n\nResults:: Of 499 patients in MISTIE-III, 310 (62.1%) had IVH on stability scans; mean age [SD] was 61.2±12.3 years. A total of 146 (47.1%) received the MISTIE procedure and 164 (52.9%) standard medical care (SMC) only. The MIS+alteplase group had a greater mean reduction in IVH volume compared with the SMC group (deltaIVH: −2.35 [5.30] mL vs. −1.15 [2.96] mL, p=0.02). While IVH volume decreased significantly in both treatment groups, in the primary analysis, MIS+alteplase was associated with greater deltaIVH in multivariable linear regression analysis adjusted for potential confounders (beta, −0.80; 95%CI, −1.37 to −0.22; p=0.007). Secondary analysis demonstrated no associations between IVH reduction and functional outcomes. (adjusted OR [aOR] for poor outcome: 1.02; 95%CI 0.96 – 1.08, p=0.61; aOR for mortality: 0.99; 95%CI 0.92 – 1.06, p=0.77).\n\nConclusions:: Alteplase delivered into the ICH in MISTIE-III subjects with IVH was associated with a small reduction in IVH volume. This reduction did not translate into a significant benefit in mortality or functional outcomes at 365 days.",
+  "authors": [
+    "Philip Y. Sun",
+    "Shervin Badihian",
+    "Radhika Avadhani",
+    "Nathan Walborn",
+    "Anusha Yarava",
+    "Donya Alimoradi",
+    "Issam Awad",
+    "Daniel F. Hanley",
+    "Santosh B. Murthy",
+    "Wendy C. Ziai"
+  ],
+  "journal": "Journal of neurology, neurosurgery, and psychiatry",
+  "year": "2024",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

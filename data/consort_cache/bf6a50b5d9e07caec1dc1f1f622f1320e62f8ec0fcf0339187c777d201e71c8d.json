@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Questions/purposes: We quantified the anatomic dimensions and degree of fatty infiltration of the iliocapsularis muscle and compared the results for 45 hips with deficient acetabular coverage (Group I) with 40 hips with excessive acetabular coverage (Group II)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "We used MR arthrography to evaluate anatomic dimensions (thickness, width, circumference, cross-sectional area [CSA], and partial volume) and the amount of fatty infiltration."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "We observed increased thickness, width, circumference, CSA, and partial volume of the iliocapsularis muscle in Group I when compared with Group II. Additionally, hips in Group I had a lower prevalence of fatty infiltration compared with those in Group II."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

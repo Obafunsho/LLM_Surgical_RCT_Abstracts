@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A single-centre phase II study was conducted"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with colorectal peritoneal metastases undergoing CRS-HIPEC"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "SPECT/computed tomography (CT) was undertaken before surgery, after intravenous administration of 10\u2005mg 111 In-labelled DOTA\u2013labetuzumab-IRDye800CW"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to validate these results."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "tumour-to-background ratios (TBRs) and peritoneal cancer index scores were analysed."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seven patients were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean(standard deviation, s.d.) SPECT/CT peritoneal cancer index score was 3(2), and the intraoperative score was 14(7) ( P = 0.032)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No study-related severe adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

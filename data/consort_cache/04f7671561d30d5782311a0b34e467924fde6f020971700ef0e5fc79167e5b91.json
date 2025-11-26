@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized into two groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with recurrent GBM, randomized into two groups"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group A, with unresectable disease, received RO4929097 in a standard phase II design. Group B, with resectable disease, received the drug pre- and post-surgical resection."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the 6-month progression-free survival rate (PFS 6)"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was executed using [randomization method], with allocation concealment by [method]."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "No blinding was applied to outcome assessors, patients, or clinicians."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 47 patients were randomized, with 40 in Group A and 7 in Group B."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was conducted using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The PFS 6 was 4% (95% CI [confidence interval])"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events occurred in [number] patients, with [frequency and severity] reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The trial was registered under [trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "funded by [source of funding]"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

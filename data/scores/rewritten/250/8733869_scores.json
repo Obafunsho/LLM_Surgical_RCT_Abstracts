@@ -1,0 +1,74 @@
+{
+  "pmcid": "8733869",
+  "sha256": "f72d51e3b86d908e3ec16c3511321110bac6dde45e8f48ea7606286a446f0829",
+  "timestamp_utc": "2025-11-09T22:59:18.382639+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.717690045248869,
+    "reading_ease": 37.90341289592763,
+    "word_count": 221
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Normothermic Machine Perfusion in Liver Transplantation"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This multicenter randomised clinical trial was conducted at 20 US liver transplant programs from November 2016 to October 2019."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults listed for liver transplant."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Donor livers were randomised 1:1 to OCS or ICS."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial evaluates whether the Organ Care System (OCS) Liver, a portable normothermic machine perfusion system, reduces early allograft dysfunction (EAD) and ischemic biliary complications (IBCs)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was EAD incidence within 7 days posttransplant."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was via an Interactive Web Response System, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not feasible for clinicians, but outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 300 randomised participants, 151 received OCS and 142 received ICS."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The per-protocol analysis showed a significant reduction in EAD with OCS (18% vs 31%; P = .01)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The per-protocol analysis showed a significant reduction in EAD with OCS (18% vs 31%; P = .01)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT02522871"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Prophylactic Fibrinogen Administration in Paediatric Scoliosis Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This two-arm, single-centre, randomised, double-blind trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Thirty-two children undergoing elective scoliosis surgery were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive either standard blood and coagulation management or a single prophylactic dose of fibrinogen concentrate"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the safety and feasibility of prophylactic fibrinogen administration in paediatric scoliosis surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was safety, assessed by adverse events (AEs) and serious adverse events (SAEs) during the hospital stay."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment via a web-based system."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between June 2022 and June 2023, 32 participants were randomised, with 16 in each group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "All were analysed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant difference in blood loss was found between groups (p=0.1677)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "In the fibrinogen group, 101 AEs across 19 types were observed, while the standard group had 95 AEs across 21 types (p>0.9999)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials.gov NCT05391412."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

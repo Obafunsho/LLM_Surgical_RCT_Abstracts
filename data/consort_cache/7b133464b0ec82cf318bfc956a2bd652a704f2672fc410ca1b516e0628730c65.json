@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In the randomized POINTER trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In the randomized POINTER trial"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "immediate drainage versus the postponed-drainage approach"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To compare the long-term outcomes of immediate drainage versus the postponed-drainage approach in patients with infected necrotizing pancreatitis."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was a composite of death and major complications."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Out of 104 patients, 88 were re-evaluated"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Out of 104 patients, 88 were re-evaluated"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "RR 0.87, 95% CI 0.33\u20132.28; P =0.78"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration:: ISRCTN33682933"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10774734",
+  "sha256": "d0185cb31a9da5a66e4d3bdcf00df312b31746705c973bdb4b2773bd41678e45",
+  "timestamp_utc": "2025-11-09T15:11:45.155272+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.172188967136151,
+    "reading_ease": 45.109973591549306,
+    "word_count": 426
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate the efficacy of electroacupuncture (EA) intervention on myocardial protection and postoperative rehabilitation in patients undergoing cardiac surgery with cardiopulmonary bypass (CPB)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fourteen RCTs involving 836 patients were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "EA significantly increased the incidence of cardiac automatic rebeat after aortic unclamping [relative risk ( RR ) = 1.15, 95% confidence interval ( CI ) (1.01, 1.31), P < 0.05; moderate]."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse reactions related to EA were reported in any of the included studies."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

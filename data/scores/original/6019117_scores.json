@@ -1,0 +1,74 @@
+{
+  "pmcid": "6019117",
+  "sha256": "d94de9e4d1492e2f5df775015e3e1e67567ccd7d117d0940d8fe710cf9e747f1",
+  "timestamp_utc": "2025-11-09T16:07:12.654529+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.38204247104247,
+    "reading_ease": 16.57275482625485,
+    "word_count": 259
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "a total of 32 extremities with rest pain or tissue loss requiring BKA will be enrolled"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "32 extremities with rest pain or tissue loss requiring BKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "intramuscular (IM) injections of allogeneic MSCs (CHAMP, n=16) or autogenous concentrated bone marrow aspirate (cBMA, marrowCHAMP, n=16)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: Currently, there are no accepted nonsurgical therapies which improves the delivery of blood-derived nutrients to patients with critical limb ischemia (CLI)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Clinical limb perfusion pre- and post-treatment will be quantified using TcPO 2 , TBI, ABI, and indocyanine angiography (ICA)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "subjects are randomized to BKA at four timepoints post-injection (days 3, 7, 14, 21)"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Enrollment is underway with ten patients treated per protocol thus far."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

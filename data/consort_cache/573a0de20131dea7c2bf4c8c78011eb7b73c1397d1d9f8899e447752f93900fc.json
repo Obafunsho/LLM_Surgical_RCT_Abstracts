@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of a Nomogram for Predicting Spread Through Air Spaces in Stage IA Lung Adenocarcinoma"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A retrospective analysis was conducted on 1,375 patients with stage IA LUAD at Sun Yat-sen University Cancer Center."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to develop a preoperative prediction model for Spread Through Air Spaces (STAS) in stage IA lung adenocarcinoma (LUAD) to guide surgical decision-making."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The study was conducted between December 2020 and October 2022."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Irregular nodule shape (OR = 1.817, 95% CI: 1.106\u20132.986, p = 0.018), irregular margin (OR = 2.050, 95% CI: 1.218\u20133.449, p = 0.007), lobulation (OR = 2.235, 95% CI: 1.336\u20133.739, p = 0.002), and vascular convergence (OR = 5.032, 95% CI: 2.050\u201312.349, p < 0.001) were significantly associated with increased STAS risk."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

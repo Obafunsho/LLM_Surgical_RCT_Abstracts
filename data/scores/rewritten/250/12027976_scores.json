@@ -1,0 +1,74 @@
+{
+  "pmcid": "12027976",
+  "sha256": "799a8c107c13270cb2f995a60cfc3b520f5f15a54c74315f4159f4857260c353",
+  "timestamp_utc": "2025-11-09T22:13:22.385223+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.33338141025641,
+    "reading_ease": -0.33223557692303984,
+    "word_count": 195
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Neuroprotective Strategies in Coronary Artery Interventions: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were high-risk patients undergoing CABG, TECAB, or hybrid revascularization."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received pharmacological neuroprotection, including barbiturates, volatile anesthetics, lidocaine, NMDA receptor antagonists, magnesium, nimodipine, corticosteroids, and aprotinin, while the control group received standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted to evaluate neuroprotective strategies in coronary interventions."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of neurological complications within 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a significant reduction in complications (mean difference = 5.2%, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in the intervention group and 1% in the control group experiencing gastrointestinal side-effects."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by the National Institutes of Health."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

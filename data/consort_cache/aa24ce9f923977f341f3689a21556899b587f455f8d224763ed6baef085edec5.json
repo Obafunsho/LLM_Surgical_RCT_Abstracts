@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: A Randomised Controlled Trial Comparing Aspirin and Low-Molecular-Weight Heparin for Thromboprophylaxis in Orthopaedic Trauma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Adult patients with operatively treated extremity fractures or pelvic/acetabular fractures were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients with operatively treated extremity fractures or pelvic/acetabular fractures"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive 30 mg of low-molecular-weight heparin twice daily or 81 mg of aspirin twice daily"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare patient satisfaction and out-of-pocket costs between aspirin and low-molecular-weight heparin."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were patient satisfaction and out-of-pocket costs, measured 90 days post-randomization."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was 1:1, and allocation was not concealed from patients or clinicians."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "allocation was not concealed from patients or clinicians"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The trial enrolled 12,211 patients from April 2017 to August 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of the 12,211 patients, 9725 completed the satisfaction question, and 6723 reported out-of-pocket costs."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients assigned to aspirin had 2.6 times higher odds of satisfaction (OR: 2.59; 95% CI: 2.39 to 2.80; p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered at ClinicalTrials.gov (NCT02984384)"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by the University of Maryland School of Medicine and METRC."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

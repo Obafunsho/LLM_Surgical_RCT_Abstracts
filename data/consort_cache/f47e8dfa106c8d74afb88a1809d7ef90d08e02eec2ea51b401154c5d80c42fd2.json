@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Bilateral Internal Iliac Artery Preservation in Aortoiliac Aneurysms"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were divided into groups based on aneurysm location and IIA preservation"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "265 patients with aortoiliac aneurysms were enrolled from June 2019 to February 2024. Conducted at four tertiary hospitals in China"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Groups based on aneurysm location and IIA preservation: Group BB (bilateral aneurysms with bilateral IBSG), Group BU (bilateral aneurysms with unilateral IBSG and contralateral IIA embolization)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the safety and efficacy of preserving bilateral internal iliac arteries (IIAs) using iliac branch stent grafts (IBSG) in patients with aortoiliac aneurysms"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was major adverse events"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "265 patients with aortoiliac aneurysms were enrolled from June 2019 to February 2024"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "After matching, 76 patients were in Group BB and BU, and 110 in Group UB and UU"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Group BB had fewer cases of buttock claudication (1 vs. 10, p < 0.05) and decreased erectile function (2 vs. 12, p < 0.05) compared to Group BU"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No aneurysm-related mortality was reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

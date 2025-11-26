@@ -1,0 +1,74 @@
+{
+  "pmcid": "10024931",
+  "sha256": "5c06fc9bb3a4f04df0373d4c58fd7d61a68790352a14e0392dba8904b76d6d5e",
+  "timestamp_utc": "2025-11-09T23:03:31.772116+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.128724082934607,
+    "reading_ease": 9.175765550239277,
+    "word_count": 228
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted in a hospital setting, this case study involved a 77-year-old male with chronic kidney disease, type 1 diabetes mellitus, and hypertension"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "a conservative management approach was adopted, involving high-risk staged percutaneous coronary intervention and dual antiplatelet therapy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the management of a pulmonary valve mass suspicious of being a myxoma in a patient with multiple comorbidities."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "At six months follow-up, the patient experienced no complications such as stroke or pulmonary embolism."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "the patient experienced no complications such as stroke or pulmonary embolism."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Evaluation of Carotid Artery Stenting Without Embolic Protection Devices in Yemen: A Retrospective Cohort Study"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective cohort study was conducted at Borg Al-Atiba and American Modern Hospital in Aden, Yemen, from March 2023 to March 2025."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included 62 patients with symptomatic carotid artery stenosis, confirmed by duplex ultrasound or CTA and DSA."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "All procedures were performed by a single interventional neurologist using closed-cell Carotid WALLSTENTs."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the occurrence of 30-day periprocedural complications, including mortality, stroke, myocardial infarction, or arrhythmia."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The study included 62 patients (53 males, mean age 60.2 \u00b1 9.7 years)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The technical success rate was 100%, with no perioperative cerebral infarctions."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One patient developed transient dysarthria, and two experienced significant bradycardia, which responded to atropine. Three patients had mild local hematoma, and one had a femoral pseudoaneurysm."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12410080",
+  "sha256": "c97243e22e66de3c7ee102262793de5de707c3801d5772a124b5c0dc0e8f0bcb",
+  "timestamp_utc": "2025-11-09T15:40:17.494288+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.999698905109494,
+    "reading_ease": 25.193270985401455,
+    "word_count": 274
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "METHODS:: Adult patients undergoing major noncardiac surgery were included and randomized to either standard of care (manual intermittent vital sign monitoring) vs standard of care plus continuous wireless vital sign monitoring with real-time vital sign alerts to staff smartphones at the general postoperative ward."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "METHODS:: Adult patients undergoing major noncardiac surgery were included and randomized to either standard of care (manual intermittent vital sign monitoring) vs standard of care plus continuous wireless vital sign monitoring with real-time vital sign alerts to staff smartphones at the general postoperative ward."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "METHODS:: Adult patients undergoing major noncardiac surgery were included and randomized to either standard of care (manual intermittent vital sign monitoring) vs standard of care plus continuous wireless vital sign monitoring with real-time vital sign alerts to staff smartphones at the general postoperative ward."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "METHODS:: Adult patients undergoing major noncardiac surgery were included and randomized to either standard of care (manual intermittent vital sign monitoring) vs standard of care plus continuous wireless vital sign monitoring with real-time vital sign alerts to staff smartphones at the general postoperative ward."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was cumulative duration of severe vital sign deviations, including desaturation, tachy- and bradycardia, tachy- and bradypnea, hypo- and hypertension."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Patients and outcome assessors were blinded to the randomization."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Four hundred patients were randomized, with 200 in the intervention and 200 in the control group, respectively."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Four hundred patients were randomized, with 200 in the intervention and 200 in the control group, respectively."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Duration of Sp o 2 <88% had a mean reduction of 47 minutes per day (95% confidence interval [CI], 18–80, P = .02)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events occurred in 42.5% vs 31.5% of patients within 30 days ( P = .02), and serious adverse events in 34.5% vs 29.5% ( P = .39)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

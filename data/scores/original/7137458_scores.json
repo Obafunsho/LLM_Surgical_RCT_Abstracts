@@ -1,0 +1,74 @@
+{
+  "pmcid": "7137458",
+  "sha256": "ca643096c2b6a8255edd7aafd2f0fc71d61bdcbd0d7648be846ed6940c8ae1ee",
+  "timestamp_utc": "2025-11-09T16:11:58.667988+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.144201680672268,
+    "reading_ease": 23.93462184873954,
+    "word_count": 238
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Five male patients who underwent nerve transfer after brachial plexus injury"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "wore bilateral motion detectors for 7 d"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate (1) the ability of accelerometry-based motion detectors to assess functional outcome and (2) the real-world arm use of patients after nerve transfer for brachial plexus injury, through a pilot study."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "wore bilateral motion detectors for 7 d"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Five male patients who underwent nerve transfer after brachial plexus injury"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "VT strongly and positively correlated with shoulder flexion and shoulder abduction: 0.97 ( P = .008) and 0.99 ( P = .002), respectively."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

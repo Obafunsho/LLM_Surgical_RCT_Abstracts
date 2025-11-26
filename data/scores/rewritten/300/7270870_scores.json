@@ -1,0 +1,74 @@
+{
+  "pmcid": "7270870",
+  "sha256": "a5dffe4688b402bf995426cc6bc93d423b8c353a364e845a03cd4c1458655149",
+  "timestamp_utc": "2025-11-10T00:05:10.463141+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.97547619047619,
+    "reading_ease": 29.56000000000003,
+    "word_count": 240
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Two-Stage Turnbull-Cutait Pull-Through vs. Standard Coloanal Anastomosis"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "multicenter randomised clinical trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients eligible for ultralow anterior rectal resection were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either the two-stage Turnbull-Cutait pull-through or standard hand-sewn coloanal anastomosis with diverting ileostomy"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 30-day postoperative morbidity"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Neither patients nor surgeons were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Ninety-two patients were randomised, with 46 in each group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on an intention-to-treat basis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "difference = -10.9, 95% CI, -29.5 to 8.9; P = .40"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not specified"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: NCT01766661"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

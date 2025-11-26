@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "622 women with clinical stage 2\u20133 estrogen receptor-positive (ER+) BC were enrolled"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "622 women with clinical stage 2\u20133 estrogen receptor-positive (ER+) BC were enrolled"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "ability of three neoadjuvant aromatase inhibitors (NAIs) to reduce residual disease"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to assess whether switching to neoadjuvant chemotherapy (NCT) after 4 weeks on NAI with Ki67 > 10% increases pathologic complete response (pCR)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Five-year cumulative incidence rate for LRR is estimated to be 1.53% (95% CI: 0.7 to 3.0%)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "622 women with clinical stage 2\u20133 estrogen receptor-positive (ER+) BC were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis cohort consisted of 509 patients"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Five-year cumulative incidence rate for LRR is estimated to be 1.53% (95% CI: 0.7 to 3.0%)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

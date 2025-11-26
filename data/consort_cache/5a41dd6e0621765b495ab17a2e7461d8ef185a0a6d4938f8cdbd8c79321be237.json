@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This was a single-centre, double-blinded, parallel-group RCT"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This was a single-centre, double-blinded, parallel-group RCT investigating preoperative methylprednisolone 10 mg/kg (high dose) versus dexamethasone 8 mg (standard-dose postoperative nausea prophylaxis) in patients scheduled for open liver resection."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "in patients scheduled for open liver resection"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "investigating preoperative methylprednisolone 10 mg/kg (high dose) versus dexamethasone 8 mg (standard-dose postoperative nausea prophylaxis)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to investigate whether a single high dose of preoperative glucocorticoid reduces complications in the immediate postoperative phase after liver surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was number of patients with a complication in the postanaesthesia care unit"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 174 patients (88 in high-dose group, 86 in standard-dose group) were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "174 patients (88 in high-dose group, 86 in standard-dose group) were randomized and analysed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Complications occurred in the postanaesthesia care unit in 51 patients (58 per cent) in the high-dose group and 58 (67 per cent) in the standard-dose group (risk ratio 0.86, 95 per cent c.i. 0.68 to 1.08; P = 0.213)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT03403517 ( http://www.clinicaltrials.gov ); EudraCT 2017\u2013002652-81 ( https://eudract.ema.europa.eu/ )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

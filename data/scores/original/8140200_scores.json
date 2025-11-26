@@ -1,0 +1,74 @@
+{
+  "pmcid": "8140200",
+  "sha256": "17c75e63a554594c8c22e1e3841075b85045df70698e7f80223d9fcdd5a17a92",
+  "timestamp_utc": "2025-11-09T16:16:56.228072+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.129755656108596,
+    "reading_ease": 20.001028657616928,
+    "word_count": 221
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Surgical trainees were divided into intervention and control groups."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received training in surgical cognitive simulation (SCS) and was asked to apply the techniques while working in operating theatres."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Both groups underwent procedure-based assessment based on the UK and Ireland Intercollegiate Surgical Curriculum Programme (ISCP) before the training and 4 months afterwards."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Among 21 participants in the study"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "there was a statistically significant improvement in 11 of 16 procedure-based assessment domains ( P < 0.050) as well as a statistically significant mean reduction in time to complete the procedure in the intervention group (–15.98 versus –1.14 min; P = 0.024)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

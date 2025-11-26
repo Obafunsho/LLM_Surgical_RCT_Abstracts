@@ -1,0 +1,74 @@
+{
+  "pmcid": "5737464",
+  "sha256": "e029dea10424f4ae0338244370baece74916237fc579df64e50835f4eb4bce68",
+  "timestamp_utc": "2025-11-09T23:59:05.499591+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.854700374531834,
+    "reading_ease": 21.191506050129675,
+    "word_count": 267
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Whole Slide Imaging and Microscopy for Primary Diagnosis in Surgical Pathology"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The unit of randomisation was the individual case."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included formalin-fixed paraffin-embedded surgical pathology cases, excluding frozen sections and consultation cases. The study was conducted at two academic centers and two commercial laboratories."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention was WSI, with microscopy as the comparator."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to demonstrate that whole slide imaging (WSI) is noninferior to microscopy for primary diagnosis in surgical pathology."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the major discordance rate between each modality and the reference standard diagnosis, measured over a 14-month period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using an Electronic Data Capture system, with allocation concealment ensured by deidentification."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Outcome assessors were blinded to the reference standard."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 1992 cases were analysed."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 1992 cases were analysed, resulting in 15,925 reads."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The major discordance rate was 4.9% for WSI and 4.6% for microscopy. The difference in major discordance rates was 0.4% (95% CI, −0.30% to 1.01%), indicating noninferiority of WSI."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "6537634",
+  "sha256": "0bdfc63c0b97e41faaf7751df621d095618cda5229a1f82edc8f2eb61d99b6c6",
+  "timestamp_utc": "2025-11-09T16:09:32.988591+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 18.143789272030656,
+    "reading_ease": 11.467637931034517,
+    "word_count": 261
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess surgical performance and its impact on the extent of ICH evacuation and functional outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Greater ICH reduction has a higher likelihood of achieving mRS of 0 to 3 with a minimum evacuation threshold of ≤15 mL end of treatment ICH volume or ≥70% volume reduction when controlling for disease severity factors."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "surgical arm (n = 242) of the MISTIE trial."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Greater ICH reduction has a higher likelihood of achieving mRS of 0 to 3 with a minimum evacuation threshold of ≤15 mL end of treatment ICH volume or ≥70% volume reduction when controlling for disease severity factors."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

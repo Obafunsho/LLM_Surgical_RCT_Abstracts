@@ -1,0 +1,74 @@
+{
+  "pmcid": "6478560",
+  "sha256": "f31cf54d9e6260d0a1ef4752cee8070a2bac28c34acef897770586e8189308d3",
+  "timestamp_utc": "2025-11-09T16:09:00.866764+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.860312500000003,
+    "reading_ease": 23.59574519230773,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The study is a secondary analysis of the Therapeutic Hypothermia after Pediatric Cardiac Arrest In-Hospital Trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Fifty-six children who received open-chest CPR for in-hospital cardiac arrest were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Fifty-six children who received open-chest CPR for in-hospital cardiac arrest were included."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Our objective was to describe neurobehavioral outcomes one year post-arrest among children who received open-chest CPR during in-hospital cardiac arrest; and explore factors associated with one-year survival and survival with good neurobehavioral outcome."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Neurobehavioral status was assessed using the Vineland Adaptive Behavior Scales, Second Edition (VABS-II) at pre-arrest baseline and 12-months post-arrest."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fifty-six children who received open-chest CPR for in-hospital cardiac arrest were included."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 56 children receiving open-chest CPR, 49 (88%) were post-cardiac surgery and 43 (77%) were <1 year old."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Thirty-three (59%) survived to 12 months, 22 (41%) survived to 12 months with VABS-II decreased by ≤15 points from baseline, and of those with baseline VABS-II ≥70, 23 (51%) survived to 12 months with VABS-II ≥70."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

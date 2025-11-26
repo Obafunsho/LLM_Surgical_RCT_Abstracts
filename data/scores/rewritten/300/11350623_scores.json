@@ -1,0 +1,74 @@
+{
+  "pmcid": "11350623",
+  "sha256": "da6754a6beebc71c10571a2a1a78bbdebc204e19a2c3edf09cdb4bed0c392f33",
+  "timestamp_utc": "2025-11-09T23:15:17.928644+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.532242424242426,
+    "reading_ease": 28.723363636363644,
+    "word_count": 264
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Electrostimulation in Dysvascular Amputees"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either electrostimulation of the gastrocnemius muscle plus standard rehabilitation or standard rehabilitation alone."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either electrostimulation of the gastrocnemius muscle plus standard rehabilitation or standard rehabilitation alone."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the effectiveness of non-surgical interventions in preventing CLL tissue loss and amputation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of new major amputation of the CLL over a 12-month period."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was based on birthdate, with unclear allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding of outcome assessors, patients, and clinicians was not reported."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A randomised controlled trial was conducted involving 50 dysvascular amputees."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Electrostimulation was associated with a three-fold reduction in the incidence of new major amputation of the CLL (RR 0.33, 95% CI 0.04 to 2.99)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events, time to new tissue loss, time to and incidence of minor amputation, health-related quality of life outcomes, and hospital readmissions were not reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Protocol available via DOI 10.1002/14651858.CD013857"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This study received no dedicated funding."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

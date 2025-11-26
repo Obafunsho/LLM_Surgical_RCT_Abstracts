@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We conducted a prospective randomized trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomized to 4 arms"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "a tertiary healthcare center in the United States"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomized to 4 arms based on the following pre/intraoperative warming combinations: (1) CW/CW, (2) FAW/FAW, (3) no active prewarming (NAPW)/CW, (4) NAPW/FAW."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We examined the association of four combinations of pre- and intraoperative CW and FAW with the magnitude of intraoperative hypothermia."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The area under the temperature curve (AUC) below 36\u00b0C was calculated according to the trapezoidal rule and quantified intraoperative hypothermia."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomized to 4 arms"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "182 patients were analyzed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The ratio of mean AUC [95% CI] between CW/CW vs NAPW/FAW was 0.49 [0.24, 0.98], 51% lower, and between NAPW/CW and NAPW/FAW, 0.46 [0.23, 0.91], 54% lower."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "trial registration number ISRCTN23065394"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

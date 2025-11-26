@@ -1,0 +1,74 @@
+{
+  "pmcid": "4079766",
+  "sha256": "912300187c590b90598c64fd7d550e1534f1ff6da72d7a04ddb80c8d1b1f7824",
+  "timestamp_utc": "2025-11-09T23:52:10.970655+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.149539559014272,
+    "reading_ease": 4.7088143104193705,
+    "word_count": 257
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D): A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This multicenter randomised controlled trial employed a 2 × 2 factorial design."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were diabetic patients with myocardial ischemia and multivessel coronary artery disease."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "347 patients were randomised to either early coronary artery bypass grafting (CABG) or medical management."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The BARI 2D trial assessed management strategies for diabetic patients with myocardial ischemia and coronary artery disease."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of subsequent myocardial infarction, assessed over a specified follow-up period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Due to the nature of the interventions, blinding was not feasible."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 347 patients were randomised to either early coronary artery bypass grafting (CABG) or medical management."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis followed an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Early CABG was associated with a significant reduction in myocardial infarction rates compared to medical management (hazard ratio = 0.70, 95% CI 0.50 to 0.98; p = 0.04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The perioperative morbidity and mortality rates were low, and adverse events were comparable between the groups, with no significant differences observed."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00006305."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: The study was funded by the National Institutes of Health, ensuring comprehensive support for the trial's execution and analysis."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10909914",
+  "sha256": "895185a476b38239507a0b263a0bffe4c2adab4cd3af0c8e7103b74b1d59c759",
+  "timestamp_utc": "2025-11-09T15:13:09.908274+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.176374394835939,
+    "reading_ease": 20.789429800968264,
+    "word_count": 338
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We tested the hypothesis that a virtual reality program (AppliedVR, Los Angeles, CA) decreases acute postoperative pain and opioid requirements in patients recovering from hip arthroplasty."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participating patients were randomized to 2–8-minute-long three-dimensional immersive virtual reality relaxation and distraction video presentations."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We evaluated 106 adults who were recovering from elective primary total hip arthroplasty."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to 2–8-minute-long three-dimensional immersive virtual reality relaxation and distraction video presentations or to two-dimensional presentations of nature short films."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We tested the hypothesis that a virtual reality program (AppliedVR, Los Angeles, CA) decreases acute postoperative pain and opioid requirements in patients recovering from hip arthroplasty."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Our primary outcome was pain after virtual reality or sham video presentations, adjusted for pre-treatment scores."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participating patients were randomized."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "52 patients were randomized to virtual reality distraction and relaxation, and 54 were assigned to two-dimensional sham presentations."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Virtual reality presentations were not found to affect pain scores, with an estimated difference in means (virtual reality minus sham video) of −0.1 points [95% CI: −0.5, 0.2, P=0.391] on a 0–10 scale."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

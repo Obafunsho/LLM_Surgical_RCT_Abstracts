@@ -1,0 +1,74 @@
+{
+  "pmcid": "12433767",
+  "sha256": "29eecce4d0008d720689fccc1b48ac19e12962229f7d3b2ad9fdfd132ff30097",
+  "timestamp_utc": "2025-11-09T15:41:37.977576+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.415933706816059,
+    "reading_ease": 54.18955882352941,
+    "word_count": 306
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This retrospective cohort study included consecutive patients who underwent fluoroscopy-guided foam sclerotherapy for varicose veins in the legs at the authors’ center during a period from August 1, 2011, to May 31, 2016."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "fluoroscopy-guided foam sclerotherapy for varicose veins in the legs"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To examine the long-term effectiveness of fluoroscopy-guided foam sclerotherapy for varicose veins in the legs."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The final analysis included 94 patients (58.3 ± 7.8 years of age; 43 men; 119 legs)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The final analysis included 94 patients (58.3 ± 7.8 years of age; 43 men; 119 legs)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The recurrence rate was 30.9% (29/94) in the overall analysis, 26.6% (25/94) for the great saphenous vein and 4.3% (4/94) for the small saphenous vein ( P < .001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No patients developed stroke, deep vein thrombosis, or pulmonary embolism after the treatment."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

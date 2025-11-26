@@ -1,0 +1,74 @@
+{
+  "pmcid": "5516212",
+  "sha256": "d36b6412b5a20b8918f7a785f60c9f0d6c5da907cf60ac373d2e135ab8a0fd91",
+  "timestamp_utc": "2025-11-09T22:46:44.057730+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.951647577092512,
+    "reading_ease": 14.820922173274624,
+    "word_count": 227
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Troponin I Levels and Cardiovascular Complications in Postmenopausal Women Undergoing Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive 17 β-estradiol or placebo"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "175 postmenopausal women not on estrogen replacement therapy, scheduled for coronary artery bypass grafting, with or without valve surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive 17 β-estradiol or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the prognostic value of troponin I levels for predicting cardiovascular complications in postmenopausal women undergoing cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was major adverse cardiovascular events (MACE) within 30 days"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "175 postmenopausal women"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Troponin I levels on postoperative day 1 predicted MACE (AUC = 0.862). A cutoff of >7.6 ng/mL provided optimal sensitivity and specificity."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

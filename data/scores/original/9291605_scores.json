@@ -1,0 +1,74 @@
+{
+  "pmcid": "9291605",
+  "sha256": "fb8cbdfb369d8dfebf7119d5e479ed6d14929320c8ae7389a393d444d7d955db",
+  "timestamp_utc": "2025-11-09T16:20:59.967302+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.716842105263158,
+    "reading_ease": 1.9278947368421484,
+    "word_count": 285
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This triple‐blind, non‐inferiority, clinical trial randomly allocated patients aged 40–85 who underwent elective aortic valve replacement, with or without coronary artery bypass grafting, to plasma volume replacement with 6% starch 130/0.4 vs. 5% human albumin."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This triple‐blind, non‐inferiority, clinical trial randomly allocated patients aged 40–85 who underwent elective aortic valve replacement, with or without coronary artery bypass grafting, to plasma volume replacement with 6% starch 130/0.4 vs. 5% human albumin."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 40–85 who underwent elective aortic valve replacement, with or without coronary artery bypass grafting"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "to plasma volume replacement with 6% starch 130/0.4 vs. 5% human albumin"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We tested the hypotheses that intra‐operative administration of a third‐generation starch does not worsen postoperative kidney function or haemostasis in cardiac surgical patients compared with human albumin 5%."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Our primary outcome was postoperative urinary neutrophil gelatinase‐associated lipocalin concentrations, a sensitive and early marker of postoperative kidney injury."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly allocated patients"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "This triple‐blind, non‐inferiority, clinical trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We enrolled 141 patients (69 starch, 72 albumin) as planned."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Results of the primary analysis demonstrated that postoperative urine neutrophil gelatinase‐associated lipocalin (median ( IQR [range])) was slightly lower with hydroxyethyl starch (5 (1–68 [0–996]) ng.ml −1 ) vs. albumin (5 (2–74 [0–1604]) ng.ml −1 ), although not non‐inferior [ratio of geometric means (95% CI ) 0.91 (0.57, 1.44); p = 0.15] due to higher than expected variability."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

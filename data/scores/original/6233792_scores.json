@@ -1,0 +1,74 @@
+{
+  "pmcid": "6233792",
+  "sha256": "c65e7e5a12e1dde2a1927c7321b4afb4bd41ae38cb8e53155cee81734b924691",
+  "timestamp_utc": "2025-11-09T16:07:48.076842+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.293496897913144,
+    "reading_ease": 32.91539669110739,
+    "word_count": 394
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A pilot randomized clinical trial of modified MBSR vs an active control was conducted with 21 surgical interns"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "21 surgical interns in a residency training program at a tertiary academic medical center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Weekly 2-hour, modified MBSR classes and 20 minutes of suggested daily home practice over an 8-week period."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To test the feasibility and acceptability of modified Mindfulness-Based Stress Reduction (MBSR) training during surgical residency."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Feasibility was assessed along 6 domains (demand, implementation, practicality, acceptability, adaptation, and integration)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "21 surgical interns in a residency training program at a tertiary academic medical center, from April 30, 2016, to December 2017."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 21 residents included in the analysis"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "no significant difference in days per week practiced between groups; similar mean (SD) daily practice time between groups with significant differences only in week 1 (control, 28.15 [12.55] minutes; intervention, 15.47 [4.06] minutes; P = .02)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov identifier: NCT03141190"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

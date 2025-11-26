@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Purpose: This aim of this study was to investigate the analgesic efficacy and safety of lesser occipital nerve combined with great auricular nerve block (LOGAB) for craniotomy via a suboccipital retrosigmoid approach."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients underwent vestibular schwannoma resection via a suboccipital retrosigmoid approach were randomly assigned to receive ultrasound-guided unilateral LOGAB with 5 ml of 0.5% ropivacaine (LOGAB group) or normal saline (NSB group)."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients underwent vestibular schwannoma resection via a suboccipital retrosigmoid approach were randomly assigned to receive ultrasound-guided unilateral LOGAB with 5 ml of 0.5% ropivacaine (LOGAB group) or normal saline (NSB group)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients underwent vestibular schwannoma resection via a suboccipital retrosigmoid approach were randomly assigned to receive ultrasound-guided unilateral LOGAB with 5 ml of 0.5% ropivacaine (LOGAB group) or normal saline (NSB group)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Purpose: This aim of this study was to investigate the analgesic efficacy and safety of lesser occipital nerve combined with great auricular nerve block (LOGAB) for craniotomy via a suboccipital retrosigmoid approach."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Numeric rating scale (NRS) scores at rest and motion were recorded within 48 h after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients underwent vestibular schwannoma resection via a suboccipital retrosigmoid approach were randomly assigned to receive ultrasound-guided unilateral LOGAB with 5 ml of 0.5% ropivacaine (LOGAB group) or normal saline (NSB group)."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Among 59 patients who were randomized, 30 patients received ropivacaine, and 29 patients received saline."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Among 59 patients who were randomized, 30 patients received ropivacaine, and 29 patients received saline."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "NRS scores at rest (1.8 \u00b1 0.5 vs. 3.2 \u00b1 0.8, P = 0.002) and at motion (2.2 \u00b1 0.7 vs. 3.2 \u00b1 0.6, P = 0.013) of LOGAB group were lower than those of NSB group within 48 h after surgery."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No patients reported any adverse events."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinical trial registration number: Chictr.org.cn ChiCTR2000038798."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

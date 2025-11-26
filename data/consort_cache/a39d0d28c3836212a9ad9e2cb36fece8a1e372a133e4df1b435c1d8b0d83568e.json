@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Cementless 3D-Printed vs. Cemented Tibial Components in TKA"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this randomised controlled trial, 72 patients were randomised"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "72 patients were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "cementless 3D-printed Triathlon Tritanium (Stryker) cruciate-retaining (CR) TKA or a cemented Triathlon CR (Stryker) TKA"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome, maximum total point motion (MTPM), was measured using radiostereometric analysis (RSA) at baseline, 3 months, and 1, 2, and 5 years postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Patients and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "72 patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 5 years, the mean MTPM was 0.66 mm (95% CI, 0.56 to 0.78 mm) for the cementless group and 0.53 mm (95% CI, 0.43 to 0.64 mm) for the cemented group (p = 0.09)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02578446"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funded by Stryker."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

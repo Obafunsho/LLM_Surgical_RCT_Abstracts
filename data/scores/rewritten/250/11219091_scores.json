@@ -1,0 +1,74 @@
+{
+  "pmcid": "11219091",
+  "sha256": "7020d47f0d05a2340892c614e4b6b77b0793f0279c4ee9dc074cba2a2e8730f9",
+  "timestamp_utc": "2025-11-09T22:01:02.013629+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.240588235294119,
+    "reading_ease": 24.02205882352942,
+    "word_count": 228
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of a Simulation-Based Curriculum for Open Vascular Surgical Skills"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised into two groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Second-year surgery residents were eligible to participate."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "the intervention group received a six-session open vascular skills curriculum, while the control group received standard training."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates a simulation-based curriculum designed to bridge this gap."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the improvement in technical skills, measured using the Objective Structured Assessment of Technical Skills (OSATS) form during the fifth and sixth sessions."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 101 residents were randomised, with 50 in the intervention group and 51 in the control group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The intervention group showed a significant improvement in OSATS scores, with a median score of 26.5 (interquartile range: 24–29) compared to the control group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was supported by institutional resources."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "4385741",
+  "sha256": "04e7a74d11b64175327daac8b20b5ab29564947f4290d231ab6ac712fe47952e",
+  "timestamp_utc": "2025-11-09T15:58:49.737026+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.732123552123554,
+    "reading_ease": 24.92581823581827,
+    "word_count": 259
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized to undergo CABG or CABG + SVR"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Of 1,000 STICH patients with coronary artery disease (CAD), left ventricular (LV) ejection fraction (EF) ≤35% and anterior dysfunction"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to undergo CABG or CABG + SVR"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "the aim of the study was to assess the impact of RV dysfunction on clinical outcome"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Patients were followed for a median of 48 months. All-cause mortality or cardiovascular hospitalization was the primary endpoint"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized to undergo CABG or CABG + SVR"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 1,000 STICH patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "baseline RV function could be assessed by echocardiography in 866 patients"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients with moderate or severe RV dysfunction who received CABG + SVR had significantly worse outcomes compared to patients who received CABG alone on both the primary (HR=1.86; CI=1.06–3.26; p=0.028) and the secondary endpoint (HR=3.37; CI=1.36–8.37; p=0.005)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

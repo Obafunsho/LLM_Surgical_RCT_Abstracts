@@ -1,0 +1,74 @@
+{
+  "pmcid": "11219141",
+  "sha256": "26297adfcf6c7c9e2a60b186b4d3186b9693abef7b9b28d545ab9ae226d3d085",
+  "timestamp_utc": "2025-11-09T15:16:11.219764+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.703207038123168,
+    "reading_ease": 35.45081055718478,
+    "word_count": 341
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "They were randomly assigned to either the landmark-guided or ultrasound-guided intra-articular lidocaine injection group."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "28 patients with anterior shoulder dislocation were treated at the emergency department of a tertiary referral care center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "landmark-guided or ultrasound-guided intra-articular lidocaine injection group."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Among patients undergoing closed reduction of a shoulder dislocation, were there differences between an intra-articular shoulder injection placed using anatomic landmarks and an ultrasound-guided intra-articular injection in terms of (1) pain before versus after the injection and pain before injection versus after the reduction, or (2) length of stay in the emergency department and complications of the procedure?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Differences in pain levels between preinjection and postinjection, preinjection and postreduction, length of hospital stay, and complications were assessed and compared between the two groups. Patients were followed for 2 weeks."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "They were randomly assigned to either the landmark-guided or ultrasound-guided intra-articular lidocaine injection group."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between August 2021 and March 2023, 28 patients with anterior shoulder dislocation were treated."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There were no differences between the groups in terms of pain reduction between preinjection and postinjection (landmark-guided: ΔVAS 2.8 ± 1.1, ultrasound-guided: ΔVAS 2.9 ± 1.0, mean difference -0.14 [95% confidence interval -0.97 to 0.68]; p = 0.72) or between preinjection and postreduction (landmark-guided: ΔVAS 6.6 ± 2.1, ultrasound-guided: ΔVAS 5.8 ± 1.8, mean difference 0.79 [95% CI -0.74 to 2.31]; p = 0.30)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "no complications were reported in either group during the 2-week follow-up period."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

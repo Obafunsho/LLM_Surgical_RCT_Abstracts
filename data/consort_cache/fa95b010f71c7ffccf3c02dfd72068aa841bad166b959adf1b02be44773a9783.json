@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "prospective randomized clinical trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Twenty male participants were hospitalized for 88 days"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Twenty male participants were hospitalized for 88 days comprised of 14 days of ambulatory baseline, 60 days of 6\u00b0 head-down tilt bed rest and 14 days of reambulation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Ten participants each received a control diet or daily polyphenol associated with omega-3, vitamin E, and selenium supplements."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to measure hemolysis before, during and after 60 days of the ground-based spaceflight analog bed rest and the effect of a nutritional intervention"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was endogenous carbon monoxide (CO) elimination measured by gas chromatography."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty male participants"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "CO elimination increased after 5, 11, 30, and 57 days of bed rest: +289\u2009ppb (95% CI 101\u2013477\u2009ppb; p =\u20090.004), +253\u2009ppb (78\u2013427\u2009ppb; p =\u20090.007), +193\u2009ppb (89\u2013298\u2009ppb; p =\u20090.001) and +858\u2009ppb (670\u20131046\u2009ppb; p <\u20090.000), respectively, compared to baseline."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

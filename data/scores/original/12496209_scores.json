@@ -1,0 +1,74 @@
+{
+  "pmcid": "12496209",
+  "sha256": "ee9c73413d1d2473bacf4948783dcd94f5dea4538263a9749e9bbe301074514b",
+  "timestamp_utc": "2025-11-09T15:45:15.231543+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.29416982922201,
+    "reading_ease": 18.56382827324481,
+    "word_count": 496
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Most studies were single-centre observational cohorts from high-income countries, with no randomised trials identified."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Most studies were single-centre observational cohorts from high-income countries, with no randomised trials identified."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "for studies evaluating preoperative GLP-1 RA use in adults undergoing elective surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "preoperative GLP-1 RA therapy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the safety and efficacy of preoperative GLP-1 therapy in elective surgical systems."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was perioperative safety, defined as any complication within 90 days after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Most studies were single-centre observational cohorts from high-income countries, with no randomised trials identified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Most studies were single-centre observational cohorts from high-income countries, with no randomised trials identified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 21 studies, comprising 97,059 patients, met inclusion criteria; 31.9% (n = 30,981) received preoperative GLP-1 RA therapy."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Postoperative complications were reported in 12 studies, with no evidence of increased risk in GLP-1 users (pooled odds ratio: 0.78, 95% confidence interval: 0.59–1.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Postoperative complications were reported in 12 studies, with no evidence of increased risk in GLP-1 users"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "This study is registered with PROSPERO, CRD420251027809."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: 10.13039/501100000272 NIHR Doctoral Research Fellowship and 10.13039/100014461 NIHR Exeter Biomedical Research Centre Senior Investigator Fellowship."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "8439547",
+  "sha256": "ded8ffbf60ea8e12d1cb935fb21495dd6f18e41b1bf5d3c0bc788f62d40769e4",
+  "timestamp_utc": "2025-11-09T22:58:24.417675+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.805040650406507,
+    "reading_ease": 34.76821138211383,
+    "word_count": 246
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Initial Surgical Treatment in Premature Infants with NEC or IP"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "310 infants were randomised"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "extremely low birth weight infants with necrotizing enterocolitis (NEC) or isolated intestinal perforation (IP)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to initial laparotomy or peritoneal drainage"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The impact of initial laparotomy versus peritoneal drainage on death or neurodevelopmental impairment (NDI) in extremely low birth weight infants with necrotizing enterocolitis (NEC) or isolated intestinal perforation (IP) is unknown."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was a composite of death or NDI at 18–22 months corrected age."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by center and preoperative diagnosis, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the interventions."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "310 infants were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "96% had the primary outcome assessed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Death or NDI occurred in 69% of infants in the laparotomy group versus 70% with drainage (adjusted relative risk [aRR] = 1.0; 95% confidence interval [CI]: 0.87–1.14)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The Swedish Rectal Prolapse Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomized between a perineal or an abdominal approach"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients considered unsuitable for random allocation were only included in randomizations B or C."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients in randomization B (perineal group) were randomized to Delorme\u2019s or Altemeier\u2019s procedures and those in randomization C (abdominal group) to suture rectopexy or resection rectopexy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The Swedish Rectal Prolapse Trial was performed with the aim to compare the outcomes after the most common surgical approaches to rectal prolapse."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes were bowel function and quality of life, measured using Wexner incontinence score and RAND-36, and secondary outcomes were complications and recurrence at 3 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomized between a perineal or an abdominal approach"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "During the study period, 134 patients were randomized: 18 in randomization A group, 80 in randomization B group and 54 in randomization C group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "of these, 122 patients underwent surgery."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Improvements in Wexner and RAND-36 scores were seen but with no significant difference between the groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no significant differences regarding postoperative complications."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT04893642"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

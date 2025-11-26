@@ -1,0 +1,74 @@
+{
+  "pmcid": "12353487",
+  "sha256": "99ffe68289b9b3be5a70ab4a77fb8c2c4b4e8f8b0dbb8d7c40e302a8fef992de",
+  "timestamp_utc": "2025-11-09T23:34:11.019649+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.640144422310758,
+    "reading_ease": 15.897082503320092,
+    "word_count": 251
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Perioperative Normoxia vs. Hyperoxia in Cyanotic Neonates Undergoing Cardiopulmonary Bypass"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial enrolled 29 neonates"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "neonates with cyanotic congenital heart disease at a single tertiary care center. Eligibility criteria included neonates requiring cardiopulmonary bypass."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to normoxia (PaO2 60–100 mmHg) or hyperoxia (PaO2 200–300 mmHg) during bypass."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the feasibility, safety, and oxidative stress response of perioperative normoxia versus hyperoxia in cyanotic neonates undergoing cardiopulmonary bypass."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was serum thiobarbituric acid reactive substances (TBARS) measured at baseline, 2, 6, and 24 hours postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty-nine neonates (median age 5 days) were randomised: 15 to normoxia and 14 to hyperoxia."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "TBARS levels were significantly lower in the normoxia group at 2 hours (1.21±0.26 vs 1.93±0.63), 6 hours (1.09±0.25 vs 1.77±0.7), and 24 hours (0.96±0.16 vs 1.41±0.29); all p<0.01."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

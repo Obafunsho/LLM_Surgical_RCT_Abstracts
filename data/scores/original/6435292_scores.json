@@ -1,0 +1,74 @@
+{
+  "pmcid": "6435292",
+  "sha256": "75efaf9ce57fbf1021aa5769cb4036c6ab85497bc11f02352c5b78c519032f3c",
+  "timestamp_utc": "2025-11-09T16:08:47.653392+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.291261792452833,
+    "reading_ease": 22.101043632075488,
+    "word_count": 265
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Inclusion criteria for this ancillary study were the presence of a baseline and at least one postoperative hscTnT value."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "MI were compared when diagnosed by contemporary cTnI versus hscTnT."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that using a recently introduced novel high-sensitivity cTnT (hscTnT) assay would increase the detection rate of perioperative MI."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Among 605 patients, 70 patients (12%) had ECG changes consistent with myocardial ischemia; 82 patients (14%) had myocardial injury diagnosed by contemporary cTnI, 31 (5.1%) of which had an adjudicated MI."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "After readjudication, 67 patients (11%) were diagnosed with MI when using hscTnT, a 2-fold increase."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

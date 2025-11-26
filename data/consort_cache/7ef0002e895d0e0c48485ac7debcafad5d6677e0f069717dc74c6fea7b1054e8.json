@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This study was a multicenter, double-blind, randomized, placebo-controlled trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This study was a multicenter, double-blind, randomized, placebo-controlled trial that randomly assigned patients to dexmedetomidine or saline placebo"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were elderly (>68 years) patients undergoing major elective noncardiac surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Dexmedetomidine infusion (0.5 \u00b5g/kg/h) during surgery and up to 2 hours in the recovery room."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To evaluate whether an intraoperative infusion of dexmedetomidine reduces postoperative delirium."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Patients were assessed daily for postoperative delirium (primary outcome)"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly assigned patients to dexmedetomidine or saline placebo"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "In total, 404 patients were randomized; 390 completed in-hospital delirium assessments"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "390 completed in-hospital delirium assessments"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "There was no difference in postoperative delirium between the dexmedetomidine and placebo groups (12.2% [23 of 189] vs 11.4% [23 of 201], P =\u2009.94)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were comparably distributed in the treatment groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: clinicaltrials.gov Identifier NCT00561678"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

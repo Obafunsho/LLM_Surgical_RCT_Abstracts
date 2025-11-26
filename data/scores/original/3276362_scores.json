@@ -1,0 +1,74 @@
+{
+  "pmcid": "3276362",
+  "sha256": "736ef4e8617f1b0057be77923e0eafe1c7d7ba0e6af8329bd54616ffa99738ff",
+  "timestamp_utc": "2025-11-09T15:52:04.627036+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.420750000000002,
+    "reading_ease": 43.14925000000002,
+    "word_count": 320
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "42 patients underwent elective endovascular repair of a TAAA using custom designed multi-branched stent-grafts at a single academic institution."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "42 patients underwent elective endovascular repair of a TAAA using custom designed multi-branched stent-grafts at a single academic institution."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "endovascular repair of a TAAA using custom designed multi-branched stent-grafts"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To characterize the inflammatory and coagulopathic response after endovascular thoracoabdominal aortic aneurysm (TAAA) repair and to evaluate the effect of the response on post-operative renal function."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "White blood cell count (WBC), platelet count, prothrombin time (PT), and creatinine were measured in all patients."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From 7/2005 to 6/2008, 42 patients underwent elective endovascular repair of a TAAA"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "4 patients were excluded from the analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The 30-day mortality rate was 5% (2/38). All patients (n=38) had a higher WBC (mean±SD: 139 ± 80%, P<0.0001), lower platelet count (56 ± 15%, P<0.0001), and higher PT (median: 17%, IQR 12 - 22%, P<0.0001) after stent-graft insertion."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Twelve of 38 patients (32%) developed postoperative acute renal insufficiency (>50% rise in creatinine)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11803574",
+  "sha256": "960b6c28f8b15133f860ae26bb310420a0f2f6b7efca41ab874019b66fe034e1",
+  "timestamp_utc": "2025-11-09T15:23:57.442638+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.9377468164794,
+    "reading_ease": 35.66671011235957,
+    "word_count": 267
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with Clinical-Etiology-Anatomy-Pathophysiology (CEAP) C2-C6 with truncal reflux were prospectively included."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Venous interventions were used to treat reflux and varicosities."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Therefore, we aimed to translate the Aberdeen Varicose Vein Questionnaire into Thai language (AVVQ-Thai) and evaluate its reliability and validity."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "AVVQ-Thai were collected pre- and one-month post-intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study included 119 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The median AVVQ scores improved significantly after intervention from 15.4 (IQR 8.3, 24.2) to 4.2 (IQR 1.3, 8.4) in C2-C3, and 18.9 (IQR 14.1, 25.5) to 7.3 (IQR 4.6, 16.3) in C4-C6."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11916589",
+  "sha256": "76880d3c1681668981f52a9c7ffb1d898d693b420f5cf257802ea516a0e891fd",
+  "timestamp_utc": "2025-11-09T23:22:49.186722+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.02761133603239,
+    "reading_ease": 18.8647570850203,
+    "word_count": 260
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Evaluating Pleth Variability Index in Orthotopic Liver Transplantation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "single-center study involved 25 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at Inonu University, Turkey, this single-center study involved 25 patients undergoing OLT. Exclusion criteria included cardiac arrhythmias, low left ventricular function, renal dysfunction, valvular heart disease, pulmonary hypertension, or fulminant hepatic failure."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were monitored using the Masimo pulse oximeter and PiCCO 2 system. Fluid loading (10 mL/kg colloid) was administered during the dissection and anhepatic phases."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the pleth variability index (PVI) as a predictor of fluid responsiveness in OLT, comparing it with other hemodynamic indices from the PiCCO 2 system."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the predictive value of PVI, assessed over two surgical phases."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "single-center study involved 25 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "14 (56%) and 18 (75%) patients were classified as responders, respectively."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "PVI did not significantly predict fluid responsiveness, with an area under the curve (AUC) of 0.56 and 0.55 for the dissection and anhepatic phases, respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to the intervention were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

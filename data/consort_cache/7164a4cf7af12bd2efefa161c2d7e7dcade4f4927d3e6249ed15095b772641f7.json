@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients with IVH on the stability CT scan"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Exposure was minimally invasive surgery plus alteplase (MIS+alteplase)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcome was deltaIVH defined as IVH volume on end-of-treatment CT minus IVH volume on stability CT scan."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 499 patients in MISTIE-III, 310 (62.1%) had IVH on stability scans"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 146 (47.1%) received the MISTIE procedure and 164 (52.9%) standard medical care (SMC) only."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "MIS+alteplase was associated with greater deltaIVH in multivariable linear regression analysis adjusted for potential confounders (beta, \u22120.80; 95%CI, \u22121.37 to \u22120.22; p=0.007)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

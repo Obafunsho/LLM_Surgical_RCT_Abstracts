@@ -1,0 +1,74 @@
+{
+  "pmcid": "4272222",
+  "sha256": "ee7573c9cae9288f43565e6f0442a5ff76f837b0d33238268f27dcb7fc76a975",
+  "timestamp_utc": "2025-11-09T23:53:01.169936+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.283412073490815,
+    "reading_ease": 39.29962379702539,
+    "word_count": 254
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Sufentanil Sublingual Tablet System for Postoperative Pain Management"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A sample size of 180 was planned, with 172 randomised (115 to SSTS, 57 to placebo)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were adults undergoing open abdominal surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised 2:1 to receive SSTS 15 μg or placebo."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy and safety of a sufentanil sublingual tablet system (SSTS) for managing postoperative pain following open abdominal surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the time-weighted summed pain intensity difference (SPID) over 48 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation and allocation concealment via an interactive web-response system."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, investigators, and study personnel."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "172 randomised (115 to SSTS, 57 to placebo)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The SPID48 was significantly higher in the SSTS group than in the placebo group (least squares mean [SEM], 105.60 [10.14] vs 55.58 [13.11]; P = 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, with no severe events in the SSTS group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01539642."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

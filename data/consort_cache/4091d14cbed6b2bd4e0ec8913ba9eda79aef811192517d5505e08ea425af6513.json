@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Erythrocyte Transfusion Effects on Pulmonary Gas Exchange in Surgical Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly allocated to receive their first transfusion as cell salvage (CS), washed stored, or unwashed stored erythrocytes."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial included 91 patients undergoing elective major spine surgery at a single center, with anticipated erythrocyte transfusion."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly allocated to receive their first transfusion as cell salvage (CS), washed stored, or unwashed stored erythrocytes."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the hypothesis that erythrocyte transfusion affects pulmonary gas exchange in surgical patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in PaO2/FIO2 ratio, measured 5 minutes before and 30 minutes after transfusion."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was computer-generated, and allocation was not concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Clinicians were not blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ninety-one patients were randomised: 30 to CS, 31 to washed, and 30 to unwashed erythrocytes."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Ninety-one patients were randomised: 30 to CS, 31 to washed, and 30 to unwashed erythrocytes."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The change in PaO2/FIO2 was not significant in any group (CS: 9 \u00b1 59; washed: 10 \u00b1 26; unwashed: 15 \u00b1 1) and did not differ among groups (P = 0.92)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

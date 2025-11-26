@@ -1,0 +1,74 @@
+{
+  "pmcid": "12317102",
+  "sha256": "8f9f8dbe8a70ea3c86dd92759b12b6fbfcc6fd897c380e606517904c9d9e3053",
+  "timestamp_utc": "2025-11-09T15:36:45.014016+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.438190476190478,
+    "reading_ease": 28.640142857142905,
+    "word_count": 252
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "One thousand incident ALS patients were enrolled from 22 ALS centers in France and followed up for 12 months."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "One thousand incident ALS patients were enrolled from 22 ALS centers in France and followed up for 12 months."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To determine the frequency of SOD1 variants and C9orf72 G4C2 repeats in a French ALS population and to describe genotype–phenotype relationships."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One thousand incident ALS patients were enrolled from 22 ALS centers in France and followed up for 12 months."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "C9orf72 G4C2 repeats and SOD1 variants were observed in 7.6% and 1.6%, respectively."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Effects of Dexmedetomidine on Postoperative Recovery in Elderly TKA Patients: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this single-center, randomised controlled trial, 225 patients aged 60 years or older undergoing elective TKA were enrolled"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "225 patients aged 60 years or older undergoing elective TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned in a 1:1:1 ratio to receive 0.6 \u03bcg/kg/h dexmedetomidine (Group D2), 0.3 \u03bcg/kg/h dexmedetomidine (Group D1), or saline (Group N)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effects of different doses of dexmedetomidine on postoperative quality of recovery (QoR)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the QoR-15 score on postoperative day 1"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "225 patients aged 60 years or older undergoing elective TKA were enrolled between December 2022 and June 2023"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "A total of 204 patients were analysed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Group D2 showed a significant improvement in QoR-15 scores on postoperative day 1 compared to Group N (median difference, 6 points; 95% CI, 4 to 8; P < 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar across groups"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2200066337"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

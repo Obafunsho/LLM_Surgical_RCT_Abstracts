@@ -1,0 +1,74 @@
+{
+  "pmcid": "3528899",
+  "sha256": "1fcf414917891a2351aa5bce17d9f93000bde8013ac967d48f0e81432bd7e72e",
+  "timestamp_utc": "2025-11-09T23:48:43.919996+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.02439560439561,
+    "reading_ease": 13.25346153846155,
+    "word_count": 260
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Intraosseous Versus Systemic Administration of Cefazolin in Primary Total Knee Arthroplasty: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to two groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "22 patients undergoing primary TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group 1 (n=11) received 1 g cefazolin systemically... Group 2 (n=11) received 1 g cefazolin intraosseously"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare the tissue concentrations of cefazolin achieved through systemic versus regional intraosseous administration."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "antibiotic concentrations were measured using high-performance liquid chromatography"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "22 patients undergoing primary TKA"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean tissue concentration of cefazolin in subcutaneous fat was 186 ug/g in the intraosseous group and 11 ug/g in the systemic group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not provided."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

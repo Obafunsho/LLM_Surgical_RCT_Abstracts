@@ -1,0 +1,74 @@
+{
+  "pmcid": "3632299",
+  "sha256": "a347069ecc570dbf5e4d01e444f3060461a51eb47fe5e24fd17e83a514a7be7c",
+  "timestamp_utc": "2025-11-09T22:37:44.486659+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.547249943039418,
+    "reading_ease": 26.75967190704037,
+    "word_count": 231
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Amino Acid Infusion in Pediatric Burn Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial included 10 pediatric burn patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "pediatric burn patients (7.4 ± 3.8 years; 27.4 ± 14.7 kg) and 5 healthy young males (22 ± 3 years; 76 ± 15 kg) as controls"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants underwent an 8-hour stable isotope infusion study, with a 3-hour amino acid solution infusion (10% Travasol)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the response of leg muscle, whole-body muscle, and non-muscle protein to amino acid signaling in pediatric burn patients 6 months post-injury."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was leg muscle protein synthesis rate, measured during the infusion period."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial included 10 pediatric burn patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Amino acid infusion significantly increased leg muscle protein synthesis in both groups (P < 0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomized 60 patients into two groups using either the PSI technique or a conventional technique."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Mean age of the patients was 63 \u00b1 4 years (range, 54\u201372 years) and mean body mass index was 28 \u00b1 3 kg/m 2."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "We randomized 60 patients into two groups using either the PSI technique or a conventional technique."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that UKA performed with PSI would result in improved level gait as ascertained with three-dimensional analysis, implant positioning, and patient-reported outcomes measured by a validated scoring system when compared with conventional instrumentation 3 months and 1 year after surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Gait parameters were assessed with three-dimensional analysis during level walking preoperatively and at 1 year, frontal and sagittal position of the implant was evaluated on full-length radiographs at 3 months, and subjective functional outcome and quality of life using routine questionnaires (SF-12, new Knee Society Score [KSS], Knee Injury and Osteoarthritis Outcome Score) at 3 months and 1 year."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomized 60 patients into two groups using either the PSI technique or a conventional technique."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Patients were evaluated preoperatively, at 3 months, and 1 year after surgery by an independent observer blind to the type of technique."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomized 60 patients into two groups using either the PSI technique or a conventional technique."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "One year after surgery, there were no differences between the two groups in the analyzed gait spatiotemporal parameters, respectively, for PSI UKA and conventional UKA : double limb support 31% (25%\u201354%) versus 30% (23%\u201356%; p = 0.67) and walking speed (1.59 m/s [0.86\u20131.87 m/s] versus 1.57 m/s [0.71\u20131.96 m/s]; p = 0.41)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial Comparing Porous Tantalum Cementless and Cemented Tibial Components in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomised 145 patients into two groups"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group 1 received a porous tantalum cementless tibial component, and Group 2 received a cemented conventional tibial component"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial investigates whether a porous tantalum cementless tibial component offers superior clinical outcomes compared to a conventional cemented component in total knee arthroplasty (TKA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were the Knee Society Score (KSS) and WOMAC Osteoarthritis Index, assessed preoperatively and at 15 days, 6 months, and 5 years postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomised 145 patients into two groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 5-year follow-up, the mean KSS was 90.4 (range, 68\u2013100; 95% CI, \u00b11.6) for Group 1 and 86.5 (range, 56\u201399; 95% CI, \u00b12.4) for Group 2, with an effect size of 3.88 \u00b1 2.87."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences were found in the frequency of complications or aseptic loosening between the groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

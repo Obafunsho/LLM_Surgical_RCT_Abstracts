@@ -1,0 +1,74 @@
+{
+  "pmcid": "6092098",
+  "sha256": "c197c94b747493bf9707ad2d6c9262eb51b37acdca9ccd35119b301187edfd33",
+  "timestamp_utc": "2025-11-09T22:49:06.777431+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.355981651376151,
+    "reading_ease": 10.853391437308886,
+    "word_count": 218
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Percutaneous Sciatic Nerve Peripheral Nerve Stimulation for Postoperative Analgesia in Ambulatory Foot Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised, double-masked, crossover trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adults scheduled for primary, unilateral hallux valgus osteotomy were eligible, excluding those with certain medical conditions or treatments."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Seven participants were randomised to receive either 5 minutes of PNS or sham stimulation"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the feasibility and analgesic efficacy of percutaneous sciatic nerve peripheral nerve stimulation (PNS) in ambulatory foot surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pain reduction, measured using the numeric rating scale (NRS) over 40 minutes postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealed in opaque envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seven participants were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Pain scores decreased to 52% of baseline during subsequent 30 minutes of stimulation."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included one lead dislodgement and three lead fractures."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinicaltrials.gov NCT02898103."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

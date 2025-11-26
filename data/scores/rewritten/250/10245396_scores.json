@@ -1,0 +1,74 @@
+{
+  "pmcid": "10245396",
+  "sha256": "d45052bbd0551aebb43a87447c05ff871b88c8089d74f4df1212ec00a61532b9",
+  "timestamp_utc": "2025-11-09T21:52:08.696502+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.836585365853662,
+    "reading_ease": 13.033577235772356,
+    "word_count": 205
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Dexamethasone as an Analgesic Adjuvant in Minimally Invasive Thoracic Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were adults undergoing elective lobectomy, segmentectomy, or wedge resection with mini-thoracotomy or VATS."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults undergoing elective lobectomy, segmentectomy, or wedge resection with mini-thoracotomy or VATS."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "46 received dexamethasone 8 mg at induction, and 24 received ondansetron 4 mg before extubation."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was morphine consumption 24 hours post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "46 received dexamethasone 8 mg at induction, and 24 received ondansetron 4 mg before extubation."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant difference in morphine consumption at 24 hours was observed between groups (p = 0.09)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No surgical wound infections were detected, and PONV incidence was similar."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04325984."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

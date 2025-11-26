@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Indocyanine Green Fluorescence Imaging in Minimally Invasive Rectal Cancer Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "open-label, phase III randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with stage 0\u2013III rectal carcinoma less than 12 cm from the anal verge, scheduled for minimally invasive sphincter-preserving surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive ICG-FI (ICG+ group) or no ICG-FI (ICG\u2212 group)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the anastomotic leakage rate (grade A+B+C) within 30 days post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was computerised, and allocation was not concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Neither patients nor clinicians were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between December 2018 and February 2021, 850 patients were randomised (422 to ICG+ and 417 to ICG\u2212)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The modified intention-to-treat analysis included 839 patients"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The anastomotic leakage rate was 7.6% in the ICG+ group versus 11.8% in the ICG\u2212 group (relative risk 0.645; 95% CI 0.422\u20130.987; p = 0.041)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to ICG were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: jRCTs-CRB3180007, UMIN-CTR000030240"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Stryker Japan K.K."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

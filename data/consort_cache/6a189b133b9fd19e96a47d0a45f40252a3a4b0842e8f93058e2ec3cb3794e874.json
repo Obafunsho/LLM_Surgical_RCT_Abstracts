@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Early Versus Conventional Adjuvant Chemotherapy in Stage III Colon Cancer"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A multicentre, randomised (1:1), open-label, phase III trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults with histologically confirmed stage III colon cancer who underwent radical surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "EAC was administered between postoperative days 10 and 14, while CAC was administered between days 24 and 28."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the safety and oncological efficacy of early adjuvant chemotherapy (EAC) compared to conventional adjuvant chemotherapy (CAC) in patients with stage III colon cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was 3-year disease-free survival (DFS)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a web-based platform with allocation concealment."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between 9 September 2011 and 6 March 2020, 443 patients were randomised, with 209 in the EAC arm and 214 in the CAC arm."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The intention-to-treat analysis included 423 patients."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "There was no significant difference in overall toxicity (28.1% in EAC vs. 28.2% in CAC, P = 0.244) or quality of life between the groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There was no significant difference in overall toxicity (28.1% in EAC vs. 28.2% in CAC, P = 0.244)"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered at ClinicalTrials.gov (NCT01460589)."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by the participating institutions."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

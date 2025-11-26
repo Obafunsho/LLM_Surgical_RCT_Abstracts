@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "SINODAR-ONE randomized clinical trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with T1\u20132 breast cancer and no more than two metastatic sentinel lymph nodes undergoing mastectomy were analysed."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either axillary lymph node dissection followed by adjuvant treatment (standard arm) or adjuvant treatment alone (experimental arm)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was overall survival."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "111 were randomly assigned to the axillary lymph node dissection group and 107 to the sentinel lymph node biopsy-only group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 218 patients were treated with mastectomy"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The 5-year overall survival rates were 97.8 and 98.7 per cent in the axillary lymph node dissection treatment arm and the sentinel lymph node biopsy-only treatment arm, respectively ( P = 0.597)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT05160324"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

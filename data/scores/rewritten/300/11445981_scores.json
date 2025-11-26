@@ -1,0 +1,74 @@
+{
+  "pmcid": "11445981",
+  "sha256": "a81ad470156d83a09a35097a59d040fd80f89da7de8c071769626b0a01cc6e58",
+  "timestamp_utc": "2025-11-09T23:16:17.066501+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.707246566383258,
+    "reading_ease": 33.634270765206054,
+    "word_count": 278
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial Comparing Measurement Accuracy of Digital Vernier Caliper and Digital Thickness Gauge for Venous Specimens"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial used 12 porcine vena cava specimens from pigs aged 18-24 weeks."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "12 porcine vena cava specimens from pigs aged 18-24 weeks."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Measurements were performed using a digital vernier caliper (four protocols) and a digital thickness gauge (one protocol)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the consistency and accuracy of thickness measurements over three consecutive trials."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial used 12 porcine vena cava specimens from pigs aged 18-24 weeks."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "In the first protocol, lower values were observed during the first measurement compared to the second (0.409 ± 0.063 vs. 0.536 ± 0.064, p < 0.0001) and third (0.409 ± 0.063 vs. 0.528 ± 0.055, p = 0.0001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details are not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details are not applicable."
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "6486838",
+  "sha256": "baa77651e4a9db1581b8d1c3dd101dadb12a85bcd741c468d7079d79f7e35e1e",
+  "timestamp_utc": "2025-11-09T22:50:42.847786+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.806490872210954,
+    "reading_ease": 34.72289046653148,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Surgical Ablation During Mitral Valve Surgery for Persistent Atrial Fibrillation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 260 patients with persistent AF were randomised"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "260 patients with persistent AF"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either MVS with surgical ablation or MVS alone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effect of lesion set on long-standing persistent atrial fibrillation (AF)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was freedom from AF, atrial flutter (AFL), or atrial tachycardia (AT) over 12 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "260 patients with persistent AF were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 228 patients (88%) submitted 7949 TTM recordings"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Freedom from AF/AFL/AT was higher in the ablation group compared to MVS alone (63% vs 29%; P < .001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

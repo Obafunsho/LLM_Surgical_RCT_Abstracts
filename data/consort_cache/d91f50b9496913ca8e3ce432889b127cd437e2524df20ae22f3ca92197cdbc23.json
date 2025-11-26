@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Bleselumab for Prevention of Recurrent Focal Segmental Glomerulosclerosis"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This phase 2a, randomised, open-label trial was conducted at 23 sites in Canada and the United States from May 2017 to May 2021."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult kidney transplant recipients with biopsy-proven primary FSGS were randomised 1:1."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Randomised 1:1 to receive bleselumab with tacrolimus and corticosteroids or standard of care (SOC) with tacrolimus, mycophenolate mofetil, and corticosteroids."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial assesses bleselumab, an anti-CD40 monoclonal antibody, for preventing recurrent FSGS (rFSGS)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was rFSGS, defined as proteinuria (protein-creatinine ratio \u22653.0 g/g) with death, graft loss, or loss to follow-up imputed as rFSGS, assessed through 3 months posttransplant."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was stratified by previous transplant status."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 88 consented patients, 67 were randomised (bleselumab: 33, SOC: 34)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "63 were analysed (bleselumab: 29, SOC: 34)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Bleselumab showed a 40.7% relative decrease in rFSGS occurrence versus SOC (95% CI, \u221289.8 to 26.8; P = 0.37)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, with infections and gastrointestinal disorders being most common."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov NCT02921789."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by the sponsor."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

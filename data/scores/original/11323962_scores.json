@@ -1,0 +1,74 @@
+{
+  "pmcid": "11323962",
+  "sha256": "ab6febb33dee70f109a0c1daa26c2705f4958cfebcf9ddac9164a430c0a2d438",
+  "timestamp_utc": "2025-11-09T15:17:47.014480+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.06841530054645,
+    "reading_ease": 8.906502732240483,
+    "word_count": 366
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "59 adult patients who underwent fiberoptic intubation with a cervical collar for simulated cervical spinal injury were randomly allocated"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "59 adult patients who underwent fiberoptic intubation with a cervical collar for simulated cervical spinal injury"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "continuous positive-pressure oxygen, normal-pressure, or intermittent negative-pressure suction groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compared the efficiency and safety of fiberoptic intubation after anesthesia induction under different types of air pressure in patients with simulated cervical spinal injury."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The intubation time was recorded as the primary outcome measure."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly allocated"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "59 adult patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the median (range) intubation time in the continuous positive-pressure group was 59 (36-181) seconds, which was significantly shorter than that in the normal-pressure group, 167 (46-181) seconds, and the intermittent negative-pressure suction group, 132.5 (38-181) seconds (P=0.04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "no statistically significant difference was detected among the groups with complications."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

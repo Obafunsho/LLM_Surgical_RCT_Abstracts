@@ -1,0 +1,74 @@
+{
+  "pmcid": "4819709",
+  "sha256": "200f8515f4b28aeee49420b611393e6df1e8fbc3a56409e58c9db79f07170593",
+  "timestamp_utc": "2025-11-09T23:54:58.624338+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.707248995983939,
+    "reading_ease": 42.52406163113997,
+    "word_count": 249
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Behavioural Recovery in Varicose Vein Treatments"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised using a minimization algorithm"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included adults with primary symptomatic varicose veins (CEAP grade C2 or above) and specific vein involvement."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing ultrasound-guided foam sclerotherapy (UGFS), endovenous laser ablation (EVLA), and surgery for primary varicose veins."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess behavioural recovery from the patient's perspective"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was behavioural recovery, assessed using the 15-item BRAVVO questionnaire at 6 weeks post-treatment."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "blinding was not applied"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 798 participants were randomised: 265 to UGFS, 267 to EVLA, and 266 to surgery."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of these, 655 completed the BRAVVO questionnaire."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "UGFS was superior to EVLA for full-time work (HR 1.43, 95% CI 1.11 to 1.85), childcare (HR 1.45, 95% CI 1.04 to 2.02), and walking (short: HR 1.48, 95% CI 1.19 to 1.84; long: HR 1.32, 95% CI 1.05 to 1.66)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN51995477."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The trial was funded by the National Institute for Health Research."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10828925",
+  "sha256": "c71c68b4a91aa2b48aa870c04e293530a21920bb8cb786315c973e4c56270466",
+  "timestamp_utc": "2025-11-09T23:09:49.694069+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.796619318181822,
+    "reading_ease": 38.38190340909094,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of PLX-PAD in Chronic Limb-Threatening Ischaemia"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "parallel-group, placebo-controlled trial enrolled 213 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with chronic limb-threatening ischaemia (CLTI) who are not candidates for revascularization"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 2:1 to receive PLX-PAD or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "assessed whether PLX-PAD could improve amputation-free survival (AFS)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was AFS, defined as the time from randomisation to major amputation or death, assessed over 12-36 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation used permuted blocks, and allocation was concealed via an interactive web-based system."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From September 2017 to November 2020, 143 patients were randomised to PLX-PAD and 70 to placebo"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "205 patients analysed using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "HR 0.93, 95% CI 0.53 to 1.63; P = 0.788"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events occurred in 73.5% of PLX-PAD and 82.6% of placebo patients"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT03006770; EudraCT 2015-005532-18."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

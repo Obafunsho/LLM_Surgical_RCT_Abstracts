@@ -1,0 +1,74 @@
+{
+  "pmcid": "2564857",
+  "sha256": "4181b85c0eaded8996b8d8fee1ae283b0a79a4a365d74d8d27f2d65ddedb2d59",
+  "timestamp_utc": "2025-11-09T23:45:02.287048+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.242461799660443,
+    "reading_ease": 16.199482173174886,
+    "word_count": 248
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Doxycycline as an Adjunct to Endovascular Aneurysm Repair"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This double-blind, placebo-controlled trial randomised patients undergoing EVAR"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised patients undergoing EVAR to doxycycline (100 mg twice daily) or placebo for 6 months"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the impact of doxycycline, an MMP inhibitor, on EVAR outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was plasma MMP-9 levels at 6 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using [randomisation method] with allocation concealment via [allocation concealment method]"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding encompassed patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 44 patients were randomised: 20 to doxycycline and 24 to placebo."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Intention-to-treat analysis revealed a significant reduction"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "a significant reduction in plasma MMP-9 in the doxycycline group at 6 months (−16.4±20.7%, P<0.05)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [source of funding]."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

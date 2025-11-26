@@ -1,0 +1,74 @@
+{
+  "pmcid": "6677104",
+  "sha256": "da2d36f49bd93e4f3f8f6b8e67bd65dbb8580e72a9ec01e95fdce88c8909ab39",
+  "timestamp_utc": "2025-11-09T22:51:34.988697+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.538399014778328,
+    "reading_ease": 39.18459770114944,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Prophylactic Transanal Irrigation in Preventing Low Anterior Resection Syndrome: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients who underwent ultralow rectal resection were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients who underwent ultralow rectal resection"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to TAI or control with supportive therapy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluated the prophylactic effect of transanal irrigation (TAI) in preventing LARS symptoms"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the maximum number of defaecation episodes during the day at 1 month."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by centre and anastomosis type, with allocation via an online minimization program."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Thirty-nine patients were randomised between February 2016 and April 2018; 18 to TAI and 19 to control."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Thirty-seven were analysed per protocol."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "TAI significantly reduced daytime defaecation episodes (median 3 vs. 7, p=0.003) and nighttime episodes (0 vs. 3, p=0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: DRKS00011752."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

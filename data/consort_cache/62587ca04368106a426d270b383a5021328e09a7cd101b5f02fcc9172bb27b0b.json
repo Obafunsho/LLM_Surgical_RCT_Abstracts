@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We conducted a randomized controlled trial of adjuvant interferon therapy in patients with predominantly hepatitis B-related hepatocellular carcinoma (HCC)"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients with no residual disease after hepatic resection for HCC were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with no residual disease after hepatic resection for HCC"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "no treatment (control group), interferon alpha-2b 10 MIU/m 2 (IFN-I group) or 30 MIU/m 2 (IFN-II group) thrice weekly for 16 weeks"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to investigate whether the prognosis after hepatic resection could be improved"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The 1- and 5-year survival rates were 85% and 61%, respectively"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients with no residual disease after hepatic resection for HCC were randomly assigned with stratification by pTNM stage"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "By June 2002, 40 patients each had been enrolled into the control group and IFN-I group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "40 patients each had been enrolled into the control group and IFN-I group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "the relative risk of death for interferon treatment was 0.42 (95% CI, 0.17\u20131.05; P = 0.063)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Enrollment to the IFN-II group was terminated from January 2000 because adverse effects resulted in treatment discontinuation in the first 6 patients"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "5256149",
+  "sha256": "9cafb0af3a808c9f2027652acf7cb49ffdd51e5a80b341ecc83a75d1bbfeee9d",
+  "timestamp_utc": "2025-11-09T23:57:06.544000+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.701637790127496,
+    "reading_ease": 38.936153971886256,
+    "word_count": 266
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Pragmatic Ischaemic Thrombectomy Evaluation (PISTE) Trial: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1 to receive IVT alone or IVT plus MT, using a minimisation algorithm."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients with acute ischaemic stroke, confirmed large artery occlusion on CT angiography, and IVT initiated within 4.5 hours of symptom onset were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to receive IVT alone or IVT plus MT."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The PISTE trial aimed to assess the efficacy of adjunctive intra-arterial mechanical thrombectomy (MT) in addition to intravenous thrombolysis (IVT) for acute ischaemic stroke with large artery occlusion."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was independence at day 90, defined by a modified Rankin Scale (mRS) score of 0–2."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1 to receive IVT alone or IVT plus MT, using a minimisation algorithm."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Sixty-five patients were randomised between April 2013 and April 2015, with 32 receiving IVT alone and 33 receiving IVT plus MT."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "In the intention-to-treat analysis, no significant difference was observed in the primary outcome."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "In the intention-to-treat analysis, no significant difference was observed in the primary outcome (adjusted OR 2.12, 95% CI 0.65 to 6.94, p=0.20)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, with no significant safety concerns."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01745692."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

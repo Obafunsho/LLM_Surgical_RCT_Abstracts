@@ -1,0 +1,74 @@
+{
+  "pmcid": "12366594",
+  "sha256": "94b378a1fb49227079f0e1afd3670f8c9576b2ec00702386e15a0d1a205adcea",
+  "timestamp_utc": "2025-11-09T22:23:19.163040+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.730000000000004,
+    "reading_ease": 24.484350282485877,
+    "word_count": 236
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Near-Infrared Light Device for Peripheral Venous Catheter Placement in ICU Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 380 patients were randomised in a 1:1 ratio"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "conducted in four French ICUs"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "either the near-infrared light device or the landmark approach"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether a near-infrared light device (AccuVein AV500) improves the first-attempt success rate of PVC placement compared to the landmark approach."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the first-attempt success rate of PVC placement, measured immediately after the attempt."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a centralised web-based system"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "blinding was not possible due to the nature of the intervention"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 380 patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Results: The trial is ongoing, and results are not yet available."
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Results: The trial is ongoing, and results are not yet available."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Clinicaltrials.gov: NCT06234293."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study is sponsored by the Hospital University Centre of Orléans, France."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

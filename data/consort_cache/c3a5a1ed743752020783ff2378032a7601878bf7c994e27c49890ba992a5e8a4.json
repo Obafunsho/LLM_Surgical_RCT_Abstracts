@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Anterior Out-of-Plane and In-Plane Techniques for Ultrasound-Guided Subclavian Vein Cannulation"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This single-centre, open-label, randomised controlled trial was conducted at a tertiary care centre from January 2023 to July 2024."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A total of 128 patients undergoing elective surgeries requiring central venous access were randomised."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either the anterior out-of-plane or in-plane technique."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compares the novel anterior out-of-plane technique with the conventional in-plane approach for ultrasound-guided supraclavicular subclavian vein cannulation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the first-pass success rate, measured immediately after the procedure."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 128 patients undergoing elective surgeries requiring central venous access were randomised."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of the 128 patients randomised, 126 were analysed (64 out-of-plane, 62 in-plane)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The first-pass success rate was significantly higher in the out-of-plane group (95%) compared to the in-plane group (77%) (p < 0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "fewer complications, including arterial punctures (1 vs 5)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "CTRI/2022/09/045231."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

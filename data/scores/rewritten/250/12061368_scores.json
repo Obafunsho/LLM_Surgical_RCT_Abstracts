@@ -1,0 +1,74 @@
+{
+  "pmcid": "12061368",
+  "sha256": "f36b579686ef8efc4d0437f1a791260659a7e187f14cff77611b2baa91483c2a",
+  "timestamp_utc": "2025-11-09T22:13:56.541986+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.469006968641118,
+    "reading_ease": 17.40762195121951,
+    "word_count": 205
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of [Intervention] for [Condition]"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Sample size was calculated to detect a [effect size] with [power]% power at a [significance level]% significance level."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included [eligibility criteria]. Participants were randomised using [randomisation method] with allocation concealment via [allocation concealment method]."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aimed to evaluate the efficacy of [intervention] compared to [control] in patients with [condition]."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of [intervention] compared to [control] in patients with [condition]."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was [primary outcome], measured over [timeframe]."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Participants were randomised using [randomisation method] with allocation concealment via [allocation concealment method]."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was maintained for [outcome assessors/patients/clinicians]."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of [number] participants were randomised: [number] to the intervention group and [number] to the control group, between [recruitment period]."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "[Number] participants in the intervention group and [number] in the control group were analysed using [analysis approach]."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a [effect size] improvement in the primary outcome compared to the control group (95% CI [confidence interval]; p = [p-value])."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events occurred in [number/percentage] of the intervention group and [number/percentage] of the control group, with [severity]."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The trial was funded by [funding source]."
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  }
+}

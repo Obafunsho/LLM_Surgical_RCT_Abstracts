@@ -1,0 +1,74 @@
+{
+  "pmcid": "5141368",
+  "sha256": "e6ea42aedc42456b5eadfce1b9f27662def78a686db2a6f4f31160b0efca33a9",
+  "timestamp_utc": "2025-11-09T16:02:36.492574+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.201458333333335,
+    "reading_ease": 17.73993055555556,
+    "word_count": 320
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "sixty-six supracondylar femoral fractures (OTA/AO classification of 33A or 33C) treated at a single institution"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that three-dimensional (3-D) fracture-site motion as estimated by finite element (FE) analysis would influence callus formation"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Callus formation was assessed radiographically for all patients at six, twelve, and twenty-four weeks postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "sixty-six supracondylar femoral fractures"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Longitudinal motion promoted callus formation at twelve and twenty-four weeks (p = 0.017 for both). Shear inhibited callus formation at twelve and twenty-four weeks (p = 0.017 and p = 0.022, respectively)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

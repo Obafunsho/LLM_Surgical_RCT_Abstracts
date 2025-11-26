@@ -1,0 +1,74 @@
+{
+  "pmcid": "12369819",
+  "sha256": "cac7c8137de82c4033b8213dd88336ef3210081e33cb063d3894192b3bc950d8",
+  "timestamp_utc": "2025-11-09T15:38:34.875857+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.193610627177701,
+    "reading_ease": 36.10913835656217,
+    "word_count": 287
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "All patients with first-time isolated CABG in Sweden 2013-2020 were identified in the SWEDEHEART registry ( n = 18 211)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "All patients with first-time isolated CABG in Sweden 2013-2020 were identified in the SWEDEHEART registry"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Mid-term outcomes in CABG patients with and without preoperative flow assessment were compared."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Mid-term outcomes in CABG patients with and without preoperative flow assessment were compared."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Incidence of all-cause mortality, stroke, new myocardial infarction, new coronary angiography, and new revascularization was compared using adjusted Cox regression models."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "All patients with first-time isolated CABG in Sweden 2013-2020 were identified in the SWEDEHEART registry ( n = 18 211)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "preoperative flow assessment was associated with a higher risk for new angiography [adjusted hazard ratio (aHR) 1.32, 95% confidence interval (CI) 1.08–1.62, P = .008] and new revascularization (aHR 1.55, 95% CI 1.18–2.04, P = .002) >2 years after CABG."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

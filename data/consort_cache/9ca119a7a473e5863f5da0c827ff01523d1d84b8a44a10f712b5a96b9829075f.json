@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "phase III randomized study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "high-risk operable patients with non\u2013small cell lung cancer"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing stereotactic body radiotherapy and sub-lobar resection (with or without brachytherapy)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to better define the role of these therapies for patients with non\u2013small cell lung cancer"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "recently opened for accrual"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "American College of Surgeons Oncology Group Z4099/Radiation Therapy Oncology Group 1021"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

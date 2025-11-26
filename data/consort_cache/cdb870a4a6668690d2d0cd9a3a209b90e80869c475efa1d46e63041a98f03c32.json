@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The Optimal Prophylactic Method for Venous Thromboembolism After Gastrectomy in Korean Patients (PROTECTOR) randomized clinical trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomized clinical trial was conducted between August 1, 2011, and March 31, 2015"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with histologically confirmed gastric adenocarcinoma presenting to a single center (Seoul St Mary\u2019s Hospital in Seoul, South Korea) were enrolled"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomized to either an intermittent pneumatic compression (IPC)\u2013only group or an IPC+low-molecular-weight (LMW) heparin sodium group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate the incidence of postgastrectomy VTE in Korean patients with gastric adenocarcinoma, and to identify the complications and evaluate the efficacy and safety of VTE prevention methods"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Venous thromboembolism incidence was the primary outcome"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of the 682 patients enrolled and randomized"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Among the 666 patients included in the analysis, the overall incidence of VTE was 2.1%"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The incidence of VTE was statistically significantly higher in the IPC-only group compared with the IPC+LMW heparin group (3.6%; 95% CI, 2.05%-6.14% vs 0.6%; 95% CI, 0.17%-2.18%; P =\u2009.008)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The overall incidence of bleeding complications was 5.1%"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT01448746"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

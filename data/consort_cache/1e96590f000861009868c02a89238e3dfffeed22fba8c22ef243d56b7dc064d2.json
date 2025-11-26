@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods: This randomized trial was undertaken in 11 hospitals in the Netherlands."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients scheduled to receive an ileostomy for any reason were randomized to intracutaneous or transcutaneous suturing (IC and TC groups respectively)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients scheduled to receive an ileostomy for any reason were randomized to intracutaneous or transcutaneous suturing (IC and TC groups respectively)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients scheduled to receive an ileostomy for any reason were randomized to intracutaneous or transcutaneous suturing (IC and TC groups respectively)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study aimed to compare the effect of intracutaneous versus transcutaneous suturing of ileostomies on faecal leakage and quality of life."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was faecal leakage."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between April 2011 and February 2016, 339 patients were randomized to the IC (170) or TC (169) group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "339 patients were randomized to the IC (170) or TC (169) group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Leakage rates were higher in the IC than in the TC group (52\u00b74 versus 41\u00b74\u2009per\u2009cent respectively; risk difference 11\u00b70 (95\u2009per\u2009cent c.i. 0\u00b73 to 21\u00b72)\u2009per\u2009cent)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Skin irritation rates were high (78\u00b72 versus 72\u00b72\u2009per\u2009cent), but did not differ significantly between the groups (risk difference 6\u00b71 (95\u2009per\u2009cent c.i. \u20133\u00b72 to 15\u00b710)\u2009per\u2009cent)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NTR2369 ( http://www.trialregister.nl )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

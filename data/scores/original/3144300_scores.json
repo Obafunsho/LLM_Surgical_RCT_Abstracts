@@ -1,0 +1,74 @@
+{
+  "pmcid": "3144300",
+  "sha256": "8c0c518a7feae29896b864c326b8e09d854923adbd5af75fd27be1151b213142",
+  "timestamp_utc": "2025-11-09T15:51:28.191410+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.34494748279609,
+    "reading_ease": 18.519166968489685,
+    "word_count": 251
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "systemic–pulmonary artery shunt versus right ventricle–pulmonary artery conduit"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: The purpose of this analysis was to evaluate a novel strategy for reporting adverse events"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The analysis encompassed the period from randomization (Norwood surgery) to hospital discharge from stage II surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the rate of serious adverse events requiring expedited reporting decreased as expected (0.42 vs 0.14/subject/month of follow-up; P < .001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Subjects with a serious (sentinel) adverse event in period 2 had a significantly higher rate of death and cardiac transplantation."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Ministernotomy and Standard Sternotomy in Aortic Valve Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "115 undergoing standard sternotomy and 53 undergoing mini-sternotomy"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults requiring only aortic valve surgery, with 115 undergoing standard sternotomy and 53 undergoing mini-sternotomy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "115 undergoing standard sternotomy and 53 undergoing mini-sternotomy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare early postoperative outcomes between these approaches."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was early postoperative recovery, measured by ICU stay and mechanical ventilation duration."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "115 undergoing standard sternotomy and 53 undergoing mini-sternotomy"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Data were analyzed using intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mini-sternotomy group had significantly shorter ICU stays (39.92 \u00b1 8.62 hours vs. 55.96 \u00b1 32.56 hours, p < 0.001) and mechanical ventilation durations (5.82 \u00b1 2.44 hours vs. 10.41 \u00b1 14.68 hours, p = 0.030)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were comparable between groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "No trial registration or funding source was reported."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "No trial registration or funding source was reported."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

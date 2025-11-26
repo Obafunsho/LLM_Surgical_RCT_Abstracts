@@ -1,0 +1,74 @@
+{
+  "pmcid": "3039544",
+  "sha256": "f80ad7fdc4618d3f41d283aa31005f53b81eba93a88e5077f9650efcd453638f",
+  "timestamp_utc": "2025-11-09T22:35:38.610666+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.640723581467984,
+    "reading_ease": -0.5647241020301692,
+    "word_count": 226
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of NeuroPort™ Microelectrode Array in Epilepsy Monitoring"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial involved seven patients undergoing subdural electrode implantation for epilepsy monitoring."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were eligible if they required epilepsy monitoring and were implanted with the NeuroPort™ MEA in putative non-eloquent epileptogenic cortex."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were eligible if they required epilepsy monitoring and were implanted with the NeuroPort™ MEA in putative non-eloquent epileptogenic cortex."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the successful recording of LFPs and single-unit activity over 3–28 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial involved seven patients undergoing subdural electrode implantation for epilepsy monitoring."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Robust and durable LFPs and single-unit recordings were obtained from all individuals."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No neurological complications or infections were associated with electrode implantation or monitoring."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

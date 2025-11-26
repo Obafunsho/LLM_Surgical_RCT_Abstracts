@@ -1,0 +1,74 @@
+{
+  "pmcid": "9365439",
+  "sha256": "e538023ad5371938b6fab9c581590bbe0f979a0511401201096cad1c03f44880",
+  "timestamp_utc": "2025-11-09T16:21:22.504199+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.477096837944668,
+    "reading_ease": 28.139123517786572,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "2544 subjects with ≥70% asymptomatic carotid stenosis who were randomized to CAS or CEA"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "asymptomatic patients less than 80 years old (upper age eligibility)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to CAS or CEA in addition to standard medical therapy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To compare outcomes in asymptomatic, non-octogenarian patients treated with CAS versus CEA."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "primary composite endpoint was any stroke, myocardial infarction, or death during the periprocedural period or ipsilateral stroke within 4 years after randomization"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Independent neurologic assessment and routine cardiac enzyme screening were performed."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One trial enrolled 1091 (548 CAS, 543 CEA) and another enrolled 1453 (1089 CAS, 364 CEA)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "no significant difference in the primary endpoint between CAS and CEA (5.3% and 5.1%, hazard ratio (HR) = 1.02; 95% confidence interval (CI) 0.7–1.5; P=.91)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Periprocedural rates for the components are (CAS vs CEA): any stroke (2.7% vs. 1.5%, P=.07), myocardial infarction (0.6% vs. 1.7%, P=.01), death (0.1% vs 0.2%, P=.62), and any stroke or death (2.7% vs 1.6%, P=.07)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

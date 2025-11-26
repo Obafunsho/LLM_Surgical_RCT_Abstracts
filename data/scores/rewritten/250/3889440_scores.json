@@ -1,0 +1,74 @@
+{
+  "pmcid": "3889440",
+  "sha256": "4a915e2d58a61f6d63bca1b589237eb7208572f1a7fd37bd26bee24c8d89b90d",
+  "timestamp_utc": "2025-11-09T22:39:48.996262+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.516758620689657,
+    "reading_ease": 33.15410344827589,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intraarticular Fibrinogen in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "200 patients undergoing TKA for osteoarthritis were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "200 patients undergoing TKA for osteoarthritis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either intraarticular fibrinogen or no treatment"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effect of intraarticular fibrinogen on bleeding and transfusion requirements post-TKA."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative blood loss, measured by drain output and hemoglobin drop at Day 2."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "100 patients were randomised to each group. Recruitment occurred between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Mean drain output was 780 ± 378 mL in the fibrinogen group and 673 ± 301 mL in the control group (p = 0.029)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

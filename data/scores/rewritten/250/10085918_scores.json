@@ -1,0 +1,74 @@
+{
+  "pmcid": "10085918",
+  "sha256": "186d57c669eb353ec1fc6629fd25d8cbf7e87d983cb9f1a31669e4665d32c518",
+  "timestamp_utc": "2025-11-09T21:51:31.999897+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.056554621848743,
+    "reading_ease": 12.050210084033637,
+    "word_count": 238
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Perioperative Systemic Therapy Versus CRS–HIPEC Alone in Resectable Colorectal Peritoneal Metastases"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "eligible patients were adults with isolated resectable colorectal peritoneal metastases. Conducted in nine Dutch tertiary hospitals"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to either perioperative systemic therapy or CRS–HIPEC alone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to compare patient-reported outcomes (PROs)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "PROs were assessed using EORTC QLQ-C30, QLQ-CR29, and EQ-5D-5L questionnaires at baseline, after neoadjuvant treatment, and at 3 and 6 months postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was stratified by previous systemic therapy, onset of peritoneal metastases, peritoneal cancer index, and planned HIPEC regimen"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between June 2017 and January 2019, 80 patients were randomised, with 40 in each group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the modified intention-to-treat analysis, 37 patients received perioperative systemic therapy and 42 underwent upfront surgery"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "All predefined PROs were comparable between arms at all timepoints and returned to baseline at 3 or 6 months postoperatively"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The experimental arm showed worsening of fatigue (MD +14, p = 0.001), loss of appetite (MD +15, p = 0.003), hair loss (MD +18, p < 0.001), and loss of taste (MD +27, p < 0.001)"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02758951"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

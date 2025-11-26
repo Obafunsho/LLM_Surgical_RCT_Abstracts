@@ -1,0 +1,74 @@
+{
+  "pmcid": "3632299",
+  "sha256": "335b53f4e20d44826b032ffd57476356514de028765c710ab5507febda140a3c",
+  "timestamp_utc": "2025-11-09T15:53:29.925401+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.80402084884587,
+    "reading_ease": 35.26445271779599,
+    "word_count": 237
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "During the last 3 hours, an amino acid solution (10% Travasol, Clintec Nutrition, Deerfield, IL) was infused."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To evaluate leg muscle, whole-body muscle, and whole-body non-muscle protein response to anabolic signaling of amino acids in pediatric burn patients at 6 months after injury."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "During amino acid infusion, leg muscle protein synthesis rate significantly increased ( P < 0.05) in both groups, however, in the burn group, protein breakdown also increased, although nonsignificantly."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

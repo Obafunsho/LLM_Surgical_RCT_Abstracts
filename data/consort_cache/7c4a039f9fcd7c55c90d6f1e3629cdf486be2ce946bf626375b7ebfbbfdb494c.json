@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients having elective major open abdominal surgery were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "high-risk patients having elective major open abdominal surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to cardiac index-guided therapy to maintain optimised postinduction cardiac index...or to routine care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We tested the hypothesis that maintaining optimised postinduction cardiac index during and for the first 8 h after surgery reduces the incidence of a composite outcome of complications within 28 days after surgery compared with routine care in high-risk patients having elective major open abdominal surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of a composite outcome of moderate or severe complications within 28 days after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients having elective major open abdominal surgery were randomised"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "318 of 380 enrolled subjects"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "We analysed 318 of 380 enrolled subjects. Per-protocol analyses confirmed the results of the primary outcome analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The composite primary outcome occurred in 84 of 152 subjects (55%) assigned to cardiac index-guided therapy and in 77 of 166 subjects (46%) assigned to routine care (odds ratio: 1.87, 95% confidence interval: 1.03\u20133.39, P =0.038)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinical trial registration: NCT03021525 ."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

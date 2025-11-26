@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "two phase 3, randomized, double-blind, placebo- and active-controlled trials"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "participants were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adults with moderate-to-severe acute pain on the verbal categorical rating scale and 4 or greater on the numeric pain rating scale after abdominoplasty (n = 1,118) or bunionectomy (n = 1,073)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "participants were randomized to suzetrigine (100\u2009mg, then 50\u2009mg every 12\u2009h), hydrocodone bitartrate/acetaminophen (5/325\u2009mg every 6\u2009h), or placebo for 48\u2009h"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate suzetrigine for treatment of acute pain"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was time-weighted sum of the pain intensity difference in numeric pain rating scale from 0 to 48\u2009h (SPID48) versus placebo"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "participants were randomized"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "n = 1,118) or bunionectomy (n = 1,073)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The least squares mean difference in SPID48 between suzetrigine and placebo was 48.4 (95% CI, 33.6 to 63.1; P < 0.0001) after abdominoplasty and 29.3 (95% CI, 14.0 to 44.6; P = 0.0002) after bunionectomy"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar to those seen in postsurgical settings"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

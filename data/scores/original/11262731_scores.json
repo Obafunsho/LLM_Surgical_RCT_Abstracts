@@ -1,0 +1,74 @@
+{
+  "pmcid": "11262731",
+  "sha256": "974cc5a0606bebadac683d16eb5c892e7586e348952df3e2b67a732d0d5475c4",
+  "timestamp_utc": "2025-11-09T15:16:42.838524+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.318509597971751,
+    "reading_ease": 27.065928105758786,
+    "word_count": 251
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods.: A phase 2a, randomized, multicenter, open-label study of adult recipients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Methods.: A phase 2a, randomized, multicenter, open-label study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adult recipients (aged ≥18 y) of a living or deceased donor kidney transplant with a history of biopsy-proven primary FSGS"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "bleselumab combined with tacrolimus and corticosteroids as maintenance immunosuppression in the prevention of rFSGS >12 mo posttransplantation, versus standard of care (SOC) comprising tacrolimus, mycophenolate mofetil, and corticosteroids"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study assessed the efficacy of bleselumab combined with tacrolimus and corticosteroids as maintenance immunosuppression in the prevention of rFSGS"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was rFSGS, defined as proteinuria (protein-creatinine ratio ≥3.0 g/g) with death, graft loss, or loss to follow-up imputed as rFSGS, through 3 mo posttransplant"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "open-label study"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty-three patients were followed for 12 mo posttransplantation"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Relative decrease in rFSGS occurrence through 3 mo with bleselumab versus SOC was 40.7% (95% confidence interval, −89.8 to 26.8; P = 0.37; absolute decrease 12.7% [95% confidence interval, −34.5 to 9.0])"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar for both treatments"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

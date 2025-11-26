@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomized to receive either mechanically washed allogenic RBCs or standard care RBCs."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Cardiac surgery patients at increased risk of large-volume RBC transfusion were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized to receive either mechanically washed allogenic RBCs or standard care RBCs."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was serum interleukin-8 measured at baseline and at four postsurgery time points."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Sixty adult cardiac surgery patients at three UK cardiac centres were enrolled between September 2013 and March 2015."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There was no difference between groups with respect to perioperative serum interleukin-8 values [adjusted mean difference 0.239 (95% confidence intervals \u22120.231, 0.709), P =0.318]"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinical trial registration. ISRCTN 27076315."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

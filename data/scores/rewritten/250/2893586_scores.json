@@ -1,0 +1,74 @@
+{
+  "pmcid": "2893586",
+  "sha256": "4471c3776afd08d625a7ea8b11b4c9323602da95d8a5cfbca0e5ede3ffd1bd72",
+  "timestamp_utc": "2025-11-09T22:35:01.738181+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.167842975206618,
+    "reading_ease": 22.207219008264474,
+    "word_count": 242
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Stereotactic Radiosurgery in Facilitating Microsurgical Resection of Brain Arteriovenous Malformations"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 42 patients with AVMs were recruited"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "42 patients with AVMs were recruited at the University of California, San Francisco, between 1997 and 2007"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either prior RS (RS+) or no RS (RS−) before microsurgical resection"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the change in modified Rankin Scale (mRS) scores, assessed postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 21 patients were randomised to each group"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Mean AVM volume was reduced by 78% in the RS+ group (P<0.01), and Spetzler-Martin grades decreased in 52% of RS+ patients (P<0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "RS+ patients experienced deterioration due to hemorrhages during the latency period (P<0.05)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "8943640",
+  "sha256": "0feb04552bddfb14861a539ee963fb30a2ecb6cd5b53e9c122995c158e6a6405",
+  "timestamp_utc": "2025-11-09T16:19:58.648506+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.339876847290643,
+    "reading_ease": 39.58745073891626,
+    "word_count": 406
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This study is a secondary analysis of conversations audio recorded during a randomized clinical trial of a question prompt list."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Data were collected from June 1, 2016, to November 31, 2018, from 43 surgeons and 446 patients 60 years or older with at least 1 comorbidity at outpatient surgical clinics at 5 academic centers."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients received a question prompt list brochure that contained questions they could ask a surgeon."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To describe the use of shared decision-making during discussions about major surgery with older adults."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The 5-domain Observing Patient Involvement in Decision-making (OPTION5) score (range, 0-100, with higher scores indicating greater shared decision-making) was used to measure shared decision-making."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Data were collected from June 1, 2016, to November 31, 2018, from 43 surgeons and 446 patients 60 years or older."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 378 surgical consultations were analyzed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean (SD) OPTION5 score was 34.7 (20.6) and was not affected by the intervention. The mean (SD) score in the group receiving the question prompt list was 36.7 (21.2); in the control group, the mean (SD) score was 32.9 (19.9) (effect estimate, 3.80; 95% CI, −0.30 to 8.00; P = .07)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT02623335"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

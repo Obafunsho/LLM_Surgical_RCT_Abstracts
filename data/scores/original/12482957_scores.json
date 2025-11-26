@@ -1,0 +1,74 @@
+{
+  "pmcid": "12482957",
+  "sha256": "5f60f4981e3096d4e09a518987a954f73e3d8c834e14d59e7106a18b2048e882",
+  "timestamp_utc": "2025-11-09T15:44:02.830389+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.154580592105265,
+    "reading_ease": 10.40999177631582,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This randomized controlled trial aimed to compare the postoperative analgesic efficacy of liposomal bupivacaine versus bupivacaine hydrochloride in patients receiving QLB-LSAL after laparoscopic nephrectomy."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to two groups in a 1:1 ratio."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A total of 116 patients were scheduled to undergo elective laparoscopic nephrectomy under general anesthesia."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The liposomal bupivacaine group (n = 53) received a mixture of 10 mL of liposomal bupivacaine (133mg) and 10 mL of normal saline, totaling 20 mL, while the bupivacaine hydrochloride group (n = 53) received 20 mL of 0.375% bupivacaine hydrochloride."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomized controlled trial aimed to compare the postoperative analgesic efficacy of liposomal bupivacaine versus bupivacaine hydrochloride in patients receiving QLB-LSAL after laparoscopic nephrectomy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was total morphine equivalent consumption within the first 48 hours postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to two groups in a 1:1 ratio."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 116 patients were scheduled to undergo elective laparoscopic nephrectomy under general anesthesia."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The liposomal bupivacaine group (n = 53) received a mixture of 10 mL of liposomal bupivacaine (133mg) and 10 mL of normal saline, totaling 20 mL, while the bupivacaine hydrochloride group (n = 53) received 20 mL of 0.375% bupivacaine hydrochloride."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The total consumption of morphine equivalents within 48 hours postoperatively was significantly lower in the liposomal bupivacaine group than in the bupivacaine hydrochloride group (mean ± SD: 31.8 ± 2.3 vs 20.7 ± 2.8, 95% Confidence Intervals: 10.1 to 12.1, P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "no significant difference in the incidence of adverse events (P > 0.05) was observed between the two groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

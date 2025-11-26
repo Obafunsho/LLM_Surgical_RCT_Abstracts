@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Dexmedetomidine in Acute Brain Injury Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Adults with ABI admitted to the ICU were randomised to receive dexmedetomidine or standard care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adults with ABI admitted to the ICU"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive dexmedetomidine or standard care"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was in-hospital mortality, measured over the ICU stay."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 7,490 patients were randomised: 1,143 to dexmedetomidine and 6,347 to control."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "1,128 patients were analysed in each group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Dexmedetomidine was associated with reduced in-hospital mortality (HR 0.37, 95% CI 0.31\u20130.45, p < 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

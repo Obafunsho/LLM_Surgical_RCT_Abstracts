@@ -1,0 +1,74 @@
+{
+  "pmcid": "5599383",
+  "sha256": "c4921eb61fcfa785fa797e09c67078492aeee81091d1ee6670c786bd8a715701",
+  "timestamp_utc": "2025-11-09T22:47:14.640923+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.240588235294119,
+    "reading_ease": 24.02205882352942,
+    "word_count": 228
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Postoperative Perturbation Training on Gait Mechanics After ACL Reconstruction"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 40 men post-ACL reconstruction were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were recruited from a single orthopedic clinic, meeting criteria of ≥80% quadriceps strength symmetry, minimal knee effusion, full ROM, no pain, and completion of a running progression."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to strength, agility, and secondary prevention (SAP) or SAP plus perturbation training (SAP+PERT)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effect of postoperative perturbation training on gait mechanics."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Gait mechanics were assessed at 1 and 2 years postoperatively, focusing on sagittal and frontal plane hip and knee angles and moments. The primary outcome was elimination of gait asymmetries."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "40 men post-ACL reconstruction were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "At 1 year, 11 of 18 SAP and 11 of 20 SAP+PERT athletes showed truncated knee excursions"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant differences were found between SAP and SAP+PERT groups in biomechanical gait variables. At 1 year, 11 of 18 SAP and 11 of 20 SAP+PERT athletes showed truncated knee excursions during weight acceptance (odds ratio: 0.8, p = 0.70). At 2 years, asymmetries persisted with 7 of 17 SAP and 8 of 19 SAP+PERT athletes affected (odds ratio: 1.0, p = 0.96)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source]."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The CRUCIAL trial ( NCT04217421 ) is investigating the effect of postnatal and perioperative administration of allopurinol on postoperative brain injury in neonates with critical congenital heart disease (CCHD) undergoing cardiac surgery with cardiopulmonary bypass (CPB) shortly after birth."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Nonlinear mixed-effects modeling was used to develop population PK models in 14 neonates from the CRUCIAL trial who received up to five intravenous allopurinol administrations throughout the postnatal and perioperative periods."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "14 neonates from the CRUCIAL trial who received up to five intravenous allopurinol administrations throughout the postnatal and perioperative periods."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "14 neonates from the CRUCIAL trial who received up to five intravenous allopurinol administrations throughout the postnatal and perioperative periods."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to characterize the pharmacokinetics (PK) of allopurinol and oxypurinol during the preoperative, intraoperative, and postoperative phases in this population, and to evaluate target attainment of the current dosing strategy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Target attainment was defined as achieving an allopurinol concentration >2 mg/L in at least two-thirds of the patients during the first 24 h after birth and between the start and 36 h after cardiac surgery with CPB."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "14 neonates from the CRUCIAL trial"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The clearance (CL) of allopurinol and oxypurinol at birth was 0.95 L/h (95% confidence interval 0.75\u20131.2) and 0.21 L/h (0.17\u20130.27), respectively, which subsequently increased with PNA to 2.97 L/h and 0.41 L/h, respectively, before CPB."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The CRUCIAL trial ( NCT04217421 )"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

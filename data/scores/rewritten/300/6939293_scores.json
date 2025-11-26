@@ -1,0 +1,74 @@
+{
+  "pmcid": "6939293",
+  "sha256": "536e4e6b6dd2b0f7cc2b381d72a9142a320da7645c6e2011d16c462d6e6f5f2f",
+  "timestamp_utc": "2025-11-10T00:03:34.718758+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.715708049589661,
+    "reading_ease": 37.518810895756985,
+    "word_count": 249
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Operator Radiation Exposure in Transcatheter Valve Implantation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, operators wore dosimeters during TAVR-TF (n = 50) and TAVR-AA (n = 31) procedures."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "TAVR-AA was performed in a hybrid operating room (OR), while TAVR-TF was conducted in either catheterization labs (n = 16) or a hybrid OR (n = 34)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Disposable radiation shielding pads (RADPAD) or a placebo were used in a blinded manner."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate operator radiation exposure during transcatheter aortic valve replacement (TAVR) using transfemoral (TF) and alternative access (AA) approaches, and to assess the efficacy of disposable shielding."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was operator radiation exposure, measured in mRad."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Disposable radiation shielding pads (RADPAD) or a placebo were used in a blinded manner."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "operators wore dosimeters during TAVR-TF (n = 50) and TAVR-AA (n = 31) procedures."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Operator radiation exposure was significantly higher in TAVR-AA compared to TAVR-TF (median 15.1 mRad [IQR 8.6, 32.4] vs 5.5 mRad [IQR 2.4, 9.8], P < .001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to radiation exposure were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

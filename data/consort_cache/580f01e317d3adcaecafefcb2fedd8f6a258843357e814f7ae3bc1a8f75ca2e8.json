@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This study compared the analgesic effects of epidural tramadol versus morphine in six healthy cats."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "six healthy cats"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "each cat received an epidural injection of saline 0.22 ml/kg (control treatment, CT), tramadol 1 mg/kg (tramadol treatment, TT), or morphine 0.1 mg/kg (morphine treatment, MT)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "SDS, visual analog scale (VAS) and physiological parameters (respiratory and heart rate) were used to assess analgesia level to a noxious stimulus (base of the tail skin fold clamping) at 1, 2, 3, 4, 6, 8, 10, and 12 h post-epidural."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "six healthy cats"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Group TT had a higher SDS and VAS score when compared to MT at 8, 10 and 12 h post-epidural."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

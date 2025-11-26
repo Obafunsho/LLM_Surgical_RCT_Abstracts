@@ -1,0 +1,74 @@
+{
+  "pmcid": "7146919",
+  "sha256": "be173dce6f9b3fd754536ff6fea97a13b5b97a9c49dac5d0906a1041f4553455",
+  "timestamp_utc": "2025-11-10T00:04:28.451999+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.225022497187851,
+    "reading_ease": 45.08104330708662,
+    "word_count": 254
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of First Pass Effect in Mechanical Thrombectomy: ASTER Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The ASTER trial was a multicenter, randomized, open-label, blinded endpoint trial conducted from October 2015 to October 2016."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adults with anterior circulation ischemic stroke within 6 hours of onset were randomized to SR (n=189) or CA (n=192)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing stent retriever (SR) and contact aspiration (CA) techniques."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses FPE rates and outcomes in the ASTER trial comparing stent retriever (SR) and contact aspiration (CA) techniques."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was favorable clinical outcome (mRS 0-2) at 90 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was stratified by intravenous thrombolysis use, and angiographic outcomes were assessed by a blinded core laboratory."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "open-label, blinded endpoint trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Adults with anterior circulation ischemic stroke within 6 hours of onset were randomized to SR (n=189) or CA (n=192)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis included 336 patients using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "FPE was achieved in 97 of 336 patients (28.9%), with no significant difference between SR (31.3%) and CA (26.3%) (adjusted RR 0.84, 95% CI 0.54 to 1.31; p=0.44)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "FPE also resulted in fewer hemorrhagic transformations (adjusted RR 0.84, 95% CI 0.71 to 1.00) and procedural complications (adjusted RR 0.51, 95% CI 0.26 to 0.99)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02523261"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

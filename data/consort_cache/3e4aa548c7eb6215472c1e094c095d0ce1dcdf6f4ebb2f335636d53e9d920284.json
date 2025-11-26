@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial Comparing Cricothyrotomy Techniques"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A randomised crossover trial was conducted"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were emergency physicians (EPs) and trainees trained in both techniques."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compare the time to lung insufflation between a surgical technique using a bougie/endotracheal tube (ETT) and an open technique using the Melker catheter."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the time to lung insufflation between a surgical technique using a bougie/endotracheal tube (ETT) and an open technique using the Melker catheter."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the time to first insufflation of the artificial lung."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was achieved via block randomisation with random block sizes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Participants were not blinded to the technique."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty-six participants (17 EPs, 19 trainees) were randomised to perform both techniques."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Thirty-six participants (17 EPs, 19 trainees) were randomised to perform both techniques."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The Melker catheter technique was quicker, with a mean time of 29.2 seconds compared to 44.3 seconds for the bougie/ETT technique (difference 15.1 seconds, 95% CI 10.8\u201319.4 seconds)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

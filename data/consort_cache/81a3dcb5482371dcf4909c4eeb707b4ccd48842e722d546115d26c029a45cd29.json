@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "COSTO-EFECTIVIDAD DE LA LIGADURA CON BANDA EL\u00c1STICA VERSUS HEMORROIDECTOM\u00cdA PARA EL TRATAMIENTO DE HEMORROIDES DE GRADO III: AN\u00c1LISIS UTILIZANDO EVIDENCIA DEL ENSAYO HOLLAND CONTROLADO ALEATORIZADO"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "multicenter, randomized controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adults with symptomatic grade III hemorrhoids randomly assigned to receive rubber band ligation or hemorrhoidectomy treatment."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Rubber band ligation (up to 2 sessions) or excisional hemorrhoidectomy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the cost-effectiveness and cost-utility of rubber band ligation compared to hemorrhoidectomy from a societal perspective within the context of the HOLLAND trial."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Cost per quality-adjusted life year gained and cost per recurrence avoided over 24 months from a societal perspective."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seventy-nine patients were analyzed (33 for hemorrhoidectomy and 46 for rubber band ligation)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Seventy-nine patients were analyzed (33 for hemorrhoidectomy and 46 for rubber band ligation)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Hemorrhoidectomy resulted in better clinical outcomes with a quality-adjusted life year difference of 0.08 (95% CI, 0.04\u20130.13) and a recurrence difference of 33.5% (95% CI, 15.3%\u201351.7%)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT04621695"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

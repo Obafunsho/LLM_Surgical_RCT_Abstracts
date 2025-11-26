@@ -1,0 +1,74 @@
+{
+  "pmcid": "10314755",
+  "sha256": "61370979a0a2526b896c33d1a524860b85cb38ac4924b673dfd638092c5a67ed",
+  "timestamp_utc": "2025-11-09T15:06:27.144328+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.636920529801326,
+    "reading_ease": 27.778250551876425,
+    "word_count": 302
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "a novel peripheral nerve block (PNB) that includes a single injection and catheter placement for a continuous regional nerve block"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose of this study was to investigate the safety and efficacy of a novel peripheral nerve block (PNB)"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "A visual analog scale (VAS) evaluated perioperative pain."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "patients who received the novel surgeon-placed adductor canal block (ACB) and catheter placement reported findings that suggest this technique can possibly lead to a decrease in the severity of pain"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "the incidence of common side effects"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

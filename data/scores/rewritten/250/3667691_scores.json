@@ -1,0 +1,74 @@
+{
+  "pmcid": "3667691",
+  "sha256": "62c22749c900d216f6e3a49a81989337cfa6e587c9f8aa7e0522ba8ce783a49d",
+  "timestamp_utc": "2025-11-09T22:37:58.968309+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.626891552829665,
+    "reading_ease": 26.64085029272374,
+    "word_count": 211
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Phosphatidylcholine-Deoxycholate Injections for Abdominal Fat Reduction"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised by the final digit of their Social Security numbers"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Thirteen women with a BMI <30 kg/m² and suitable lower abdominal fat were enrolled between July and November 2008."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised by the final digit of their Social Security numbers to receive PC-DC injections on one side of the abdomen, with the contralateral side as control."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates their effects on body composition and adipocyte function."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in adipose tissue thickness, measured 8 weeks after the final treatment."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomised by the final digit of their Social Security numbers"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation was not concealed, and neither patients nor clinicians were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Thirteen women with a BMI <30 kg/m² and suitable lower abdominal fat were enrolled between July and November 2008."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Seven women completed the study."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "PC-DC treatment significantly reduced anterior subcutaneous abdominal fat thickness (mean difference = 4.1 cm, 95% CI 1.4 to 6.8; p = 0.004)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included mild to moderate local reactions, with no serious adverse events reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

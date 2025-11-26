@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Standard 3 \u00d7 3 Phase I design."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Subjects with unresectable isolated CRC liver metastases scheduled for HAI pump were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "IHP used fixed-dose oxaliplatin with escalating 5-FU doses."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study determined the safety and maximum tolerated dose (MTD) of 5-FU with oxaliplatin via IHP."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Toxicity (CTCAE v 4.0) and response (RECIST), progression-free survival, and overall survival (OS) were assessed."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "All 12 patients had received \u22651 line of pre-IHP chemotherapy."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 6-month follow-up, 9 patients (82 %) demonstrated partial response, while 2 (18 %) exhibited stable disease."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were 4 grade 3 serious adverse events (33.3 %) and 1 grade 4 event (8.3 %)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

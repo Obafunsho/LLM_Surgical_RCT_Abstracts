@@ -1,0 +1,25 @@
+{
+  "pmcid": "3695654",
+  "pmid": "23353035",
+  "title": "Population pharmacokinetics of epsilon-aminocaproic acid in infants undergoing craniofacial reconstruction surgery",
+  "abstract": "Background: Understanding the clinical pharmacology of the antifibrinolytic epsilon-aminocaproic acid (EACA) is necessary for rational drug administration in children. The aim of this study is to determine the pharmacokinetics (PKs) of EACA in infants aged 6–24 months undergoing craniofacial reconstruction surgery.\n\nMethods: Cohorts of six infants were enrolled sequentially to one of the three escalating loading dose–continuous i.v. infusion (CIVI) regimens: 25 mg kg −1 , 10 mg kg −1 h −1 ; 50 mg kg −1 , 20 mg kg −1 h −1 ; 100 mg kg −1 , 40 mg kg −1 h −1 . Plasma EACA concentrations were determined using a validated high-performance liquid chromatography-tandem mass spectrometry assay. A population non-linear mixed effects modelling approach was used to characterize EACA PKs.\n\nResults: Population PK parameters of EACA were estimated using a two-compartment disposition model with weight expressed as an allometric covariate and an age effect. The typical patient in this study had an age of 38.71 weeks and a weight of 8.82 kg. PK parameters for this typical patient were: pre-/postoperative plasma drug clearance of 32 ml min −1 (3.6 ml kg −1 min −1 ), inter-compartmental clearance of 42.4 ml min −1 (4.8 ml min −1 kg −1 ), central volume of distribution of 1.27 litre (0.14 litre kg −1 ), and peripheral volume of distribution of 2.53 litre (0.29 litre kg −1 ). Intra-operative clearance and central volume of distribution were 89% and 80% of the pre-/postoperative value, respectively.\n\nConclusions: EACA clearance increased with weight and age. The dependence of clearance on body weight supports weight-based dosing. Based on this study, a loading dose of 100 mg kg −1 followed by a CIVI of 40 mg kg −1 h −1 is appropriate to maintain target plasma EACA concentrations in children aged 6–24 months undergoing these procedures.",
+  "authors": [
+    "P. A. Stricker",
+    "A. F. Zuppa",
+    "J. E. Fiadjoe",
+    "L. G. Maxwell",
+    "E. M. Sussman",
+    "E. Y. Pruitt",
+    "T. K. Goebel",
+    "M. R. Gastonguay",
+    "J. A. Taylor",
+    "S. P. Bartlett",
+    "M. S. Schreiner"
+  ],
+  "journal": "BJA: British Journal of Anaesthesia",
+  "year": "2013",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

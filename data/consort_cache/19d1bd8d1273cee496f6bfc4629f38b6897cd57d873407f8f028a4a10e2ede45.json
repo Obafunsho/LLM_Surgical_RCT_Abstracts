@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Bilateral Superficial Cervical Plexus Block in Thyroid and Parathyroid Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 1507 patients were included, with 753 in the BSCPB group."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study evaluates the efficacy of bilateral superficial cervical plexus block (BSCPB) with and without adjuncts in reducing postoperative pain."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of bilateral superficial cervical plexus block (BSCPB) with and without adjuncts in reducing postoperative pain."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative pain reduction, measured by Visual Analog Scale scores at 6\u201324 hours post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomization and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 1507 patients were included, with 753 in the BSCPB group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "BSCPB significantly reduced postoperative pain compared to control (pooled risk ratio = 0.390, 95% CI: 0.303\u20130.501, p<0.05)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD420251039306."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding sources were not disclosed."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

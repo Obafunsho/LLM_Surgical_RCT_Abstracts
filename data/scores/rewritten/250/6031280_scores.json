@@ -1,0 +1,74 @@
+{
+  "pmcid": "6031280",
+  "sha256": "99dd7e1a83fe5606140c3fde6b67aee28db9adc458bf2b61ed888d092be3b963",
+  "timestamp_utc": "2025-11-09T22:49:02.274169+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.188361730013106,
+    "reading_ease": 35.412568807339454,
+    "word_count": 218
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Caudal Zona Incerta Deep Brain Stimulation in Parkinson’s Disease"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a single-blind, randomised controlled trial, 25 patients with idiopathic PD, eligible for subthalamic nucleus DBS, were randomised to either bilateral cZi DBS or best medical treatment."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "25 patients with idiopathic PD, eligible for subthalamic nucleus DBS"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either bilateral cZi DBS or best medical treatment"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of deep brain stimulation (DBS) in the caudal zona incerta (cZi) for Parkinson’s disease (PD) symptoms."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were differences in the motor scores of the Unified Parkinson’s Disease Rating Scale (UPDRS-III) and the Parkinson’s Disease Questionnaire 39 items (PDQ-39) at 6 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "25 patients with idiopathic PD"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Nineteen patients completed the study: 9 in the DBS group and 10 in the medical group."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The DBS group showed a 41% improvement in UPDRS-III scores off-medication on-stimulation compared to baseline, while the medical group showed no change."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included one case of deep venous thrombosis in the DBS group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

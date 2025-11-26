@@ -1,0 +1,74 @@
+{
+  "pmcid": "1388093",
+  "sha256": "408d74030752f54427e00c07dc3cbd01e5ac80c8f1766656a5028a1a5e95fbd5",
+  "timestamp_utc": "2025-11-09T22:31:58.948867+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.385000000000002,
+    "reading_ease": 32.985000000000014,
+    "word_count": 240
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Small-Dose Intravenous Ketamine with Continuous Femoral Nerve Block in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In a randomised controlled trial, patients undergoing total knee arthroplasty were randomly assigned to receive either an initial bolus of 0.5 mg/kg ketamine followed by a continuous infusion of 3 μg·kg -1 ·min -1 during surgery and 1.5 μg·kg -1 ·min -1 for 48 h (Ketamine group) or an equal volume of saline (Control group)."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients undergoing total knee arthroplasty"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients undergoing total knee arthroplasty were randomly assigned to receive either an initial bolus of 0.5 mg/kg ketamine followed by a continuous infusion of 3 μg·kg -1 ·min -1 during surgery and 1.5 μg·kg -1 ·min -1 for 48 h (Ketamine group) or an equal volume of saline (Control group)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the effect of small-dose intravenous ketamine combined with continuous femoral nerve block on postoperative pain and rehabilitation after total knee arthroplasty."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was morphine consumption over 48 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 100 to the Ketamine group and 100 to the Control group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The Ketamine group required significantly less morphine than the Control group (45 ± 20 mg versus 69 ± 30 mg; P < 0.02)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

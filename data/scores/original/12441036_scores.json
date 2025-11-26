@@ -1,0 +1,74 @@
+{
+  "pmcid": "12441036",
+  "sha256": "d87eb92c4f4f5c33f86e029c33afedbdc3a9ada518ca42e6fe53baf574cf4c18",
+  "timestamp_utc": "2025-11-09T15:41:54.924815+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 18.285791505791504,
+    "reading_ease": -0.5521740421740162,
+    "word_count": 259
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The clinical data of 56 patients who underwent surgery at the Department of Neurosurgery, First Affiliated Hospital of Soochow University"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "All patients underwent skull base tumor resection assisted by intraoperative microvascular Doppler (MVD)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To investigate the role of Doppler microvascular ultrasound (MVD) in skull base surgery for the intraoperative assessment and protection of arterial blood flow."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The clinical data of 56 patients who underwent surgery at the Department of Neurosurgery, First Affiliated Hospital of Soochow University between September 2017 and June 2024"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "No intraoperative vascular injuries were observed among the 56 patients"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "No intraoperative vascular injuries were observed among the 56 patients, confirmed by intraoperative Doppler monitoring and postoperative imaging."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No intraoperative vascular injuries were observed among the 56 patients, confirmed by intraoperative Doppler monitoring and postoperative imaging."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12014535",
+  "sha256": "290c92ba6b7c724fe71e2b40a6ff21d127912aaddfdb4573041ff0cfddec379f",
+  "timestamp_utc": "2025-11-09T15:28:05.296387+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.901216931216933,
+    "reading_ease": 15.708333333333371,
+    "word_count": 216
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A randomized controlled trial was conducted from August to October 2023."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients scheduled for elective prone spinal surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to either a study group, receiving individualized end-inspiratory pause, or a control group, receiving a fixed end-inspiratory pause"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effect of individualized end-inspiratory pause guided by driving pressure on respiratory mechanics in patients undergoing prone spinal surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Mechanical ventilation parameters, including tidal volume, plateau pressure, driving pressure, and peak pressure, were recorded at different time points."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients scheduled for elective prone spinal surgery were randomly assigned"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Data from 36 subjects (18 in each group) were included in the final analysis."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Data from 36 subjects (18 in each group) were included in the final analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The study group exhibited a significant increase in respiratory system compliance ( P < 0.05) and improved intraoperative oxygenation ( P < 0.05)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

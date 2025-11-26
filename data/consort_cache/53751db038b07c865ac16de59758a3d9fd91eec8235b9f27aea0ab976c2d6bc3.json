@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "antibiotics after an aPPendectomy In Complex appendicitis trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients with complex appendicitis (age \u2265 8 years) were randomly allocated to 2 days or 5 days of intravenous antibiotics after appendectomy."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with complex appendicitis (age \u2265 8 years) were randomly allocated to 2 days or 5 days of intravenous antibiotics after appendectomy. Patient inclusion lasted from June 2017 to June 2021 in 15 Dutch hospitals."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients with complex appendicitis (age \u2265 8 years) were randomly allocated to 2 days or 5 days of intravenous antibiotics after appendectomy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To compare costs for 2 days versus 5 days of postoperative antibiotics within the antibiotics after an aPPendectomy In Complex appendicitis trial."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary trial endpoint was a composite endpoint of infectious complications and mortality within 90 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients with complex appendicitis (age \u2265 8 years) were randomly allocated to 2 days or 5 days of intravenous antibiotics after appendectomy."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "This was a pragmatic, open-label, multicenter clinical trial powered for noninferiority."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Patient inclusion lasted from June 2017 to June 2021 in 15 Dutch hospitals."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "In total, 1005 patients were evaluated in the \u201cintention-to-treat\u201d analysis: 502 patients were allocated to the 2-day group and 503 to the 5-day group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean difference in overall societal costs was \u2013 \u20ac625 (95% CI: \u2013\u20ac 958 to \u2013\u20ac 278) to the advantage of the 2-day group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

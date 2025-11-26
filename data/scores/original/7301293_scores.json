@@ -1,0 +1,74 @@
+{
+  "pmcid": "7301293",
+  "sha256": "6d3db128dafcf4d0c875e47a5bb345bcc564ee4cf89cae5b28a5b1ea7a58293a",
+  "timestamp_utc": "2025-11-09T16:13:07.367375+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.635541125541128,
+    "reading_ease": 39.63045454545457,
+    "word_count": 330
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Three groups were studied: a nonobese group with severe OSAS, an obese group with severe OSAS, and a control group."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Children 5–12 years of age who were presenting for surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Children 5–12 years of age who were presenting for surgery were administered a morphine dose of 0.05 mg/kg."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that obesity along with sleep apnea and leptin independently enhance morphine pharmacokinetics."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Blood was collected at baseline and at subsequent preset times for pharmacokinetic analysis of morphine and its metabolites."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty-four patients consisting of controls (n = 16), nonobese/OSAS (n = 8), and obese/OSAS (n = 10) underwent analysis."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Thirty-four patients consisting of controls (n = 16), nonobese/OSAS (n = 8), and obese/OSAS (n = 10) underwent analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The obese/OSAS group had a higher dose-adjusted mean maximum morphine concentration (C MAX ) over 540 minutes compared to the controls ( P < .001) and those with only OSAS ( P = .014)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

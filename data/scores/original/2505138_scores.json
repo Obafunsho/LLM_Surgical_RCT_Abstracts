@@ -1,0 +1,74 @@
+{
+  "pmcid": "2505138",
+  "sha256": "07a07bfb67b66a9f578758be6789817fb8c8faaab2e74bd7b1c61680763fd669",
+  "timestamp_utc": "2025-11-09T15:48:22.230657+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.496805904522617,
+    "reading_ease": 34.788826947236174,
+    "word_count": 199
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were enrolled consecutively in two randomized, controlled trials"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Control patients preoperatively received a standard THA or TKA class addressing recovery immediately after surgery. Intervention patients preoperatively received the standard class plus a joint-specific module addressing recovery during the first 12 months."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We asked whether preoperative educational classes addressing recovery during the first year could modify patients’ expectations of their 12-month postoperative recovery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The main outcome was the within-patient change in expectation scores (maximum increase, +100; maximum decrease, −100) before and after the class but preoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "one for THA (177 patients) and one for TKA (143 patients)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Mean changes in hip scores were +3.3 ± 8 for intervention patients (range, −22–+32) and +4.9 ± 8 for control patients (range, −13–+29). Mean changes in knee scores were −3.4 ± 10 for intervention patients (range, −26–+33) and +2.4 ± 10 for control patients (range, −30–+30)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

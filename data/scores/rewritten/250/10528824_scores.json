@@ -1,0 +1,74 @@
+{
+  "pmcid": "10528824",
+  "sha256": "d6536d2de534defb0601dd17332fd9ad6e7ba869d4bb238f492fa99fa210bb84",
+  "timestamp_utc": "2025-11-09T21:55:12.816942+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.235788177339902,
+    "reading_ease": 15.345172413793136,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Utilization of Optimal Medical Therapy in Chronic Limb Threatening Ischemia: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was conducted at the patient level."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients with CLTI enrolled across multiple centers. Eligibility criteria included diagnosis of CLTI."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "assesses the utilization of guideline-based optimal medical therapy (OMT) at trial enrollment."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the proportion of patients meeting OMT criteria at baseline."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was conducted at the patient level."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 1830 patients were randomised."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Only 25% met all four OMT criteria, while 38% met three, 24% met two, 11% met one, and 2% met none."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: NIH-sponsored."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

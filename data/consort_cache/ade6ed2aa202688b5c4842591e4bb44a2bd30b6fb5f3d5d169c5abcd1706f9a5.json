@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Deep Brain Stimulation for Treatment-Resistant Depression"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial included 25 patients with TRD"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "25 patients with TRD recruited from two hospitals in the Netherlands. Participants met criteria for major depressive disorder and had failed multiple treatment steps."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "All patients underwent DBS surgery and entered a 1-year optimisation phase followed by a 1-year open-label maintenance phase."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy and safety of DBS targeted at the ventral anterior limb of the internal capsule (vALIC) in TRD patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the response rate (\u226550% HAM-D-17 score reduction) after the maintenance phase."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "1-year open-label maintenance phase"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial included 25 patients with TRD"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of the 25 patients, 21 entered and 18 completed the maintenance phase."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Eight patients were classified as responders (observed response rate: 44.4%; intention-to-treat: 32.0%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Four serious adverse events occurred, none related to DBS."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NTR2118."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

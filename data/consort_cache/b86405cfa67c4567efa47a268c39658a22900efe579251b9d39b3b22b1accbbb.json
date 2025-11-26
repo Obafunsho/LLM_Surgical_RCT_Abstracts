@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of 3-D Fracture-Site Motion in Supracondylar Femoral Fractures"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Sixty-six patients with supracondylar femoral fractures (OTA/AO classification of 33A or 33C) were included. Participants were eligible if they had a supracondylar femoral fracture and were treated with locking-plate fixation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Construct-specific finite element (FE) modeling simulated 3-D fracture-site motion."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effect of three-dimensional (3-D) fracture-site motion on callus formation in supracondylar femoral fractures treated with locking-plate fixation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was callus formation, assessed radiographically at six, twelve, and twenty-four weeks postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty-six participants were randomised, with 33 in each group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was conducted using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Longitudinal motion promoted callus formation at twelve and twenty-four weeks (p = 0.017 for both), while shear inhibited callus formation (p = 0.017 and p = 0.022, respectively)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10871751",
+  "sha256": "25af6a55072d0c14911d03a1529156371ec210735fd096c01209fa73ad440d47",
+  "timestamp_utc": "2025-11-09T15:12:47.685780+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.221646469746698,
+    "reading_ease": 29.718008709921747,
+    "word_count": 699
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods: In this randomized trial, 72 patients undergoing THA were randomly assigned to undergo either commercially available AR navigation or a conventional technique for cup placement."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Methods: In this randomized trial, 72 patients undergoing THA were randomly assigned to undergo either commercially available AR navigation or a conventional technique for cup placement."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "72 patients undergoing THA were randomly assigned to undergo either commercially available AR navigation or a conventional technique for cup placement."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "72 patients undergoing THA were randomly assigned to undergo either commercially available AR navigation or a conventional technique for cup placement."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Questions/purposes: (1) Does intraoperative use of commercially available AR navigation improve cup positioning compared with the conventional technique?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome of the present study was cup positioning, including the absolute differences between the intended target and angle achieved, as well as the number of cups inside the Lewinnek safe zone."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "72 patients undergoing THA were randomly assigned to undergo either commercially available AR navigation or a conventional technique for cup placement."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "72 patients undergoing THA were randomly assigned to undergo either commercially available AR navigation or a conventional technique for cup placement."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "No patients in either group were lost to follow-up, and there was no crossover (the randomized treatment was performed in all patients, so there was no difference between an intention-to-treat and a per-protocol analysis)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The use of the commercially available AR navigation slightly improved cup positioning compared with the conventional technique in terms of the absolute difference between the desired and achieved amounts of cup abduction and anteversion (which we defined as “absolute differences”; median 1° [IQR 0° to 4.0°] versus median 5° [IQR 3.0° to 7.5°], difference of medians 4°; p < 0.001 and median 2° [IQR 1.9° to 3.7°] versus median 5° [IQR 3.2° to 9.7°], difference of medians 2°; p = 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "In the navigation group, no complications occurred in the pin sites; however, one anterior dislocation occurred. In the conventional group, one hip underwent reoperation because of a deep infection."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

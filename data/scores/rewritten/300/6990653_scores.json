@@ -1,0 +1,74 @@
+{
+  "pmcid": "6990653",
+  "sha256": "b7cf5595fd587c2c7aa108cb2ac2b18a986821d6b5214e6677ce61bdbdcbe864",
+  "timestamp_utc": "2025-11-10T00:03:50.504249+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.559086176980916,
+    "reading_ease": 4.4610391363023325,
+    "word_count": 247
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Prehabilitation vs. Rehabilitation in Frail Patients Undergoing Colorectal Cancer Resection"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "single-blind, parallel-arm, superiority randomized clinical trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were frail patients (Fried Frailty Index ≥ 2) aged 65 years or older undergoing colorectal cancer resection."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention was a multimodal program involving exercise, nutritional, and psychological components initiated before (Prehab) or after (Rehab) surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the impact of a prehabilitation program on 30-day postoperative complications in frail patients compared to postoperative rehabilitation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Comprehensive Complications Index at 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "120 were randomized"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "110 were included in the intention-to-treat analysis (55 in each group)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "No significant difference was found in the primary outcome (adjusted mean difference, –3.2; 95% CI, –11.8 to 5.3; P = .45)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov NCT02502760."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

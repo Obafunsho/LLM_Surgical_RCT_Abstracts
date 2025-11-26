@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Short- and Standard-Length Stems in Cementless Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 100 patients undergoing primary THA were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included age \u226520 years, no prior hip surgery, and absence of metabolic bone disease."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either a short stem (n = 56) or a standard-length stem (n = 44)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of short stems compared to standard-length stems."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of thigh pain over a 5-year follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "100 patients undergoing primary THA were randomised to receive either a short stem (n = 56) or a standard-length stem (n = 44) between March 2013 and January 2014."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was per-protocol."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Thigh pain was reported in 16% (9/56) of the short-stem group and 14% (6/44) of the standard-stem group (p = 0.79)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No implant loosening or revisions occurred."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

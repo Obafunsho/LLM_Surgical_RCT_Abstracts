@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Cost-Effectiveness of UDCA Prophylaxis in Preventing Symptomatic Gallstone Disease: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Conducted as a multicentre, double-blind, randomised placebo-controlled superiority trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients scheduled for laparoscopic RYGB or sleeve gastrectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive 900 mg UDCA or placebo for 6 months"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the cost-effectiveness and cost-utility of ursodeoxycholic acid (UDCA) prophylaxis for preventing symptomatic gallstone disease"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of symptomatic gallstone disease within 24 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 985 patients were enrolled between January 2017 and October 2018"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "705 analysed in the modified intention-to-treat analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "UDCA prophylaxis significantly reduced the risk of symptomatic gallstone disease (relative risk 1.06, 95% CI 1.02 to 1.11; P = 0.002)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported, with mild gastrointestinal side-effects occurring in 3% of the UDCA group and 1% of the placebo group"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCTXXXXX"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by [Funding Source]"
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

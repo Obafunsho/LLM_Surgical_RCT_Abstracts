@@ -1,0 +1,74 @@
+{
+  "pmcid": "6325750",
+  "sha256": "8b89ad14c4cf6907d1321c20e47ff4f637a81fd7846f4ea637e94efdcad5241a",
+  "timestamp_utc": "2025-11-09T16:08:08.227680+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.813747640025177,
+    "reading_ease": 24.904372246696028,
+    "word_count": 227
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This study used a randomized controlled trial (RCT) to evaluate whether mattress suture of pancreatic parenchyma and the seromuscular layer of jejunum (modified Blumgart method) during pancreaticojejunostomy (PJ) decreases the incidence of clinically relevant postoperative pancreatic fistula (POPF) after pancreaticoduodenectomy (PD)."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Enrolled patients were randomized to either interrupted suture or modified Blumgart mattress suture."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Between June, 2013 and May, 2017, 224 patients scheduled for PD were enrolled in this study in Wakayama Medical University Hospital."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Enrolled patients were randomized to either interrupted suture or modified Blumgart mattress suture."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective:: This study used a randomized controlled trial (RCT) to evaluate whether mattress suture of pancreatic parenchyma and the seromuscular layer of jejunum (modified Blumgart method) during pancreaticojejunostomy (PJ) decreases the incidence of clinically relevant postoperative pancreatic fistula (POPF) after pancreaticoduodenectomy (PD)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the incidence of grade B/C POPF based on the International Study Group on Pancreatic Fistula criteria."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Enrolled patients were randomized to either interrupted suture or modified Blumgart mattress suture."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Patients were randomized to either interrupted suture (103 patients) or modified Blumgart mattress suture (107 patients)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Patients were randomized to either interrupted suture (103 patients) or modified Blumgart mattress suture (107 patients) and were analyzed by intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Grade B/C POPF occurred in 7 patients (6.8%) in the interrupted suture group and 11 (10.3%) in the mattress suture group ( P = 0.367)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Mortality within 90 days was 0 in both groups. There were no significant differences in all postoperative complications between the interrupted suture group and the modified Blumgart mattress suture group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "This RCT was registered with ClinicalTrials.gov ( NCT01898780 )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

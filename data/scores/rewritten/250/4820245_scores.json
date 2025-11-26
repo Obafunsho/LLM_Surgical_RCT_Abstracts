@@ -1,0 +1,74 @@
+{
+  "pmcid": "4820245",
+  "sha256": "ca1d09303b83ce1c088ddd3e8cc7e60ba19f74a9594bd150559901d4b8a860bb",
+  "timestamp_utc": "2025-11-09T22:43:53.558678+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.06697368421053,
+    "reading_ease": 42.3859210526316,
+    "word_count": 208
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Carotid Revascularization Endarterectomy versus Stenting Trial (CREST): A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to either CAS or CEA."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial included 2,502 patients with carotid artery stenosis."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to either CAS or CEA."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the periprocedural S+D rate, assessed over a 30-day period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the interventions."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 1,251 patients were randomised to each group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "For lesions ≥12.85 mm, CAS had a higher S+D risk than CEA (OR = 3.42; 95% CI, 1.19-9.78)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00004732"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: National Institutes of Health"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

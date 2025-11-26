@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: Intermittent claudication (IC) is a hallmark symptom of peripheral arterial disease (PAD), causing pain and discomfort during physical activity caused by reduced blood flow to the lower extremities."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Randomized controlled trials (RCTs) comparing invasive interventions to Noninvasive treatments were included."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes were quality of life (QoL), ankle\u2010brachial pressure index (ABPI), and maximum walking distance (MWD)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 11 RCTs with 1379 patients were included in the analysis."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "MWD pooled Mean Difference (MD)\u2009=\u200964.94 [10.77, 115.12] 95% CI, p =\u2009.02, 5 studies, and ABPI pooled MD\u2009=\u20090.15 [0.04, 0.26] 95% CI, p =\u2009.006, 5 studies."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "However, invasive interventions were associated with a higher rate of complications, including increased amputation risk."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

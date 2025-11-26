@@ -1,0 +1,74 @@
+{
+  "pmcid": "11912062",
+  "sha256": "2e418212b1be8a2872ab0331ad0b6943205362cad9cf96f284ec876bbe6b924f",
+  "timestamp_utc": "2025-11-09T15:26:03.680768+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.779146293375394,
+    "reading_ease": 10.052757294952698,
+    "word_count": 317
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: Bladder cancer is one of the most prevalent malignancies within the urinary system, with incidence and mortality rates showing a global upward trend."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Data from bladder cancer patients diagnosed between 2011 and 2015 were extracted using SEER*Stat software."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to examine the clinical characteristics of bladder cancer patients with a history of prior malignancies and to develop a prognostic model using extensive data from the Surveillance, Epidemiology, and End Results (SEER) database to inform clinical treatment strategies."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 12,260 bladder cancer patients were analyzed, including 8,959 individuals with no prior tumor history and 3,301 individuals with a history of previous tumors."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean survival duration for patients with a prior tumor history was 56.04±39.96 months, significantly lower than the 70.28±39.36 months for patients without a prior tumor history (P<0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

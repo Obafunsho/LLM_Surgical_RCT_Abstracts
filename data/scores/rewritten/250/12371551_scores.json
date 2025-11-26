@@ -1,0 +1,74 @@
+{
+  "pmcid": "12371551",
+  "sha256": "d75f36d4de044cd40c9eb7be84c43e32082450cde7142c50ff7d3f8594800f38",
+  "timestamp_utc": "2025-11-09T22:23:35.564081+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.560612244897964,
+    "reading_ease": 19.761768707483014,
+    "word_count": 196
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study aimed to evaluate the effectiveness of open surgical repair for complex CJFs in resource-limited settings."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "This case report describes a 23-year-old Afghan man with a traumatic CJF and right common carotid pseudoaneurysm following a gunshot wound."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved open surgical repair, including resection of the aneurysm and reconstruction of the affected vessels."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effectiveness of open surgical repair for complex CJFs in resource-limited settings."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Postoperative recovery was marked by the resolution of symptoms and normal function."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported during the follow-up period."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

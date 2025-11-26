@@ -1,0 +1,74 @@
+{
+  "pmcid": "10344633",
+  "sha256": "c0465918c278629ce051a78f17fbfd71dd2180f714c19a37b1ee00a187640ae2",
+  "timestamp_utc": "2025-11-09T23:05:30.234916+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.166329694323142,
+    "reading_ease": 28.229843886462902,
+    "word_count": 229
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Ultrasound-Guided Subclavian Vein Puncture Techniques"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to either the traditional group (n=30) or the improved group (n=30)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at the Air Force Specialty Medical Center, this randomised controlled trial included 60 patients requiring right subclavian vein catheterization."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to either the traditional group (n=30) or the improved group (n=30)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effectiveness of an improved ultrasound-guided subclavian vein puncture technique compared to the traditional method."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the one-time puncture success rate, assessed immediately post-procedure."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Due to the nature of the intervention, blinding was not feasible."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to either the traditional group (n=30) or the improved group (n=30)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was conducted on an intention-to-treat basis, with all 60 participants included."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The improved group achieved a higher one-time puncture success rate (80% vs. 66.7%) and reduced procedure time (mean difference = 5.0334 minutes, 95% CI 3.1 to 7.3; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The improved group experienced fewer complications (10% vs. 37%; p < 0.05), with reduced incidences of pneumothorax and hematoma."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

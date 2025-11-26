@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Network Meta-Analysis of Randomised Controlled Trials for Endovascular Treatments in Superficial Femoral Artery Disease"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The study included 57 trials with 9089 patients."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised trials comparing endovascular interventions for SFA disease"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the relative safety and efficacy of various endovascular treatments for superficial femoral artery (SFA) disease"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were technical success and 12-month primary patency."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation methods and allocation concealment were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study included 57 trials with 9089 patients."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was conducted using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Technical success was superior for covered stent graft (CSG), bare metal stent (BMS), and atherectomy plus drug-coated balloon (A+DCB) compared with percutaneous transluminal angioplasty (PTA)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42022377373."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

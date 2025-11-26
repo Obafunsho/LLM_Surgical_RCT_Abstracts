@@ -1,0 +1,74 @@
+{
+  "pmcid": "12283117",
+  "sha256": "a8e4298961234c22f2bdaeab2a322c53708c4e163fe1292dca65c1cf1daaf132",
+  "timestamp_utc": "2025-11-09T15:35:57.352762+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.167,
+    "reading_ease": 23.68100000000001,
+    "word_count": 200
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the 3‐year recurrence rates of diabetic foot ulcers (DFU) and the rate of endovascular reintervention for chronic limb‐threatening ischaemia (CLTI) to recurrence rates of advanced‐stage cancers."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We systematically collected original data reporting 3‐year DFU recurrence from studies published through 2024 and calculated a pooled mean."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The pooled 3‐year DFU recurrence rate was 58%, while the CLTI reintervention rate was 50%—comparable to cancer recurrence rates: breast (25%–40%), prostate (30%–40%), colorectal (30%–50%), and lung (60%–80%)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

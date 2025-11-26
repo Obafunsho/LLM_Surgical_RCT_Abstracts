@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Hyperinsulinemic Normoglycemia in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "dual-center, parallel-group, superiority trial randomized cardiac surgical patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "cardiac surgical patients at the Cleveland Clinic and Royal Victoria Hospital"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "hyperinsulinemic normoglycemia (fixed high-dose insulin and variable glucose infusion targeting 80\u2013110 mg\u00b7dL\u22121) or standard glycemic management (low-dose insulin targeting glucose >150 mg\u00b7dL\u22121)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study tested whether it reduces 30-day mortality and morbidity post-cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was a composite of 30-day mortality, mechanical circulatory support, infection, renal or neurologic morbidity."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 1,439 patients were randomized (709 to hyperinsulinemic normoglycemia, 730 to standard management)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The primary outcome occurred in 49 (6.9%) patients in the hyperinsulinemic group versus 82 (11.2%) in the standard group (P<0.0085); relative risk 0.62 (95% CI 0.39, 0.97), P=0.0043."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Severe hypoglycemia (<40 mg\u00b7dL\u22121) occurred in 6 (0.9%) patients."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source]."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

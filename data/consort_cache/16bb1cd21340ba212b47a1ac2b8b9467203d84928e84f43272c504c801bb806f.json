@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of cHuR as a Predictive Marker for Chemotherapy Response in Pancreatic Ductal Adenocarcinoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either gemcitabine (GEM) or 5-fluorouracil (5-FU) as adjuvant monotherapy."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "379 PDA patients from the European Study Group of Pancreatic Cancer-3 trial were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either gemcitabine (GEM) or 5-fluorouracil (5-FU) as adjuvant monotherapy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated cytoplasmic HuR (cHuR) as a predictive marker for chemotherapy response in resected pancreatic ductal adenocarcinoma (PDA) patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was disease-free survival (DFS), measured over a specified timeframe."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either gemcitabine (GEM) or 5-fluorouracil (5-FU) as adjuvant monotherapy."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "379 PDA patients from the European Study Group of Pancreatic Cancer-3 trial were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "patients with high cHuR expression had significantly greater median DFS with 5-FU compared to GEM (20.1 months, CI: 8.3\u201336.4 vs 10.9 months, CI: 7.5\u201314.2; P = 0.04)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

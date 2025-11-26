@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Medical procedures in outpatient settings have limited options of managing pain and anxiety pharmacologically."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "236 women referred for large core needle breast biopsy to an urban tertiary university-affiliated medical center were prospectively randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "236 women referred for large core needle breast biopsy to an urban tertiary university-affiliated medical center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive standard care (n=76), structured empathic attention (n= 82), or self-hypnotic relaxation (n=78) during their procedures"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We therefore assessed whether this can be achieved by adjunct self-hypnotic relaxation in a common and particularly anxiety provoking procedure."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Patients\u2019 self-ratings at 10 minute-intervals of pain and anxiety on 0\u201310 verbal analog scales with 0=no pain/anxiety at all, 10=worst pain/anxiety possible, were compared in an ordinal logistic regression model."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "prospectively randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "236 women referred for large core needle breast biopsy"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Women\u2019s anxiety increased significantly in the standard group (logit slope = 0.18, p < 0.001), did not change in the empathy group (slope = \u22120.04, p = 0.45), and decreased significantly in the hypnosis group (slope = \u22120.27, p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "5423930",
+  "sha256": "cb64278e09058e0a905c40efef75547d42a5dfde99c19c77226af2ccf603aaa5",
+  "timestamp_utc": "2025-11-09T16:03:38.377119+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.264615384615386,
+    "reading_ease": 37.455384615384645,
+    "word_count": 377
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Aims/hypothesis: Hospital admissions for hypoglycaemia represent a significant burden on individuals with diabetes and have a substantial economic impact on healthcare systems."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We aimed to develop and validate prediction models to estimate risk of inpatient death, 24 h discharge and one month readmission in people admitted to hospital for hypoglycaemia."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We used C-index and calibration plots to assess model performance and developed a calculator to estimate probabilities of outcomes according to individual characteristics."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "C-indices for the base and disease models, respectively, were: 0.77 (95% CI 0.75, 0.80) and 0.78 (0.75, 0.80) for death, 0.57 (0.56, 0.59) and 0.57 (0.56, 0.58) for one month readmission, and 0.68 (0.67, 0.69) and 0.69 (0.68, 0.69) for 24 h discharge."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

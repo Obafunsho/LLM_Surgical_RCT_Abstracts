@@ -1,0 +1,74 @@
+{
+  "pmcid": "11033882",
+  "sha256": "d067d11eec4f242b8282ff0a4d5bacc4df9be3592352c39da32292815607936e",
+  "timestamp_utc": "2025-11-09T21:59:08.596074+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.234148514851487,
+    "reading_ease": 18.169638613861395,
+    "word_count": 202
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Remote Ischemic Preconditioning in Reducing Postoperative Cognitive Dysfunction"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "remote ischemic preconditioning (RIPC) reduces neurocognitive dysfunction in patients undergoing CPB surgery"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether remote ischemic preconditioning (RIPC) reduces neurocognitive dysfunction in patients undergoing CPB surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of POCD, measured up to 12 months postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation and allocation concealment were adequately reported in all included studies."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was maintained for participants and personnel."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Five RCTs with 1,843 participants were included."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "RIPC did not significantly reduce the incidence of POCD (OR = 0.79, 95% CI = 0.56–1.11) or improve cognitive function (OR = 0.80, 95% CI = 0.50–1.27)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42023430880."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: No financial support was provided."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

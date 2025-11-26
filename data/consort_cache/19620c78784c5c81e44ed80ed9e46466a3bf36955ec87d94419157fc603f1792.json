@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Sutureless Aortic Valve Replacement: A Retrospective Analysis"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included patients with moderate-to-severe aortic valve disease, with a mean age of 69.3 years and a mean logistic EuroSCORE-II of 5.2%."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study reviews our institutional experience with sutureless aortic valve replacement (SU-AVR) using the Perceval valve."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was mortality at various time points, and secondary outcomes included postoperative complications."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "We conducted a retrospective analysis of 200 consecutive patients who underwent SU-AVR at a single center between December 2019 and February 2023."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "In-hospital, 30-day, 6-month, and 1-year mortality rates were 4.5%, 6.5%, 7.5%, and 8.2%, respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No paravalvular leakage was reported, and the incidence of stroke was 0.5%."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

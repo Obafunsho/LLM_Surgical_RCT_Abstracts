@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Splinting and Steroid Injection for Trigger Finger"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised into three groups: splinting (n = 43), steroid injection (n = 40), and combination therapy (n = 37)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "120 adult patients with trigger finger were randomised; Eligibility criteria included adults without prior corticosteroid injection or concomitant hand conditions"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "splinting involved wearing a fixed metacarpophalangeal joint orthosis; Steroid injection consisted of 1 mL of 1% lidocaine and 1 mL of triamcinolone acetonide"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluated the effectiveness of splinting alone, steroid injection alone, and their combination in reducing pain and improving function"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes were VAS pain reduction and MHQ score improvement at 6, 12, and 52 weeks"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using computer-generated block randomisation with allocation concealment via sequentially numbered, opaque, sealed envelopes"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Both the allocator and outcome assessor were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "120 adult patients with trigger finger were randomised into three groups: splinting (n = 43), steroid injection (n = 40), and combination therapy (n = 37)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "in both intention-to-treat and per-protocol analyses"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No clinically important differences in VAS pain scores or MHQ scores were observed among the groups at any timepoint"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

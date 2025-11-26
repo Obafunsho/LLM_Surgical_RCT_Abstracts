@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This randomized clinical trial used a stepped-wedge design"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomized clinical trial used a stepped-wedge design to randomly assign patients to a QPL intervention (n\u2009=\u2009223) or usual care (n\u2009=\u2009223)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients were 60 years or older with at least 1 comorbidity and an oncologic or vascular (cardiac, neurosurgical, or peripheral vascular) problem that could be treated with major surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "A brochure of 11 questions to ask a surgeon developed by patient and family stakeholders plus an endorsement letter from the surgeon were sent to patients before their outpatient visit."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To compare the effectiveness of a question prompt list (QPL) intervention vs usual care on patient engagement and well-being among older patients considering major surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary well-being outcomes included (1) the difference between patient\u2019s Measure Yourself Concerns and Well-being (MYCaW) scores reported after surgery and scores reported after the surgical visit and (2) treatment-associated regret at 6 to 8 weeks after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "This randomized clinical trial used a stepped-wedge design to randomly assign patients"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 1319 patients eligible for participation, 223 were randomized to the QPL intervention and 223 to usual care."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Data analysis was by intent-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The difference in MYCaW scores for family members was greater in usual care (effect estimate, 1.51; 95% CI, 0.28-2.74; P =\u2009.008)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov identifier: NCT02623335"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of \u03f5-Aminocaproic Acid Pharmacokinetics in Adolescents Undergoing Spinal Fusion"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised into two groups based on scoliosis diagnosis: idiopathic (n=10) and non-idiopathic (n=10)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "20 adolescents aged 12\u201317 years undergoing spinal fusion at a tertiary care hospital were enrolled."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Participants were randomised into two groups based on scoliosis diagnosis: idiopathic (n=10) and non-idiopathic (n=10)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to elucidate EACA pharmacokinetics and propose dosing recommendations."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the estimation of pharmacokinetic parameters during the surgical period."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomised into two groups based on scoliosis diagnosis: idiopathic (n=10) and non-idiopathic (n=10)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Pharmacokinetic parameters for a typical patient included plasma clearance of 153 ml min\u22121 70 kg\u22121, intercompartmental clearance of 200 ml min\u22121 70 kg\u22121, central volume of distribution of 8.78 litre 70 kg\u22121, and peripheral volume of distribution of 15.8 litre 70 kg\u22121."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01408823."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12388806",
+  "sha256": "c9ca8a81151a45f4fa86cdf55df0f3cbb1e0db4eaa2a282271e024efa7ca82d1",
+  "timestamp_utc": "2025-11-09T15:39:27.878312+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 18.145454545454545,
+    "reading_ease": 4.153181818181821,
+    "word_count": 220
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This quasi-experimental study explores the impact of an enhanced flipped classroom model on Bulgarian nursing and midwifery students’ self-perceived competence."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A total of 228 participants were divided into a control group receiving traditional instruction (lectures and simulations with manikins) and an experimental group engaged in a digitally enhanced preparatory phase."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The latter included pre-class video algorithms, VR, and clinical problem-solving tasks for learning and improving nursing skills."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This quasi-experimental study explores the impact of an enhanced flipped classroom model on Bulgarian nursing and midwifery students’ self-perceived competence."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "A 25-item self-report questionnaire was administered before and after the intervention to measure perceived competence in injection techniques, hygiene care, midwifery skills, and digital readiness."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 228 participants were divided into a control group receiving traditional instruction (lectures and simulations with manikins) and an experimental group engaged in a digitally enhanced preparatory phase."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Statistical analysis using Welch’s t-test revealed significant improvements in the experimental group in all domains ( p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Doxycycline as an Adjunct to Endovascular Aneurysm Repair"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients undergoing EVAR were randomised"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients undergoing EVAR were randomised to receive doxycycline (100 mg twice daily) or placebo for 6 months"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effect of doxycycline, an MMP inhibitor, on EVAR outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was plasma MMP-9 levels at 6 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using [randomisation method] with allocation concealment via [allocation concealment method]."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty-four patients were randomised: 20 to doxycycline and 24 to placebo."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Intention-to-treat analysis showed a significant decrease in plasma MMP-9"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Intention-to-treat analysis showed a significant decrease in plasma MMP-9 in the doxycycline group at 6 months (\u221216.4\u00b120.7%, P<0.05) compared to a non-significant increase in the placebo group (128.1\u00b173.5%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [source of funding]."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

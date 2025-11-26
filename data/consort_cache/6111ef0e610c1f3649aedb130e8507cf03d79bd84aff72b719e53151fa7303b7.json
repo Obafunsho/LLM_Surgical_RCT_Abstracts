@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intracavitary Cisplatin-Fibrin and Hemithoracic Irradiation in a Rat Model of Pleural Mesothelioma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Male Fischer 344 rats were randomized into five groups"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "cis-fib+20 Gy IR group were significantly smaller than those in the IR alone group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the safety and efficacy of combining intracavitary cisplatin-fibrin (cis-fib) with hemithoracic irradiation (IR)"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was tumor growth delay, measured by bioluminescent imaging."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was conducted using a computer-generated sequence"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Male Fischer 344 rats were randomized into five groups: cis-fib (n=9), 10 Gy IR (n=6), 20 Gy IR (n=9), cis-fib+10 Gy IR (n=6), and cis-fib+20 Gy IR (n=9)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At day 15, tumors in the cis-fib+20 Gy IR group were significantly smaller than those in the IR alone group (mean tumor growth, 252% vs 539%; P=0.04)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Short-term side effects were observed with 20 Gy IR, including transient weight loss and decreased lymphocyte count."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ZH095/2016."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

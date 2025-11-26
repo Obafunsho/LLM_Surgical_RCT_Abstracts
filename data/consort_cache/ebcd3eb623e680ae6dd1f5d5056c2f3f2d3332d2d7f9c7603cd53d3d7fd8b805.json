@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial Comparing Measurement Accuracy of Digital Vernier Caliper and Digital Thickness Gauge for Venous Specimens"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial used 12 porcine vena cava specimens from pigs aged 18-24 weeks."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial used 12 porcine vena cava specimens from pigs aged 18-24 weeks."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Measurements were performed using a digital vernier caliper (four protocols) and a digital thickness gauge (one protocol)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compares the accuracy of a digital vernier caliper and a digital thickness gauge."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the consistency and accuracy of thickness measurements over three consecutive trials."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial used 12 porcine vena cava specimens from pigs aged 18-24 weeks."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "In the first protocol, lower values were observed during the first measurement compared to the second (0.409 \u00b1 0.063 vs. 0.536 \u00b1 0.064, p < 0.0001) and third (0.409 \u00b1 0.063 vs. 0.528 \u00b1 0.055, p = 0.0001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details are not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details are not applicable."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12466067",
+  "sha256": "770853ca636c394a39d2db8ddb6d8cb2d76f8530ff3819d0bfa52857ba9f0175",
+  "timestamp_utc": "2025-11-09T15:43:20.593157+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.683180161943323,
+    "reading_ease": 26.127280364372496,
+    "word_count": 247
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This systematic review and meta-analysis aimed to evaluate the effects of sugammadex on POUR and other postoperative recovery outcomes"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Randomized controlled trials (RCTs) and cohort studies comparing sugammadex with conventional reversal agents or no reversal agents were included."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This systematic review and meta-analysis aimed to evaluate the effects of sugammadex on POUR and other postoperative recovery outcomes"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The analysis ultimately included 25 studies involving a total of 163,367 patients: 84,362 received sugammadex, while 79,005 received neostigmine, or did not receive an antagonist."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Meta-analysis revealed a significant reduction in the incidence of POUR with sugammadex use (Relative Risk (RR): 0.47, 95% Confidence Interval (CI): 0.34–0.64, P < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

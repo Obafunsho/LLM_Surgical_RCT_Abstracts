@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tranexamic Acid for Preventing Scar Tissue in Craniectomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The rats were randomly assigned to two groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "20 male Wistar rats, approximately 12 months old, undergoing bilateral frontoparietal craniectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "a control group (n=10) receiving saline-soaked cotton pads and a tranexamic acid group (n=10) receiving cotton pads soaked with 30 mg/kg tranexamic acid"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of tranexamic acid in preventing scar tissue formation in the craniectomy area in rats."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was dura mater thickness, measured 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The rats were randomly assigned to two groups"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to the pathologist assessing outcomes."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "20 male Wistar rats, approximately 12 months old"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "a control group (n=10) receiving saline-soaked cotton pads and a tranexamic acid group (n=10) receiving cotton pads soaked with 30 mg/kg tranexamic acid"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The tranexamic acid group exhibited significantly thinner dura mater compared to the control group (p=0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not specified."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

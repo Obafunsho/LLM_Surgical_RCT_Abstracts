@@ -1,0 +1,74 @@
+{
+  "pmcid": "2865602",
+  "sha256": "ade40a24dda6bfc35329efa558f5f450027b492dba444c476f1069566083eb99",
+  "timestamp_utc": "2025-11-09T23:46:25.061552+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.138569015444016,
+    "reading_ease": 29.69735159266412,
+    "word_count": 259
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Sclerotherapy and Intralesional Excision for Aneurysmal Bone Cysts"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Ninety-four patients were randomly assigned to two treatment groups"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group 1 received sclerotherapy, and Group 2 underwent intralesional excision and bone grafting"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare the healing rates and safety of percutaneous repetitive sclerotherapy using polidocanol with intralesional excision"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the healing rate, measured over a minimum follow-up of 3.2 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, with allocation concealment"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to treatment allocation"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ninety-four patients were randomly assigned to two treatment groups"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Ninety-one patients were analysed (45 in Group 1 and 46 in Group 2) using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At last follow-up, healing was achieved in 93.3% of Group 1 and 84.8% of Group 2"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Group 1 experienced minor complications that resolved, while Group 2 had three deep infections, five superficial infections, and two growth disturbances"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

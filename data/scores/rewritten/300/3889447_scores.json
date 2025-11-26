@@ -1,0 +1,74 @@
+{
+  "pmcid": "3889447",
+  "sha256": "0bc298212645dfd4fa2305bebf1bd58879f0785c6ea8b4c88753fa31f7759803",
+  "timestamp_utc": "2025-11-09T23:51:25.731010+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.112208607292292,
+    "reading_ease": 17.121725941422596,
+    "word_count": 239
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intraosseous Regional Administration of Vancomycin in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In a randomised controlled trial, 30 patients scheduled for primary TKA were randomised"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "30 patients scheduled for primary TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either 250 mg or 500 mg vancomycin via IORA or 1 g via systemic administration"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether low-dose intraosseous regional administration (IORA) of vancomycin can achieve tissue concentrations comparable to or exceeding those of systemic administration in total knee arthroplasty (TKA)"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the tissue concentration of vancomycin, assessed during the procedure"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, with allocation concealment ensured through sealed envelopes"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "30 patients scheduled for primary TKA"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean vancomycin concentration in subcutaneous fat was 14 μg/g in the 250-mg IORA group, 44 μg/g in the 500-mg IORA group, and 3.2 μg/g in the systemic group"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One patient in the systemic group experienced red man syndrome. No other adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

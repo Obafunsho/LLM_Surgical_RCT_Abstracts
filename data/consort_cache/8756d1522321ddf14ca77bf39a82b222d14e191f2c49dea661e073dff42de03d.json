@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This randomized trial of short- versus long-term Dual AntiPlatelet Therapy for Stent-Assisted treatment of CErebral aneurysm (DAPTS ACE)"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomization was performed centrally through a web-based system."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients treated for cerebral aneurysm with SACE were enrolled from 17 hospitals in Japan."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "assigned in a 1:1 ratio to receive long-term (12 months) or short-term (3 months) DAPT with aspirin and clopidogrel."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to clarify whether long-term DAPT can reduce the occurrence of ischemic stroke in patients with cerebral aneurysms treated by SACE compared with short-term DAPT."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the time to ischemic stroke event during 3 to 12 months after SACE."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was performed centrally through a web-based system."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 142 patients were recruited from November 4, 2016 to January 7, 2019."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "65 and 68 patients assigned to the long- and short-term DAPT groups, respectively, were included in the full analysis set."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The incidence rate did not differ between the groups (0.0 vs 2.1/100 person-years; log rank test, P=0.33)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "This trial was registered with the Japan Registry of Clinical Trials (jRCTs051180141)."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

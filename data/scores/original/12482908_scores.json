@@ -1,0 +1,74 @@
+{
+  "pmcid": "12482908",
+  "sha256": "1977ff17114116b1341f32e48b383e1eac50ff7c7f6d170166ea75c83586d9a3",
+  "timestamp_utc": "2025-11-09T15:43:58.242223+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.029166666666669,
+    "reading_ease": 27.921377118644074,
+    "word_count": 354
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This multicentre randomized controlled trial (HAPIrect)"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Eligible patients with adenocarcinoma of the rectum located ≥ 5 cm from the anal verge and deemed unsuitable for anterior resection with anastomosis were randomized (1:1) intraoperatively to either HP or iAPE."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible patients with adenocarcinoma of the rectum located ≥ 5 cm from the anal verge and deemed unsuitable for anterior resection with anastomosis were randomized (1:1) intraoperatively to either HP or iAPE."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized (1:1) intraoperatively to either HP or iAPE."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this trial was to determine 30-day postoperative surgical complication rates after Hartmann’s procedure (HP) versus intersphincteric abdominoperineal excision (iAPE) in patients with rectal cancer who were not suitable for restorative surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 30-day postoperative surgical complications."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized (1:1) intraoperatively to either HP or iAPE."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 194 eligible patients, 163 were randomized (80 patients to HP and 83 to iAPE)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Logistic regression in the intention-to-treat population was the primary method used to compare the surgical approaches."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "In the HP and iAPE groups, the surgical complication rate was 39% and 43%, respectively (odds ratio (OR) for HP 0.83; 95% confidence interval (c.i.) 0.44 to 1.54; P = 0.549)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The overall complication rate (including both medical and surgical complications) was 45% and 49% in the HP and iAPE groups, respectively ( P = 0.574)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT01995396 ( http://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

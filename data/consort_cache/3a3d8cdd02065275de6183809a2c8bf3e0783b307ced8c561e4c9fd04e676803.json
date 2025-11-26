@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study describes occult lesion clinical data and evaluates characteristics so that surgeons can better incorporate this emerging technology into clinical decision making."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants (n = 100) enrolled in a phase 3 trial of IMI with pafolacianine during pulmonary resection"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Participants (n = 100) enrolled in a phase 3 trial of IMI with pafolacianine during pulmonary resection"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "phase 3 trial of IMI with pafolacianine during pulmonary resection"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study describes occult lesion clinical data and evaluates characteristics so that surgeons can better incorporate this emerging technology into clinical decision making."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants (n = 100) enrolled in a phase 3 trial"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "IMI identified 29 occult lesions in 23 (23%) participants."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There was no additional morbidity in participants with lesions resected."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Enabling Lung Cancer Identification Using Folate Receptor Targeting [ELUCIDATE]; NCT04241315"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

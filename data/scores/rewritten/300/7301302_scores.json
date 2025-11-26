@@ -1,0 +1,74 @@
+{
+  "pmcid": "7301302",
+  "sha256": "00eab0f1978d24eef4cf1ea70cada6de9dce239a18872479ba7ff5229eb606d9",
+  "timestamp_utc": "2025-11-10T00:05:32.733285+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.871600000000004,
+    "reading_ease": 34.92980000000003,
+    "word_count": 250
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Ursodeoxycholic Acid for Gallstone Prevention Post-Gastrectomy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "multicenter, randomised, double-blind, placebo-controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adults (≥19 years) with gastric cancer undergoing gastrectomy were enrolled from May 26, 2015, to January 9, 2017."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1:1 to receive 300 mg UDCA, 600 mg UDCA, or placebo daily for 52 weeks"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy and safety of ursodeoxycholic acid (UDCA) in preventing gallstone formation in gastric cancer patients post-gastrectomy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was gallstone formation within 12 months, assessed by ultrasonography."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation used a stratified block method, and allocation was concealed via an interactive web-response system."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included participants, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 521 randomised patients, 465 were analysed"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "465 were analysed (151 in 300 mg group, 164 in 600 mg group, 150 in placebo group) using intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Odds ratios were 0.27 (95% CI, 0.12-0.62; P = .002) for 300 mg and 0.20 (95% CI, 0.08-0.50; P < .001) for 600 mg."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse reactions were reported. The most common adverse event was nausea (0.8%), with no serious adverse reactions."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: NCT02490111."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

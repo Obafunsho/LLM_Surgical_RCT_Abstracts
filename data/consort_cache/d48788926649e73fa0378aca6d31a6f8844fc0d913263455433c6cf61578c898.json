@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Retrospective study for free flap reconstructions (2019 to 2022, tertiary referral center)."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "tertiary referral center"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to identify factors preventing complications to support clinical decision\u2010making."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "30\u2010day CFS was 63%."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 125 identified cases"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "female gender (HR: 9.4, CI: 2.6\u201333.5), alcohol abuse (HR: 3.5, CI: 1.4\u20138.4), N2\u20103 (HR: 2.4, CI: 1.3\u20134.4), obesity (HR: 2.1, CI: 0.9\u20135.1), preoperative anticoagulation (HR: 2.5, CI: 1.1\u20135.9)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Common complications were wound healing disorders (10.9%), hematoma (10%), total (7.3%) or partial (1.8%) flap necrosis, cardiovascular events (5.5%), and pulmonary artery embolism (4.5%)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

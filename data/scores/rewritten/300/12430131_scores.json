@@ -1,0 +1,74 @@
+{
+  "pmcid": "12430131",
+  "sha256": "3550e477b6d11c0b8fb8c49d25ba8dbfd1b9dda741f1a7ac7672b534dbefe523",
+  "timestamp_utc": "2025-11-09T23:37:42.234577+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.584258706467661,
+    "reading_ease": 7.198179104477646,
+    "word_count": 201
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Coenzyme Q10 Supplementation on Cognitive Function"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "CoQ10 supplementation"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of CoQ10 supplementation on cognitive function."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was cognitive function, measured over various timeframes."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation methods and allocation concealment were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Twelve studies demonstrated improved cognitive function, and two showed reduced oxidative stress with CoQ10 supplementation."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding sources were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding sources were not provided."
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

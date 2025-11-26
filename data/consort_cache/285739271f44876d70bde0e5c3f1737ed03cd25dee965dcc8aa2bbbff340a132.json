@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Oliceridine vs. Morphine for Postoperative GI Tolerability"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Conducted as two randomised, double-blind, placebo- and morphine-controlled phase 3 trials"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 18-75 years with Apfel scores \u22653"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive oliceridine (0.1, 0.35, 0.5 mg) or morphine (1 mg)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the gastrointestinal (GI) tolerability of oliceridine, a G-protein selective \u00b5-opioid receptor agonist, compared to morphine"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was \"complete GI response,\" defined as no vomiting and no use of rescue antiemetics, measured over 48 hours for bunionectomy and 24 hours for abdominoplasty"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealed using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 756 patients were randomised: 378 to oliceridine and 378 to morphine, between January 2018 and December 2019"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Adjusted analysis showed odds ratios of 3.14 (95% CI: 1.78, 5.56; p < 0.0001) for bunionectomy and 1.92 (95% CI: 1.09, 3.36; p = 0.024) for abdominoplasty"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported, with mild GI side-effects in 3% of the oliceridine group and 1% of the morphine group"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02335294"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Trevena, Inc."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Although depressive symptoms are common among those living with back pain, there is limited information on the relationship between postsurgical pain reduction and changes in depressive symptoms."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "The objective of this prospective cohort study was to examine the change in pain and depressive symptoms and to characterize the relationship between pain and depressive symptoms after lumbar spine surgery."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We assessed 260 individuals undergoing lumbar spine surgery preoperatively and postoperatively (3 and 6 months) using a pain intensity numeric rating scale and the Patient Health Questionnaire depression scale."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of this prospective cohort study was to examine the change in pain and depressive symptoms and to characterize the relationship between pain and depressive symptoms after lumbar spine surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We assessed 260 individuals undergoing lumbar spine surgery preoperatively and postoperatively (3 and 6 months) using a pain intensity numeric rating scale and the Patient Health Questionnaire depression scale."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We assessed 260 individuals undergoing lumbar spine surgery preoperatively and postoperatively (3 and 6 months) using a pain intensity numeric rating scale and the Patient Health Questionnaire depression scale."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 6 months, individuals who experienced a reduction in pain (63%) were nearly twice as likely to experience a reduction in depressive symptoms (odds ratio 1.93, 95% CI 1.15 to 3.25) as those who experienced no change or an increase in pain (31%)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

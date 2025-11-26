@@ -1,0 +1,21 @@
+{
+  "pmcid": "5141368",
+  "pmid": "26888675",
+  "title": "Motion Predicts Clinical Callus Formation",
+  "abstract": "Background:: Mechanotransduction is theorized to influence fracture-healing, but optimal fracture-site motion is poorly defined. We hypothesized that three-dimensional (3-D) fracture-site motion as estimated by finite element (FE) analysis would influence callus formation for a clinical series of supracondylar femoral fractures treated with locking-plate fixation.\n\nMethods:: Construct-specific FE modeling simulated 3-D fracture-site motion for sixty-six supracondylar femoral fractures (OTA/AO classification of 33A or 33C) treated at a single institution. Construct stiffness and directional motion through the fracture were investigated to assess the validity of construct stiffness as a surrogate measure of 3-D motion at the fracture site. Callus formation was assessed radiographically for all patients at six, twelve, and twenty-four weeks postoperatively. Univariate and multivariate linear regression analyses examined the effects of longitudinal motion, shear (transverse motion), open fracture, smoking, and diabetes on callus formation. Construct types were compared to determine whether their 3-D motion profile was associated with callus formation.\n\nResults:: Shear disproportionately increased relative to longitudinal motion with increasing bridge span, which was not predicted by our assessment of construct stiffness alone. Callus formation was not associated with open fracture, smoking, or diabetes at six, twelve, or twenty-four weeks. However, callus formation was associated with 3-D fracture-site motion at twelve and twenty-four weeks. Longitudinal motion promoted callus formation at twelve and twenty-four weeks (p = 0.017 for both). Shear inhibited callus formation at twelve and twenty-four weeks (p = 0.017 and p = 0.022, respectively). Titanium constructs with a short bridge span demonstrated greater longitudinal motion with less shear than did the other constructs, and this was associated with greater callus formation (p < 0.001).\n\nConclusions:: In this study of supracondylar femoral fractures treated with locking-plate fixation, longitudinal motion promoted callus formation, while shear inhibited callus formation. Construct stiffness was found to be a poor surrogate of fracture-site motion. Future implant design and operative fixation strategies should seek to optimize 3-D fracture-site motion rather than rely on surrogate measures such as axial stiffness.",
+  "authors": [
+    "Jacob Elkins",
+    "J. Lawrence Marsh",
+    "Trevor Lujan",
+    "Richard Peindl",
+    "James Kellam",
+    "Donald D. Anderson",
+    "William Lack"
+  ],
+  "journal": "The Journal of Bone and Joint Surgery. American volume",
+  "year": "2016",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

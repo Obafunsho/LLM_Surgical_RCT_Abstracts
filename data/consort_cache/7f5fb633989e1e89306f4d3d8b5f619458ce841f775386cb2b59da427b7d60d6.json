@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Supra-Annular and Intra-Annular Aortic Valve Replacement"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective observational study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "involving 113 patients over 18 years who underwent isolated AVR between March 2013 and June 2019"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were divided into supra-annular (n=59) and intra-annular (n=54) groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the early outcomes of supra-annular versus intra-annular aortic valve replacement (AVR)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the difference in postoperative complications and echocardiographic findings at one month"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable due to the study's retrospective nature"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable due to the study's retrospective nature"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable due to the study's retrospective nature"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Patients were divided into supra-annular (n=59) and intra-annular (n=54) groups"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The supra-annular group had significantly longer cross-clamp (74.44\u00b115.71 min) and cardiopulmonary bypass times (106.98\u00b122.06 min) compared to the intra-annular group (48.31\u00b113.21 min and 76.63\u00b123.41 min, respectively; p<0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "No trial registration or funding information was provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "No trial registration or funding information was provided"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

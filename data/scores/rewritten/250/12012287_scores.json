@@ -1,0 +1,74 @@
+{
+  "pmcid": "12012287",
+  "sha256": "bb42d7eb7d937cae0cc79568818317ffb49cafafdad6d11a7c6c7455467ad3fb",
+  "timestamp_utc": "2025-11-09T22:12:49.475043+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.868054298642534,
+    "reading_ease": 11.575475113122195,
+    "word_count": 221
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Pulsatile vs Nonpulsatile Cardiopulmonary Bypass in Pediatric Congenital Heart Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 159 pediatric patients (<18 years) undergoing cardiac surgery at Penn State Health Children's Hospital were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "159 pediatric patients (<18 years) undergoing cardiac surgery at Penn State Health Children's Hospital"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to pulsatile (n=83) or nonpulsatile (n=76) CPB"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the impact of pulsatile versus nonpulsatile cardiopulmonary bypass (CPB) on cerebral hemodynamics and clinical outcomes in pediatric patients with congenital heart disease (CHD)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was organ injury, measured by the Pediatric Logistic Organ Dysfunction-2 (PELOD-2) score at 24, 48, and 72 hours postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "159 pediatric patients (<18 years) undergoing cardiac surgery at Penn State Health Children's Hospital were randomised to pulsatile (n=83) or nonpulsatile (n=76) CPB"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The pulsatility index was higher in the pulsatile group (p<0.05), but no significant differences were observed in regional cerebral oxygen saturation, mean arterial pressure, or gaseous microemboli counts"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00862407"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

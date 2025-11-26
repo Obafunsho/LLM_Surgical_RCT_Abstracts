@@ -1,0 +1,74 @@
+{
+  "pmcid": "10633416",
+  "sha256": "2173d812702ba8033daa31b358f776ab02c08ae1fc8d7a73e4c6748b18ef5e7f",
+  "timestamp_utc": "2025-11-09T15:10:12.049235+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.998531746031748,
+    "reading_ease": 37.09160714285716,
+    "word_count": 378
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This was a single-institution, randomized clinical trial with 1-year follow-up conducted from September 2017 to September 2022."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients aged 11 to 21 years with pilonidal disease were recruited from a single tertiary children’s hospital."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Intervention: LE and standard care (improved hygiene and mechanical or chemical depilation) or standard care alone."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To compare the effectiveness of laser epilation (LE) as an adjunct to standard care vs standard care alone in preventing recurrence of pilonidal disease in adolescents and young adults."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of recurrence of pilonidal disease at 1 year."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 302 participants (median [IQR] age, 17 [15-18] years; 157 male [56.1%]) with pilonidal disease were enrolled; 151 participants were randomly assigned to each intervention group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "One-year follow-up was available for 96 patients (63.6%) in the LE group and 134 (88.7%) in the standard care group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The proportion of patients who experienced a recurrence within 1 year was significantly lower in the LE treatment arm than in the standard care arm (−23.2%; 95% CI, −33.2 to −13.1; P < .001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "These results provide further evidence that LE is safe and well tolerated in patients with pilonidal disease."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT03276065"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

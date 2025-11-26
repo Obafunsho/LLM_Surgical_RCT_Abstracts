@@ -1,0 +1,74 @@
+{
+  "pmcid": "5174034",
+  "sha256": "f6041048acdcaa2705c875166013b01fe7967e13fbcf601e192080cd20a94687",
+  "timestamp_utc": "2025-11-09T23:56:49.165489+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.871799724029177,
+    "reading_ease": 27.807534003548227,
+    "word_count": 267
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Oral Antibiotics After Two-Stage Exchange Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive 3 months of oral antibiotics or no antibiotics after negative operative cultures at reimplantation."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adult patients undergoing two-stage hip or knee revision arthroplasty for PJI, meeting Musculoskeletal Infection Society (MSIS) criteria"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive 3 months of oral antibiotics or no antibiotics after negative operative cultures at reimplantation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether a 3-month course of oral antibiotics post-reimplantation reduces infection recurrence."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was infection-free survival, assessed over a mean follow-up of 14 months for the antibiotic group and 10 months for the control group."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 107 patients were randomised: 59 to the antibiotic group and 48 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was performed on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Infection recurrence was lower in the antibiotic group (5% [three of 59] vs. 19% [nine of 48]; hazard ratio, 4.37; 95% CI, 1.297–19.748; p = 0.016)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Three patients experienced adverse reactions to antibiotics, leading to discontinuation, and four did not adhere to the regimen."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

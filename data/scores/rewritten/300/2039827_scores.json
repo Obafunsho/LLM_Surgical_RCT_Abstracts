@@ -1,0 +1,74 @@
+{
+  "pmcid": "2039827",
+  "sha256": "45bfc19a542da4d0e50125e8ef46d9fba1dce6240c6af0ed8d012bf6629cd04d",
+  "timestamp_utc": "2025-11-09T23:44:18.447023+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.769942140790743,
+    "reading_ease": 36.242174541947946,
+    "word_count": 244
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Oxaliplatin, Capecitabine, and Radiotherapy in Neoadjuvant Treatment for Rectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Conducted as a phase I/II trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with T3-4 rectal cancer were recruited from four centers. Eligibility criteria included histologically confirmed adenocarcinoma within 15 cm of the anal sphincter."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Oxaliplatin was administered on days 1 and 29 with a fixed capecitabine dose of 1000 mg/m² twice daily on days 1–14 and 25–38, alongside 50.4 Gy radiotherapy."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the R0 resection rate, assessed in phase II."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From June 2003 to December 2004, 22 patients were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "21 evaluable for outcomes"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "17/21 patients achieved R0 resection (81%, 95% CI 58–95%)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The main toxicity was grade III diarrhea, occurring in 18% of patients."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

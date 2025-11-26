@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "single-blind, parallel-arm, superiority randomized clinical trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-blind, parallel-arm, superiority randomized clinical trial recruited patients undergoing colorectal cancer resection from September 7, 2015, through June 19, 2019."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing colorectal cancer resection from September 7, 2015, through June 19, 2019. Patients were followed up for 4 weeks before surgery and 4 weeks after surgery at 2 university-affiliated tertiary hospitals."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Multimodal program involving exercise, nutritional, and psychological interventions initiated before (Prehab group) or after (Rehab group) surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the extent to which a prehabilitation program affects 30-day postoperative complications in frail patients undergoing colorectal cancer resection compared with postoperative rehabilitation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome included the Comprehensive Complications Index measured at 30 days after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "120 frail patients (Fried Frailty Index, \u2265 2) were randomized."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "single-blind"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "120 frail patients (Fried Frailty Index, \u2265 2) were randomized."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "110 patients were included in the intention-to-treat analysis (55 in the prehabilitation [Prehab] and 55 in the rehabilitation [Rehab] groups)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There was no between-group difference in the primary outcome measure, 30-day Comprehensive Complications Index (adjusted mean difference, \u20133.2; 95% CI, \u201311.8 to 5.3; P =\u2009.45)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov identifier: NCT02502760"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

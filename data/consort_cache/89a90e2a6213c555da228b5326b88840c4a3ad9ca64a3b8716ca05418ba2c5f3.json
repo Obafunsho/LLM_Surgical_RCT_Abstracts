@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Adjusted Donor Lung Weight on Primary Graft Dysfunction in Lung Transplantation"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "194 bilateral lung transplantations were performed at Sahlgrenska University Hospital, Sweden, from January 2014 to May 2021"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the relationship between adjusted donor lung weight and PGD outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of PGD (grades II and III) within 72 hours post-transplant."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable due to the retrospective design."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable due to the retrospective design."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "194 bilateral lung transplantations were performed"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The incidence of PGD was significantly higher in the \"high-weight\" group (22.9%) compared to the \"low-weight\" group (8.9%) (p = 0.020)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by Sahlgrenska University Hospital foundations, The Gothenburg Society of Medicine, and the Swedish Heart-Lung Foundation."
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

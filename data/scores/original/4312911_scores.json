@@ -1,0 +1,74 @@
+{
+  "pmcid": "4312911",
+  "sha256": "15bad4f3f0a042d309bd0352df82461fdc7f3c25f30d61587c16a2abbddcda22",
+  "timestamp_utc": "2025-11-09T15:58:40.265096+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.25718411552347,
+    "reading_ease": 9.288558733685136,
+    "word_count": 277
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This multicentre international randomized trial compared the impact of gadoxetic acid-enhanced magnetic resonance imaging (MRI), MRI with extracellular contrast medium (ECCM-MRI) and contrast-enhanced computed tomography (CE-CT) as a first-line imaging method in patients with suspected colorectal cancer liver metastases (CRCLM)."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Between October 2008 and September 2010, patients with suspected CRCLM were randomized to one of the three imaging modalities."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients with suspected CRCLM"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to one of the three imaging modalities"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was the proportion of patients for whom further imaging after initial imaging was required for a confident diagnosis."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 360 patients were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Efficacy was analysed in 342 patients"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Further imaging was required in 0 of 118, 19 (17·0 per cent) of 112 and 44 (39·3 per cent) of 112 patients respectively ( P < 0·001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT00764621 ( http://clinicaltrials.gov ); EudraCT number: 2008-000583-16 ( https://eudract.ema.europa.eu/ )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

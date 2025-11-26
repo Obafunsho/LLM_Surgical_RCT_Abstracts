@@ -1,0 +1,74 @@
+{
+  "pmcid": "1283103",
+  "sha256": "fa1faba97867673bee65eb74bf0fcb43f10a6c2de61a8ec308c387fffe733ccb",
+  "timestamp_utc": "2025-11-09T23:43:09.530173+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.082688534641328,
+    "reading_ease": 30.909023605150225,
+    "word_count": 233
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Ketamine and Nefopam for Potentiating Opioid Analgesia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "200 participants were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at [Study Setting], this randomised controlled trial included adults eligible for opioid analgesia."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "100 to receive ketamine 10 mg and 100 to receive nefopam 20 mg."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of this study was to evaluate the efficacy and safety of ketamine and nefopam in enhancing opioid analgesia."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the reduction in opioid requirement over a 24-hour period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was maintained for patients and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 100 to receive ketamine 10 mg and 100 to receive nefopam 20 mg."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "An intention-to-treat analysis was performed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Both ketamine and nefopam reduced opioid requirements by approximately 40% (mean difference = [value], 95% CI [range]; p = [value])."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "In the ketamine group, sedation was reported, while the nefopam group experienced tachycardia and sweating."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This study was supported by [Funding Source]."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

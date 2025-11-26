@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Preoperative Enema in Anal Surgery: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to receive either a preoperative enema (n=133) or no enema (n=133)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adults aged 20\u201385 years with grade III or IV haemorrhoids or anal fistulas. Conducted at Taipei Medical University Shuang-Ho Hospital, Taiwan"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either a preoperative enema (n=133) or no enema (n=133)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to evaluate the efficacy of preoperative enemas in anal surgeries"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative pain measured by the visual analogue scale (VAS) from day 0 to day 7."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Surgeons and data analysts were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either a preoperative enema (n=133) or no enema (n=133). Conducted at Taipei Medical University Shuang-Ho Hospital, Taiwan, between November 2022 and August 2023"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 266 patients analysed"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "no significant differences were found in VAS scores, analgesic consumption, or complications between groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Secondary outcomes included postoperative complications such as infection, bleeding, and urinary retention."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT05602987"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

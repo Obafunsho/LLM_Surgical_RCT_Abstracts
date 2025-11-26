@@ -1,0 +1,74 @@
+{
+  "pmcid": "9246793",
+  "sha256": "5cb67998b4a67feb8f9f39f311543bb8598d91c14b9bddc7e44386db4d4acf31",
+  "timestamp_utc": "2025-11-10T00:11:52.514718+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.922127799736497,
+    "reading_ease": 37.200474308300414,
+    "word_count": 264
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of PlasmaJet in Cytoreductive Surgery for Advanced Ovarian Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Conducted as a multicenter, single-blinded, randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "327 patients with FIGO stage IIIB–IV epithelial ovarian cancer"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to undergo primary or interval CRS with (intervention) or without (control) PlasmaJet"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine if the adjuvant use of a neutral argon plasma device (PlasmaJet) enhances the rate of complete cytoreductive surgery (CRS) in patients with advanced-stage ovarian cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of complete CRS, assessed immediately post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was executed using block randomisation with stratification"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "patients were blinded to their group allocation"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between February 2018 and September 2020, 190 patients were randomised to the intervention group and 193 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Per-protocol analysis excluding patients with unresectable disease showed 85.6% in the intervention group versus 71.5% in the control group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Complete CRS was achieved in 75.8% of the intervention group compared to 67.6% of the control group (risk difference 8.2%, 95% CI –0.021 to 0.181; P = 0.131)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, with no significant differences observed."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: NL62035.078.17."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: ZonMw."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

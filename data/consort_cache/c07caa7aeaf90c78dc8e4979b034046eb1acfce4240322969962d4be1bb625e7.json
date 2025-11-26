@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intravenous Preemptive Analgesia in Vitreoretinal Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "165 patients were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients undergoing vitreoretinal surgery (VRS) under general anesthesia (GA)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "AoA-guided GA with IPA of 1 g paracetamol, 2.5 g metamizole, or both"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed the effect of intravenous preemptive analgesia (IPA)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of PONV, OCR, and OER within 24 hours postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation used sealed envelopes, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was applied to outcome assessors and patients"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "165 patients were randomly assigned... Data collection spanned January 2018 to December 2022"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 153 patients analyzed... The analysis was per-protocol"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "PONV occurred in 4%, OCR in 10%, and OER in 0%... The effect size for PONV was not significant between groups"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were minimal and similar across groups"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT03389243"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

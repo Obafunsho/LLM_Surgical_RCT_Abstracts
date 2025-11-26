@@ -1,0 +1,74 @@
+{
+  "pmcid": "6593699",
+  "sha256": "155fa509411ba9e5297b2b067be0dfe26d6dd3f80d90affec9a024e5330debdf",
+  "timestamp_utc": "2025-11-09T22:51:18.336948+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.554522821576764,
+    "reading_ease": 23.7329843600383,
+    "word_count": 241
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Magnetic Seed Localization for Index Node Removal in Stage III Melanoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to one of three ipilimumab plus nivolumab combination schemes."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Twelve patients with resectable stage III melanoma and measurable lymph node metastasis were recruited at the Netherlands Cancer Institute."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to one of three ipilimumab plus nivolumab combination schemes."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This pilot study evaluated the feasibility of using magnetic seed localization for targeted index lymph node removal as a response indicator after neoadjuvant checkpoint inhibition therapy in patients with stage III melanoma."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the congruence of therapeutic response between the index node and the total lymph node basin, assessed using the International Neoadjuvant Melanoma Consortium scoring system."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to one of three ipilimumab plus nivolumab combination schemes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twelve patients with resectable stage III melanoma and measurable lymph node metastasis were recruited at the Netherlands Cancer Institute."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All 12 magnetic seeds were successfully detected and removed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Seven patients achieved a pathological complete response (pCR), three had a near-pCR, one had a pathological partial response, and one had no response."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to the magnetic seed localization were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NL58293.031.16"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

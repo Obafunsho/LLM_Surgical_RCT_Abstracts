@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients (N=383) undergoing SAVR (41% received concomitant CABG) enrolled in a randomized trial"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients (N=383) undergoing SAVR"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "enrolled in a randomized trial of embolic protection devices"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Here we assess the impact of post-operative stroke and delirium on these health outcomes in SAVR patients at 90 days."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Outcomes included 90-day functional status, neurocognitive decline from pre-surgical baseline, and quality of life (QoL)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Patients (N=383) undergoing SAVR"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At day 90, stroke patients were more likely to have a modified Rankin score >2 (OR 5.9;95% CI 1.7\u201320.1;p=0.01), depression (OR 5.3;95% CI 1.6\u201317.3;p=0.006), a lower 12-Item Short Form Survey (SF-12) physical health score (adjusted mean difference \u22123.3\u00b11.9;p=0.08) and neurocognitive decline (OR 7.8;95% CI 2.3\u201326.4;p=0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

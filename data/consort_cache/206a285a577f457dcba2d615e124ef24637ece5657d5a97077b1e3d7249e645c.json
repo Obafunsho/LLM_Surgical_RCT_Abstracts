@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Magnetic Seed Localization for Index Node Removal in Stage III Melanoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "12 patients with resectable stage III melanoma and measurable lymph node metastasis were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "12 patients with resectable stage III melanoma and measurable lymph node metastasis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to one of three ipilimumab plus nivolumab combination schemes"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This pilot study assessed the feasibility and reliability of magnetic seed localization"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the congruence of therapeutic response between the index node and the total lymph node basin"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomization and allocation concealment methods were not specified"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "12 patients with resectable stage III melanoma"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All 12 magnetic seeds were successfully detected and removed"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The index node response was congruent with the total basin response in all cases"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to the magnetic seed localization were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NL58293.031.16"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

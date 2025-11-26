@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of L-Ornithine-L-Aspartate in a Rat Model of Hind Limb Ischemia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Male Sprague Dawley rats (n=21) were randomly assigned to three groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Male Sprague Dawley rats (n=21) were randomly assigned to three groups"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to three groups: control (normal saline), sorbitol, and LOLA"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of L-Ornithine-L-Aspartate (LOLA) in improving angiogenesis and perfusion in a rat model of hind limb ischemia (HLI)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Perfusion imaging was conducted on PODs 7 and 14."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was stratified by body weight"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Male Sprague Dawley rats (n=21) were randomly assigned to three groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Group 3 (LOLA) showed a significant increase in perfusion recovery (mean difference = 13.77, 95% CI 1.23 to 26.31; p < 0.05)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

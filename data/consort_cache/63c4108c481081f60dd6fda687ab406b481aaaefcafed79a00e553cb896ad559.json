@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Diazoxide Cardioprotection in Mouse Models of Global Ischemia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomised controlled trial involved isolated mouse myocytes and hearts."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Myocytes were exposed to Tyrode's solution, hyperkalemic cardioplegia (CPG) \u00b1 diazoxide, \u00b1 VU591 (Kir1.1 inhibitor), and Tyrode's solution again."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to clarify its mechanism of action in cardiac surgery settings."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Myocyte contractility was reduced by CPG but preserved by diazoxide."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Investigators were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "In hearts, diazoxide improved left ventricular function post-ischemia in all mouse types."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

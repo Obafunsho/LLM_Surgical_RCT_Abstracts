@@ -1,0 +1,74 @@
+{
+  "pmcid": "1739553",
+  "sha256": "2ce1c85eb41eb9977e7239ee0b7a42c9dafe86fb4b5b2aafc6d08fc4372f7fc7",
+  "timestamp_utc": "2025-11-09T15:47:04.668275+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.749807692307694,
+    "reading_ease": 32.047275641025664,
+    "word_count": 286
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: To define the role of magnetic resonance imaging (MRI) and intraoperative electrophysiological recording in targeting the subthalamic nucleus (STN) in Parkinson's disease and to determine accuracy of electrode placement."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean of the final target after electrophysiological correction was 11.7 mm lateral, 2.1 mm posterior, and 3.8 mm inferior to the mid-point."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No postoperative MRI related complication was observed."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  }
+}

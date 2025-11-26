@@ -1,0 +1,74 @@
+{
+  "pmcid": "10288861",
+  "sha256": "7f295c1347a0c44be67ce576e854a12322a3fd63fbcdeedf5fc79523ce77d150",
+  "timestamp_utc": "2025-11-09T21:52:31.894292+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.667336065573775,
+    "reading_ease": 24.236577868852493,
+    "word_count": 244
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Neoadjuvant Atezolizumab in Resectable Non-Small Cell Lung Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This phase II multicenter single-arm study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "enrolled patients with stage IB to select IIIB resectable NSCLC and Eastern Cooperative Oncology Group performance status 0/1"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants received atezolizumab 1200 mg intravenously every 3 weeks for 2 cycles, followed by surgical resection."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial evaluates the safety and efficacy of neoadjuvant atezolizumab in resectable NSCLC."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was major pathological response (MPR) in patients without EGFR/ALK alterations, assessed approximately 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From April 2017 to February 2020, 181 patients were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the primary efficacy population (n=143)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "the MPR rate was 20% (29/143; 95% CI, 14-28)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were recorded using Common Terminology Criteria for Adverse Events v.4.0."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10804009",
+  "sha256": "5d4d82159d03d1421578769f4d1c4c9bbf6a8d2b778f19fd77ae126463321379",
+  "timestamp_utc": "2025-11-09T15:12:09.272597+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.44164964650432,
+    "reading_ease": 38.15472505891597,
+    "word_count": 268
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "They were randomly separated into two groups based on endovascular techniques performed with and without DEB."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Between 2017 and 2021, we prospectively recruited patients with severe PIRCS for PTAS."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "They were randomly separated into two groups based on endovascular techniques performed with and without DEB."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To investigate the technical safety and outcome of in-stent restenosis (ISR) prevention with drug-eluting balloon (DEB) in patients with postirradiated carotid stenosis (PIRCS) undergoing percutaneous angioplasty and stenting (PTAS)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Preprocedural and early postprocedural (within 24 hours) MRI, short-term ultrasonography (6 months after PTAS), and long-term CT angiography (CTA)/MR angiography (MRA), 12 months after PTAS, were performed."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Sixty-six (30 with and 36 without DEB) subjects were enrolled, with one failure in techniques."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "For 65 patients in the DEB versus conventional groups, technical neurological symptoms within 1 month (1/29 (3.4%) vs 0/36; P=0.197) and REIL numbers within 24 hours (1.0±2.1 vs 1.3±1.5; P=0.592) after PTAS showed no differences."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The degree of in-stent stenosis (45.93±20.86 vs 26.58±8.75; P<0.001) was higher, and there were more subjects (n=8, 38.9% vs 1, 3.4%; P=0.029) with significant ISR (≥ 50%) in the conventional group than in the DEB group on long-term CTA/MRA."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Technical safety was evaluated based on periprocedural neurological complications and the number of recent embolic ischemic lesions (REIL) in the treated brain territory on diffusion-weighted imaging of early postprocedural MRI."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

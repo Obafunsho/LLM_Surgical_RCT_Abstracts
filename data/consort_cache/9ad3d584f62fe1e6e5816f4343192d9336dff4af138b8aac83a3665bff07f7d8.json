@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The TWO Study (Transplantation Without Overimmunosuppression) aimed to investigate a novel approach to regulatory T-cell (Treg) therapy in renal transplant patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Living donor kidney transplant recipients were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Living donor kidney transplant recipients"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive autologous polyclonal Treg at week 26 posttransplantation, coupled with weaning doses of tacrolimus, (Treg therapy arm) or standard immunosuppression alone (tacrolimus and mycophenolate mofetil)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to investigate a novel approach to regulatory T-cell (Treg) therapy in renal transplant patients"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Primary outcomes were patient survival and rejection-free survival"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized to receive autologous polyclonal Treg"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "we report the unique cohort of 7 patients who underwent the original randomized controlled trial protocol"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Patient and transplant survival was 100%. Acute rejection-free survival was 100% in the Treg-treated group at 18 mo after transplantation"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

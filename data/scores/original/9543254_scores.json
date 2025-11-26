@@ -1,0 +1,74 @@
+{
+  "pmcid": "9543254",
+  "sha256": "e303fd0eefae51ed9caa538fabf61f899d5b6bac7d3101d4c9f7db721df1a5de",
+  "timestamp_utc": "2025-11-09T16:21:34.988479+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.167046101309051,
+    "reading_ease": 36.28899070385128,
+    "word_count": 251
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We conducted a double‐blind, randomised feasibility trial comparing peri‐operative angiotensin‐2 with noradrenaline."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomly allocated 60 patients at two centres to a blinded equipotent angiotensin‐2 or noradrenaline infusion."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "We randomly allocated 60 patients at two centres to a blinded equipotent angiotensin‐2 or noradrenaline infusion intra‐operatively and for up to 48 h postoperatively."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We conducted a double‐blind, randomised feasibility trial comparing peri‐operative angiotensin‐2 with noradrenaline."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Primary feasibility outcomes included consent rate, protocol adherence, infusion duration, mean arterial pressure maintenance in the target range and major adverse outcomes."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomly allocated 60 patients at two centres to a blinded equipotent angiotensin‐2 or noradrenaline infusion."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "We conducted a double‐blind, randomised feasibility trial."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomly allocated 60 patients at two centres."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Acute kidney injury occurred in 7 of 28 in the angiotensin‐2 group vs. 12 of 32 patients in the noradrenaline group."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Acute kidney injury occurred in 7 of 28 in the angiotensin‐2 group vs. 12 of 32 patients in the noradrenaline group (p = 0.31)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One participant had a stroke, one required extracorporeal support and three required renal replacement therapy, all in the noradrenaline group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

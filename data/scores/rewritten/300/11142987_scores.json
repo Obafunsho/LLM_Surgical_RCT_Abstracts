@@ -1,0 +1,74 @@
+{
+  "pmcid": "11142987",
+  "sha256": "9e229affaa2ff91dc1ba28fe456a21b0bacdfbab83702fd5ce10d7c34899a4c8",
+  "timestamp_utc": "2025-11-09T23:12:50.858447+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.817579976303321,
+    "reading_ease": 26.655374703791495,
+    "word_count": 211
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Nicotinamide Riboside in Cardiac Ischemia-Reperfusion Injury"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Mice were randomised to receive either NR (50 mg/L) or vehicle control."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "C57BL6/N adult male mice were used."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Mice were randomised to receive either NR (50 mg/L) or vehicle control."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates NR's ability to protect isolated mouse hearts from ischemia-reperfusion (IR) injury."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was infarct size, assessed by TTC staining after 90 minutes of reperfusion."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixteen mice were randomised, with 8 assigned to each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Sixteen mice were randomised, with 8 assigned to each group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "NR treatment significantly reduced infarct size compared to control (mean difference = 15%, 95% CI 10% to 20%; p < 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were observed in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by institutional grants."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

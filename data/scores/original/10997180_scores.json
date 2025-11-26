@@ -1,0 +1,74 @@
+{
+  "pmcid": "10997180",
+  "sha256": "53ef8327c34de2ad853431c670058ed17c08ccf5714b36260ff4685488d26f3d",
+  "timestamp_utc": "2025-11-09T15:13:53.331498+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.675109231853419,
+    "reading_ease": 25.076004228329822,
+    "word_count": 258
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods:: The No.2-Trial was a multicenter, open-label, pragmatic, randomized trial performed in 2 Dutch hospitals."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Methods:: The No.2-Trial was a multicenter, open-label, pragmatic, randomized trial performed in 2 Dutch hospitals."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Sixty-seven patients with idiopathic STC, a defecation frequency <3 per week and refractory (ie, unresponsive) to maximal conservative (nonoperative) treatment were included. Exclusion criteria included outlet obstruction, rectal prolapse, and previous colon surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomized (3:2) to SNM (n=41) or PCT (n=26) with randomization minimization."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective:: Assess the effectiveness of sacral neuromodulation (SNM) versus personalized conservative treatment (PCT) in patients with refractory idiopathic slow-transit constipation (STC)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was treatment success (defined as average defecation frequency ≥3 per week) after 6 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomized (3:2) to SNM (n=41) or PCT (n=26) with randomization minimization."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Methods:: The No.2-Trial was a multicenter, open-label, pragmatic, randomized trial performed in 2 Dutch hospitals."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Patients were randomized (3:2) to SNM (n=41) or PCT (n=26) with randomization minimization between February 21, 2017 and March 12, 2020."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was according to intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "After 6 months, 22 (53.7%) patients were successfully treated with SNM versus 1 (3.8%) patient with PCT (odds ratio 36.4, 95% CI 3.4–387.5, P =0.003)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Eight serious adverse events (6 SNM, 2 PCT) and 78 adverse events (68 SNM, 10 PCT) were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "No.2-Trial registered at ClinicalTrials.gov NCT02961582."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "One hundred and forty patients scheduled hysteroscopy under monitored anesthesia care were randomized"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "One hundred and forty patients scheduled hysteroscopy under monitored anesthesia care"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive a bolus of 8 \u00b5g\u00b7kg \u22121 , 10 \u00b5g\u00b7kg \u22121 , 12 \u00b5g\u00b7kg \u22121 , 14 \u00b5g\u00b7kg \u22121 intravenous alfentanil or 0.15 \u00b5g\u22c5kg \u22121 intravenous sufentanil"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The object of the trial was to determine the median effective dose (ED 50 ) and the 95% effective dose (ED 95 ) of alfentanil"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Whether there was loss of response to cervical dilation or not in each patient was recorded"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One hundred and forty patients scheduled hysteroscopy under monitored anesthesia care were randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The calculated ED 50 and ED 95 of alfentanil were 9.73 [95% CI 8.57 to 10.56] \u00b5g\u00b7kg \u22121 and 15.02 [95% CI 13.57 to 18.12] \u00b5g\u00b7kg \u22121 , respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The incidence of intraoperative hypotension was lower"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The study was then registered on January 24, 2024 at the Chinese Clinical Trial Registry"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

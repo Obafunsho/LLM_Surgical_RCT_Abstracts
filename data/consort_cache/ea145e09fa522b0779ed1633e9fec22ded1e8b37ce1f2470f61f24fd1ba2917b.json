@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of VOC Profiling in E. coli Strains"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted at the Anesthesiology and Intensive Care Unit of the 10th Military Research Hospital and Polyclinic in Bydgoszcz, Poland."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included reference strains and 21 clinical isolates of Escherichia coli from VAP patients."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "VOCs were analyzed using gas chromatography\u2013mass spectrometry (GC-MS) at seven time points over 24 hours."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study explores volatile organic compounds (VOCs) as biomarkers for pathogen identification and treatment monitoring."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the identification of VOC emission patterns."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "A total of 57 VOCs were identified from the susceptible strain and 41 from the resistant strain."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

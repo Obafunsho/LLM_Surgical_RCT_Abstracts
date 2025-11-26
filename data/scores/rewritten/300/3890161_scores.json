@@ -1,0 +1,74 @@
+{
+  "pmcid": "3890161",
+  "sha256": "c003251d5fbbafa40821cfba3a54023386d6e67e79b09ae049529b7243fc2309",
+  "timestamp_utc": "2025-11-09T23:51:30.135210+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.298586497890295,
+    "reading_ease": 30.339187763713085,
+    "word_count": 237
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Infrapatellar Fat Pad Excision in Minimally Invasive Total Knee Arthroplasty: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised into two groups: 45 patients with complete infrapatellar fat pad excision and 45 without."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial was conducted at a single institution, involving 90 patients undergoing MIS TKA."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised into two groups: 45 patients with complete infrapatellar fat pad excision and 45 without."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was anterior knee pain, assessed at 6 weeks, 3 months, 6 months, and 1 year postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomised into two groups: 45 patients with complete infrapatellar fat pad excision and 45 without."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Complete follow-up data were available for 77 of 90 patients (86%). The analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "However, the excision group experienced more anterior knee pain (8.3% versus 0%; p = 0.03; 95% CI, −0.007 to 0.174)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No patellar complications were observed in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

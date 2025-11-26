@@ -1,0 +1,74 @@
+{
+  "pmcid": "10027760",
+  "sha256": "18044ab44c2dd5c14e8cd445ed81330a153717f12bf6fee5f05e05438166df17",
+  "timestamp_utc": "2025-11-09T15:04:38.566425+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.65089285714286,
+    "reading_ease": 26.803482142857177,
+    "word_count": 266
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 15 pediatric patients with melanoma, squamous cell carcinoma, and sarcoma were prospectively included."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "15 pediatric patients with melanoma, squamous cell carcinoma, and sarcoma were prospectively included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Preoperatively, patients were injected with ICG–TC and imaging with lymphoscintigraphy and single-photon emission computed tomography– computed tomography was performed."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "our aim is to determine the feasibility of the addition of ICG to 99m technetium nanocolloid (ICG–TC) for visual detection of SLN in pediatric patients."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Postoperatively, fluorescence was quantified by tumor-to-background ratio (TBR) and surgeons evaluated the use of ICG using a standardized questionnaire."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 15 pediatric patients with melanoma, squamous cell carcinoma, and sarcoma were prospectively included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "In 10/15 (67%) patients, SLNs were visible transcutaneously. Of all intraoperatively detected SLNs, 35/37 (95%) were fluorescent and 37/37 (100%) were radioactive."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "no adverse events occurred."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "S0220 was designed to incorporate an active systemic agent, (docetaxel) as consolidation therapy."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The accrual goal was 45 eligible patients."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with histologically-proven and radiologically-defined T3-T4, N0-N1, M0 SS NSCLC underwent induction therapy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Induction therapy with cisplatin-etoposide, concurrently with thoracic RT 45 Gy. Non-progressing patients underwent surgical resection within 7 weeks. Consolidation consisted of docetaxel every 3 weeks for 3 doses."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The primary objective was feasibility."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary objective was feasibility."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 46 patients registered, 44 were eligible and assessable; 38 (86%) completed induction."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 46 patients registered, 44 were eligible and assessable; 38 (86%) completed induction."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The 3-year progression-free survival is 56% and 3-year overall survival is 61%."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "2 (7%) died of ARDS."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

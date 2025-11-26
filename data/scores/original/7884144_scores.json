@@ -1,0 +1,74 @@
+{
+  "pmcid": "7884144",
+  "sha256": "42b73729251e2e7bd4b07d666d53f1d00564fd865968afdbba4c31ffc62babf4",
+  "timestamp_utc": "2025-11-09T16:15:42.351873+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.702645502645506,
+    "reading_ease": 34.22476190476192,
+    "word_count": 189
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The study is a sub analysis of patients enrolled in the Epo Severe TBI Trial (n = 200)"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVE: To determine the predictability of a favorable 6-mo GOS-E using the DRS measured during weeks 1 to 4 of injury."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "DRS was collected at weeks 1 to 4 and GOS-E at 6 mo."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study is a sub analysis of patients enrolled in the Epo Severe TBI Trial (n = 200)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The average area under the receiver operating characteristic curve was 0.82 for the model with baseline demographic and injury severity variables and week 1 DRS and increased to 0.88 when including weekly DRS until week 4."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

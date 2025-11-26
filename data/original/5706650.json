@@ -1,0 +1,23 @@
+{
+  "pmcid": "5706650",
+  "pmid": "19464465",
+  "title": "Effect of Atrioventricular Conduction Prolongation on Optimization of Paced Atrioventricular Delay for Biventricular Pacing After Cardiac Surgery",
+  "abstract": "Objectives: Atrioventricular conduction prolongation (AVCP) in cardiac pacing is measurable and results primarily from delayed atrial conduction. Noninvasive methods for measuring atrial conduction are lacking. Accordingly, AVCP was used to estimate atrial conduction and investigate its role on the paced atrioventricular delay (pAVD) during biventricular pacing (BiVP) optimization.\n\nDesign: Retrospective analysis of data collected as part of a randomized controlled study of temporary BiVP after cardiopulmonary bypass.\n\nSetting: Single-center study at university-affiliated tertiary care hospital.\n\nParticipants: Cardiac surgical patients at risk of left ventricular failure after cardiopulmonary bypass.\n\nInterventions: Temporary BiVP was optimized immediately after cardiopulmonary bypass. Vasoactive medication and fluid infusion rates were held constant during optimization.\n\nMeasurements and Main Results: For each patient the AVCP and the pAVD producing the optimum (highest) cardiac output (OptCO) and mean arterial pressure (OptMAP) were determined. Patients were stratified into long- and short-AVCP groups. Overall AVCP (mean ± standard deviation) was 64 ± 28 ms. For the short-AVCP group (<64 ms, n = 3), AVCP, OptCO, and OptMAP were 40 ± 11, 120 ± 0, and 150 ± 30 ms, respectively, and for the long-AVCP group (>64 ms, n = 4), these same parameters were 89 ± 10, 218 ± 44, and 218 ± 29 ms. OptCO and OptMAP were significantly less in the short-AVCP group ( p = 0.015 and p = 0.029, respectively).\n\nConclusions: AVCP varies widely after cardiopulmonary bypass, affecting optimum pAVD. Failure to correct for this can result in the selection of inappropriately short and potentially deleterious pAVDs, especially when nominal pAVD is used, causing BiVP to appear ineffective.",
+  "authors": [
+    "Alexander Rusanov",
+    "Daniel Y. Wang",
+    "Santos E. Cabreriza",
+    "Lauren N. Bedrosian",
+    "Suzanne R. Karl",
+    "Marc E. Richmond",
+    "T. Alexander Quinn",
+    "Bin Cheng",
+    "Henry M. Spotnitz"
+  ],
+  "journal": "Journal of cardiothoracic and vascular anesthesia",
+  "year": "2011",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

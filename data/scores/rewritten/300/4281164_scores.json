@@ -1,0 +1,74 @@
+{
+  "pmcid": "4281164",
+  "sha256": "6328842e76afa9b09d56cd257df27dca3d3898c0dc8a58ac0f9fe3bfeaf4b11a",
+  "timestamp_utc": "2025-11-09T23:53:14.923894+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.540382819794587,
+    "reading_ease": 17.21768907563026,
+    "word_count": 252
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Single-Dose vs. Divided-Dose rATG Induction in Renal Transplantation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised, unblinded 2×2 factorial trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at a single center, 180 adult renal transplant recipients"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either SD-rATG (6 mg/kg over 24 hours) or DD-rATG (four 1.5 mg/kg doses on alternate days)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was renal function, measured by the abbreviated modification of diet in renal disease formula, over a follow-up period averaging 51.8 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was computer-generated, and allocation was not concealed"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "unblinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "90 participants were randomised to each group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "analysis conducted on an intention-to-treat basis"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "SD-rATG was associated with improved renal function in deceased donor recipients (P <0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were more frequent in the DD group, with higher infection rates"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00906204"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

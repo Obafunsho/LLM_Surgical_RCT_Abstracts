@@ -1,0 +1,74 @@
+{
+  "pmcid": "2505245",
+  "sha256": "ddd9610dff51ffdb18a38b1381b4470b33f6749659ec26ae1025be19d1cbbff3",
+  "timestamp_utc": "2025-11-09T23:44:58.827519+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.625542635658913,
+    "reading_ease": 32.987667958656374,
+    "word_count": 215
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "tendon samples were obtained from 88 individuals (49 men, 39 women; mean age, 58.2 years) undergoing arthroscopic rotator cuff repair and five male patients (mean age, 69.6 years) who died of cardiovascular events"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Hematoxylin and eosin staining and Alcian blue were used to assess slides with Bonar and Movin scores"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the reliability of these two scoring systems in evaluating tendon tissue"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the intraclass correlation coefficient (ICC) between the two scoring systems, measured immediately post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to the scoring system used"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "tendon samples were obtained from 88 individuals"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The ICC was 0.921 (95% CI 0.790–0.963), indicating high reliability between the scoring systems"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

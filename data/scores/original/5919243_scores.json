@@ -1,0 +1,74 @@
+{
+  "pmcid": "5919243",
+  "sha256": "73b45639b511ed25ed536bdbe913a777771f744969c470211ffefc765f43de57",
+  "timestamp_utc": "2025-11-09T16:06:38.527894+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.40991880819367,
+    "reading_ease": 44.34788379888269,
+    "word_count": 537
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We performed a randomized trial between October 2000 and October 2002 in patients undergoing same-day bilateral TKA; in this trial, one knee was operated on using navigation, and the other knee was operated on without navigation."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "All 296 patients who underwent same-day bilateral TKA during that period were enrolled. Of those, 282 patients (95%) were accounted for at a mean of 15 years (range, 14-16 years). A total of 79% (223 of 282) were women and the mean age of the patients at the time of index arthroplasty was 59 ± 7 years (range, 48-64 years)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "one knee was operated on using navigation, and the other knee was operated on without navigation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose of this study was to determine whether (1) clinical results; (2) radiographic and CT scan results; and (3) the survival rate of TKA components would be better in patients having computer-assisted TKA than results of patients having TKA without computer-assisted TKA."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Knee Society knee score, WOMAC score, and UCLA activity score were obtained preoperatively and at latest followup."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We performed a randomized trial between October 2000 and October 2002 in patients undergoing same-day bilateral TKA; in this trial, one knee was operated on using navigation, and the other knee was operated on without navigation."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Assessors and patients were blind to treatment assignment."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "All 296 patients who underwent same-day bilateral TKA during that period were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of those, 282 patients (95%) were accounted for at a mean of 15 years (range, 14-16 years)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The Knee Society knee (92 ± 8 versus 93 ± 7 points; 95% confidence interval [CI], 92-98; p = 0.461) and function scores (80 ± 11 versus 80 ± 11 points; 95% CI, 73-87; p = 1.000), WOMAC score (14 ± 7 versus 15 ± 8 points; 95% CI, 14-18; p = 0.991), range of knee motion (128° ± 9° versus 127° ± 10°; 95% CI, 100-140; p = 0.780), and UCLA patient activity score (6 versus 6 points; 95% CI, 4-8; p = 1.000) were not different between the two groups at 15 years followup."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Anterior femoral notching was observed in 11 knees (4%) in the computer-assisted TKA group and none in the conventional TKA group (p = 0.046)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

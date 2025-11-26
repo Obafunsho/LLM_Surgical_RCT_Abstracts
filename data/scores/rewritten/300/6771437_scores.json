@@ -1,0 +1,74 @@
+{
+  "pmcid": "6771437",
+  "sha256": "20e849f8031c61b0f2288b979f915b3ffee515060be1b4c1ebf634718194f213",
+  "timestamp_utc": "2025-11-10T00:02:58.038157+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.574000000000002,
+    "reading_ease": 36.35100000000003,
+    "word_count": 240
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Time to Hemostasis in Bleeding Trauma Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial utilized data from the PROPPR trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were those undergoing emergent procedures within 90 minutes"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Hemostasis was defined as no intraoperative bleeding requiring intervention or resolution of contrast blush"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the association between time to hemostasis and patient outcomes"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 30-day mortality"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 680 enrolled patients, 468 underwent emergent procedures"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was conducted per-protocol"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "every 15-minute reduction in time to hemostasis was linked to decreased 30-day mortality (RR 0.97, 95% CI 0.94–0.99)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "adverse events reporting"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not provided"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Tacrolimus Therapeutic Drug Monitoring in Kidney Transplant Recipients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to either C0-based monitoring or AUC-based monitoring."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult kidney transplant recipients were eligible for inclusion. This randomised controlled trial was conducted at a tertiary care hospital."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received AUC-based monitoring, while the control group continued with standard C0-based monitoring."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate the efficacy of AUC-based monitoring compared to C0-based monitoring in preventing tacrolimus-related toxicity and improving graft survival."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of biopsy-proven acute rejection (BPAR) within 12 months post-transplant."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Due to the nature of the intervention, blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention and 100 to the control group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the intervention group and 97 in the control group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a significant reduction in BPAR (mean difference = 5.2%, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 3% of the intervention group and 1% of the control group, with mild gastrointestinal side-effects being the most common."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: N/A"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The trial was funded by institutional grants, with no involvement from commercial entities."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

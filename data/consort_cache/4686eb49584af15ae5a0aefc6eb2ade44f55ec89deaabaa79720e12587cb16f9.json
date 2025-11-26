@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Suture UMbilical MEsh Repair (SUMMER) Trial: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A randomised, controlled, parallel-group, double-blind, multicentre trial was conducted across six Swedish surgical units."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adults with primary elective UHs \u22642 cm were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to either 4 \u00d7 4 cm macroporous lightweight onlay mesh repair or conventional suture repair."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial evaluates surgical-site occurrences (SSOs) in suture versus mesh repair for umbilical hernias (UHs) \u22642 cm."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome is recurrence at 3 years, with secondary outcomes including SSOs and pain intensity at 30 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Intraoperative web-based randomisation ensured allocation concealment."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding included patients and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From February 2020 to January 2024, 290 participants were randomised: 146 to suture repair and 144 to mesh repair."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "After exclusions, 144 suture and 135 mesh participants were analysed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "SSOs (Clavien\u2013Dindo grade \u2265I) affected 32 mesh (23.7%) and 26 suture (18.1%) participants, with no significant increase for mesh (OR 1.39, 95% CI 0.78 to 2.51)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, with no severe complications reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04231071."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

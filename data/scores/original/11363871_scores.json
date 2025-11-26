@@ -1,0 +1,74 @@
+{
+  "pmcid": "11363871",
+  "sha256": "f49c694bb40020b753ba760453fc764d3e1871bedad992a655386dd40e4c811c",
+  "timestamp_utc": "2025-11-09T15:18:14.450558+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.476474603493276,
+    "reading_ease": 36.31045974703875,
+    "word_count": 293
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The aim of this double-blind, single-centre RCT was to ascertain whether tailoring biliopancreatic limb length based on total small bowel length (TSBL) results in superior outcomes after one anastomosis gastric bypass compared with a fixed 150 cm biliopancreatic limb length."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Eligible patients, meeting International Federation for the Surgery of Obesity and Metabolic Disorders (IFSO) criteria for metabolic bariatric surgery, scheduled for primary one anastomosis gastric bypass surgery, and willing to be randomized, underwent TSBL measurement during surgery."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible patients, meeting International Federation for the Surgery of Obesity and Metabolic Disorders (IFSO) criteria for metabolic bariatric surgery, scheduled for primary one anastomosis gastric bypass surgery, and willing to be randomized, underwent TSBL measurement during surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "When TSBL measurement was feasible, patients were randomly assigned to a standard 150 cm biliopancreatic limb length or a tailored biliopancreatic limb based on TSBL: TSBL less than 500 cm, biliopancreatic limb 150 cm; TSBL 500–700 cm, biliopancreatic limb 180 cm; and TSBL greater than 700 cm, biliopancreatic limb 210 cm."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this double-blind, single-centre RCT was to ascertain whether tailoring biliopancreatic limb length based on total small bowel length (TSBL) results in superior outcomes after one anastomosis gastric bypass compared with a fixed 150 cm biliopancreatic limb length."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was percentage total weight loss at 5 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "When TSBL measurement was feasible, patients were randomly assigned to a standard 150 cm biliopancreatic limb length or a tailored biliopancreatic limb based on TSBL."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "The aim of this double-blind, single-centre RCT was to ascertain whether tailoring biliopancreatic limb length based on total small bowel length (TSBL) results in superior outcomes after one anastomosis gastric bypass compared with a fixed 150 cm biliopancreatic limb length."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between September 2020 and August 2022, 212 patients were randomized into the standard biliopancreatic limb group (105 patients) or the tailored biliopancreatic limb group (107 patients)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the tailored group, 150, 180, and 210 cm biliopancreatic limb lengths were applied to 8.4%, 53.3%, and 38.3% of patients respectively."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean(s.d.) 1-year percentage total weight loss was 32.8(6.9)% in the standard group and 33.1(6.2)% in the tailored group ( P = 0.787)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Nutritional deficiencies and short-term complications showed no significant differences."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: Dutch Trial Register, NL7945."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

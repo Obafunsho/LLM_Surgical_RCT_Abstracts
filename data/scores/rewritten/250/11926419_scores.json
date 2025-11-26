@@ -1,0 +1,74 @@
+{
+  "pmcid": "11926419",
+  "sha256": "5574ed1a6947e385116b3f6006f6ca787e2f235b6c03fa653c9bb752aa064b12",
+  "timestamp_utc": "2025-11-09T22:11:06.339636+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.713333333333338,
+    "reading_ease": 44.97000000000003,
+    "word_count": 210
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective study included patients who had miniplates placed for BAMP treatment between January 2010 and April 2020"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients who had miniplates placed for BAMP treatment between January 2010 and April 2020 at the Department of Oral and Maxillofacial Diseases, Helsinki University Hospital, Finland"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "The study group consisted of 164 miniplates in 42 patients, divided into two groups based on the operator: surgical residents (Group 1) and consultant surgeons (Group 2)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the failure rate of miniplates used in bone-anchored maxillary protraction (BAMP) treatment for skeletal Class III malocclusion and evaluate the influence of the surgeon's experience on the failure rate"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the failure rate of miniplates, measured over the treatment duration"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The study group consisted of 164 miniplates in 42 patients"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The overall failure rate of miniplates was 23.8% (39/164). The failure rate for Group 1 was 31.4% (27/86), while for Group 2, it was 15.3% (12/78) (p < 0.05)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

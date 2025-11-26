@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intraosseous Regional Administration of Vancomycin in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "30 patients undergoing primary TKA were randomised"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "30 patients undergoing primary TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either 250 mg or 500 mg vancomycin via IORA or 1 g via systemic administration"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of low-dose intraosseous regional administration (IORA) of vancomycin compared to systemic administration"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was tissue concentration of vancomycin, measured during the procedure."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "30 patients undergoing primary TKA were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Mean vancomycin concentrations in subcutaneous fat were 14 \u03bcg/g in the 250-mg IORA group, 44 \u03bcg/g in the 500-mg IORA group, and 3.2 \u03bcg/g in the systemic group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One patient in the systemic group developed red man syndrome. No other adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

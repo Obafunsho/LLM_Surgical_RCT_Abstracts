@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Three hundred fifty-one patients operated between 1993 and 2002 for rectal carcinoma, at or below the peritoneal reflection, were analyzed."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Lateral lymph node dissection (LLND) was performed in suspected T3 or T4 disease, or when positive lymph nodes were seen; 73 patients received unilateral LLND and 133 patients received bilateral LLND."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose was to study the risk factors for local relapse and the patterns of local recurrence."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Of the 351 patients 6.6% developed local recurrence after 5 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Three hundred fifty-one patients operated between 1993 and 2002 for rectal carcinoma, at or below the peritoneal reflection, were analyzed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "33% of the unilateral LLND group had local relapse, significantly more ( p = 0.04) than in the bilateral LLND group with 14% local recurrence."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

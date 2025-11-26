@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients undergoing right-sided maxillofacial surgery requiring left nasotracheal intubation were randomly allocated"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients undergoing right-sided maxillofacial surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "control (tracheal tube in the conventional direction) or reverse (a 180\u02da reverse direction, with the tube bevel facing the nasal septum and the leading edge (i.e., the tip) of the bevel pointing away from the nasal septum) groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the effect of the reverse bevel and tip direction of the nasotracheal tube on the incidence of epistaxis during nasotracheal intubation via the left nostril."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the incidence of epistaxis evaluated using videolaryngoscopy."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly allocated"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "n = 37 for both"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The incidence of epistaxis in the reverse group was significantly lower than that in the control group (9 [24.3%] vs. 20 [54.1%], P = 0.009; relative risk: 0.45, 95% CI [0.24, 0.85], absolute risk reduction: 29.8%, number needed to treat: 3)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Nasotracheal tube-related complications did not occur in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

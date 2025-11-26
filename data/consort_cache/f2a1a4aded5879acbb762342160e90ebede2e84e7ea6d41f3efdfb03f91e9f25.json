@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Evaluation of the ARISCAT Score for Predicting Postoperative Pneumonia in ESCC: A Retrospective Cohort Study"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective cohort study included 366 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "366 patients with histologically confirmed resectable ESCC who underwent curative thoraco-laparoscopic McKeown esophagectomy at a high-volume thoracic surgery center"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the prognostic value of the ARISCAT score and its integration with other perioperative indicators for predicting postoperative pneumonia."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Postoperative pneumonia was diagnosed based on radiologic, clinical, and laboratory criteria within 30 days after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "In multivariate analysis, the ARISCAT score was independently associated with postoperative pneumonia (adjusted OR = 1.40, 95% CI 1.22\u20131.60, p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

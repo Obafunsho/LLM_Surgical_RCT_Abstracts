@@ -1,0 +1,74 @@
+{
+  "pmcid": "11064762",
+  "sha256": "9c99d98232fe3239792208ffe90081f75bb011e9d53d64d250df61b1201bf6cf",
+  "timestamp_utc": "2025-11-09T15:14:39.087444+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.673393443768784,
+    "reading_ease": 34.89962256238209,
+    "word_count": 753
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We included participants who underwent the creation of an anastomosis during vascular surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "We included randomized controlled trials that compared fibrin or synthetic sealant use with alternative interventions (e.g. manual compression, reversal of anticoagulation) for achieving anastomotic‐site hemostasis in vascular surgery procedures."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate the benefits and harms of sealants as adjuncts for achieving anastomotic site hemostasis in patients undergoing vascular surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Our primary outcomes were time to hemostasis, failure of hemostatic intervention, and intraoperative blood loss."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "All trials were at high risk of performance bias, detection bias, and other sources of bias."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "We found 24 randomized controlled trials that included a total of 2376 participants who met the inclusion criteria."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Combining data on time to hemostasis showed that sealant use may reduce the mean time to hemostasis compared to control (mean difference (MD) ‐230.09 seconds, 95% confidence interval (CI) ‐329.24 to ‐130.94; P < 0.00001; 7 studies, 498 participants; low‐certainty evidence)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Our secondary outcomes were operating time, death from bleeding complications up to 30 days, postoperative bleeding up to 30 days, unplanned return to the operating room for bleeding complications management up to 30 days, quality of life, and adverse events."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: A Randomised Controlled Trial Comparing Supraclavicular and Retroclavicular Brachial Plexus Block on Diaphragmatic Function"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Forty patients scheduled for upper extremity surgery below the axilla were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Exclusion criteria included significant pulmonary disease, BMI >40, and contraindications to peripheral nerve block."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either SCB or RCB with ropivacaine 0.5%"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of phrenic block, measured by changes in diaphragmatic excursion and maximum inspiratory volume at baseline, 15, 30 minutes postblock, and postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation concealment was achieved using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was maintained for patients and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 40 patients were randomised, with 20 in each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 40 patients were randomised, with 20 in each group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The SCB group exhibited a higher incidence of phrenic block (70% by ultrasound, 55% by spirometry) compared to the RCB group (15% by ultrasound, 5% by spirometry)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Clinicaltrials.gov NCT02631122."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

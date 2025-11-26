@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Conclusion: We found no clinically important differences (and few differences overall) between short and standard-length THA stems 5 years after surgery in a randomized trial."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Our study was powered at 80% to detect a 10% difference in the proportion of patients reporting thigh pain at the level of 0.05."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "To be eligible, patients needed to be at least 20 years of age, have not undergone previous history of hip surgery, and have no metabolic bone disease."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "A total of 100 patients were randomized to receive THA either with a short stem (n = 56) or with a standard-length stem (n = 44)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Questions/purposes: Is there a difference between short- and standard-length stems in terms of: (1) the frequency or severity of thigh pain, (2) modified Harris hip scores, (3) implant loosening, or (4) bone mineral density as measured by dual-energy x-ray absorptiometry?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint of our study was the incidence of thigh pain during 5-year follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "A total of 100 patients were randomized to receive THA either with a short stem (n = 56) or with a standard-length stem (n = 44)."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "The modified Harris hip score was calculated by research assistants who were blinded to the treatment groups."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 100 patients were randomized to receive THA either with a short stem (n = 56) or with a standard-length stem (n = 44)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "A total of 73% (41 of 56) and 77% (34 of 44) of those groups, respectively, were accounted for at a minimum of 5 years and were analyzed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "We found no difference between the groups in the proportion of patients with thigh pain; 16% (9 of 56) of patients in the short-stem group and 14% (6 of 44) of patients in the standard-stem group experienced thigh pain during the follow-up period (p = 0.79)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Data from a multicentre, double-blind, randomized placebo-controlled superiority trial were used."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients scheduled for laparoscopic RYGB or sleeve gastrectomy were randomized to receive 900\u2005mg UDCA or placebo for 6 months."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients scheduled for laparoscopic RYGB or sleeve gastrectomy were randomized."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients scheduled for laparoscopic RYGB or sleeve gastrectomy were randomized to receive 900\u2005mg UDCA or placebo for 6 months."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim was to evaluate the cost-effectiveness and cost\u2013utility of ursodeoxycholic acid (UDCA) prophylaxis for the prevention of symptomatic gallstone disease after Roux-en- Y gastric bypass (RYGB) in patients without gallstones before surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Main outcomes were the costs per patient free from symptomatic gallstone disease and the costs per quality-adjusted life-year (QALY)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Data from a multicentre, double-blind, randomized placebo-controlled superiority trial were used."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients receiving UDCA prophylaxis were more likely to remain free from symptomatic gallstone disease (relative risk 1.06, 95 per cent c.i. 1.02 to 1.11; P = 0.002) compared with patients in the placebo group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

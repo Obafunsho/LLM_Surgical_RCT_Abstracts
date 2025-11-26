@@ -1,0 +1,74 @@
+{
+  "pmcid": "8669787",
+  "sha256": "7e0f2672354fa613ceb23bc0174392d4e4415817945beeb764ce921cfeade428",
+  "timestamp_utc": "2025-11-09T16:18:42.131253+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.247137425312332,
+    "reading_ease": 43.90204055766796,
+    "word_count": 263
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "individually randomized controlled trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "individually randomized controlled trial"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients undergoing stoma reversal"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized (1 : 1) to receive NPWT or conventional wound dressing"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to assess whether the application of negative-pressure wound therapy (NPWT) can improve wound healing compared with conventional wound dressing."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint of the study was the rate of wound complications and SSIs after stoma closure."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized (1 : 1)"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between June 2019 and January 2021, 50 patients were allocated to the NPWT group; 50 patients were allocated to the conventional wound dressing group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "50 patients were allocated to the NPWT group (all received NPWT, 49 were analysed); 50 patients were allocated to the conventional wound dressing group (48 received the treatment, 45 were analysed)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "odds ratio 0.61 (95 per cent c.i. 0.18 to 2.10), P = 0.542"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT037812016 (clinicaltrials.gov)"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

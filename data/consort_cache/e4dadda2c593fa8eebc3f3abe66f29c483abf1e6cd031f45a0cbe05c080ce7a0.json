@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients with occipital headache were divided into two groups (bupivacaine: BUP group [n = 27], botulinum toxin: BTX group [n = 27])"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients with occipital headache"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients with occipital headache were divided into two groups (bupivacaine: BUP group [n = 27], botulinum toxin: BTX group [n = 27])"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Our study presents the long-term effect of botulinum toxin on GON block using ultrasound in patients with chronic headache in occipital area."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Visual analogue scale (VAS) scores and Likert scale were assessed at pretreatment and at 1, 4, 8, and 24 weeks after treatment in both groups."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Patients with occipital headache were divided into two groups (bupivacaine: BUP group [n = 27], botulinum toxin: BTX group [n = 27])"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The VAS score and patient satisfaction score (Likert scale) in 4, 8, and 24 weeks after injection were superior for the BTX than the BUP group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

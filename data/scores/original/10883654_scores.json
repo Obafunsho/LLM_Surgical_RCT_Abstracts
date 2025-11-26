@@ -1,0 +1,74 @@
+{
+  "pmcid": "10883654",
+  "sha256": "0b5570d74cdb225e7605803933bb46868a2b6e6afaf2044b0b3f15a9d2882103",
+  "timestamp_utc": "2025-11-09T15:12:59.328197+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.155324675324675,
+    "reading_ease": 26.86846320346322,
+    "word_count": 308
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Purpose.: Most patients with intrahepatic cholangiocarcinoma (IHCC) develop recurrence after resection."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A multi-institutional, single-arm, phase II trial was conducted for patients with resectable, high-risk IHCC."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with resectable, high-risk IHCC, defined as tumor size > 5 cm, multiple tumors, presence of radiographic major vascular invasion, or lymph node involvement."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients received preoperative GAP (gemcitabine 800 mg/m 2 , cisplatin 25 mg/m 2 , and nab-paclitaxel 100 mg/m 2 on days 1 and 8 of a 21-day cycle) for a total of 4 cycles."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to evaluate the feasibility of delivering GAP in the neoadjuvant setting for resectable, high-risk IHCC."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was completion of both preoperative chemotherapy and surgical resection."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty evaluable patients were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Thirty evaluable patients were enrolled."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Twenty-two patients (73%, 90% CI 57–86; p = 0.008) completed all chemotherapy and surgery."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Ten patients (33%) experienced grade ≥ 3 treatment-related adverse events, the most common being neutropenia and diarrhea."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10364515",
+  "sha256": "d9c7fa8384252b0171c233a42fabc918e7b39c24c23d80dda62f416183a5ad6e",
+  "timestamp_utc": "2025-11-09T21:53:17.219326+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.698239675016929,
+    "reading_ease": 36.25751974723542,
+    "word_count": 211
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: SAPTAP Trial: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This multicentre, non-inferiority randomised controlled trial (RCT)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults with symptomatic chronic venous disease, recruited from seven medical centres in the Netherlands."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to SAP or TAP"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to determine if single ambulatory phlebectomy with or without delayed endovenous truncal ablation (SAP) is non-inferior to thermal endovenous ablation with concomitant phlebectomy (TAP)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the VEINES-QOL/Sym score at 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "randomised to SAP or TAP using an automated service, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not feasible for patients or clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between January 2015 and December 2018, 464 patients were randomised (SAP 227, TAP 237)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "VEINES-QOL scores were 52.7 (95% CI 51.9 to 53.9) for SAP and 53.8 (53.3 to 55.1) for TAP."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were minor and similar between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NTR 4821."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by Erasmus Medical Centre Rotterdam."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

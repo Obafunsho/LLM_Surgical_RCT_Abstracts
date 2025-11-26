@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Post-Operative Radiotherapy in Resected NSCLC"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to receive either PORT using modern techniques or no PORT."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "This multicenter randomised controlled trial included patients with resected NSCLC."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either PORT using modern techniques or no PORT."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial assesses the impact of PORT on disease-free survival (DFS) and overall survival (OS)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was DFS over a 5-year period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not applied to patients or clinicians, but outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 501 patients were randomised, with 250 in the PORT group and 251 in the control group, recruited between 2010 and 2021."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the intention-to-treat analysis, PORT significantly reduced mediastinal recurrence."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "PORT significantly reduced mediastinal recurrence (HR 0.71, 95% CI: 0.51\u20130.97) but did not improve DFS or OS (HR 1.02, 95% CI: 0.68\u20131.52)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were more frequent in the PORT group, with grade 3 or 4 cardiopulmonary toxicities in 11% compared to 5% in the control group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCTXXXXXXX"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by [Funding Source]."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

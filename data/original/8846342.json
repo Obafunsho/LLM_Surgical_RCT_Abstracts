@@ -1,0 +1,27 @@
+{
+  "pmcid": "8846342",
+  "pmid": "34597280",
+  "title": "Microdiscectomy Is More Cost-effective Than a 6-Month Nonsurgical Care Regimen for Chronic Radiculopathy",
+  "abstract": "Background: A recent randomized controlled trial (RCT), performed by the authors, comparing early surgical microdiscectomy with 6 months of nonoperative care for chronic lumbar radiculopathy showed that early surgery resulted in improved outcomes. However, estimates of the incremental cost-utility ratio (ICUR), which is often expressed as the cost of gaining one quality-adjusted life year (QALY), of microdiscectomy versus nonsurgical management have varied. Radiculopathy lasting more than 4 months is less likely to improve without surgical intervention and may have a more favorable ICUR than previously reported for acute radiculopathy.\n\nQuestion/purpose: In the setting of chronic radiculopathy caused by lumbar disc herniation, defined as symptoms and/or signs of 4 to 12 months duration, is surgical management more cost-effective than 6 months of nonoperative care from the third-party payer perspective based on a willingness to pay of less than CAD 50,000/QALY?\n\nMethods: A decision analysis model served as the vehicle for the cost-utility analysis. A decision tree was parameterized using data from our single-center RCT that was augmented with institutional microcost data from the Ontario Case Costing Initiative. Bottom-up case costing methodology generates more accurate cost estimates, although institutional costs are known to vary. There were no major surgical cost drivers such as implants or bone graft substitutes, and therefore, the jurisdictional variance would be minimal for tertiary care centers. QALYs derived from the EuroQoL-5D were the health outcome and were derived exclusively from the RCT data, given the paucity of studies evaluating the surgical treatment of lumbar radiculopathy lasting 4 to 12 months. Cost-effectiveness was assessed using the ICUR and a threshold of willingness to pay CAD 50,000 (USD 41,220) per QALY in the base case. Sensitivity analyses were performed to account for the uncertainties within the estimate of cost utility, using both a probabilistic sensitivity analysis and two one-way sensitivity analyses with varying crossover rates after the 6-month nonsurgical treatment had concluded.\n\nResults: Early surgical treatment of patients with chronic lumbar radiculopathy (defined as symptoms of 4 to 12 months duration) was cost-effective, in that the cost of one QALY was lower than the CAD 50,000 threshold (note: the purchasing power parity conversion factor between the Canadian dollar (CAD) and the US dollar (USD) for 2019 was 1 USD = 1.213 CAD; therefore, our threshold was USD 41,220). Patients in the early surgical treatment group had higher expected costs (CAD 4118 [95% CI 3429 to 4867]) than those with nonsurgical treatment (CAD 2377 [95% CI 1622 to 3518]), but they had better expected health outcomes (1.48 QALYs [95% CI 1.39 to 1.57] versus 1.30 [95% CI 1.22 to 1.37]). The ICUR was CAD 5822 per QALY gained (95% CI 3029 to 30,461). The 2-year probabilistic sensitivity analysis demonstrated that the likelihood that early surgical treatment was cost-effective was 0.99 at the willingness-to-pay threshold, as did the one-way sensitivity analyses.\n\nConclusion: Early surgery is cost-effective compared with nonoperative care in patients who have had chronic sciatica for 4 to 12 months. Decision-makers should ensure adequate funding to allow timely access to surgical care given that it is highly likely that early surgical intervention is potentially cost-effective in single-payer systems. Future work should focus on both the clinical effectiveness of the treatment of chronic radiculopathy and the costs of these treatments from a societal perspective to account for occupational absences and lost patient productivity. Parallel cost-utility analyses are critical so that appropriate decisions about resource allocation can be made.\n\nLevel of Evidence: Level III, economic and decision analysis.",
+  "authors": [
+    "R. Andrew Glennie",
+    "Jennifer C. Urquhart",
+    "Prosper Koto",
+    "Parham Rasoulinejad",
+    "David Taylor",
+    "Keith Sequeira",
+    "Thomas Miller",
+    "Jim Watson",
+    "Richard Rosedale",
+    "Stewart I. Bailey",
+    "Kevin R. Gurr",
+    "Fawaz Siddiqi",
+    "Christopher S. Bailey"
+  ],
+  "journal": "Clinical Orthopaedics and Related Research",
+  "year": "2022",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

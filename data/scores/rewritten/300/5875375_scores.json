@@ -1,0 +1,74 @@
+{
+  "pmcid": "5875375",
+  "sha256": "1400e3a8366f25dd94ed017c50e532316dca514e8e7a73ad7065cb08886777aa",
+  "timestamp_utc": "2025-11-09T23:59:34.363910+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.601082251082254,
+    "reading_ease": 17.951493506493506,
+    "word_count": 252
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Effect of a Standardized Handoff Curriculum on Interclinician Communication: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "cluster randomized stepped-wedge trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included 106 clinicians (residents, fellows, advance-practice clinicians, and attending physicians) across 1488 handoff events."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The UW-IPASS curriculum was compared to standard handoff practices."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the UW-IPASS standardized handoff curriculum's effect on communication and patient outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the perceived adequacy of interclinician communication, assessed over eight months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was by cluster, with allocation concealment not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Participants included 106 clinicians (residents, fellows, advance-practice clinicians, and attending physicians) across 1488 handoff events."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 63 residents and advance practice clinicians, 13 fellows, and 30 attending physicians participated."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "10.2% of handoffs were reported as poor quality, compared to 7.2% during the UW-IPASS period (odds ratio, 0.19; 95% CI, 0.03-0.74; P = .03)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN14209509."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding source not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

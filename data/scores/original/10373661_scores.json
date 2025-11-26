@@ -1,0 +1,74 @@
+{
+  "pmcid": "10373661",
+  "sha256": "22329dd43b9a93302f91a95eba42afe7bc999c1c2dd391b5b16e7e82615ad990",
+  "timestamp_utc": "2025-11-09T15:08:03.383747+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.93633130081301,
+    "reading_ease": 44.03913109756101,
+    "word_count": 246
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "622 women with clinical stage 2–3 estrogen receptor-positive (ER+) BC were enrolled"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "622 women with clinical stage 2–3 estrogen receptor-positive (ER+) BC were enrolled"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "ability of three neoadjuvant aromatase inhibitors (NAIs) to reduce residual disease"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to assess whether switching to neoadjuvant chemotherapy (NCT) after 4 weeks on NAI with Ki67 > 10% increases pathologic complete response (pCR)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Five-year cumulative incidence rate for LRR is estimated to be 1.53% (95% CI: 0.7 to 3.0%)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "622 women with clinical stage 2–3 estrogen receptor-positive (ER+) BC were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis cohort consisted of 509 patients"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Five-year cumulative incidence rate for LRR is estimated to be 1.53% (95% CI: 0.7 to 3.0%)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

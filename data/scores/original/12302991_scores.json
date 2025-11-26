@@ -1,0 +1,74 @@
+{
+  "pmcid": "12302991",
+  "sha256": "82f1b010e9f3c1208fc962aaea02c2795dce3bbc82b55bec33a10a1a8ab779de",
+  "timestamp_utc": "2025-11-09T15:36:10.362796+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.64344319775596,
+    "reading_ease": 23.62049088359049,
+    "word_count": 248
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We compared patients with and without postoperative AKI within 30 days of open surgery for gynecologic malignancies using ERAS protocols from March 2016-December 2018 at a single academic institution."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients who did and did not develop acute kidney injury (AKI) after open ERAS surgery for gynecologic malignancy."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "We compared patients with and without postoperative AKI"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To compare development of long-term chronic kidney disease (CKD) and cardiac conditions postoperatively among patients who did and did not develop acute kidney injury (AKI) after open ERAS surgery for gynecologic malignancy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We estimated 36-month cumulative incidence of renal and cardiac conditions for each cohort."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Among 378 patients, 51 (13.5%) developed postoperative AKI."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Among 378 patients, 51 (13.5%) developed postoperative AKI."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "patients with AKI were more likely to develop CKD (HR=2.17, 95% CI 1.22–3.84)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

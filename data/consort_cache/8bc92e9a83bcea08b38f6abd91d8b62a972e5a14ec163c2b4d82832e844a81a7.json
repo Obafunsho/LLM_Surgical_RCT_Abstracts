@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "prospective randomized comparative study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Ninety patients posted for elective laparoscopic cholecystectomy were selected for a prospective randomized comparative study in a tertiary care center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The study comprised three groups of 30 each based on the different SADs used Group-LS with LMA-Supreme, Group-IG with i-gel, and Group-BM with Baska mask."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We compared the efficacy in terms of oropharyngeal leak pressure (OLP) and safety of laryngeal mask airway (LMA)-Supreme (LMA-S), i-gel, and Baska mask in patients undergoing laparoscopic cholecystectomy."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The secondary objectives were device insertion time, ease of insertion, changes in the peak airway pressure (PAP), heart rate, mean arterial pressure, and airway complications (sore throat, dysphagia. dysphonia, lip/tongue or dental injury, etc.) between three groups."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "prospective randomized comparative study"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ninety patients posted for elective laparoscopic cholecystectomy were selected"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "OLP was significantly higher ( P = 0.005) in the Baska mask than i-gel and LMA-S groups just after insertion and during carboperitonium."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no significant differences between the groups with regard to changes in the PAP, heart rate, mean arterial pressure at different time intervals, and complications."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

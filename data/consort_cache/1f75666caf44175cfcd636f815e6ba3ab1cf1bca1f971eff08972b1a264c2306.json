@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Pleural spread or recurrence of thymic epithelial tumors (TETs) is a tricky puzzle in the clinic and there is currently no recognized effective treatment."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "enrolled 45 patients receiving S-HITOC"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "receiving S-HITOC with 25\u2009mg/m 2 doxorubicin and 50\u2009mg/m 2 cisplatin"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial evaluated the safety and efficacy of cytoreductive surgery and hyperthermic intrathoracic chemotherapy (S-HITOC) for TETs with pleural spread or recurrence."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "enrolled 45 patients receiving S-HITOC"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The estimated 2-year PFS and OS rates were 82.8% and 100.0%, respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Treatment-related adverse events of grade \u22653 occurred in eight (17.8%) patients."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial number: NCT05446935"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

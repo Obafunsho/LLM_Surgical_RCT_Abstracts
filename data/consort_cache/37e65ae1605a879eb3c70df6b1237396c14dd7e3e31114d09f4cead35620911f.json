@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Dendritic Cell and Poxvector Vaccines in Colorectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 74 patients disease-free after CRC metastasectomy and perioperative chemotherapy were randomised"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients disease-free after CRC metastasectomy and perioperative chemotherapy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either autologous DCs modified with PANVAC (DC/PANVAC) or PANVAC with granulocyte-macrophage colony-stimulating factor (GM-CSF)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether vaccines based on dendritic cells (DCs) and poxvectors encoding carcinoembryonic antigen (CEA) and MUC1 (PANVAC) improve survival in patients with resected CRC metastases."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was recurrence-free survival at 2 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "74 patients disease-free after CRC metastasectomy and perioperative chemotherapy were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 2 years, recurrence-free survival was 47% for DC/PANVAC and 55% for PANVAC/GM-CSF (\u03c72 P = 0.48)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00103142."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [source of funding]."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

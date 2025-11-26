@@ -1,0 +1,74 @@
+{
+  "pmcid": "4626309",
+  "sha256": "94d51577951297fb3bd714059a34ed313b26cac9602e98a573a473680e9a2f37",
+  "timestamp_utc": "2025-11-09T15:59:53.393281+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.245718631178708,
+    "reading_ease": 38.49570088719901,
+    "word_count": 263
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients undergoing elective major spine surgery with anticipated need for erythrocyte transfusion were randomly allocated"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients undergoing elective major spine surgery with anticipated need for erythrocyte transfusion"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly allocated to receive their first transfusion of erythrocytes as cell salvage (CS), washed stored, or unwashed stored"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Here we tested the same hypothesis in surgical patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Pulmonary gas transfer and mechanics were measured 5 min before and 30 min after erythrocyte transfusion."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly allocated"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Clinicians were not blinded to group assignment."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ninety-one patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome variable, gas transfer, as assessed by change of PaO 2 /FIO 2 , with erythrocyte transfusion was not significant in any group"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

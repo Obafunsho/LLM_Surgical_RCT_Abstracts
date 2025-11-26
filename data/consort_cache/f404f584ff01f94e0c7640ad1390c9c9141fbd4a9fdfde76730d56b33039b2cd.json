@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomly allocated to intubate with one of the three laryngoscopes"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Forty-five American Society of Anesthesiologists (ASA) I-II adult patients, with Mallampati grade 1\u20134, requiring NTI, were enrolled after taking written informed consent."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly allocated to intubate with one of the three laryngoscopes (McCoy, Macintosh, and Truview)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose of this study was to evaluate the performance of McCoy, Macintosh, and Truview laryngoscopes during bougie-aided NTI"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was intubation time"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomly allocated"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty-five American Society of Anesthesiologists (ASA) I-II adult patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The intubation time of McCoy, Macintosh, and Truview, was 86.87 \u00b1 15.92, 82.87 \u00b1 16.46, and 79.93 \u00b1 14.53 (mean \u00b1 standard deviation) seconds"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

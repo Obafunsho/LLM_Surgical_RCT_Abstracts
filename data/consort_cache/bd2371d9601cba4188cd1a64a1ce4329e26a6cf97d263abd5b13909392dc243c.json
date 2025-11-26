@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Early Active Mobilization vs. Immobilization After Tibialis Posterior Tendon Transfer: A Randomized Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomized postoperatively to early mobilization (n=13) or immobilization (n=11). Randomization was achieved using sealed opaque envelopes, with allocation concealed until after surgery. A power analysis determined that a sample size of 10 per group was adequate to detect a 10-day difference in rehabilitation time."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "24 patients with irreversible common peroneal nerve paralysis were randomized postoperatively"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized postoperatively to early mobilization (n=13) or immobilization (n=11)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomized controlled trial assessed the efficacy of early active mobilization compared to immobilization following tibialis posterior tendon transfer for foot-drop correction in patients with Hansen\u2019s disease."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was rehabilitation time, defined as the duration from surgery to independent walking, with a minimum follow-up of 16 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was achieved using sealed opaque envelopes, with allocation concealed until after surgery."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not feasible for therapists, but outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "24 patients with irreversible common peroneal nerve paralysis were randomized postoperatively"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "randomized postoperatively to early mobilization (n=13) or immobilization (n=11)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mobilized group experienced a significant reduction in rehabilitation time by an average of 15 days (p<0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The EMPATHY Study: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned in a 1:1 ratio"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible patients had elevated low-density lipoprotein cholesterol (LDL-C) and diabetic retinopathy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned in a 1:1 ratio to receive either intensive or standard statin therapy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The EMPATHY study investigates whether intensive statin therapy is more effective than standard therapy in reducing cardiovascular events in patients with hyperlipidemia and diabetic retinopathy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was a composite of CVD incidence and CVD-related death, measured over a maximum follow-up period of 5.5 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to treatment allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 5,144 patients were randomised, with 2,571 assigned to intensive therapy and 2,573 to standard therapy."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Baseline data were analysed for 5,107 patients (2,550 in the intensive therapy group and 2,557 in the standard therapy group) using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "The effect size and precision of the primary outcome are detailed in the full manuscript."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were monitored, with no significant differences reported between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: UMIN000003486."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding sources are disclosed in the full manuscript."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

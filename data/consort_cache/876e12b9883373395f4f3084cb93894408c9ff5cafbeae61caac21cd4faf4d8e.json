@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This multicentre RCT evaluated the effect of lymphatic venous anastomosis on prevention of cellulitis."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with secondary lower extremity lymphoedema who underwent at least 3 months of non-operative decongestive therapy were assigned randomly."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were assigned randomly to lymphatic venous anastomosis or conservative therapy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This multicentre RCT evaluated the effect of lymphatic venous anastomosis on prevention of cellulitis."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary and secondary outcomes were cellulitis frequency, and assessments of circumference, hardness, and pain respectively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Overall, 336 patients were divided into two groups."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "225 in the full-analysis set (primary outcome 225; secondary outcomes 170) and 156 in the per-protocol set (primary outcome 156; secondary outcomes 110)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "the difference between groups in reducing cellulitis frequency over 6 months was \u22120.35 (95 per cent c.i. \u22120.62 to \u22120.09; P = 0.010) in the full-analysis set (FAS) and \u22120.60 (\u22120.94 to \u22120.27; P = 0.001) in the per-protocol set (PPS)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Four patients experienced contact dermatitis with non-operative decongestive therapy alone."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: UMIN00025137, UMIN00031462."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

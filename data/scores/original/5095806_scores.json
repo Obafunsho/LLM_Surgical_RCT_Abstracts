@@ -1,0 +1,74 @@
+{
+  "pmcid": "5095806",
+  "sha256": "cdd820c630fbc26eeaab3bd3361987004322488ca93e87ab7280a779c7524add",
+  "timestamp_utc": "2025-11-09T16:02:24.398756+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.542608695652174,
+    "reading_ease": 38.93434782608699,
+    "word_count": 230
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This was a randomized trial to compare the effect of surgery, endovenous laser ablation ( EVLA ) (with phlebectomies) and UGFS on quality of life and the occlusion rate of the great saphenous vein ( GSV ) 12 months after surgery."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This was a randomized trial to compare the effect of surgery, endovenous laser ablation ( EVLA ) (with phlebectomies) and UGFS on quality of life and the occlusion rate of the great saphenous vein ( GSV ) 12 months after surgery."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with symptomatic, uncomplicated varicose veins ( CEAP class C2–C4 ) were examined at baseline, 1 month and 1 year."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This was a randomized trial to compare the effect of surgery, endovenous laser ablation ( EVLA ) (with phlebectomies) and UGFS on quality of life and the occlusion rate of the great saphenous vein ( GSV ) 12 months after surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This was a randomized trial to compare the effect of surgery, endovenous laser ablation ( EVLA ) (with phlebectomies) and UGFS on quality of life and the occlusion rate of the great saphenous vein ( GSV ) 12 months after surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "This was a randomized trial to compare the effect of surgery, endovenous laser ablation ( EVLA ) (with phlebectomies) and UGFS on quality of life and the occlusion rate of the great saphenous vein ( GSV ) 12 months after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study included 214 patients: 65 had surgery, 73 had EVLA and 76 had UGFS."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The study included 214 patients: 65 had surgery, 73 had EVLA and 76 had UGFS."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 1 year, the GSV was occluded or absent in 59 (97 per cent) of 61 patients after surgery, 71 (97 per cent) of 73 after EVLA and 37 (51 per cent) of 72 after UGFS ( P < 0·001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Perioperative pain was significantly reduced and sick leave shorter after UGFS (mean 1 day) than after EVLA (8 days) and surgery (12 days)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

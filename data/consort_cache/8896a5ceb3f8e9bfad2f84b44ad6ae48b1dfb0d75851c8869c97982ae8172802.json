@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods: This was a cost\u2010effectiveness analysis of the DIVA arm of the multicentre randomized Ladies trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "multicentre randomized Ladies trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "comparing primary anastomosis over Hartmann's procedure for Hinchey grade III or IV diverticulitis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing primary anastomosis over Hartmann's procedure"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The present study aimed to evaluate costs and cost\u2010effectiveness within the DIVA arm of the Ladies trial."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Main outcomes were incremental cost\u2010effectiveness (ICER) and cost\u2013utility (ICUR) ratios, expressed as the ratio of incremental costs and the incremental probability of being stoma\u2010free or incremental quality\u2010adjusted life\u2010years respectively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "multicentre randomized Ladies trial"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Overall, 130 patients were included, of whom 64 were allocated to primary anastomosis and 66 to Hartmann's procedure."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "analysed according to the modified intention\u2010to\u2010treat principle"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Overall mean costs per patient were lower for primary anastomosis (\u20ac20\u2009544, 95 per cent c.i. 19\u2009569 to 21\u2009519) than Hartmann's procedure (\u20ac28\u2009670, 26\u2009636 to 30\u2009704), with a mean difference of \u20ac\u20138126 (\u201314\u2009660 to \u20131592)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

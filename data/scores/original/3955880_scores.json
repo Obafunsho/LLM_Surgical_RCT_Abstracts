@@ -1,0 +1,74 @@
+{
+  "pmcid": "3955880",
+  "sha256": "015644b0f2d088395635e8df37da27256d8b77bf6e73a1e796349d55cb004fb6",
+  "timestamp_utc": "2025-11-09T15:56:41.450801+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.868247787610624,
+    "reading_ease": 7.209274336283215,
+    "word_count": 226
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "The clinicopathologic findings in Burkitt lymphoma (BL) and diffuse large B-cell lymphoma (DLBCL) may show significant overlap and MYC abnormalities, found in all BL, also occur in a subset of DLBCL."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "a phase 3 randomized study of standard immunochemotherapy versus autologous stem cell transplant."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "a phase 3 randomized study of standard immunochemotherapy versus autologous stem cell transplant."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "we identified 260 cases of non-Burkitt, diffuse aggressive B-cell lymphomas"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "MYC positive cases were morphologically and phenotypically heterogeneous and were associated with poor progression-free and overall survival in multivariate analysis."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

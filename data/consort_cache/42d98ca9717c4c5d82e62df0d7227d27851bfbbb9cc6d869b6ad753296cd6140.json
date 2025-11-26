@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Effect of Lipid Modification on Peripheral Arterial Disease after Endovascular Intervention Trial (ELIMIT), which is a randomized trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "ongoing Effect of Lipid Modification on Peripheral Arterial Disease after Endovascular Intervention Trial (ELIMIT), which is a randomized trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with PAD on ASA therapy at baseline were included from the ongoing Effect of Lipid Modification on Peripheral Arterial Disease after Endovascular Intervention Trial (ELIMIT)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "testing whether combination treatment with ezetimibe, niacin, and a statin will halt/regress atherosclerosis compared to statin monotherapy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To determine the prevalence of poor response to aspirin (ASA) therapy over 12-month follow-up in patients with lower extremity peripheral arterial disease (PAD), and to compare the classification agreement among different ASA response assays."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Main Outcome Measures: Patients who had baseline platelet testing and repeat testing at 6-month or 12-month follow-up were included."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 102 patients randomized in ELIMIT, 80 patients satisfied inclusion criteria."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "80 patients satisfied inclusion criteria."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "5% of subjects (4/80) were Persistent PRs by AA aggregation, compared to 27.5% (22/80) of subjects by ADP aggregation, and 9.9% (7/71) of patients by PFA-100 Epi. Regarding the agreement of the assays, only AA aggregation and PFA-100 Epi agreed significantly (K=0.3223; 95% CI 0.15\u20130.493, P=0.0001)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

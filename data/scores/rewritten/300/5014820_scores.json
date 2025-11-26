@@ -1,0 +1,74 @@
+{
+  "pmcid": "5014820",
+  "sha256": "adcb19f7425798b2ef5409e4997649cf29251a99ee5db7406abf6dcfaddb3a3b",
+  "timestamp_utc": "2025-11-09T23:55:59.810961+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.190625,
+    "reading_ease": 39.53802884615385,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Model-Based RSA for Cementless Tapered Wedge Femoral Stem"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to model-based RSA or marker-based RSA using computer-generated random numbers"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "the study included patients undergoing THA with cementless tapered wedge femoral stems"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to model-based RSA or marker-based RSA"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to verify the accuracy and clinical precision of model-based radiostereometric analysis (RSA) compared to conventional marker-based RSA"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the accuracy of RSA measurements"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to model-based RSA or marker-based RSA using computer-generated random numbers, with allocation concealment via sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 24 patients were randomised, with 12 allocated to each group"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The accuracy of model-based RSA was 0.03 mm for subsidence (95% CI, −0.03–0.00) and 0.39° for rotation (95% CI, −0.41 to −0.06)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

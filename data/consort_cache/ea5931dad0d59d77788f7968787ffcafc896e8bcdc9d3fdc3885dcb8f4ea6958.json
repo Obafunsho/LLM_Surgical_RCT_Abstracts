@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Intraocular drug delivery is a promising approach for treatment of ocular diseases."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Treatment of etoposide\u2010resistant RB cells with ANP\u2010HA\u2010GNPs in\u2009ovo resulted in significantly reduced tumor growth and angiogenesis compared with controls."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Therefore, new adjuvant therapies are needed to treat chemoresistant RBs."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Treatment of etoposide\u2010resistant RB cells with ANP\u2010HA\u2010GNPs in\u2009ovo resulted in significantly reduced tumor growth and angiogenesis compared with controls."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Treatment of etoposide\u2010resistant RB cells with ANP\u2010HA\u2010GNPs in\u2009ovo resulted in significantly reduced tumor growth and angiogenesis compared with controls."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

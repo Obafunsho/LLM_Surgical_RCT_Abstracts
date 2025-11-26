@@ -1,0 +1,74 @@
+{
+  "pmcid": "12485998",
+  "sha256": "696a5c4ba818425db6beb34e25e6aea4208c0d76667bef889b80a0a1b3210736",
+  "timestamp_utc": "2025-11-09T22:29:37.772212+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.504210526315791,
+    "reading_ease": 13.197970561998261,
+    "word_count": 236
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Prehabilitation in Surgical Patients"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Participants were randomized into intervention and control groups. The sample size was calculated to detect a significant difference in postoperative outcomes."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included adults undergoing surgery, with the study conducted in a hospital setting."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received a multimodal prehabilitation program, while the control group received standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to evaluate the impact of prehabilitation on surgical outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative complication rate, measured within 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention and 100 to the control group, recruited between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 98 participants in the intervention group and 97 in the control group, using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a significant reduction in complications (mean difference = 5.2%, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in the intervention and 1% in the control group experiencing gastrointestinal side-effects."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by the National Institute of Health."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

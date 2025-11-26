@@ -1,0 +1,74 @@
+{
+  "pmcid": "12492841",
+  "sha256": "66e86d4fa4628dcc22db2aac44fda03acd417d92bcb3bf3673c2c8fba50d5b77",
+  "timestamp_utc": "2025-11-09T15:45:01.936813+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.5854696969697,
+    "reading_ease": 37.158204545454566,
+    "word_count": 363
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Adherence to lung-protective ventilation leads to a lower incidence of perioperative pulmonary complications."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "prospective interventional clinical pre-post study"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "SOP enhanced with a mandatory educational programme"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to assess the impact of a standardized operating procedure (SOP) enhanced with a mandatory educational programme on adherence to intraoperative lung protective ventilation (IOLPV)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 164 patients were enrolled (Group A 82, Group B 82) in the study."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 164 patients were enrolled (Group A 82, Group B 82) in the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The number of procedures with adherence to the whole IOLPV bundle was significantly greater in Group B (Group A, 4%; Group B, 24%; p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The study has been preregistered in registry clinicaltrials.gov and assigned the study registration number NCT05831683"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

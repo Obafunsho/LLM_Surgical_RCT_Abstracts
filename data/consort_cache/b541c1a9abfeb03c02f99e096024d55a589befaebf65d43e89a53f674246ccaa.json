@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This was a secondary analysis of data from an earlier cluster-randomized trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Between April 2019 and December 2020, 1339 of 1679 eligible patients were included in this study"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "the two participating hospitals were randomized to administer aspirin (100 mg daily) or enoxaparin (40 mg daily)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Questions/purposes: (1) Is the type of VTE prophylaxis (enoxaparin or aspirin) used after hip arthroplasty or knee arthroplasty associated with a higher risk of persistent wound drainage?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Persistent wound drainage was defined as any wound drainage beyond Postoperative Day 3"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "the two participating hospitals were randomized"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Assessors were not blinded to the type of prophylaxis each patient received"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between April 2019 and December 2020, 1339 of 1679 eligible patients were included in this study"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "65 in the enoxaparin group and 49 in the aspirin group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "odds ratio 1.2 [95% confidence interval 0.8 to 1.8]; p = 0.40"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

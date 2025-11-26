@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of ABThera vs. Barker's Vacuum Pack in Reducing Systemic Inflammation"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-center, parallel-group randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Forty-five adults undergoing abbreviated laparotomy were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to ABThera (n=23) or Barker's vacuum pack (n=22)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine if the ABThera temporary abdominal closure device reduces systemic inflammation compared to Barker's vacuum pack."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the difference in plasma IL-6 concentration at 24 and 48 hours post-application."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment via a dedicated website."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Forty-five adults undergoing abbreviated laparotomy were randomised 1:1 to ABThera (n=23) or Barker's vacuum pack (n=22) between September 29, 2011, and December 9, 2012."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "No significant differences were observed in adverse events, including enterocutaneous fistula formation and intra-abdominal hypertension."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 90-day mortality was lower in the ABThera group (HR 0.32, 95% CI 0.11\u20130.93, p=0.04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences were observed in adverse events, including enterocutaneous fistula formation and intra-abdominal hypertension."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov NCT01355094."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The trial was funded by institutional grants."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

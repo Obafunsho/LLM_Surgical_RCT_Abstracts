@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of CNI-Sparing Regimens in Kidney Transplantation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to either a CNI-sparing regimen or standard CNI-based regimen."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial included kidney transplant recipients (KTRs) with low-to-moderate immunological risk."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received a CNI-sparing regimen, while the control group received standard CNI-based therapy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the impact of CNI-sparing regimens on long-term allograft function."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was allograft function at 12 months, measured by estimated glomerular filtration rate (eGFR)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "200 participants were randomised: 100 to the intervention and 100 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed improved eGFR (mean difference = 5.2 mL/min/1.73 m\u00b2, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in the intervention and 1% in the control group experiencing gastrointestinal side-effects."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: N/A"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

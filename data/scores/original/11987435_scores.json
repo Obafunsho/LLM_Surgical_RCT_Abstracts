@@ -1,0 +1,74 @@
+{
+  "pmcid": "11987435",
+  "sha256": "2a5c3cd4da21e29f62014b10019898a60b17968ade6d96dcb6df118a17e6ce02",
+  "timestamp_utc": "2025-11-09T15:27:39.287767+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.745314569536422,
+    "reading_ease": 33.26689017660047,
+    "word_count": 302
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "To compare two surgical strategies for myocardial revascularization: one by a minimally invasive direct coronary artery bypass (MIDCAB) and the other by a conventional full sternotomy coronary artery bypass grafting (CABG)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To compare two surgical strategies for myocardial revascularization: one by a minimally invasive direct coronary artery bypass (MIDCAB) and the other by a conventional full sternotomy coronary artery bypass grafting (CABG)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 1915 patients, 1752 underwent conventional CABG utilizing a single internal thoracic artery (ITA) graft and 163 underwent a MIDCAB procedure."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "the hazard ratio was 0.429 (95%CI 0.321–0.574, p < 0.001) for the whole cohort and 0.559 (95%CI: 0.376–0.831, p = 0.004), for the matched cohort."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

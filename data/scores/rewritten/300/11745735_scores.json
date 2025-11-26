@@ -1,0 +1,74 @@
+{
+  "pmcid": "11745735",
+  "sha256": "2b9bed91c1be96d0853e943f17106fcd8740ff72e48b08243ea05474bc5cc555",
+  "timestamp_utc": "2025-11-09T23:19:58.128106+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.59141353383459,
+    "reading_ease": 14.864989974937345,
+    "word_count": 266
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Systematic Review of Patient-Reported Outcome Measures in Differentiated Thyroid Cancer"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study systematically reviews and categorizes all PROMs used to measure HRQOL in DTC patients."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42024549483"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by the Chengdu Science and Technology Bureau technology innovation research and development project (2022-YF05-01847-SN)."
+      }
+    },
+    "total_score": 3,
+    "max_score": 25
+  }
+}

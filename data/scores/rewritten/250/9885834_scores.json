@@ -1,0 +1,74 @@
+{
+  "pmcid": "9885834",
+  "sha256": "6f1ad7ae6adf4d46d31aa64a1236089c96dd9c3aaeb287c1fec038a5a2c57cd2",
+  "timestamp_utc": "2025-11-09T23:02:38.459147+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.355776515151515,
+    "reading_ease": 17.853664772727285,
+    "word_count": 231
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Transversus Thoracic Muscle Plane Block in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted at a single institution."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults aged 18-50 years, ASA physical status II-III, undergoing elective cardiac surgery with median sternotomy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received a pre-induction TTPB with 30 mL of 0.2% ropivacaine, while the control group did not."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study aimed to evaluate the effect of a pre-induction transversus thoracic muscle plane block (TTPB) on intraoperative haemodynamic response and perioperative fentanyl requirement in adult cardiac surgery patients."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was intraoperative haemodynamic response, measured by changes in MAP and HR."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fifteen patients were randomised, with 7 receiving TTPB and 8 in the control group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean intraoperative fentanyl consumption was lower in the TTPB group (7.93 ± 1.16 µg kg−1)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to the block were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

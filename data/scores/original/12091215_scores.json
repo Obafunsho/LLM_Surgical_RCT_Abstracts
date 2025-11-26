@@ -1,0 +1,74 @@
+{
+  "pmcid": "12091215",
+  "sha256": "1c3c8d9922db9c1a0f051a547c73efbcb0b6790aa7ba77364126aad4f20ad441",
+  "timestamp_utc": "2025-11-09T15:30:03.851553+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.7868253968254,
+    "reading_ease": 46.26928571428573,
+    "word_count": 252
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods.: This was a multicenter, randomized, double-blind, placebo-controlled, phase 2 study of NPC-21 for KT recipients with CMV donor-positive (D + )/recipient-negative (R − ) serostatus."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to receive monthly 6 or 12 mg/kg NPC-21, or placebo, in a 4:1:4 ratio."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "KT recipients with CMV donor-positive (D + )/recipient-negative (R − ) serostatus."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned to receive monthly 6 or 12 mg/kg NPC-21, or placebo, in a 4:1:4 ratio."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "In KT recipients, we assessed the efficacy and safety of fiztasovimab (NPC-21), an anti-CMV monoclonal antibody."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary efficacy endpoint was CMV infection by week 16."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to receive monthly 6 or 12 mg/kg NPC-21, or placebo, in a 4:1:4 ratio."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "This was a multicenter, randomized, double-blind, placebo-controlled, phase 2 study."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Eighty-seven KT recipients were randomized; 38, 11, and 38 received 6 mg/kg of NPC-21, 12 mg/kg of NPC-21, or placebo, respectively."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "CMV infections occurred in 29 of 38 (76.3%), 9 of 11 (81.8%), and 26 of 38 (68.4%) patients in the 6 mg/kg NPC-21, 12 mg/kg NPC-21, and placebo groups, respectively."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The absolute difference (95% confidence interval) was −9.1 (−23.9 to 2.8)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were observed after NPC-21 administration."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

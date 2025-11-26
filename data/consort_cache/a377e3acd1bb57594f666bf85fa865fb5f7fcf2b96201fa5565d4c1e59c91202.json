@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "multicenter retrospective study"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "All 194 patients were divided into CS (94 patients) and DCB (100 patients) groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the midterm efficacy of CS and DCB procedures in patients with FPO."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary end point was primary patency at 24\u2009months"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "All 194 patients were divided into CS (94 patients) and DCB (100 patients) groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "the CS used (hazard ratio [HR], 0.54 [95% CI, 0.32\u20130.91], P =0.021)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "major adverse events"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

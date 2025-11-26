@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "140 carotid artery stenting procedures, including 40% of patients at high risk and 60% at normal risk for CEA, were performed in 13 institutes."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible patients had \u226550% symptomatic stenosis or \u226580% asymptomatic stenosis according to the North American Symptomatic Carotid Endarterectomy Trial methods"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The dual-layer nitinol CASPER stent was designed to prevent plaque prolapse into its strut and periprocedural stroke."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To conduct a clinical trial for government approval of the device in patients at either high or normal risk for carotid endarterectomy (CEA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the lack of major adverse events (MAEs), defined as death, stroke, and myocardial infarction within 30 days, and ipsilateral stroke within 1\u2009year."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "140 carotid artery stenting procedures, including 40% of patients at high risk and 60% at normal risk for CEA, were performed in 13 institutes."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "MAEs occurred in two cases (one intraprocedural and one postprocedural stroke), and the MAE rate was 1.4%. The non-MAE rate was 98.6% according to Kaplan-Meier analysis, which was superior to the previously set performance goal."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "MAEs occurred in two cases (one intraprocedural and one postprocedural stroke)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

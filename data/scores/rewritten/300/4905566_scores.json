@@ -1,0 +1,74 @@
+{
+  "pmcid": "4905566",
+  "sha256": "937907bb776c7b7b08e9fb084e107ff995e931429dc9a70eab3b14574c0b44c3",
+  "timestamp_utc": "2025-11-09T23:55:28.888032+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.484500000000004,
+    "reading_ease": 37.21475000000001,
+    "word_count": 275
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Bariatric Surgery vs. Lifestyle Intervention for Type 2 Diabetes Mellitus Remission"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Sixty-one obese participants with T2DM were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial was conducted at the University of Pittsburgh Medical Center. Sixty-one obese participants with T2DM"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either an intensive lifestyle weight loss intervention (LWLI) for 1 year followed by a lower lifestyle weight loss intervention (LLLI) for 2 years, or surgical treatments [Roux-en-Y gastric bypass (RYGB) or Laparoscopic adjustable gastric banding (LAGB)]"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was partial and complete diabetes remission at 3 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty-one obese participants with T2DM were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 61 participants, 26 (43%) had a BMI <35 kg/m², 50 (82%) were women, and 13 (21%) were African American."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Partial or complete T2DM remission was achieved by 40% (n=8) of RYGB, 29% (n=6) of LAGB, and 0% of LWLI participants (p=0.0037)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

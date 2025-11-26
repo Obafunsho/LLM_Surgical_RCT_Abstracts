@@ -1,0 +1,74 @@
+{
+  "pmcid": "1877009",
+  "sha256": "3d5425312edb49b9ed9acb9b5dc148baa572d920086aaf44f8e62a7e625df206",
+  "timestamp_utc": "2025-11-09T22:32:26.235879+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.599238310708902,
+    "reading_ease": 19.430974107591766,
+    "word_count": 221
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Hospital Surgical Volume on Long-term Survival in Gastric Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "448 surgical survivors with stage IB-IV (M0) gastric and gastroesophageal junction adenocarcinoma, previously randomised to adjuvant chemoradiation or surgery alone"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "448 surgical survivors with stage IB-IV (M0) gastric and gastroesophageal junction adenocarcinoma"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "previously randomised to adjuvant chemoradiation or surgery alone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study assessed hospital surgical volume's effect on overall survival and gastric cancer recurrence"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was overall survival, measured over a median follow-up of 8.9 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "448 surgical survivors"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients undergoing D1 or D2 dissection at high- or moderate-volume centers had an adjusted hazard ratio of 0.80 (95% CI, 0.53–1.20) for overall survival and 0.78 (95% CI, 0.53–1.14) for disease-free survival"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11275105",
+  "sha256": "bed166c15334503a1c888e2b3da837ef95a5ff60eb7eeb88ba32103167ddb5bd",
+  "timestamp_utc": "2025-11-09T22:01:48.867462+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.567179487179487,
+    "reading_ease": 35.286153846153866,
+    "word_count": 234
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Impact of Diabetes Mellitus on Left Ventricular Assist Device Outcomes: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included patients with advanced HF eligible for LVAD implantation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received standard LVAD therapy, while the control group received LVAD therapy with additional DM management."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to elucidate the impact of DM on LVAD outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in hemoglobin A1c levels over 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured by sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised, with 100 in each group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a significant decrease in A1c levels (mean difference = 1.2%, 95% CI 0.8 to 1.6; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were more frequent in the control group, with 10% experiencing major infections compared to 5% in the intervention group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: This study was funded by the National Institutes of Health."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

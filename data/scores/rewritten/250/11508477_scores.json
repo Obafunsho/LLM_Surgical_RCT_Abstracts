@@ -1,0 +1,74 @@
+{
+  "pmcid": "11508477",
+  "sha256": "b0e8a7d75eecf076ec01a4958071387d54132b1a98375553b9bc6b3966723d15",
+  "timestamp_utc": "2025-11-09T22:04:20.860590+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.000746054519372,
+    "reading_ease": 23.331879483500728,
+    "word_count": 205
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Efficacy of Cell Salvage in Cardiac Surgery: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included adult participants undergoing cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study evaluates the efficacy of Cell Salvage compared to allogeneic transfusions."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of Cell Salvage compared to allogeneic transfusions."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the effectiveness of Cell Salvage on hemoglobin levels, measured postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty-six studies with 2850 participants (1415 in the Cell Salvage group and 1435 in the control group) were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Cell Salvage showed moderate evidence of greater effectiveness for hemoglobin (mean difference = 0.48 g/dL, 95% CI 0.28 to 0.69) compared to allogeneic transfusions."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: CRD42023446583."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intraoperative Cerebral Oxygen Monitoring and Postoperative Cognitive Dysfunction"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was computer-generated"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Participants were adult cardiac surgery patients recruited from a single tertiary hospital"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved monitoring rScO2, with the comparator being standard care without rScO2 monitoring"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study examines the relationship between intraoperative regional cerebral oxygen saturation (rScO2) and POCD"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was POCD, assessed at hospital discharge and 3 months post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealed using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to physicians assessing outcomes"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 153 patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "153 analysed at discharge and 148 at 3 months"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "difference=0.0 min; 95% CI, \u22123.11\u20131.47; P=0.88"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to the intervention were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT 02185885"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

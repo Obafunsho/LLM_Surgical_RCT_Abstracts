@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We studied kidney transplant recipients experiencing rejection under belatacept-based early corticosteroid withdrawal following T cell depleting induction in a recent randomized trial (BEST Trial, clinicaltrials.gov # NCT01729494 )"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We studied kidney transplant recipients experiencing rejection under belatacept-based early corticosteroid withdrawal following T cell depleting induction in a recent randomized trial (BEST Trial, clinicaltrials.gov # NCT01729494 )"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "everolimus (an mTOR inhibitor) treatment of patients with BRR halted the in vivo proliferation of T EM cells"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to determine mechanisms of rejection and treatment"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "everolimus led to rapid resolution of rejection as confirmed by histology"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "BEST Trial, clinicaltrials.gov # NCT01729494"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

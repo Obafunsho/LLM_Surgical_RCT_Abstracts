@@ -1,0 +1,74 @@
+{
+  "pmcid": "5233689",
+  "sha256": "1a60d88fca7b84202157b2c6a302f724a494c09b899ab56a9399ead6164dc711",
+  "timestamp_utc": "2025-11-09T22:45:43.499451+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.735297468354432,
+    "reading_ease": 32.03256645569621,
+    "word_count": 237
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of a Mobile Web Application to Enhance Knowledge of Increased Risk Donors Among Kidney Transplant Candidates"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this multisite randomised controlled trial, KTCs undergoing evaluation at two transplant centers were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "KTCs undergoing evaluation at two transplant centers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either the Inform Me application following routine transplant education (intervention) or routine education alone (control)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the efficacy of a mobile web application, Inform Me, in enhancing KTCs' knowledge about IRDs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was knowledge about IRDs, assessed immediately after education (Tests 1 and 2) and one week later (Test 3)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 288 participants were randomised: 144 to the intervention and 144 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Intention-to-treat analysis was performed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Intervention participants had significantly higher Test 1 knowledge scores (mean difference=6.61; 95% CI, 5.37–7.86) compared to controls."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

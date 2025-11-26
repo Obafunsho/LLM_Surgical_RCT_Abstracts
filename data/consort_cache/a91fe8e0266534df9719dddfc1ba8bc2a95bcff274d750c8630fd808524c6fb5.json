@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The CIT-01 study was a phase II, multicenter, open label, active control, randomized study."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Twenty-four subjects were randomized to peritransplant intraportal and systemic treatment with either LMW-DS or heparin."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Twenty-four subjects were randomized to peritransplant intraportal and systemic treatment with either LMW-DS or heparin."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "C-peptide response was measured with a mixed meal tolerance test at 75 and 365 days after transplant."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "open label"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty-four subjects were randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "There was no difference in the primary endpoint (stimulated C-peptide 75\u00b15 days after the first transplant) between the 2 arms (1.33\u00b11.10 versus 1.56\u00b11.36 ng/mL, p=0.66)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "LMW-DS was safe and well tolerated with similar observed adverse events (mostly attributed to immunosuppression) as in the heparin arm."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

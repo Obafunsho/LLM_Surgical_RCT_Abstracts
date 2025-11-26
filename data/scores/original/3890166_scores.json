@@ -1,0 +1,74 @@
+{
+  "pmcid": "3890166",
+  "sha256": "75add0ecf908e40577e085c46681e5bd22804acae620ced20ee4ca11c979697c",
+  "timestamp_utc": "2025-11-09T15:56:16.763758+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.233885319627369,
+    "reading_ease": 37.43282605203984,
+    "word_count": 283
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Twenty healthy adults"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "custom-molded TLSO with a reattachable abdominal cutout"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Questions/purposes: (1) For healthy adults, does a TLSO restrict pulmonary function at rest and after exercise compared with no TLSO (control)? (2) At rest, is pulmonary function increased by adding an abdominal cutout to the TLSO (open) compared with a traditional closed TLSO (no abdominal cutout)? (3) Are those results similar after exercise?"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "FVC and FEV 1 were recorded at rest and after exercise"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Adding an abdominal cutout (open) to the TLSO increased FVC at rest (95% confidence interval [CI], 3.79–4.76; p = 0.007) and postexercise (95% CI, 3.80–4.73; p = 0.025) compared with the closed TLSO, and FEV 1 increased postexercise (95% CI, 3.01–3.76; p = 0.02) but not at rest (95% CI, 2.96–3.73; p = 0.053)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

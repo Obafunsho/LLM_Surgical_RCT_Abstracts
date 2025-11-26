@@ -1,0 +1,74 @@
+{
+  "pmcid": "11054558",
+  "sha256": "00a996e2ecf8b62ae2976a7eebfe6e9684b68d691e4e3476d1f2a5cc9a7a8e3c",
+  "timestamp_utc": "2025-11-09T21:59:23.090167+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.305393073117102,
+    "reading_ease": 22.090651456844427,
+    "word_count": 214
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Landiolol for Tachyarrhythmias Management"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised using a computer-generated sequence with allocation concealment via sealed envelopes"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "conducted in Japan, with participants recruited from cardiac and non-cardiac surgery settings. Eligibility criteria included patients with intraoperative tachyarrhythmias"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants received either landiolol or a comparator β-blocker, esmolol, for heart rate control"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate the efficacy and safety of landiolol compared to esmolol in controlling heart rate"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was heart rate control within 24 hours post-intervention"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "randomised using a computer-generated sequence with allocation concealment via sealed envelopes"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was applied to outcome assessors, patients, and clinicians"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 100 to the landiolol group and 100 to the esmolol group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the landiolol group and 97 in the esmolol group using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Landiolol demonstrated superior heart rate control (mean difference = 5.2 bpm, 95% CI 3.1 to 7.3; p = 0.01)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in the landiolol group and 1% in the esmolol group experiencing mild gastrointestinal side-effects"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered under number XYZ123"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by ABC Pharmaceuticals"
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We conducted a pilot prospective randomized controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "reverse obliquity fractures of the proximal femur from January 2009 to December 2009. There were 15 patients with standard nails and 18 with long nails."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing standard versus long (\u2265 34 cm) intramedullary hip nails"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We compared standard and long types of intramedullary hip nails in terms of (1) reoperation (fixation failure), (2) 1-year mortality rate, (3) function and mobility, and (4) union rate."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We determined 1-year mortality rates, reoperation rates, Parker-Palmer mobility and Harris hip scores, and radiographic findings"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "There were 15 patients with standard nails and 18 with long nails."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "We found no difference in reoperation rates between groups."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "There was no difference between the standard- and long-nail groups in mortality rate (17% versus 18%), Parker-Palmer mobility score (five versus six), Harris hip score (74 versus 79), union rate (100% in both groups), blade cut-out (zero versus one), and tip-apex distance (22 versus 24 mm)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Two patients (both from the long-nail group) underwent revision surgery because of implant failure in one and deep infection in the other."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

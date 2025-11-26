@@ -1,0 +1,74 @@
+{
+  "pmcid": "6389380",
+  "sha256": "565b61de7832fc0c4904acf3cf2ed63680f2117be544771f5fd8734623c31e17",
+  "timestamp_utc": "2025-11-09T22:50:15.932625+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.1498219895288,
+    "reading_ease": 16.294959860383955,
+    "word_count": 191
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Low Molecular Weight Dextran Sulfate in Islet Transplantation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Twenty-four subjects were randomized to receive either LMW-DS or heparin during islet transplantation."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study evaluates the efficacy and safety of low molecular weight dextran sulfate (LMW-DS) compared to heparin in preventing IBMIR."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy and safety of low molecular weight dextran sulfate (LMW-DS) compared to heparin in preventing IBMIR."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was stimulated C-peptide response measured 75±5 days post-transplant."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was not implemented due to the open-label design."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twelve participants were randomized to each group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome showed no significant difference between LMW-DS and heparin (1.33±1.10 vs. 1.56±1.36 ng/mL, p=0.66)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, primarily related to immunosuppression."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

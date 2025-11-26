@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Troponin I Levels and Cardiovascular Complications in Postmenopausal Women Undergoing Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive 17 \u03b2-estradiol or placebo"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "175 postmenopausal women not receiving estrogen replacement therapy and scheduled for coronary artery bypass grafting, with or without valve surgery, were enrolled"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive 17 \u03b2-estradiol or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to evaluate the prognostic value of troponin I levels for predicting cardiovascular complications in postmenopausal women undergoing cardiac surgery"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was major adverse cardiovascular events (MACE) within 30 days"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "175 postmenopausal women"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Troponin I levels on postoperative day 1 were predictive of MACE (AUC = 0.862)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

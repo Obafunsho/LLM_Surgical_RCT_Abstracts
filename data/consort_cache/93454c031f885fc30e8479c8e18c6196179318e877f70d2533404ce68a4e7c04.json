@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Core Decompression with Autologous Osteoblastic Cell Transplantation for Early-Stage Osteonecrosis of the Femoral Head"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Phase III, multicenter, randomised, double-blind controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adult patients with ARCO Stage I and II ONFH"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "core decompression with either osteoblastic cell transplantation (study group) or placebo (control group)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "assessed whether core decompression combined with autologous osteoblastic cell transplantation is superior to placebo in treating early-stage osteonecrosis of the femoral head (ONFH)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was a composite treatment response at 24 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "randomised (1:1) to receive core decompression with either osteoblastic cell transplantation (study group) or placebo (control group). Randomisation was stratified by ARCO stage, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Sixty-eight patients were randomised between December 2011 and February 2019"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "25 in the study group and 29 in the control group analysed using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 24 months, there was no significant difference in composite treatment response between the study (61%) and control groups (69%; p = 0.54)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were rare and mild, with no serious events related to treatment."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered under ClinicalTrials.gov NCT01529008."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by Bone Therapeutics SA."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

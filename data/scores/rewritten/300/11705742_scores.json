@@ -1,0 +1,74 @@
+{
+  "pmcid": "11705742",
+  "sha256": "90626ab31ed4582394d1b8a7a6caa98f878f2e19d96a51bd6d79143bf74ab582",
+  "timestamp_utc": "2025-11-09T23:19:10.292775+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.669951113525258,
+    "reading_ease": 26.531698352344762,
+    "word_count": 263
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Effects of Neuromuscular Blocking Agents in Neurosurgical Procedures"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised controlled trial was conducted at a tertiary care hospital."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adult patients aged 18-65 undergoing neurosurgery, with no history of neuromuscular disorders."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either succinylcholine or atracurium."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To compare the effects of succinylcholine and atracurium on intracranial pressure."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in intracranial pressure measured intraoperatively over a 2-hour period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was applied to outcome assessors and patients."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised, with 100 in each group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the succinylcholine group and 97 in the atracurium group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean difference in intracranial pressure was 2.5 mm Hg (95% CI 1.0 to 4.0; p = 0.03) favoring atracurium."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 5% of the succinylcholine group and 3% of the atracurium group, with no severe events."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This study was funded by the National Institute of Health."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

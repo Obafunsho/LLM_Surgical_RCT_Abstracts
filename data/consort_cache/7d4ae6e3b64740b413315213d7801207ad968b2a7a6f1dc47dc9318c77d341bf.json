@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial on Blood Transfusion in Total Knee Replacement"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at Hospital Melaka, this retrospective cross-sectional study included 296 adult patients who underwent elective primary unilateral TKR from January 2015 to December 2019. Participants were selected based on primary knee osteoarthritis and unilateral TKR, excluding those with haematological disorders or secondary osteoarthritis."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the prevalence of ABT and identify factors affecting transfusion and blood loss."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the prevalence of ABT, assessed postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Conducted at Hospital Melaka, this retrospective cross-sectional study included 296 adult patients who underwent elective primary unilateral TKR from January 2015 to December 2019."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The prevalence of ABT was 4.39% (95% CI 2.04, 6.74). Pre-operative haemoglobin was the only significant factor associated with ABT (P<0.001; OR=0.35; 95% CI 0.22, 0.54). Prolonged tourniquet time (>120 minutes) significantly increased blood loss, with participants having 2.67 times the odds of >2 g/dL blood loss compared to those with \u2264120 minutes (95% CI=1.54, 4.64)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The study was not registered as a trial"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "received no specific funding"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

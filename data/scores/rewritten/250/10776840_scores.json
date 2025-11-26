@@ -1,0 +1,74 @@
+{
+  "pmcid": "10776840",
+  "sha256": "67c8054e2e4cfa17a8e8561a47420484a0c51ce220d7ee186748e7fc34d37cde",
+  "timestamp_utc": "2025-11-09T21:57:04.806209+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.727905655015633,
+    "reading_ease": 18.328056265984685,
+    "word_count": 207
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial on Extracellular Vesicles in PRBC Transfusion"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included 23 postoperative ICU patients: 5 after open aortic surgery, 9 after bilateral lung transplantation, and 9 after other surgeries. Eligibility criteria included age 18-99 years and PRBC transfusion postoperatively."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Plasma samples were collected three times before and after leukoreduced PRBC transfusion at 30-min intervals."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants included 23 postoperative ICU patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Total EVs, EryEVs, total PEVs, and GEVs increased post-transfusion compared to baseline in the entire cohort."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Clinicaltrials.gov: NCT03782623."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

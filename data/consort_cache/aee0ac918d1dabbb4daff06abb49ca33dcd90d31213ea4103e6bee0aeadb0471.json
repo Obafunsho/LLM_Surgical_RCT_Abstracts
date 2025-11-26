@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Methadone for Opioid-Sparing in Pediatric Tonsillectomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This double-blind, randomised controlled trial was conducted in a pediatric surgical setting."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were children aged 3-17 years undergoing tonsillectomy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either a single intravenous dose of methadone (0.1 mg/kg or 0.15 mg/kg) or as-needed fentanyl."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was total opioid use over 7 days, measured in oral morphine equivalents per kilogram (OME/kg)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty children were randomised (20 per group)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "analysed per protocol."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Total 7-day opioid use was significantly lower in the methadone groups: 0.9 [0.1,1.4] OME/kg for 0.1 mg/kg (P=0.045) and 0.5 [0,1.4] OME/kg for 0.15 mg/kg (P=0.023), compared to 1.5 [1.2,2.1] OME/kg in controls."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No serious opioid-related adverse events occurred."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

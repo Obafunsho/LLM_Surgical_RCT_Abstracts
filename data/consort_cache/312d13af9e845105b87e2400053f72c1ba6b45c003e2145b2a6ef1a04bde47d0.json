@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of an Augmented Reality-Based Portable Navigation System for Acetabular Cup Placement in Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 46 patients scheduled for THA were randomly assigned"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "The study setting and participant eligibility criteria were not specified."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to either the AR navigation group or the conventional group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the efficacy of an augmented reality (AR)-based portable navigation system in improving the accuracy of acetabular component placement during total hip arthroplasty (THA) compared to the conventional freehand technique."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the absolute difference between the targeted and postoperative measured placement angles"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 46 patients scheduled for THA were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The AR navigation group demonstrated smaller mean differences in radiographic inclination compared to the conventional group (2.3\u00b0 \u00b1 1.4\u00b0 vs. 3.9\u00b0 \u00b1 2.4\u00b0; p = 0.009) and in CT images (1.9\u00b0 \u00b1 1.3\u00b0 vs. 3.4\u00b0 \u00b1 2.6\u00b0; p = 0.02)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No complications were associated with the use of the AR system."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

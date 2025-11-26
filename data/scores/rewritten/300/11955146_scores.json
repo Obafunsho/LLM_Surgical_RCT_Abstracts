@@ -1,0 +1,74 @@
+{
+  "pmcid": "11955146",
+  "sha256": "12f3b309b906ce27e248fdbf6185bb6e8c8c6b1326d5ca2bd396eaf166cdca08",
+  "timestamp_utc": "2025-11-09T23:23:31.159307+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.74981132075472,
+    "reading_ease": -0.7283647798741981,
+    "word_count": 265
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study evaluates six potential treatments for hemorrhagic shock (HS): niacin, thiazolidinediones, prolyl hydroxylase domain inhibitors, O-GlcNAcylation stimulation, histone deacetylase inhibitors, and adenosine–lidocaine–magnesium solution."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates six potential treatments for hemorrhagic shock (HS)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Niacin and thiazolidinediones showed improved survival in animal models, while prolyl hydroxylase domain inhibitors and O-GlcNAcylation stimulation demonstrated promising effects on cellular stress responses."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  }
+}

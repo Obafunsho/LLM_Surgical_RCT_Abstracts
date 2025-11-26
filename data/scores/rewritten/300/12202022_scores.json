@@ -1,0 +1,74 @@
+{
+  "pmcid": "12202022",
+  "sha256": "ece5b4dee9993d2cc8db74cdeb836b69678fbe413c52e02d3637c720693261bf",
+  "timestamp_utc": "2025-11-09T23:30:06.751822+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.882508798391154,
+    "reading_ease": 20.048438914027173,
+    "word_count": 234
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Thoracofemoral Bypass as Primary Treatment for Juxtarenal Aortoiliac Occlusive Disease"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "No randomisation or blinding was employed."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at S.M.S. Medical College and Group of Hospitals, Jaipur, this retrospective analysis included 90 patients with severe aortoiliac occlusive disease from August 2012 to August 2022. Eligibility criteria were complete abdominal aorta obstruction at the renal artery level with no suitable site for aorta clamping."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved thoracobifemoral bypass using BARD IMPRA expanded polytetrafluoroethylene vascular grafts."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses its effectiveness as a primary treatment option."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 30-day graft patency."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "No randomisation or blinding was employed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "No randomisation or blinding was employed."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "No randomisation or blinding was employed."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "the analysis was conducted on all 90 patients."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Graft patency was 100% at 30 days."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Major morbidities included graft occlusion in one patient, managed by embolectomy, and ascites in another, addressed conservatively."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The study was not registered as a trial"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "was funded by institutional resources."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

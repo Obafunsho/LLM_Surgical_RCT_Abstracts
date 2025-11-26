@@ -1,0 +1,74 @@
+{
+  "pmcid": "4913420",
+  "sha256": "cc82e24261982481ac4668251d168959e2570999e35f89fee81ccd34f731dee1",
+  "timestamp_utc": "2025-11-09T16:01:22.895069+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.562612033195023,
+    "reading_ease": 26.45736203319504,
+    "word_count": 241
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients undergoing elective aortic surgery requiring cardiopulmonary bypass were randomly assigned to receive FCH or placebo."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing elective aortic surgery requiring cardiopulmonary bypass were randomly assigned to receive FCH or placebo."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients undergoing elective aortic surgery requiring cardiopulmonary bypass were randomly assigned to receive FCH or placebo."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "More allogeneic blood product units were administered during the first 24 h after FCH, 5.0 (2.0–11.0), when compared with placebo, 3.0 (0.0–7.0), P =0.026."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "519 patients from 34 centres were randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "More allogeneic blood product units were administered during the first 24 h after FCH, 5.0 (2.0–11.0), when compared with placebo, 3.0 (0.0–7.0), P =0.026."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse event rates were comparable in each group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinical trial registration: ClinicalTrials.gov identifier no. NCT01475669 ; EudraCT trial no. 2011-002685-20."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

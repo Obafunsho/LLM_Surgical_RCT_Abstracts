@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients with lung nodules received OTL38 (0.025mg/kg) preoperatively."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients with lung nodules received OTL38 (0.025mg/kg) preoperatively."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The primary goal was to determine if OTL38 improved surgeons\u2019 ability to identify hard-to-find nodules, occult cancers, and positive margins."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Efficacy was evaluated by occurrence of clinically significant events (CSE), occurrences that caused the surgeon to modify the operation or up-stage the patient\u2019s cancer."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 110 patients recruited; 92 were eligible for analysis."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 110 patients recruited; 92 were eligible for analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "IMI found 24 additional nodules, 9 (10%) of which were cancers that had not been known preoperatively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no serious adverse events."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "CLINICALTRIALS.GOV: NCT02872701"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

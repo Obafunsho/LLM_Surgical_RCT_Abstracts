@@ -1,0 +1,74 @@
+{
+  "pmcid": "7012662",
+  "sha256": "c9273fe42d715471ab1c69a14ec56ea101f3e548433b8abc21c830b39fbd15a1",
+  "timestamp_utc": "2025-11-10T00:04:08.736960+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.134285714285713,
+    "reading_ease": 2.2427966101695063,
+    "word_count": 236
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Everolimus for Belatacept-Refractory Renal Allograft Rejection"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, peripheral mononuclear cells, serum creatinine levels, and renal biopsies were collected from 8 patients"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "characterize CD8+ effector memory T cell (T_EM) populations before and after mTOR inhibition with everolimus"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the mechanisms and treatment of rejection in kidney transplant recipients under belatacept-based early corticosteroid withdrawal following T cell depleting induction."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "8 patients experiencing belatacept-refractory rejection"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Everolimus treatment halted the in vivo proliferation of T_EM cells, reduced their ex vivo alloreactivity, and significantly decreased their presence in peripheral blood."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered at clinicaltrials.gov (#NCT01729494)."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

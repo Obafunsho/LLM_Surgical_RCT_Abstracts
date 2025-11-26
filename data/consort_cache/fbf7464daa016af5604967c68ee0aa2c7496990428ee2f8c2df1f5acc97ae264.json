@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tranexamic Acid in Surgically Treated Intracerebral Hemorrhage Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "2325 participants with acute ICH were randomized"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive either TXA or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "investigates whether TXA reduces the frequency of neurosurgery and improves outcomes"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the frequency of neurosurgery within 7 days"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "2325 participants with acute ICH were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was intention-to-treat"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "OR 0.893; 95% CI 0.619-1.289; P = .545"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events, including seizures, were more common"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN93732214"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The trial was funded by the National Institute for Health Research"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned to the different treatments using computer-generated block randomization (block of six)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Between May 2021 and December 2021, we treated 165 adult patients for trigger finger at an academic university hospital."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Splinting involved the patient wearing a fixed metacarpophalangeal joint orthosis... Steroid injection was performed using 1 mL of 1% lidocaine without epinephrine and 1 mL of triamcinolone acetonide (10 mg/mL)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Are there differences in pain reduction and functional improvement in adults with trigger finger treated with splinting alone, steroid injection alone, and a combination of splinting and steroid injection at 6, 12, and 52 weeks after the intervention?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes evaluated were VAS pain reduction and improvement in Michigan Hand Outcomes Questionnaire (MHQ) scores at 6, 12, and 52 weeks after the intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned to the different treatments using computer-generated block randomization (block of six). Sequentially numbered, opaque, sealed envelopes were used in the allocation concealment process."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Both the allocator and the outcome assessor were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "After screening, 120 patients were randomized to receive either splinting (n = 43), steroid injection (n = 40), or splinting plus steroid injection (n = 37)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "An intention-to-treat analysis was performed with all 120 patients, and a per-protocol analysis was conducted with 86 patients."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "There were no clinically important differences in VAS pain scores among the three treatment groups at any timepoint, in either the intention-to-treat or the per-protocol analyses."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

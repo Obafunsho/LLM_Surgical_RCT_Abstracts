@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Propofol's Immunomodulatory Effects in Sepsis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, macrophages from Rab5a\u2212/\u2212 and WT mice were treated"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Peripheral blood monocytes from septic patients and healthy volunteers were also analyzed."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "macrophages from Rab5a\u2212/\u2212 and WT mice were treated with lipopolysaccharide (LPS) or cecal ligation and puncture (CLP)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to elucidate the mechanisms of propofol's immunomodulatory activity."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in membrane TLR4 expression, assessed over 24 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation concealment was achieved using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Propofol significantly reduced membrane TLR4 expression on macrophages in both in vitro and in vivo settings."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported during the study."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

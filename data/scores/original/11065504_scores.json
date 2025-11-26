@@ -1,0 +1,74 @@
+{
+  "pmcid": "11065504",
+  "sha256": "fe7f583dd0d1125fa7e220e806bfbd2333a4aeb49eb3890ee3064f21a92af731",
+  "timestamp_utc": "2025-11-09T15:14:47.510364+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.42566037735849,
+    "reading_ease": 20.683635703918753,
+    "word_count": 212
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We enrolled 36 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with locally advanced resectable esophageal/GEJ adenocarcinoma"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients with locally advanced resectable esophageal/GEJ adenocarcinoma received PET directed chemoradiation with durvalumab prior to esophagectomy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To determine the safety and efficacy of adding the anti-PD-1 antibody durvalumab to induction FOLFOX and preoperative chemotherapy in locally advanced esophageal adenocarcinoma."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint of the study was pathologic complete response (pCR)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We enrolled 36 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "33 of whom completed all preoperative treatment and underwent surgery."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "pCR was identified in 8 (22% [one-sided 90% lower bound: 13.3%]) patients with mPR in 22 (61% [one sided 90% lower bound: 50%]) patients."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Preoperative treatment was well tolerated, with no delays to surgery nor new safety signals."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

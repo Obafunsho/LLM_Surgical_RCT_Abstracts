@@ -1,0 +1,74 @@
+{
+  "pmcid": "12022704",
+  "sha256": "7105f112d489e797e9e3d0e788c852dbd7ffb4b3f234488c8503c19ffecc8c97",
+  "timestamp_utc": "2025-11-09T22:13:14.029307+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.710829975825945,
+    "reading_ease": 26.877219983884004,
+    "word_count": 219
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial on Blood Transfusion in Total Knee Replacement"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective cross-sectional study was conducted at Hospital Melaka"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included primary knee osteoarthritis and unilateral TKR."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the prevalence of ABT and factors influencing transfusion and blood loss."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the prevalence of ABT, measured postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The prevalence of ABT was 4.39% (95% CI 2.04, 6.74)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The study was not registered as a trial"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "received no specific funding"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11878355",
+  "sha256": "93eae985a0ee132b0d8975e812995fce37f9742bd8419603967d6a64c1803eb5",
+  "timestamp_utc": "2025-11-09T15:25:04.798753+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 5.588373070834983,
+    "reading_ease": 66.47857860110804,
+    "word_count": 361
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compares the efficacy and safety of palonosetron and ondansetron"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To establish evidence for best clinical practices, this meta-analysis compares the efficacy and safety of palonosetron and ondansetron in preventing PONV"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "reported the efficacy (nausea and vomiting) at postoperative time points, namely T1 (0–2 hours), T2 (0–6 hours), T3 (12–24 hours), T4 (24–48 hours), and T5 (24–72 hours)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Nineteen randomised controlled trials were included"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Pooled risk ratio (RR) revealed that patients receiving palonosetron were significantly less likely to develop nausea [0–2 h, RR = 0.82 (95% confidence interval (CI): 0.50, 1.34)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The safety profiles of palonosetron and ondansetron were comparable"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

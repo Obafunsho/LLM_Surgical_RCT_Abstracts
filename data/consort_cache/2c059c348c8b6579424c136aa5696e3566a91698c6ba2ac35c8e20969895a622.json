@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tranexamic Acid in Major Abdominal Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "multicenter, double-blind, placebo-controlled, randomised superiority trial involves 850 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "850 patients aged 18 years or older undergoing elective esophagectomy, gastrectomy, colectomy, rectal resection, pancreatic resection, or hepatectomy across eleven academic hospitals in Germany"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive either TXA (1000 mg bolus before incision, 125 mg/h until closure) or placebo"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome is the need for transfusion of at least one unit of PRBCs, measured intra- or postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation is computer-generated with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding includes patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Recruitment began on June 17, 2024, with completion expected by November 2025."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis will follow an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events will be monitored"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "trial registration EU CT Nr: 2023\u2013509970-43\u201301, NCT06414031"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding is provided by institutional grants."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

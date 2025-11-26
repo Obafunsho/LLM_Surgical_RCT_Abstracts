@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "BACKGROUND: Minimally invasive therapies for drug-resistant epilepsy (DRE) have been advocated."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this phase 1 clinical trial, 3 adult patients with DRE underwent CED into the seizure focus of artificial CSF vehicle followed by muscimol for 12 to 24 h each using a crossover design."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "3 adult patients with DRE"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "CED into the seizure focus of artificial CSF vehicle followed by muscimol"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVE: To investigate the safety and anti-epileptic effects of intracerebral muscimol infusion into the epileptic focus of patients with DRE."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "examined by assessing the infusions\u2019 effects on seizure frequency, electroencephalogram (EEG) spike-wave activity, and power-spectral EEG frequency."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "3 adult patients with DRE"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Seizure frequency decreased in 1 of 3 patients during muscimol infusion but was unchanged in all patients during vehicle infusion."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Pathological examination of resected specimens showed no infusion-related brain injuries."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

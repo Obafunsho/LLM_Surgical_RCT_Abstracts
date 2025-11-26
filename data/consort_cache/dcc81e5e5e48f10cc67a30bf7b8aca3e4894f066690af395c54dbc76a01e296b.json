@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "multicentre parallel\u2010group randomized clinical trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "a randomized trial of UGFS , EVLA or surgery for varicose veins"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were recruited from 11 UK sites"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing ultrasound\u2010guided foam sclerotherapy ( UGFS ), endovenous laser ablation ( EVLA ) and surgery"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to assess behavioural recovery from the patient's perspective"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Patients were followed up 6 weeks after treatment and asked to complete the Behavioural Recovery After treatment for Varicose Veins ( BRAVVO ) questionnaire"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 798 participants were recruited"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "UGFS was superior to EVLA in terms of return to full\u2010time work (hazard ratio 1\u00b743, 95 per cent c.i. 1\u00b711 to 1\u00b785)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

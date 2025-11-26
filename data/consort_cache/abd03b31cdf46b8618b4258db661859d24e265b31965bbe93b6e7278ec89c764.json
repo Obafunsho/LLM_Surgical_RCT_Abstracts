@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Obstructive Sleep Apnea in Atrial Fibrillation Patients"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised controlled trial was conducted in cardiology units, enrolling adult AF patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "conducted in cardiology units, enrolling adult AF patients"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to either polysomnography (PSG) or home sleep apnea testing (HSAT)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was OSA prevalence, assessed over a 12-month period"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the PSG group and 100 to the HSAT group, between January 2020 and June 2021"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 98 participants in the PSG group and 97 in the HSAT group, using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "OSA prevalence was 65% in the PSG group and 60% in the HSAT group (mean difference = 5%, 95% CI -5% to 15%; p = 0.30)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by the National Heart Institute"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

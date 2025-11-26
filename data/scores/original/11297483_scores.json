@@ -1,0 +1,74 @@
+{
+  "pmcid": "11297483",
+  "sha256": "4bfcccd4b8ddb207657c4fb9f9893e7d543cf1e2cb4891b717b24617caa29690",
+  "timestamp_utc": "2025-11-09T15:17:18.995435+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.846470588235295,
+    "reading_ease": 19.84264705882356,
+    "word_count": 298
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "130 patients in the Setouchi Lung Cancer Group who underwent FDG-PET imaging before and after induction therapy"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "In this study, we evaluated the predictive value of Positron Emission Tomography Response Criteria in Solid Tumors (PERCIST)"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 130 patients in the Setouchi Lung Cancer Group"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The sensitivity, specificity, and accuracy of PERCIST for predicting pCR were 16.7% (7/42), 88.6% (78/88), and 65.4% (85/130), respectively."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10792051",
+  "sha256": "36933a80c1c51c222dc3d2b925bcc49d1d6b231c081460763e5f10ce1c26bd43",
+  "timestamp_utc": "2025-11-09T15:11:53.465539+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 18.38404320987654,
+    "reading_ease": -0.6743055555555486,
+    "word_count": 243
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients who meet the conditions and give their consent will be randomly assigned to the intervention group or the control group."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients with pulmonary hypertension undergoing elective cardiac surgery will be included in this study."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The randomized controlled trial will include an intervention group continuously infused with 0.04 U/(kg h) of pituitrin and a control group."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study is to investigate whether pituitrin is beneficial for the postoperative outcomes in patients with pulmonary hypertension undergoing cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome is the composite endpoint of all-cause mortality within 30 days after surgery or common complications after cardiac surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients who meet the conditions and give their consent will be randomly assigned to the intervention group or the control group."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

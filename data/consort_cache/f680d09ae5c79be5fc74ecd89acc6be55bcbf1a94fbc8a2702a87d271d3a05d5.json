@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were assigned randomly to the DNTP group (n = 50) or the LAIP group (n = 50)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "One hundred patients between 18 and 70 years undergoing elective surgery requiring IJV cannulation were recruited."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aims to compare the first-pass success rate of IJV cannulation using the DNTP and long-axis in-plane (LAIP) approaches."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare the first-pass success rate of IJV cannulation using the DNTP and long-axis in-plane (LAIP) approaches."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "We recorded the first-pass success rate, time to achieve successful cannulation, number of skin punctures, overall success rate within five minutes, and potential complications such as pneumothorax and hematoma."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were assigned randomly to the DNTP group (n = 50) or the LAIP group (n = 50)."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Patients were assigned randomly to the DNTP group (n = 50) or the LAIP group (n = 50)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The first pass success rate was higher in the DNTP group (48/50, 96%) as compared to the LAIP group (38/50, 76%, relative risk, 1.67; 95% confidence interval, 0.039-0.707; p = 0.008)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The first pass success rate was higher in the DNTP group (48/50, 96%) as compared to the LAIP group (38/50, 76%, relative risk, 1.67; 95% confidence interval, 0.039-0.707; p = 0.008)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No complications like pneumothorax or hematoma were noted in both groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10631503",
+  "sha256": "08637c53a92d457c686f4198dcad6d566210de7a4ecbc64ace8ea99884f6ba51",
+  "timestamp_utc": "2025-11-09T15:10:07.667669+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.604074074074074,
+    "reading_ease": 29.67833333333334,
+    "word_count": 270
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Forty participants were randomized to individual or team iVR training."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Individually trained participants practiced alongside virtual avatar counterparts, whereas teams trained live in pairs."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess whether multiplayer immersive Virtual Reality (iVR) training was superior to single-player training for the acquisition of both technical and nontechnical skills in learning complex surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Secondary outcomes were procedure duration and the number of technical errors."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Videos were marked by 2 blinded assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty participants were randomized to individual or team iVR training."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Teams outperformed individually trained participants for nontechnical skills in the real-world assessment (Non-Operative Technical Skills for Surgeons: 13.1±1.5 vs 10.6±1.6, P = 0.002, Non-TECHnical Skills II score: 51.7 ± 5.5 vs 42.3 ± 5.6, P = 0.001 and Scrub Practitioners’ List of Intraoperative Non-Technical Skills: 10 ± 1.2 vs 7.9 ± 1.6, P = 0.004). They completed the assessment 33% faster (28.2 minutes ± 5.5 vs 41.8 ± 8.9, P < 0.001), and made fewer than half the number of technical errors (10.4 ± 6.1 vs 22.6 ± 5.4, P < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

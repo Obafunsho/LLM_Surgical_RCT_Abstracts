@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Score-Based Observation Versus Imaging in Early Equivocal Appendicitis"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-centre randomised controlled trial included adults with suspected appendicitis"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adults with suspected appendicitis, symptoms for less than 24 hours, and an Adult Appendicitis Score (AAS) of 11\u201315"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to imaging or observation groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine if early imaging results in more diagnoses of acute appendicitis than initial observation"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the number of patients requiring treatment for acute appendicitis within 30 days"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "using computer-based block randomisation with allocation concealment via a web-based system"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between May 2016 and March 2020, 185 patients were randomised: 93 to imaging and 92 to observation"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "After exclusions, 93 and 88 patients were analysed, respectively"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "72% required treatment for appendicitis compared to 57% in the observation group (odds ratio 0.51, 95% CI 0.27 to 0.95; p = 0.032)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02742402"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

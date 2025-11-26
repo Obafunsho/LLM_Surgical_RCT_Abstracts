@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Prophylactic Intraperitoneal Mesh Implantation in Abdominal Surgery: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This open-label randomised controlled trial was conducted at Bern University Hospital, Switzerland, from January 1, 2011, to February 29, 2014."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants had two or more risk factors: overweight/obesity, neoplastic disease, male sex, or previous laparotomy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised to intraperitoneal mesh implantation or standard closure."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was incisional hernia incidence at 3 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment by sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 169 patients, 150 were analysed (69 mesh, 81 control)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of 169 patients, 150 were analysed (69 mesh, 81 control)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mesh group had a lower hernia incidence (7.2% vs 18.5%, P = .03)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Early postoperative pain was higher in the mesh group at 6 weeks (65% vs 44%, P = .04) but not at later follow-ups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: NCT01203553."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

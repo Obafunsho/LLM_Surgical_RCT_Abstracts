@@ -1,0 +1,74 @@
+{
+  "pmcid": "12303487",
+  "sha256": "f687dd1dd5758ef31726379878e06c357995e886dff99102795a56607f019cc4",
+  "timestamp_utc": "2025-11-09T23:32:34.532529+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.085587044534414,
+    "reading_ease": 20.747570850202436,
+    "word_count": 247
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study aimed to increase awareness and understanding of renal cancer associated with end-stage renal disease (ESRD)"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The patient opted for conservative treatment, with immobilization of the humerus to stabilize the affected area."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "As of the time of submission, the patient's pain had intensified, requiring oral pain medication for symptomatic relief."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 3,
+    "max_score": 25
+  }
+}

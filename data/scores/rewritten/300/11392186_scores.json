@@ -1,0 +1,74 @@
+{
+  "pmcid": "11392186",
+  "sha256": "81a7ddcc605d72e6143ec6c679c8ce2721cfe6bc74ee24c8397bd87749dc2135",
+  "timestamp_utc": "2025-11-09T23:15:48.188478+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.498154761904768,
+    "reading_ease": -1.0559325396825159,
+    "word_count": 224
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Efficacy of Prophylactic Antibiotics in Clean and Clean-Contaminated Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Randomisation was conducted at the participant level, with allocation concealment ensured."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study setting included various international locations, and eligibility criteria focused on clean and clean-contaminated surgeries."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing preoperative and postoperative prophylactic antibiotic use against placebo in clean and clean-contaminated surgeries."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of surgical site infections (SSIs), measured over the postoperative period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted at the participant level, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was applied to outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The pooled odds ratio (OR) for SSIs with antibiotic prophylaxis versus placebo was 0.60 (95% CI: 0.53–0.68)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42023445822."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: No specific funding was received."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

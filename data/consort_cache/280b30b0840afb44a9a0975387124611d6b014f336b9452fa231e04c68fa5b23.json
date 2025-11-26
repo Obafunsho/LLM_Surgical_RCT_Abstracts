@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Endoscopic Pedicle Saphenous Vein Graft Harvesting in Coronary Artery Bypass Grafting"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients undergoing coronary artery bypass grafting (CABG) with SVGs. Eligibility criteria excluded patients with severe diabetes, age \u226580, and those requiring multivessel bypass."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group underwent Pedicle-EVH, while the control group received conventional NT-SVG harvesting."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to assess the effectiveness of endoscopic pedicle SVG harvesting (Pedicle-EVH) in reducing wound complications while maintaining graft patency."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was early graft patency, assessed via coronary computed tomographic angiography (CCTA) before hospital discharge."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not applied to patients or clinicians."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 148 patients were randomised: 72 to Pedicle-EVH and 76 to NT-SVG."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was conducted per-protocol."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Early patency was 95.8% in the Pedicle-EVH group, with 69 out of 72 patients showing patent grafts."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No major wound complications were reported in the Pedicle-EVH group, while lymphorrhea occurred in 2/72 (2.8%) patients."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The authors declare no conflicts of interest."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12140682",
+  "sha256": "2312bfc50872c824b6ae06d6074fe3bc419aec70393aa95803a4566c6d0c616e",
+  "timestamp_utc": "2025-11-09T22:16:39.488694+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.481270286515727,
+    "reading_ease": 51.06053897014627,
+    "word_count": 217
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Transcatheter Aortic Valve Replacement and Surgical Aortic Valve Replacement"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This meta-analysis included eight randomised controlled trials (RCTs) with a total of 18,671 patients."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Studies comparing TAVR and SAVR outcomes in adults were included."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare the outcomes of transcatheter aortic valve replacement (TAVR) versus surgical aortic valve replacement (SAVR) in patients with aortic stenosis (AS)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was all-cause mortality at 30 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 18,671 patients were randomised, with 9,336 to TAVR and 9,335 to SAVR."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "All-cause mortality was lower in the TAVR group (2.48% vs. 3.03%), with an odds ratio (OR) of 0.79 (95% CI: 0.63–1.00; P = 0.05)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not detailed."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The study was registered in the Open Science Framework (OSF.IO/X35KY)."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "The study was funded by unspecified sources."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

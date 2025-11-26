@@ -1,0 +1,74 @@
+{
+  "pmcid": "7837751",
+  "sha256": "91332208af20528b791764079926e14350842c911aaa67d638118ededca827bb",
+  "timestamp_utc": "2025-11-10T00:07:28.608806+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.094348178137654,
+    "reading_ease": 30.511616734143075,
+    "word_count": 247
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of ANG-3777 in Renal Transplantation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomized 2:1 to receive ANG-3777 (2 mg/kg, n=19) or placebo (n=9)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with <50 cc/h urine output for 8 consecutive hours or creatinine reduction ratio <30% within 24 hours posttransplantation. The study was conducted at five US sites."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized 2:1 to receive ANG-3777 (2 mg/kg, n=19) or placebo (n=9) via three once-daily IV infusions."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was time to achieve ≥1200 cc urine output over 24 hours within 28 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomized 2:1 to receive ANG-3777 (2 mg/kg, n=19) or placebo (n=9)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "By day 28, 83.3% of ANG-3777 patients achieved the primary outcome versus 50% in placebo (log-rank test: χ²=2.799, P=0.09)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events occurred in a similar percentage of subjects in both arms, but events per subject were twice as high in the placebo arm."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: N/A"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

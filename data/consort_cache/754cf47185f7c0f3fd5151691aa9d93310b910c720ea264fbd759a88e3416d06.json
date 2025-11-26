@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Conducted as a single-case study at a tertiary care hospital"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "80-year-old male patient presenting with a ruptured IIAA and AVF"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention consisted of temporary balloon occlusion of the AVF through the femoral vein, followed by EVAR with coil embolization."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the effectiveness of temporary balloon occlusion of an arteriovenous fistula (AVF) via the femoral vein in achieving hemodynamic stability before endovascular aneurysm repair (EVAR)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was hemodynamic stability, evaluated immediately after the intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The patient achieved hemodynamic stability following the temporary balloon occlusion of the AVF. This allowed for successful EVAR without complications."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported during the intervention or follow-up period."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The authors reported no funding sources for this study."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

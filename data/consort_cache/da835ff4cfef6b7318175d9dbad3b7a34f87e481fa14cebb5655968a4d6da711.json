@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A randomized clinical trial was conducted in which 90 patients were enrolled and divided into three groups"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "90 patients were enrolled and divided into three groups"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "divided into three groups: CT-based, MRI-based patient-specific instrumentation, and conventional instrumentation"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We compared the accuracy of MRI- and CT-based patient-specific instrumentation with conventional instrumentation and with each other in TKAs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Clinical outcomes (Knee Society and WOMAC scores) were evaluated preoperatively and at a mean of 3 months postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "90 patients were enrolled and divided into three groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "MRI versus conventional, 1.0\u00b0 [range, 0\u00b0\u20134\u00b0] versus 4.5\u00b0 [range, 0\u00b0\u20138\u00b0], p < 0.001"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

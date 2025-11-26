@@ -1,0 +1,74 @@
+{
+  "pmcid": "11977759",
+  "sha256": "c59db482af609623af09d3b36847414a1f9b4da68299547804917fa5dd6259f9",
+  "timestamp_utc": "2025-11-09T15:27:28.642387+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.842857142857145,
+    "reading_ease": 5.500604395604427,
+    "word_count": 280
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The present study was designed to evaluate the effects of preoperative Lugol solution on thyroid vascularization and surgical morbidity in patients with Graves’ disease undergoing total thyroidectomy."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Fifty-six patients undergoing total thyroidectomy for Graves’ disease were randomly assigned to receive 7 days of Lugol treatment (Lugol+ group, 29) or no Lugol treatment (LS– group, 27) before surgery in this single-centre and single-blinded trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Fifty-six patients undergoing total thyroidectomy for Graves’ disease were randomly assigned to receive 7 days of Lugol treatment (Lugol+ group, 29) or no Lugol treatment (LS– group, 27) before surgery in this single-centre and single-blinded trial."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Fifty-six patients undergoing total thyroidectomy for Graves’ disease were randomly assigned to receive 7 days of Lugol treatment (Lugol+ group, 29) or no Lugol treatment (LS– group, 27) before surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The present study was designed to evaluate the effects of preoperative Lugol solution on thyroid vascularization and surgical morbidity in patients with Graves’ disease undergoing total thyroidectomy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was intraoperative and postoperative blood loss."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Fifty-six patients undergoing total thyroidectomy for Graves’ disease were randomly assigned to receive 7 days of Lugol treatment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "single-centre and single-blinded trial."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fifty-six patients undergoing total thyroidectomy for Graves’ disease were randomly assigned."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No differences between T0 and T1 were found for ultrasonographic vascularization in either group, nor did the histological findings differ."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No differences between T0 and T1 were found for ultrasonographic vascularization in either group, nor did the histological findings differ."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT05784792 ( https://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

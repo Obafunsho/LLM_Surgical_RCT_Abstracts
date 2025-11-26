@@ -1,0 +1,74 @@
+{
+  "pmcid": "11513392",
+  "sha256": "260a35631b1bd61330ca2b929861ccbd183764e103752ec7a2e45ea2db42d44c",
+  "timestamp_utc": "2025-11-09T15:20:15.065626+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.008571428571429,
+    "reading_ease": 33.987514124293824,
+    "word_count": 295
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: Point of care hemoglobin meters play key roles in increasing access to anemia screening in antenatal care especially in settings with limited access to laboratories."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Methods: This was a diagnostic accuracy study that retrospectively evaluated SpHb against a validated reference standard of laboratory assessed hemoglobin (Lab Hb) by a SYSMEX XN-330 automated hematology analyzer."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study was nested within a prospective pregnancy cohort study that recruited unselected pregnant women from antenatal care clinics in two public hospitals in Kilifi County, coastal Kenya."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "We aimed to determine the diagnostic accuracy of a non-invasive spot-check hemoglobin (SpHb) meter, Masimo Rad-67® Pulse CO-Oximeter®, in the diagnosis of anemia in pregnant women attending antenatal care clinics in Kilifi, Kenya."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We aimed to determine the diagnostic accuracy of a non-invasive spot-check hemoglobin (SpHb) meter, Masimo Rad-67® Pulse CO-Oximeter®, in the diagnosis of anemia in pregnant women attending antenatal care clinics in Kilifi, Kenya."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Linear regression and Bland-Altman analysis were performed to compare the two tests and diagnostic accuracy parameters obtained for the diagnosis of anemia."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 2,975 records (from 2,203 unique participants), with paired SpHb and Lab Hb were analyzed."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 2,975 records (from 2,203 unique participants), with paired SpHb and Lab Hb were analyzed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Linear regression showed a significant but weak positive correlation, a proportional bias of 0.44 (95% CI 0.41–0.47) and a constant of 7.59 (95% CI 7.30–7.87, p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

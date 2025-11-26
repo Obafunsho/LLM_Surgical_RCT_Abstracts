@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Mini-Access Versus Sternotomy in Total Arch Replacement"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to either mini-access TAR (n=40) or sternotomy TAR (n=55)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial was conducted at Asan Medical Center, Seoul, Korea, enrolling 95 patients undergoing elective TAR"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to either mini-access TAR (n=40) or sternotomy TAR (n=55)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy and safety of mini-access total arch replacement (TAR) compared to conventional sternotomy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was a composite of early mortality and disabling stroke within 30 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the interventions."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Participants were randomised to either mini-access TAR (n=40) or sternotomy TAR (n=55)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Participants were randomised to either mini-access TAR (n=40) or sternotomy TAR (n=55)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mini-access group showed a lower risk of the primary composite outcome (odds ratio, 0.88; 95% CI, 0.78-1.00; P=0.049)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were less frequent in the mini-access group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

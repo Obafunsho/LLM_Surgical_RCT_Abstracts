@@ -1,0 +1,74 @@
+{
+  "pmcid": "10794519",
+  "sha256": "df8d1fa3b03c3c4d26d0c49adc0a085de062c70e7311314de8215e5af007f9f5",
+  "timestamp_utc": "2025-11-09T15:11:59.506765+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.315519480519484,
+    "reading_ease": 56.436136363636365,
+    "word_count": 330
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "a randomized trial in patients with peripheral cT1aN0 NSCLC"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "697 patients were randomized to LR (357) or SLR (340)"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients with peripheral cT1aN0 NSCLC"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "treated with either lobar (LR) or sublobar resection (SLR)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: We have recently reported the primary results of CALGB 140503 (Alliance)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Five-year DFS was 64.7% after LR [95% CI; 59.6–70.1%]"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients were randomized to LR (357) or SLR (340) stratified by clinical tumor size, histology and smoking history"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between 6/2007 and 3/2017, 697 patients were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 362 patients had LR, 131 had SR and 204 had WR"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Five-year DFS was 64.7% after LR [95% CI; 59.6–70.1%]"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

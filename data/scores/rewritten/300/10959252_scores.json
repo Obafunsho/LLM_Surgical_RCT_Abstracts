@@ -1,0 +1,74 @@
+{
+  "pmcid": "10959252",
+  "sha256": "3707f42182926cbe310192bed4b344f1179db6d90f7ed16a0d9bb95a067427c5",
+  "timestamp_utc": "2025-11-09T23:10:48.517489+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.40116678770274,
+    "reading_ease": 2.9338779956427175,
+    "word_count": 243
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Folate Receptor-Targeted Intraoperative Molecular Imaging for Pulmonary Nodule Localization"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this Phase I trial, 20 subjects with biopsy-proven pulmonary adenocarcinomas were enrolled at a single center."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "20 subjects with biopsy-proven pulmonary adenocarcinomas were enrolled at a single center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants received OTL38, a novel folate receptor-α targeted optical contrast agent."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the safety and efficacy of folate receptor-targeted intraoperative molecular imaging using OTL38 for localizing pulmonary nodules during resection."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Fluorescence was quantified."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "20 subjects with biopsy-proven pulmonary adenocarcinomas were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Sixteen of 20 (80%) subjects had tumors with in situ fluorescence, with a mean tumor-to-background fluorescence level of 2.9 (IQR, 2.1 to 4.2)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Three Grade I adverse events (transient nausea/abdominal pain) were observed, resolving after infusion completion."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12470380",
+  "sha256": "402a88750a0dba41492c6b46290debe4b108471f486d0da5db429d94ae30d4ca",
+  "timestamp_utc": "2025-11-09T15:43:24.860937+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.556666666666668,
+    "reading_ease": 35.55942561205276,
+    "word_count": 354
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were divided into two groups based on whether they received a transversus abdominis plane (TAP) block."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "A consecutive series of 100 patients who underwent kidney transplant was reviewed."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group A consisted of patients who received an ultrasound-guided TAP block, while Group B included patients who did not receive any form of TAP block."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We aim to review our current clinical practice of peri-operative use of regional blocks during kidney transplants and management of peri-operative pain up to 24 h."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The intra-operative and post-operative use of analgesia was recorded for up to 24 h post kidney transplant."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 100 patients were identified and equally distributed between the two groups [Group A = 50 (TAP block), Group B = 50 (non-TAP block)]."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 100 patients were identified and equally distributed between the two groups [Group A = 50 (TAP block), Group B = 50 (non-TAP block)]."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "There was a statistically significant reduction in the use of intraoperative fentanyl ( p = 0.04) in Group A."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no complications recorded secondary to the use of regional blocks in Group A."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

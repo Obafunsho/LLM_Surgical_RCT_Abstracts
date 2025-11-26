@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Physical Activity Intervention in Colorectal Cancer Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised, controlled, open-label, multicenter trial was conducted in six hospitals in Sweden."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants aged \u226520 years scheduled for elective colorectal cancer surgery were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to either a physical activity intervention or usual care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the effect of a short-term, unsupervised exercise intervention on self-assessed physical recovery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was self-assessed physical recovery 4 weeks postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Outcome assessors were blinded, while participants and clinicians were informed."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between January 22, 2015, and May 28, 2020, 761 participants were randomised (intervention: 379, control: 382)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "After exclusions, 668 participants (intervention: 317, control: 351) were analysed using intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention showed no effect on the primary outcome (adjusted odds ratio 0.84, 95% CI 0.62\u20131.15), with 13% and 15% of participants feeling fully physically recovered in the intervention and control groups, respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials.gov NCT02299596."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

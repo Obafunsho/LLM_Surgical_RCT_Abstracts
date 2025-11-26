@@ -1,0 +1,74 @@
+{
+  "pmcid": "12409644",
+  "sha256": "e31c11cf71744f084c3d34df3ba3e499e2b43bb5ce63202e21c6932eb4dc25cb",
+  "timestamp_utc": "2025-11-09T23:36:40.716422+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.01668240850059,
+    "reading_ease": 29.43420110192841,
+    "word_count": 242
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Acute Normovolemic Hemodilution in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients (≥18 years) undergoing coronary artery bypass grafting (CABG) and/or valve surgery with CPB from July 2020 to September 2023 were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The primary exposure was ANH, defined as any recorded use/volume in the STS database."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates ANH's effectiveness in reducing perioperative transfusion in cardiac surgery with cardiopulmonary bypass (CPB)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was intraoperative or postoperative transfusion of any blood component."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not performed."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Among 16,795 patients (mean age 65.3 years; 72.1% male), ANH was used in 2463 cases (14.7%)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "After propensity score matching (n=2282 pairs), transfusion rates were significantly lower in the ANH group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "ANH was associated with 27% lower odds of any transfusion (odds ratio, 0.73; 95% CI, 0.60-0.89)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: N/A."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

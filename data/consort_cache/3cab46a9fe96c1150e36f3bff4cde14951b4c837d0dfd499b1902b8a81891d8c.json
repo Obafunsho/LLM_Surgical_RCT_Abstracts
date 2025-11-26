@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "treatment allocation was assigned randomly through blinded envelope"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "All patients undergoing primary TKA by one of the two study surgeons (GV, JP) during a 6-month period were evaluated for inclusion and invited to participate."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The study group consisted of 10 patients whose components were implanted using a commercially prepared low-dose tobramycin bone cement mixture (1 g/40 g). The control group consisted of five patients who received standard weight-based dose intravenous tobramycin."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We asked: (1) What is the tobramycin serum and knee intraarticular levels in patients undergoing primary TKA using tobramycin cement? (2) What is the intraarticular tobramycin level for patients receiving only intravenous tobramycin?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Samples of serum and Hemovac \u00ae drain-collected intraarticular hematoma were analyzed at 6, 24, and 48 hours postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "treatment allocation was assigned randomly through blinded envelope"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "treatment allocation was assigned randomly through blinded envelope"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study enrolled 15 patients undergoing primary TKA by one of two surgeons (GV, JP) who met inclusion criteria"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The median (interquartile range [IQR]) intraarticular tobramycin concentrations for the study group, with tobramycin-impregnated bone cement, was 31.8 (29.0) \u03bcg/mL at 6 hours, 17.1 (13.1) \u03bcg/mL at 24 hours, and 6.8 (6.8) \u03bcg/mL at 48 hours."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

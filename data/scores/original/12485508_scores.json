@@ -1,0 +1,74 @@
+{
+  "pmcid": "12485508",
+  "sha256": "3a4242646cd8c08fd780c5dbe78efd407ec55eb707b5800a579c31215fa88763",
+  "timestamp_utc": "2025-11-09T15:44:27.561569+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.497710371819966,
+    "reading_ease": 21.100616438356184,
+    "word_count": 292
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We evaluated the association between STS-PROM and clinical outcomes, including stroke, acute brain injury on diffusion-weighted magnetic resonance imaging (DW-MRI), and cognitive decline in patients undergoing TAVR."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "All patients were evaluated by a board-certified neurologist at baseline, postprocedure, and 30 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In total, 537 of 603 patients with DW-MRI and complete STS assessment undergoing transfemoral TAVR were included in this pooled analysis."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "At 30 days, high risk patients had higher rates of all-cause and cardiovascular mortality, myocardial infarction, acute kidney injury, bleeding, and vascular complications."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "At 30 days, high risk patients had higher rates of all-cause and cardiovascular mortality, myocardial infarction, acute kidney injury, bleeding, and vascular complications."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

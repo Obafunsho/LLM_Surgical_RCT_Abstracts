@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Ventral and Dorsal Surgical Approaches for Cervical Spondylotic Myelopathy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to ventral surgery or dorsal surgery"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This multicenter randomised controlled trial recruited 250 patients with CSM from 11 sites"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to ventral surgery or dorsal surgery (laminectomy/fusion or laminoplasty)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial evaluates the effectiveness of ventral versus dorsal surgical approaches for CSM."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Short Form-36 Physical Component Summary (PCS) score at one-year follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 250 participants, 159 were randomised: 80 to ventral and 79 to dorsal surgery."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The mean difference in SF-36 PCS scores between groups was [insert effect size], 95% CI [insert CI]; p = [insert p-value]."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events occurred in [insert number] of the ventral group and [insert number] of the dorsal group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [insert registration number]."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: NIH (1R13AR065834-01) and PCORI (CE-1304-6173)."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12322986",
+  "sha256": "ab3504a15794fa0a7f618a9f8ad6ee789c4d1f06a785d91ecae958d095a5cfca",
+  "timestamp_utc": "2025-11-09T15:36:57.871007+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.589082823791,
+    "reading_ease": 33.772088197146616,
+    "word_count": 257
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "A retrospective cohort study was performed"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "PDAC patients undergoing resection after NAT"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "26 received neoadjuvant PD-1 blockade plus chemoradiotherapy (combined group) and 21 received PD-1 blockade plus chemotherapy (non-combined group)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study was to identify the survival and PR of patients with PDAC undergoing surgery after neoadjuvant treatment (NAT) with PD-1 blockade plus chemoradiotherapy."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "47 patients were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "47 patients were enrolled with 26 received neoadjuvant PD-1 blockade plus chemoradiotherapy (combined group) and 21 received PD-1 blockade plus chemotherapy (non-combined group)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "In the combined group, the 2-year overall survival (OS) rate, median OS and median disease-free survival (DFS) were 75.2%, 30.5 and 23.2 months, which were all better than those in the non-combined group (42.6%, 23.3 and 16.8 months)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

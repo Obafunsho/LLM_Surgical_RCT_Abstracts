@@ -1,0 +1,74 @@
+{
+  "pmcid": "11035386",
+  "sha256": "70c5a7054d853e75b545c8a11fe791b052a3ac6289a0d230c8a65ec925ef2e24",
+  "timestamp_utc": "2025-11-09T15:14:15.389927+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.02673076923077,
+    "reading_ease": 9.102019230769258,
+    "word_count": 260
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "297 GIBS patients undergoing endovascular aneurysm repair"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "IBD-mediated internal iliac artery preservation"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess pre-endovascular repair anatomical characteristics of aortoiliac aneurysm"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Measurements included total iliac artery length, common iliac artery length, tortuosity index, common iliac artery splay angle, internal iliac artery stenosis, calcification score, and diameters in the device's landing zone."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "297 GIBS patients undergoing endovascular aneurysm repair"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Left total iliac artery length was shorter than right (6.7 mm, P = .0019); right common iliac artery less tortuous ( P = .0145)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Global Iliac Branch Study (GIBS, NCT05607277 )"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

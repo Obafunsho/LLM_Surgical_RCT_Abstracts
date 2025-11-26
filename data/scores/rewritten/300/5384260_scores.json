@@ -1,0 +1,74 @@
+{
+  "pmcid": "5384260",
+  "sha256": "28d3cb80a19686b98421e9a66f8fac4b002e326bc02526d422929ba4adbca265",
+  "timestamp_utc": "2025-11-09T23:57:31.917088+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.94708061002179,
+    "reading_ease": 16.187745098039244,
+    "word_count": 270
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Anorectal Function and Quality of Life After Chemoradiation and Local Excision in Early Rectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Conducted as a multicentric phase II trial (ACOSOG Z6041)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with stage cT2N0 rectal adenocarcinomas"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients received an oxaliplatin/capecitabine-based chemoradiation regimen followed by local excision"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates anorectal function and quality of life in T2N0 rectal cancer patients"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Anorectal function and quality of life were assessed at enrollment and 1 year postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seventy-one patients were evaluated at enrollment and 66 at 1 year"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Seventy-one patients were evaluated at enrollment and 66 at 1 year"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "no significant differences were found in Fecal Incontinence Severity Index scores at 1 year"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Ultrasound-Guided Percutaneous Cryoneurolysis for Traumatic Rib Fractures"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial included adults with one to six rib fractures"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "included adults with one to six rib fractures. Conducted at the University of California-San Diego"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either active cryoneurolysis with a sham peripheral nerve block or sham cryoneurolysis with an active peripheral nerve block"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the effectiveness of ultrasound-guided percutaneous cryoneurolysis in enhancing analgesia and inspiratory volume"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the maximum inspired volume measured with an incentive spirometer the day after the procedure"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by laterality using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "participant/observer-masked"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From April 2020 to August 2023, 20 participants were randomised: 11 to the cryoneurolysis group and 9 to the peripheral nerve block group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "11 to the cryoneurolysis group and 9 to the peripheral nerve block group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The adjusted mean difference in maximum inspired volume was 793 ml greater in the cryoneurolysis group (95% CI, 273 to 1,312 ml; p = 0.005)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One participant in the cryoneurolysis group developed pneumonia, which was successfully treated with antibiotics"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04198662"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The trial was funded by Epimed International, which also provided the cryoneurolysis devices"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

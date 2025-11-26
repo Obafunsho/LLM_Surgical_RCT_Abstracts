@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tranexamic Acid Administration Routes in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A total of 376 patients undergoing TKA between March 2014 and March 2015 were randomised into four groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients undergoing TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised into four groups: IV only, IA only, low-dose combined (IV + IA injection of 1 g), and high-dose combined (IV + IA injection of 2 g)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to compare the efficacy of tranexamic acid in reducing total blood loss and allogeneic transfusion rates among different administration routes in total knee arthroplasty (TKA)"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was total blood loss"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 376 patients undergoing TKA between March 2014 and March 2015"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean differences = 199 mL [95% CI, 116\u2013283 mL], p < 0.001; 121 mL [95% CI, 38\u2013205 mL], p = 0.001; 131 mL [95% CI, 47\u2013214 mL], p < 0.001"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One patient in the IV-only group developed a symptomatic pulmonary embolism"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

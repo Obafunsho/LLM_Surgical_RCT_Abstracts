@@ -1,0 +1,74 @@
+{
+  "pmcid": "4079766",
+  "sha256": "9542cbb25cd2919de52bd1f1a4f784a9ce4fa19f3e2c2025c0a26485fc832832",
+  "timestamp_utc": "2025-11-09T15:57:13.783166+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.359757383966247,
+    "reading_ease": 12.948243670886114,
+    "word_count": 237
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a 2 × 2 design, early revascularization versus medical management with or without late revascularization and insulin sensitization versus insulin provision were examined."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "In a 2 × 2 design, early revascularization versus medical management with or without late revascularization and insulin sensitization versus insulin provision were examined."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) was a study of management strategies for diabetic patients with myocardial ischemia and coronary artery disease."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 347 patients were studied."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The perioperative morbidity and mortality were low and compared well with larger outcomes databases."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The perioperative morbidity and mortality were low and compared well with larger outcomes databases."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

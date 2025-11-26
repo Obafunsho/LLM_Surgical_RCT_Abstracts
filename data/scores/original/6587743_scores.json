@@ -1,0 +1,74 @@
+{
+  "pmcid": "6587743",
+  "sha256": "8a76144b9bf4f20b52d2f58d3086cc549af6196664755f2879eb00b19c0d98cf",
+  "timestamp_utc": "2025-11-09T16:09:45.083710+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.412517182130586,
+    "reading_ease": 42.09341494845361,
+    "word_count": 291
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "people aged 60–69 years were randomized into the screening and control arms"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "people aged 60–69 years were randomized into the screening and control arms"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized into the screening and control arms"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to determine the effects of faecal occult blood test (FOBT) screening of colorectal cancer (CRC) in outcomes beyond mortality"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Differences in incidence, symptoms, tumour location, TNM categories, non‐vital outcomes and survival in the screening and control arms were analysed"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "people aged 60–69 years were randomized into the screening and control arms"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "From 321 311 individuals randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "743 patients with screening‐detected tumours and 617 control patients with CRC were analysed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "CRC was less common in women than in men (0·34 versus 0·50 per cent; risk ratio (RR) 0·82, 95 per cent c.i. 0·74 to 0·91)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

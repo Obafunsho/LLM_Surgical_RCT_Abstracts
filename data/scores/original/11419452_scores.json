@@ -1,0 +1,74 @@
+{
+  "pmcid": "11419452",
+  "sha256": "ab4d0dfae92794566ad6877934cd2fbdd523113eaed815463e7f1be21cab6c2d",
+  "timestamp_utc": "2025-11-09T15:19:02.526094+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 7.469881422924903,
+    "reading_ease": 60.12798418972332,
+    "word_count": 345
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "They were either assigned treatment using a BD group or a control group that received hydrostatic dilation."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The subjects included in this study were all patients with chronic renal failure and required radio-cephalic arteriovenous fistula surgery for the first time and had not received dialysis before."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "They were either assigned treatment using a BD group or a control group that received hydrostatic dilation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To investigate the effect of dilating small blood vessels using a balloon dilation (BD) technique on the occurrence of radio-cephalic autogenous arteriovenous fistulas in terms of patency, blood flow, and vein diameter (VD)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary patency at 1 year for the experimental group was 61.9% compared to 11.1% for the control group ( P = .045)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 22 patients were enrolled in the balloon dilatation group and 20 patients in the control group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The primary patency at 1 year for the experimental group was 61.9% compared to 11.1% for the control group ( P = .045)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

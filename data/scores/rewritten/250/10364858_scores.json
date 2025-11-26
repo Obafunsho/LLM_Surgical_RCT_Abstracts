@@ -1,0 +1,74 @@
+{
+  "pmcid": "10364858",
+  "sha256": "3c64aed99ba45cc3827693b214654027704bd83983a3df5142e72d45748b0c22",
+  "timestamp_utc": "2025-11-09T21:53:45.056759+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.051293165039294,
+    "reading_ease": 36.54749940462017,
+    "word_count": 221
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Long-term Impact of Mesh Type on Chronic Pain in Open Anterior Inguinal Hernia Repair: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised (1:1)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "men aged 25 years or older with symptomatic unilateral inguinal hernia"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised (1:1) to receive either heavyweight (90 g/m²) or lightweight (28 g/m²) mesh"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluated the long-term impact of heavyweight versus lightweight mesh on chronic pain"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was chronic pain affecting daily activities, measured by the Short-Form Inguinal Pain Questionnaire 9–12 years post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed via a web-based server"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not achieved"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 412 randomised patients, 363 were analysed"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "363 were analysed, with 271 completing the follow-up"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Pain affecting daily activities was significantly less in the lightweight group (generalized odds 1.33, 95% CI 1.10 to 1.61; p = 0.004)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00451893"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by Umeå University"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

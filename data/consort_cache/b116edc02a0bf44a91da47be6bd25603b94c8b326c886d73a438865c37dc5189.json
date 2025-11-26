@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of a Decision Aid for Smoking Cessation in Elective Surgery Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A randomised, two-group pilot study was conducted"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were smokers preparing for elective surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The decision aid, consisting of three laminated cards, was designed to facilitate discussions on continuing smoking, temporary abstinence, or quitting smoking."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate a decision aid for discussing smoking behavior change options before and after elective surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was decisional quality, measured using the Decisional Conflict and OPTION scales."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed at the patient level, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Neither patients nor clinicians were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 130 patients were randomised: 65 to the decision aid group and 65 to usual care."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The decision aid significantly improved decisional quality (Cohen\u2019s d = 0.76) and patient involvement (Cohen\u2019s d = 1.20) compared to usual care (p < 0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

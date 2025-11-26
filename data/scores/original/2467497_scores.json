@@ -1,0 +1,74 @@
+{
+  "pmcid": "2467497",
+  "sha256": "311396ed710c01b0979c600a076cafe5a17dc971f0322ebefa722724365be2e8",
+  "timestamp_utc": "2025-11-09T15:48:09.236996+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.446923076923081,
+    "reading_ease": 19.93807692307695,
+    "word_count": 260
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Nineteen patients with isolated unresectable liver metastases from a variety of tumors"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "treated with a 60-min IHP using 200 mg melphalan"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We report the results of our experience with isolated hepatic perfusion (IHP) in patients with isolated liver metastases from a variety of primary tumors."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Patients were monitored for toxicity, response according to response evaluation criteria in solid tumors (RECIST) criteria, and survival."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Nineteen patients with isolated unresectable liver metastases"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "One melanoma patient was not perfused due to insufficient isolation of the liver."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Median disease-free survival was 6.6 months with a median overall survival of 10.0 months."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Reversible grade 3 or 4 hepatoxicity occurred in 10 (56%) patients, while veno-occlusive disease occurred in 4 (22%) patients."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

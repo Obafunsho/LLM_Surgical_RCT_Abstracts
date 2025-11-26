@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this study, we analyzed core laboratory\u2013generated data from echocardiograms of all patients enrolled in the Placement of Aortic Transcatheter Valves (PARTNER) 1 Trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients from continued access observational studies were included for comparison."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Successful implantation after randomization to TAVR vs SAVR (PARTNER 1A; TAVR, n\u2009=\u2009321; SAVR, n\u2009=\u2009313), TAVR vs medical treatment (PARTNER 1B; TAVR, n\u2009=\u2009165), and continued access (TAVR, n\u2009=\u20091996)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To determine the midterm hemodynamic performance of balloon-expandable transcatheter heart valves."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Main Outcomes and Measures: Death or reintervention for aortic valve structural indications, measured using aortic valve mean gradient, effective orifice area, Doppler velocity index, and evidence of hemodynamic deterioration by reintervention, adverse hemodynamics, or transvalvular regurgitation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Successful implantation after randomization to TAVR vs SAVR (PARTNER 1A; TAVR, n\u2009=\u2009321; SAVR, n\u2009=\u2009313), TAVR vs medical treatment (PARTNER 1B; TAVR, n\u2009=\u2009165), and continued access (TAVR, n\u2009=\u20091996)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Five-year echocardiogram data were available for 424 patients after TAVR and 49 after SAVR."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Population hemodynamic trends derived from nonlinear mixed-effects models showed small early favorable changes in the first few months post-TAVR, with a decrease of \u22122.9 mm Hg in aortic valve mean gradient, an increase of 0.028 in Doppler velocity index, and an increase of 0.09 cm 2 in effective orifice area."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Moderate/severe transvalvular regurgitation was noted in 89 patients (3.7%) after TAVR and increased over time."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: clinicaltrials.gov Identifier: NCT00530894"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

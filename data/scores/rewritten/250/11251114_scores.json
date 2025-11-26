@@ -1,0 +1,74 @@
+{
+  "pmcid": "11251114",
+  "sha256": "2b8606a24f493086fa631160ef41964f00e4d1a26979bf46db2fc0c8141565b2",
+  "timestamp_utc": "2025-11-09T22:01:25.207798+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.341937198067633,
+    "reading_ease": 21.937543478260892,
+    "word_count": 207
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Postoperative Immune Function in Minimal Access Breast Surgery and Conventional Open Breast Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included female patients aged 18-75 with cancer stages 0-III and no prior surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "treated with MABS or conventional open breast surgery (COBS)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative immune function, assessed by CD3+, CD4+, and CD8+ lymphocyte percentages and CD4+/CD8+ ratio, measured on preoperative day 1 (PreD1), postoperative day 1 (PostD1), and postoperative day 7 (PostD7) using flow cytometry."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Propensity score matching (PSM) was used to obtain 116 matched pairs."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Both groups showed significant reductions in CD3+, CD4+, and CD8+ percentages and CD4+/CD8+ ratio from PreD1 to PostD1. By PostD7, the MABS group returned to preoperative levels, while the COBS group remained significantly lower."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in postoperative complications were observed between groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Patient-Reported Symptomatic Adverse Events in Neoadjuvant Therapy for Borderline Resectable Pancreatic Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients with borderline resectable pancreatic ductal adenocarcinoma were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with borderline resectable pancreatic ductal adenocarcinoma"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either 8 doses of mFOLFIRINOX (Arm 1) or 7 doses of mFOLFIRINOX plus hypofractionated radiotherapy (Arm 2)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate symptomatic adverse event (AE) rates using the Patient-Reported Outcomes Common Terminology Criteria for Adverse Events (PRO-CTCAE)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "PRO-CTCAE assessments were completed at baseline, on day 1 of each chemotherapy cycle, and daily during radiotherapy"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "In trial A021501, conducted from December 31, 2016, to January 1, 2019, patients with borderline resectable pancreatic ductal adenocarcinoma were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 126 patients, 96 initiated treatment and completed a baseline plus at least one post-baseline PRO-CTCAE assessment"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Decreased appetite was higher in Arm 2 than in Arm 1 (P = 0.0497)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Diarrhea and fatigue were the only symptomatic grade 3 or higher AEs identified in at least 10% of patients using CTCAE"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCTXXXXXXX"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by [Funding Source]"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

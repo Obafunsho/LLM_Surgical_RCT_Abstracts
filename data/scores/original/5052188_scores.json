@@ -1,0 +1,74 @@
+{
+  "pmcid": "5052188",
+  "sha256": "258d105ef4eb0336bd728e1b485779e456a25a79abada6e80898235240730b1f",
+  "timestamp_utc": "2025-11-09T16:01:54.865469+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.921080086580087,
+    "reading_ease": 43.63322727272731,
+    "word_count": 528
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomized to receive a single injection of 0.5 mL placebo or 0.145, 0.29, or 0.58 mg CCH."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "60 patients with adhesive capsulitis were evaluated by clinical examination. To make the diagnosis of adhesive capsulitis, a patient had to have restricted active ROM of at least 60° in total active ROM in the affected shoulder compared with the unaffected contralateral shoulder."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomized to receive a single injection of 0.5 mL placebo or 0.145, 0.29, or 0.58 mg CCH."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We asked: (1) Does a collagenase clostridium histolyticum (CCH) injection lyse shoulder capsule collagen in adhesive capsulitis and at what dose? (2) Can a shoulder capsule injection be administered extraarticularly? (3) Do CCH injections result in better scores for pain and function than can be achieved with physical therapy among patients with adhesive capsulitis?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The CCH injection was more effective than exercise therapy alone at 0.58 mg/1 mL and 0.58 mg/2 mL compared with exercise only in the primary measure of efficacy (active forward flexion) as shown in Study 3."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomized to receive a single injection of 0.5 mL placebo or 0.145, 0.29, or 0.58 mg CCH."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "60 patients with adhesive capsulitis were evaluated by clinical examination."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "53 patients (83%) were followed to 12 months, 46 (77%) for 24 months, 36 (60%) for 36 months, 37 (62%) for 48 months, and 25 (42%) for 60 months."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "For active forward flexion the mean in degrees in the 0.58 mg/2 mL group was 38° compared with 12° in the exercise-only group (p = 0.03)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Clinical data were collected from 45 patients who underwent 4D-CT scans at a single center between April 2017 and April 2022."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: This study aimed to: (1) investigate the hemodynamic characteristics of type II endoleaks using mathematical simulations based on pharmacokinetic analysis; and (2) validate the simulation results using clinical data from four-dimensional computed tomography (4D-CT) to assess the relationship between time-enhanced curves (TECs) and aneurysm enlargement."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was evaluating the consistency between simulation results and clinical TEC data obtained from 4D-CT."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Clinical data were collected from 45 patients who underwent 4D-CT scans at a single center between April 2017 and April 2022."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The simulation-based analysis revealed a strong association between aneurysm enlargement and the most informative parameters, including 80% enhancement duration (area under the curve [AUC], 0.88; sensitivity, 0.87; specificity, 0.80; 95% confidence interval [CI], 0.779-0.990; cutoff, 16.9), peak-to-peak time feeder (AUC, 0.78; sensitivity, 0.93; specificity, 0.60; 95% CI, 0.621-0.937; cutoff, 13.0), and upslope (AUC, 0.86; sensitivity, 0.73; specificity, 0.93; 95% CI, 0.740-0.972; cutoff, 11.7)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

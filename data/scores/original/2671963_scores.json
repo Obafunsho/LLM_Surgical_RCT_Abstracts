@@ -1,0 +1,74 @@
+{
+  "pmcid": "2671963",
+  "sha256": "1097f953d05bae2a6e6539c60b2a572390da140cd58045d3350fec07e55cac11",
+  "timestamp_utc": "2025-11-09T15:49:34.484485+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.012305986696234,
+    "reading_ease": 20.094445676274972,
+    "word_count": 246
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients (n = 44) were randomized"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive bolus infusion of vehicle, 0.1, 0.5, 1, or 2 mg/kg of the ET-AR antagonist"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study tested the hypothesis that administration of an ET-AR antagonist at the separation from cardiopulmonary bypass would alter the tumor necrosis factor activation in the early post operative period."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Plasma levels of tumor necrosis factor-α and soluble tumor necrosis factor receptor 1 and 2 were measured."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients (n = 44) were randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Patients (n = 44) were randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Compared to the vehicle group at 24 hours, plasma levels of tumor necrosis factor-α and tumor necrosis factor receptor 2 (indicative of receptor activation) were reduced in the 1 mg/kg ET-AR antagonist group (by ~13 pg/mL and ~0.5 ng/mL respectively; p<0.05)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

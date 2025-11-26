@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Ultrasound Guidance for Femoral Perineural Catheters"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients undergoing knee arthroplasty were randomly assigned"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients undergoing knee arthroplasty"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to one of three groups: 1) ultrasound alone (n=147); 2) ultrasound with electrical stimulation through the needle (n=152); or 3) ultrasound with electrical stimulation through both the needle and catheter (n=138)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed whether ultrasound guidance alone is noninferior to ultrasound with electrical stimulation for femoral perineural catheter placement"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were postoperative pain scores on a 0\u201310 Verbal Response Scale (VRS) and opioid consumption, assessed over 48 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "ultrasound alone (n=147); 2) ultrasound with electrical stimulation through the needle (n=152); or 3) ultrasound with electrical stimulation through both the needle and catheter (n=138)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The stimulating needle group was noninferior to the stimulating catheter group in mean VRS pain score (difference \u22120.16, 95% CI \u22120.61 to 0.29, P<0.001) and opioid consumption (percent difference \u22125%, 95% CI \u221225% to 21%, P=0.002)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "no significant adverse events reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

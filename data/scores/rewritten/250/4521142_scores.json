@@ -1,0 +1,74 @@
+{
+  "pmcid": "4521142",
+  "sha256": "cad3385c4f2cde391ffd85f247a044106cc1eaa07b543b7bf10edf832a1bc726",
+  "timestamp_utc": "2025-11-09T22:42:42.136372+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.44174863387978,
+    "reading_ease": 22.835947176684925,
+    "word_count": 244
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: A Randomised Controlled Trial Comparing Image Guidance Systems in Neurosurgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this preclinical randomised study, 50 novice surgeons were allocated to one of five groups"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "50 novice surgeons were allocated to one of five groups"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "allocated to one of five groups: (1) no image guidance, (2) triplanar display, (3) always-on solid overlay, (4) always-on wire mesh overlay, and (5) on-demand inverse realism overlay"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the effectiveness and safety of various image guidance systems against standard surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcomes were time to task completion (seconds) and tool path length (millimeters)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "50 novice surgeons were allocated to one of five groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Time to task completion and tool path length were significantly lower with any image guidance compared to no guidance (p < 0.001 and p = 0.003, respectively)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source]."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

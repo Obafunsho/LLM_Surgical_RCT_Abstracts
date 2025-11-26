@@ -1,0 +1,74 @@
+{
+  "pmcid": "8908225",
+  "sha256": "1c0f1be03ba37caf75b61715071355dcb96d71655003fd1e42ca5d524d2b4d0d",
+  "timestamp_utc": "2025-11-09T16:19:44.582174+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.472068230277184,
+    "reading_ease": 51.36989339019192,
+    "word_count": 469
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this single-blind randomized clinical trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this single-blind randomized clinical trial performed at 2 institutions in South Korea from March 2, 2010, to January 22, 2016"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "a total of 184 patients with stage III or IV ovarian cancer with residual tumor size less than 1 cm were randomized"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized (1:1) to a HIPEC (41.5 °C, 75 mg/m 2 of cisplatin, 90 minutes) or control group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To assess the clinical benefit of HIPEC after primary or interval maximal cytoreductive surgery in women with stage III or IV primary advanced ovarian cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary end point was progression-free survival."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized (1:1)"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "single-blind"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "a total of 184 patients with stage III or IV ovarian cancer with residual tumor size less than 1 cm were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 184 Korean women who underwent randomization, 92 were randomized to the HIPEC group and 92 to the control group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "median progression-free survival was 18.8 months (IQR, 13.0-43.2 months) in the control group and 19.8 months (IQR, 13.7-55.4 months) in the HIPEC group ( P = .43)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Overall survival and adverse events were key secondary end points."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT01091636"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

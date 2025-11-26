@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective single-center cohort study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "conducted in a tertiary medical center in East Asia, evaluated excisional hemorrhoidectomies"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "utilizing GAL or SA"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to investigate whether the combination of general anesthesia plus local infiltration (GAL) is associated with lower complications and reduced pain compared to spinal anesthesia (SA)"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Data on the six most common complications-pain, constipation, acute urine retention (AUR), bleeding, nausea, and headache-were extracted from medical records"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 550 hemorrhoidectomies were included: 220 in the GAL group and 330 in the SA group"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The AUR rate was significantly lower in the GAL group compared to the SA group (15.5% vs. 32.1%, P < 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Overall, the GAL group exhibited a lower rate of adverse effects (56.9% vs. 67.4%, P = 0.023)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

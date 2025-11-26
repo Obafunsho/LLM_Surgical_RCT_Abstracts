@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial on Advances in Esophageal Cancer Management"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were recruited from multiple centers, with eligibility criteria including confirmed EC diagnosis."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either standard care or an enhanced multimodality therapy, including surgery, chemotherapy, radiotherapy, and immunotherapy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study aimed to assess the impact of multimodality therapy on EC outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was overall survival, measured over a 5-year period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured through sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the intervention group and 97 in the control group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a significant improvement in overall survival (hazard ratio = 0.75, 95% CI 0.60 to 0.95; p = 0.02)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 5% of the intervention group and 3% of the control group, with mild severity."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCTXXXXXXX."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: The trial was funded by [Funding Source]."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This multicentre pilot study investigated the role of peroperative carcinoembryonic antigen (CEA)\u2010specific fluorescence imaging during cytoreductive surgery\u2013hyperthermic intraperitoneal chemotherapy surgery in peritoneal metastasized colorectal cancer."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "The use of SGM\u2010101 in patients with peritoneally metastasized colorectal carcinoma is feasible, and allows intraoperative detection of tumour deposits and alteration of the PCI."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This multicentre pilot study investigated the role of peroperative carcinoembryonic antigen (CEA)\u2010specific fluorescence imaging during cytoreductive surgery\u2013hyperthermic intraperitoneal chemotherapy surgery in peritoneal metastasized colorectal cancer."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A correct change in peritoneal carcinomatosis index (PCI) owing to fluorescence imaging was seen in four of the 14 included patients."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "A correct change in peritoneal carcinomatosis index (PCI) owing to fluorescence imaging was seen in four of the 14 included patients."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intraperitoneal Hyperthermic Chemoperfusion with Oxaliplatin for Peritoneal Surface Malignancy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised into cohorts of three"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "included adults with peritoneal dissemination from colorectal or appendiceal cancers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "undergoing cytoreductive surgery followed by a 2-hour IPHC with escalating oxaliplatin doses"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the dose-limiting toxicity (DLT) and maximum tolerated dose (MTD) of oxaliplatin in IPHC"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was DLT, defined as grade 3 toxicity lasting 5 days"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fifteen patients were enrolled across two dose levels"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was per-protocol"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "DLTs at 250 mg/m\u00b2 were observed in two of three patients, establishing the MTD at 200 mg/m\u00b2"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were significant at 250 mg/m\u00b2"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

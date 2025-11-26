@@ -1,0 +1,74 @@
+{
+  "pmcid": "3810307",
+  "sha256": "76ce2b019cfc3c1b1bc61378ed4c925a8af04be63295434b7d4b7f1d713c3aaf",
+  "timestamp_utc": "2025-11-09T15:54:44.868028+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 20.02084645669291,
+    "reading_ease": 8.073316929133881,
+    "word_count": 254
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Of the 1000 patients randomized"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "coronary artery bypass grafting alone compared with bypass grafting plus surgical ventricular reconstruction"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: The present analysis of the Surgical Treatment for Ischemic Heart Failure randomized trial data examined the left ventricular volumes at baseline and 4 months after surgery to determine whether any magnitude of postoperative reduction in end-systolic volume affected survival after coronary artery bypass grafting alone compared with bypass grafting plus surgical ventricular reconstruction."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "examined the left ventricular volumes at baseline and 4 months after surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 1000 patients randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "555 underwent an operation and had a paired imaging assessment"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Surgical ventricular reconstruction resulted in improved survival compared with coronary artery bypass grafting alone when the postoperative end-systolic volume index was 70 mL/m 2 or less."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

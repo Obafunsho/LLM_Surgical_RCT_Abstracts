@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Single-Cell Spatial Transcriptome Analysis in a Randomised Controlled Trial of Anti-PD-L1 Therapy Combined with Chemoradiotherapy for NSCLC"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either preoperative CRT or preoperative ICI-CRT."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study was conducted at the National Comprehensive Cancer Study Board (NCCHE) with eight patients at UICC 8th Stage IIIA."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either preoperative CRT or preoperative ICI-CRT."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial investigates the effects of anti-PD-L1 therapy combined with chemoradiotherapy (CRT) on the tumour microenvironment in unresectable non-small cell lung cancer (NSCLC)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the alteration in immune environment, measured at the single-cell level."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study was conducted at the National Comprehensive Cancer Study Board (NCCHE) with eight patients at UICC 8th Stage IIIA."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Posttreatment, there was a significant increase in CXCL9+ cells and CXCL13+ T cells around tumour cells."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered under Protocol Number 2022-407."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by the National Comprehensive Cancer Study Board."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Standard and Long Intramedullary Hip Nails for Reverse Obliquity Fractures"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This pilot prospective randomised controlled trial was conducted from January 2009 to December 2009."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients with reverse obliquity fractures of the proximal femur, treated at a single institution. Eligibility criteria included age 67-95 years."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised to receive either standard or long (\u226534 cm) intramedullary hip nails."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was reoperation rate due to fixation failure, assessed over a minimum follow-up of 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured by sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty-three patients were randomised: 15 to standard nails and 18 to long nails."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was per-protocol."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Reoperation rates showed no significant difference between groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "adverse events were similar between groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not disclosed."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

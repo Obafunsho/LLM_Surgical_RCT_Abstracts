@@ -1,0 +1,74 @@
+{
+  "pmcid": "10761379",
+  "sha256": "fba1c93199df46261f59abc0801347e3c9f51b4809af51432ca57cdd53c2c947",
+  "timestamp_utc": "2025-11-09T23:09:01.845146+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.553754940711464,
+    "reading_ease": 31.820197628458544,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of TPF Chemotherapy Followed by Surgery in Borderline Resectable Esophageal Squamous Cell Carcinoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Conducted as a single-center phase 2 trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 18–70 with histologically confirmed BR-ESCC and an ECOG performance status of 0–1"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved TPF chemotherapy followed by surgery if resectable, or concurrent chemoradiation if unresectable."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the efficacy of docetaxel, cisplatin, and fluorouracil (TPF) chemotherapy followed by surgery in patients with borderline resectable esophageal squamous cell carcinoma (BR-ESCC)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the R0 resection rate, assessed post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From July 2004 to February 2019, 47 patients were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Surgery was performed on 27 patients (57.4%), achieving R0 resection in 25 (53.2%)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The median overall survival (OS) was 41.9 months (95% CI, 18.6–65.3), and median progression-free survival (PFS) was 38.7 months (95% CI, 23.5–53.9)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No serious perioperative complications or deaths were reported. Adverse events were consistent with known profiles of the chemotherapy regimen."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The study was registered at ClinicalTrials.gov (NCT02976909)."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by Sun Yat-sen University Cancer Center."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

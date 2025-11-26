@@ -1,0 +1,74 @@
+{
+  "pmcid": "3646287",
+  "sha256": "9a8a59c9c55c937d3ed82cbfe4118a62623d13c0dd5831aa38145c0bf523ed63",
+  "timestamp_utc": "2025-11-09T23:49:24.576617+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.70806603773585,
+    "reading_ease": 34.721344339622675,
+    "word_count": 265
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Fetal Striatal Transplantation in Huntington's Disease"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 17 patients with mild HD from the NEST-UK cohort were included."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "17 patients with mild HD from the NEST-UK cohort were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Five patients were randomly selected for bilateral fetal striatal transplantation, while 12 served as controls."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the safety and efficacy of fetal striatal transplantation in HD."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in the Unified Huntington's Disease Rating Scale (UHDRS) motor score over 10 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "The study was open-label, with no blinding of patients or clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between 2000 and 2003, five patients received transplants."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "No significant differences were observed in UHDRS scores between the transplant and control groups over 10 years."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean difference in UHDRS motor score was not significant (p > 0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included transient renal function decline and anaemia, resolving after immunosuppression cessation."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN36485475."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by the NEST-UK consortium."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

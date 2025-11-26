@@ -1,0 +1,74 @@
+{
+  "pmcid": "9311282",
+  "sha256": "30f42546c5ace033c5af1cd16da63d84afd2c70ec8971ffa4fb8adde8392cf07",
+  "timestamp_utc": "2025-11-10T00:12:15.315192+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.004383993692098,
+    "reading_ease": 26.856972205795415,
+    "word_count": 267
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Immunosuppressive Regimens on COVID-19 Vaccine Response in Elderly Kidney Transplant Recipients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The OPTIMIZE trial, an open-label, randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "enrolled elderly KTRs (≥65 years) at the University Medical Center Groningen"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either a standard regimen of calcineurin inhibitor (CNI), mycophenolate mofetil (MMF), and prednisolone, or a regimen with low-dose CNI, everolimus, and prednisolone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the impact of different immunosuppressive regimens on vaccine efficacy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was seroconversion rate, assessed after 2 and 3 COVID-19 mRNA vaccinations."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomised"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Randomisation was open-label, and outcome assessors were not blinded."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 32 participants were analysed for humoral response, and 15 for cellular response."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "seroconversion rates were 13% after 2 vaccinations and 38% after 3 vaccinations. In contrast, the everolimus group showed significantly higher rates of 56% (p = 0.009) and 100% (p = 0.006), respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported during the study."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT03797196"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

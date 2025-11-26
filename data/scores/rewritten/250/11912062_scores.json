@@ -1,0 +1,74 @@
+{
+  "pmcid": "11912062",
+  "sha256": "207582e965086556f8e8dd345fa6416f9722d54f1a8c1a09f92c1c910fc19179",
+  "timestamp_utc": "2025-11-09T22:10:45.895918+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.03730378317335,
+    "reading_ease": 12.270365612648249,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Prognostic Model Development for Bladder Cancer Patients with Prior Tumors"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to examine the clinical characteristics of bladder cancer patients with a history of prior malignancies and develop a prognostic model using SEER database data."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was overall survival, measured from diagnosis to death."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 12,260 bladder cancer patients were analyzed, including 8,959 with no prior tumor history and 3,301 with a history of previous tumors."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean survival duration for patients with a prior tumor history was 56.04 months, significantly lower than 70.28 months for those without (P<0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

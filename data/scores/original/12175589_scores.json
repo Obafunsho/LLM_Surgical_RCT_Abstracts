@@ -1,0 +1,74 @@
+{
+  "pmcid": "12175589",
+  "sha256": "86b7c1387ef34eee2019709af00209ed02429e8f5b34c6bf5c353e02838a3f32",
+  "timestamp_utc": "2025-11-09T15:33:12.983020+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.255246913580251,
+    "reading_ease": 31.243611111111136,
+    "word_count": 243
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This study evaluated regional lung volume displacement in nine healthy volunteers (6 males, 3 females; ages 29 – 55 years; BMI 20.2 – 31.3 kg/m 2 )"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were assessed during tidal breathing and, also with 15 cm H 2 O inspiratory and 5 cm H 2 O expiratory pressures in a supine position."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We aimed to examine a non-contrast imaging method of spatial lung volume displacement, adapted to assess changes with non-invasive positive pressure ventilation (NIPPV)"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Regional specific ventilation (SV) was measured during tidal breathing and NIPPV."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "NIPPV increased MSV in both peripheral (p=0.01) and central (p=0.02) lung regions compared to tidal breathing."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

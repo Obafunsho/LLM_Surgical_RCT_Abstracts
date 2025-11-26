@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study aimed to identify risk factors and develop prediction models for postoperative chronic opioid use (PCOU)."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective cohort study used data from the Korean National Health Insurance Service (NHIS) between January 2008 and December 2018."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Of 2\u2009077\u2009825 patients aged seven years or older who underwent surgery, survived at least one year, and had no additional surgeries, 1\u2009108\u2009119 were randomly selected."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to identify risk factors and develop prediction models for postoperative chronic opioid use (PCOU)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "PCOU was defined as having filled 10 or more prescriptions or receiving more than 120 days\u2019 supply between postoperative days 91 and 365."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 2\u2009077\u2009825 patients aged seven years or older who underwent surgery, survived at least one year, and had no additional surgeries, 1\u2009108\u2009119 were randomly selected."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "PCOU occurred in 9308 patients (0.84%)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

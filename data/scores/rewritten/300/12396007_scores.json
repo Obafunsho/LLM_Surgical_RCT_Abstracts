@@ -1,0 +1,74 @@
+{
+  "pmcid": "12396007",
+  "sha256": "929133cc496cf34661611c1440074860aac81715083ed46d2ad152fff3ddd1f7",
+  "timestamp_utc": "2025-11-09T23:36:04.376017+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.272116141732283,
+    "reading_ease": 28.18329232283469,
+    "word_count": 254
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Surgical Ablation for Atrial Fibrillation"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised controlled trial included patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with symptomatic AF unresponsive to antiarrhythmic drugs or catheter ablation. Conducted in Brazil"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to undergo the Cox-Maze IV procedure with LAA occlusion or receive standard medical therapy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the effectiveness of the Cox-Maze IV procedure combined with left atrial appendage (LAA) occlusion in treating AF"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was freedom from AF at 12 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group, between January 2020 and June 2021"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "98 participants were analysed using an intention-to-treat approach, while 97 were analysed in the control group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group achieved a 92% AF freedom rate at 12 months, significantly higher than the 0% in the control group (p < 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events in the intervention group included renal dysfunction and pacemaker requirement in <5% of patients"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by Brazilian Ministry of Health"
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

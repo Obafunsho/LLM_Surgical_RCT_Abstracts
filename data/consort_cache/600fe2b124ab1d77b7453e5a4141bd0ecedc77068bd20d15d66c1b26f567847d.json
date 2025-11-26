@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tissue Adhesive in Bilateral Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial included 30 patients undergoing simultaneous bilateral TKA."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "30 patients undergoing simultaneous bilateral TKA."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The left knee was randomised to receive either standard three-layer closure with staples or the same closure supplemented with tissue adhesive."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effect of high-viscosity tissue adhesive on postoperative wound drainage and healing in a fast-track TKA setting."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the number of dressing changes in the first 72 hours postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The left knee was randomised to receive either standard three-layer closure with staples or the same closure supplemented with tissue adhesive."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Nurses changing dressings were blinded to treatment allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial included 30 patients undergoing simultaneous bilateral TKA."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "One patient was excluded, leaving 29 patients (58 knees) for analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Knees with tissue adhesive had fewer dressing changes (median, 0; IQR, 0-1) compared to the control (IQR, 1-2; p = 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details are not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details are not provided."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

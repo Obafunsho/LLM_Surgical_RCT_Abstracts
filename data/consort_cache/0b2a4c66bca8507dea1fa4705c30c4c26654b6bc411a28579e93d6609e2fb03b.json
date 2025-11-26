@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Post hoc analysis of a large randomised clinical trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients undergoing major noncardiothoracic, nonintracranial surgery."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Dynamic mechanical power was calculated using the power equation adjusted by the respiratory system compliance ( C RS )."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We aimed to assess the association between intra-operative mechanical power and postoperative pulmonary complications (PPCs)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of PPCs within the first seven postoperative days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We studied 1156 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "We studied 1156 patients"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "A higher mechanical power was also independently associated with increased risk of PPCs [odds ratio (OR 1.34, 95% CI, 1.17 to 1.52); P <\u200a0.001) and acute respiratory failure (OR 1.40, 95% CI, 1.21 to 1.61; P <\u200a0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Australia and New Zealand Clinical Trials Registry no: 12614000790640."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

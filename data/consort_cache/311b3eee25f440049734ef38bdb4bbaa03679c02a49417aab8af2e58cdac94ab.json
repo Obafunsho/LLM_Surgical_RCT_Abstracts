@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Therapeutic Plasma Exchange in Cardiac Surgery Patients with Heparin-Induced Thrombocytopenia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomised to receive TPE with heparin re-exposure or standard care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included patients diagnosed with HIT requiring cardiac surgery with CPB."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised to receive TPE with heparin re-exposure or standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the impact of intraoperative therapeutic plasma exchange (TPE) on thromboembolic events, bleeding, and mortality in HIT patients undergoing CPB."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of HIT-related thromboembolic events within 7 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 24 patients were randomised, with 12 in each group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Thromboembolic events occurred in 3 patients, with 2 possibly HIT-related. The effect size for thromboembolic events was not statistically significant."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Three patients (12.5%) died within 30 days post-surgery, none of which were HIT-related."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

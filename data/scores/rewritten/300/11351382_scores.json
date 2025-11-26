@@ -1,0 +1,74 @@
+{
+  "pmcid": "11351382",
+  "sha256": "a0705093926d0d5ed3bb085dc5c1f2b6576656623da26aed87cd430e76b31999",
+  "timestamp_utc": "2025-11-09T23:15:24.786959+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.383893740902476,
+    "reading_ease": 21.76648592916061,
+    "word_count": 229
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of L-Ornithine-L-Aspartate in a Rat Model of Hind Limb Ischemia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomly assigned to three groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "male Sprague Dawley rats (n=21)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to three groups: control (normal saline), sorbitol, and LOLA"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the potential of L-Ornithine-L-Aspartate (LOLA) to enhance angiogenesis and perfusion in a rat model of hind limb ischemia (HLI)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Perfusion imaging was performed on PODs 7 and 14"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was stratified by body weight"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "outcome assessors were blinded to group allocation"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "male Sprague Dawley rats (n=21)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean difference = 13.77, 95% CI 1.23 to 26.31; p < 0.05"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

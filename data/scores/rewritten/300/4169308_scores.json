@@ -1,0 +1,74 @@
+{
+  "pmcid": "4169308",
+  "sha256": "7e2b0702e922e8732e8855810f9c3838d5dd73b228af7e8a0f9d2f562f6e718c",
+  "timestamp_utc": "2025-11-09T23:52:40.365361+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.180000000000003,
+    "reading_ease": 34.77384615384619,
+    "word_count": 290
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Sodium Nitroprusside for Blood Pressure Control in Pediatric Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "153 subjects at 7 sites were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were eligible if they were infants or children undergoing major surgery. The study setting included multiple surgical centers."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive a blinded infusion followed by open-label SNP"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the dose-response relationship of SNP in infants and children undergoing major surgery and to perform a quantitative assessment of BP control."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "BP was recorded using an arterial catheter."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "153 subjects at 7 sites were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "The analysis approach was not specified."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "BP was controlled an average of 45.4% (SD 23.9%, 95% CI 41.5%-49.18%) of the time."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not specified."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

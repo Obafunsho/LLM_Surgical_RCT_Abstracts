@@ -1,0 +1,74 @@
+{
+  "pmcid": "3819165",
+  "sha256": "01cb1b1220490cb51efba6f284aa279fc1df16ec527b27cb5028fafd5bdf57dd",
+  "timestamp_utc": "2025-11-09T23:50:35.669340+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.38915384615385,
+    "reading_ease": -4.910820512820521,
+    "word_count": 208
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Laser Range Scanner for Intraoperative Neurosurgical Navigation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A randomised controlled trial was conducted with eight patients undergoing neurosurgery at a single institution."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were eligible if they required neurosurgery for various clinical presentations."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved using an LRS to acquire intraoperative cortical surface descriptions, which were then registered with preoperative magnetic resonance tomograms."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the mean feature alignment error between LRS and magnetic resonance surfaces, measured intraoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A randomised controlled trial was conducted with eight patients undergoing neurosurgery at a single institution."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Successful textured LRS surface acquisition was achieved for all eight patients."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean feature alignment error was 1.7 ± 0.8 mm, indicating accurate registration between intraoperative and preoperative data."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported during the study."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Continuous Posterior Interscalene Block for Postoperative Analgesia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised, triple-masked, placebo-controlled trial"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "32 participants were enrolled"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either a continuous ropivacaine 0.2% perineural infusion or a normal saline infusion"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether an ultrasound-guided continuous posterior interscalene block offers superior postoperative analgesia compared to a single-injection ropivacaine interscalene block after moderately painful shoulder surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was average pain on postoperative day (POD) 1, assessed on a 0\u201310 scale."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was maintained for patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "32 participants were enrolled and randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "30 were analysed per protocol (15 in each group)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Continuous ropivacaine infusion resulted in a significant reduction in average pain on POD 1 (median [10th\u201390th percentile]: 0.0 [0.0\u20135.0] vs. 3.0 [0.0\u20136.0]; P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were observed."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Registration Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of Funding]."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

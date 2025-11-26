@@ -1,0 +1,74 @@
+{
+  "pmcid": "11686994",
+  "sha256": "31daaab8b3777e503bb5facac1068a9dd5494ea5114e6941b10260c3142858cc",
+  "timestamp_utc": "2025-11-09T22:06:33.202680+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.911318370426258,
+    "reading_ease": 36.34518200678991,
+    "word_count": 241
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Lateral Lymph Node Involvement in Rectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "a multicenter randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility included patients with locally advanced rectal cancer."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients with rectal cancer received total neoadjuvant therapy (TNT) followed by total mesorectal excision or watch-and-wait management."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates LLN involvement in patients with rectal adenocarcinoma."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was disease recurrence, measured over a follow-up period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed centrally, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 324 patients, 57 (18%) had visible LLN (LLN+) on baseline MRI."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Disease recurrence in LLN was rare, occurring in 3.5% of LLN+ and 0.4% of LLN− patients."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "LLN dissection was performed in 3 patients; 2 died of distant metastasis."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source]."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

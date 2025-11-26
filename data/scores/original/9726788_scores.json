@@ -1,0 +1,74 @@
+{
+  "pmcid": "9726788",
+  "sha256": "7fb1995aba99b42f750fb7ddef380b0c8c58baf3fc5c92f4f550b97a249cc8dc",
+  "timestamp_utc": "2025-11-09T16:22:00.876374+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.80467620481928,
+    "reading_ease": 38.14749623493975,
+    "word_count": 249
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "16 mice received 50 μg 6G5j-IR700DX via the tail vein 24 h before surgery and were randomized to two groups: FGS-only ( n = 8) and FGS + PIT ( n = 8)."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to two groups: FGS-only ( n = 8) and FGS + PIT ( n = 8)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized to two groups"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomized to two groups: FGS-only ( n = 8) and FGS + PIT ( n = 8)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The metastatic recurrence rate was 100.0% for FGS-only and 25.0% for FGS + PIT ( p = 0.007). The average total recurrent tumor weight was 2370.3 ± 1907.8 mg for FGS-only and 705.5 ± 1200.0 mg for FGS + PIT ( p = 0.039)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

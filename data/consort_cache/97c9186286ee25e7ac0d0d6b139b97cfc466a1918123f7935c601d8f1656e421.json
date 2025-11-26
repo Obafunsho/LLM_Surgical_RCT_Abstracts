@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Two-Stage Goal-Directed Crystalloid vs. Colloid Fluid Therapy in Laparoscopic Hepatectomy: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "116 patients aged 18-65 years, ASA I-III, were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at the Affiliated Hospital of Xuzhou Medical University, 116 patients aged 18-65 years, ASA I-III"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "balanced salt solution with 6% hydroxyethyl starch (colloid group) or balanced salt solution alone (crystalloid group)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to evaluate the impact of two-stage goal-directed crystalloid versus colloid fluid therapy on postoperative quality of recovery"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Quality of Recovery-15 (QoR-15) score at 24 hours postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a random number table, and allocation was concealed with opaque envelopes"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, outcome assessors, and statisticians"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "116 patients aged 18-65 years, ASA I-III, were randomised 1:1"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "58 patients were analysed per group using a per-protocol approach"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant difference was found in QoR-15 scores between groups (p > 0.05)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2400087179"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

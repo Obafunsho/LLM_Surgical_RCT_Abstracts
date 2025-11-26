@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Guided vs Freehand Ventricular Catheter Placement"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "multicenter, randomised controlled trial enrolled 139 eligible hydrocephalic patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "139 eligible hydrocephalic patients across 9 centers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to either guided or freehand catheter placement"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the accuracy of a guided ventricular catheter placement using a mobile health application."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of primary cannulation of grade I catheter position in the ipsilateral ventricle, assessed postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using an online password-protected database with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "enrolled 139 eligible hydrocephalic patients across 9 centers from April 2013 to December 2014"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "In the intention-to-treat analysis, 70 patients were in the guided group and 69 in the freehand group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The primary endpoint was achieved in 70% of the guided group versus 56.5% in the freehand group (odds ratio 1.79, 95% CI 0.89-3.61)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 42 patients, with 36 being serious, but were similarly distributed between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01811589."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Aesculap AG."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study investigates the implications of using a system for the maintenance of normothermia in the treatment of patients undergoing surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "whether the FAW (Forced-Air Warming) systems are more effective and efficient than the non-application of appropriate protocols (No Technology)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "determining whether the FAW (Forced-Air Warming) systems are more effective and efficient than the non-application of appropriate protocols (No Technology)"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "surgical site infection (FAW: 3% vs. No Technology: 12%), cardiac events (FAW: 3.5% vs. No Technology: 7.6%) or the need for blood transfusions (FAW: 6.2% vs. No Technology: 7.4%)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Inadvertent Perioperative Hypothermia (IPH) determines adverse events, such as surgical site infection (FAW: 3% vs. No Technology: 12%), cardiac events (FAW: 3.5% vs. No Technology: 7.6%) or the need for blood transfusions (FAW: 6.2% vs. No Technology: 7.4%)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

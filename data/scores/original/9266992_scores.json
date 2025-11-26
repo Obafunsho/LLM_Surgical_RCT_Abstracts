@@ -1,0 +1,74 @@
+{
+  "pmcid": "9266992",
+  "sha256": "3e63fdb43bce72f0b38368377e9eb075ffef8b98de357b9af28bd92062f84417",
+  "timestamp_utc": "2025-11-09T16:20:52.390420+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.991601951219511,
+    "reading_ease": 36.23987902439026,
+    "word_count": 625
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We included all randomised controlled trials (RCTs) of CLI in which participants were randomly allocated to intramuscular administration of autologous adult BMMNCs or control."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We included four RCTs involving a total of 176 participants with a clinical diagnosis of CLI."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either intramuscular cell implantation of BMMNCs or control."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate the benefits and harms of local intramuscular transplantation of autologous adult bone marrow mononuclear cells (BMMNCs) as a treatment for CLI."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Our primary outcomes of interest were all‐cause mortality, pain, and amputation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We included four RCTs involving a total of 176 participants with a clinical diagnosis of CLI."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There was no clear evidence of an effect on mortality related to the administration of BMMNCs compared to control (risk ratio (RR) 1.00, 95% confidence interval (CI) 0.15 to 6.63; 3 studies, 123 participants; very low‐certainty evidence)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "We pooled the data for side effects reported during the follow‐up, and this did not show any clear difference between BMMNC and control groups (RR 2.13, 95% CI 0.50 to 8.97; 4 studies, 176 participants; very low‐certainty evidence)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

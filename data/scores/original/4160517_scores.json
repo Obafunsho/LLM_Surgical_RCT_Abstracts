@@ -1,0 +1,74 @@
+{
+  "pmcid": "4160517",
+  "sha256": "906d94a8629816a82532e17a1d4ddba6313e49424a1211a06c7a0ed37ff321a8",
+  "timestamp_utc": "2025-11-09T15:57:35.280296+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.434148020654046,
+    "reading_ease": 34.074477911646625,
+    "word_count": 332
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Ten unilateral transtibial amputees wore a torsion or rigid adapter in random order."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "moderately active patients with lower limb amputation"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "wore a torsion or rigid adapter in random order"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Does prescription of a torsion adapter translate to improvements in (1) functional mobility and (2) self-perceived pain and fatigue in moderately active patients with lower limb amputation?"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Functional mobility was assessed through a field measurement using an activity monitor and through a laboratory measurement using a 6-minute walk test that included turns."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "wore a torsion or rigid adapter in random order"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ten unilateral transtibial amputees"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Amputees wearing a torsion adapter tended to take more low- and medium-intensity steps per day (331 ± 365 and 437 ± 511 difference in steps; effect size = 0.44 and 0.17; confidence interval [CI], 70–592 and 71–802; p = 0.019 and 0.024, respectively)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

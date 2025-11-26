@@ -1,0 +1,74 @@
+{
+  "pmcid": "5265688",
+  "sha256": "650c33ab7903c57a253c0afcdc9bd1a73fa488511c1c8719752f3fb5179cc53f",
+  "timestamp_utc": "2025-11-09T16:03:17.661080+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 7.743804858134311,
+    "reading_ease": 56.03803429271281,
+    "word_count": 213
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A recent randomized phase III study of 719 de novo liver transplant recipients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A recent randomized phase III study of 719 de novo liver transplant recipients"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients from North America (n = 211) had increased risk factors for posttransplant renal insufficiency"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "early everolimus plus reduced-dose tacrolimus (EVR + rTAC) led to significantly better kidney function than standard TAC (TAC-C)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "estimated glomerular filtration rates at randomization were higher in TAC-C over EVR + rTAC"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A recent randomized phase III study of 719 de novo liver transplant recipients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Mean changes in estimated glomerular filtration rate values (mL/min per 1.73 m 2 ) favored EVR + rTAC over TAC-C at months 12 (+3.7 vs −4.5; P = 0.032), 24 (+2.7 vs −6.6; P = 0.042), and 36 (+4.3 vs −8.1; P = 0.059)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

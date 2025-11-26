@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted at a tertiary care hospital."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group receiving catheter-over-needle design and 100 to the control group receiving catheter-through-needle design."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults undergoing elective thoracoabdominal surgery, eligible if they required postoperative analgesia."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received catheter-over-needle design, while the control group received catheter-through-needle design."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to evaluate the effectiveness and complications associated with different perineural catheter designs and fixation methods."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the duration of effective analgesia, measured over 48 hours postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was maintained for outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group receiving catheter-over-needle design and 100 to the control group receiving catheter-through-needle design."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "98 participants in the intervention group and 97 in the control group were analysed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a mean difference in analgesia duration of 5.2 hours (95% CI 3.1 to 7.3; p = 0.01) compared to the control."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 3% of the intervention group and 1% of the control group, primarily mild infections."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: This study was funded by the National Institute of Health."
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

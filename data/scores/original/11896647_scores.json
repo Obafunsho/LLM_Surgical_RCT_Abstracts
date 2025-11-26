@@ -1,0 +1,74 @@
+{
+  "pmcid": "11896647",
+  "sha256": "a793a44f4555d6ff9b1deecee9a70c14bc83dd6dbf4cc3b99523ffb1d7af56bf",
+  "timestamp_utc": "2025-11-09T15:25:46.729835+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.514360902255639,
+    "reading_ease": 23.106954887218052,
+    "word_count": 266
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients undergoing cardiac surgery with CPB were randomized"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients undergoing cardiac surgery with CPB"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive either two preoperative subcutaneous injections of liraglutide or a matching placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that liraglutide increases pancreatic insulin secretion during cardiac surgery with cardiopulmonary bypass (CPB)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "We measured hormone concentrations before and after surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients undergoing cardiac surgery with CPB were randomized"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "matching placebo"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Metabolic hormone concentrations were measured in 37 participants."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "HOMA-B revealed that liraglutide increased insulin secretion relative to glycemia (258 ± 179 vs 116 ± 180, difference (95% CI): 142 (24–261), P = 0.004)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "GLOBE trial, NTR6323"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

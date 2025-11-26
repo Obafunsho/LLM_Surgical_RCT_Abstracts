@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The objective of this trial was to evaluate whether a recommendation of non-supervised physical activity improved recovery after breast cancer surgery."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This parallel, unblinded, multicentre interventional trial randomized women in whom breast cancer surgery was planned."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "randomized women in whom breast cancer surgery was planned."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention consisted of an individual recommendation of added aerobic physical activity (30 min/day), before and 4 weeks after surgery. The control group did not receive any advice regarding physical activity."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of this trial was to evaluate whether a recommendation of non-supervised physical activity improved recovery after breast cancer surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was patient-reported physical recovery at 4 weeks after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "unblinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between November 2016 and December 2018, 400 patients were randomized, 200 to each group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Some 370 participants (180 intervention, 190 control) remained at 4 weeks, and 368 at 90 days."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There was no significant difference in favour of the intervention for the primary outcome physical recovery (risk ratio (RR) 1.03, 95 per cent c.i. 0.95 to 1.13)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There was also no difference for mental recovery (RR 1.05, 0.93 to 1.17) nor in mean Comprehensive Complication Index score (4.2 (range 0\u201357.5) versus 4.7 (0\u201358.3)) between the intervention and control groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT02560662 ( http://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

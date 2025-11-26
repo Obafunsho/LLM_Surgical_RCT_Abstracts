@@ -1,0 +1,74 @@
+{
+  "pmcid": "7438149",
+  "sha256": "ceeb58d2e131f754bf2b94f9cbd420b122f5ad7d6d6f788fe56afcd30570b9cc",
+  "timestamp_utc": "2025-11-10T00:06:22.453310+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.02009049773756,
+    "reading_ease": 21.786085972850685,
+    "word_count": 260
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Robotic-Assisted Versus Conventional Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence with allocation concealment. Sample size calculation assumed a 5-point difference in the Knee Society score with 99% power, requiring 628 patients per group."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "1406 patients were eligible and randomized to receive robotic-assisted TKA (700 patients, 750 knees) or conventional TKA (706 patients, 766 knees)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive robotic-assisted TKA (700 patients, 750 knees) or conventional TKA (706 patients, 766 knees)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the long-term efficacy of robotic-assisted total knee arthroplasty (TKA) compared to conventional TKA in terms of functional outcomes, radiographic parameters, survivorship, and complications."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Knee Society score, measured preoperatively and at a mean follow-up of 13 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not specified."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "1406 patients were eligible and randomized to receive robotic-assisted TKA (700 patients, 750 knees) or conventional TKA (706 patients, 766 knees). Conducted from January 2002 to February 2008 at a single center."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "At follow-up, 674 patients in each group were analyzed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "No significant differences were observed in Knee Society scores (robotic: 93 ± 5, conventional: 92 ± 6; p = 0.321), WOMAC scores, or UCLA activity scores."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complications were comparable, with 2% of knees in each group experiencing superficial infections treated with antibiotics."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

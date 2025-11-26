@@ -1,0 +1,74 @@
+{
+  "pmcid": "5174048",
+  "sha256": "5fffc1fb4bc438ab19fbf314fb8fe434eb0aa26b7644512dc31dfabbc5db8d3b",
+  "timestamp_utc": "2025-11-09T16:02:53.107077+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.452563115104834,
+    "reading_ease": 36.01415275994867,
+    "word_count": 492
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "135 patients were randomized for surgery with or without the use of imageless navigation."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "135 patients were randomized for surgery with or without the use of imageless navigation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We asked whether psoas impingement (1) can be reduced using imageless navigation compared with the standard technique and (2) is associated with specific patient characteristics."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "In addition to patient-related outcome measures, the Harris hip score, Hip disability and Osteoarthritis Outcome Score, and EuroQol were obtained 1 year postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Postoperatively, the anterior protrusion of the cup above the acetabular rim was measured on three-dimensional (3-D) CT by a blinded, external institute."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "135 patients were randomized for surgery with or without the use of imageless navigation."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Altogether 123 data sets were available for primary analysis and 115 were available for 1-year followup."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There was no difference, with the numbers available, between the navigated and the control groups in terms of the mean distance of the cup below the anterosuperior acetabular rim (3.9 mm; −5.3 to 12.6 mm versus 4.4 mm; −7.9 to 13.7 mm; p = 0.72) or the anteroinferior acetabular rim (4.7 mm; −6.2 to 14.8 mm versus 4.2 mm; −7.1 to 16.3 mm; p = 0.29)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

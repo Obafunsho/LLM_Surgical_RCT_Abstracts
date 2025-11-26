@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Preoperative Enema in Anal Surgery: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either a preoperative enema (n=133) or no enema (n=133)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at Taipei Medical University Shuang-Ho Hospital, Taiwan, from November 2022 to August 2023, the study enrolled adults aged 20\u201385 years with grade III or IV haemorrhoids or anal fistulas."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either a preoperative enema (n=133) or no enema (n=133)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed the efficacy of preoperative enemas in reducing postoperative pain and complications in anal surgeries."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative pain measured by the visual analogue scale (VAS) from day 0 to day 7."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Surgeons and data analysts were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either a preoperative enema (n=133) or no enema (n=133)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 266 patients analysed, no significant differences were observed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Subgroup analysis revealed no significant differences for stapled haemorrhoidopexy and anal fistula surgeries."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to enemas were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT05602987"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

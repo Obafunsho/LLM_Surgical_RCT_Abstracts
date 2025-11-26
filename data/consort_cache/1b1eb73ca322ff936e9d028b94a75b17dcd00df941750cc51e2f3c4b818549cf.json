@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "distal segments of radial arteries obtained by no-touch technique from coronary artery bypass graft (CABG) patients (n=10)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compare the efficacy of two different papaverine concentrations (0.5 mg/ml and 2 mg/ml)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to compare the efficacy of two different papaverine concentrations (0.5 mg/ml and 2 mg/ml) for vasospasm prevention and their impact on endothelium integrity."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The vasodilatory effect of papaverine (concentrations of 0.5 mg/ml and 2 mg/ml) was assessed in vitro"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "2 mg/ml papaverine concentration showed stronger vasodilatatory effect than 0.5 mg/ml, but it caused significantly higher endothelial damage."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "it caused significantly higher endothelial damage"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

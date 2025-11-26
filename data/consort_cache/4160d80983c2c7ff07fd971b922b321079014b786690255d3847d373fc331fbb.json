@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study aimed to investigate the association between preoperative platelet count and postoperative AKI in patients undergoing abdominal surgery."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective cohort study utilized data from the INformative Surgical Patient dataset for Innovative Research Environment (INSPIRE) database."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients who underwent abdominal surgery at Seoul National University Hospital from 2011 to 2020."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to investigate the association between preoperative platelet count and postoperative AKI in patients undergoing abdominal surgery."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 7,131 patients were included."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "A significant inverse association was found between preoperative platelet count and postoperative AKI risk across all models (P for trend < 0.001 in unadjusted and partially adjusted models, 0.002 in fully adjusted model)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

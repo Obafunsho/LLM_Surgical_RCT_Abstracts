@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Nipple-Sparing Mastectomy Techniques with Immediate Prosthetic Breast Reconstruction"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The study included 1525 patients: 504 in the RNSM group, 771 in the CNSM group, and 250 in the ENSM group."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "robotic (RNSM), conventional (CNSM), and endoscope-assisted nipple-sparing mastectomy (ENSM) combined with immediate prosthetic breast reconstruction (IPBR)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the relative efficacy of robotic (RNSM), conventional (CNSM), and endoscope-assisted nipple-sparing mastectomy (ENSM) combined with immediate prosthetic breast reconstruction (IPBR) for breast cancer treatment."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was incision length, measured immediately post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study included 1525 patients: 504 in the RNSM group, 771 in the CNSM group, and 250 in the ENSM group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "ENSM with IPBR resulted in a significantly smaller incision (WMD: -5.57 cm, 95% CI: -10.74 to -0.69) compared to CNSM."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not detailed."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: osf.io/5j3dk"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

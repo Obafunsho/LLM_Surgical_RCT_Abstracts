@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Roux-en-Y Gastric Bypass vs Best Medical Treatment in Patients with Type 2 Diabetes and Early-Stage CKD"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This single-center, randomised controlled trial was conducted from April 1, 2013, to March 31, 2016, involving 100 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "involving 100 patients with type 2 diabetes, obesity (BMI 30-35), and stage G1 to G3 and A2 to A3 CKD"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to receive Roux-en-Y gastric bypass (RYGB) or best medical treatment"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was remission of albuminuria (uACR <30 mg/g) at 24 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not applied to patients or clinicians"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 51 patients were randomised to RYGB and 49 to best medical treatment"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Intention-to-treat analysis revealed albuminuria remission"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "82% (95% CI, 72%-93%) of RYGB patients compared to 55% (95% CI, 39%-70%) in the control group (P = .006)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant difference in the rate of serious adverse events was observed between groups"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered under ClinicalTrials.gov Identifier NCT01821508"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding sources were not specified"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

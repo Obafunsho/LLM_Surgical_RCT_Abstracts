@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Fixation Methods for Femoral Neck Fractures"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "an international, multicenter, randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants with Garden-I or II femoral neck fractures and adequate preoperative lateral radiographs were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing sliding hip screws with cannulated screws"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was subsequent arthroplasty within 24 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 555 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 555 patients, 67 (12.1%) had posterior tilt \u226520\u00b0, and 488 (87.9%) had tilt <20\u00b0."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients with tilt \u226520\u00b0 had a higher risk of arthroplasty (22.4% vs. 11.9%; hazard ratio, 2.22; 95% CI, 1.24 to 4.00; p = 0.008)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The trial was registered with the appropriate trial registry."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by relevant sources."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

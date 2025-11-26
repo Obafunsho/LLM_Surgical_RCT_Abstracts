@@ -1,0 +1,74 @@
+{
+  "pmcid": "11783632",
+  "sha256": "a7fa747203f93a654f5f99b266ce34307ff69864964c407325814c768c839317",
+  "timestamp_utc": "2025-11-09T15:23:32.086944+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.733238095238097,
+    "reading_ease": 37.19400000000002,
+    "word_count": 300
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "BACKGROUND: Patients scheduled for thoracic cancer surgery are eligible for goal-directed fluid therapy, but cardiac output monitoring remains challenging in that specific setting."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "DESIGN: A prospective monocentre observational study."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "PATIENTS: Fifty adult patients undergoing thoracic cancer surgery over a one year period."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "We aimed to compare cardiac output as measured with chest bioreactance with that measured by calibrated pulse contour analysis."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVE: We aimed to compare cardiac output as measured with chest bioreactance with that measured by calibrated pulse contour analysis; the hypothesis being that both methods would be interchangeable."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "MAIN OUTCOME MEASURES: Simultaneous measurements of cardiac index (CI) with bioreactance (CI-NICOM) and arterial pulse contour analysis calibrated by transthoracic echocardiography (CI-PCA) were performed at eight pre-specified intra-operative time points and following fluid challenge and/or vasoactive agents."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "PATIENTS: Fifty adult patients undergoing thoracic cancer surgery over a one year period."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "RESULTS: There was a significant difference between CI-PCA and CI-NICOM: 2.4 ± 0.8 (range: 0.9 to 5.8) l min −1 m −2 vs. 2.9 ± 0.9 (range: 0.9 to 7.2) l min −1 m −2 , respectively ( P < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "TRIAL REGISTRATION: NCT04251637 ."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

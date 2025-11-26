@@ -1,0 +1,74 @@
+{
+  "pmcid": "12464836",
+  "sha256": "d9e5f8a611d2cb82edee6190f4dab90915ab09bf2f3500db2c6e85efcf2c02e1",
+  "timestamp_utc": "2025-11-09T15:43:09.915686+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.938274111675128,
+    "reading_ease": 14.953338539632995,
+    "word_count": 197
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "80 neurosurgical candidates admitted to Shohadaye Tajrish Hospital during 2020–2022 were randomly assigned to intervention and control groups."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "80 neurosurgical candidates admitted to Shohadaye Tajrish Hospital during 2020–2022"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received 15 CBT-based sessions focused on stress management and cognitive restructuring."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the effectiveness of Cognitive Behavioral Therapy (CBT) and Motivational Interviewing (MI) in reducing perceived pre- and post-operative stress and ICU stay in patients undergoing brain surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Stress levels were assessed using Cohen’s Perceived Stress Scale (1983)"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly assigned to intervention and control groups"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "80 neurosurgical candidates admitted to Shohadaye Tajrish Hospital during 2020–2022 were randomly assigned to intervention and control groups."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Patients who received CBT demonstrated significantly lower perceived stress scores postoperatively (p<0.001) and had a shorter ICU stay by an average of 3.2 days (p=0.049)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

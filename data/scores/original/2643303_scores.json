@@ -1,0 +1,74 @@
+{
+  "pmcid": "2643303",
+  "sha256": "bc249eff7145bbc3c38811c76dc324ec21ccb5d462dfcf688cb42b9f66ce4de2",
+  "timestamp_utc": "2025-11-09T15:49:12.160249+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.646772908366536,
+    "reading_ease": 24.441676371437353,
+    "word_count": 251
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The authors tested the hypotheses that, compared with an overnight continuous femoral nerve block (cFNB), a 4-day ambulatory cFNB increases ambulation distance and decreases the time until three specific readiness-for-discharge criteria are met after tricompartment total knee arthroplasty."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomly assigned to either continue perineural ropivacaine or switch to perineural normal saline."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Preoperatively, all patients received a cFNB (n = 50) and perineural ropivacaine 0.2% from surgery until the following morning."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to either continue perineural ropivacaine or switch to perineural normal saline."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The authors tested the hypotheses that, compared with an overnight continuous femoral nerve block (cFNB), a 4-day ambulatory cFNB increases ambulation distance and decreases the time until three specific readiness-for-discharge criteria are met after tricompartment total knee arthroplasty."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary endpoints included (1) time to attain three discharge criteria (adequate analgesia, independence from intravenous analgesics, and ambulation of at least 30 m) and (2) ambulatory distance in 6 min the afternoon after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly assigned to either continue perineural ropivacaine or switch to perineural normal saline."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Preoperatively, all patients received a cFNB (n = 50)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients given 4 days of perineural ropivacaine attained all three discharge criteria in a median (25th–75th percentiles) of 25 (21–47) h, compared with 71 (46–89) h for those of the control group (estimated ratio, 0.47; 95% confidence interval, 0.32– 0.67; P <0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "(ClinicalTrials.gov No. NCT00135889 .)"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

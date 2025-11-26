@@ -1,0 +1,74 @@
+{
+  "pmcid": "4252114",
+  "sha256": "49af099022c8f205eba6bccc7878d072626a7ebb327085172865e21c762a666d",
+  "timestamp_utc": "2025-11-09T23:52:57.467765+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.875412844036696,
+    "reading_ease": 24.855808045165872,
+    "word_count": 218
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Pharmacological Interventions to Accelerate Rocuronium Onset Time"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Effective interventions included rocuronium priming, ephedrine pretreatment, and magnesium sulphate pretreatment."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to identify effective pharmacological interventions to accelerate the onset time of rocuronium."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the onset time of rocuronium-induced neuromuscular blockade."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty-three trials with 2,465 patients were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Effective interventions included rocuronium priming (MD −21.0 s, 95% CI −27.6 to −14.3 s), ephedrine pretreatment (MD −22.3 s, 95% CI −29.1 to −15.5 s), and magnesium sulphate pretreatment (MD −28.2 s, 95% CI −50.9 to −5.6 s)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not specified."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

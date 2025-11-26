@@ -1,0 +1,74 @@
+{
+  "pmcid": "4801679",
+  "sha256": "1fb946630632faafb27baa6d1a73fe1119ea1682e41b1afc194b431e949f337f",
+  "timestamp_utc": "2025-11-09T23:54:51.768455+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.288073221757323,
+    "reading_ease": 35.41704707112976,
+    "word_count": 239
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Plasma-Platelet-RBC Ratios in Emergency Laparotomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial, severely injured patients predicted to need massive transfusion were enrolled at 12 level I North American trauma centers"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "severely injured patients predicted to need massive transfusion were enrolled at 12 level I North American trauma centers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive a 1:1:1 or 1:1:2 ratio"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates its effect on survival after emergency laparotomy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was survival at 24 hours and 30 days post-emergency laparotomy"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 680 patients were randomised, with 338 assigned to the 1:1:1 group and 342 to the 1:1:2 group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of these, 346 underwent emergency laparotomy."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The 24-hour survival rate was 86.8% for the 1:1:1 group and 83.1% for the 1:1:2 group (p=0.29), while the 30-day survival rate was 79.3% for the 1:1:1 group and 75.0% for the 1:1:2 group (p=0.30)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in adverse events were observed between the groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

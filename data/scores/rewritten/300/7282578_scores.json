@@ -1,0 +1,74 @@
+{
+  "pmcid": "7282578",
+  "sha256": "f429ab780fc0ecfc20493c0925277b1ced57a0ca6a558b359ead84b12eb3b001",
+  "timestamp_utc": "2025-11-10T00:05:23.300257+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.875294117647062,
+    "reading_ease": 35.72536199095026,
+    "word_count": 272
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Early Psychosocial Intervention in Orthopaedic Trauma Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to integrative care (n=56) or usual care (n=56)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were 112 orthopaedic trauma patients aged 18-85 years, excluding those with traumatic brain injury, communication barriers, or severe psychiatric conditions."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Integrative care included usual trauma care plus psychosocial and movement strategies."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine if an early psychosocial intervention improves physical function outcomes compared to usual care."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was physical function, measured objectively (handgrip strength, active joint ROM, Lower Extremity Gain Scale) and subjectively (PROMIS®-PF, Tampa Scale of Kinesiophobia) at baseline, 6 weeks, 3 months, 6 months, and 1 year."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Participants were 112 orthopaedic trauma patients aged 18-85 years"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was per-protocol with 99 participants (integrative care n=50, usual care n=49)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 6 months, no significant differences were found between groups in handgrip strength (right β=-0.0792, 95% CI -0.292 to 0.133, p=0.46; left β=-0.133, 95% CI -0.384 to 0.119, p=0.30) or Lower Extremity Gain Scale scores (β=-0.0303, 95% CI -0.191 to 0.131, p=0.71)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

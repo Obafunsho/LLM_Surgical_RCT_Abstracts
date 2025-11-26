@@ -1,0 +1,74 @@
+{
+  "pmcid": "6996635",
+  "sha256": "102701787b65f46fc73e47eefa3ba621caecb0c6724f98a78418260d4de9368d",
+  "timestamp_utc": "2025-11-09T22:52:54.928264+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.131178217821784,
+    "reading_ease": 33.2468663366337,
+    "word_count": 202
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Warmed, Humidified Carbon Dioxide in Open Abdominal Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A single-blind randomised controlled trial was conducted"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients aged 18 years and over undergoing elective midline laparotomy were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received WHCO2 (37°C, 98% humidity), while the control group received standard care without gas insufflation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the effect of warmed, humidified carbon dioxide (WHCO2) on peritoneal inflammation and oxidative damage during open abdominal surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in peritoneal inflammation and damage markers from the start (T0) to the end (Tend) of surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using an online tool, with allocation concealed in opaque envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Patients and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 40 patients randomised, 20 were allocated to WHCO2 and 19 to control."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was per-protocol."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Significant differences in log(Tend/T0) were found for IL-2 (5.3 vs. 2.8; P=0.028) and IL-4 (3.5 vs. 2.0; P=0.041)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02975947."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

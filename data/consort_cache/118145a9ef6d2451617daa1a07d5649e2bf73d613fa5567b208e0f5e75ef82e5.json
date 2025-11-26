@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Questions/purposes: In the setting of a randomized, controlled trial at 5 years, is there a difference between kinematic alignment and mechanical alignment in TKA"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "99 primary TKAs for osteoarthritis were randomized to either the mechanical alignment (n = 50) or kinematic alignment (n = 49) group."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "99 primary TKAs for osteoarthritis were randomized"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Computer navigation was used in the mechanical alignment group, and patient-specific cutting blocks were used in the kinematic alignment group."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Questions/purposes: In the setting of a randomized, controlled trial at 5 years, is there a difference between kinematic alignment and mechanical alignment in TKA"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Knee function was assessed using the Knee Society Score (KSS), VAS, Oxford Knee Score (OKS), WOMAC, Forgotten Joint Score (FJS) and EuroQol 5D."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Radiographs were assessed for signs of aseptic loosening (as defined by the presence of progressive radiolucent lines in two or more zones) by a single blinded observer."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "99 primary TKAs for osteoarthritis were randomized to either the mechanical alignment (n = 50) or kinematic alignment (n = 49) group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "At 5 years, 95% (48 of 50) of mechanical alignment and 96% (47 of 49) of kinematic alignment TKAs were available for follow-up."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "For example, the mean OKS did not differ between the two groups (kinematic alignment: 41.4 \u00b1 7.2 versus mechanical alignment: 41.7 \u00b1 6.3; difference -0.3 [95% confidence interval - 3.2 to 2.5]; p = 0.99)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "At 5 years, one patient demonstrated radiographic aseptic loosening for the mechanical alignment group; no cases were identified for the kinematic alignment group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

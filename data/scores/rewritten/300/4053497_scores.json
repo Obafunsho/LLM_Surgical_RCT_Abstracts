@@ -1,0 +1,74 @@
+{
+  "pmcid": "4053497",
+  "sha256": "8a745d983d319fd74b84cba27a56c12b84dc8ff8b1353ca5581b319738a431ea",
+  "timestamp_utc": "2025-11-09T23:52:04.273552+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.216025615369222,
+    "reading_ease": 17.7951490894537,
+    "word_count": 263
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Hemodynamic and Angiographic Outcomes in the Single Ventricle Reconstruction Trial: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized to receive either a modified Blalock-Taussig shunt (MBTS) or a right ventricle-to-pulmonary artery shunt (RVPAS)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "included 549 infants with single ventricle physiology"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive either a modified Blalock-Taussig shunt (MBTS) or a right ventricle-to-pulmonary artery shunt (RVPAS)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to compare interstage cardiac catheterization hemodynamic and angiographic findings between shunt types in infants undergoing the Norwood procedure"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "association with 12-month transplant-free survival was evaluated"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated with allocation concealment"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This multicenter, randomized controlled trial included 549 infants"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Pre-stage II catheterization data were analyzed for 389 subjects"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "MBTS subjects had lower coronary perfusion pressure (27mmHg vs. 32mmHg, P<0.001) and higher Qp:Qs ratio (1.1 vs. 1.0, P=0.009)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "COMPARACI\u00d3N DE LA LIGADURA CON BANDA EL\u00c1STICA Y LA HEMORROIDECTOM\u00cdA EN PACIENTES CON HEMORROIDES SINTOM\u00c1TICAS GRADO III: ENSAYO MULTIC\u00c9NTRICO, ABIERTO, ALEATORIZADO, CONTROLADO Y DE NO INFERIORIDAD"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Open-label, parallel-group, randomized controlled noninferiority trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients (aged 18 years or older) with symptomatic grade III (Goligher) hemorrhoids were included in this study."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Randomized 1:1 to rubber band ligation or hemorrhoidectomy, with up to 2 banding sessions allowed."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To directly compare the effectiveness of rubber band ligation and hemorrhoidectomy in the treatment of grade III hemorrhoids."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes included 12-month health-related quality of life and recurrence rate."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Open-label"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Eighty-seven patients were randomly assigned (47 rubber band ligation vs 40 hemorrhoidectomy)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Eighty-seven patients were randomly assigned (47 rubber band ligation vs 40 hemorrhoidectomy)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Rubber band ligation was not noninferior to hemorrhoidectomy in quality-adjusted life years (\u20130.045; 95% CI, \u20130.087 to \u20130.004)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complication rates were comparable."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT04621695"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

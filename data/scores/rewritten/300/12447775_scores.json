@@ -1,0 +1,74 @@
+{
+  "pmcid": "12447775",
+  "sha256": "5d3a4678cea62f3ff85135c57715eb03cf69b58e83704a6a38c096a464a4140a",
+  "timestamp_utc": "2025-11-09T23:38:46.817690+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.614086956521739,
+    "reading_ease": 13.158811594202916,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Individualized Ventilation in Frail Patients Undergoing Non-Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Sixty-one frail patients aged ≥65 years scheduled for elective non-cardiac surgery were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "frail patients aged ≥65 years scheduled for elective non-cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "individualized PEEP group received PEEP titrated to minimize driving pressure, while the standard PEEP group received a fixed PEEP of 5 cmH2O"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the impact of driving pressure-guided individualized ventilation compared to standard positive end-expiratory pressure (PEEP) ventilation on PPCs in frail patients undergoing non-cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of PPCs within 7 days postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was based on a pre-established allocation list"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "outcome assessors were blinded to group assignments"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Sixty-one frail patients aged ≥65 years scheduled for elective non-cardiac surgery were randomized to either the individualized PEEP group (n=31) or the standard PEEP group (n=30)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No PPCs occurred in the individualized PEEP group, whereas 7 patients (23.3%) in the standard PEEP group developed PPCs (p<0.01)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

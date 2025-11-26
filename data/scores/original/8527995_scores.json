@@ -1,0 +1,74 @@
+{
+  "pmcid": "8527995",
+  "sha256": "4fe63ad7a43e41fde6b8f2f09a204b338e13a1db91c79668c0e594837d91037b",
+  "timestamp_utc": "2025-11-09T16:18:16.805246+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.235430830039526,
+    "reading_ease": 30.212566534914373,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In patients enrolled in the COSS trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with and without recurrent hemispheric syndromes associated with AICAO"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomization into surgical vs medical groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To compare clinical outcomes and efficacy of EC-IC bypass surgery"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was all stroke and death from randomization through 30 d and ipsilateral ischemic stroke within 2 yr."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 195 randomized participants, 100 were rHEMI+ (50 in each group)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Baseline characteristics between rHEMI+ and rHEMI− participants were similar"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "no significant differences in occurrence of the primary endpoint between nonsurgical and surgical participants in rHEMI+ (26.3% vs 22.4%, P = .660)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

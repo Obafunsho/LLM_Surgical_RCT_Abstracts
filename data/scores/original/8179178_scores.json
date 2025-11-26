@@ -1,0 +1,74 @@
+{
+  "pmcid": "8179178",
+  "sha256": "88e4c855f6c738f8c29581d40dcc919f892703fb1447acf3dc2bf824b64cf0c4",
+  "timestamp_utc": "2025-11-09T16:17:05.148035+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.639571865443425,
+    "reading_ease": 13.397424135497545,
+    "word_count": 327
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The CAPAC platform consists of a tetrazine-modified sodium hyaluronate-based biopolymer injected at a tumor site, followed by one or more doses of a trans -cyclooctene (TCO)-modified cytotoxic protodrug with attenuated activity administered systemically."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To address this unmet need, we introduced a Click Activated Protodrugs Against Cancer (CAPAC) platform that enables targeted activation of drugs at a specific site in the body, i.e. , a tumor."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Finally, combined treatment with SQL70 and SQP33 (together called SQ3370 ) showed antitumor activity in a syngeneic tumor model in mice."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Pharmacokinetics studies in rats show that a single injection of SQL70 efficiently captures multiple SQP33 protodrug doses given cumulatively at 10.8-times the MTD of conventional doxorubicin with greatly reduced systemic toxicity."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

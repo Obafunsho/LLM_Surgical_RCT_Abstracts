@@ -1,0 +1,74 @@
+{
+  "pmcid": "3916618",
+  "sha256": "ca9d9989cc18f8f58523551927e07b47331fded11f623aa743aa3341c0d84ee1",
+  "timestamp_utc": "2025-11-09T15:56:27.114655+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.348672086720871,
+    "reading_ease": 30.87065040650407,
+    "word_count": 369
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The gait of 20 healthy participants (mean age 28.3 years; body mass index 22.9 kg/m 2 ) was analyzed"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "20 healthy participants (mean age 28.3 years; body mass index 22.9 kg/m 2 )"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "analyzed with varus and valgus knee brace conditions and without a brace"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose of this study was to investigate the effect of varus and valgus adjustments to one commercially available unloader knee brace"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "knee adduction moments and muscle activation during stance"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The gait of 20 healthy participants"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "varus (directed cocontraction ratio 0.29, SD 0.21, effect size 0.95, p = 0.315) and valgus (directed cocontraction ratio 0.28, SD 0.24, effect size 0.93, p = 0.315)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

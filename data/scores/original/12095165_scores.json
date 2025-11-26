@@ -1,0 +1,74 @@
+{
+  "pmcid": "12095165",
+  "sha256": "ebe7c54427c8390b3923a8fffa3677c83bb0eb989aaad8b88b101c2123b07208",
+  "timestamp_utc": "2025-11-09T15:30:17.058521+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.730383211678834,
+    "reading_ease": 31.29598844282242,
+    "word_count": 274
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: Following coronary artery bypass grafting (CABG), the standard treatment regimen typically involves dual antiplatelet therapy (DAPT), which includes a P2Y12 receptor antagonist in combination with aspirin."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Methods: A meta-analysis of eligible studies of patients undergoing CABG and receiving either aspirin plus clopidogrel (A + C) or aspirin plus ticagrelor (A + T) as antiplatelet therapy, was carried out."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Methods: A meta-analysis of eligible studies of patients undergoing CABG and receiving either aspirin plus clopidogrel (A + C) or aspirin plus ticagrelor (A + T) as antiplatelet therapy, was carried out."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this meta-analysis was to evaluate and compare the safety and efficacy of ticagrelor vs. clopidogrel in patients post-CABG."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The outcomes of interest included all-cause mortality, cardiovascular mortality, major adverse cardiovascular and cerebrovascular events (MACCEs), major bleeding, myocardial infarction, stroke, revascularization, saphenous vein occlusion and total graft occlusion."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Results: 4 randomized controlled trials and 3 observational studies ( n = 2,424) were eligible for final analysis."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "A + T was associated with a decreased risk of all-cause mortality (OR = 0.47, 95% CI 0.31–0.70, p < 0.001, p heterogeneity = 0.80, I 2 = 0%) and cardiovascular mortality (OR = 0.50, 95% CI 0.31–0.82, p = 0.006, p heterogeneity = 0.71, I 2 = 0%), compared with A + C group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No statistically significant difference was found in the rates of major bleeding (OR = 1.16; 95% CI 0.69–1.96; p = 0.57; p heterogeneity = 0.26; I 2 = 23%) between two groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

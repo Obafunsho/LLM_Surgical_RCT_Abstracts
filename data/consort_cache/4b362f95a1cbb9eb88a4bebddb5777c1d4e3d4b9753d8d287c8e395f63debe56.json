@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Effect of Obesity on Outcomes of Lumbar Disc Herniation Treatment: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A randomised controlled trial was conducted with patients from the Spine Patient Outcomes Research Trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were classified as nonobese (BMI <30 kg/m\u00b2, n = 854) and obese (BMI \u226530 kg/m\u00b2, n = 336)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "obese patients demonstrated less improvement in primary outcomes compared to nonobese patients in both treatment groups."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effect of obesity on outcomes following treatment for symptomatic lumbar disc herniation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were Short Form-36 physical function and bodily pain scores, and the Oswestry Disability Index, measured at baseline and up to four years."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not detailed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding of outcome assessors, patients, and clinicians was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were classified as nonobese (BMI <30 kg/m\u00b2, n = 854) and obese (BMI \u226530 kg/m\u00b2, n = 336)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "An as-treated analysis was used."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "obese patients had lower improvements in Short Form-36 physical function (37.3 vs. 47.7, p < 0.001), bodily pain (44.2 vs. 50.0, p = 0.005), and Oswestry Disability Index (\u221233.7 vs. \u221240.1, p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

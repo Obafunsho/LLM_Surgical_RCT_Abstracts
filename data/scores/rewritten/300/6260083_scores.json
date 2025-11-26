@@ -1,0 +1,74 @@
+{
+  "pmcid": "6260083",
+  "sha256": "6400ae2a88516a3cd42112c232c9a708221957da1af78fb9a5155dae8de107b1",
+  "timestamp_utc": "2025-11-10T00:01:00.958137+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.031479400749067,
+    "reading_ease": 19.924090319792583,
+    "word_count": 267
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of a 60-Second Mindfulness-Based Video Exercise in Orthopaedic Practice"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "single-center, single-blind randomized controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "125 patients with upper extremity injuries were randomized"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to either a mindfulness-based video exercise or an attention placebo control (educational pamphlet)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the effectiveness and feasibility of a 60-second personalized mindfulness-based video exercise in an orthopaedic setting."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pain intensity measured by the Numeric Rating Scale (NRS) immediately post-intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "125 patients were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "125 patients were randomized and analyzed (mindfulness: 62, control: 63)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mindfulness group demonstrated improved pain intensity (mean difference: 0.46, 95% CI 0.12-0.80, p=0.008)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

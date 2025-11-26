@@ -1,0 +1,23 @@
+{
+  "pmcid": "6659166",
+  "pmid": "31339533",
+  "title": "Effectiveness of the American College of Surgeons Bleeding Control Basic Training Among Laypeople Applying Different Tourniquet Types",
+  "abstract": "Importance: More than 500 000 laypeople in the United States have been trained in hemorrhage control, including tourniquet application, under the Stop the Bleed campaign. However, it is unclear whether after hemorrhage control training participants become proficient in a specific type of tourniquet or can also use other tourniquets effectively.\n\nObjective: To assess whether participants completing the American College of Surgeons Bleeding Control Basic (B-Con) training with Combat Application Tourniquets (CATs) can effectively apply bleeding control principles using other tourniquet types (commercial and improvised).\n\nDesign, Setting, and Participants: This nonblinded, crossover, sequential randomized clinical trial with internal control assessed a volunteer sample of laypeople who attended a B-Con course at Gillette Stadium and the Longwood Medical Area in Boston, Massachusetts, for correct application of each of 5 different tourniquet types immediately after B-Con training from April 4, 2018, to October 9, 2018. The order of application varied for each participant using randomly generated permutated blocks.\n\nInterventions: Full B-Con course, including cognitive and skill sessions, that taught bleeding care, wound pressure and packing, and CAT application.\n\nMain Outcomes and Measures: Correct tourniquet application (applied pressure of ≥250 mm Hg with a 2-minute time cap) in a simulated scenario for 3 commercial tourniquets (Special Operation Forces Tactical Tourniquet, Stretch-Wrap-and-Tuck Tourniquet, and Rapid Application Tourniquet System) and improvised tourniquet compared with correct CAT application as an internal control using 4 pairwise Bonferroni-corrected comparisons with the McNemar test.\n\nResults: A total of 102 participants (50 [49.0%] male; median [interquartile range] age, 37.5 [27.0-53.0] years) were included in the study. Participants correctly applied the CAT at a significantly higher rate (92.2%) than all other commercial tourniquet types (Special Operation Forces Tactical Tourniquet, 68.6%; Stretch-Wrap-and-Tuck Tourniquet, 11.8%; Rapid Application Tourniquet System, 11.8%) and the improvised tourniquet (32.4%) ( P < .001 for each pairwise comparison). When comparing tourniquets applied correctly, all tourniquet types had higher estimated blood loss, had longer application time, and applied less pressure than the CAT.\n\nConclusions and Relevance: The B-Con principles for correct CAT application are not fully translatable to other commercial or improvised tourniquet types. This study demonstrates a disconnect between the B-Con course and tourniquet designs available for bystander first aid, potentially stemming from the lack of consensus guidelines. These results suggest that current B-Con trainees may not be prepared to care for bleeding patients as tourniquet design evolves.\n\nTrial Registration: ClinicalTrials.gov identifier: NCT03538379",
+  "authors": [
+    "Justin C. McCarty",
+    "Zain G. Hashmi",
+    "Juan P. Herrera-Escobar",
+    "Elzerie de Jager",
+    "Muhammad Ali Chaudhary",
+    "Stuart R. Lipsitz",
+    "Molly Jarman",
+    "Edward J. Caterson",
+    "Eric Goralnick"
+  ],
+  "journal": "JAMA Surgery",
+  "year": "2019",
+  "full_text": "",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/articles/instance/6659166/bin/jamasurg-154-923-s001.pdf",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": true
+}

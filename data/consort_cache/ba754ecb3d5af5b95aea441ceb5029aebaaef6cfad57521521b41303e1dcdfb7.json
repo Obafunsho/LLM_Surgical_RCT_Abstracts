@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomized controlled study"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "30 children belonging to the TXA group (intervention arm) received a loading dose of intravenous TXA 50 mg/kg over 10 minutes immediately after induction, followed by its infusion at 5 mg/kg/h. Thirty patients belonging to the normal saline (NS) group (control arm) received intravenous NS of the same volume, without any active drug."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the effect of TXA in reducing blood loss in nephrectomy for Wilms tumor"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary objective was to assess its effect on the amount of intraoperative blood loss."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "30 children belonging to the TXA group (intervention arm)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The TXA group has significantly lower intraoperative surgical blood (216.33 vs 306.33 mL; p=0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were identified either intraoperatively or in the immediate postoperative period."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

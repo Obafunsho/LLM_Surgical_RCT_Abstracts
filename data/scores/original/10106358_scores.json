@@ -1,0 +1,74 @@
+{
+  "pmcid": "10106358",
+  "sha256": "cacc4da13ccb202bf4b9d1d556dabd628c6301526727ee3e78101a868a4b2a66",
+  "timestamp_utc": "2025-11-09T15:05:04.827676+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.799225806451613,
+    "reading_ease": 32.55383870967745,
+    "word_count": 248
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Recovery from surgery is quicker in the postpartum period and this may reflect oxytocin action in the spinal cord."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Ninety-eight individuals undergoing elective total hip arthroplasty were randomized to receive either intrathecal oxytocin, 100 μg, or saline."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Ninety-eight individuals undergoing elective total hip arthroplasty were randomized to receive either intrathecal oxytocin, 100 μg, or saline."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Ninety-eight individuals undergoing elective total hip arthroplasty were randomized to receive either intrathecal oxytocin, 100 μg, or saline."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that intrathecal injection of oxytocin would speed recovery from pain and disability after major surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Modelled pain trajectory, the primary analysis, did not differ between groups, either in pain on day of hospital discharge."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ninety-eight individuals undergoing elective total hip arthroplasty were randomized."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Ninety patients received intrathecal oxytocin (n=44) or saline (n=46) and were included in the analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Modelled pain trajectory, the primary analysis, did not differ between groups, either in pain on day of hospital discharge, [intercept: −0.1 (95%CI: −0.8 to 0.6), p = 0.746], or in reductions over time, [slope: 0.1 pain units per log of time (95%CI: 0 to 0.2), p = 0.057]."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no study drug-related adverse effects."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "The study was stopped early due to lack of funding."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

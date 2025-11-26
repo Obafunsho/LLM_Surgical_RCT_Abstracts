@@ -1,0 +1,74 @@
+{
+  "pmcid": "5125163",
+  "sha256": "52f6550db9b0c697985905573fc9cb245dafee0529286ddeb214066ab5bb6927",
+  "timestamp_utc": "2025-11-09T16:02:29.538356+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.585207843137258,
+    "reading_ease": 44.122094117647094,
+    "word_count": 375
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "randomized trials of subjects with a degenerative meniscal tear"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "One hundred and sixty-four subjects were randomized to and received APM and 177 were randomized to PT"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "subjects ≥45 years old who had mild-to-moderate osteoarthritis and a degenerative meniscal tear"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "APM with PT versus PT alone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We sought to identify factors associated with crossing over to APM and to compare pain relief"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "compared pain relief at 6 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One hundred and sixty-four subjects were randomized to and received APM and 177 were randomized to PT"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "81% of subjects who crossed over to APM and 82% of those randomized to APM had an improvement"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "risk ratio [RR] = 1.99; 95% confidence interval [CI] = 1.00, 3.93"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

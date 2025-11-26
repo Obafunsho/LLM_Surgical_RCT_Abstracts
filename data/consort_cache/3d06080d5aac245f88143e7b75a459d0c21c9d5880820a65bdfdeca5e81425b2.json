@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Postoperative Analgesia Modalities after Cesarean Section"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A network meta-analysis of 110 randomised controlled trials involving 8871 pregnant women was conducted."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Intrathecal morphine (IM) and epidural morphine had the best analgesic effect."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to identify the optimal analgesic method."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the time to first postoperative request for analgesia."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "All modalities except wound infiltration prolonged the time to first analgesia request."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not detailed."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registered with PROSPERO."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

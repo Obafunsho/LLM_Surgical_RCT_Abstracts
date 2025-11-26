@@ -1,0 +1,74 @@
+{
+  "pmcid": "11468343",
+  "sha256": "896ab475d7dd2a4457be0ae1635ac9d9e556225ef9c78a361ee15a90b830946e",
+  "timestamp_utc": "2025-11-09T23:16:35.163533+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.295512655512656,
+    "reading_ease": 31.164927784927784,
+    "word_count": 259
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Continuous Monitoring of Vital Signs on General Wards: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either continuous monitoring of vital signs or usual care"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either continuous monitoring of vital signs or usual care with intermittent measurements"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether continuous monitoring of vital signs improves patient outcomes compared to usual care."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was hospital mortality, assessed during the hospital stay."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation and allocation concealment methods varied across studies"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "blinding was not consistently reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seven RCTs with 1284 participants were included, with 664 randomised to continuous monitoring and 620 to usual care."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "No statistically significant differences were observed in hospital mortality (OR 0.95, 95% CI 0.59–1.53, p = 0.84)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not consistently reported across studies."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42023458656."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

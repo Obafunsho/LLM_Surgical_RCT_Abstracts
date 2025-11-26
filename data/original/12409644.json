@@ -1,0 +1,22 @@
+{
+  "pmcid": "12409644",
+  "pmid": "35773027",
+  "title": "Acute Normovolemic Hemodilution in Adult Cardiac Surgery",
+  "abstract": "Importance: Acute normovolemic hemodilution (ANH) is a well-known blood conservation technique, yet its adoption in the US remains low (<20%), and cardiac surgery remains the largest consumer of blood components. Increasing vulnerabilities in the US blood supply underscore the need to reassess ANH effectiveness in blood conservation.\n\nObjective: To evaluate ANH use in perioperative transfusion and blood component use in patients undergoing surgery with cardiopulmonary bypass (CPB).\n\nDesign, Setting, and Participants: A retrospective propensity–score matched cohort study using data from the Society of Thoracic Surgeons (STS) Adult Cardiac Surgery Database (version 4.20.2). The study included adult patients (≥18 years) undergoing coronary artery bypass grafting (CABG) and/or valve surgery with CPB (July 2020 to September 2023).\n\nExposure: The primary exposure was ANH, defined as any recorded use/volume in the STS database.\n\nMain Outcome and Measures: The primary outcome was intraoperative or postoperative transfusion of any blood component. The volume-dependent ANH effect estimate was also assessed using a cutoff value of 650 mL. Secondary outcomes included the total number of transfused red blood cells (RBC) and non-RBC components (platelets, plasma, and cryoprecipitate); bleeding reexplorations; length of stay in the intensive care unit; and estimates for blood acquisition and activity-based costs.\n\nResults: Among 16 795 patients (mean [SD] age, 65.3 [10.5] years; 12 114 male [72.1%]), ANH was reported in 2463 cases (14.7%). Patients receiving ANH had a significantly lower preoperative anemia rate and higher baseline hematocrit (mean difference: 2.5%; 95% CI, 2.3-2.7; P < .001). After propensity score matching (n = 2282 pairs), transfusion rates were significantly lower in the ANH group (31.2% vs 36.4%; P < .001). ANH was associated with 27% lower odds of any transfusion (odds ratio, 0.73; 95% CI, 0.60-0.89). High-volume ANH (≥650 mL) further reduced the odds of transfusion by 47% to 64% for both RBC and non-RBC components. The cumulative number of transfused erythrocyte and platelet units was 167 and 295 units lower, respectively, in the ANH group compared with the control group, with lower estimates for both acquisition and activity-based costs.\n\nConclusions and Relevance: In this study, a volume-dependent association was found between ANH and reduced RBC and non-RBC transfusion rates in patients undergoing cardiac surgery. Despite being safe and cost-effective, ANH remains underused as a blood conservation strategy.",
+  "authors": [
+    "Kenichi A. Tanaka",
+    "Kenneth E. Stewart",
+    "Kofi B. Vandyck",
+    "Harold M. Burkhart",
+    "Tabitha Garwe",
+    "Miklos D. Kertai",
+    "Amir L. Butt",
+    "Michael A. Mazzeffi"
+  ],
+  "journal": "JAMA Surgery",
+  "year": "2025",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

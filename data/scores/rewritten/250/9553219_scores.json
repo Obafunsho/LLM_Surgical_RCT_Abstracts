@@ -1,0 +1,74 @@
+{
+  "pmcid": "9553219",
+  "sha256": "20a7db561a9ac04fe17933179372f7a4029c07c5a9b5312db98435916470c4de",
+  "timestamp_utc": "2025-11-09T23:01:35.210586+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.486383534136547,
+    "reading_ease": 27.716322289156636,
+    "word_count": 249
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intra-operative Ventilation Strategies in Obese Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomised to receive either PEEP of 4 cmH₂O (n = 79) or PEEP of 12 cmH₂O with hourly ARMs (n = 83)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included 162 patients with a BMI of at least 35 kg/m² undergoing elective open or laparoscopic surgery lasting at least 120 minutes."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised to receive either PEEP of 4 cmH₂O (n = 79) or PEEP of 12 cmH₂O with hourly ARMs (n = 83)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to investigate the effects of different PEEP levels and ARMs on ventilation distribution, oxygenation, haemodynamic parameters, and cerebral oximetry."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the fraction of ventilation in the dependent lung, measured by electrical impedance tomography over the intra-operative period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Participants included 162 patients... Patients were randomised to receive either PEEP of 4 cmH₂O (n = 79) or PEEP of 12 cmH₂O with hourly ARMs (n = 83)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "High PEEP was associated with smaller decreases in dependent lung ventilation (-11.2%; 95% CI -8.7 to -13.7 vs. -13.9%; 95% CI -11.7 to -16.5; P = 0.029) and a lower driving pressure (-6.3 cmH₂O; 95% CI -5.7 to -7.0)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Haemodynamic parameters were similar between groups, except for transient decreases in arterial pressure and cardiac index at the end of ARMs."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02148692"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

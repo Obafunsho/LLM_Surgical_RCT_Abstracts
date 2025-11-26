@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Cryoablation for Early-Stage Breast Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This phase II trial included patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with unifocal invasive ductal breast cancer \u22642 cm, with <25% intraductal component and tumor enhancement on MRI"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study evaluates the effectiveness of cryoablation in treating early-stage breast cancer."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effectiveness of cryoablation in treating early-stage breast cancer."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was the rate of complete tumor ablation"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not reported."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 99 patients were enrolled from 19 centers"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "86 patients (87 breast cancers) evaluable for data analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Successful ablation was achieved in 66/87 (75.9%) cancers, with a 90% confidence interval of 67.1\u201383.2."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01094353."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by the American College of Surgeons Oncology Group."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

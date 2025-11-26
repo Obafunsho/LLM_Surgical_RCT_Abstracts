@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Fifty patients selected for increased risk of left ventricular dysfunction after cardiac surgery and randomized to temporary biventricular pacing or standard of care (no pacing)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Fifty patients selected for increased risk of left ventricular dysfunction after cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to temporary biventricular pacing or standard of care (no pacing)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: Vasoactive medications improve hemodynamics after cardiac surgery but are associated with high metabolic and arrhythmic burdens."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Vasoactive agents were assessed after cardiopulmonary bypass, after sternal closure, and 0\u20137 hours after admission to the intensive care unit."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized to temporary biventricular pacing or standard of care (no pacing)"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Fifty patients selected for increased risk of left ventricular dysfunction after cardiac surgery and randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "mean vasoactive-inotropic score decreased in the biventricular pacing group from 12.0\u00b11.5 to 10.5\u00b12.0 and increased in the standard of care group from 12.5\u00b11.9 to 15.5\u00b12.9."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

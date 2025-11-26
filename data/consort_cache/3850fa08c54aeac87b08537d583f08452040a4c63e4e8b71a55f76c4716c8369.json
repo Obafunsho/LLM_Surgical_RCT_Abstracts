@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of VTE Prophylaxis in Korean Patients Undergoing Gastrectomy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The PROTECTOR trial was a randomised controlled trial conducted at Seoul St Mary\u2019s Hospital, South Korea, from August 1, 2011, to March 31, 2015."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with histologically confirmed gastric adenocarcinoma were randomised."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either intermittent pneumatic compression (IPC) alone or IPC plus low-molecular-weight (LMW) heparin sodium."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of VTE within the postoperative period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied to patients, clinicians, or outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 682 patients were randomised, with 341 in each group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis included 666 patients, using both intention-to-treat and per-protocol approaches."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "VTE incidence was significantly higher in the IPC-only group (3.6%; 95% CI, 2.05%-6.14%) compared to the IPC+LMW heparin group (0.6%; 95% CI, 0.17%-2.18%; P = .008)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Bleeding complications were more frequent in the IPC+LMW heparin group (9.1%) compared to the IPC-only group (1.2%; P < .001)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT01448746"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

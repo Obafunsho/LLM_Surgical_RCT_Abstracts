@@ -1,0 +1,74 @@
+{
+  "pmcid": "3008899",
+  "sha256": "2c12fcffa1cef2e46a5277d149a9e573efd9acfc5ef9b8f324583a8b8c2ae6a9",
+  "timestamp_utc": "2025-11-09T23:47:02.235828+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.631531380753142,
+    "reading_ease": 25.710365411436555,
+    "word_count": 239
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The Effect of Popliteus Tendon Resection on Knee Stability in Total Knee Arthroplasty: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to Group A (n=9), where the popliteus tendon was resected, or Group B (n=9), where it was preserved."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients scheduled for primary TKA."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to Group A (n=9), where the popliteus tendon was resected, or Group B (n=9), where it was preserved."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the effects of popliteus tendon resection on knee ligament balancing and load distribution during TKA."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was knee stability, evaluated intraoperatively by a blinded senior surgeon."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with concealed allocation."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "The primary outcome was knee stability, evaluated intraoperatively by a blinded senior surgeon."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to Group A (n=9), where the popliteus tendon was resected, or Group B (n=9), where it was preserved."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis followed a per-protocol approach."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The senior surgeon found no difference in knee stability between the groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

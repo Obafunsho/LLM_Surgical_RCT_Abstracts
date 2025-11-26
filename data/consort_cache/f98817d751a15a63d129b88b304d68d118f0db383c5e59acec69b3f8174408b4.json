@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Epidural Tramadol and Morphine for Analgesia in Cats"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial involved six healthy cats"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "six healthy cats"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "each receiving an epidural injection of saline 0.22 ml/kg (control treatment, CT), tramadol 1 mg/kg (tramadol treatment, TT), or morphine 0.1 mg/kg (morphine treatment, MT)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of this study was to compare the analgesic effects of epidural tramadol versus morphine in cats."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was analgesia level, assessed using a simple descriptive scale (SDS), visual analog scale (VAS), and physiological parameters at 1, 2, 3, 4, 6, 8, 10, and 12 hours post-epidural."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to treatment groups."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "All six cats were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All six cats were randomised and analysed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Group TT had higher SDS and VAS scores compared to MT at 8, 10, and 12 hours post-epidural."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "This trial was not registered"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "funding details were not provided"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

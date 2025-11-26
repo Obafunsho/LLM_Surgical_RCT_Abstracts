@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Operative vs. Nonoperative Treatment for Lumbar Disc Herniations"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial included patients with lumbar disc herniations"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with lumbar disc herniations at L2-L3, L3-L4, L4-L5, or L5-S1"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "operative versus nonoperative treatment for lumbar disc herniations"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the impact of herniation level on the outcomes of operative versus nonoperative treatment for lumbar disc herniations."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were the Short Form-36 bodily pain and physical functioning scales and the modified Oswestry Disability Index, measured at six weeks, three months, six months, one year, and two years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, with allocation concealment maintained."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Due to the nature of the interventions, blinding was not feasible."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study analysed 646 L5-S1, 456 L4-L5, and 88 upper lumbar herniations."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The study analysed 646 L5-S1, 456 L4-L5, and 88 upper lumbar herniations."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "24.6 vs. 7.1 for bodily pain (p = 0.002); 23.4 vs. 9.9 for physical functioning (p = 0.014); and \u221219 vs. \u221210.3 for Oswestry Disability Index (p = 0.033)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

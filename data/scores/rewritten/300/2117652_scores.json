@@ -1,0 +1,74 @@
+{
+  "pmcid": "2117652",
+  "sha256": "36a402a14ff54251bed4bbc6031d5690c2bb3263afb3309c245d1f7bd1112fe8",
+  "timestamp_utc": "2025-11-09T23:44:21.182898+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.8919696969697,
+    "reading_ease": 17.68295454545455,
+    "word_count": 264
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Deep Brain Stimulation in Treatment-Refractory Obsessive-Compulsive Disorder"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, five patients with chronic, severe treatment-refractory OCD were enrolled."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "five patients with chronic, severe treatment-refractory OCD were enrolled."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either sham stimulation or active DBS"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the acute effects of DBS in this region."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the acute response to stimulation, assessed 30 days post-DBS placement."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was maintained for patients and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "five patients with chronic, severe treatment-refractory OCD were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Non-mood-related responses were significantly associated with ventral lead contacts (p = 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Sham stimulation did not result in significant side effects or patient responses."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

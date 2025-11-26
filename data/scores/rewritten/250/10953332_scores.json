@@ -1,0 +1,74 @@
+{
+  "pmcid": "10953332",
+  "sha256": "e2a6130ec633e1dba7c2b9f626ea4f1bccd3e77d708a487295494e45e8436faf",
+  "timestamp_utc": "2025-11-09T21:58:21.105765+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.416465012545302,
+    "reading_ease": 13.810518539169237,
+    "word_count": 211
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Simulated Altitude Exposure for Preoperative Optimisation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised, double-blind, sham-controlled crossover trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eight participants aged 50-70 years, with a sedentary lifestyle"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to experience one week each of normoxic and hypoxic conditions"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the physiological effects of one week of simulated altitude in older sedentary volunteers."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in anaerobic threshold, measured via cardiopulmonary exercise testing (CPET) before and after each exposure."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was block-based"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "participants, outcome assessors, and clinicians were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Eight participants"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All eight participants completed the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "hypoxia induced a significant increase in haemoglobin (mean increase 1.5 g/dl, 13%, p=0.028)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

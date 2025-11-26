@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Surgical Ventricular Reconstruction in Coronary Artery Disease"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either CABG alone or CABG plus SVR."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with coronary artery disease and left ventricular dysfunction"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either CABG alone or CABG plus SVR."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The Surgical Treatment for Ischemic Heart Failure (STICH) trial aimed to determine if surgical ventricular reconstruction (SVR) plus coronary artery bypass grafting (CABG) offers a mortality benefit over CABG alone."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was mortality or cardiac hospitalization over a 3-year follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was centrally managed, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial involved 1,000 patients."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was performed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 3 years, no significant difference was observed in mortality or the combined outcome of death or cardiac hospitalization."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not disclosed."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not disclosed."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

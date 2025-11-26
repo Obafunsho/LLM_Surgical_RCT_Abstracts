@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients undergoing thoracofemoral bypass for severe aortoiliac occlusive disease"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The BARD IMPRA expanded polytetrafluoroethylene vascular graft was employed for thoracobifemoral bypass surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This analysis aims to scrutinize the 10-year experience and early outcomes of 90 patients who underwent thoracofemoral bypass as a primary procedure."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary indication was complete abdominal aorta obstruction at the renal artery level with an unsuitable site for aorta clamping."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "90 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Intraoperative and postoperative data were analyzed"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The 30-day mortality rate was 3.33% ( n =\u20093)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Major morbidities included graft occlusion in one patient, managed by embolectomy, and ascites in another patient, addressed conservatively."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

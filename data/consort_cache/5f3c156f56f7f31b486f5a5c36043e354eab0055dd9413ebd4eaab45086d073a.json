@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This retrospective study employs a propensity score-matching (PSM) design"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective study employs a propensity score-matching (PSM) design"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "evaluate the analgesic efficacy of TAP block and ITH in upper-abdominal surgeries"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to evaluate the analgesic efficacy of TAP block and ITH in upper-abdominal surgeries"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was defined as the incidence of moderate-to-severe pain during movement within 24\u00a0h (hr) postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "This retrospective study employs a propensity score-matching (PSM) design"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Among the 182 patients analyzed after PSM"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "patients in the ITH group presented a lower incidence of moderate-to-severe pain on movement at 24\u00a0h after surgery (TAP vs. ITH, 44.0% vs. 27.5%; p =\u20090.02)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Pruritus within the first 24\u00a0h after surgery occurred more frequently in the ITH group (TAP vs. ITH, 6.6% vs. 29.7%; p <\u20090.001)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

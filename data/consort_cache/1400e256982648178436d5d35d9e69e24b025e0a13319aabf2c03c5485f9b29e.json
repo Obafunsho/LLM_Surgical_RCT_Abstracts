@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Objective: Randomized control trials are considered the highest level of evidence, yet the scalability and practicality of implementing randomized control trials in the thoracic surgical oncology space are not well described."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Methods: The ClinicalTrials.gov database was queried in April 2023 to identify registered randomized control trials performed in patients with lung cancer who underwent surgery (by any technique) as part of their treatment."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study is to understand what types of randomized control trials have been conducted in thoracic surgical oncology and ascertain their success rate in completing them as originally planned."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Forty-four of the randomized control trials (64.7%) were open-label studies"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "the mean number of patients enrolled per randomized control trial was 236 (SD, 187)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Of 21 completed randomized control trials (31%), the average time to complete accrual was 1605 days (4.4 years) and average time to complete primary/secondary outcomes and adverse events collection was 2125 days (5.82 years)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "average time to complete primary/secondary outcomes and adverse events collection was 2125 days (5.82 years)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

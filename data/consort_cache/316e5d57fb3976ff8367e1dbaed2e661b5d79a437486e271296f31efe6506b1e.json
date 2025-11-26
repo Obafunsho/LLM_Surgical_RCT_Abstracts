@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tranexamic Acid in Surgically Treated Intracerebral Hemorrhage Patients"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This multicenter, double-blind, placebo-controlled trial randomized 2325 participants"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were adults with acute ICH admitted within 8 hours of stroke symptom onset."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized 2325 participants with acute ICH to receive either TXA or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This post hoc analysis examines whether TXA reduces the need for neurosurgery and improves outcomes in surgically treated patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the frequency of neurosurgery within 7 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "randomized 2325 participants with acute ICH"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "OR 0.893; 95% CI 0.619-1.289; P = .545"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events, including seizures, were more common in surgically treated participants"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN93732214"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The trial was funded by the National Institute for Health Research."
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intraoperative Molecular Imaging with Pafolacianine in Pulmonary Resection"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Conducted as a multicenter, randomised phase 3 trial (ELUCIDATE; NCT04241315), 100 participants undergoing pulmonary resection were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients with suspected lung cancer, confirmed by preoperative CT with 1.25-mm slices."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants received 0.025 mg/kg of pafolacianine intravenously 1 to 24 hours before surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the clinical utility of intraoperative molecular imaging (IMI) with pafolacianine in detecting occult pulmonary lesions"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the identification of occult lesions, measured intraoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "100 participants were randomised to the intervention group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "IMI identified 29 occult lesions in 23 participants (23%). Of these, 10 lesions (34%) were malignant."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were minimal, with no significant perioperative morbidity reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered under NCT04241315"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by Medidata Solutions."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

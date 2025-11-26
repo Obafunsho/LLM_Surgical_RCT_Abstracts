@@ -1,0 +1,74 @@
+{
+  "pmcid": "10468100",
+  "sha256": "26511818ce9a1c49b4a76f420d4c18674e127196ae9b25d418c3a819f7f5d5a6",
+  "timestamp_utc": "2025-11-09T15:09:05.253150+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.153345454545455,
+    "reading_ease": 28.59200606060608,
+    "word_count": 250
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "BACKGROUND:: Postoperative atrial fibrillation (POAF) is a frequent complication of cardiac surgery."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We aim to describe the characteristics, outcomes, and variables associated with POAF and to evaluate how posterior pericardiotomy (PP) affects POAF characteristics."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 420 patients, 103 (24.5%) developed POAF."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "PP reduced POAF incidence (17.7% vs 31.3%; P=0.001), especially after postoperative day two (time to POAF onset 41.9 vs 57.1 hours; P=0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Hemodynamic instability and rapid ventricular response occurred in 8.7% and 51.5% of cases, respectively."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

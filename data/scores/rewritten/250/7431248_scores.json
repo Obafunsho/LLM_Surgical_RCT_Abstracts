@@ -1,0 +1,74 @@
+{
+  "pmcid": "7431248",
+  "sha256": "618904ca383d420b3b0cf7eafdaefdbb38a4c29787c29f4233297fad4550897a",
+  "timestamp_utc": "2025-11-09T22:55:01.517819+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.542643805309734,
+    "reading_ease": 44.63529314159294,
+    "word_count": 226
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Virtual Reality in Surgical Training: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Twenty-five first- and second-year medical students without prior exposure to the procedure were recruited and randomly assigned to one of three groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Twenty-five first- and second-year medical students without prior exposure to the procedure were recruited"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to one of three groups: technique guide control (n = 8), VR group (n = 8), or VR and technique guide group (n = 9)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the effectiveness of virtual reality (VR) simulation in teaching intramedullary tibial nailing to medical students."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the completion of the procedure, defined as proper placement of the nail and screw, assessed by a blinded orthopaedic surgeon."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "assessed by a blinded orthopaedic surgeon"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomly assigned to one of three groups: technique guide control (n = 8), VR group (n = 8), or VR and technique guide group (n = 9)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A higher proportion of participants in the VR group (6 of 8) and the VR and technique guide group (7 of 9) completed the procedure compared to the technique guide group (2 of 8; p = 0.01)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Participants in the VR groups had fewer incorrect steps (3.2 ± 0.1 and 3.1 ± 0.1) than the technique guide group (5.7 ± 0.2; p = 0.02)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not disclosed."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

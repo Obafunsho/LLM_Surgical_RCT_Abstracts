@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Surgical Cognitive Simulation Training in Surgical Trainees"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to an intervention group receiving SCS training or a control group with no training."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "general surgical trainees in years 3\u20135 from the West Midlands Deanery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "intervention group receiving SCS training or a control group with no training"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of surgical cognitive simulation (SCS) training in improving surgical skills."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in procedure-based assessment scores, measured over four months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was conducted using a random number generator"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "outcome assessors were blinded to group allocation"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 21 participants recruited between January and June 2021, 10 were randomised to the intervention group and 11 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Complete data were available for 7 participants in each group."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The intervention group showed a statistically significant improvement in 11 of 16 assessment domains (P < 0.050) and a mean reduction in procedure time (\u201315.98 vs. \u20131.14 min; P = 0.024)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by Health Education England (West Midlands) and the Alan Turing Institute."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

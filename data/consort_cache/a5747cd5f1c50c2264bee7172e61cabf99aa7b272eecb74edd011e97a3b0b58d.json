@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A double-blind, placebo-controlled, superiority RCT"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adults with CT-confirmed uncomplicated acute appendicitis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compare placebo with antibiotics (intravenous ertapenem followed by oral levofloxacin and metronidazole)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was treatment success (resolution resulting in discharge without appendicectomy within 10 days)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "double-blind"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From May 2017 to September 2020, 72 patients with a mean(s.d.) age of 37.5 (11.1) years were recruited at five hospitals."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "35 were assigned to receive antibiotics, and 31 to receive placebo."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 10-day treatment success rate was 87 (95 per cent c.i. 75 to 99) per cent for placebo and 97 (92 to 100) per cent for antibiotics."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: EudraCT 2015-003634-26 ( https://eudract.ema.europa.eu/eudract-web/index.faces ), NCT03234296 ( http://www.clinicaltrials.gov )"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "5256149",
+  "sha256": "d50748fc94ded08186f4077caab82a01837a56eae9ca5d6be87c80037f81cae9",
+  "timestamp_utc": "2025-11-09T22:45:46.862030+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.212391304347825,
+    "reading_ease": 35.15815217391307,
+    "word_count": 230
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Pragmatic Ischaemic Thrombectomy Evaluation (PISTE) Trial: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1 to receive IVT alone or IVT plus MT."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible patients were adults with acute ischaemic stroke, confirmed large artery occlusion on CT angiography, and IVT initiated within 4.5 hours of symptom onset."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to receive IVT alone or IVT plus MT."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The PISTE trial evaluated the efficacy of adjunctive intra-arterial mechanical thrombectomy (MT) in addition to intravenous thrombolysis (IVT) in patients with acute ischaemic stroke due to large artery occlusion."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was independence at day 90, defined by a modified Rankin Scale (mRS) score of 0–2."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a minimisation algorithm."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Sixty-five patients were randomised between April 2013 and April 2015, with 32 receiving IVT alone and 33 receiving IVT plus MT."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "In the intention-to-treat analysis, no significant difference was observed in the primary outcome."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "no significant difference was observed in the primary outcome (adjusted OR 2.12, 95% CI 0.65 to 6.94, p=0.20)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01745692."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

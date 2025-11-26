@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Polidocanol Foam Sclerotherapy vs. Conventional Surgery for Varicose Veins"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Sample size calculation aimed to detect a 1.5-point difference in VCSS with 80% power and 95% confidence."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "205 patients were recruited from two public health institutions in S\u00e3o Paulo, Brazil"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were non-randomly assigned to PFS (57 patients, 90 legs) or CS (148 patients, 236 legs)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the effectiveness of polidocanol foam sclerotherapy (PFS) compared to conventional surgery (CS) for treating lower limb varicose veins, focusing on Patient-Reported Outcome Measures (PROMs)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in Venous Clinical Severity Score (VCSS) and VEINES-QoL/Sym scores, measured preoperatively and 30 days post-treatment."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Participants were non-randomly assigned to PFS (57 patients, 90 legs) or CS (148 patients, 236 legs)."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "The study was not randomised, and no blinding was used."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "205 patients were recruited from two public health institutions in S\u00e3o Paulo, Brazil, between October 2021 and October 2022."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Participants were non-randomly assigned to PFS (57 patients, 90 legs) or CS (148 patients, 236 legs)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "CS demonstrated greater improvements in VCSS (mean difference = 4.02, 95% CI 3.1 to 5.0; p < 0.001), VEINES-QoL (mean difference = 8, 95% CI 6.5 to 9.5; p < 0.001), and VEINES-Sym (mean difference = 11.66, 95% CI 9.8 to 13.5; p < 0.001) compared to PFS."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not disclosed."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

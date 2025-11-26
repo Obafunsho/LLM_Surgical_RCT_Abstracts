@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "One hundred fifty-three subjects at 7 sites received a blinded infusion followed by open-label SNP during operative procedures requiring controlled hypotension."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "One hundred fifty-three subjects at 7 sites received a blinded infusion followed by open-label SNP during operative procedures requiring controlled hypotension."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We evaluated the dose-response relationship of SNP in infants and children undergoing major surgery and performed a quantitative assessment of BP control."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "BP was recorded using an arterial catheter."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "blinded infusion followed by open-label SNP"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One hundred fifty-three subjects at 7 sites"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "BP was controlled an average 45.4% (SD 23.9%, 95% CI 41.5%-49.18%) of the time."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

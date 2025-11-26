@@ -1,0 +1,74 @@
+{
+  "pmcid": "4053497",
+  "sha256": "edf80b423e16f06039515d1d5c9d118f75857ac6cdf507452912a8d22ef4e756",
+  "timestamp_utc": "2025-11-09T22:40:48.458840+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.709495798319331,
+    "reading_ease": 14.538445378151266,
+    "word_count": 238
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Hemodynamic and Angiographic Outcomes in the Single Ventricle Reconstruction Trial: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized controlled trial included 549 infants"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "included 549 infants with single ventricle physiology"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive either a modified Blalock-Taussig shunt (MBTS) or a right ventricle-to-pulmonary artery shunt (RVPAS)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to compare interstage cardiac catheterization hemodynamic and angiographic findings between shunt types"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "association with 12-month transplant-free survival was evaluated"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated with allocation concealment"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomized controlled trial included 549 infants"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Pre-stage II catheterization data were analyzed for 389 subjects"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "MBTS subjects had lower coronary perfusion pressure (27mmHg vs. 32mmHg, P<0.001) and higher Qp:Qs ratio (1.1 vs. 1.0, P=0.009)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

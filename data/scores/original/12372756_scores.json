@@ -1,0 +1,74 @@
+{
+  "pmcid": "12372756",
+  "sha256": "8d899447e280cb25e2c6a63db4d9a818032dca5d24f4997c65b9968a1ecd2df8",
+  "timestamp_utc": "2025-11-09T15:38:44.298081+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.353098591549301,
+    "reading_ease": 25.952302275189595,
+    "word_count": 284
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Objective:: This systematic review and meta-analysis aimed to evaluate and compare the efficacy of endovascular versus open repair for the treatment of patients with descending thoracic aortic aneurysm (DTAA)."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Endovascular repair was associated with a significantly lower postoperative mortality rate [odd ratio (OR): 0.57, 95% confidence interval (CI): 0.45-0.72; I 2 = 72.58%] and morbidity."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Objective:: This systematic review and meta-analysis aimed to evaluate and compare the efficacy of endovascular versus open repair for the treatment of patients with descending thoracic aortic aneurysm (DTAA)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Endovascular repair was associated with a significantly lower postoperative mortality rate [odd ratio (OR): 0.57, 95% confidence interval (CI): 0.45-0.72; I 2 = 72.58%] and morbidity."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

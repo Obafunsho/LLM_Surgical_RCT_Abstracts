@@ -1,0 +1,74 @@
+{
+  "pmcid": "12045514",
+  "sha256": "4feb9f22db24b25178478a687ef9711d94a3da491ec2f903ec08c01d04eadaf4",
+  "timestamp_utc": "2025-11-09T23:24:57.542254+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.961541620007466,
+    "reading_ease": 28.57026315789477,
+    "word_count": 282
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Early Peritoneal Dialysis in Newborns Post-Cardiac Surgery: A Retrospective Cohort Study"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at the Children's Hospital of Mississippi, this retrospective single-center study involved 49 newborns who underwent congenital heart surgery between January 2012 and December 2015."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Newborns with prolonged CPB times (>180 minutes), postoperative oligoanuria, and/or inability to achieve negative fluid balance within 24 hours were selected for early PD (PD [+])."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses a clinical strategy for early peritoneal dialysis (PD) initiation in newborns at high risk of cardiac surgery-associated acute kidney injury (CSA-AKI) following cardiopulmonary bypass (CPB)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were 5% fluid accumulation at 48 hours and severe AKI on postoperative day (POD) 5."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "this retrospective single-center study involved 49 newborns who underwent congenital heart surgery between January 2012 and December 2015."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 49 newborns, 29 were initiated on early PD, while 20 used the PD catheter as an abdominal drain."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The early PD group had significantly less urine output on POD 1 (0.98 vs. 3.02 ml/kg per hour; P = 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No deaths or major complications were reported during the study period."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

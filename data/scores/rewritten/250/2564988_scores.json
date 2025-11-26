@@ -1,0 +1,74 @@
+{
+  "pmcid": "2564988",
+  "sha256": "af7844fd0b297f5af97db9126dc3c8eb5a4b0e18d22c8febb3eca7d34cbabaf5",
+  "timestamp_utc": "2025-11-09T22:33:33.663843+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.365208212839793,
+    "reading_ease": 23.49511133603241,
+    "word_count": 247
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Parecoxib for Postoperative Analgesia in Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Sixty-two patients were randomly assigned"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "three intravenous dosing schedules: 1) placebo at induction, wound closure, and 12 hours after induction (control); 2) parecoxib 40 mg at induction, placebo at wound closure, and parecoxib 40 mg 12 hours after induction (pre); or 3) placebo at induction, parecoxib 40 mg at wound closure, and parecoxib 40 mg 12 hours after induction (post)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the efficacy of parecoxib, a selective cyclooxygenase-2 inhibitor, in reducing postoperative pain without increasing bleeding in patients undergoing total hip arthroplasty."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Pain scores were recorded every 4 hours for 24 hours using a visual analog scale."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty-two patients were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Postoperative pain scores were lower in the pre and post groups compared to the control group. Morphine use in the Post Anesthesia Care Unit was significantly reduced in the pre group (p < 0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in postoperative bleeding were observed."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

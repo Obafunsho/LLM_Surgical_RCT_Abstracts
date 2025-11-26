@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We identified patients with IC who presented for index evaluation in a vascular surgery clinic at an academic medical center between 2016 and 2021."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were stratified based on whether they underwent a revascularization procedure during follow-up versus continued non-operative management with medication and recommended exercise therapy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study examines the relationship between IC treatment modality (operative vs. non-operative optimal medical management) and patient reported outcomes for physical function (PROMIS-PF) and satisfaction in social roles and activities (PROMIS-SA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We used linear mixed-effect models to assess the relationship between treatment modality and PROMIS-PF, PROMIS-SA, and ankle-brachial index (ABI) over time, clustering among repeat patient observations."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "225 IC patients were identified, of which 40% (N=89) underwent revascularization procedures (42% bypass, 58% PVI) and 60% (N=136) continued non-operative management."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Patients were followed up to 6.9 years with an average follow-up of 5.2 +/\u2212 1.6 years."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Examining patient reported outcome trends over time; there were no significant differences in PROMIS-PF between groups, trends over time, or group differences over time after adjusting for covariates (P= 0.07, 0.13, and 0.08, respectively)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

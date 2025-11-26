@@ -1,0 +1,74 @@
+{
+  "pmcid": "11927246",
+  "sha256": "0fe9376b656715b3e87255c1f182e4682155a61b01180ac0b04f8d9c6561efe9",
+  "timestamp_utc": "2025-11-09T23:23:07.008992+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.613390804597707,
+    "reading_ease": 13.248467432950207,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Transcutaneous Electrical Acupoint Stimulation for PONV Prevention in Gynecological Laparoscopy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "prospective, randomized, double-blind trial included 120 women"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "included 120 women, aged 18-65, undergoing gynecological laparoscopy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized into three groups: single-period TEAS (Group S, n=40), multiple-period TEAS (Group M, n=40), and non-stimulation control (Group C, n=40)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the efficacy of single-period versus multiple-period transcutaneous electrical acupoint stimulation (TEAS) for PONV prevention."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was PONV incidence and severity within 48 hours post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding included patients and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "120 women, aged 18-65, undergoing gynecological laparoscopy"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was per-protocol, with 120 participants completing the study."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Group M demonstrated a significant reduction in PONV incidence compared to Group C (10% vs. 50%, p<0.05) and Group S (10% vs. 17.5%, p<0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to TEAS were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Chinese Clinical Trials Registry, No. ChiCTR2200065802."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

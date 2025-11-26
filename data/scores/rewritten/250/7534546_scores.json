@@ -1,0 +1,74 @@
+{
+  "pmcid": "7534546",
+  "sha256": "98eed5f5a82a371e14b62620b932e191de408b89ea36f9209cd9b7e8f3990f0c",
+  "timestamp_utc": "2025-11-09T22:55:41.150907+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.444166666666668,
+    "reading_ease": 27.2175,
+    "word_count": 192
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Second-Generation HydroCoil Embolic System vs. Bare Platinum Coil in Intracranial Aneurysms"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1 to HES (n=297) or bare platinum coil (BPC, n=303) using stratified randomisation by site."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised, controlled trial enrolled 600 subjects with 3-14 mm ruptured or unruptured intracranial aneurysms across 46 centers in the US and Canada."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to HES (n=297) or bare platinum coil (BPC, n=303)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was aneurysm recurrence on the Raymond-Roy scale over 24 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "using stratified randomisation by site."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Imaging assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1 to HES (n=297) or bare platinum coil (BPC, n=303)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Recurrence occurred in 11 (4.4%) HES and 44 (15.4%) BPC subjects (OR 3.97, 95% CI [1.99, 7.92], p=0.002)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events, retreatment, hemorrhage, mortality, and clinical outcomes were similar between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT01407952"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "MicroVention, Inc."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

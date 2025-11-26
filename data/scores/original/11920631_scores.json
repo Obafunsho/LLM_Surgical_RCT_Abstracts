@@ -1,0 +1,74 @@
+{
+  "pmcid": "11920631",
+  "sha256": "e4310084e95202c5979e081e2ef3f9d4a5f34563a451bd62929ddc2c64140e0a",
+  "timestamp_utc": "2025-11-09T15:26:22.187364+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.345034201954398,
+    "reading_ease": 48.23390309446253,
+    "word_count": 307
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "157 patients undergoing laparoscopic major abdominal surgery were randomly assigned to two groups"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "157 patients undergoing laparoscopic major abdominal surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Remi (77, remifentanil) and OS (80, esketamine combined with dexmedetomidine)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the numeric rating scale (NRS) pain score on postoperative day (POD)1."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "157 patients undergoing laparoscopic major abdominal surgery were randomly assigned to two groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the NRS pain score and the proportion of rescue analgesia in Remi group was significantly higher than that in OS group (3 [1 to 3] vs 1 [1 to 3], P = 0.001; 15.6% vs 5.0%, P = 0.028, respectively)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "the proportion of dreaminess was also higher than that in the Remi group (15.6% vs 42.5%, P < 0.01)"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration Number: ChiCTR2200060130."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

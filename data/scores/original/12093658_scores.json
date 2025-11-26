@@ -1,0 +1,74 @@
+{
+  "pmcid": "12093658",
+  "sha256": "3550da6796401d8233766839809d758982327e019139098cdb184f13f315571b",
+  "timestamp_utc": "2025-11-09T15:30:13.685243+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 19.41360465116279,
+    "reading_ease": -5.8293604651162525,
+    "word_count": 215
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Enhanced recovery after surgery (ERAS) protocols are designed to minimize surgical stress, preserve physiological function, and expedite recovery through standardized perioperative care for primary colorectal surgery patients."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "This narrative review explores the benefits of current ERAS protocols in improving outcomes for these patients and provides insights into future advancements."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Numerous studies have shown that ERAS protocols significantly reduce the length of hospital stays by several days compared to conventional care."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 0,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Tourniquet and Adductor Canal Block on Quadriceps Strength Post-TKA"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, primary elective TKA patients were randomly assigned to one of four groups"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to one of four groups: tourniquet/ACB, tourniquet/no ACB, ACB/no tourniquet, and no tourniquet/no ACB"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effects of tourniquet and/or adductor canal block (ACB) on postoperative quadriceps strength."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in quadriceps strength, standardized to the contralateral leg."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using [Randomisation Method] with allocation concealment via [Concealment Method]."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to [Blinded Parties]."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 203 patients were randomised: 68 to tourniquet/ACB, 45 to tourniquet/no ACB, 45 to ACB/no tourniquet, and 45 to no tourniquet/no ACB."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "No significant differences were found in strength measures, pain, or knee buckling across groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No inpatient falls occurred."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Registration Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Funding Source]."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

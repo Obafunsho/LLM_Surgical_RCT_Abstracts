@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A randomized controlled trial comparing anterior pelvic external fixation (APEF) versus anterior pelvic internal fixation (APIF) for unstable pelvic ring injuries was begun in October 2010."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients with unstable pelvic ring injuries were enrolled and followed with respect to fracture reduction, surgical pain, complications, and functional outcome scores."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "A randomized controlled trial comparing anterior pelvic external fixation (APEF) versus anterior pelvic internal fixation (APIF) for unstable pelvic ring injuries was begun in October 2010."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Patients with unstable pelvic ring injuries were enrolled and followed with respect to fracture reduction, surgical pain, complications, and functional outcome scores."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "As of January 2012, 23 patients met inclusion; however, 12 patients refused participation because of the possibility of external fixation, leaving 11 patients (four male, seven female) enrolled."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "At 6-month followup, there was a single pin tract infection in the APEF cohort and no complications or pain in the APIF cohort."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "At 6-month followup, there was a single pin tract infection in the APEF cohort and no complications or pain in the APIF cohort."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

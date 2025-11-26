@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Biventricular Pacing After Cardiac Surgery: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Participants were randomised to continuous biventricular pacing (n = 16) or standard of care (n = 18) using a computer-generated sequence with allocation concealment."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted in a cardiac surgery unit, the trial included patients eligible based on risk of left ventricular dysfunction."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The study aims to compare the efficacy of biventricular pacing versus atrial pacing."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study aims to compare the efficacy of biventricular pacing versus atrial pacing."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was hemodynamic improvement, assessed by cardiac output and vasoactive-inotropic score, over the first 24 hours post-bypass."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Participants were randomised to continuous biventricular pacing (n = 16) or standard of care (n = 18) using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomised to continuous biventricular pacing (n = 16) or standard of care (n = 18)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Thirty-four patients were randomised and analysed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 12 to 24 hours post-bypass, the paced group exhibited a lower intrinsic heart rate (76.5 \u00b1 17.5 vs 91.7 \u00b1 13.0 beats per minute; P = .040)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not provided."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

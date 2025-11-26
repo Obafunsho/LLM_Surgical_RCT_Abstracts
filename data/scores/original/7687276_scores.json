@@ -1,0 +1,74 @@
+{
+  "pmcid": "7687276",
+  "sha256": "353bddb59c0be6fe9f1975066874e6744f24dbec5358fccc78dea466a8d1f245",
+  "timestamp_utc": "2025-11-09T16:15:08.154734+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.949253731343287,
+    "reading_ease": 24.602175660160782,
+    "word_count": 268
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods: This was a cost‐effectiveness analysis of the DIVA arm of the multicentre randomized Ladies trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "multicentre randomized Ladies trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "comparing primary anastomosis over Hartmann's procedure for Hinchey grade III or IV diverticulitis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing primary anastomosis over Hartmann's procedure"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The present study aimed to evaluate costs and cost‐effectiveness within the DIVA arm of the Ladies trial."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Main outcomes were incremental cost‐effectiveness (ICER) and cost–utility (ICUR) ratios, expressed as the ratio of incremental costs and the incremental probability of being stoma‐free or incremental quality‐adjusted life‐years respectively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "multicentre randomized Ladies trial"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Overall, 130 patients were included, of whom 64 were allocated to primary anastomosis and 66 to Hartmann's procedure."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "analysed according to the modified intention‐to‐treat principle"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Overall mean costs per patient were lower for primary anastomosis (€20 544, 95 per cent c.i. 19 569 to 21 519) than Hartmann's procedure (€28 670, 26 636 to 30 704), with a mean difference of €–8126 (–14 660 to –1592)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

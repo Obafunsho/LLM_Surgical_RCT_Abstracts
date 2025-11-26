@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Seventy-one patients (79 knees) were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients were excluded who were considered in previous randomized studies as high risk for complications, which might be attributed to the tourniquet."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to either use of a tourniquet from the incision through cementation of the implants and deflated for closure (operative tourniquet group) or tourniquet use only during cementation (cementation tourniquet group)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We asked whether the limited use of a tourniquet for cementation only would affect (1) surgical time; (2) postoperative pain and motion of the knee; (3) blood loss; or (4) complications such as risk of nerve injuries, quadriceps dysfunction, and drainage compared with use of a tourniquet throughout the procedure."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "We asked whether the limited use of a tourniquet for cementation only would affect (1) surgical time; (2) postoperative pain and motion of the knee; (3) blood loss; or (4) complications"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Seventy-one patients (79 knees) were randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seventy-one patients (79 knees) were randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "There were no differences in terms of surgical time, pain scores, pain medicine requirements, range of motion, hemoglobin change, or total blood loss."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One major complication (compartmental syndrome) occurred in a patient with tourniquet inflation until closure."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

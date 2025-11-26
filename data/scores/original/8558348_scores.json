@@ -1,0 +1,74 @@
+{
+  "pmcid": "8558348",
+  "sha256": "78f5ea2c349359c858e7cb10fb161356c8faf02ec7852a7915a9913313c9dc74",
+  "timestamp_utc": "2025-11-09T16:18:20.447762+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 7.797594543387646,
+    "reading_ease": 58.34284880636608,
+    "word_count": 377
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Purpose: To report a novel common-iliac-artery skirt technology (CST) in treating challenge iliac artery aneurysms."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients who received endovascular aneurysm repair (EVAR) in our center from 2014 to 2020 were retrospectively screened"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients treated with CST or with IIA embolization (IIAE) were enrolled"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Purpose: To report a novel common-iliac-artery skirt technology (CST) in treating challenge iliac artery aneurysms."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "39 CST patients, 26 IIAE patients, and 7 CST + IIAE patients were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "CST group had significant shorter surgery time (CST 97.42 ± 3.891 vs. IIAE 141.0 ± 8.010, p < 0.001), shorter hospital stay (CST 15.35 ± 0.873 vs. IIAE 19.32 ± 1.067, p = 0.009)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "lower in-hospital [CST 0% (0/39) vs. IIAE 11.5% (3/26), p = 0.059] and 1-year follow-up stent related MAEs [CST 6.7% (2/30) vs. IIAE 28.6% (6/21), p = 0.052]"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

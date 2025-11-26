@@ -1,0 +1,74 @@
+{
+  "pmcid": "12133716",
+  "sha256": "cc38b043f260b09661b7ae98366855479dfd66c61553f516d22d764d43718642",
+  "timestamp_utc": "2025-11-09T22:16:10.873319+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.76044433223933,
+    "reading_ease": 20.818808381721823,
+    "word_count": 233
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Endothelial Dysfunction in Single-Ventricle Congenital Heart Disease"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised controlled trial was conducted at a tertiary care center."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included SV-CHD patients eligible for surgical palliation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received standard surgical and pharmacological treatment, while the control group received standard care without targeted endothelial interventions."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the effect of targeted interventions on endothelial dysfunction in SV-CHD patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in endothelial function, measured by flow-mediated dilation, over a 12-month period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the intervention group and 97 in the control group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a significant improvement in endothelial function (mean difference = 5.2%, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in the intervention group and 1% in the control group experiencing gastrointestinal side-effects."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This study was funded by the National Institutes of Health."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

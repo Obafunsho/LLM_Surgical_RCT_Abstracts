@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients with newly diagnosed breast cancer were randomized to either preoperative MRI or conventional imaging."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with newly diagnosed breast cancer were randomized to either preoperative MRI or conventional imaging."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients with newly diagnosed breast cancer were randomized to either preoperative MRI or conventional imaging."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "evaluating MRI and its effect on disease-free survival (DFS) and overall survival (OS)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 440 patients, aged 56 years or less, with newly diagnosed breast cancer were randomized to either preoperative MRI (220) or conventional imaging (220; control)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "DFS rates were 85.5 and 80.0 per cent for the MRI and control groups respectively ( P = 0.099). The risk of relapse or death was 46 per cent higher in the control group (HR 1.46, 95 per cent c.i. 0.93 to 2.29)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT01859936 ( http://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

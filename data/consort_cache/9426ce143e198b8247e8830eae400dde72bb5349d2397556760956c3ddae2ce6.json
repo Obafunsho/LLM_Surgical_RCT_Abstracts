@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial on Fiberoptic Intubation in Simulated Cervical Spine Injury"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Sixty adult patients requiring nasotracheal intubation for oral surgery were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Sixty adult patients requiring nasotracheal intubation for oral surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to continuous positive-pressure oxygen (CPO), normal-pressure (NS), or intermittent negative-pressure suction (INS) groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to evaluate the efficiency and safety of fiberoptic intubation under different air pressures"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was intubation time, measured from bronchoscope insertion to tracheal intubation completion, with a maximum of 180 seconds"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed in sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to the outcome assessor"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty adult patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Fifty-nine patients were analysed"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The median intubation time was significantly shorter in the CPO group (59 seconds) compared to the NS (167 seconds) and INS (132.5 seconds) groups (P=0.04)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "no significant differences in complications"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2100051439"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

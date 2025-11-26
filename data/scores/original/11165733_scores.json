@@ -1,0 +1,74 @@
+{
+  "pmcid": "11165733",
+  "sha256": "4f401d228cf9d0c7e1555b13874bcfb19158caa3884d096bc6926a7fe7ecf667",
+  "timestamp_utc": "2025-11-09T15:15:45.357262+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.941882258710454,
+    "reading_ease": 10.35340808970767,
+    "word_count": 227
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "A mixed-methods study design was adopted."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Twelve vascular surgery residents from Ireland were tasked with completing two endovascular renal artery procedures."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "one with in-person expert feedback and the other with remote instruction."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to explore the effectiveness of remote expert instructional feedback of endovascular simulation-based education."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twelve vascular surgery residents from Ireland were tasked with completing two endovascular renal artery procedures."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "There was no significant difference reported by participants using a post-event validated questionnaire between remote and in-person feedback."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

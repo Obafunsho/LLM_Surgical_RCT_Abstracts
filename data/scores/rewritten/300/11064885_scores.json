@@ -1,0 +1,74 @@
+{
+  "pmcid": "11064885",
+  "sha256": "7c05477de4a6a78789de52e87b485687c09c026f316f4cbda72aa9f1825bdf3a",
+  "timestamp_utc": "2025-11-09T23:12:05.953400+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.8846218487395,
+    "reading_ease": 30.041750700280147,
+    "word_count": 238
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Supervised Exercise Versus Standard Care Following Lower Limb Revascularisation in Peripheral Arterial Disease"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to supervised exercise or standard care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial included 376 PAD patients, aged 18 and older, post-successful revascularisation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to supervised exercise or standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the impact of supervised exercise versus standard care after lower limb revascularisation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was maximum walking distance (MWD) on a treadmill, assessed over six weeks to five years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with concealed allocation."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 376 participants were randomised: 189 to the exercise group and 187 to standard care."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 89 in the exercise group and 108 in standard care, using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Exercise showed no significant improvement in MWD from baseline (MD 159.47 m, 95% CI -36.43 to 355.38). However, exercise may improve absolute MWD at follow-up (MD 301.89 m, 95% CI 138.13 to 465.65)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

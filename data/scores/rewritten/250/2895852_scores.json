@@ -1,0 +1,74 @@
+{
+  "pmcid": "2895852",
+  "sha256": "7f44788b715f8476769c1ed1a715da477c38934a6383006e48dbd8858ce2fab5",
+  "timestamp_utc": "2025-11-09T22:35:04.755459+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.943039301310044,
+    "reading_ease": 15.120119359534243,
+    "word_count": 229
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Subcutaneous and Intraarticular Indwelling Vacuum Drainage in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 111 patients undergoing primary TKA were randomised"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "111 patients undergoing primary TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either subcutaneous or intraarticular indwelling vacuum drainage"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether subcutaneous indwelling vacuum drainage offers advantages over intraarticular indwelling vacuum drainage in primary TKA."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was blood loss, measured by hemoglobin decrease and transfusion requirements, assessed over 5 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 56 patients were randomised to the subcutaneous group and 55 to the intraarticular group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean vacuum drainage volume was significantly lower in the subcutaneous group (140 mL) compared to the intraarticular group (352 mL)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

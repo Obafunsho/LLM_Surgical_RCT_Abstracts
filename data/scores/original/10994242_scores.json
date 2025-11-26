@@ -1,0 +1,74 @@
+{
+  "pmcid": "10994242",
+  "sha256": "f55db6d0d0cf4042155b2789f509fe7e838305595ddf71bcb7d40e4b0c9e8bb9",
+  "timestamp_utc": "2025-11-09T15:13:50.375919+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.906081081081084,
+    "reading_ease": 21.14398648648651,
+    "word_count": 185
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Intraocular drug delivery is a promising approach for treatment of ocular diseases."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Treatment of etoposide‐resistant RB cells with ANP‐HA‐GNPs in ovo resulted in significantly reduced tumor growth and angiogenesis compared with controls."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Therefore, new adjuvant therapies are needed to treat chemoresistant RBs."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Treatment of etoposide‐resistant RB cells with ANP‐HA‐GNPs in ovo resulted in significantly reduced tumor growth and angiogenesis compared with controls."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Treatment of etoposide‐resistant RB cells with ANP‐HA‐GNPs in ovo resulted in significantly reduced tumor growth and angiogenesis compared with controls."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

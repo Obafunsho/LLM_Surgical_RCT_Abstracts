@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "in 14 PD patients treated with STN stimulation during \u201cON\u201d and \u201cOFF\u201d condition of the stimulator"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "STN stimulation during \u201cON\u201d and \u201cOFF\u201d condition of the stimulator. The effects of a single dose of levodopa on ANS were tested"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aims of this study were to examine whether STN stimulation has an influence on functions of the ANS and to compare these effects to those induced by levodopa."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Blood pressure (BP) and heart rate (HR) during rest and orthostatic conditions, HR variability (HRV) and breathing\u2010induced cutaneous sympathetic vasoconstriction (CVC) were tested"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "in 14 PD patients treated with STN stimulation during \u201cON\u201d and \u201cOFF\u201d condition of the stimulator. The effects of a single dose of levodopa on ANS were tested in 15 PD patients without DBS."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "STN stimulation had no influence on cardiovascular ANS functions, whereas CVC was significantly increased. In contrast, levodopa significantly lowered BP and HR at rest and enhanced orthostatic hypotension."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

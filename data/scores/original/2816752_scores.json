@@ -1,0 +1,74 @@
+{
+  "pmcid": "2816752",
+  "sha256": "239335a44616ed3fe95d390ca6209dea0ecc8decf0293519bc83c46549c5e78d",
+  "timestamp_utc": "2025-11-09T15:50:06.760218+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.699347826086957,
+    "reading_ease": 38.8364130434783,
+    "word_count": 138
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We performed a randomized clinical trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Twenty-eight rotating-platform and 26 fixed-platform cemented TKAs were included."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "to compare tibial bone density changes in cemented components with different bearing designs."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to compare tibial bone density changes in cemented components with different bearing designs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "CT scans were performed postoperatively and 1 year and 2 years after the index operation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty-eight rotating-platform and 26 fixed-platform cemented TKAs were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Cancellous bone density loss (up to 12.6% at 2 years) was observed in all proximal tibial regions in both cohorts."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

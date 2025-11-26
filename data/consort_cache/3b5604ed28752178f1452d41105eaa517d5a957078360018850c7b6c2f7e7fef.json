@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Preoperative Educational Classes on Patient Expectations in THA and TKA"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Two randomised controlled trials were conducted, one for THA (177 patients) and one for TKA (143 patients)."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Participants were consecutively enrolled and randomly assigned to either the intervention or control group."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received a standard preoperative class plus a joint-specific module addressing recovery during the first 12 months. The control group received only the standard class."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine if preoperative educational classes could modify patients' expectations of their 12-month postoperative recovery following total hip arthroplasty (THA) and total knee arthroplasty (TKA)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the change in expectation scores, measured preoperatively before and after the class using validated hip-specific or knee-specific surveys."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Two randomised controlled trials were conducted, one for THA (177 patients) and one for TKA (143 patients)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "In the THA trial, mean changes in expectation scores were +3.3 \u00b1 8 for the intervention group and +4.9 \u00b1 8 for the control group. In the TKA trial, mean changes were \u22123.4 \u00b1 10 for the intervention group and +2.4 \u00b1 10 for the control group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The study was registered under trial number [insert number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "funding was provided by [insert source]."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

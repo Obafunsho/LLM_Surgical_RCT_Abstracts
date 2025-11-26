@@ -1,0 +1,74 @@
+{
+  "pmcid": "12140682",
+  "sha256": "00f70b17e440af03dcd0142a16887d93a79427a6c4e35c690076966a575a30ef",
+  "timestamp_utc": "2025-11-09T15:31:46.695259+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.175,
+    "reading_ease": 45.38096153846155,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aims to compare the different risk factors in patients with AS undergoing transcatheter aortic valve replacement (TAVR) vs. SAVR"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare the different risk factors in patients with AS undergoing transcatheter aortic valve replacement (TAVR) vs. SAVR"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "odds of all-cause mortality (odds ratio [OR]: 0.79; 95% CI: 0.63–1.00; P = 0.05)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

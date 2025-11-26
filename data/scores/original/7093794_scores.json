@@ -1,0 +1,74 @@
+{
+  "pmcid": "7093794",
+  "sha256": "93c98bab3f8343b65b76964f9463918a2b3e19d0fa663dfb1fe9f800eb130194",
+  "timestamp_utc": "2025-11-09T16:11:55.237189+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.132801771871538,
+    "reading_ease": 40.89976744186046,
+    "word_count": 258
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This multicentre trial randomized consecutive patients"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients undergoing surgery for pilonidal disease"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "DACC‐coated dressings versus alginate dressings"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to compare wound healing with dialkylcarbamoyl chloride (DACC)‐coated dressings versus alginate dressings."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the proportion of wounds healed after 75 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized consecutive patients"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 246 patients were included: 120 in the DACC‐coated group and 126 in the alginate group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In per‐protocol analysis, there were significantly more patients with completely healed wounds"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "78 of 103 (75·7 per cent) versus 58 of 97 (60 per cent) respectively (odds ratio 2·55, 95 per cent c.i. 1·12 to 5·92; P = 0·023)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT02011802 ( https://clinicaltrials.gov/ )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

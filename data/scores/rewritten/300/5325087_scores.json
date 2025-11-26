@@ -1,0 +1,74 @@
+{
+  "pmcid": "5325087",
+  "sha256": "41291344af887d7b982d0d76c39223eab4275a779a7938b3690280f9d8e85c45",
+  "timestamp_utc": "2025-11-09T23:57:24.631993+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.004189131364999,
+    "reading_ease": 32.05927471116817,
+    "word_count": 246
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Damage Control Laparotomy Versus Definitive Surgical Management in Trauma Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Trauma patients at 12 level 1 North American trauma centers were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Trauma patients at 12 level 1 North American trauma centers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "damage control laparotomy (DCL) compared to definitive surgical management (DSM)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to assess the effects of damage control laparotomy (DCL) compared to definitive surgical management (DSM) on mortality and complications in trauma patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were 24-hour and 30-day mortality."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The trial included 329 patients undergoing emergent laparotomy: 213 DCL and 116 DSM."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "DCL rates varied between institutions (33%-83%, p=0.002)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "DCL was not associated with 30-day mortality (OR 2.33, CI 0.97-5.60)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Sepsis and ventilator-associated pneumonia occurred more frequently with DCL (p<0.05)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

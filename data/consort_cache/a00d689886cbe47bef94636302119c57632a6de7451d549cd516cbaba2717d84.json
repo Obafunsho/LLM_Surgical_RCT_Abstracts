@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Femoral Head Size in Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised, blinded trial involved 60 female patients aged 55-70 years"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "60 female patients aged 55-70 years with primary hip arthritis, conducted at a single orthopedic center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised into three groups of 20 to receive a 28-mm, 36-mm ceramic-on-crosslinked polyethylene, or \u226542-mm metal-on-metal bearing couple"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the effects of different femoral head sizes on gait parameters and hip function in total hip arthroplasty (THA)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was spatiotemporal gait parameters at 4 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised, blinded trial involved 60 female patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean difference in spatiotemporal parameters was not significant (p > 0.05)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The study was registered under trial number [Trial Registration Number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding was provided by [Funding Source]"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

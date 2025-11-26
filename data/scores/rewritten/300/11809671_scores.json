@@ -1,0 +1,74 @@
+{
+  "pmcid": "11809671",
+  "sha256": "303166869b4f10db0f9f62f49c1df1e4757c68c95f1d54994e0fe07229a82082",
+  "timestamp_utc": "2025-11-09T23:20:50.415086+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.35404105571848,
+    "reading_ease": 36.62951319648096,
+    "word_count": 275
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Off-Pump versus On-Pump Coronary Artery Bypass Grafting"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either off-pump or on-pump CABG."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "10,716 participants with ischaemic heart disease."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either off-pump or on-pump CABG."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was all-cause mortality, measured over a follow-up period of 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not feasible for patients and clinicians, but outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 5,180 participants were randomised to off-pump CABG and 5,144 to on-pump CABG."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Data were analysed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Analysis showed increased all-cause mortality in the off-pump group (3.7%) compared to the on-pump group (3.1%), with a risk ratio of 1.24 (95% CI 1.01 to 1.53; p = 0.04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were not significantly different between groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

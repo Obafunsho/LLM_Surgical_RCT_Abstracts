@@ -1,0 +1,74 @@
+{
+  "pmcid": "7480315",
+  "sha256": "48c882eb764cfe0cb9c5fc7ff68c595507ec0f77922b0a94c4e9289a48c7a366",
+  "timestamp_utc": "2025-11-09T22:55:24.388710+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.958142076502735,
+    "reading_ease": 26.303160291439013,
+    "word_count": 244
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Cervical Epidural Analgesia in Head and Neck Cancer Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Thirty patients aged 18-65 years with ASA status I or II undergoing elective head and neck cancer surgery were randomised into two groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Thirty patients aged 18-65 years with ASA status I or II undergoing elective head and neck cancer surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group E (cervical epidural analgesia with general anesthesia) and Group G (general anesthesia alone)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to evaluate the effect of cervical epidural analgesia on opioid and anesthetic requirements and stress response in head and neck cancer surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the requirement of morphine, isoflurane, and vecuronium, measured intra-operatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was done using a computer-generated sequence with allocation concealment via sequentially numbered opaque envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not possible due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fifteen patients were randomised to each group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "with 14 in Group E and 15 in Group G completing the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Group E showed a significant reduction in morphine (p < 0.001), isoflurane (p = 0.004), and vecuronium (p = 0.001) requirements."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included bradycardia in 6.6% and hypotension in 13.3% of Group E."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "No financial support was reported."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

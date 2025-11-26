@@ -1,0 +1,74 @@
+{
+  "pmcid": "6311148",
+  "sha256": "b00fc5e499c7e84d8c3bf2dae830a22c01c5563715d7bf7fc12cc9c1e2e95142",
+  "timestamp_utc": "2025-11-09T16:08:04.623893+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.860729602510464,
+    "reading_ease": 36.63243331589959,
+    "word_count": 239
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This paper describes the development and psychometric testing of the Knowledge Assessment of Renal Transplantation (KART)."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "We administered 17 transplant knowledge items to a sample of 1,294 ESRD patients."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This paper describes the development and psychometric testing of the Knowledge Assessment of Renal Transplantation (KART)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Construct validity was supported by the KART’s ability to distinguish patients who had spent < 1 and> 1 hour receiving different types of kidney transplant education, including talking to doctors/medical staff [effect size (ES) = 0.61; p<0.001], reading brochures (ES = 0.45; p<0.001), browsing the internet (ES = 0.56; p<0.001), and watching videos (ES = 0.56; p<0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  }
+}

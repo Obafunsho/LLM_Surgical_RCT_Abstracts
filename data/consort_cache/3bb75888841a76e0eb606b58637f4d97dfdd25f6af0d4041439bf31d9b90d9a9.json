@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Intraosseous Versus Systemic Administration of Cefazolin in Primary Total Knee Arthroplasty: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial included 22 patients undergoing primary TKA"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "22 patients undergoing primary TKA, conducted at a single orthopedic center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group 1 (n=11) received 1 g cefazolin systemically... Group 2 (n=11) received 1 g cefazolin intraosseously"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compares tissue concentrations of cefazolin achieved via systemic versus regional intraosseous administration"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "antibiotic concentrations were measured using high-performance liquid chromatography"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "22 patients undergoing primary TKA"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Group 1 (n=11)... Group 2 (n=11)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean tissue concentration of cefazolin in subcutaneous fat was 186 ug/g in the intraosseous group and 11 ug/g in the systemic group"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

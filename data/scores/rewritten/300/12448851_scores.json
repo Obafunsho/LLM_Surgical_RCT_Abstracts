@@ -1,0 +1,74 @@
+{
+  "pmcid": "12448851",
+  "sha256": "268a385657abbedeb69865c4bac9bf92dcbc2d15fe9fe16b19f6574373f44659",
+  "timestamp_utc": "2025-11-09T23:38:56.900365+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.635555555555559,
+    "reading_ease": 49.180000000000035,
+    "word_count": 270
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "CReST2: A Randomised Controlled Trial Comparing Covered and Uncovered Stents in Palliative Colorectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was 1:1 to covered or uncovered stents"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were adults with left-sided colonic obstruction due to incurable malignancy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Randomisation was 1:1 to covered or uncovered stents"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of covered versus uncovered stents in terms of stent patency and quality of life (QoL)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Co-primary outcomes were stent patency at 6 months and QoL at 3 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was 1:1 to covered or uncovered stents, using a central service with minimization for age, WHO performance status, tumour site, and palliation indication."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding included patients and clinicians, except for the stent inserter."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between June 2017 and April 2022, 377 patients were randomised (188 covered, 189 uncovered)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Stenting was unsuccessful in 47 patients."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Stent patency at 6 months was 72.7% for covered and 81.9% for uncovered stents (adjusted HR 1.48, 97.5% CI 0.86–2.54)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complications occurred in 26.1% (covered) and 17.5% (uncovered) of patients."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN54834267."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The trial was funded by the National Institute for Health Research."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

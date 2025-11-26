@@ -1,0 +1,74 @@
+{
+  "pmcid": "3810307",
+  "sha256": "124a3d5b0a7275cb7177abdab48978f98d6658eb3e7b607fcc546260f7055b24",
+  "timestamp_utc": "2025-11-09T22:38:54.359536+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.93846428571429,
+    "reading_ease": 28.898202380952398,
+    "word_count": 224
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Surgical Ventricular Reconstruction in Ischemic Heart Failure"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 1000 patients with ischemic heart failure were randomised"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either CABG alone or CABG plus SVR"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was survival, measured at 4 months postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the interventions"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "1000 patients with ischemic heart failure were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was conducted per-protocol"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "SVR improved survival compared to CABG alone when the postoperative end-systolic volume index was ≤70 mL/m²"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

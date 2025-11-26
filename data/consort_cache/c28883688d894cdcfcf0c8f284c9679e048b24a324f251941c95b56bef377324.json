@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Chemoradiotherapy Combined with Local Excision for T1 to T2 Low Rectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This single-arm, multicenter phase II trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were aged 20-75 years with T1N0 or T2N0 low rectal cancer, confirmed by MRI, CT, proctoscopy, and digital rectal examination."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved LE followed by CRT (45 Gy external beam irradiation and 5-week intravenous 5-fluorouracil)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of chemoradiotherapy (CRT) combined with local excision (LE) in treating T1 to T2 low rectal cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 5-year disease-free survival (DFS)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fifty-seven patients were treated"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Fifty-seven patients were treated, with 53 having T1 lesions and 4 having T2 lesions."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The 5-year DFS was 94% for T1 lesions and 75% for T2 lesions."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No serious, nontransient treatment-related complications were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The study was registered (No. 000011417)."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

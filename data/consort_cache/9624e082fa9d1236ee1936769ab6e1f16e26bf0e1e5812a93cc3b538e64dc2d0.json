@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "The primary participants in these studies were patients with chronic obstructive pulmonary disease (COPD)."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Nurses primarily promoted smoking cessation through the distribution of pamphlets, face-to-face education, and the provision of smoking cessation guidance."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To define the specific responsibilities of nurses in facilitating smoking cessation among patients, and provide guidance for future nursing interventions in smoking cessation."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The analysis identified six key roles that nurses played in smoking cessation interventions: assessors, educators, practice facilitators, coordinating collaborators, organizers, and supervisors."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

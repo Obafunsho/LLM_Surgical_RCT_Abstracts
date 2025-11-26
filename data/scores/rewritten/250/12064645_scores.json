@@ -1,0 +1,74 @@
+{
+  "pmcid": "12064645",
+  "sha256": "36993560a10ac3da504ced6cb849ea2d8d3a21a322280c5899bc9cc511af960b",
+  "timestamp_utc": "2025-11-09T22:14:11.702508+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.644955223880597,
+    "reading_ease": 13.932507462686601,
+    "word_count": 201
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: This study aimed to describe the practice, techniques, anesthetics, additives, and adjuncts used in pediatric caudal epidural blocks in the Palestinian healthcare system and investigate factors associated with variations in these practices."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Methods: A cross-sectional observational design was used, collecting data from 162 anesthesiologists across 28 hospitals in Palestine between May 2022 and January 2023."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were anesthesiologists practicing pediatric caudal epidural blocks."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Background: This study aimed to describe the practice, techniques, anesthetics, additives, and adjuncts used in pediatric caudal epidural blocks in the Palestinian healthcare system and investigate factors associated with variations in these practices."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Results: The response rate was 68.9%. The most frequently used local anesthetics were bupivacaine (91.4%) and lignocaine/lidocaine (16.0%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The study was not registered as a trial"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was not registered as a trial and was funded by An-Najah National University."
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

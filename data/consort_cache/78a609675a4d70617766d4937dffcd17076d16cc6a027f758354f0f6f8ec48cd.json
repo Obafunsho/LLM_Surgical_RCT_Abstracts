@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This prospective observational study included adult patients undergoing upper-limb surgery under supraclavicular brachial plexus block."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "This prospective observational study included adult patients undergoing upper-limb surgery under supraclavicular brachial plexus block."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the accuracy of infrared thermography in predicting failed segmental supraclavicular brachial plexus block."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Outcomes were the ability of temperature change at each site to predict failed block of the corresponding nerve using area under receiver-operating characteristic curve (AUC) analysis."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Eighty patients were available for the final analysis."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Eighty patients were available for the final analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The AUC (95% confidence interval [CI]) for the ability of temperature change at 5 min to predict failed ulnar, median, and radial nerve block was 0.79 (0.68\u20130.87), 0.77 (0.67\u20130.86), and 0.79 (0.69\u20130.88)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

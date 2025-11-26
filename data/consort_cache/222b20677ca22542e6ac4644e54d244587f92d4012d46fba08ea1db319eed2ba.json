@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "single-center, double-blind, randomized, parallel-controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "102 patients undergoing elective thoracoscopic surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized 1:1 to thoracic paravertebral block with LB (6.67 mg/mL) or ropivacaine hydrochloride (RH; 0.33%)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we investigated the effects of LB in multimodal analgesia after thoracic surgery with paravertebral block"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was opioid consumption within 72 h postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "102 patients undergoing elective thoracoscopic surgery were randomized 1:1"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "One patient was excluded due to block failure, leaving 101 patients"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "LB significantly reduced 72-h opioid consumption compared to RH (difference = \u2013181.4 mg; 95% CI: \u2013232.8, \u2013130.0 mg; P < 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "adverse events"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Chinese Clinical Trials Registry Platform (chictr.org.cn): ChiCTR2400091217"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

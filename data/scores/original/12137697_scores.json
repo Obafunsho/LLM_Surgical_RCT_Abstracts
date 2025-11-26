@@ -1,0 +1,74 @@
+{
+  "pmcid": "12137697",
+  "sha256": "2eefae2986d32fa91f86eb6a072208dd7db905a97d4611319031ab2cbcbd765c",
+  "timestamp_utc": "2025-11-09T15:31:31.804588+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.974699507389165,
+    "reading_ease": 47.653346469622335,
+    "word_count": 203
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Pleural spread or recurrence of thymic epithelial tumors (TETs) is a tricky puzzle in the clinic and there is currently no recognized effective treatment."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "enrolled 45 patients receiving S-HITOC"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "receiving S-HITOC with 25 mg/m 2 doxorubicin and 50 mg/m 2 cisplatin"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial evaluated the safety and efficacy of cytoreductive surgery and hyperthermic intrathoracic chemotherapy (S-HITOC) for TETs with pleural spread or recurrence."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "enrolled 45 patients receiving S-HITOC"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The estimated 2-year PFS and OS rates were 82.8% and 100.0%, respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Treatment-related adverse events of grade ≥3 occurred in eight (17.8%) patients."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial number: NCT05446935"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

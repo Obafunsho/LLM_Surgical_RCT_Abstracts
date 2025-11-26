@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Thumb and Index Finger Techniques for Laryngeal Mask Airway Insertion"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to Group I (Index Finger) or Group T (Thumb Insertion), with 20 patients in each group."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Forty patients, aged 18-60 years, classified as American Society of Anesthesiologists grade I and II, were enrolled."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to Group I (Index Finger) or Group T (Thumb Insertion)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare the thumb insertion technique with the conventional index finger technique for inserting the silicone laryngeal mask airway (LMA) Classic\u2122 in patients undergoing elective surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was ease of insertion, measured immediately after insertion."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using sealed numbered envelopes, and outcome assessors were blinded."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "with 20 patients in each group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was conducted on all randomised participants, adhering to an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Both groups demonstrated comparable results in terms of ease of insertion, fiberoptic view scores, cuff pressures, and laryngopharyngeal morbidity."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

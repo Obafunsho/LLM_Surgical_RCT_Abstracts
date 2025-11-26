@@ -1,0 +1,74 @@
+{
+  "pmcid": "8418207",
+  "sha256": "438603bccf3ad24f1de014092d67c5196c962266bdab3082c561a4b66e06666b",
+  "timestamp_utc": "2025-11-09T22:58:20.440497+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.095039225941424,
+    "reading_ease": 27.783060930962364,
+    "word_count": 239
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of High-Dose Preoperative Glucocorticoids in Open Liver Resection"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-centre, double-blinded, parallel-group RCT"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients scheduled for open liver resection were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either 10 mg/kg methylprednisolone (high dose) or 8 mg dexamethasone (standard dose)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine if a single high dose of preoperative glucocorticoid reduces complications"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the number of patients with complications in the postanaesthesia care unit (PACU), measured during the PACU stay"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using block randomisation with allocation concealment via sealed opaque envelopes"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "All participants, trial personnel, and outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 174 patients were randomised (88 to high-dose, 86 to standard-dose)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "analysed using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Complications occurred in 51 patients (58%) in the high-dose group and 58 (67%) in the standard-dose group (risk ratio 0.86, 95% CI 0.68 to 1.08; P = 0.213)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events occurred in 48 patients (45%) in the high-dose group and 49 (43%) in the standard-dose group"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT03403517; EudraCT 2017–002652-81"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by the Research Fund at Rigshospitalet and Departments of Anaesthesiology and Gastrointestinal Surgery and Transplantation, Centre for Cancer and Organ Diseases, Rigshospitalet Copenhagen University Hospital, Denmark"
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  }
+}

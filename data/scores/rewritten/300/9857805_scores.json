@@ -1,0 +1,74 @@
+{
+  "pmcid": "9857805",
+  "sha256": "59bec44e275872eac17657eb9b988e44618f4d334b8f3b53b8ba65c7bb0f906d",
+  "timestamp_utc": "2025-11-10T00:13:42.831754+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.113746130030961,
+    "reading_ease": 19.37212074303409,
+    "word_count": 272
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Cost-Effectiveness of Fibrinogen Concentrate vs Cryoprecipitate in Cardiac Surgery: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants included 495 adult patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included 495 adult patients with acquired hypofibrinogenemia post-cardiac surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised (1:1) to receive either FC (4 g per dose) or cryoprecipitate (10 units per dose)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the cost-effectiveness of fibrinogen concentrate (FC) compared to cryoprecipitate in managing active bleeding in adult cardiac surgery patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the number of allogeneic blood products (ABPs) administered within 7 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants included 495 adult patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 495 patients were analysed"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Median 7-day ABP costs were CAD $2280 for FC and CAD $2770 for cryoprecipitate."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar across groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT03037424"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

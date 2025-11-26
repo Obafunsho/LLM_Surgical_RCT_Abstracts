@@ -1,0 +1,74 @@
+{
+  "pmcid": "11832550",
+  "sha256": "f97f258468787498f3058b943e801c665ca4c635705a85f975ac9860210cd002",
+  "timestamp_utc": "2025-11-09T23:21:10.316460+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.252413474850023,
+    "reading_ease": 10.438998615597626,
+    "word_count": 197
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "The intervention involved positioning the drainage cannula tip into the superior vena cava (SVC) and crossing the reinfusion cannula in the right atrium (RA)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study explores the potential of the F(SVC)–J(RA) configuration in veno-venous extracorporeal membrane oxygenation (V–V ECMO) to enhance systemic oxygenation in patients with severe respiratory failure."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the partial pressure of arterial oxygen (PaO2), monitored throughout the ECMO treatment."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The patient exhibited a PaO2 exceeding 200 mmHg, even with minimal ventilation under lung rest conditions."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

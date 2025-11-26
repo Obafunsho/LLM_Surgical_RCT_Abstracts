@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomized controlled trial, we compared patient-specific TKA instruments from one manufacturer (n = 50) with conventional TKA instruments (n = 50)."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "we compared patient-specific TKA instruments from one manufacturer (n = 50) with conventional TKA instruments (n = 50)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we evaluated (1) the precision of patient-specific TKA by comparing the incidence of outliers in postoperative alignment between TKAs using patient-specific instruments and TKAs using conventional instruments, and (2) the reliability of patient-specific instruments by intraoperatively investigating whether the surgery could be completed with patient-specific instruments alone."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Postoperative hip-knee-ankle angles, femoral component rotation, and coronal and sagittal alignments of each component were measured."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "we compared patient-specific TKA instruments from one manufacturer (n = 50) with conventional TKA instruments (n = 50)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Outliers in the hip-knee-ankle angle were comparable between groups (12% in the patient-specific instrument group and 10% in the conventional instrument group)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Patient-specific guides were abandoned in eight knees (16%) during the surgery because of malrotation of the femoral components and decreased slope of the tibia."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

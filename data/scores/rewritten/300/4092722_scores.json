@@ -1,0 +1,74 @@
+{
+  "pmcid": "4092722",
+  "sha256": "fd88397e9438e5a24caf7e11a337c130054798a612ed8d27221ac5629cafc323",
+  "timestamp_utc": "2025-11-09T23:52:18.938139+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.68969476744186,
+    "reading_ease": 20.848030523255858,
+    "word_count": 215
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Ventricular Performance Parameters in Coronary Artery Bypass Grafting"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Fourteen patients with preoperative EF >35% and no contraindication to transoesophageal echocardiography (TEE) were enrolled."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Fourteen patients with preoperative EF >35% and no contraindication to transoesophageal echocardiography (TEE) were enrolled. The trial was conducted during elective CABG."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "In eight patients, dobutamine 2.5 μg/kg/min was administered before cardiopulmonary bypass (CPB) to evaluate ventricular reserve."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the utility of preload adjusted peak power (PAPP), cardiac cycle efficiency (CCE), and ejection fraction (EF) as measures of ventricular performance in patients undergoing coronary artery bypass grafting (CABG)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "PAPP was derived from peak systolic aortic pressure and peak aortic blood flow velocity, while EF was estimated using TEE."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fourteen patients with preoperative EF >35% and no contraindication to transoesophageal echocardiography (TEE) were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Dobutamine infusion resulted in improved PAPP values (2.4 ± 0.9 vs 3.2 ± 0.8) in all eight patients, although the small sample size precluded statistical analysis."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported during the study."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not disclosed."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

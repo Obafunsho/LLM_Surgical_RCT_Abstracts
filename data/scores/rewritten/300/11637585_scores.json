@@ -1,0 +1,74 @@
+{
+  "pmcid": "11637585",
+  "sha256": "8c3973596ec9d41c16d71b02db2ae95e090529000ec22bd9f35e2b52972aa459",
+  "timestamp_utc": "2025-11-09T23:18:25.892175+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.910483602001111,
+    "reading_ease": 31.467808041504583,
+    "word_count": 257
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Effect of Reverse Bevel Nasotracheal Intubation on Epistaxis"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised controlled trial was conducted at Asan Medical Center, Seoul, Korea, from November 2021 to September 2023."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Seventy-four patients undergoing right-sided maxillofacial surgery requiring left nasotracheal intubation"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly allocated to either the control group (conventional tube direction) or the reverse group (180˚ reverse bevel direction)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the effect of a 180˚ reverse bevel and tip direction of the nasotracheal tube on the incidence of epistaxis during left nostril intubation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of epistaxis, assessed via videolaryngoscopy."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using web-based software, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Seventy-four patients undergoing right-sided maxillofacial surgery requiring left nasotracheal intubation"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "9/37 [24.3%]) compared to the control group (20/37 [54.1%]"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "relative risk: 0.45, 95% CI [0.24, 0.85], absolute risk reduction: 29.8%, number needed to treat: 3"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No nasotracheal tube-related complications were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: KCT0006672."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

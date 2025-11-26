@@ -1,0 +1,74 @@
+{
+  "pmcid": "8093992",
+  "sha256": "19ff44c0b9fed9f565a795f2fa8f2bf1fdb4403b6164dd258b5a88e530d37988",
+  "timestamp_utc": "2025-11-09T16:16:35.606684+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.614705882352943,
+    "reading_ease": 39.031470588235294,
+    "word_count": 260
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "92 (mean age 69 years; 50% male) met our inclusion criteria"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "assessing potential predictive variables for mortality in the EVT-treated patients"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was death within 90 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 182 patients in the DEFUSE 3 study"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "92 (mean age 69 years; 50% male) met our inclusion criteria"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "2/52 (3.9%), 3/23 (13.0%), and 9/17 (52.9%) of patients died, respectively (P<0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

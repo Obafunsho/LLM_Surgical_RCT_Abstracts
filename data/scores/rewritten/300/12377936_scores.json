@@ -1,0 +1,74 @@
+{
+  "pmcid": "12377936",
+  "sha256": "2cbf81f5fc1ef9ab26d554139e12a62469ecfd76db2b83eebfb9a71a8354d89f",
+  "timestamp_utc": "2025-11-09T23:35:23.443535+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.690423317140876,
+    "reading_ease": 18.120555170020822,
+    "word_count": 262
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Risk Factors for Serious Hypotension Following Intravenous Acetaminophen in Hematologic Malignancies: A Retrospective Case-Control Study"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "hospitalized patients with hematologic malignancies who received intravenous AAP"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients with hematologic malignancies who received intravenous AAP"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to identify risk factors associated with this adverse event."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The serious hypotension group comprised 37 patients, while the control group included 111 patients"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Elevated body temperature prior to administration (OR 9.81, 95% CI 3.49–27.53), acute kidney injury (OR 14.99, 95% CI 3.13–71.87), and bacteremia (OR 6.36, 95% CI 2.01–20.11) were identified as significant risk factors"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were more frequent in the serious hypotension group, with 64.9% developing septic shock."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

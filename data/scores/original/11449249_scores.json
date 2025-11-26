@@ -1,0 +1,74 @@
+{
+  "pmcid": "11449249",
+  "sha256": "6e87968decfc0d2a7914b23a26b5cad985195007a61e4000b458a332960ada3b",
+  "timestamp_utc": "2025-11-09T15:19:30.589483+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.947714143426296,
+    "reading_ease": 28.030947045152743,
+    "word_count": 251
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The prospective study included patients who underwent thyroid FNAB at the Endocrinology Clinic of Sultan Abdulhamid Training and Research Hospital"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We aimed to determine whether a correlation exists between patients’ situational anxiety, pain perception and non-diagnostic cytology results."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "We evaluated whether the STAI-S and VAS score is related to non-diagnostic results."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of the 119 patients included in the study, 98 were female, and 21 were male."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "A statistically significant relation was found between the patient's STAI-S score and VAS score and the cytology result of non-diagnostic (p= 0.001 and p=0.008). In univariate logistic regression, high pre-procedural anxiety (OR:3.09, 95% CI:1.07-8.94, P =0.037) and VAS score (OR:1.57, 95% CI: 1.17-2.10, P =0.002) were associated with non-diagnostic cytology."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

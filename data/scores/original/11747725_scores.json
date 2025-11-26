@@ -1,0 +1,74 @@
+{
+  "pmcid": "11747725",
+  "sha256": "4813467ca52ad41d4abb0a7416002f09d6750b5b7ca9c1fead1656b371d1e271",
+  "timestamp_utc": "2025-11-09T15:23:10.374342+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.527781290682537,
+    "reading_ease": 17.43486330667662,
+    "word_count": 283
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Monocentric, randomized, parallel, open-label trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Monocentric, randomized, parallel, open-label trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with obstructive, unresectable distal gastric tumours"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compare gastric partitioning to gastrojejunostomy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective was to compare gastric partitioning to gastrojejunostomy"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "gastric outlet obstruction scoring system scale as the main outcome"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was performed using computer-generated software available online"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Over 7 years, 90 patients were initially randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "25 patients were included in the gastrojejunostomy group and 27 in the partitioning group"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Acceptance of normal diet was more frequently reached by patients in the partitioning group (96% versus 72%; P = 0.022)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Patients in the partitioning group received more frequent red blood cell transfusions (81% versus 52%; P = 0.024)"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02065803, clinicaltrials.gov"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

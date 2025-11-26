@@ -1,0 +1,74 @@
+{
+  "pmcid": "11363871",
+  "sha256": "044088b8baa5bea881548a2540715bf75d21445da3f9cc08e904f3d460cec3db",
+  "timestamp_utc": "2025-11-09T22:02:55.252977+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.462087676272226,
+    "reading_ease": 42.52790772532191,
+    "word_count": 233
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Tailoring Biliopancreatic Limb Length in One Anastomosis Gastric Bypass: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised intraoperatively"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "eligible patients aged 18-65 years, meeting IFSO criteria for metabolic bariatric surgery, were randomised intraoperatively"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received a tailored BP limb based on TSBL, while the control group received a standard 150 cm BP limb."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to determine if tailoring the biliopancreatic (BP) limb length based on total small bowel length (TSBL) results in superior outcomes compared to a fixed 150 cm BP limb in one anastomosis gastric bypass (OAGB)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was percentage total weight loss (%TWL) at 5 years, with a predefined 1-year analysis."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation used a sealed envelope method with allocation concealment."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, research team, and care providers were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From September 2020 to August 2022, 212 patients were randomised: 105 to the standard group and 107 to the tailored group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "At 1 year, the mean %TWL was 32.8% in the standard group and 33.1% in the tailored group (P = 0.787)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 1 year, the mean %TWL was 32.8% in the standard group and 33.1% in the tailored group (P = 0.787)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in nutritional deficiencies or short-term complications were observed."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Dutch Trial Register, NL7945."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

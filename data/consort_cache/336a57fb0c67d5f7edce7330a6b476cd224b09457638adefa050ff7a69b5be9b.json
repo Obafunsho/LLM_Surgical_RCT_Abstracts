@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomized prospective studies to quantify the effect of methylprednisolone on perioperative outcomes in neonatal cardiac surgery have not been performed."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Neonates scheduled for cardiac surgery were randomly assigned to receive either Two Dose (8 hours preoperatively and operatively; n=39) or Single Dose (operatively; n=37) methylprednisolone (30 mg/kg/dose) in a double-blind, placebo-controlled trial."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Neonates scheduled for cardiac surgery were randomly assigned to receive either Two Dose (8 hours preoperatively and operatively; n=39) or Single Dose (operatively; n=37) methylprednisolone (30 mg/kg/dose) in a double-blind, placebo-controlled trial."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Neonates scheduled for cardiac surgery were randomly assigned to receive either Two Dose (8 hours preoperatively and operatively; n=39) or Single Dose (operatively; n=37) methylprednisolone (30 mg/kg/dose) in a double-blind, placebo-controlled trial."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We sought to determine whether pre-operative methylprednisolone would improve postoperative recovery in neonates requiring cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of low cardiac output syndrome (standardized score) or death 36 hours postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Neonates scheduled for cardiac surgery were randomly assigned to receive either Two Dose (8 hours preoperatively and operatively; n=39) or Single Dose (operatively; n=37) methylprednisolone (30 mg/kg/dose) in a double-blind, placebo-controlled trial."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind, placebo-controlled trial."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "n=39) or Single Dose (operatively; n=37)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The incidence of low cardiac output syndrome was 46% (17/37) in the Single Dose and 38% (15/39) in the Two Dose methylprednisolone groups (p=0.51)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The incidence of low cardiac output syndrome was 46% (17/37) in the Single Dose and 38% (15/39) in the Two Dose methylprednisolone groups (p=0.51)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Two Dose methylprednisolone was associated with a higher serum creatinine (0.61\u00b10.18 vs. 0.53\u00b10.12 mg/dL, p=0.03), and poorer postoperative diuresis (\u221296\u00b149 mL, p=0.05)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

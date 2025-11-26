@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of the Alfalfa App for Warfarin Management in Post-Cardiac Valve Replacement Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1 using a Microsoft Excel-generated list."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were eligible if they had been on warfarin for at least 3 months, received warfarin management through the Alfalfa app or pharmacist-led clinic visits, and had no serious bleeding or thrombotic events in the prior 3 months."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "received warfarin management through the Alfalfa app or pharmacist-led clinic visits"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy, safety, and cost-effectiveness of the Alfalfa app for warfarin management compared to offline methods."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the time in therapeutic range (TTR) over 3 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomised 1:1 using a Microsoft Excel-generated list."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "The study was open-label."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 405 participants were analysed (204 in the Alfalfa group, 201 in the offline group)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 405 participants were analysed (204 in the Alfalfa group, 201 in the offline group)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The Alfalfa group had a higher TTR (66.46% vs 46.65%, P <.001) and monitoring frequency (8.14 vs 4.47, P <.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Minor bleeding was more frequent in the Alfalfa group (5.9% vs 1.5%, P =.02)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR1900021920."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

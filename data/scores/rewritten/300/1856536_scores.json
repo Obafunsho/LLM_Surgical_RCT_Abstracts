@@ -1,0 +1,74 @@
+{
+  "pmcid": "1856536",
+  "sha256": "d3bf3de8317e1e15bd767db5cab8a1ba562d89e4bfbc77d1911ad11508f5234f",
+  "timestamp_utc": "2025-11-09T23:43:47.942244+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.884537815126048,
+    "reading_ease": 24.314705882352968,
+    "word_count": 255
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Simulation Training on Catheter Skills Acquisition in Surgical Residents"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised into two groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "20 general surgery residents were recruited"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "10 residents received additional training with the Procedicus computer-based haptic simulator, while 10 served as controls"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the impact of simulation on the acquisition of catheter skills by surgical residents."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was resident performance during two consecutive mentored catheter-based interventions"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was conducted using a computer-generated sequence"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "attending surgeons blinded to training status graded performance"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "20 general surgery residents were recruited"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Residents exposed to simulation scored higher than controls during the first intervention: procedural steps (50 ± 6 vs. 33 ± 9, P = 0.0015); global rating scale (30 ± 7 vs. 19 ± 5, P = 0.0052)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

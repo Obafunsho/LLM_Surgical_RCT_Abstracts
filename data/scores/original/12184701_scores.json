@@ -1,0 +1,74 @@
+{
+  "pmcid": "12184701",
+  "sha256": "b148081b5a8a6b5d13b843834597a747f77c25f5d3d3fc9459158276d96b6a46",
+  "timestamp_utc": "2025-11-09T15:33:26.993304+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.775000000000002,
+    "reading_ease": 31.97,
+    "word_count": 288
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective study analyzed anesthesia records"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "all male patients who underwent URL and received nalbuphine under general anesthesia at Jiaxing University Affiliated Hospital"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were categorized into four groups based on nalbuphine dosage: 0.025, 0.05, 0.075, and 0.10 mg/kg"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the median effective dose (ED50) and effective dose 95% (ED95) of nalbuphine for alleviating moderate-severe catheter-related bladder discomfort (CRBD)"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Data on patient demographics, CRBD scores, agitation scores, the Ramsay sedation scale, and urinary catheter-related pain (UCRP) scores were collected 5 min after laryngeal mask removal"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Data from 76 anesthesia records were retrieved"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "the ED50 of nalbuphine for alleviating moderate-severe CRBD following URL in male patients was 0.03 mg/kg (95% confidence interval [CI]: 0.013–0.046), while the ED95 was 0.108 mg/kg (95% CI: 0.085–0.188)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "the incidence of adverse effects did not differ significantly among the groups (P > 0.05)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

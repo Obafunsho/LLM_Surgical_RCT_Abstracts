@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Doppler Microvascular Ultrasound in Skull Base Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "56 patients underwent skull base tumor resection with MVD assistance at the Department of Neurosurgery, First Affiliated Hospital of Soochow University"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "MVD was used to monitor blood flow in vessels adjacent to the tumors."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the role of Doppler microvascular ultrasound (MVD) in skull base surgery for intraoperative assessment and protection of arterial blood flow."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No intraoperative vascular injuries were observed, confirmed by intraoperative Doppler monitoring and postoperative imaging."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No intraoperative vascular injuries were observed, confirmed by intraoperative Doppler monitoring and postoperative imaging."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

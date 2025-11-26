@@ -1,0 +1,20 @@
+{
+  "pmcid": "11260535",
+  "pmid": "16414385",
+  "title": "Long-Term Patient-Reported Outcomes Among Patients Undergoing Revascularization versus Medical Therapy for Intermittent Claudication",
+  "abstract": "Objectives:: Society for Vascular Surgery guidelines recommend revascularization for patients with intermittent claudication (IC) if it can improve patient function and quality of life. However, it is still unclear if IC patients achieve a significant functional benefit from surgery compared to medical management alone. This study examines the relationship between IC treatment modality (operative vs. non-operative optimal medical management) and patient reported outcomes for physical function (PROMIS-PF) and satisfaction in social roles and activities (PROMIS-SA).\n\nMethods:: We identified patients with IC who presented for index evaluation in a vascular surgery clinic at an academic medical center between 2016 and 2021. Patients were stratified based on whether they underwent a revascularization procedure during follow-up versus continued non-operative management with medication and recommended exercise therapy. We used linear mixed-effect models to assess the relationship between treatment modality and PROMIS-PF, PROMIS-SA, and ankle-brachial index (ABI) over time, clustering among repeat patient observations. Models were adjusted for age, sex, diabetes, Charlson Comorbidity Index, Clinical Frailty Score, tobacco use, and index ABI.\n\nResults:: 225 IC patients were identified, of which 40% (N=89) underwent revascularization procedures (42% bypass, 58% PVI) and 60% (N=136) continued non-operative management. Patients were followed up to 6.9 years with an average follow-up of 5.2 +/− 1.6 years. Patients who underwent revascularization were more likely to be clinically frail (P=0.03), have a lower index ABI (0.55 +/− 0.24 vs. 0.72 +/− 0.28, P <0.001), and lower baseline PROMIS-PF score (36.72 +/− 8.2 vs. 40.40 +/− 6.73, P=0.01). There were no differences in patient demographics or medications between treatment groups. Examining patient reported outcome trends over time; there were no significant differences in PROMIS-PF between groups, trends over time, or group differences over time after adjusting for covariates (P= 0.07, 0.13, and 0.08, respectively). However, all patients with IC significantly increased their PROMIS-SA over time (adjusted P= 0.019), with patients managed non-operatively more likely to have an improvement in PROMIS-SA over time than those who underwent revascularization (adjusted P= 0.045).\n\nConclusions:: Patient-reported outcomes associated with functional status and satisfaction in activities are similar for patients with IC for up to 7 years, irrespective of whether they undergo treatment with revascularization or continue non-operative management. These findings support conservative long-term management for IC.",
+  "authors": [
+    "Teryn A. Holeman",
+    "Cassidy Chester",
+    "Julie B. Hales",
+    "Yue Zhang",
+    "Cali E. Johnson",
+    "Benjamin S. Brooke"
+  ],
+  "journal": "Journal of vascular surgery",
+  "year": "2024",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "7319372",
+  "sha256": "789147f371a6abf2ce59d8995e3dc863d7b75fc3c8d5aa4e0afffd02fed4ba4e",
+  "timestamp_utc": "2025-11-09T16:13:16.765474+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.482131487889273,
+    "reading_ease": 39.8879838523645,
+    "word_count": 578
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized, single-blind trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients needed to have an ONFH Stage I or II; we excluded those with traumatic ONFH, hemoglobinopathies and positive serology for hepatitis B, C or HIV"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "core decompression procedure associated with either implantation of a BMAC (BMAC group; n = 26) or osteoblastic cell (osteoblastic cell group; n = 30)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Does autologous osteoblastic cell therapy decrease the likelihood of progression to subchondral fracture with or without early collapse corresponding to Association Research Circulation Osseous (ARCO) classification Stage III or higher, and provide a clinically important pain improvement compared with BMAC treatment alone?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary study outcome was treatment response, defined as the absence of progression to subchondral fracture stage (ARCO stage III or higher) plus a clinically important pain improvement defined as 1 cm on a 10-cm VAS. The follow-up duration was 36 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Hips with pre-fracture ONFH were randomly treated"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "randomized, single-blind trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "BMAC group; n = 26 or osteoblastic cell group; n = 30"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Overall, 26 of 26 patients in the BMAC group and 27 of 30 in the osteoblastic cell group completed the trial."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "46% of the BMAC hips [12 of 26] versus 22% in the hips with osteoblastic cells [six of 27], hazard ratio, 0.47 [95% CI 0.17 to 1.31]; p = 0.15"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "we found no differences between the treatment and control groups in terms of the frequencies of major adverse events"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

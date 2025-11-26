@@ -1,0 +1,74 @@
+{
+  "pmcid": "6704347",
+  "sha256": "18f92f29706de5ea18ae402ad50db1cc5e901a4f7682f2d12480a288abe791c2",
+  "timestamp_utc": "2025-11-10T00:02:54.515565+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.484729064039406,
+    "reading_ease": 13.35103448275865,
+    "word_count": 261
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Convection-Enhanced Delivery of Muscimol for Drug-Resistant Epilepsy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this phase 1 randomised controlled trial, 3 adult patients with DRE were recruited from a single center."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included adults with confirmed DRE."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants underwent convection-enhanced delivery (CED) of artificial CSF vehicle followed by muscimol into the seizure focus for 12 to 24 hours using a crossover design."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was seizure frequency, assessed over the infusion period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Three patients were randomised, and all completed the study."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Three patients were randomised, and all completed the study."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Seizure frequency decreased in 1 of 3 patients during muscimol infusion but was unchanged during vehicle infusion."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

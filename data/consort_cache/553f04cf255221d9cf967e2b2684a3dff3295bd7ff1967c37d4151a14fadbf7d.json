@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "One hundred patients were randomized to receive cemented THA with either oxidized zirconium or a stainless steel femoral head."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "One hundred patients were randomized to receive cemented THA with either oxidized zirconium or a stainless steel femoral head."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "One hundred patients were randomized to receive cemented THA with either oxidized zirconium or a stainless steel femoral head."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that after a minimal 4-year followup (1) use of HXLPE would result in lower radiographic wear than UHMWPE when articulating with a stainless steel head or with an oxidized zirconium head; (2) use of oxidized zirconium would result in lower radiographic wear than stainless steel when articulating with UHMWPE and HXLPE; and (3) there would be no difference in terms of Merle d\u2019Aubign\u00e9 scores between the bearing couple combinations."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Femoral head penetration was measured using a validated computer-assisted method dedicated to all-polyethylene sockets."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "One hundred patients were randomized to receive cemented THA with either oxidized zirconium or a stainless steel femoral head."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One hundred patients were randomized to receive cemented THA with either oxidized zirconium or a stainless steel femoral head."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Complete followup was available in 86 of these patients."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "In the UHMWPE series, the median steady-state penetration rate from 1 year onward was 0.03 mm/year (range, 0.003\u20130.25 mm/year) in the oxidized zirconium group versus 0.11 mm/year (range, 0.03\u20130.29 mm/year) in the metal group (difference of medians 0.08, p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

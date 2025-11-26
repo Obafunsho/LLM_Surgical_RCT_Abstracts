@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Recombinant Factor VIIa for Bleeding Prevention and Treatment"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either rFVIIa or placebo."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "The study setting and participant eligibility criteria were not detailed."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either rFVIIa or placebo."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates its effectiveness in such contexts."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was mortality, with secondary outcomes including blood loss, red cell transfusion requirements, and thromboembolic events."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding involved patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 4290 participants were randomised, with 2607 receiving rFVIIa."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Analysis was conducted using an unspecified approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Prophylactic use in 1361 participants showed no mortality benefit (RR 1.04; 95% CI 0.55 to 1.97) but reduced blood loss (MD -297 mL; 95% CI -416 to -178) and transfusion needs (MD -261 mL; 95% CI -367 to -154)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Increased thromboembolic events were noted (RR 1.45; 95% CI 1.02 to 2.05)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

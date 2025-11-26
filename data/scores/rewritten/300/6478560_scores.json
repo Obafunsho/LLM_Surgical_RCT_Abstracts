@@ -1,0 +1,74 @@
+{
+  "pmcid": "6478560",
+  "sha256": "0c24ac116458ba867f298c0893854d11f4b9e8ab2e59b471ed4b52f7c5f978a6",
+  "timestamp_utc": "2025-11-10T00:01:53.073628+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.553235294117648,
+    "reading_ease": 21.00205882352944,
+    "word_count": 272
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Neurobehavioral Outcomes in Pediatric Open-Chest CPR: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This secondary analysis of the Therapeutic Hypothermia after Pediatric Cardiac Arrest In-Hospital Trial included 56 children"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "56 children who underwent open-chest CPR"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "56 children who underwent open-chest CPR"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess neurobehavioral outcomes one year post-arrest in children who received open-chest CPR during in-hospital cardiac arrest"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 12-month survival with VABS-II ≥70"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not specified"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "56 children who underwent open-chest CPR"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "33 (59%) survived to 12 months, and 22 (41%) survived with VABS-II decreased by ≤15 points from baseline"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "33 (59%) survived to 12 months, and 22 (41%) survived with VABS-II decreased by ≤15 points from baseline"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not provided"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "To perform a double-blinded randomized study comparing 3 different doses of 5-ALA."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Twenty-one patients with suspected malignant glioma were randomly assigned to 0.2, 2, or 20 mg/kg 5-ALA."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Twenty-one patients with suspected malignant glioma"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to 0.2, 2, or 20 mg/kg 5-ALA."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVE: To perform a double-blinded randomized study comparing 3 different doses of 5-ALA."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Twenty-one patients with suspected malignant glioma were randomly assigned"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blinded randomized study"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty-one patients with suspected malignant glioma were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "A 10-fold increase in 5-ALA dose (2-20 mg/kg) resulted in a 4-fold increase of fluorescence contrast"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

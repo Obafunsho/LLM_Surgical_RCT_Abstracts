@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Pain Education and Exercise Training in Primary Dysmenorrhea"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to PNE+ET or BPE+ET groups."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study included nulligravid volunteers aged 18 years and older diagnosed with PD, conducted at a physiotherapy and rehabilitation department."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to PNE+ET or BPE+ET groups."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to evaluate the effects of pain neuroscience education (PNE) versus biomedical pain education (BPE), both combined with exercise training (ET), on primary dysmenorrhea (PD)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was menstrual pain intensity, assessed over two menstrual cycles."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using an online tool with a block size of six, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 38 participants were randomised: 19 to PNE+ET and 19 to BPE+ET, between January 2022 and June 2022."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "All participants were analysed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "PNE+ET resulted in greater reductions in menstrual pain, central sensitization symptoms, and pain catastrophizing compared to BPE+ET (p < 0.05, Cohen\u2019s d = 0.683\u20131.174)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT06040866."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

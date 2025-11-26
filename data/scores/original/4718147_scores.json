@@ -1,0 +1,74 @@
+{
+  "pmcid": "4718147",
+  "sha256": "38daef76f13176df4355aba184491be835c933b98e701719557d107d11b2dd78",
+  "timestamp_utc": "2025-11-09T16:00:21.001392+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.810069659442728,
+    "reading_ease": 21.54932662538701,
+    "word_count": 272
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods. This was a randomized, double-blind, parallel-group study"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Methods. This was a randomized, double-blind, parallel-group study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients experiencing pain of at least moderate intensity on the day after surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "dexketoprofen/tramadol 25 mg/75 mg fixed-dose combination vs dexketoprofen (25 mg) and tramadol (100 mg)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim was to evaluate the analgesic efficacy and safety of the dexketoprofen/tramadol 25 mg/75 mg fixed-dose combination"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary end point was the mean sum of the pain intensity difference values throughout the first 8 h (SPID 8 )"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Overall, 641 patients, mean age 62 (range 29–80) yr, were analysed"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "641 patients, mean age 62 (range 29–80) yr, were analysed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean ( sd ) values of SPID 8 were 247 (157) for dexketoprofen/tramadol, 209 (155) for dexketoprofen, 205 (146) for tramadol, and 151 (159) for placebo. The primary analysis confirmed the superiority of the combination over dexketoprofen 25 mg ( P =0.019; 95% confidence interval 6.4–73) and tramadol 100 mg ( P =0.012; 95% confidence interval 9.5–76)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The incidence of adverse drug reactions was low and similar among active treatment groups"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "EudraCT 2012-004548-31 ( https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2012-004548-31 ); ClinicalTrials.gov NCT01902134 ( https://www.clinicaltrials.gov/ct2/show/NCT01902134?term=NCT01902134&rank=1 )"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

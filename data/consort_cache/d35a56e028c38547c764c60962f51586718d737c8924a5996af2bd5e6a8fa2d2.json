@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "CHAMP: A Randomised Controlled Trial of Mesenchymal Stromal Cells in Critical Limb Ischemia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this phase I/II trial, 32 extremities with CLI requiring BKA were randomised"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "CLI patients requiring below-knee amputation (BKA)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive intramuscular injections of allogeneic MSCs (n=16) or autogenous concentrated bone marrow aspirate (cBMA, n=16)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the safety and therapeutic mechanisms of mesenchymal stromal cells (MSC) in CLI patients"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was proangiogenic cytokine expression, measured at the time of amputation."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment ensured by sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "32 extremities with CLI requiring BKA were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Ten patients have been treated per protocol."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Preliminary results indicate potential efficacy in proangiogenic cytokine expression."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were monitored, with no severe events reported thus far."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

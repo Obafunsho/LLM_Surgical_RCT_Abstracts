@@ -1,0 +1,74 @@
+{
+  "pmcid": "3889447",
+  "sha256": "9c04d005554708cd2df44492471f227a28ad05bde35b4a1a94ccaa31d0f29b9a",
+  "timestamp_utc": "2025-11-09T15:56:06.198898+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.592406181015452,
+    "reading_ease": 20.325423105224473,
+    "word_count": 302
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomized 30 patients undergoing primary TKA"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "30 patients undergoing primary TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "250 or 500 mg vancomycin via IORA or 1 g via systemic administration"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We assessed whether low-dose IORA vancomycin can achieve tissue concentrations equal or superior to those of systemic administration in TKA"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "antibiotic concentrations measured"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomized 30 patients"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomized 30 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The overall mean tissue concentration of vancomycin in subcutaneous fat was 14 μg/g in the 250-mg IORA group, 44 μg/g in the 500-mg IORA group, and 3.2 μg/g in the systemic group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One patient in the systemic group developed red man syndrome during infusion."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

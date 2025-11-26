@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Hydroxyethyl Starch vs. Albumin in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-centre, triple-blinded, parallel-group, randomised, non-inferiority trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 40\u201385 undergoing elective aortic valve replacement, with or without coronary artery bypass grafting"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive 6% HES 130/0.4 or 5% human albumin"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated whether intra-operative HES administration affects these outcomes compared to human albumin."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was urinary neutrophil gelatinase-associated lipocalin (NGAL) concentrations, measured at baseline, 1 hour, and 24 hours post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a secure web-based system, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "triple-blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "from June 2015 to February 2018. Participants were randomised 1:1"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of 149 eligible patients, 141 were analysed (69 HES, 72 albumin)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Postoperative NGAL was slightly lower with HES (median 5 ng/ml) vs. albumin (median 5 ng/ml), but not non-inferior [ratio of geometric means 0.91, 95% CI 0.57 to 1.44; p = 0.15]."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "NCTXXXXX"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by [Funding Source]."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "3841409",
+  "sha256": "d5b3e4f49e20b02b1f462d52870c20bb778a36bcb45566b509b8b5337e97f41e",
+  "timestamp_utc": "2025-11-09T15:55:19.903668+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.125000000000004,
+    "reading_ease": 28.364615384615405,
+    "word_count": 200
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We conducted a double-blind randomized trial of oral choline supplementation with lecithin to aid in the treatment of pain after gynaecological surgery."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Sixty women having open gynaecological surgery were randomly assigned to receive 20 g of lecithin before surgery or placebo."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Sixty women having open gynaecological surgery were randomly assigned to receive 20 g of lecithin before surgery or placebo."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Sixty women having open gynaecological surgery were randomly assigned to receive 20 g of lecithin before surgery or placebo."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We conducted a double-blind randomized trial of oral choline supplementation with lecithin to aid in the treatment of pain after gynaecological surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Pain report was the primary outcome measure."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "We conducted a double-blind randomized trial of oral choline supplementation with lecithin to aid in the treatment of pain after gynaecological surgery."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty women having open gynaecological surgery were randomly assigned to receive 20 g of lecithin before surgery or placebo."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "We achieved a small but statistically significant increase in choline after surgery with oral supplementation."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no adverse effects of treatment."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "5514369",
+  "sha256": "5b34b5dcedc043cbe0cbcc887c4119f6083e4b81684d94db8ce9537214ed5b5b",
+  "timestamp_utc": "2025-11-09T16:04:01.334015+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.026098993288596,
+    "reading_ease": 13.336665268456414,
+    "word_count": 298
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "One hundred seventy-four postmenopausal women randomly received 17 β -estradiol or placebo in a double-blind manner"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "One hundred seventy-four postmenopausal women"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly received 17 β -estradiol or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we evaluated the influence of early postoperative neurocognitive dysfunction on quality of life in postmenopausal women undergoing cardiac surgery and whether it is impacted by perioperative 17 β -estradiol treatment"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Quality of life was assessed at baseline and 6 mo after surgery with the SF-36 questionnaire and the Lawton instrumental activities of daily living scale"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly received 17 β -estradiol or placebo in a double-blind manner"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind manner"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One hundred seventy-four postmenopausal women"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Complete data were available from 108 women"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "a neurocognitive deficit 4 to 6 wk after surgery was an independent predictor of a lower SF-36 physical component score ( P = 0.004) and lower Lawton instrumental activities of daily living scale 6 mo postoperatively ( P = 0.026)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

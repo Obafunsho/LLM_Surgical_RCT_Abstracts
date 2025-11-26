@@ -1,0 +1,74 @@
+{
+  "pmcid": "7512122",
+  "sha256": "ce628053757f8c322e122fb968087fdd9d02dda51a27cbe108fd87b158b17c27",
+  "timestamp_utc": "2025-11-09T22:55:30.785268+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.528045977011494,
+    "reading_ease": 28.19932950191574,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Early Endovenous Ablation for Venous Leg Ulcers: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised 1:1 to early intervention or deferred intervention"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "450 participants with venous leg ulcers of less than 6 months' duration and superficial venous reflux"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "early intervention (compression therapy and endovenous ablation within 2 weeks) or deferred intervention (compression therapy with deferred ablation)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluated the clinical and cost-effectiveness of early endovenous ablation of superficial venous reflux in patients with venous leg ulceration"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was time to first ulcer recurrence, measured over a median follow-up of 1286 days"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation used permuted blocks, and allocation was not concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied to surgeons, participants, or follow-up assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 450 participants, 224 were randomised to early intervention and 226 to deferred intervention"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 426 participants whose ulcers healed, using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "No significant difference in time to first ulcer recurrence was observed (HR, 0.82; 95% CI, 0.57-1.17; P = .28). However, ulcer recurrence rate was lower in the early-intervention group (0.11 vs. 0.16 per person-year; incidence rate ratio, 0.658; 95% CI, 0.480-0.898; P = .003)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ISRCTN02335796"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: UK National Institute for Health Research"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

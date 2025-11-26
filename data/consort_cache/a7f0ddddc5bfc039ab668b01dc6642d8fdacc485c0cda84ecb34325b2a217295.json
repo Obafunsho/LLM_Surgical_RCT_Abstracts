@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Residual Neuromuscular Block on Postoperative Pulmonary Complications"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The sample size was calculated to ensure sufficient power to detect differences in PPCs."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "participants recruited from a surgical setting, meeting specific eligibility criteria"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "intervention group, receiving enhanced neuromuscular monitoring and management, or the control group, receiving standard care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the impact of residual neuromuscular block (NMB) on postoperative pulmonary complications (PPCs)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of PPCs within 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, with allocation concealment ensured through sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was applied to outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised, with 100 in each group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the intervention group and 97 in the control group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a significant reduction in PPCs (mean difference = 5.2%, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 3% of the intervention group and 1% of the control group, with mild gastrointestinal side-effects being the most common."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by [source of funding]."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

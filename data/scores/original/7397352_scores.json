@@ -1,0 +1,74 @@
+{
+  "pmcid": "7397352",
+  "sha256": "ce79e50780fceaa2d88645467977e19b43c5a10c05266cbc53bf7bfb0c04e0f7",
+  "timestamp_utc": "2025-11-09T16:13:39.636905+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.149729802033175,
+    "reading_ease": 34.753904494382056,
+    "word_count": 267
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients scheduled for elective resection of colorectal cancer between 2007 and 2010 were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients scheduled for elective resection of colorectal cancer"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to either an n ‐3 FA‐enriched oral nutrition supplement (ONS) twice daily or a standard ONS (control)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effect of perioperative supplementation with omega‐3 fatty acids ( n ‐3 FA) on perioperative outcomes and survival in patients undergoing colorectal cancer surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Outcome measures, including postoperative complications, 3‐year cumulative incidence of local or metastatic colorectal cancer recurrence and 5‐year overall survival, were compared between the groups."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients scheduled for elective resection of colorectal cancer between 2007 and 2010 were randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 148 patients enrolled in the study"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "125 (65 patients receiving n ‐3 FA‐enriched ONS and 60 receiving standard ONS) were analysed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The risk of disease recurrence at 3 years was similar (relative risk 1·66, 95 per cent c.i. 0·65 to 4·26).The 5‐year survival rate of patients treated with n ‐3 FA was 69·2 (95 per cent c.i. 56·5 to 78·9) per cent, compared with 81·7 (69·3 to 89·4) per cent in the control group ( P = 0·193). After adjustment for age, stage of disease and adjuvant chemotherapy, n ‐3 FA was associated with higher mortality compared with controls (hazard ratio 1·73, 95 per cent c.i. 1·06 to 2·83; P = 0·029)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

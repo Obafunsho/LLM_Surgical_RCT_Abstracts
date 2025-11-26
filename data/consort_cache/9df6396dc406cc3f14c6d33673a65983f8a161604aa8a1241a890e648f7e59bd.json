@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods:: We performed a single-center randomized controlled trial."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The required sample size was 120 patients."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible patients were <65 years of age, working outside the home, and scheduled to undergo unicompartmental or total KA."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Using GAS, patients developed personal activity goals with a physiotherapist preoperatively. Standard rehabilitation consisted of regular outpatient physiotherapy visits."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that, compared with standard rehabilitation, GAS-based rehabilitation would result in younger, active patients having higher satisfaction regarding activities after KA."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome measures were visual analogue scale (VAS) scores (scale of 0 to 100) for satisfaction regarding activities of daily living and work and leisure-time activities 1 year postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The required sample size was 120 patients."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patient satisfaction with work activities was significantly higher in the GAS group (\u03b2 = 10.7 points, 98% confidence interval [CI] = 2.0 to 19.4 points) than in the control group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

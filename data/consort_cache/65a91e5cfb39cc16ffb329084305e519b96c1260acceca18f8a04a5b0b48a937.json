@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Hemodynamic Characteristics of Type II Endoleaks: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised into two groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "45 participants at a single center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised into two groups: 20 patients with type II endoleaks identified within 1 week after endovascular aortic repair (EVAR) and 25 patients with persistent type II endoleaks diagnosed during follow-up imaging"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to investigate the hemodynamic characteristics of type II endoleaks"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the consistency between simulation results and clinical time-enhanced curves (TECs) from 4D-CT"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "45 participants at a single center between April 2017 and April 2022"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Significant differences in TEC parameters were observed between stable and enlarged groups, with 80% enhancement duration (AUC, 0.88), peak-to-peak time feeder (AUC, 0.78), and upslope (AUC, 0.86) being most informative"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: None"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

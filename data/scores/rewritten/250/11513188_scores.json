@@ -1,0 +1,74 @@
+{
+  "pmcid": "11513188",
+  "sha256": "f575c1a4148ab4cb648c57d805e26c1cd5b9b4000b675bae08da25204c90c891",
+  "timestamp_utc": "2025-11-09T22:04:26.857103+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.38039805825243,
+    "reading_ease": -4.031150485436854,
+    "word_count": 206
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Fibrinolytic Agents in Peripheral Arterial Ischaemia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive intra-arterial recombinant tissue plasminogen activator (rt-PA), intra-arterial streptokinase, or intravenous rt-PA."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "687 participants with peripheral arterial occlusion. Participants were recruited from multiple clinical settings. Eligibility criteria included confirmed peripheral arterial occlusion."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive intra-arterial recombinant tissue plasminogen activator (rt-PA), intra-arterial streptokinase, or intravenous rt-PA."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy and safety of fibrinolytic agents."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was vessel patency at 30 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial included 687 participants."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Vessel patency was significantly greater with intra-arterial rt-PA compared to intra-arterial streptokinase (P < 0.04) and intravenous rt-PA (P < 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Haemorrhagic complications were more frequent with intravenous rt-PA and intra-arterial streptokinase than with intra-arterial rt-PA (P < 0.05)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

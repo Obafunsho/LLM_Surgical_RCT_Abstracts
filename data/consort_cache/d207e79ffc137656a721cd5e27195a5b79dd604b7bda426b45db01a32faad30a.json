@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We sought to compare hemiarthroplasty with internal fixation in terms of (1) outcomes scores for pain, hip function, and quality of life at a minimum of 5 years after surgery in a randomized trial."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 222 consecutive patients older than 60 years, including those cognitively impaired, with FNF were randomized to either internal fixation with two parallel screws or bipolar hemiarthroplasty."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A total of 222 consecutive patients older than 60 years, including those cognitively impaired, with FNF were randomized to either internal fixation with two parallel screws or bipolar hemiarthroplasty."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to either internal fixation with two parallel screws or bipolar hemiarthroplasty."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We sought to compare hemiarthroplasty with internal fixation in terms of (1) outcomes scores for pain, hip function, and quality of life at a minimum of 5 years after surgery in a randomized trial."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Questionnaires on hip function (Harris hip score), quality of life (Eq5D), and activity of daily living function (Barthel ADL) were administered."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "A total of 222 consecutive patients older than 60 years, including those cognitively impaired, with FNF were randomized to either internal fixation with two parallel screws or bipolar hemiarthroplasty."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "68 of the 70 surviving patients were examined by a study nurse and study physiotherapist blinded to initial treatment."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 222 consecutive patients older than 60 years, including those cognitively impaired, with FNF were randomized."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "68 of the 70 surviving patients were examined by a study nurse and study physiotherapist blinded to initial treatment."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean Harris hip score was 66 (SD 19) and 67 (SD 20) in the internal fixation and hemiarthroplasty groups, respectively (p = 0.96)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Between 2 and 6 years, there were two new major reoperations (both in the internal fixation group, for avascular necrosis and deep wound infection)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

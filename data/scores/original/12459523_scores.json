@@ -1,0 +1,74 @@
+{
+  "pmcid": "12459523",
+  "sha256": "dec57ac64d7ec1735b717d8ccb3b7f1fd0d6b552a3aadb3f65afd568fa6f746e",
+  "timestamp_utc": "2025-11-09T15:42:57.110811+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.947851746931068,
+    "reading_ease": 44.3319885111741,
+    "word_count": 353
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods:: In this prospective randomized-controlled study"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients undergoing hip fracture surgery under spinal anesthesia were randomized into 3 groups"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "In the PENG group, 20 mL of 0.25% bupivacaine was injected under ultrasound guidance, while in the PENG + LFCN group, LFCN block, involving 5 mL of 0.25% bupivacaine, was performed in addition to the PENG block."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Therefore, we compared the effect of adding the LFCN block to the PENG block on opioid consumption and pain scores in hip fracture operations under spinal anesthesia"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Postoperative opioid consumption, numerical rating scale (NRS) pain scores at 0-, 2-, 6-, 12-, and 24-hours postoperatively and while giving spinal anesthesia position, time of first analgesic requirement, and the time of first mobilization were recorded."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients undergoing hip fracture surgery under spinal anesthesia were randomized into 3 groups"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 20 patients from each group were included in the statistical analysis."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 20 patients from each group were included in the statistical analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Postoperative opioid consumption was lower in the PENG and PENG + LFCN groups as compared to the CONTROL group, while the PENG and PENG + LFCN groups did not differ significantly (PENG: 8.10 ± 6.72 mg, PENG + LFCN: 8.40 ± 4.38 mg, CONTROL: 15.30 ± 5.59 mg, P < .001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

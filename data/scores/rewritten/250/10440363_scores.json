@@ -1,0 +1,74 @@
+{
+  "pmcid": "10440363",
+  "sha256": "4a8b052f9dc2974e4854b7f36a1d2e383050de061c6b29aa8eac30ed39c47b32",
+  "timestamp_utc": "2025-11-09T21:54:43.198252+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.66406164383562,
+    "reading_ease": 38.109791095890444,
+    "word_count": 219
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: A Randomised Controlled Trial of Communication Frameworks in Palliative Surgical Scenarios"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "66 patients with advanced cancer were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "66 patients with advanced cancer"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to view two videos depicting a physician-patient encounter using either the BC/WC or R/B framework"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate whether patients with advanced cancer prefer the best case/worst case (BC/WC) communication framework over the traditional risk/benefit (R/B) framework in palliative surgical scenarios."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the patients' preferred communication framework."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Both patients and outcome assessors were blinded to the intervention."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "66 patients with advanced cancer were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 66 randomised, 58 completed the study"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "22 patients (37.9%, 95%CI:25.4%−50.4%) preferred the BC/WC framework, 21 (36.2%, 95%CI:23.8%−48.6%) preferred the R/B framework, and 15 (25.9%, 95%CI:14.6%−37.2%) had no preference."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

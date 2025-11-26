@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The DAVE RCT aimed to determine whether DCD is an effective, safe, and cost-effective treatment adjunct for VLUs."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomized to either the intervention (DCD graft and standard of care) or control arm (standard of care alone)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with lower limb ulcers \u226518 years with VLU, venous incompetence on duplex ultrasound, an ankle : brachial pressure index \u2265 0.8 and an index VLU present for at least 3 months and \u22652\u2005cm 2 in size were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomized to either the intervention (DCD graft and standard of care) or control arm (standard of care alone)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The DAVE RCT aimed to determine whether DCD is an effective, safe, and cost-effective treatment adjunct for VLUs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the proportion of patients with a healed index ulcer at 12 weeks."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From October 2019 to October 2022, 36 and 35 participants were randomized into the intervention and control arms respectively."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Patient characteristics at baseline were similar between groups."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Healing was recorded in 5.7% of the intervention group and 15.2% in the control group (OR 0.34, 95% c.i. 0.03 to 2.31)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were five serious adverse events attributed to DCD application."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN 21541209"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

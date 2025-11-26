@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Morphine in Preterm Neonates Undergoing Endotracheal Tube Suctioning"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomly assigned to placebo (n=449) or morphine (n=449)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were preterm neonates requiring mechanical ventilation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to placebo (n=449) or morphine (n=449)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the neonatal response to ETT suctioning, assessed at 20\u201328 and 70\u201376 hours after starting the drug infusion and 10\u201314 hours after discontinuation."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with concealed allocation."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomly assigned to placebo (n=449) or morphine (n=449)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Data from 875 neonates were analyzed"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant relationship was observed between morphine concentrations and heart rate changes or the Premature Infant Pain Profile."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

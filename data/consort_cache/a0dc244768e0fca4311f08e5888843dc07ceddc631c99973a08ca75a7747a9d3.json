@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "stepped wedge cluster randomized controlled trial conducted in 2 Norwegian hospitals"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Implementation of the SSC was associated with robust reduction in morbidity and length of in-hospital stay"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesize that high-quality implementation of the World Health Organization's Surgical Safety Checklist (SSC) will lead to improved care processes and subsequently reduction of peri- and postoperative complications."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Primary outcomes were in-hospital complications and care process metrics"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 3702 procedures (1398 control vs. 2304 intervention procedures) were analyzed."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 3702 procedures (1398 control vs. 2304 intervention procedures) were analyzed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Adjusted SSC effect on surgical infections resulted in an odds ratio (OR) of 0.52 (95% confidence interval (CI): 0.38\u20130.72)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

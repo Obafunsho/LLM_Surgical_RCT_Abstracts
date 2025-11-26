@@ -1,0 +1,74 @@
+{
+  "pmcid": "1877047",
+  "sha256": "255d08d5278a3b40285d5619f4c1307ea41e8daf5de5dfd8cd2e0a6ccefd8908",
+  "timestamp_utc": "2025-11-09T15:47:23.700010+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.969244760775009,
+    "reading_ease": 42.12486226439967,
+    "word_count": 281
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients with stage II or stage III colorectal cancer (CRC) were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with stage II or stage III colorectal cancer (CRC)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "preoperative hepatic and regional arterial chemotherapy (PHRAC group, n = 110) or surgery alone (control group, n = 112)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To investigate whether preoperative hepatic and regional arterial chemotherapy is able to prevent liver metastasis and improve overall survival in patients receiving curative colorectal cancer resection."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was disease-free survival"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "PHRAC group, n = 110) or surgery alone (control group, n = 112)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "the risk ratio of recurrence was 0.61 (95% CI, 0.51–0.79, P = 0.0002), of death was 0.51 (95% CI, 0.32–0.67; P = 0.009), and of liver metastasis was 0.73 (95% CI, 0.52–0.86; P = 0.02)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Toxicities, such as hepatic toxicity and leukocyte decreasing, were mild and could be cured with medicine."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

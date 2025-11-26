@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "A Prospective Cohort Study on Walking Performance in Colorectal Cancer Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This prospective cohort study was conducted at the Sestre Milosrdnice University Hospital Centre, Zagreb, Croatia, from March 2022 to September 2023."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were colorectal cancer patients scheduled for elective open or laparoscopic abdominal surgery. Exclusion criteria included severe cardiorespiratory, musculoskeletal, or neurologic conditions."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the impact of preoperative and postoperative walking performance in colorectal cancer patients undergoing surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Participants completed the EORTC QLQ-C30 and QoR 15 questionnaires and performed a 6-minute walk test (6MWT) 2 days before and 7 days after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 72 patients (mean age 62.48 years) were included in the final analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Significant differences were observed in walking performance pre- and post-surgery, with a higher average heart rate postoperatively (65 bpm pre-surgery vs. 99 bpm post-surgery, p = 0.008)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

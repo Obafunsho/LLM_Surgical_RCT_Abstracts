@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients were prospectively enrolled in a randomized trial"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "stage IV resected melanoma patients"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized trial of adjuvant therapy with a whole-cell melanoma vaccine plus Bacille Calmette-Guerin (BCG) vs. placebo plus BCG"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To verify circulating tumor cell (CTC) prognostic utility in stage IV resected melanoma patients"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "pretreatment CTC (>0 vs. 0 biomarker) status was significantly associated with disease-free survival (DFS) (HR 1.64, p=0.002) and overall survival (OS) (HR 1.53, p=0.028)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Blood specimens obtained pretreatment (n=244) and during treatment (n=214)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "pretreatment CTC (>0 vs. 0 biomarker) status was significantly associated with disease-free survival (DFS) (HR 1.64, p=0.002) and overall survival (OS) (HR 1.53, p=0.028)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Study registration ID# NCT00052156"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

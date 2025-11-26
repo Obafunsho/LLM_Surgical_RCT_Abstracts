@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Bariatric and Endoscopic Interventions on MASLD"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was computer-generated"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "participants diagnosed with obesity and MASLD, recruited from a tertiary care center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive Roux-en-Y gastric bypass (RYGB), vertical sleeve gastrectomy (VSG), adjustable gastric banding (AGB), or endoscopic therapies such as intragastric balloon (IGB) and endoscopic sleeve gastroplasty (ESG). The control group underwent standard lifestyle modification."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the resolution of hepatic steatosis, evaluated over 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 50 to RYGB, 50 to VSG, 50 to AGB, and 50 to endoscopic therapies."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 48 in RYGB, 47 in VSG, 46 in AGB, and 45 in endoscopic therapies, using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "RYGB achieved the highest resolution of steatosis (95%), followed by VSG (60%), AGB (42%), and endoscopic therapies, which showed notable short-term improvements. The effect size for RYGB was significant (mean difference = 5.2, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in RYGB and 1% in VSG experiencing gastrointestinal side effects."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by the National Institutes of Health."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

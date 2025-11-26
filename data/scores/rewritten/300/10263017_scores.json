@@ -1,0 +1,74 @@
+{
+  "pmcid": "10263017",
+  "sha256": "191237dc01ab69e298633cb5550835f3aefc833aedfeb84a0dd10a711f4e8a2e",
+  "timestamp_utc": "2025-11-09T23:04:37.654855+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.674530141843974,
+    "reading_ease": 21.245625000000018,
+    "word_count": 282
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Infrared Thermography for Predicting Supraclavicular Brachial Plexus Block Failure: A Prospective Observational Study"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "prospective observational study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "included 80 adult patients undergoing upper-limb surgery under supraclavicular brachial plexus block. Eligibility criteria included adults aged 18–65 years, excluding those with wound or inflammation at the examination site, peripheral vascular disease, or peripheral neuropathy."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the accuracy of infrared thermography in predicting failed segmental supraclavicular brachial plexus block."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the ability of temperature change to predict failed block, defined as absence of complete sensory loss 30 minutes after block completion."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Conducted at Cairo University Hospital from February 2021 to March 2022, this prospective observational study included 80 adult patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The AUC (95% CI) for temperature change at 5 minutes to predict failed ulnar, median, and radial nerve block was 0.79 (0.68–0.87), 0.77 (0.67–0.86), and 0.79 (0.69–0.88), respectively. AUC values increased to 0.98 (0.92–1.00), 0.97 (0.90–0.99), and 0.96 (0.89–0.99) at 15 minutes, with a negative predictive value of 100%."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported during the study."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by Cairo University Hospital"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

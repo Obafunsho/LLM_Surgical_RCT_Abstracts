@@ -1,0 +1,74 @@
+{
+  "pmcid": "3039544",
+  "sha256": "dc460475f05c392331aeb13c6196498dd7afb1845b195446d5174377d3d67961",
+  "timestamp_utc": "2025-11-09T15:51:12.407650+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.99384615384616,
+    "reading_ease": 4.097820512820505,
+    "word_count": 260
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Seven patients were implanted"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "implanted with and underwent semichronic recording from the NeuroPort™ array during standard subdural electrode monitoring for epilepsy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We describe our initial surgical experience with the NeuroPort™ MEA in a series of patients undergoing subdural electrode implantation for epilepsy monitoring."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Robust and durable LFPs and single-unit recordings were obtained from all implanted individuals."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no neurological complications or infections associated with electrode implantation or prolonged monitoring."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

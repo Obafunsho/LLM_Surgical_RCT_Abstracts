@@ -1,0 +1,74 @@
+{
+  "pmcid": "7919338",
+  "sha256": "3b8bea347cae94087c98c9d2780953cb61d7157caed59be8cb02d01e2ed4e067",
+  "timestamp_utc": "2025-11-09T22:56:41.034396+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.043834951456311,
+    "reading_ease": 32.120542071197434,
+    "word_count": 206
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients with recurrent GBM were randomized into two groups"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients with recurrent GBM"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group A with unresectable disease received RO4929097 in a standard phase II design, while Group B with resectable disease received the drug before and after surgical resection."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the 6-month progression-free survival rate (PFS 6)"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was performed using [randomization method], with allocation concealment by [method]."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 47 patients were randomized, with 40 in Group A and 7 in Group B."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The PFS 6 was 4% (95% CI [confidence interval])"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were reported in [number] patients, with [frequency and severity]."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The trial was registered under [trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "funded by [source of funding]."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

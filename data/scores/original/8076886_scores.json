@@ -1,0 +1,74 @@
+{
+  "pmcid": "8076886",
+  "sha256": "db9c08162760e87fe315c6cce83eb8dad8ee76c9dbdbd42c0b23170cec1f1d70",
+  "timestamp_utc": "2025-11-09T16:16:21.755682+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.008142076502732,
+    "reading_ease": 47.45316029143899,
+    "word_count": 244
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "The association between active smoking and wound healing in critical limb ischemia (CLI) is unknown."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "A total of 264 patients (active smokers: n = 41) were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Smoking status was assessed at the time of the intervention, comparing active to no active smoking."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Our objective was to examine in a retrospective cohort study whether active smoking is associated with higher incomplete wound healing rates in patients with CLI undergoing endovascular interventions."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Cox regression analysis was conducted to compare the incomplete wound healing rates of the two groups during follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 264 patients (active smokers: n = 41) were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Active smoking was associated with higher rates of incomplete wound healing in the 6-month univariate Cox regression analysis (hazard ratio (HR) for incomplete wound healing: 4.54; 95% CI: 1.41–14.28; p = 0.012)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

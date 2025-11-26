@@ -1,0 +1,74 @@
+{
+  "pmcid": "12322986",
+  "sha256": "de9aaf0ede9ef193cb8443256aa4c64ba3fa4b19763cd3e6060147ccaac64f7a",
+  "timestamp_utc": "2025-11-09T22:21:50.239047+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.551942991631801,
+    "reading_ease": 31.676784780334742,
+    "word_count": 239
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Neoadjuvant PD-1 Blockade Plus Chemoradiotherapy in Pancreatic Ductal Adenocarcinoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were divided into a combined group receiving PD-1 blockade plus chemoradiotherapy and a non-combined group receiving PD-1 blockade plus chemotherapy."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "PDAC patients undergoing resection after neoadjuvant treatment (NAT)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were divided into a combined group receiving PD-1 blockade plus chemoradiotherapy and a non-combined group receiving PD-1 blockade plus chemotherapy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effects of neoadjuvant PD-1 blockade plus chemoradiotherapy on pathological response (PR) and survival in pancreatic ductal adenocarcinoma (PDAC)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was complete pathological response (CPR), assessed using the CAP and MDACC systems."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 47 patients were enrolled, with 26 in the combined group and 21 in the non-combined group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 47 patients were enrolled, with 26 in the combined group and 21 in the non-combined group."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "CPR was achieved in 6 patients (23.1%) in the combined group and none in the non-combined group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The study was not registered"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "funding details were not provided"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

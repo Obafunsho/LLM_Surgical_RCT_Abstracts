@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "BEST-CLI is an NIH-sponsored multi-center randomized controlled trial comparing revascularization strategies in CLTI patients."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "BEST-CLI is an NIH-sponsored multi-center randomized controlled trial comparing revascularization strategies in CLTI patients."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients with CLTI at the time of their enrollment into the trial."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We evaluated the utilization of guideline-based OMT among patients with CLTI at the time of their enrollment into the trial."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "At time of randomization (n=1830 total enrolled)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Only 25% of patients met all 4 OMT criteria; 38% met 3, 24% met 2, 11% met only 1 and 2% met none."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "BEST-CLI is an NIH-sponsored multi-center randomized controlled trial"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

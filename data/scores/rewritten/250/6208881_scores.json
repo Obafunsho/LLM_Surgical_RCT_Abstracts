@@ -1,0 +1,74 @@
+{
+  "pmcid": "6208881",
+  "sha256": "2ac16450613042cadaf639546790a4f8ea364b386622ea9d9b06172feabf5087",
+  "timestamp_utc": "2025-11-09T22:49:22.282734+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.89914285714286,
+    "reading_ease": 31.36252380952382,
+    "word_count": 182
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Percutaneous Laser Ablation for Invasive Ductal Breast Carcinoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This multicenter, open-label, phase 2 trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Women aged 18-80 with a single focus of IDC ≤20 mm were enrolled across nine sites."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants underwent PLA followed by a 28-day post-ablation MRI and surgical resection."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This multicenter, open-label, phase 2 trial aimed to evaluate the efficacy of percutaneous laser ablation (PLA) in treating invasive ductal carcinoma (IDC) and to compare post-ablation MRI with surgical pathology."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was complete tumor ablation, assessed by pathology."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From June 2012 to May 2015, 61 patients were treated."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Complete tumor ablation was confirmed in 51 (84%) patients."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Complete tumor ablation was confirmed in 51 (84%) patients. MRI-pathology correlation was evaluable in 60 patients, with an MRI negative predictive value of 92.2% (95% CI, 71.9–91.9%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild to moderate, with no serious events reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

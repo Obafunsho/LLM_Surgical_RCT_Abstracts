@@ -1,0 +1,74 @@
+{
+  "pmcid": "12194630",
+  "sha256": "3a34a8bff414b03a79109ccefd0c3367d1efecd3ad93610c4f3dd586a7332321",
+  "timestamp_utc": "2025-11-09T15:33:38.886896+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 20.878676470588236,
+    "reading_ease": -16.778455882352915,
+    "word_count": 170
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This review examines the effectiveness of various surgical and endoscopic bariatric interventions in improving several components of metabolic dysfunction-associated steatotic liver disease (MASLD)."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Roux-en-Y gastric bypass (RYGB) consistently showed substantial long-term reductions in liver fat, inflammation, and fibrosis, achieving resolution of steatosis in up to 95% of cases. Vertical sleeve gastrectomy (VSG) provided comparable hepatic benefits, significantly reducing liver fibrosis and steatosis in approximately 60% of patients. Adjustable gastric banding (AGB) demonstrated meaningful though comparatively modest hepatic improvements, with steatosis resolution in about 42% of patients. More aggressive procedures like biliopancreatic diversion with duodenal switch (BPD-DS) showed profound metabolic effects, though with increased nutritional risk. Endoscopic therapies, including intragastric balloon (IGB) and endoscopic sleeve gastroplasty (ESG), offered notable short- to medium-term hepatic improvements, significantly reducing steatosis and fibrosis markers."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Roux-en-Y gastric bypass (RYGB) consistently showed substantial long-term reductions in liver fat, inflammation, and fibrosis, achieving resolution of steatosis in up to 95% of cases. Vertical sleeve gastrectomy (VSG) provided comparable hepatic benefits, significantly reducing liver fibrosis and steatosis in approximately 60% of patients. Adjustable gastric banding (AGB) demonstrated meaningful though comparatively modest hepatic improvements, with steatosis resolution in about 42% of patients."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "More aggressive procedures like biliopancreatic diversion with duodenal switch (BPD-DS) showed profound metabolic effects, though with increased nutritional risk."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11594069",
+  "sha256": "699ba6f2a7a9bb2600a4423655e77dc6fc4fd6cda77c99982dbe7e974508d4aa",
+  "timestamp_utc": "2025-11-09T23:17:50.464634+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.139137931034483,
+    "reading_ease": 33.857155172413826,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Abaloparatide for Bone Health Optimization in Postmenopausal Women Undergoing Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This Phase-3, double-blinded, placebo-controlled trial included 500 postmenopausal women"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "500 postmenopausal women with osteoporosis from the ACTIVE trial"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive abaloparatide (n=250) or placebo (n=250) for 18 months."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effect of abaloparatide on BMD in proximal femoral regions."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in integral volumetric BMD in Gruen zones over 18 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by study site and race/ethnicity, with allocation concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to receive abaloparatide (n=250) or placebo (n=250)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 6 and 18 months, the abaloparatide group showed greater increases in integral volumetric BMD in all zones compared to placebo (p<0.005)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No serious adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01343004"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

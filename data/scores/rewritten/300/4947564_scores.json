@@ -1,0 +1,74 @@
+{
+  "pmcid": "4947564",
+  "sha256": "6d35ef4d1af1213610fe79c98c607a15c8caae7ab8358329ac27bb89cadc334f",
+  "timestamp_utc": "2025-11-09T23:55:51.534772+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.80976851851852,
+    "reading_ease": 18.940208333333374,
+    "word_count": 270
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of NIR Image-Guided Lymphatic Mapping in Esophageal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either Indocyanine Green (ICG) alone or ICG pre-mixed with human serum albumin (ICG:HSA)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "10 patients with resectable esophageal adenocarcinoma at a single surgical center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either Indocyanine Green (ICG) alone or ICG pre-mixed with human serum albumin (ICG:HSA)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the safety and feasibility of intraoperative, minimally invasive near-infrared (NIR) image-guided lymphatic mapping in esophageal cancer patients"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the identification of regional lymph nodes (LNs) within the surgical field, assessed intraoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved through a computer-generated sequence, and allocation was concealed using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the intervention"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "10 patients with resectable esophageal adenocarcinoma"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was conducted on a per-protocol basis"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "NIR imaging successfully identified NIR+ regional LNs in 6 out of 9 patients, with 2–6 LNs detected per patient"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to the intervention were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

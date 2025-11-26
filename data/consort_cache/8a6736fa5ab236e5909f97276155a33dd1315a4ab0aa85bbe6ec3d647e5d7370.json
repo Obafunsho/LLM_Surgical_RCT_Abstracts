@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Oral PDE-5 Inhibitors in Children with VSD and Pulmonary Hypertension"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Conducted as a prospective, randomised, double-blinded, single-centre trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "51 children with VSD and PH were enrolled"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either sildenafil or tadalafil (n=34) or placebo (n=17)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the impact of oral phosphodiesterase type 5 (PDE-5) inhibitors"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in right ventricle systolic pressure (RVSP) and mean pulmonary artery pressure (mPAP) postoperatively and at follow-up"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included outcome assessors, patients, and clinicians"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "51 children with VSD and PH were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant difference was observed in RVSP improvement between the PDE-5 inhibitor group and the placebo group postoperatively (p=0.255) and at follow-up (p=0.259)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Two deaths occurred in the PDE-5 group: one due to brady/asystole and another due to subarachnoid hemorrhage"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: IRB approval number: 10/2022 PDEI 11-2"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

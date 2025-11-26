@@ -1,0 +1,74 @@
+{
+  "pmcid": "5831447",
+  "sha256": "9650d3be8eb33529bce06c82769843d9da135611c8594d00252a9c0200ddbf6e",
+  "timestamp_utc": "2025-11-09T16:05:46.996693+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.91790780141844,
+    "reading_ease": 42.5588888888889,
+    "word_count": 376
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A randomized noninferiority clinical trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A randomized noninferiority clinical trial enrolled patients undergoing bariatric surgery from May 1, 2015, to June 30, 2016."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing bariatric surgery from May 1, 2015, to June 30, 2016."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The controls received the standard of care with IS use 10 times every hour while awake. The test group did not receive an IS device or these orders."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To determine the effect of postoperative IS on hypoxemia, arterial oxygen saturation (Sa o 2 ) level, and pulmonary complications after bariatric surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was frequency of hypoxemia, defined as an Sa o 2 level of less than 92% without supplementation at 6, 12, and 24 postoperative hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomized to postoperative IS (control group) or clinical observation (test group)"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 224 patients (50 men [22.3%] and 174 women [77.7%]; mean [SD] age, 45.6 [11.8] years) were enrolled, and 112 were randomized for each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was based on the evaluable population."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "No significant differences in frequency of postoperative hypoxemia between the control and test groups were found at 6 (11.9% vs 10.4%; P = .72), 12 (5.4% vs 8.2%; P = .40), or 24 (3.7% vs 4.6%; P = .73) postoperative hours."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Rates of 30-day postoperative pulmonary complications did not differ between groups (8 patients [7.1%] in the control group vs 4 [3.6%] in the test group; P = .24)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "clinicaltrials.gov Identifier: NCT02431455"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intravenous Nalbuphine for Attenuation of Pruritus in Postoperative Epidural Morphine Analgesia"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Ninety pregnant ASA II females scheduled for elective cesarean delivery were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Ninety pregnant ASA II females scheduled for elective cesarean delivery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either nalbuphine (5 \u03bcg/kg/hour, Group N5; 10 \u03bcg/kg/hour, Group N10) or normal saline (control group)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the efficacy and safety of intravenous nalbuphine in reducing pruritus and related side effects"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of pruritus, measured at multiple postoperative intervals"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was applied to patients, clinicians, and outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ninety participants were randomised: 30 to Group N5, 30 to Group N10, and 30 to the control group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on all participants using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Group N10 showed reduced pruritus incidence compared to the control (p < 0.05)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were fewer in nalbuphine groups, with mild severity"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

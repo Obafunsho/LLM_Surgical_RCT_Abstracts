@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Imageless Navigation in Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "135 patients undergoing THA were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients undergoing THA; The study was conducted at a single orthopedic center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to surgery with or without imageless navigation"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether imageless navigation reduces psoas impingement compared to standard techniques."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the anterior protrusion of the cup above the acetabular rim, measured postoperatively on 3-D CT by a blinded external institute."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "135 patients undergoing THA were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant difference was found between the navigated and control groups in mean distance of the cup below the anterosuperior acetabular rim (3.9 mm vs. 4.4 mm; p = 0.72) or anteroinferior rim (4.7 mm vs. 4.2 mm; p = 0.29)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The trial was registered under [Trial Registration Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding was provided by [Funding Source]."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

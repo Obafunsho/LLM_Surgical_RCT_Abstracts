@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "We randomized 40 patients into two groups using either patient-specific instrumentation or conventional instrumentation."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "using either patient-specific instrumentation or conventional instrumentation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that TKA performed with patient-specific instrumentation would improve patient-reported outcomes measured by validated scoring tools and level gait as ascertained with three-dimensional (3-D) analysis compared with conventional instrumentation 3 months after surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Patients were evaluated preoperatively and 3 months after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomized 40 patients into two groups"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomized 40 patients into two groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "There were improvements from preoperatively to 3 months postoperatively in functional scores, QOL, and knee kinematic and kinetic gait parameters during level walking."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

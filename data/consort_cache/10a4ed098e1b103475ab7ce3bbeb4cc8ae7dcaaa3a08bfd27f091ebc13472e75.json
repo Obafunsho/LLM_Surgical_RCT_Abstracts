@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of First Pass Effect in Mechanical Thrombectomy: ASTER Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The ASTER trial was a multicenter, randomized, open-label, blinded endpoint trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adults with anterior circulation ischemic stroke within 6 hours of onset"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to SR (n=189) or CA (n=192)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates FPE rates and outcomes in the ASTER trial comparing stent retriever (SR) and contact aspiration (CA) techniques."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was favorable clinical outcome (mRS 0-2) at 90 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was stratified by intravenous thrombolysis use"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "open-label, blinded endpoint trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "randomized to SR (n=189) or CA (n=192)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 336 patients analyzed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "FPE was achieved in 97 (28.9%), with no significant difference between SR (31.3%) and CA (26.3%) (adjusted RR 0.84, 95% CI 0.54 to 1.31; p=0.44)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "FPE also resulted in fewer hemorrhagic transformations and procedural complications."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02523261"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

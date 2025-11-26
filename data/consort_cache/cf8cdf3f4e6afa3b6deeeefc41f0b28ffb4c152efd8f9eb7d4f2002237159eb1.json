@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Enhanced Preoxygenation Protocol in Gastroscopy: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-center, nonblinded, randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were adults aged 18\u201375 years, scheduled for elective, diagnostic, and sedated gastroscopy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to either the intervention group (enhanced preoxygenation) or the nonintervention group (standard care)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of an enhanced preoxygenation protocol in reducing hypoxemia incidence."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the incidence of hypoxemia (SpO2 < 90%) during the procedure."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "using a computer-generated sequence with allocation concealment via sealed envelopes"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "nonblinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 326 participants were randomised: 163 to the intervention group and 163 to the control group, between November and December 2024."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 162 in the intervention group and 163 in the control group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The intervention group had a significantly lower incidence of hypoxemia (6.5% vs. 25%, p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2400091389."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

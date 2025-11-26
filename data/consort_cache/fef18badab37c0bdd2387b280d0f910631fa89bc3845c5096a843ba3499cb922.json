@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Decision Aids for Hip and Knee Osteoarthritis"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A multisite 2 \u00d7 2 factorial randomised trial was conducted at three sites from April 2016 to December 2017."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "1,636 patients were randomised to receive either a long, detailed DA or a short, interactive DA."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either a long, detailed DA or a short, interactive DA."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the comparative effectiveness of two decision aids (DAs) in facilitating informed patient-centered decisions for patients with hip or knee osteoarthritis considering surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of informed patient-centered decisions, assessed before and after the surgeon visit."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by site, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Participants and clinicians were not blinded, but the statistician was."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 1,636 patients were randomised."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "1,220 pre-visit and 967 post-visit surveys were returned."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The informed decision rate was 67.2%, with no significant difference between DA groups (p = 0.97) or surgeon groups (p = 0.23). Knowledge scores were significantly higher in the short-DA group (mean difference = 9%; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial is registered at ClinicalTrials.gov (NCT02729831)."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding sources were not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

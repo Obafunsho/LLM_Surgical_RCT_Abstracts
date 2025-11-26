@@ -1,0 +1,74 @@
+{
+  "pmcid": "11523430",
+  "sha256": "d77055a7fd3ee82be6438f3381db1c85f382d104bac1507d1b68f42fa8e3422e",
+  "timestamp_utc": "2025-11-09T23:17:07.002869+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.690651285748622,
+    "reading_ease": 17.437159336697903,
+    "word_count": 219
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Varicose Vein Management Guidelines"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "The study focused on patients with lower extremity varicose veins (CEAP Class C2 disease)."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "The guidelines addressed prevention and management strategies, including compression, medications, and nutritional supplements, as well as treatment of varicose tributaries and management of complications."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To provide updated, evidence-based guidelines for the management of varicose veins."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the development of comprehensive guidelines for varicose vein management, measured over the study period."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not applicable."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not applicable."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not applicable."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The guidelines provided strong and weak recommendations, ungraded consensus statements, and good practice statements."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not applicable."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

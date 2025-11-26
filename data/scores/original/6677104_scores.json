@@ -1,0 +1,74 @@
+{
+  "pmcid": "6677104",
+  "sha256": "e804ca9419a16685144556adc682b6c42f744dc63a39a08f3c3994d9861dfef1",
+  "timestamp_utc": "2025-11-09T16:10:14.627420+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.537164179104476,
+    "reading_ease": 44.955472636815955,
+    "word_count": 268
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This prospective RCT was undertaken to evaluate the effect of TAI as a prophylactic treatment to prevent symptoms of LARS."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients who had undergone ultralow rectal resection were randomized to start TAI on a daily basis, or to serve as a control with supportive therapy only after ileostomy closure."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients who had undergone ultralow rectal resection were randomized to start TAI on a daily basis, or to serve as a control with supportive therapy only after ileostomy closure."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients who had undergone ultralow rectal resection were randomized to start TAI on a daily basis, or to serve as a control with supportive therapy only after ileostomy closure."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This prospective RCT was undertaken to evaluate the effect of TAI as a prophylactic treatment to prevent symptoms of LARS."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "All patients were seen after 1 week, 1 month and 3 months, and the maximum number of defaecation episodes per day and night documented during follow‐up."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients who had undergone ultralow rectal resection were randomized to start TAI on a daily basis, or to serve as a control with supportive therapy only after ileostomy closure."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty‐seven patients could be evaluated according to protocol (TAI 18, control 19)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Thirty‐seven patients could be evaluated according to protocol (TAI 18, control 19)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The maximum number of stool episodes per day and per night was significantly lower among patients who underwent TAI at 1 month (median 3 versus 7 episodes/day in TAI versus control group, P = 0·003; 0 versus 3 episodes/night, P = 0·001) and 3 months (3 versus 5 episodes per day, P = 0·006; 0 versus 1 episodes/night, P = 0·002)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: DRKS00011752 ( http://apps.who.int/trialsearch/ )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

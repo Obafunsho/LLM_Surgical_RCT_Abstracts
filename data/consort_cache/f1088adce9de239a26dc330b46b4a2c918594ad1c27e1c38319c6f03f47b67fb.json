@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This was a retrospective, observational cohort study."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients less than or equal to 18 years old within the first 72 hours of admission to an academic PICU."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Interventions:: None."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Our goal was to assess the association between mechanical efficiency as measured by dynamic arterial elastance (Ea dyn ) and mean arterial pressure (MAP) after fluid bolus in children with MAP less than or equal to 50th percentile for age."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "FR was defined as an increase of greater than or equal to 10% in MAP from pre-bolus to the average MAP over 20 minutes post-bolus."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "We analyzed 490 fluid boluses given to children with MAP less than or equal to 50th percentile for age across 365 PICU encounters."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Pre-bolus Ea dyn was not associated with FR ( p > 0.1)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "6939293",
+  "sha256": "8fd662c539b15972fe557dc0bdaac3e9afe62373aae59ab11f3037638eef1efd",
+  "timestamp_utc": "2025-11-09T16:11:06.367553+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.947124947324067,
+    "reading_ease": 45.31085176991152,
+    "word_count": 339
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Disposable radiation shielding pads (RADPAD; Worldwide Innovations and Technologies, Inc, Kansas City) or a placebo were added in a randomized, blinded fashion."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compared operator radiation exposure during transcatheter valve implantation when performed via a TF vs an AA approach, when performed in a catheterization lab vs a hybrid operating room (OR), and investigated the potential benefit of disposable shielding."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Disposable radiation shielding pads (RADPAD; Worldwide Innovations and Technologies, Inc, Kansas City) or a placebo were added in a randomized, blinded fashion."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Disposable radiation shielding pads (RADPAD; Worldwide Innovations and Technologies, Inc, Kansas City) or a placebo were added in a randomized, blinded fashion."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Dosimeters were worn during TAVR-TF (n = 50) and TAVR-AA (n = 31) procedures by operators."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Team radiation exposure was higher after TAVR-AA vs TAVR-TF (median 15.1 mRad [interquartile range: IQR 8.6, 32.4] vs 5.5 mRad [IQR 2.4, 9.8], P < .001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

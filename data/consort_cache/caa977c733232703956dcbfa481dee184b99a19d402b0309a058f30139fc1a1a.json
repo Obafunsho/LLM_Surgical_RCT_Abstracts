@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The randomized EORTC 10981-22023 AMAROS trial investigates whether breast cancer patients with a tumor-positive sentinel node biopsy (SNB) are best treated with an axillary lymph node dissection (ALND) or axillary radiotherapy (ART)."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The first 2,000 patients participating in the AMAROS trial were evaluated."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The randomized EORTC 10981-22023 AMAROS trial investigates whether breast cancer patients with a tumor-positive sentinel node biopsy (SNB) are best treated with an axillary lymph node dissection (ALND) or axillary radiotherapy (ART)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of the current substudy was to evaluate the identification rate and the nodal involvement."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The outcome of the SNB procedure and potential further nodal involvement was assessed."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The first 2,000 patients participating in the AMAROS trial were evaluated."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In 65 patients, the sentinel node could not be identified."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The SNB results of 65% of the patients ( n = 1,220) were negative and the patients underwent no further axillary treatment."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

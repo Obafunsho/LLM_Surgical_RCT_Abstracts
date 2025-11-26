@@ -1,0 +1,74 @@
+{
+  "pmcid": "10527595",
+  "sha256": "10f24b28a7dc55cb3e4212aa386f01381fe5f2f01d0e760095d7ddcf3115400c",
+  "timestamp_utc": "2025-11-09T15:09:29.020679+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.417441860465122,
+    "reading_ease": 34.21440966010735,
+    "word_count": 258
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Objective:: To conduct a randomized controlled trial (RCT) on the efficacy of immediate lymphatic reconstruction (ILR) for decreasing the incidence of breast cancer-related lymphedema (BCRL) after axillary lymph node dissection (ALND)."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Women undergoing ALND for breast cancer were randomized in the operating room 1:1 to either ILR, if technically feasible, or no ILR (control)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Women undergoing ALND for breast cancer were randomized in the operating room 1:1 to either ILR, if technically feasible, or no ILR (control)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "ILR group underwent lymphatic anastomosis to a regional vein using microsurgical techniques; control group had no repair and cut lymphatics were ligated."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective:: To conduct a randomized controlled trial (RCT) on the efficacy of immediate lymphatic reconstruction (ILR) for decreasing the incidence of breast cancer-related lymphedema (BCRL) after axillary lymph node dissection (ALND)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcome was incidence of BCRL, defined as ≥10% RVC from baseline in the affected extremity at 12-, 18-, or 24-month follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Women undergoing ALND for breast cancer were randomized in the operating room 1:1 to either ILR, if technically feasible, or no ILR (control)."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 72 patients randomized to ILR and 72 to control from January 2020 to March 2023, our preliminary analysis includes 99 patients with 12-month follow-up, 70 with 18-month follow-up, and 40 with 24-month follow-up."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "our preliminary analysis includes 99 patients with 12-month follow-up, 70 with 18-month follow-up, and 40 with 24-month follow-up."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Cumulative incidence of BCRL was 9.5% in the ILR group and 32% in the control group (p=0.014)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

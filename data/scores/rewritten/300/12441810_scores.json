@@ -1,0 +1,74 @@
+{
+  "pmcid": "12441810",
+  "sha256": "713ee862c7d060665f6f67022d551403768d56712c6812cbd91b440a779ca7c2",
+  "timestamp_utc": "2025-11-09T23:38:30.787504+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.568052139695034,
+    "reading_ease": 25.01691342843091,
+    "word_count": 214
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Proximal Gastrectomy with Double-Tract Reconstruction to Total Gastrectomy in Early-Stage Proximal Gastric Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, patients with cT1 to cT2 proximal gastric cancer were recruited at Fujian Cancer Hospital."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility included histologically confirmed adenocarcinoma and no severe comorbidities."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to PG-DTR or TG-RY."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates proximal gastrectomy with double-tract reconstruction (PG-DTR) versus TG with Roux-en-Y reconstruction (TG-RY) in early-stage proximal gastric cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was nutritional status at 3 months, measured by body weight, hemoglobin, and albumin levels."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "186 patients were randomised: 93 to PG-DTR and 93 to TG-RY."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was per-protocol."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "PG-DTR demonstrated superior nutritional status at 3 months (mean difference in hemoglobin = 1.2 g/dL, 95% CI 0.8 to 1.6; p < 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, with no severe complications reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by institutional funding."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

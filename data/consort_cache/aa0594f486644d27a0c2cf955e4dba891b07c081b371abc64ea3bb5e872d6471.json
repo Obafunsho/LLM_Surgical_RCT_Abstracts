@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized simulation trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Twenty-four study participants (medical students in their final year of school, who were applying to surgery residency programs, and who had no prior arthroplasty experience)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "One group trained using AR (with live holographic orientation feedback) and the other received one-on-one training from a hip arthroplasty surgeon."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "does an AR headset improve the accuracy of acetabular component positioning compared with hands-on training by an expert surgeon?"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The orientation error in degrees between the planned and achieved orientations was measured"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomized to two groups"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty-four study participants"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "surgeon group mean improvement 6\u00b0, 95% CI, 4\u20138\u00b0; p < 0.001 versus AR group 9\u00b0, 95% CI 7\u201310\u00b0; p < 0.001"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

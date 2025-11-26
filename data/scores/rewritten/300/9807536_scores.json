@@ -1,0 +1,74 @@
+{
+  "pmcid": "9807536",
+  "sha256": "f4c8a0d813d01998c22f6867ae81a8b6075e0e79f92757f4d8cd8b67fff4d807",
+  "timestamp_utc": "2025-11-10T00:13:17.487455+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.915952380952383,
+    "reading_ease": 44.506825396825406,
+    "word_count": 280
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Perioperative 5-FU in Colon Cancer"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The trial was open-label with no blinding. The study was conducted across multiple institutions, and the sample size calculation aimed for 800 patients with Dukes’ B3 and C disease."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with newly diagnosed, nonmetastatic adenocarcinoma of the colon"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised patients to receive either continuous infusional 5-FU for 7 days starting within 24 hours after curative resection (arm A) or no perioperative 5-FU (arm B)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "assessed the impact of perioperative fluorouracil (5-FU) on overall survival (OS) in patients with colon cancer"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was OS in patients with Dukes’ B3 and C disease."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was performed using permutated blocks with dynamic balancing."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "The trial was open-label with no blinding."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From August 1993 to May 2000, 855 patients were randomised (arm A: 427; arm B: 428)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Among patients with Dukes’ B3 and C disease, there was no significant difference in OS"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "no significant difference in OS [median 10.3 years (95% CI 8.4, 13.2) for arm A and 9.3 years (95% CI 5.7, 12.3) for arm B, p = 0.178]"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Eighteen percent of arm A patients experienced grade 3 or greater toxicity"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The trial was not registered"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funding was provided by the NCI Intergroup"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

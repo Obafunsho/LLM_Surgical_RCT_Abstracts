@@ -1,0 +1,74 @@
+{
+  "pmcid": "9543254",
+  "sha256": "339039b894c020aba73595af58a13fedf6b6365e8fd69f361e82402cc41b0a17",
+  "timestamp_utc": "2025-11-10T00:12:40.832557+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.117362637362639,
+    "reading_ease": 17.002637362637387,
+    "word_count": 273
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Angiotensin-2 vs. Noradrenaline in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised feasibility trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults at elevated risk of AKI undergoing cardiac surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly allocated to receive either angiotensin-2 or noradrenaline"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the feasibility of using angiotensin-2 compared to noradrenaline to maintain peri-operative blood pressure and its impact on renal outcomes."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was feasibility, assessed by consent rate, protocol adherence, infusion duration, MAP maintenance, and major adverse outcomes."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via a REDCap database."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included participants, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Sixty participants were randomised (28 to angiotensin-2, 32 to noradrenaline) between March and September 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "AKI occurred in 25% of the angiotensin-2 group and 38% of the noradrenaline group (p=0.31)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One stroke, one extracorporeal support, and three renal replacement therapies occurred in the noradrenaline group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Australian and New Zealand Clinical Trials Registry."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

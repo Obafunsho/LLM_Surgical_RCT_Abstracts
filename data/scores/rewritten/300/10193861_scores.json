@@ -1,0 +1,74 @@
+{
+  "pmcid": "10193861",
+  "sha256": "c53ea6e5300f051d4c08f262775485f7d55310d33299642991abc55740204d85",
+  "timestamp_utc": "2025-11-09T23:04:17.792289+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.55177099236641,
+    "reading_ease": 21.843737913486024,
+    "word_count": 262
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Ultrasound-Guided Vascular Access Techniques"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A randomised controlled trial was conducted with healthcare providers as the unit of randomisation. The sample size was calculated to detect a clinically significant difference in success rates."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were healthcare providers trained in vascular access, recruited from multiple hospitals."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group employed real-time ultrasound guidance, while the control group used landmark-based techniques."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the effectiveness of ultrasound-guided vascular access techniques versus traditional landmark-based methods in improving procedural success rates and reducing complications."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the success rate of vascular access procedures, assessed immediately post-procedure."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation concealment was ensured using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group, recruited between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 98 in the intervention group and 97 in the control group, using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group demonstrated a significantly higher success rate (mean difference = 15%, 95% CI 10% to 20%; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events occurred in 3% of the intervention group and 1% of the control group, with no severe complications reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered under number NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by the National Institutes of Health"
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

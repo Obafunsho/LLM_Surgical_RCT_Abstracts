@@ -1,0 +1,74 @@
+{
+  "pmcid": "10836830",
+  "sha256": "28ebb56e53ba9f874627be337dcc63f48e2e7439d6c2558bf16c8518ab874b03",
+  "timestamp_utc": "2025-11-09T21:57:36.355466+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.892350678733031,
+    "reading_ease": 29.48169343891408,
+    "word_count": 221
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Probe-Based Near Infrared Autofluorescence for Parathyroid Identification"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly allocated to either the probe-based NIRAF group or the control group."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial enrolled patients undergoing parathyroidectomy for primary hyperparathyroidism at a single institution."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly allocated to either the probe-based NIRAF group or the control group."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the benefits of probe-based near infrared autofluorescence (NIRAF) for parathyroid identification."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the number of parathyroids identified with high confidence by the surgeon and resident, measured intraoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 160 patients were randomised, with 80 in each group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The senior surgeon's identification rate improved significantly in the probe group from 3.2 to 3.6 parathyroids per patient (p<0.001), and the junior surgeon's rate increased from 2.2 to 2.5 (p=0.001). Residents showed a significant increase from 0.9 to 2.9 parathyroids per patient (p<0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

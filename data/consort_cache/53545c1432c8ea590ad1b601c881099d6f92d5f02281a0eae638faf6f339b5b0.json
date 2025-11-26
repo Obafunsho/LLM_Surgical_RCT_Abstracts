@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This prospective observational study"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were assigned to either a driving pressure-guided ventilation group (\u0394P group, n=31) or a standard PEEP ventilation group (N group, n=30)."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "This prospective observational study included 61 frail patients undergoing non-cardiac surgery (NCS)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The \u0394P group received individualized PEEP titrated to minimize driving pressure (plateau pressure minus PEEP), while the N group received a fixed PEEP of 5 cmH 2 O."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to compare postoperative pulmonary outcomes between standard positive end-expiratory pressure (PEEP) ventilation and driving pressure-guided individualized ventilation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of PPCs within 7 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Patients were assigned to either a driving pressure-guided ventilation group (\u0394P group, n=31) or a standard PEEP ventilation group (N group, n=30)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No PPCs occurred in the \u0394P group, whereas 7 patients (23.3%) in the N group developed PPCs (P<0.01)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

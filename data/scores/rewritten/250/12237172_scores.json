@@ -1,0 +1,74 @@
+{
+  "pmcid": "12237172",
+  "sha256": "0de84c064eadd82a768e171a54c780799de12bd743a0f08f0afe4373d7c843e7",
+  "timestamp_utc": "2025-11-09T22:19:28.521632+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.208150442477876,
+    "reading_ease": 27.66284513274337,
+    "word_count": 226
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Cuff Inflation-Deflation and Conventional Techniques for Nasotracheal Intubation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomly allocated to either the conventional group (Group C) or the cuff inflation group (Group I) using block randomisation."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were 106 patients aged 18-65 years, ASA I-II, scheduled for elective surgeries requiring NTI."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly allocated to either the conventional group (Group C) or the cuff inflation group (Group I)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compares the cuff inflation-deflation technique with the conventional method for NTI."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was intubation time, measured from oropharynx entry to successful end-tidal CO2 confirmation."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was concealed using opaque envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not possible for the anesthesiologists."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "53 patients were randomised to each group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Intubation time was significantly shorter in Group I (27.86 ± 4.47 s) compared to Group C (41.11 ± 10.98 s; P < 0.0001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Mild to moderate nasal bleeding occurred in 5/53 patients in Group I and 8/53 in Group C."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Clinical Trial Registry-India."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

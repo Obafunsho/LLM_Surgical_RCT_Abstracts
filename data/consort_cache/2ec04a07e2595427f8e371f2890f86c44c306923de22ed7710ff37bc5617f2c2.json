@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomized into 1 of 5 groups"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Labor analgesia was initiated on request with a DPE technique by epidural injection over 2 minutes of 15 mL of ropivacaine 0.1% with sufentanil 0.5 \u03bcg/mL after a dural puncture with a 25-gauge Whitacre needle."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Effective analgesia was defined as no additional requirement for a patient-controlled bolus during the first stage of labor."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomized into 1 of 5 groups"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One hundred laboring parturients received the DPE technique"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "93 proceeded to have analgesia maintained with PIEB"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The estimated values for EI50 and EI90 were 52.5 (95% CI, 48.4\u201362.6) minutes and 37.0 (95% CI, 28.4\u201340.9) minutes, respectively."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

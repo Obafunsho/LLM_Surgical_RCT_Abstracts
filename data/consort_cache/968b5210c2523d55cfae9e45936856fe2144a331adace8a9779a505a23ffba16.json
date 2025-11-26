@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients with periampullary tumours who underwent open pancreatoduodenectomy were randomly allocated"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients with periampullary tumours who underwent open pancreatoduodenectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly allocated to either the no-touch approach or the superior mesenteric artery approach"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to assess two pancreatoduodenectomy approaches"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes were the intraoperative number of circulating tumour cells and cluster mobilization"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly allocated to either the no-touch approach or the superior mesenteric artery approach"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 101 patients with periampullary tumours were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "63 patients with pancreatic ductal adenocarcinoma (34 in the superior mesenteric artery group and 29 in the no-touch group) were analysed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "median metastasis disease-free survival (12.4 (interquartile range 6.1\u2013not reached) months in the superior mesenteric artery group and 18.1 (interquartile range 12.1\u2013not reached) months in the no-touch group; P = 0.730)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT03340844 ( http://www.clinicaltrials.gov )"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

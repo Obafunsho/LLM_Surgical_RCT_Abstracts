@@ -1,0 +1,74 @@
+{
+  "pmcid": "9558661",
+  "sha256": "c5c1eebdb1cfb6a1e3fe8d9d62e64660427b729f3916cdb726441777320af324",
+  "timestamp_utc": "2025-11-10T00:12:53.357278+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.563698888655903,
+    "reading_ease": 35.68607674564902,
+    "word_count": 251
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Supraglottic Airway Devices in Laparoscopic Cholecystectomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "90 patients aged 20-65 years with ASA Physical Status Grade 1 and 2 were randomised into three groups of 30 each"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at a tertiary care center, 90 patients aged 20-65 years with ASA Physical Status Grade 1 and 2"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compare the efficacy and safety of three supraglottic airway devices (SADs)—LMA-Supreme (LMA-S), i-gel, and Baska mask"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare the efficacy and safety of three supraglottic airway devices"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was oropharyngeal leak pressure (OLP) measured immediately after insertion and 30 minutes during carboperitonium"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using closed sealed envelopes, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "The study was not blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "90 patients aged 20-65 years with ASA Physical Status Grade 1 and 2 were randomised into three groups of 30 each"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "OLP was significantly higher in the Baska mask group (31.61 ± 4.3 cmH2O) compared to the i-gel (28.27 ± 3.4 cmH2O) and LMA-S (29.42 ± 3.9 cmH2O) groups (p = 0.005)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events such as sore throat, dysphagia, and dysphonia were similar across groups"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: None."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

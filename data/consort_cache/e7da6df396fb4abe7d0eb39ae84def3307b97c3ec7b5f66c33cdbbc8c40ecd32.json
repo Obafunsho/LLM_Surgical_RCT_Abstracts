@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "multicenter randomized controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "All patients enrolled in the 3 participating centers in the Netherlands were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "We performed an economic evaluation of DHOPE versus static cold storage (SCS)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Our objective was to evaluate the cost-effectiveness of DHOPE in donation after circulatory death (DCD) liver transplantation."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Costs related to the transplant procedure, hospital stay, readmissions, and outpatients treatments up to 1 y posttransplant were calculated."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 119 patients, 60 received a liver after DHOPE and 59 received a liver after SCS alone."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean total cost per patient up to 1 y posttransplant was \u20ac126\u2009221 for the SCS group and \u20ac110\u2009794 for the DHOPE group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "DHOPE-DCD trial; ClinicalTrials.gov number, NCT02584283"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

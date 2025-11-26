@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This randomized controlled trial did not demonstrate the superiority of paravertebral over epidural analgesia regarding the quality of recovery on POD3 after MIE."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomized controlled superiority trial was conducted across 4 Dutch centers with esophageal cancer patients scheduled for transthoracic MIE with intrathoracic anastomosis, randomizing patients to receive either epidural or paravertebral analgesia."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "esophageal cancer patients scheduled for transthoracic MIE with intrathoracic anastomosis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomizing patients to receive either epidural or paravertebral analgesia."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To compare the quality of recovery in patients receiving epidural or paravertebral analgesia for minimally invasive esophagectomy (MIE)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was Quality of Recovery (QoR-40) on the third postoperative day (POD)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From December 2019 to February 2023, 192 patients were included: 94 received epidural and 98 paravertebral analgesia."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "QoR-40 score on POD3 was not different between groups"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "QoR-40 score on POD3 was not different between groups (mean difference: 3.7, 95% CI: \u22122.3 to 9.7; P =0.268)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "More epidural patients required vasopressor medication on POD1 (38.3% vs 13.3%; P <0.001)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

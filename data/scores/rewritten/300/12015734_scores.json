@@ -1,0 +1,74 @@
+{
+  "pmcid": "12015734",
+  "sha256": "7841136a611d32c745afa437dc3048941f6d115859c81c48731a4d68e2a8f597",
+  "timestamp_utc": "2025-11-09T23:24:32.259883+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.290147679324892,
+    "reading_ease": 16.06070675105488,
+    "word_count": 237
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of a Novel Disposable Leukocyte Remover in Cardiopulmonary Bypass"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Conducted as a substudy within a registered clinical trial (NCT05400356)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "seven patients undergoing CPB at West China Hospital, Sichuan University"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention was a disposable leukocyte remover featuring an RGD peptide-coated membrane, integrated into an extracorporeal circuit."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses a novel leukocyte remover designed to reduce these effects."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the reduction in activated neutrophils over 10 minutes."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable due to the study design."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable due to the study design."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "seven patients undergoing CPB"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Neutrophil counts and those expressing activation markers CD11b, CD54, CD64, or CD181 decreased by 36–39% within the first 2.5 minutes"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: NCT05400356"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

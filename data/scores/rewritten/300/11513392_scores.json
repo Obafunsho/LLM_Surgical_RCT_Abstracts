@@ -1,0 +1,74 @@
+{
+  "pmcid": "11513392",
+  "sha256": "2e5ca93f7dc71d22fa6b72e61e651bb199100209aad52fd6af299641842e7444",
+  "timestamp_utc": "2025-11-09T23:16:59.415693+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.459097552064303,
+    "reading_ease": 38.506746437705516,
+    "word_count": 238
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study aimed to evaluate the diagnostic accuracy of the Masimo Rad-67® Pulse CO-Oximeter® for detecting anemia in pregnant women attending antenatal care clinics in Kilifi, Kenya."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "A retrospective diagnostic accuracy study was conducted, nested within a prospective pregnancy cohort study."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study included unselected pregnant women from two public hospitals in Kilifi County."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The index test, SpHb, was compared against the reference standard, Lab Hb, measured by a SYSMEX XN-330 automated hematology analyzer."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the diagnostic accuracy of the Masimo Rad-67® Pulse CO-Oximeter® for detecting anemia in pregnant women attending antenatal care clinics in Kilifi, Kenya."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Records from May 2021 to December 2022 with both SpHb and Lab Hb results were analyzed."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 2,975 records from 2,203 unique participants were analyzed."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 2,975 records from 2,203 unique participants were analyzed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Linear regression showed a weak positive correlation with a proportional bias of 0.44 (95% CI 0.41–0.47) and a constant of 7.59 (95% CI 7.30–7.87, p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

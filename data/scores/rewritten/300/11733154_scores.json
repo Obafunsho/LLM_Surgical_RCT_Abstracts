@@ -1,0 +1,74 @@
+{
+  "pmcid": "11733154",
+  "sha256": "edec895ec16a6ca74379a314636f9c1d23a875f9094065b974377f42d4107b3c",
+  "timestamp_utc": "2025-11-09T23:19:38.376909+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.979651084768513,
+    "reading_ease": 36.72931111608145,
+    "word_count": 263
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Biomechanical Analysis of Short-Stem Total Hip Arthroplasty in Revision Scenarios: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomisation at the femur level"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "A metaphyseal anchoring SHA (Tri-Lock BPS) stem and a standard THA (Corail) stem were implanted"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether a short stem can provide adequate primary stability in revision total hip arthroplasty (THA) scenarios."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the 3D micromotion, measured immediately after implantation."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomisation at the femur level"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "ten composite femurs"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "no significant differences in 3D micromotions were observed between the short and standard stems at most test points, except at the lateral point of the distal femur (P5: Tri-Lock BPS 32.9 ± 7.54 μm vs. Corail 25.1 ± 4.32 μm; p = 0.011)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not disclosed."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

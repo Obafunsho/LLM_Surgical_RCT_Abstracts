@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "randomized, double-blind study"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Forty-eight patients were randomized in the study"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "HR would demonstrate superior functional outcome when compared with a THA with a large-diameter femoral head"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We therefore asked whether HR would demonstrate superior functional outcome when compared with a THA with a large-diameter femoral head"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Gait speed was used as the primary outcome measure"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind study"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty-eight patients were randomized in the study"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The gait speed and postural balance evaluations, the performance at most functional tests, and clinical scores were similar in HR and large-head THA groups at each followup period"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

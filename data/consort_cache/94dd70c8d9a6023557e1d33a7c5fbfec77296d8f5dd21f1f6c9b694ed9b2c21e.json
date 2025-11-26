@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of ROTEM\u00ae-Guided Transfusion Strategy in Obstetric Haemorrhage"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "retrospective analysis"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at the Rotunda Hospital, Dublin, this retrospective analysis included 944 women with PPH \u22651500 ml"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were divided into a post-ROTEM\u00ae group (238 women) and a pre-ROTEM\u00ae group (706 women)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the impact of a ROTEM\u00ae-guided transfusion strategy on the management of postpartum haemorrhage (PPH) \u22651500 ml compared to conventional methods."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the overall consumption of blood coagulation products, measured over one year post-implementation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details are not applicable as this was a retrospective analysis."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details are not applicable as this was a retrospective analysis."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details are not applicable as this was a retrospective analysis."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Participants were divided into a post-ROTEM\u00ae group (238 women) and a pre-ROTEM\u00ae group (706 women)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The post-ROTEM\u00ae group demonstrated a 46% reduction in fibrinogen concentrate use, a 72% decrease in Octaplas\u00ae, and a 79% reduction in platelet use, resulting in a cost saving of \u20ac51,738."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

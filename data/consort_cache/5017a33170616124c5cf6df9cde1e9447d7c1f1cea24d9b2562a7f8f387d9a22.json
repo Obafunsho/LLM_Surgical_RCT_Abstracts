@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intraoperative Molecular Imaging in Pulmonary Resection for Lung Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this multi-institutional Phase 2 trial, patients with lung nodules were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "eligibility criteria including patients with suspected lung adenocarcinomas"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients with lung nodules were randomised to receive OTL38 (0.025mg/kg) preoperatively"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of intraoperative molecular imaging (IMI)"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the occurrence of clinically significant events (CSE)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 110 patients recruited"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "92 were eligible for analysis"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "IMI improved surgical outcomes in 26% of patients"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No serious adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02872701"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

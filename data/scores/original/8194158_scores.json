@@ -1,0 +1,74 @@
+{
+  "pmcid": "8194158",
+  "sha256": "292841ea2065aaf12cee6aea1fb771ccd23b3be3945c3cd4b3185dcd0040bbec",
+  "timestamp_utc": "2025-11-09T16:17:16.178561+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.543332453825858,
+    "reading_ease": 49.14303737906772,
+    "word_count": 379
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This review aimed to compare the impact of SSNB and ISB during shoulder arthroscopy surgery."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We identified 1255 patients assessed in 17 randomized controlled trials."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Compared with the ISB group, the SSNB group had higher VAS at rest in PACU ( P = 0.003), 1 h after operation ( P = 0.005), similar pain score 2 h ( P = 0.39), 3-4 h ( P = 0.32), 6-8 h after operation ( P = 0.05), then lower VAS 12 h after operation ( P = 0.00006), and again similar VAS 1 day ( P = 0.62) and 2 days after operation ( P = 0.70)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "However, the SSNB group had lower rate of block-related complications such as Horner syndrome ( P < 0.0001), numb ( P = 0.002), dyspnea ( P = 0.04), and hoarseness ( P = 0.04)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  }
+}

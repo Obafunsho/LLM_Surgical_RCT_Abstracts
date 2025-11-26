@@ -1,0 +1,74 @@
+{
+  "pmcid": "3890161",
+  "sha256": "039ba5529679081ddb9858f15911aeae335e5e28b8a0434a867b5904a9a07a0c",
+  "timestamp_utc": "2025-11-09T15:56:09.673213+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.276315789473685,
+    "reading_ease": 40.23242194469228,
+    "word_count": 354
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In the setting of a randomized controlled trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomized 90 patients undergoing MIS TKA at one institution into two groups."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "90 patients undergoing MIS TKA at one institution"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "45 patients underwent MIS TKA with complete infrapatellar fat pad excision and in the other group, 45 patients received MIS TKA without infrapatellar fat pad excision."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we sought to determine whether infrapatellar fat pad excision during MIS TKA causes (1) patellar tendon shortening (as measured by patella baja); (2) increased anterior knee pain; (3) decreases in the Knee Society Score or functional subscore; or (4) more patella-related complications."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We measured patellar tendon shortening, knee flexion, anterior knee pain, Knee Society Score (KSS), functional subscore, and patellar complications at preoperative and postoperative periods of 6 weeks, 3 months, 6 months, and 1 year"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomized 90 patients undergoing MIS TKA at one institution into two groups."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "complete followup data were available on 86% of patients (77 of 90) who were enrolled."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "patients with their infrapatellar fat pad excised experienced more anterior knee pain (8.3% versus 0%; p = 0.03; 95% confidence interval, −0.007 to 0.174)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "patients with their infrapatellar fat pad excised experienced more anterior knee pain"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

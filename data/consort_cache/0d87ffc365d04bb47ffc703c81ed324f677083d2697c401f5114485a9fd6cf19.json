@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Aortic Clamping Strategies in Coronary Artery Bypass Grafting"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to either off-pump or on-pump CABG."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "142 patients with epiaortic ultrasound grade I/II aortic disease undergoing primary isolated CABG at a single center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to either off-pump or on-pump CABG. Off-pump patients were further randomised to a partial clamp (n=36) or clampless facilitating device (CFD, n=36) strategy, while on-pump patients were randomised to a single (n=34) or double (n=36) clamp strategy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the impact of different aortic clamping strategies on cerebral embolic events during coronary artery bypass grafting (CABG) in patients with low-grade aortic disease."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the total number of high intensity transient signals (HITS) detected by transcranial Doppler ultrasonography during aortic manipulation."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "142 patients with epiaortic ultrasound grade I/II aortic disease undergoing primary isolated CABG at a single center."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the off-pump group, the median total HITS were significantly higher in the CFD group (30.0, IQR 22\u201343) compared to the partial clamp group (7.0, IQR 0\u201316) (p<0.0001). In the on-pump group, median total HITS were 10.0 (IQR 3\u201317) in the single-clamp group compared to 16.0 (IQR 4\u201349) in the double-clamp group (p=0.10)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "In the off-pump group, the median total HITS were significantly higher in the CFD group (30.0, IQR 22\u201343) compared to the partial clamp group (7.0, IQR 0\u201316) (p<0.0001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "No significant differences in neurocognitive outcomes were observed."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

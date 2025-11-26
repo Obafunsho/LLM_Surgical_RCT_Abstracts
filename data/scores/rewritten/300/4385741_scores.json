@@ -1,0 +1,74 @@
+{
+  "pmcid": "4385741",
+  "sha256": "7cd1299f409b3fddbca1638c444deaaac384f75cda2f9a1933317f883c91af52",
+  "timestamp_utc": "2025-11-09T23:53:34.549578+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.864866071428573,
+    "reading_ease": 21.05781250000001,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Impact of Right Ventricular Dysfunction on Outcomes in CABG with or without SVR: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 1,000 patients with coronary artery disease, left ventricular ejection fraction ≤35%, and anterior dysfunction were randomised to undergo CABG or CABG + SVR."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "1,000 patients with coronary artery disease, left ventricular ejection fraction ≤35%, and anterior dysfunction were randomised to undergo CABG or CABG + SVR."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to undergo CABG or CABG + SVR."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether right ventricular (RV) dysfunction affects clinical outcomes in patients with ischemic cardiomyopathy undergoing coronary artery bypass grafting (CABG) with or without surgical ventricular reconstruction (SVR)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was all-cause mortality or cardiovascular hospitalization over a median follow-up of 48 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "1,000 patients with coronary artery disease, left ventricular ejection fraction ≤35%, and anterior dysfunction were randomised."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Baseline RV function was assessed in 866 patients using echocardiography."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients with moderate or severe RV dysfunction who received CABG + SVR had significantly worse outcomes compared to those who received CABG alone for both the primary endpoint (HR=1.86; CI=1.06–3.26; p=0.028) and the secondary endpoint of all-cause mortality (HR=3.37; CI=1.36–8.37; p=0.005)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

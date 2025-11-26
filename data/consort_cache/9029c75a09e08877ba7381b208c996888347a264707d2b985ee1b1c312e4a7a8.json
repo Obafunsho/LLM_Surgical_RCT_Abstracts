@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Bridging Therapy in Liver Transplantation for Hepatocellular Carcinoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomisation at the patient level"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients with HCC eligible for liver transplantation"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "350 received bridging therapy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "examines the relationship between pretransplant bridging therapy and long-term survival"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was overall survival, measured over a median follow-up of 5.3 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 525 patients, 350 received bridging therapy"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Tumour progression was an independent risk factor for overall survival (HR 1.80; P = 0.005)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT00355862"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

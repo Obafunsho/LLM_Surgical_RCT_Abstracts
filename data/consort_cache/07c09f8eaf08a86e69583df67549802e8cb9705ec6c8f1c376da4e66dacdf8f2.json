@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Open-Label Placebo and Conditioning in Postoperative Pain Management: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The unit of randomisation was the individual patient, and the sample size was calculated to detect a 20% reduction in opioid use with 80% power."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients undergoing spine surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients undergoing spine surgery were randomised to either the COLP group or a treatment-as-usual group."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the potential of combining conditioning with open-label placebos (COLP) to reduce opioid consumption and postsurgical pain in patients recovering from spine surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was daily opioid consumption measured in morphine milligram equivalents from postoperative day (POD) 1 to POD 17."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not applied to patients or clinicians, but outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the COLP group and 100 to the control group, recruited between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients in the COLP group consumed 30% less daily morphine milligram equivalents compared to the control group (\u221214.5; 95% CI: [\u221226.8, \u22122.2])."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

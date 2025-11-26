@@ -1,0 +1,74 @@
+{
+  "pmcid": "7534546",
+  "sha256": "0fe592ff542edc505a2e84545f90905019917845ff2ad340d54120466c7a9e45",
+  "timestamp_utc": "2025-11-09T16:14:42.899529+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.634397321428573,
+    "reading_ease": 22.71015625000001,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "new-generation Hydrogel Endovascular Aneurysm Treatment Trial (HEAT)"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "HEAT is a randomized, controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "subjects with ruptured or unruptured 3- to 14-mm intracranial aneurysms amenable to coiling"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compare recurrence between the second-generation HES and bare platinum coil (BPC)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To compare recurrence between the second-generation HES and bare platinum coil (BPC)"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was aneurysm recurrence using the Raymond-Roy scale"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 600 patients were randomized (HES, n = 297 and BPC, n = 303)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Recurrence occurred in 11 (4.4%) subjects in the HES arm and 44 (15.4%) subjects in the BPC arm ( P = .002)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "adverse events related to the procedure and/or device"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Intraoperative Dexmedetomidine and Postoperative Delirium: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomized to receive dexmedetomidine (0.5 \u00b5g/kg/h) or saline placebo during surgery and for 2 hours postoperatively."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "elderly patients (>68 years) undergoing major elective noncardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized to receive dexmedetomidine (0.5 \u00b5g/kg/h) or saline placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This multicenter, double-blind, randomized, placebo-controlled trial evaluated the effect of intraoperative dexmedetomidine on postoperative delirium"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of postoperative delirium, assessed daily."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, with allocation concealed via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding encompassed patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 404 randomized patients (202 to dexmedetomidine, 202 to placebo)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "390 completed delirium assessments."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The incidence of postoperative delirium was comparable between the dexmedetomidine and placebo groups (12.2% vs 11.4%, P = .94)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similarly distributed between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00561678."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

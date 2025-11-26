@@ -1,0 +1,74 @@
+{
+  "pmcid": "10771256",
+  "sha256": "88acdf8b424c9e25b9935a2afa4de358089cef64323979b020cfaae7d2ae51a9",
+  "timestamp_utc": "2025-11-09T23:09:13.228064+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.417669172932332,
+    "reading_ease": 28.59487468671682,
+    "word_count": 266
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Lymphatic Venous Anastomosis for Preventing Cellulitis in Lower Extremity Lymphoedema"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients with secondary lower extremity lymphoedema who had undergone at least 3 months of non-operative decongestive therapy were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with secondary lower extremity lymphoedema who had undergone at least 3 months of non-operative decongestive therapy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive LVA with decongestive therapy or decongestive therapy alone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This multicentre randomised controlled trial assessed the efficacy of lymphatic venous anastomosis (LVA) in preventing cellulitis"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the frequency of cellulitis over a 6-month period"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a blocked random assignment with allocation concealment managed by the Clinical Trial Office"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Due to the nature of the interventions, blinding was not feasible"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 336 patients were randomised: 105 to the LVA group and 120 to the control group, between January 2017 and September 2019"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "In the full-analysis set, LVA with decongestive therapy significantly reduced cellulitis frequency"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean difference = −0.35, 95% CI −0.62 to −0.09; p = 0.010"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Four patients in the control group experienced contact dermatitis, which was mild and resolved with treatment"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: UMIN00025137, UMIN00031462"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

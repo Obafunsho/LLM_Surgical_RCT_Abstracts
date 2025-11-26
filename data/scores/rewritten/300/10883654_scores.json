@@ -1,0 +1,74 @@
+{
+  "pmcid": "10883654",
+  "sha256": "7dbab05f57c1eb16424937cb1852e08a2040c4bb008835428a642792a959cdc0",
+  "timestamp_utc": "2025-11-09T23:10:25.094801+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.657138882448411,
+    "reading_ease": 18.42736378390913,
+    "word_count": 227
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Neoadjuvant GAP Therapy in Resectable High-Risk Intrahepatic Cholangiocarcinoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A multi-institutional, single-arm, phase II trial was conducted."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included tumor size >5 cm, multiple tumors, major vascular invasion, or lymph node involvement."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients received preoperative GAP (gemcitabine 800 mg/m², cisplatin 25 mg/m², nab-paclitaxel 100 mg/m² on days 1 and 8 of a 21-day cycle) for 4 cycles before curative-intent resection."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the feasibility of neoadjuvant gemcitabine, cisplatin, and nab-paclitaxel (GAP) in resectable, high-risk IHCC."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was completion of chemotherapy and surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty patients were enrolled, with a median age of 60.5 years."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Twenty-two patients (73%, 90% CI 57–86; p=0.008) completed chemotherapy and surgery."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The disease control rate was 90% (progressive disease: 10%, partial response: 23%, stable disease: 67%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Ten patients (33%) experienced grade ≥3 adverse events, primarily neutropenia and diarrhea; 50% required dose reduction."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

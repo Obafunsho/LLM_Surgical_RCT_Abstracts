@@ -1,0 +1,74 @@
+{
+  "pmcid": "11584224",
+  "sha256": "eac25593b02dbc0626f04f2e513b15b1d1ea9f7c2b8b915a92e40a1af3528f55",
+  "timestamp_utc": "2025-11-09T22:05:18.396282+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.469111111111111,
+    "reading_ease": 14.837000000000018,
+    "word_count": 198
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Dexmedetomidine Sedation in Peripheral Nerve Block Surgery for Diabetic Foot Ulcer and Chronic Limb-Threatening Ischemia"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "18 patients undergoing peripheral nerve block with dexmedetomidine"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "peripheral nerve block with dexmedetomidine"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy and safety of dexmedetomidine sedation during peripheral nerve block surgery in these patients."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was intraoperative stress, measured on a 6-point scale."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean intraoperative stress score was 0.72, and the mean intraoperative memory score was 2.44."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One patient experienced bradycardia, and 9 had hypoxemia, all resolved by adjusting dexmedetomidine dosage and encouraging deep breathing."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: No financial interest declared."
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "8524391",
+  "sha256": "00afc9617378fa6fef4339cd82a7e174edbe14fbd3375d14e4b8f11c46302a39",
+  "timestamp_utc": "2025-11-09T16:18:12.647264+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.705381165919285,
+    "reading_ease": 13.01577440496726,
+    "word_count": 223
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods: This single-centre, randomised, double-blind, placebo-controlled trial included 82 patients undergoing coronary artery bypass surgery with cardiopulmonary bypass."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Methods: This single-centre, randomised, double-blind, placebo-controlled trial included 82 patients undergoing coronary artery bypass surgery with cardiopulmonary bypass."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Methods: This single-centre, randomised, double-blind, placebo-controlled trial included 82 patients undergoing coronary artery bypass surgery with cardiopulmonary bypass."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Oral sodium nitrate (700 mg×2) or placebo (NaCl) were administered before surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We investigated if preoperative administration of inorganic nitrate could reduce troponin T release and other plasma markers of injury to the heart, liver, kidney, and brain in patients undergoing cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Troponin T release was our predefined primary endpoint and biomarkers of renal, liver, and brain injury were secondary endpoints."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Methods: This single-centre, randomised, double-blind, placebo-controlled trial included 82 patients undergoing coronary artery bypass surgery with cardiopulmonary bypass."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Methods: This single-centre, randomised, double-blind, placebo-controlled trial included 82 patients undergoing coronary artery bypass surgery with cardiopulmonary bypass."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The 72-h release of troponin T did not differ between groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Blood loss was not a predefined outcome parameter, but perioperative bleeding was 18% less in nitrate-treated patients compared with controls."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinical trial registration: NCT01348971 ."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

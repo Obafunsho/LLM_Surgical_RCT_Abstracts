@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Epidural Dexmedetomidine in Low-Concentration PCEA for Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Sixty patients with American Society of Anesthesiologists grade I to II undergoing TKA were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Sixty patients with American Society of Anesthesiologists grade I to II undergoing TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "0.125% bupivacaine + fentanyl 4 \u00b5g/mL (group R) or 0.1% bupivacaine + fentanyl 2 \u00b5g/mL with an epidural injection of dexmedetomidine 1 \u00b5g/kg (group D)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the impact of adding epidural dexmedetomidine to low-concentration patient-controlled epidural analgesia (PCEA) on pain control and side effects in total knee arthroplasty (TKA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative pain control measured by the numeric pain rating scale (NRS) over 48 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved through concealed envelopes"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "the study was double-blind"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty patients with American Society of Anesthesiologists grade I to II undergoing TKA were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Fifty-five patients were analysed per protocol"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Both groups achieved similar pain control (NRS scores, p > 0.05). Group D had lower rates of urinary retention (28.6% vs. 59.3%, p = 0.022)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Group D had lower rates of urinary retention (28.6% vs. 59.3%, p = 0.022) and pruritus, while sedation was higher in group D in the recovery room."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: EudraCT2012-000030-19."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

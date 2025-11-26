@@ -1,0 +1,74 @@
+{
+  "pmcid": "11109034",
+  "sha256": "2ad35b39c8ad1f4b25a03968eba272da84d503e76ceac82935fc9f27fd002d51",
+  "timestamp_utc": "2025-11-09T22:00:18.291956+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.488140822784814,
+    "reading_ease": 24.74208465189875,
+    "word_count": 237
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Oral PDE-5 Inhibitors in Children with VSD and Pulmonary Hypertension"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "prospective, randomised, double-blinded, single-centre trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "51 children with VSD and PH were enrolled at a tertiary cardiac referral centre"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either sildenafil or tadalafil (n=34) or placebo (n=17)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effect of oral phosphodiesterase type 5 (PDE-5) inhibitors on postoperative pulmonary hypertension (PH) and right ventricular (RV) function in children with ventricular septal defect (VSD)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in right ventricle systolic pressure (RVSP) and mean pulmonary artery pressure (mPAP) postoperatively and at follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "51 children with VSD and PH were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "There was no significant difference in RVSP improvement between the PDE-5 inhibitor group and the placebo group postoperatively (p=0.255) and at follow-up (p=0.259)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Two deaths occurred in the PDE-5 group, and one patient experienced a pulmonary hypertensive crisis."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: IRB approval number: 10/2022 PDEI 11-2."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "6676044",
+  "sha256": "11fa7b33c598d4fd8a8cc1301f7bded591a24d67fae5a390bee231deb557d2f4",
+  "timestamp_utc": "2025-11-09T16:10:11.023971+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.246837169650473,
+    "reading_ease": 36.17574168797955,
+    "word_count": 276
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This is a secondary analysis of a randomised trial"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The association between intraoperative rScO 2 values and POCD at discharge from hospital and at 3 months after surgery was investigated."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The association between intraoperative rScO 2 values and POCD at discharge from hospital and at 3 months after surgery was investigated."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "physician-blinded NIRS monitoring"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "One hundred and fifty-three patients had complete NIRS data and neurocognitive assessments at discharge, and 44 of these patients (29%) had POCD. At 3 months, 148 patients had complete data, and 12 (8%) of these patients had POCD."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The median time with rScO 2 >10% below preoperative values did not differ for patients with and without POCD at discharge (difference=0.0 min; Hodges-Lehmann 95% confidence interval, −3.11–1.47, P =0.88)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinical trial registration: NCT 02185885 ."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

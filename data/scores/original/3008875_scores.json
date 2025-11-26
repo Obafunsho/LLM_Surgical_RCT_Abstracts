@@ -1,0 +1,74 @@
+{
+  "pmcid": "3008875",
+  "sha256": "4e3572d09789c1c88ae0e1902dadbbbe20e43a5585cb0aacd4e9470ba6cd219b",
+  "timestamp_utc": "2025-11-09T15:50:52.265747+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.286009184342884,
+    "reading_ease": 42.33099497047891,
+    "word_count": 269
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this double-blind randomized controlled trial, 120 consecutive primary noncemented THAs in 120 patients were assigned to one of two groups (MIS or CLASS)."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "120 consecutive primary noncemented THAs in 120 patients"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "assigned to one of two groups (MIS or CLASS)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Does minimally invasive hip arthroplasty result in superior clinical outcomes?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary end point was the Harris hip score (HHS) at 6 weeks postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The randomization sequence was stratified for two groups of surgeons"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "In this double-blind randomized controlled trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "120 consecutive primary noncemented THAs in 120 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "statistically significant increased mean HHSs were seen compared with the CLASS group at 6 weeks and 1 year"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Although not statistically significant, the perioperative complication rate was rather high in the (anterolateral) MIS group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

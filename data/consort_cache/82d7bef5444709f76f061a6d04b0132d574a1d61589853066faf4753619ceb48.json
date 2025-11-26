@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Efficacy of Cricoid Pressure during Rapid Sequence Induction"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "40 participants undergoing elective surgery requiring general anaesthesia"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "cricoid pressure (n=20) or simulated cricoid pressure (n=20)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the prevalence of aspiration"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "cricoid pressure (n=20) or simulated cricoid pressure (n=20)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The study found no significant difference in the primary outcome between the cricoid pressure and control groups"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

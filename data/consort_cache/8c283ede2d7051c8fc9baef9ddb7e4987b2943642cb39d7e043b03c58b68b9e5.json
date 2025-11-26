@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Lobar and Sublobar Resection in Peripheral cT1aN0 NSCLC"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Conducted as a randomised controlled trial, 697 patients were recruited from June 2007 to March 2017."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients with peripheral cT1aN0 NSCLC"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to either LR (357) or sublobar resection (SLR) (340)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the differences in disease-free survival (DFS), overall survival (OS), and lung cancer-specific survival (LCSS)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was DFS over a five-year period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented for outcome assessors, patients, or clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "697 patients were recruited from June 2007 to March 2017."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "362 underwent LR, 131 SR, and 204 WR."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Five-year DFS rates were 64.7% for LR, 63.8% for SR, and 62.5% for WR (p = 0.888)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

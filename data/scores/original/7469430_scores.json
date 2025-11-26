@@ -1,0 +1,74 @@
+{
+  "pmcid": "7469430",
+  "sha256": "e552249198397cb66bd92cbd1601b923aed23b89f0e8dd8dc4f96112136ec22a",
+  "timestamp_utc": "2025-11-09T16:14:19.286706+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.264615384615386,
+    "reading_ease": 37.455384615384645,
+    "word_count": 273
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: Functional mitral regurgitation in the setting of an enlarged heart is challenging to repair surgically with an annular approach, and the need to develop sub-annular and ventricular approaches is recognized yet unrealized due to the lack of models for investigations."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Left ventricular wall thickness reduced by 60.5±10.1% at the basal plane, 64.8±11.3% at the equatorial plane and 64.0±11.4% at the apical plane after thinning. Upon distension, ventricular volumes increased by 852.4±639.8% after LV thinning, with an 89.5±33.9% increase in sphericity index. Mitral valve systolic tenting height increased from 7.92±2.06 mm to 15.02±3.89 mm, systolic tethering area increased from 130.7±38.2 mm 2 to 409.9±124.6 mm 2 and an average mitral regurgitation fraction of 24.4±16.6% was measured."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 3,
+    "max_score": 25
+  }
+}

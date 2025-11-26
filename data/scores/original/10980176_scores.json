@@ -1,0 +1,74 @@
+{
+  "pmcid": "10980176",
+  "sha256": "bc055ee06f5b96c8b1b3287d627fed35dbade752fc2cfb2d8b65600835bd1f12",
+  "timestamp_utc": "2025-11-09T15:13:42.028194+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.105185185185185,
+    "reading_ease": 30.469871794871835,
+    "word_count": 324
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to receive 30 mg of low-molecular-weight heparin (enoxaparin) twice daily or 81 mg of aspirin twice daily for thromboprophylaxis."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We included adult patients with an operatively treated extremity fracture or a pelvic or acetabular fracture."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned to receive 30 mg of low-molecular-weight heparin (enoxaparin) twice daily or 81 mg of aspirin twice daily for thromboprophylaxis."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To understand patients’ experiences with these medications, we compared patients’ satisfaction and out-of-pocket costs after thromboprophylaxis with aspirin versus low-molecular-weight heparin."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The study outcomes included patient satisfaction with and out-of-pocket costs for their thromboprophylactic medication measured on ordinal scales."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to receive 30 mg of low-molecular-weight heparin (enoxaparin) twice daily or 81 mg of aspirin twice daily for thromboprophylaxis."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The trial enrolled 12,211 patients (mean age and standard deviation [SD], 45 ± 18 years; 62% male)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "9725 of whom completed the question regarding their satisfaction with the medication and 6723 of whom reported their out-of-pocket costs."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The odds of greater satisfaction were 2.6 times higher for patients assigned to aspirin than those assigned to low-molecular-weight heparin (odds ratio [OR]: 2.59; 95% confidence interval [CI]: 2.39 to 2.80; p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

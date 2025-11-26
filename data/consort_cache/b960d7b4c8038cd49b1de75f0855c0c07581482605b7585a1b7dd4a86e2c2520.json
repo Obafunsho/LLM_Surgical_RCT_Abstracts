@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Pancreaticojejunostomy and Pancreaticogastrostomy in High-Risk Postoperative Pancreatic Fistula Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized controlled trial spanned from July 12, 2017, to March 15, 2019"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adults undergoing elective pancreaticoduodenectomy with a high fistula risk score (7-10) were randomized to PJ or PG."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to PJ or PG"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether pancreaticojejunostomy (PJ) or pancreaticogastrostomy (PG), both with externalized transanastomotic stent, is superior in reducing POPF incidence."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was POPF incidence, assessed postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization used a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 604 screened, 72 were randomized (36 to PJ, 36 to PG)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "72 were randomized (36 to PJ, 36 to PG)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "POPF incidence was not significantly different (PJ: 38.9%, PG: 50.0%; P = .48)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "PG was associated with higher Clavien-Dindo grade 3 or higher morbidity (47.2% vs 22.2%; P = .047)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: NCT03212196"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

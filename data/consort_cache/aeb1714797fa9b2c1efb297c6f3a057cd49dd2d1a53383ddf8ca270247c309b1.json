@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Polyhexamethylene Biguanide-Impregnated Gauze for Reducing Pin Site Infection in External Fixation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to the PHMB group (22 limbs) or the control group (18 limbs)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "38 patients (40 limbs) undergoing limb lengthening or deformity correction with external fixators were enrolled at a single center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "PHMB-impregnated gauze is more effective than plain gauze"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether polyhexamethylene biguanide (PHMB)-impregnated gauze is more effective than plain gauze in reducing pin tract infections."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of pin tract infection, evaluated at 2, 4, 8, and 12 weeks post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "The outcome assessor was blinded to the type of gauze used."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to the PHMB group (22 limbs) or the control group (18 limbs)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The infection rate was significantly lower in the PHMB group (1.0%) compared to the control group (4.5%), with a relative risk of 0.228 (95% CI, 0.118 to 0.443; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not disclosed."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12433767",
+  "sha256": "09dc3fbdebcd59d83deef9a98a245ff622d83c2d8ff86652a615192cab42f719",
+  "timestamp_utc": "2025-11-09T22:26:32.643187+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.273577188940095,
+    "reading_ease": 51.84941340245777,
+    "word_count": 217
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Long-term Effectiveness of Fluoroscopy-Guided Foam Sclerotherapy for Varicose Veins: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted at the authors' center from August 1, 2011, to May 31, 2016."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were consecutive patients with varicose veins in the legs."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the long-term effectiveness of fluoroscopy-guided foam sclerotherapy for varicose veins in the legs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the recurrence of varicose veins, defined as their presence regardless of symptoms, assessed at the last follow-up in May 2022."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 94 patients (58.3 ± 7.8 years; 43 men; 119 legs) were included in the final analysis."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 94 patients (58.3 ± 7.8 years; 43 men; 119 legs) were included in the final analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The recurrence rate was 30.9% (29/94), with 26.6% (25/94) for the great saphenous vein and 4.3% (4/94) for the small saphenous vein (P < .001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Hyperpigmentation occurred in 11.8% (14/119) of legs. No stroke, deep vein thrombosis, or pulmonary embolism was reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

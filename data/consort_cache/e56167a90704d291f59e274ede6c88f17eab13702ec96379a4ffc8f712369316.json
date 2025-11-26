@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants undergoing cardiac surgery were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants undergoing cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "high-dose of TXA group (a 30-mg/kg bolus, a 16-mg/kg/h maintenance dose, and a 2-mg/kg prime, n = 7) and low-dose group of TXA (a 10-mg/kg bolus, a 2-mg/kg/h maintenance dose, and a 1-mg/kg prime, n = 9)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to establish a population PK model based on the data of perioperative plasma concentrations in Chinese participants"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "n = 7...n = 9"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The primary covariate identified was body weight"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

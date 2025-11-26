@@ -1,0 +1,74 @@
+{
+  "pmcid": "10638529",
+  "sha256": "cefe22c35c32ea7a5e0487cf0ce9914d26dbfec5ec2a36782eb3d8523ec06561",
+  "timestamp_utc": "2025-11-09T15:10:21.256177+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.4965306122449,
+    "reading_ease": 51.91275510204082,
+    "word_count": 294
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This parallel multicentre RCT investigated the use of Fluobeam ® LX to visualize the parathyroid glands by autofluorescence during total thyroidectomy compared with no use."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomized 1 : 1 and were blinded to the group allocation."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "investigated the use of Fluobeam ® LX to visualize the parathyroid glands by autofluorescence during total thyroidectomy compared with no use."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The hypothesis was that autofluorescence enables identification and protection of the parathyroid glands during thyroidectomy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the rate of low parathyroid hormone (PTH) levels the day after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomized 1 : 1 and were blinded to the group allocation."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Patients were randomized 1 : 1 and were blinded to the group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Some 535 patients were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "486 patients received an intervention according to the study protocol, 246 in the Fluobeam ® LX group and 240 in the control group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "64 patients (26.0 per cent) in the Fluobeam ® LX group and 77 (32.1 per cent) in the control group had low levels of PTH after thyroidectomy ( P = 0.141; relative risk (RR) 0.81, 95 per cent c.i. 0.61 to 1.07)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No specific harm related to the use of Fluobeam ® LX was reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT04509011 ( http://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

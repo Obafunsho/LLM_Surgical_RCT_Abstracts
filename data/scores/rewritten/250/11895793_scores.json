@@ -1,0 +1,74 @@
+{
+  "pmcid": "11895793",
+  "sha256": "d9229780ff4d9456602815e78567a45b15d3c50fed7e399077e904d402fbdb7a",
+  "timestamp_utc": "2025-11-09T22:10:26.548087+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.362240437158473,
+    "reading_ease": 37.74496357012751,
+    "word_count": 244
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Pressure-Controlled and Volume-Controlled Ventilation in Rhinoplasty"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This double-blind, randomised controlled trial was conducted at Hazrat-e Fatemeh Hospital, Iran University of Medical Sciences, from 2021 to 2022."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Sixty patients aged 18-50 years, classified as ASA I or II, were randomised to receive either pressure-controlled ventilation (PCV) or volume-controlled ventilation (VCV) during rhinoplasty."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Sixty patients aged 18-50 years, classified as ASA I or II, were randomised to receive either pressure-controlled ventilation (PCV) or volume-controlled ventilation (VCV) during rhinoplasty."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome, intraoperative bleeding, was measured by weighing blood-soaked gauze and suctioned fluid. The timeframe for measurement was the duration of the surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a table of random numbers, with allocation concealed in sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Both patients and surgeons were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Sixty patients aged 18-50 years, classified as ASA I or II, were randomised to receive either pressure-controlled ventilation (PCV) or volume-controlled ventilation (VCV) during rhinoplasty."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Fifty-eight patients completed the study, with 31 in the PCV group and 27 in the VCV group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean intraoperative bleeding volume was 30 ± 45 mL in the PCV group and 100 ± 120 mL in the VCV group (P < 0.001). Logistic regression analysis showed that the odds of experiencing moderately severe or severe bleeding were 5.4 times higher in the VCV group, increasing to 26.8 (95% CI = 1.2, 59.3) after adjusting for confounders."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: IRCT20101026005026N13."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12447740",
+  "sha256": "2caf39a5dbbe6f3b0b11b5170e02fd98f0761647039ecad2f39c233ed9e5bcff",
+  "timestamp_utc": "2025-11-09T15:42:18.579789+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.77579439252337,
+    "reading_ease": 32.78635154565063,
+    "word_count": 214
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "In this network meta-analysis (NMA), we aimed to evaluate the relative efficacy of robotic nipple-sparing mastectomy (RNSM), conventional nipple-sparing mastectomy (CNSM), and endoscope-assisted nipple-sparing mastectomy (ENSM), each combined with immediate prosthetic breast reconstruction (IPBR), for the treatment of breast cancer."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "we aimed to evaluate the relative efficacy of robotic nipple-sparing mastectomy (RNSM), conventional nipple-sparing mastectomy (CNSM), and endoscope-assisted nipple-sparing mastectomy (ENSM), each combined with immediate prosthetic breast reconstruction (IPBR)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we aimed to evaluate the relative efficacy of robotic nipple-sparing mastectomy (RNSM), conventional nipple-sparing mastectomy (CNSM), and endoscope-assisted nipple-sparing mastectomy (ENSM), each combined with immediate prosthetic breast reconstruction (IPBR), for the treatment of breast cancer."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The results indicated that ENSM with immediate implant-based reconstruction was associated with a smaller incision compared to CNSM. RNSM combined with IPBR was linked to a lower incidence of total complications, Grade 3 complications, and nipple-areola complex necrosis than CNSM. Furthermore, RNSM with IPBR demonstrated a lower recurrence rate than CNSM."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "RNSM combined with IPBR was linked to a lower incidence of total complications, Grade 3 complications, and nipple-areola complex necrosis than CNSM."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

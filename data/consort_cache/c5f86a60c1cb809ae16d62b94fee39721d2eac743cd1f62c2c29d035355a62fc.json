@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Biventricular Pacing After Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either temporary biventricular pacing or standard care"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "50 adult patients at high risk of left ventricular dysfunction following cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either temporary biventricular pacing or standard care (no pacing)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "VIS was assessed after cardiopulmonary bypass, after sternal closure, and 0\u20137 hours after ICU admission"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "50 adult patients... The study was conducted from April 2007 to June 2011"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the biventricular pacing group, VIS decreased... whereas in the standard care group, it increased"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The difference in VIS slopes was statistically significant (p=0.02)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not specified"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

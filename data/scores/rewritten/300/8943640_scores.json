@@ -1,0 +1,74 @@
+{
+  "pmcid": "8943640",
+  "sha256": "061888eb867921449ec6afe7966d9bd613086f977fcaf9642815bbb50eff88bb",
+  "timestamp_utc": "2025-11-10T00:11:22.205220+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.736099691675232,
+    "reading_ease": 35.77404676258996,
+    "word_count": 278
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Shared Decision-Making in Major Surgery for Older Adults"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive a question prompt list brochure or standard care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "included 43 surgeons and 446 patients aged 60 or older with at least one comorbidity, conducted at outpatient surgical clinics across five academic centers."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive a question prompt list brochure or standard care."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the OPTION5 score, measuring shared decision-making (range 0-100), assessed over consultations from June 1, 2016, to November 31, 2018."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive a question prompt list brochure or standard care."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 378 consultations analysed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "effect estimate 3.80; 95% CI, −0.30 to 8.00; P = .07"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT02623335."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

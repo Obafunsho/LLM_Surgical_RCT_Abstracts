@@ -1,0 +1,74 @@
+{
+  "pmcid": "8524391",
+  "sha256": "a10c6c56ad92910ea4d7b7c661aaa97adf89058dd68d653e8fe032fd23d417d5",
+  "timestamp_utc": "2025-11-10T00:09:44.492879+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.263547441965294,
+    "reading_ease": 12.975902636916857,
+    "word_count": 261
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Preoperative Inorganic Nitrate in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-centre, randomised, double-blind, placebo-controlled trial included 82 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at a Swedish hospital, this single-centre, randomised, double-blind, placebo-controlled trial included 82 patients aged 18-80 years scheduled for coronary artery bypass grafting with cardiopulmonary bypass. Exclusion criteria encompassed pregnancy, re-do surgery, and significant organ disease."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised in blocks of four to receive either oral sodium nitrate (700 mg×2) or placebo (NaCl) before surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial assessed whether preoperative inorganic nitrate could reduce troponin T release and other organ injury biomarkers in patients undergoing cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was troponin T release over 72 hours postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation and allocation were concealed"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "all participants, clinicians, and outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ninety-five patients were randomised, with 42 in the placebo group and 40 in the nitrate group completing the study."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Ninety-five patients were randomised, with 42 in the placebo group and 40 in the nitrate group completing the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The 72-hour troponin T release showed no significant difference between groups (p=0.19)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "no significant differences in adverse events between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01348971."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: The trial was supported by institutional grants."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

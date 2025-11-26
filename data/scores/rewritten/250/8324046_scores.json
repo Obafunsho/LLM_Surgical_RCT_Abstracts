@@ -1,0 +1,74 @@
+{
+  "pmcid": "8324046",
+  "sha256": "c937df02e2e260615a1cd50faea1092ee72562aec81ffee8fc9944061f32a049",
+  "timestamp_utc": "2025-11-09T22:57:54.722762+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.784782608695654,
+    "reading_ease": 23.542971014492764,
+    "word_count": 230
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Supraclavicular and Retroclavicular Brachial Plexus Block on Diaphragmatic Function"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This double-blinded, randomised controlled trial was conducted at a single tertiary hospital from December 2017 to May 2019."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Forty patients undergoing upper extremity surgery below the axilla were randomised to receive either SCB or RCB with ropivacaine 0.5%. Exclusion criteria included significant pulmonary disease, BMI >40, and contraindications to peripheral nerve block."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Forty patients undergoing upper extremity surgery below the axilla were randomised to receive either SCB or RCB with ropivacaine 0.5%."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of phrenic block, assessed by changes in diaphragmatic excursion and maximum inspiratory volume at baseline, 15, 30 minutes postblock, and postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Both patients and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Forty patients were randomised, 20 to each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Forty patients were randomised, 20 to each group."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The incidence of phrenic block was significantly higher in the SCB group (70% by ultrasound, 55% by spirometry) compared to the RCB group (15% by ultrasound, 5% by spirometry)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Clinicaltrials.gov NCT02631122."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

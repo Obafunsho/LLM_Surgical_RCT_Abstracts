@@ -1,0 +1,74 @@
+{
+  "pmcid": "12269756",
+  "sha256": "3cf121e45b3b9ca05c328a4e48e827ac30a8a29fd196922bb2a52e9f1bca0638",
+  "timestamp_utc": "2025-11-09T23:31:53.931534+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.904626086956522,
+    "reading_ease": 42.07624347826089,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Amiodarone for POAF Prevention in CABG Patients"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised controlled trial was conducted at Medical Institute Bayer, Tuzla, from 2019 to 2024, involving 454 patients."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Moderate and high-risk patients undergoing elective coronary artery bypass grafting (CABG)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Moderate and high-risk patients received amiodarone with beta blockers (Amiodarone group), while low-risk patients received beta blockers only."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the impact of amiodarone on POAF incidence and onset timing in moderate and high-risk patients undergoing elective coronary artery bypass grafting (CABG)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was POAF incidence, assessed over the hospital stay."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 227 patients were randomised to each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 227 patients were randomised to each group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "POAF occurred in 5.95% of the Amiodarone group compared to 9.25% in the beta blocker group, with an overall incidence of 15.2%. The relative risk reduction was 27% (RR = 0.27, 95% CI = 0.105-0.689, p = 0.006)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: N/A."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

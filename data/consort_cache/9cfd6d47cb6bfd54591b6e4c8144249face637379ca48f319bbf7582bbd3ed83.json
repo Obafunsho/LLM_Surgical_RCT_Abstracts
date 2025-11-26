@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Effect of Prophylactic Antibiotics on Intraoperative Cultures in Revision Arthroplasty: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial included 65 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility required a culture-positive aspiration and no antibiotics within two weeks prior."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive prophylactic antibiotics either before skin incision or after obtaining a minimum of three sets of intraoperative cultures."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Background: Preoperative antibiotics are crucial for reducing periprosthetic joint infection (PJI) risk in primary total hip and knee arthroplasty (THA and TKA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the concordance of intraoperative and preoperative cultures, assessed immediately post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This multicenter, prospective randomised controlled trial included 65 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 65 randomised, 34 received antibiotics before incision, and 31 after culture collection."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Intraoperative cultures matched preoperative cultures in 28/34 (82%) of the pre-incision group and 25/31 (81%) of the post-culture group, showing statistical equivalence (p = 0.0290)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

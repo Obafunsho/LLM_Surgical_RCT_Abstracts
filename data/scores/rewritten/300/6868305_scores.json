@@ -1,0 +1,74 @@
+{
+  "pmcid": "6868305",
+  "sha256": "9d1758cb6026ce9a0f94e8f96bc1782a06e75e210a76303faba3d3c92aa17c7b",
+  "timestamp_utc": "2025-11-10T00:03:23.534992+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.242077659182925,
+    "reading_ease": 34.459561096797955,
+    "word_count": 247
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A multicenter, cooperative group, single-arm phase II trial (ACOSOG Z5041)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with biopsy-confirmed PDAC in the pancreatic head without major mesenteric vessel involvement were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants received an eight-week cycle of G+E before and after surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assessed the feasibility of perioperative gemcitabine plus erlotinib (G+E) for resectable pancreatic ductal adenocarcinoma (PDAC)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was two-year overall survival (OS)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "One hundred fourteen patients were eligible, consented, and initiated protocol treatment."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Fifty-four completed postoperative G+E (65%)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The two-year OS rate for the entire cohort was 40% (95% CI 31–50) with a median OS of 21.3 months (95% CI 17.2–25.9)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Grade 3+ toxicity was reported in 60% during the neoadjuvant phase and 79% overall."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01004314."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: National Cancer Institute."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

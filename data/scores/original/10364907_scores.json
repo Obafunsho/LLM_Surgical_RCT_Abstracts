@@ -1,0 +1,74 @@
+{
+  "pmcid": "10364907",
+  "sha256": "5137c997119b41ab898312ed20c93eec0b6fb68c73b78f830e7c562f0e478f40",
+  "timestamp_utc": "2025-11-09T15:07:39.319462+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.785094339622642,
+    "reading_ease": 38.71640461215935,
+    "word_count": 318
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This cluster RCT evaluated the impact of decision support interventions (DESIs) for older women with breast cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A multicentre cluster RCT compared the use of two DESIs against usual care"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "older women (aged at least ≥70 years) with breast cancer"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compared the use of two DESIs against usual care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to ascertain whether DESIs influenced quality of life, survival, decision quality, and treatment choice"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was quality of life"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "46 breast units were randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "recruiting 1339 women (670 intervention, 669 usual care)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "intention-to-treat analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "difference –0.20, 95 per cent confidence interval (C.I.) –2.69 to 2.29; P = 0.900"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration numbers: EudraCT 2015-004220-61 (https://eudract.ema.europa.eu/), ISRCTN46099296 ( http://www.controlled-trials.com )"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "6500883",
+  "sha256": "6c514122db7f345b486a78ca26794bf4c0f15cf7bf6844c721f1c26f7d5bf8b3",
+  "timestamp_utc": "2025-11-09T16:09:14.967322+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.20654085603113,
+    "reading_ease": 17.474791828793798,
+    "word_count": 257
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The study design is a single-center, nonrandomized phase 1 clinical trial."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Up to 15 adult patients with recurrent glioblastoma will be enrolled"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "treatment with anti-PD-1 checkpoint inhibition; comprehensive immune biomarker collection; tumor resection; and then treatment with anti-PD-1 and anti-LAG-3 checkpoint inhibition until progression."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To determine the proportion of patients who have a measurable increase of interferon gamma levels in brain tumor tissue after their first dose of nivolumab, and to evaluate the safety of using brain tumor microdialysis to monitor for immune response while evaluating the safety of the combination of anti-programmed death 1 (PD-1) and anti-lymphocyte activation gene 3 (LAG-3) checkpoint inhibition."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "The study design is a single-center, nonrandomized phase 1 clinical trial."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Up to 15 adult patients with recurrent glioblastoma will be enrolled"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Based on published reports, microdialysis in this patient population is expected to be safe, and anti-LAG-3 and anti-PD-1 combined will likely have a similar side effect profile to other checkpoint inhibitor combinations."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

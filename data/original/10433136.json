@@ -1,0 +1,20 @@
+{
+  "pmcid": "10433136",
+  "pmid": "37585181",
+  "title": "Clinical Implications of Removing Race-Corrected Pulmonary Function Tests for African American Patients Requiring Surgery for Lung Cancer",
+  "abstract": "Importance: Removal of race correction in pulmonary function tests (PFTs) is a priority, given that race correction inappropriately conflates race, a social construct, with biological differences and falsely assumes worse lung function in African American than White individuals. However, the impact of decorrecting PFTs for African American patients with lung cancer is unknown.\n\nObjectives: To identify how many hospitals providing lung cancer surgery use race correction, examine the association of race correction with predicted lung function, and test the effect of decorrection on surgeons’ treatment recommendations.\n\nDesign, Setting, and Participants: In this quality improvement study, hospitals participating in a statewide quality collaborative were contacted to determine use of race correction in PFTs. For hospitals performing race correction, percent predicted preoperative and postoperative forced expiratory volume in 1 second (FEV 1 ) was calculated for African American patients who underwent lung cancer resection between January 1, 2015, and September 31, 2022, using race-corrected and race-neutral equations. US cardiothoracic surgeons were then randomized to receive 1 clinical vignette that differed by the use of Global Lung Function Initiative equations for (1) African American patients (percent predicted postoperative FEV 1 , 49%), (2) other race or multiracial patients (percent predicted postoperative FEV 1 , 45%), and (3) race-neutral patients (percent predicted postoperative FEV 1 , 42%).\n\nMain Outcomes and Measures: Number of hospitals using race correction in PFTs, change in preoperative and postoperative FEV 1 estimates based on race-neutral or race-corrected equations, and surgeon treatment recommendations for clinical vignettes.\n\nResults: A total of 515 African American patients (308 [59.8%] female; mean [SD] age, 66.2 [9.4] years) were included in the study. Fifteen of the 16 hospitals (93.8%) performing lung cancer resection for African American patients during the study period reported using race correction, which corresponds to 473 African American patients (91.8%) having race-corrected PFTs. Among these patients, the percent predicted preoperative FEV 1 and postoperative FEV 1 would have decreased by 9.2% (95% CI, −9.0% to −9.5%; P < .001) and 7.6% (95% CI, −7.3% to −7.9%; P < .001), respectively, if race-neutral equations had been used. A total of 225 surgeons (194 male [87.8%]; mean [SD] time in practice, 19.4 [11.3] years) were successfully randomized and completed the vignette items regarding risk perception and treatment outcomes (76% completion rate). Surgeons randomized to the vignette with African American race–corrected PFTs were more likely to recommend lobectomy (79.2%; 95% CI, 69.8%-88.5%) compared with surgeons randomized to the other race or multiracial–corrected (61.7%; 95% CI, 51.1%-72.3%; P = .02) or race-neutral PFTs (52.8%; 95% CI, 41.2%-64.3%; P = .001).\n\nConclusions and Relevance: Given the findings of this quality improvement study, surgeons should be aware of changes in PFT testing because removal of race correction PFTs may change surgeons’ treatment decisions and potentially worsen existing disparities in receipt of lung cancer surgery among African American patients.",
+  "authors": [
+    "Sidra N. Bonner",
+    "Kiran Lagisetty",
+    "Rishindra M. Reddy",
+    "Yadonay Engeda",
+    "Jennifer J. Griggs",
+    "Thomas S. Valley"
+  ],
+  "journal": "JAMA Surgery",
+  "year": "2023",
+  "full_text": "",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/articles/instance/10433136/bin/jamasurg-e233239-s001.pdf",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": true
+}

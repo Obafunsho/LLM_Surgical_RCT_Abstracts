@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We report a phase II trial evaluating the safety and efficacy of adjuvant \u03b1DC1 vaccination with chemokine modulation (CKM) after CRS/HIPEC."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing CRS/HIPEC for appendiceal cancer, colorectal cancer, or peritoneal mesothelioma were enrolled."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "In addition to standard adjuvant chemotherapy, patients received intranodal and intradermal injections of autologous tumor-loaded \u03b1DC1 vaccine."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We report a phase II trial evaluating the safety and efficacy of adjuvant \u03b1DC1 vaccination with chemokine modulation (CKM) after CRS/HIPEC."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty-six patients underwent CRS/HIPEC followed by \u03b1DC1 treatment, including 24 appendiceal primaries, 20 colorectal, and 2 mesotheliomas."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Median progression-free survival (PFS) for appendiceal primaries was 50.4, 34.2, and 8.9 months for grade 1, 2, and 3 tumors, respectively, while median PFS for colorectal cancer was 20.5 and 8.9 months for moderately and poorly differentiated tumors, respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The \u03b1DC1 and CKM regimen was well tolerated."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intravenous Magnesium in Remifentanil-Based Anesthesia"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing intravenous magnesium to placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether intravenous magnesium, an NMDA receptor antagonist, reduces postoperative pain and analgesic requirements in adults receiving remifentanil-based anesthesia."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were postoperative analgesic requirements and pain scores within 24 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Twenty-two RCTs with 1362 participants were included."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Magnesium significantly reduced 24-hour analgesic requirements (SMD \u22121.51; 95% CI \u22122.15 to \u22120.87; p < 0.0001) and pain scores (SMD \u22120.61; 95% CI \u22120.90 to \u22120.32; p < 0.0001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "without prolonging extubation or increasing hypotension/bradycardia risk"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The study was registered on PROSPERO (CRD42024609911)."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11056492",
+  "sha256": "b33aa3db271c53d38f185de450d857c933c1971467b27094cce48390cbb3aa17",
+  "timestamp_utc": "2025-11-09T21:59:29.765642+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.590960591133005,
+    "reading_ease": 34.30724137931037,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Bilateral Remote Ischemic Conditioning in Children: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In a double-blind, randomised controlled trial conducted at Birmingham and Leeds Children's Hospitals, UK, 120 children aged 3 to 36 months were randomised 1:1 to receive RIPC or a sham procedure."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "120 children aged 3 to 36 months were randomised 1:1 to receive RIPC or a sham procedure."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "120 children aged 3 to 36 months were randomised 1:1 to receive RIPC or a sham procedure."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the cardioprotective effects of bilateral remote ischemic preconditioning (RIPC) in young children undergoing surgery for tetralogy of Fallot (TOF) or ventricular septal defect (VSD)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the area under the curve (AUC) for high-sensitivity troponin-T in the first 24 hours post-surgery, analysed by intention-to-treat."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a secure online system with allocation concealment."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "blinding was maintained for patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From October 2016 to December 2020, 120 children were randomised: 60 to RIPC and 60 to control."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The primary outcome showed a higher AUC for troponin-T in the RIPC group (mean: 70.0 ± 50.9 μg/L/h) compared to controls (mean: 55.6 ± 30.1 μg/L/h) with a mean difference of 13.2 μg/L/h (95% CI, 0.5-25.8; P = .04)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The primary outcome showed a higher AUC for troponin-T in the RIPC group (mean: 70.0 ± 50.9 μg/L/h) compared to controls (mean: 55.6 ± 30.1 μg/L/h) with a mean difference of 13.2 μg/L/h (95% CI, 0.5-25.8; P = .04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN12923441"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "The trial was funded by [source not specified]."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

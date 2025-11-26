@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Anticoagulation Strategies in HIT-Positive Patients Undergoing Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial included patients with HIT requiring CPB"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with HIT requiring CPB"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either tirofiban with heparin or standard anticoagulation"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy and safety of tirofiban combined with heparin as an alternative anticoagulation strategy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of thrombotic events during and after surgery, measured over a 30-day period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 50 participants were randomised: 25 to the tirofiban with heparin group and 25 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The tirofiban group showed a reduced incidence of thrombotic events (12% vs. 28%, p=0.04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included bleeding complications, occurring in 16% of the tirofiban group and 20% of the control group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This study was funded by the National Institutes of Health."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

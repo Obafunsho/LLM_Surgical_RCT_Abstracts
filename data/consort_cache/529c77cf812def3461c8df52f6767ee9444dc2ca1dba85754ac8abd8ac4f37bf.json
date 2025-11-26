@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this double-blind study, American Society of Anesthesiologists I to II patients undergoing TKA were assigned to receive 0.125% bupivacaine\u2009+\u2009fentanyl 4\u2009\u00b5g/mL (group R) or 0.1% bupivacaine\u2009+\u2009fentanyl 2\u2009\u00b5g/mL with an epidural injection of dexmedetomidine 1\u2009\u00b5g/kg (group D)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "American Society of Anesthesiologists I to II patients undergoing TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "0.125% bupivacaine\u2009+\u2009fentanyl 4\u2009\u00b5g/mL (group R) or 0.1% bupivacaine\u2009+\u2009fentanyl 2\u2009\u00b5g/mL with an epidural injection of dexmedetomidine 1\u2009\u00b5g/kg (group D)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To evaluate the impact of adding epidural dexmedetomidine to low-concentration patient-controlled epidural analgesia (PCEA) on pain control and side effects in total knee arthroplasty (TKA)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcomes were the effectiveness of postoperative pain control as assessed by the numeric pain rating scale (NRS) and the incidence of side effects."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "In this double-blind study"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Both groups achieved similar pain control as indicated by NRS scores. However, group D experienced lower rates of urinary retention and pruritus, whereas sedation in the recovery room was greater in group D. Group R had significantly higher systolic pressure in the recovery room. group D exhibited significantly lower heart rates at 5 and 10 minutes."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "group D experienced lower rates of urinary retention and pruritus, whereas sedation in the recovery room was greater in group D."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

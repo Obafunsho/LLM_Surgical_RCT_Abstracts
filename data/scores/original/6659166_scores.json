@@ -1,0 +1,74 @@
+{
+  "pmcid": "6659166",
+  "sha256": "0104ff8cea8663810293a5f366ec34562e01d25e80092b8d4e6047eef7e47b1d",
+  "timestamp_utc": "2025-11-09T16:10:03.894258+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.326948051948055,
+    "reading_ease": 24.08168831168834,
+    "word_count": 392
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This nonblinded, crossover, sequential randomized clinical trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This nonblinded, crossover, sequential randomized clinical trial with internal control"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "a volunteer sample of laypeople who attended a B-Con course at Gillette Stadium and the Longwood Medical Area in Boston, Massachusetts"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Full B-Con course, including cognitive and skill sessions, that taught bleeding care, wound pressure and packing, and CAT application."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To assess whether participants completing the American College of Surgeons Bleeding Control Basic (B-Con) training with Combat Application Tourniquets (CATs) can effectively apply bleeding control principles using other tourniquet types (commercial and improvised)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Correct tourniquet application (applied pressure of ≥250 mm Hg with a 2-minute time cap)"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The order of application varied for each participant using randomly generated permutated blocks."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "This nonblinded, crossover, sequential randomized clinical trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 102 participants (50 [49.0%] male; median [interquartile range] age, 37.5 [27.0-53.0] years) were included in the study."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 102 participants (50 [49.0%] male; median [interquartile range] age, 37.5 [27.0-53.0] years) were included in the study."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Participants correctly applied the CAT at a significantly higher rate (92.2%) than all other commercial tourniquet types (Special Operation Forces Tactical Tourniquet, 68.6%; Stretch-Wrap-and-Tuck Tourniquet, 11.8%; Rapid Application Tourniquet System, 11.8%) and the improvised tourniquet (32.4%) ( P < .001 for each pairwise comparison)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov identifier: NCT03538379"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

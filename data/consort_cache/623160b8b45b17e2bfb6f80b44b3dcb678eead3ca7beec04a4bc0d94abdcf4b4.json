@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "376 patients undergoing TKA between March 2014 and March 2015 were randomized to four groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "376 patients undergoing TKA between March 2014 and March 2015"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to four groups by the route of tranexamic acid administration: IV only, IA only, low-dose combined (IV + IA injection of 1 g), and high-dose combined (IV + IA injection of 2 g)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To compare the efficacy of tranexamic acid in terms of total blood loss and the allogeneic transfusion rate among three routes of administration"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The calculated total blood loss, allogeneic transfusion rate, decrease in hemoglobin, the frequency of symptomatic deep vein thrombosis and pulmonary embolism, wound complications, and periprosthetic joint infection were compared among the groups"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients undergoing TKA between March 2014 and March 2015 were randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "376 patients undergoing TKA between March 2014 and March 2015"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The high- and low-dose combined groups and the IA-only group had lower total blood loss (564 \u00b1 242 mL, 642 \u00b1 242 mL, and 633 \u00b1 205 mL, respectively) than the IV-only group (764 \u00b1 217 mL; mean differences = 199 mL [95% CI, 116\u2013283 mL], p < 0.001; 121 mL [95% CI, 38\u2013205 mL], p = 0.001; 131 mL [95% CI, 47\u2013214 mL], p < 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One patient in the IV-only group had a symptomatic pulmonary embolism develop, but no other symptomatic VTE events occurred in any group"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

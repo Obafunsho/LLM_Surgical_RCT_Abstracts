@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Intraoperative Blood Salvage in Liver Resection: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Living liver donors scheduled for liver graft procurement were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Living liver donors scheduled for liver graft procurement"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to a blood salvage group or a control group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed the effectiveness of intraoperative blood salvage in reducing blood loss during liver resection."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was blood loss during liver parenchymal division."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was conducted intraoperatively"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "surgeons were blinded to group allocation"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seventy-nine donors were randomised: 40 to the blood salvage group and 39 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "intraoperative blood salvage reduced blood loss (adjusted OR 0.31; 95% CI 0.11\u20130.85, P = 0.025)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details are not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details are not provided."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

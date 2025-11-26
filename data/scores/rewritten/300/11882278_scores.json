@@ -1,0 +1,74 @@
+{
+  "pmcid": "11882278",
+  "sha256": "3fb0729bdb100d38ecb11474b91cfabdd4b5f645abf8757e1e839d6d651345c5",
+  "timestamp_utc": "2025-11-09T23:22:03.237692+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.548607625482624,
+    "reading_ease": 26.757583252895785,
+    "word_count": 259
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Neuro-Spinal Scaffold Implantation in Thoracic Complete Spinal Cord Injury"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised, controlled, parallel-group, multicenter trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible patients aged 16-70 with AIS grade A, thoracic (T2-T12), nonpenetrating SCI requiring spine surgery ≤7 days post-injury"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised (1:1) to NSS implantation or SOC surgery alone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assessed the safety and neurological recovery benefits of Neuro-Spinal Scaffold (NSS) implantation in thoracic complete SCI compared to standard-of-care (SOC) spine surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the proportion of patients with ≥1 AIS grade improvement at 6 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation used a computer-generated allocation sequence with permuted blocks, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Patients and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Twenty patients were randomised (10 per group) between May 2019 and June 2022."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "20% of NSS patients and 30% of control patients showed AIS grade improvement."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "20% of NSS patients and 30% of control patients showed AIS grade improvement."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Most adverse events were mild or moderate, with no serious or unanticipated adverse device effects reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov, NCT03762655"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: InVivo Therapeutics Corporation"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

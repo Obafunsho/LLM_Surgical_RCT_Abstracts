@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Corrective osteotomy around the elbow can require longer recovery time in adults than in children because of the longer healing period and the propensity for stiffness."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Twelve consecutive patients who needed surgery were treated using this procedure."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "A lateral oblique closing wedge osteotomy with a larger contact area and fixation with a lag screw plus early motion."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized a lateral oblique closing wedge osteotomy with a larger contact area and fixation with a lag screw plus early motion would provide stable fixation and early motion recovery in adults with cubitus varus deformity."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "All patients achieved healing of the osteotomy, and regained preoperative arcs of elbow motion at a mean of 7.3 weeks (range, 2\u201312 weeks) postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twelve consecutive patients who needed surgery were treated using this procedure."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The average humerus-elbow-wrist angle improved from \u221223.3\u00b0 to 8\u00b0 (p < 0.002) by a mean gain of 29.6\u00b0."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No patient experienced nerve palsy."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

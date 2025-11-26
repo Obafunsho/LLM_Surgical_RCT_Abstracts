@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Adverse Event Reporting in Pediatric Heart Network Surgical Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomized to either a standard adverse event reporting system (period 1) or a system focusing on serious adverse event reporting for six sentinel events (period 2)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted in a multicenter setting, the trial included infants eligible for Norwood surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing systemic\u2013pulmonary artery shunt versus right ventricle\u2013pulmonary artery conduit"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate a novel adverse event reporting strategy in a randomized surgical trial"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of serious adverse events from randomization to hospital discharge after stage II surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 infants were randomized, 100 to each group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "In period 2, the rate of serious adverse events requiring expedited reporting decreased significantly (0.42 vs 0.14/subject/month; P < .001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were more frequent in the control group, with 3% experiencing mild gastrointestinal side-effects compared to 1% in the intervention group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

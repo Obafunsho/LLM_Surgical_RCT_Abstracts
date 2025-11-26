@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Fluid management is challenging and still remains controversial in orthotopic liver transplantation (OLT)."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Twenty\u2010five patients were enrolled in this study."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Fluid loading (10\u2009mL/kg colloid) was performed at two different phases during the operation, and fluid responsiveness was defined as an increase in CI TPTD \u2265\u200915%."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study was designed to examine whether the PVI can reliably predict fluid responsiveness in OLT and to compare PVI with other hemodynamic indexes that are measured using the PiCCO 2 monitoring system."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Fluid responsiveness was defined as an increase in CI TPTD \u2265\u200915%."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty\u2010five patients were enrolled in this study."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Area under the curve for PVI was 0.56 (sensitivity 35%, specificity 90%, p =\u20090.58) at dissection phase, and was 0.55 (sensitivity 55%, specificity 66%, p =\u20090.58) at anhepatic phase."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

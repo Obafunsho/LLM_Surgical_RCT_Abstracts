@@ -1,0 +1,74 @@
+{
+  "pmcid": "11645970",
+  "sha256": "af39ab5f71462a76db6b6c2ccbed300bf686412b521f87f39b73913064adbcbe",
+  "timestamp_utc": "2025-11-09T22:06:01.138549+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.588864569083448,
+    "reading_ease": 12.993584131326969,
+    "word_count": 215
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of High-Dose Magnesium Sulfate Infusion for Opioid-Sparing Analgesia in Pediatric Transplant Recipients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This prospective trial with a retrospective control group"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants aged 3–18 years undergoing total pancreatectomy with islet cell autotransplantation or liver transplantation were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention included a MgSO4 bolus (50 mg/kg) followed by an infusion (15 mg/kg/h) for up to 48 hours."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial assessed the feasibility of high-dose magnesium sulfate (MgSO4) infusion for analgesia in pediatric transplant recipients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was oral morphine equivalent (OME) per kg per day during the PICU stay."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Eleven patients were enrolled from July 2020 to December 2022."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The treatment group showed a trend towards higher intravenous fluid requirement (~1 bolus) but no increase in blood product use."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No serious adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04812028"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: University of Minnesota Department of Pediatrics."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

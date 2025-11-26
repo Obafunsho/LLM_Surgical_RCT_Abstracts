@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "METHODS: A multicenter, international, randomized, controlled trial (RCT) was con- ducted."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "One hundred sixty-three patients, enrolled at 19 sites, were randomized 1:1 to treatment with IPD or SDS and were followed for 24 mo."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized 1:1 to treatment with IPD or SDS"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVE: To show that a minimally invasive percutaneous IPD is safe and noninferior to standalone decompressive surgery (SDS) for patients with degenerative lumbar spinal stenosis with NIC."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "RESULTS: There was significant improvement in Zurich Claudication Questionnaire physical function, as mean percentage change from baseline, for both the IPD and the SDS groups at 12 mo (primary endpoint) and 24 mo"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized 1:1 to treatment with IPD or SDS"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One hundred sixty-three patients, enrolled at 19 sites, were randomized 1:1"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There was significant improvement in Zurich Claudication Questionnaire physical function, as mean percentage change from baseline, for both the IPD and the SDS groups at 12 mo (primary endpoint) and 24 mo (\u221232.3 \u00b1 32.1, \u221237.5 \u00b1 22.8; and \u221237.9 \u00b1 21.7%, \u221235.2 \u00b1 22.8, both P < .001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Reoperations at index level occurred in 18.2% of the patients in the IPD group and in 9.3% in the SDS group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

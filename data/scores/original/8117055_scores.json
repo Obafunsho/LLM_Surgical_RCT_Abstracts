@@ -1,0 +1,74 @@
+{
+  "pmcid": "8117055",
+  "sha256": "e73d4f91e3212412422b038d789161bbbeacbb8c373bcd0cc11febc9338da32f",
+  "timestamp_utc": "2025-11-09T16:16:41.243520+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.290026448029625,
+    "reading_ease": 22.750305474742163,
+    "word_count": 398
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "multisite randomized clinical trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included surgeons who routinely perform high-risk surgery and patients 60 years or older with at least 1 comorbidity and an oncological or vascular (cardiac, peripheral, or neurovascular) problem."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients received a question prompt list brochure with 11 questions that they might ask their surgeon."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To quantify the frequency of preoperative ACP discussion and documentation for older adults undergoing major surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "any statement related to ACP from the surgeon, patient, or family member during the audiorecorded preoperative consultation was counted."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Among preoperative consultations with 213 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Among preoperative consultations with 213 patients"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "there was no significant association between the presence of an AD and patient age (60-69 years, 26 [31%]; 70-79 years, 31 [33%]; ≥80 years, 15 [42%]; P = .55)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT02623335"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial to Determine the Maximum Effective Volume of 0.25% Ropivacaine for Superior Trunk Block in Shoulder Arthroscopy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This prospective, randomised controlled trial was conducted at Changzheng Hospital."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults aged 46-80 years, ASA I-III, scheduled for shoulder arthroscopy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The MEV90 of 0.25% ropivacaine for ultrasound-guided STB was estimated at 7.6 mL."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the maximum effective volume (MEV90) of 0.25% ropivacaine to prevent HDP in 90% of patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was HDP occurrence, assessed 3 hours post-block."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "A biased coin design was used for volume assignment, with randomisation and allocation concealment achieved through sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was maintained for outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fifty-two patients were randomised and analysed."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Fifty-two patients were randomised and analysed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The MEV90 of 0.25% ropivacaine for ultrasound-guided STB was estimated at 7.6 mL (95% CI: 6.5\u20138.5 mL) using isotonic regression."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "no adverse events reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Chinese Clinical Trial Registry (ChiCTR2200059042); first registered 23/04/2022."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

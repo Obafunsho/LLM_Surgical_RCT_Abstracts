@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Objective:: The aim of the present randomized controlled trial was to evaluate the superiority of indocyanine green fluorescence imaging (ICG-FI) in reducing the rate of anastomotic leakage in minimally invasive rectal cancer surgery."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomized, open-label, phase 3, trial was performed at 41 hospitals in Japan."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with clinically stage 0\u2013III rectal carcinoma less than 12 cm from the anal verge, scheduled for minimally invasive sphincter-preserving surgery were preoperatively randomly assigned."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were preoperatively randomly assigned to receive a blood flow evaluation by ICG-FI (ICG+ group) or no blood flow evaluation by ICG-FI (ICG\u2212 group)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective:: The aim of the present randomized controlled trial was to evaluate the superiority of indocyanine green fluorescence imaging (ICG-FI) in reducing the rate of anastomotic leakage in minimally invasive rectal cancer surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the anastomotic leakage rate (grade A+B+C, expected reduction rate of 6%) analyzed in the modified intention-to-treat population."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were preoperatively randomly assigned."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "This randomized, open-label, phase 3, trial was performed at 41 hospitals in Japan."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between December 2018 and February 2021, a total of 850 patients were enrolled and randomized."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "After the exclusion of 11 patients, 839 were subject to the modified intention-to-treat population (422 in the ICG+ group and 417 in the ICG\u2212 group)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The rate of anastomotic leakage (grade A+B+C) was significantly lower in the ICG+ group (7.6%) than in the ICG\u2212 group (11.8%) (relative risk, 0.645; 95% confidence interval 0.422\u20130.987; P =0.041)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

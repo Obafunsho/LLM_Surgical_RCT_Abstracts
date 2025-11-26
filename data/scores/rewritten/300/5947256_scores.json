@@ -1,0 +1,74 @@
+{
+  "pmcid": "5947256",
+  "sha256": "86a3f0631ff49449e18c003b5cefea333576eaf9df1139f7bc16d966ff17a64d",
+  "timestamp_utc": "2025-11-10T00:00:03.054148+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.197936507936511,
+    "reading_ease": 39.21159340659344,
+    "word_count": 252
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Intracutaneous and Transcutaneous Suturing of Ileostomies"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were aged 18-80 years, scheduled for ileostomy, and provided informed consent."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised 1:1 to receive either intracutaneous (IC) or transcutaneous (TC) suturing."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the effects of intracutaneous versus transcutaneous suturing of ileostomies on faecal leakage and quality of life."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was faecal leakage within 3 months post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computerised, with allocation concealed in sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied to outcome assessors, patients, or clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between April 2011 and February 2016, 339 patients were randomised: 170 to the IC group and 169 to the TC group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Leakage rates were higher in the IC group (52.4%) compared to the TC group (41.4%), with a risk difference of 11.0% (95% CI 0.3 to 21.2)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Skin irritation rates were high in both groups (78.2% IC vs 72.2% TC), with no significant difference (risk difference 6.1%, 95% CI -3.2 to 15.1)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NTR2369."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

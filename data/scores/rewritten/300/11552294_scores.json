@@ -1,0 +1,74 @@
+{
+  "pmcid": "11552294",
+  "sha256": "eba8c6f902d643c6109e7198b26930afe7733a6b987dfefb7dd9f74580c103ab",
+  "timestamp_utc": "2025-11-09T23:17:25.897251+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.562667330677293,
+    "reading_ease": 20.17802490039844,
+    "word_count": 251
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Graft Delamination in Early-Cannulation Arteriovenous Grafts: A Retrospective Cohort Study"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included 141 end-stage renal disease (ESRD) patients requiring ecAVG for HD."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The study also assessed the effectiveness of different treatment modalities, including percutaneous transluminal angioplasty (PTA), stenting, and partial graft replacement (PGR)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to evaluate the incidence, management, and impact of graft delamination on the long-term patency of ecAVGs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of graft delamination, measured over a median follow-up of 24.5 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 144 ecAVGs were analyzed, comprising 124 Acuseal and 20 Flixene grafts."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The primary patency in the delamination group was significantly lower than in the non-delamination group (p < 0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included thrombosis and venous hypertension, with seven delaminations observed shortly after endovascular procedures."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

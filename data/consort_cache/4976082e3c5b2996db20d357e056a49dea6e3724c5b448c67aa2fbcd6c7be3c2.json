@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: We studied the maximum tolerated dose (MTD) and efficacy of oxaliplatin added to capecitabine and radiotherapy (Capox-RT) as neoadjuvant therapy for rectal cancer."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Methods: T3-4 rectal cancer patients received escalating doses of oxaliplatin (day 1 and 29) with a fixed dose of capecitabine of 1000 mg/m 2 twice daily (days 1\u201314, 25\u201338) added to RT with 50.4 Gy and surgery after 6\u20138 weeks."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Methods: T3-4 rectal cancer patients received escalating doses of oxaliplatin (day 1 and 29) with a fixed dose of capecitabine of 1000 mg/m 2 twice daily (days 1\u201314, 25\u201338) added to RT with 50.4 Gy and surgery after 6\u20138 weeks."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Methods: T3-4 rectal cancer patients received escalating doses of oxaliplatin (day 1 and 29) with a fixed dose of capecitabine of 1000 mg/m 2 twice daily (days 1\u201314, 25\u201338) added to RT with 50.4 Gy and surgery after 6\u20138 weeks."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The MTD, determined during phase I, was used in the subsequent phase II, in which R0 resection rate (a negative circumferential resection margin) was the primary end point."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Results: Twenty-one patients were evaluable."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "An R0 was achieved in 17/21 patients, downstaging to T0-2 in 7/21 and a pCR in 2/21."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "In phase II, the main toxicity was grade III diarrhea (18%)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

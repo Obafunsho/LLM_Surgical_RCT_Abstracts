@@ -1,0 +1,74 @@
+{
+  "pmcid": "4250319",
+  "sha256": "b890a49d8965d2575c1c45591a35c5bcc60465230cd7296280a75e07a6b1e6d2",
+  "timestamp_utc": "2025-11-09T22:41:40.488308+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.980980392156866,
+    "reading_ease": 8.436719457013623,
+    "word_count": 204
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Surgical Ventricular Reconstruction in Coronary Artery Disease"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to either CABG alone or CABG plus SVR."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with coronary artery disease and left ventricular dysfunction"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either CABG alone or CABG plus SVR"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was mortality or cardiac hospitalization over a 3-year period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted centrally, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial included 1,000 patients"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 3 years, there was no significant difference in mortality or the combined outcome of death or cardiac hospitalization"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

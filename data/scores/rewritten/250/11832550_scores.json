@@ -1,0 +1,74 @@
+{
+  "pmcid": "11832550",
+  "sha256": "ba434dc15c2781fe3cdf5ef73e51c8cc7cce52ed0985b068d635bca088cc2612",
+  "timestamp_utc": "2025-11-09T22:08:56.379916+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.964031936127746,
+    "reading_ease": 20.82745841650035,
+    "word_count": 167
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "A single-case analysis was conducted in a 65-year-old male patient with severe respiratory failure."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved advancing the drainage cannula tip into the superior vena cava (SVC) and crossing the reinfusion cannula in the right atrium (RA)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the efficacy of the F(SVC)–J(RA) configuration in veno-venous extracorporeal membrane oxygenation (V–V ECMO) for improving systemic oxygenation in patients with severe respiratory failure."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the partial pressure of arterial oxygen (PaO2), measured over the course of ECMO treatment."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The patient demonstrated a PaO2 far above 200 mmHg despite near-absence of ventilation under lung rest settings."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The recirculation ratio was calculated at 20.0%, and no right-to-left shunt was detected."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

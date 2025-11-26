@@ -1,0 +1,74 @@
+{
+  "pmcid": "12249832",
+  "sha256": "6b9cc9644631f8de0225b09f480da306c189aafa7714d2733c28104788f544fd",
+  "timestamp_utc": "2025-11-09T15:34:56.511401+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.340959455277005,
+    "reading_ease": 30.26627875786653,
+    "word_count": 359
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "A single-center, prospective, single-arm pilot trial was conducted"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study population included 12 subjects over 18 years old who were admitted to the surgical ICU after open abdominal surgery."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "A low-dose lidocaine infusion of 10–30 mcg/kg/min within 1 h of ICU admission."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the feasibility of conducting a subsequent full-scale, randomized controlled trial (RCT) on the use of systemic lidocaine infusion in surgical intensive care units (ICUs)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All 12 remaining participants were included in the analysis at the baseline stage."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The pain scores decreased by 1.09 units per day (β = −1.09; 95% CI: −1.82 to −0.36; p = 0.003)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The safety outcomes included adverse events and serum lidocaine levels, with no serious adverse events reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10843150",
+  "sha256": "b96eeeed633fadf4f1e6a02f83da1824ba476634f6c873869f404f05de5c7066",
+  "timestamp_utc": "2025-11-09T21:57:40.237225+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.682160625444208,
+    "reading_ease": 21.18567164179106,
+    "word_count": 201
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Mental Health Intervention in Trauma Centers"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized controlled trial involved 171 patients"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "171 patients with traumatic injuries"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "mental health intervention (n=85) or enhanced usual care control (n=86)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the impact of a mental health intervention on healthcare utilization and cost savings."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was emergency department/inpatient utilization over 5 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was conducted using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomized to a mental health intervention (n=85) or enhanced usual care control (n=86)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Intervention patients showed significant reductions in utilization compared to controls (F [19,3210] =2.23, P =0.009), with the greatest reductions at 3-6 months (15.5% vs. 26.7%, RR = 0.58, 95% CI 0.34, 1.00) and 12-15 months (16.5% vs. 30.6%, RR = 0.54, 95% CI 0.32, 0.91)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

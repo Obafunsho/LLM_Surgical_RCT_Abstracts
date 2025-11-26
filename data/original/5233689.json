@@ -1,0 +1,23 @@
+{
+  "pmcid": "5233689",
+  "pmid": "27463536",
+  "title": "Effect of A Mobile Web App on Kidney Transplant Candidates’ Knowledge About Increased Risk Donor Kidneys: A Randomized Controlled Trial",
+  "abstract": "Background: Kidney transplant candidates (KTCs) must provide informed consent to accept kidneys from increased risk donors (IRD), but poorly understand them. We conducted a multisite, randomized controlled trial to evaluate the efficacy of a mobile web application, Inform Me, for increasing knowledge about IRDs.\n\nMethods: KTCs undergoing transplant evaluation at 2 transplant centers were randomized to use Inform Me after routine transplant education (intervention) or routine transplant education alone (control). Computer adaptive learning method reinforced learning by embedding educational material, and initial (Test 1) and additional test questions (Test 2) into each chapter. Knowledge (primary outcome) was assessed in person after education (Tests 1 and 2), and 1-week later by telephone (Test 3). Controls did not receive Test 2. Willingness to accept an IRD kidney (secondary outcome) was assessed after Tests 1 and 3. Linear regression Test 1 knowledge scores were used to test the significance of Inform Me exposure after controlling for covariates. Multiple imputation was used for intention-to-treat analysis.\n\nResults: Two hundred-eighty-eight KTCs participated. Intervention participants had higher Test 1 knowledge scores (mean difference=6.61; 95% CI, 5.37–7.86) than control participants, representing a 44% higher score than control participants’ scores. Intervention participants’ knowledge scores increased with educational reinforcement (Test 2) compared to control arm Test 1 scores (mean difference=9.50; 95% CI, 8.27–10.73). After 1 week, intervention participants’ knowledge remained greater than controls’ (mean difference=3.63; 95% CI, 2.49–4.78) (Test 3). Willingness to accept an IRD kidney did not differ between study arms at Tests 1 and 3.\n\nConclusion: Inform Me use was associated with greater KTC knowledge about IRD kidneys above routine transplant education alone.",
+  "authors": [
+    "Elisa J. Gordon",
+    "Min-Woong Sohn",
+    "Chih-Hung Chang",
+    "Gwen McNatt RN",
+    "Karina Vera",
+    "Nicole Beauvais",
+    "Emily Warren",
+    "Roslyn B. Mannon",
+    "Michael G. Ison"
+  ],
+  "journal": "Transplantation",
+  "year": "2017",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

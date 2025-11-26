@@ -1,0 +1,74 @@
+{
+  "pmcid": "6140776",
+  "sha256": "dc367969ff0a0b349f7643189487ddbcb8146857f0ccc353198db69a18057a3c",
+  "timestamp_utc": "2025-11-09T16:07:27.351387+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.453156028368799,
+    "reading_ease": 21.86361111111114,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "OBJECTIVE: To investigate the accuracy of a ventricular catheter guide assisted by a simple mobile health application (mhealth app) in a multicenter, randomized, controlled, simple blinded study (GAVCA study)."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "multicenter, randomized, controlled, simple blinded study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "In total, 139 eligible patients were enrolled in 9 centers."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "To investigate the accuracy of a ventricular catheter guide assisted by a simple mobile health application (mhealth app)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVE: To investigate the accuracy of a ventricular catheter guide assisted by a simple mobile health application (mhealth app) in a multicenter, randomized, controlled, simple blinded study (GAVCA study)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was the rate of primary cannulation of grade I catheter position in the ipsilateral ventricle."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "simple blinded study"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "In total, 139 eligible patients were enrolled in 9 centers."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The primary endpoint was reached in 70% of the guided group vs 56.5% (freehand group; odds ratio 1.79, 95% confidence interval 0.89-3.61)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No differences occurred in early ventricular catheter failure, complication rate, duration of surgery, or hospital stay."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

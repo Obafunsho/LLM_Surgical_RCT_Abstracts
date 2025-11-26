@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Efficacy of Recombinant Human Brain Natriuretic Peptide in Post-CABG Acute Kidney Injury"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This single-center retrospective study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients diagnosed with AKI within 4 days post-CABG at The Affiliated Hospital of Qingdao University from January 2016 to December 2020"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were divided into BNP and non-BNP groups based on intravenous rh-BNP administration"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of recombinant human brain natriuretic peptide (rh-BNP) in improving renal function in patients with AKI post-CABG"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in serum creatinine levels and urine volume within 4 days post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 395 patients were included, with 56 in the BNP group and 339 in the non-BNP group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "After PSM, 175 patients were analyzed"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The BNP group showed a significant decrease in serum creatinine levels (P<0.001) and increased urine volume (P=0.001) compared to the non-BNP group"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "No significant difference in diuretic dosage was observed (P=0.852)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

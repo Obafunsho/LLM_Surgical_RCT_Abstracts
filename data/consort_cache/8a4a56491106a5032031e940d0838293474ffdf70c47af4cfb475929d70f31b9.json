@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "multicenter randomized controlled trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomized to receive"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "in kidney transplant recipients (KTRs)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "single dose of mRNA-1273 (100 \u03bcg, n\u2005=\u200525), a double dose of mRNA-1273 (2\u2009\u00d7\u2009100 \u03bcg, n\u2005=\u200525), or a single dose of adenovirus type 26 encoding the SARS-CoV-2 spike glycoprotein (Ad26.COV2.S) (n\u2005=\u200525)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "investigating different repeated vaccination strategies in KTR who showed poor serological responses"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "compared SARS-CoV-2-specific interleukin-21 memory T-cell and B-cell responses"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomized to receive"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "n\u2005=\u200525"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "odd ratio, 3.84 [1.89-7.78]; P <\u20050.001"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT05030974"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

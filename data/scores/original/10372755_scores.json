@@ -1,0 +1,74 @@
+{
+  "pmcid": "10372755",
+  "sha256": "d9c819fe93e4128fddf905997e15c8962bfd26b5f797ed49e4a64036181f0783",
+  "timestamp_utc": "2025-11-09T15:07:55.225289+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.449488388601566,
+    "reading_ease": 37.30171661089142,
+    "word_count": 519
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The Evaluation of Liraglutide 3.0 mg in Patients With Poor Weight Loss and a Suboptimal Glucagon-Like Peptide-1 Response (BARI-OPTIMISE) randomized placebo-controlled trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomized placebo-controlled trial recruited adult patients at least 1 year after metabolic surgery who had experienced 20% or less body weight loss from the day of surgery and a suboptimal nutrient-stimulated GLP-1 response from 2 hospitals in London, United Kingdom, between October 2018 and November 2019."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "recruited adult patients at least 1 year after metabolic surgery who had experienced 20% or less body weight loss from the day of surgery and a suboptimal nutrient-stimulated GLP-1 response from 2 hospitals in London, United Kingdom"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Liraglutide, 3.0 mg, once daily or placebo as an adjunct to lifestyle intervention with a 500-kcal daily energy deficit for 24 weeks"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the efficacy and safety of the GLP-1 receptor agonist, liraglutide, 3.0 mg, on percentage body weight reduction in patients with poor weight loss and suboptimal GLP-1 response after metabolic surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was change in percentage body weight from baseline to the end of the 24-week study period based on an intention-to-treat analysis."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "on a 1:1 allocation by computer-generated randomization sequence, stratified by surgery type (Roux-en-Y gastric bypass [RYGB] or sleeve gastrectomy [SG]) and type 2 diabetes status."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "All participants and clinical study personnel were blinded to treatment allocation."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 70 participants (mean [SD] age, 47.6 [10.7] years; 52 [74%] female) with a poor weight loss response following RYGB or SG were randomized to receive 3.0-mg liraglutide (n = 35) or placebo (n = 35)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Estimated change in mean (SD) percentage body weight from baseline to week 24 was −8.82 (4.94) with liraglutide, 3.0 mg (n = 31), vs −0.54 (3.32) with placebo (n = 26)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean difference in percentage body weight change for liraglutide, 3.0 mg, vs placebo was −8.03 (95% CI, −10.39 to −5.66; P < .001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events, predominantly gastrointestinal, were more frequent with liraglutide, 3.0 mg (28 events [80%]), than placebo (20 events [57%])."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT03341429"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Efficacy of Antibiotic-Impregnated Shunt Catheters in Reducing Bacterial Infections: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study included patients of all ages and etiologies of shunt implantation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Interventions being AISC and comparators being standard shunts."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of antibiotic-impregnated shunt catheters (AISC) in reducing bacterial shunt infections in patients with hydrocephalus."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of bacterial infections, and the secondary outcome was shunt failure."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis included both intention-to-treat and per-protocol approaches, but specific numbers for each group were not provided."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The use of AISC was significantly associated with a reduction in infections (OR = 0.42; 95% CI: 0.33-0.54)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: PROSPERO registration number not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding sources were not reported."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

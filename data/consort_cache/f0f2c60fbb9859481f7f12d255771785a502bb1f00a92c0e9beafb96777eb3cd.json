@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing drug interventions with placebo or another drug to shorten the onset time of rocuronium"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study systematically investigated the most efficacious pharmacological interventions for accelerating the onset time of rocuronium."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Mean differences (MDs) with their 95% confidence intervals (95% CIs) were used to analyze the effects of drug interventions on the onset time of rocuronium."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "43 randomized controlled trials with 2,465 patients were analyzed."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Priming with rocuronium [Mean difference (MD) \u221221.0 s, 95% confidence interval (95% CI) (\u221227.6 to \u221214.3 s)], pretreatment with ephedrine [\u221222.3 s (\u221229.1 to \u221215.5 s)], pretreatment with magnesium sulphate [\u221228.2 s (\u221250.9 to \u22125.6 s)] were all effective in reducing the onset time of rocuronium."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

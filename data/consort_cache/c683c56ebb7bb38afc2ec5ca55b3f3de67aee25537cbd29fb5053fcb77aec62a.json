@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this randomized trial, we compared robotic-assisted TKA to manual-alignment techniques at long-term follow-up"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This study was a registered prospective, randomized, controlled trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Among these patients 1406 patients were eligible for participation in this study based on prespecified inclusion criteria."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "700 patients (750 knees) receiving robotic-assisted TKA and 706 patients (766 knees) receiving conventional TKA."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we compared robotic-assisted TKA to manual-alignment techniques at long-term follow-up in terms of (1) functional results based on Knee Society, WOMAC, and UCLA Activity scores; (2) numerous radiographic parameters, including component and limb alignment; (3) Kaplan-Meier survivorship; and (4) complications specific to robotic-assistance"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Clinical evaluation was performed using the original Knee Society knee score, the WOMAC score, and the UCLA activity score preoperatively and at latest follow-up visit."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "100% (1406) patients agreed to participate and were randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "100% (1406) patients agreed to participate and were randomized, with 700 patients (750 knees) receiving robotic-assisted TKA and 706 patients (766 knees) receiving conventional TKA."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "We evaluated 674 patients (724 knees) in each group for clinical and radiographic outcomes"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Knee Society knee scores (93 \u00b1 5 points in the robotic-assisted TKA group versus 92 \u00b1 6 points in the conventional TKA group [95% confidence interval 90 to 98]; p = 0.321)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "In each group, 2% of knees (15) had a superficial infection treated with intravenous antibiotics for 2 weeks."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

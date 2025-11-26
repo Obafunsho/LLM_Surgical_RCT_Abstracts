@@ -1,0 +1,74 @@
+{
+  "pmcid": "11445981",
+  "sha256": "0882106e38ff9b65e8dcbef2f0fb5af83d6a83e848310f6dbcc80b74ae786c37",
+  "timestamp_utc": "2025-11-09T15:19:26.185278+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.532122431865826,
+    "reading_ease": 39.197101886792495,
+    "word_count": 477
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background In determining mechanical characteristics, the accuracy of the thickness of the specimens can influence the biomechanical behavior, especially in the case of human tissues, where there is an important variability."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "In this study, we used 12 tubular vena cava specimens obtained from common breed pigs aged 18-24 weeks at the time of sacrifice from a local slaughterhouse."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aims to compare the accuracy of two routine measuring instruments, i.e., the digital vernier caliper and the digital thickness gauge, when measuring the thickness of venous specimens multiple times."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare the accuracy of two routine measuring instruments, i.e., the digital vernier caliper and the digital thickness gauge, when measuring the thickness of venous specimens multiple times."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "In the first protocol, we observed lower values during the first measurement in comparison to the second (0.409 ± 0.063 vs. 0.536 ± 0.064, p < 0.0001) and the third (0.409 ± 0.063 vs. 0.528 ± 0.055, p = 0.0001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

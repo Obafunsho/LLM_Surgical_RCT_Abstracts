@@ -1,0 +1,74 @@
+{
+  "pmcid": "3320770",
+  "sha256": "ed45e805c7b4689e112f2316f3c004d867e1c8846498ea3e5efb0994c27268af",
+  "timestamp_utc": "2025-11-09T23:48:06.584916+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.696200000000001,
+    "reading_ease": 26.30110000000002,
+    "word_count": 250
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Circulating Tumor Cell Prognostic Utility in Stage IV Resected Melanoma Patients"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Conducted as a prospective international phase III randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included resected stage IV melanoma"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive adjuvant therapy with a whole-cell melanoma vaccine plus Bacille Calmette-Guerin (BCG) or placebo plus BCG"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the prognostic utility of circulating tumor cells (CTCs) in stage IV resected melanoma patients"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Pretreatment CTC status was significantly associated with disease-free survival (DFS) (HR 1.64, p=0.002) and overall survival (OS) (HR 1.53, p=0.028)"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 244 patients were randomised, with 122 in each group"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Pretreatment CTC status was significantly associated with disease-free survival (DFS) (HR 1.64, p=0.002) and overall survival (OS) (HR 1.53, p=0.028)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00052156"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

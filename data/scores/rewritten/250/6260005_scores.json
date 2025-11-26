@@ -1,0 +1,74 @@
+{
+  "pmcid": "6260005",
+  "sha256": "5f94d6cbf992946428454b66a3cf505276b60f3e5c21bf748020fe9f2d799657",
+  "timestamp_utc": "2025-11-09T22:49:35.165467+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.952931034482763,
+    "reading_ease": 28.022672413793117,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Robotic-Assisted and Hand-Rasped Techniques in Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized to either robotic-assisted (75 hips, 69 patients) or hand-rasped (71 hips, 61 patients) groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included 130 patients eligible for primary cementless THA, randomized to either robotic-assisted (75 hips, 69 patients) or hand-rasped (71 hips, 61 patients) groups."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to either robotic-assisted (75 hips, 69 patients) or hand-rasped (71 hips, 61 patients) groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to compare the long-term outcomes of robotic-assisted versus hand-rasped femoral component insertion in total hip arthroplasty (THA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Japanese Orthopaedic Association (JOA) score, measured at a minimum follow-up of 10 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants included 130 patients eligible for primary cementless THA, randomized to either robotic-assisted (75 hips, 69 patients) or hand-rasped (71 hips, 61 patients) groups."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "At a mean follow-up of 135 months, 115 patients (88%) were available for analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "JOA scores showed no significant difference between groups (robotic: 97 ± 5, hand-rasped: 96 ± 7; mean difference 1.4; p = 0.159)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Heterotopic ossification was observed in 30% of the robotic group and 19% of the hand-rasped group (p = 0.186), with no Grade 4 cases."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

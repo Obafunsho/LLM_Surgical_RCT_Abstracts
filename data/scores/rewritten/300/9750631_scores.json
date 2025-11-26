@@ -1,0 +1,74 @@
+{
+  "pmcid": "9750631",
+  "sha256": "01512be27cbfceece27a5533b1af104698f95f2bacd830b8742d762cbe2b8917",
+  "timestamp_utc": "2025-11-10T00:13:13.537272+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.490591561548502,
+    "reading_ease": 42.536030882992634,
+    "word_count": 242
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Pexidartinib for Pain Relief in Tenosynovial Giant Cell Tumor"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were adults with symptomatic TGCT, randomized 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults with symptomatic TGCT"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized 1:1 to receive pexidartinib (n=61) or placebo (n=59)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "assessed the efficacy of pexidartinib in reducing pain in adults with tenosynovial giant cell tumor"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was a ≥30% decrease in weekly mean worst-pain NRS score with <30% increase in narcotic use from baseline to week 25"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was via an integrated web response system, with allocation concealment"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomized 1:1 to receive pexidartinib (n=61) or placebo (n=59)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Pain response was observed in 31% (19/61) of the pexidartinib group versus 15% (9/59) of the placebo group"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Pain response was observed in 31% (19/61) of the pexidartinib group versus 15% (9/59) of the placebo group (p=0.03)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included liver toxicity"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02371369"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

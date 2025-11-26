@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients predicted to receive MT at 12 level-1 trauma centers were randomized to two separate transfusion ratios as described in the PROPPR trial."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients predicted to receive MT at 12 level-1 trauma centers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to two separate transfusion ratios as described in the PROPPR trial"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The current study sought to examine the impact of timing of first cooler delivery on patient outcomes."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The impact of these times on mortality and time to hemostasis were examined"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "ABC score or clinician gestalt prediction of MT was used to randomize patients"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Among 680 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "An increase in both time to MT activation and time to arrival of first cooler were associated with prolonged time to achieving hemostasis (coef 1.09, p=0.001 and coef. 1.16, p < 0.001, respectively). Increased time to MT activation and time to arrival of first cooler were associated with increased mortality (OR 1.02, p=0.009 and OR 1.02, p = 0.012, respectively). Controlling for injury severity, physiology, resuscitation intensity, and treatment arm (1:1:1 vs. 1:1:2), increased time to arrival of first cooler was associated with an increased mortality at 24-hours (OR 1.05, p = 0.035) and 30-days (OR 1.05, p = 0.016)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

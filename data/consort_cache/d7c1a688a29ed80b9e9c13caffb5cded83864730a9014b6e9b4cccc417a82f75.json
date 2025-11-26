@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Conclusion and Relevance: In this randomized clinical trial, E-SPN was associated with reduced nosocomial infections in patients undergoing abdominal surgery and seems to be a favorable strategy for patients with high nutritional risk and poor tolerance to EN after major abdominal surgery."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A multicenter randomized clinical trial was conducted from April 1, 2017, to December 31, 2018, in the general surgery department of 11 tertiary hospitals in China."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were those undergoing major abdominal surgery with high nutritional risk and poor tolerance to EN (\u226430% of energy targets from EN on postoperative day 2, calculated as 25 and 30 kcal/kg of ideal body weight daily for women and men, respectively) and an expected postoperative hospital stay longer than 7 days."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Interventions: Random allocation to E-SPN (starting on day 3 after surgery) or L-SPN (starting on day 8 after surgery)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To examine the effect of early supplemental parenteral nutrition (E-SPN) (day 3 after surgery) or late supplemental parenteral nutrition (L-SPN) (day 8 after surgery) on the incidence of nosocomial infections in patients undergoing major abdominal surgery who are at high nutritional risk and have poor tolerance to EN."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of nosocomial infections between postoperative day 3 and hospital discharge."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Random allocation to E-SPN (starting on day 3 after surgery) or L-SPN (starting on day 8 after surgery)."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 230 patients (mean [SD] age, 60.1 [11.2] years; 140 men [61.1%]; all patients were of Han race and Asian ethnicity) were randomized (115 to the E-SPN group and 115 to the L-SPN group)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "One patient in the L-SPN group withdrew informed consent before the intervention."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The E-SPN group had significantly fewer nosocomial infections compared with the L-SPN group (10/115 [8.7%] vs 21/114 [18.4%]; risk difference, 9.7%; 95% CI, 0.9%-18.5%; P =\u2009.04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences were found between the E-SPN group and the L-SPN group in the mean (SD) number of noninfectious complications (31/115 [27.0%] vs 38/114 [33.3%]; risk difference, 6.4%; 95% CI, \u22125.5% to 18.2%; P =\u2009.32), total adverse events (75/115 [65.2%] vs 82/114 [71.9%]; risk difference, 6.7%; 95% CI, \u22125.3% to 18.7%; P =\u2009.32), and rates of other secondary outcomes."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT03115957"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

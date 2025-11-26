@@ -1,0 +1,74 @@
+{
+  "pmcid": "10776840",
+  "sha256": "be7646a284a5535eb3be464dbf8d285c305dcbc242cb5d3de7549dc4383b73b1",
+  "timestamp_utc": "2025-11-09T15:11:49.558770+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.115205574912896,
+    "reading_ease": 27.942192799070853,
+    "word_count": 287
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "postoperative ICU patients"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty-three patients (Aorta n = 5, LuTx n = 9, Comparison n = 9)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Twenty-three patients (Aorta n = 5, LuTx n = 9, Comparison n = 9) were included in the final analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Concentrations of total EVs, EryEVs, total PEVs, and GEVs increased after transfusion compared with baseline in the entire cohort but not in specific study groups."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Clinicaltrials.gov: NCT03782623"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

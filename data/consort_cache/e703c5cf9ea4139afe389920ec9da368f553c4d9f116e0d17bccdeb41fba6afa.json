@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Design, Setting, and Participants: For this randomized clinical trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "patients with established type 2 diabetes and microalbuminuria were recruited from a single center from April 1, 2013, through March 31, 2016, with a 5-year follow-up"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with established type 2 diabetes and microalbuminuria were recruited from a single center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized 1:1 to receive best medical treatment (n\u2009=\u200949) or RYGB (n\u2009=\u200951)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To compare the albuminuria-lowering effects of Roux-en-Y gastric bypass (RYGB) surgery vs best medical treatment"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was remission of albuminuria (uACR <30 mg/g)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized 1:1"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 100 patients (mean [SD] age, 51.4 [7.6] years; 55 [55%] male) were randomized: 51 to RYGB and 49 to best medical care."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 100 patients (mean [SD] age, 51.4 [7.6] years; 55 [55%] male) were randomized: 51 to RYGB and 49 to best medical care."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Remission of albuminuria occurred in 55% of patients (95% CI, 39%-70%) after best medical treatment and 82% of patients (95% CI, 72%-93%) after RYGB ( P =\u2009.006)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No difference in the rate of serious adverse events was observed."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT01821508"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

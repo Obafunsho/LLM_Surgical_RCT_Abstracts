@@ -1,0 +1,74 @@
+{
+  "pmcid": "11189967",
+  "sha256": "5c5727f26cba7b72d7b05e862716033a43b2d8a2d94a6df7f060881234401125",
+  "timestamp_utc": "2025-11-09T15:15:55.746833+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.85828016643551,
+    "reading_ease": 36.25242718446603,
+    "word_count": 206
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Purpose: To evaluate the safety and efficacy of new staple-line reinforcement (SLR) in pulmonary resection through a prospective study and to compare the results of this study with historical control data in an exploratory study."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "The subjects of this study were 48 patients who underwent thoracoscopic lobectomy."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "The use of SLR in pulmonary resection was safe and effective."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Purpose: To evaluate the safety and efficacy of new staple-line reinforcement (SLR) in pulmonary resection through a prospective study and to compare the results of this study with historical control data in an exploratory study."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was air leakage from the staple line."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The subjects of this study were 48 patients who underwent thoracoscopic lobectomy."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "When compared with the historical group, the SLR group had a significantly lower incidence of air leakage from the staple line (6.3% vs. 28.5%, P < 0.001) and significantly shorter indwelling chest drainage time ( P = 0.049) and length of hospital stay ( P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Three patients had prolonged air leakage as a postoperative pulmonary complication."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

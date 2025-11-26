@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods:: A randomized, parallel, open-label trial in six university or regional hospitals in Sweden."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomized to either a physical activity intervention with aerobic activity and inspiratory muscle training 2 weeks pre- and 4 weeks postoperatively or usual care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Inclusion criteria were age \u226520\u200ayears and planned elective colorectal cancer surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized to either a physical activity intervention with aerobic activity and inspiratory muscle training 2 weeks pre- and 4 weeks postoperatively or usual care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective:: To determine the effect of a short-term, unsupervised exercise intervention before and after colorectal cancer surgery on self-assessed physical recovery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome measure was self-assessed physical recovery 4 weeks postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomized to either a physical activity intervention with aerobic activity and inspiratory muscle training 2 weeks pre- and 4 weeks postoperatively or usual care."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Outcome assessors were masked regarding the intervention while both participants and physiotherapists were informed due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between January 22, 2015, and May 28, 2020, 761 participants were recruited and assigned to either intervention (I) (n = 379) or control (C) (n = 382)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "After exclusions 668 participants ( I = 317, C = 351) were included in the primary analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There was no effect from the intervention on the primary outcome measure (adjusted odds ratio 0.84, 95% confidence interval 0.62\u20131.15) with 13% and 15% of participants feeling fully physically recovered in I and C, respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no reported adverse events."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

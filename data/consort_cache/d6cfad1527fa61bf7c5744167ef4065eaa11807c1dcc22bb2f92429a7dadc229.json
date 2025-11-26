@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized, double-masked fashion"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "ambulatory subjects following foot procedures"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "subjects received 5 minutes of either stimulation or sham"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purposes of this proof-of-concept study were to demonstrate the feasibility of using percutaneous sciatic nerve PNS to treat postoperative pain following ambulatory foot surgery"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "pain scores decreased to 52% of baseline"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized, double-masked fashion"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-masked fashion"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "subjects randomized to stimulation (n = 4)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "pain scores decreased to 52% of baseline (n = 7)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "pain scores decreased to 52% of baseline"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One lead dislodged, 2 fractured during use, and 1 fractured during intentional withdrawal"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "This study was registered at Clinicaltrials.gov, identifier NCT02898103"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

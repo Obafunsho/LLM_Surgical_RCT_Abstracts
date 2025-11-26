@@ -1,0 +1,74 @@
+{
+  "pmcid": "6282568",
+  "sha256": "74db99df089ab6744b72268afbf8acab6daa34e41c3b26b417f4b45b5fe41174",
+  "timestamp_utc": "2025-11-10T00:01:04.186402+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.91800829875519,
+    "reading_ease": 28.296469837216733,
+    "word_count": 241
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of High-Flow Nasal Oxygen in High-Risk Cardiac Surgical Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "100 adult patients scheduled for elective cardiac surgery were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included COPD, asthma, recent lower respiratory tract infection, BMI ≥35 kg/m², or heavy smoking."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive HFNO (n=51) or standard oxygen therapy (n=49)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assessed the efficacy of high-flow nasal oxygen (HFNO) in reducing hospital length of stay compared to standard oxygen therapy"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was hospital length of stay, measured from surgery to discharge."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment via a centralised online system."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Surgical and nursing teams responsible for discharge were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "100 adult patients scheduled for elective cardiac surgery were randomised 1:1"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "randomised 1:1 to receive HFNO (n=51) or standard oxygen therapy (n=49)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The geometric mean hospital stay was 29% lower in the HFNO group (95% CI 11–44%, p=0.004)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "10843150",
+  "sha256": "37a99d9f7473666b31cca920b696c09b77bff98da7d175e8ed8c0f5ce4393556",
+  "timestamp_utc": "2025-11-09T23:10:02.120172+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.087544724351954,
+    "reading_ease": 21.390418948521386,
+    "word_count": 249
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Mental Health Intervention in Trauma Centers"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomized controlled trial, 171 patients with traumatic injuries were randomized"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "171 patients with traumatic injuries"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "mental health intervention (n=85) or enhanced usual care control (n=86)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the impact of a mental health intervention on healthcare utilization and potential cost savings."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was emergency department/inpatient utilization over a 5-year follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "171 patients with traumatic injuries were randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "15.5% vs. 26.7%, RR = 0.58, 95% CI 0.34, 1.00"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

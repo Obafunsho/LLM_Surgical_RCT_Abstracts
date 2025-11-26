@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Amiodarone for POAF Prevention in CABG Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial included 454 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "moderate and high-risk patients undergoing elective coronary artery bypass grafting (CABG)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Moderate and high-risk patients received amiodarone with beta blockers (Amiodarone group), while low-risk patients received beta blockers only."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effect of amiodarone on POAF incidence and onset timing"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was POAF incidence, measured over the hospital stay."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "227 patients were randomised to each group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The relative risk reduction was 27% (RR = 0.27, 95% CI = 0.105-0.689, p = 0.006)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: N/A."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

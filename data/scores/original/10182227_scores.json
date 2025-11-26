@@ -1,0 +1,74 @@
+{
+  "pmcid": "10182227",
+  "sha256": "d4e4ed2a76856f99691ec25daf74752c5d1804f805c5a2de7f69cedeef955863",
+  "timestamp_utc": "2025-11-09T15:05:27.548022+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.233616071428575,
+    "reading_ease": 18.41406250000003,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This single-center retrospective study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "11,210 cases out of 13,226 adult patients were included in the analysis"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "moderate to very severe hypotension occurred in 86.3% of the patients for at least 1 to 5 min"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "11,210 cases out of 13,226 adult patients were included in the analysis"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "moderate to very severe hypotension occurred in 86.3% of the patients"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

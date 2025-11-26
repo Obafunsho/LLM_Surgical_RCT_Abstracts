@@ -1,0 +1,74 @@
+{
+  "pmcid": "11602850",
+  "sha256": "678d8a4137ae469b5c27f15d42c1bc6ea08c420028c92e35665cf35d27095e68",
+  "timestamp_utc": "2025-11-09T22:05:39.706240+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.015528384279477,
+    "reading_ease": 21.769901018922894,
+    "word_count": 229
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Incidence and Impact of Rib Fracture in Thoracotomy: A Retrospective Analysis"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients over 18 years undergoing thoracotomy, excluding those with traumatic etiology or osteoporosis."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the incidence of rib fractures, associated risk factors, and their relationship with post-operative pain and complications."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Pain was assessed using the Visual Analogue Scale, and 30-day post-operative complications were recorded."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 367 patients were included, with a median age of 68 years."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Rib fractures were detected in 179 patients (48.8%). The incidence remained consistent over the years (p = 0.98). Age greater than the median was significantly associated with rib fractures (p = 0.003). Patients with rib fractures experienced higher evoked pain at 48 hours post-surgery (p = 0.039) and a higher incidence of complications (32/179 vs 20/188; p = 0.047)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Patients with rib fractures experienced higher evoked pain at 48 hours post-surgery (p = 0.039) and a higher incidence of complications (32/179 vs 20/188; p = 0.047)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

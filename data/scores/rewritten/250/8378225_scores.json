@@ -1,0 +1,74 @@
+{
+  "pmcid": "8378225",
+  "sha256": "22e306001ae006df6d6998e754658a4fb4080bfd0742c1beaf6cf333b5f17dce",
+  "timestamp_utc": "2025-11-09T22:58:13.054388+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.126450167973125,
+    "reading_ease": 37.321052631578965,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Open-Label Placebo and Conditioning in Postoperative Pain Management: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The unit of randomisation was the individual patient."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients undergoing spine surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either the COLP group or a treatment-as-usual group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the efficacy of combining conditioning with open-label placebos (COLP) to reduce opioid use and postsurgical pain in spine surgery patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was daily opioid consumption measured in morphine milligram equivalents from postoperative day (POD) 1 to POD 17."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not applied to patients or clinicians, but outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 100 to the COLP group and 100 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients in the COLP group consumed 30% less daily morphine milligram equivalents compared to the control group (−14.5; 95% CI: [−26.8, −2.2])."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

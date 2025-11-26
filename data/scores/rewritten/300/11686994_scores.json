@@ -1,0 +1,74 @@
+{
+  "pmcid": "11686994",
+  "sha256": "d432edbe4a52f300511a87ebaa308e7675ec13f46ae48eee1b0c5515e694db2f",
+  "timestamp_utc": "2025-11-09T23:18:58.210186+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.668702830188682,
+    "reading_ease": 38.239783805031465,
+    "word_count": 265
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Lateral Lymph Node Involvement in Rectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A post hoc analysis of the OPRA trial, a multicenter randomised controlled trial, was conducted."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included rectal cancer with LLN involvement."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients with locally advanced rectal cancer were treated with total neoadjuvant therapy (TNT) followed by total mesorectal excision or watch-and-wait management."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses LLN involvement in rectal adenocarcinoma patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was disease recurrence, assessed over a follow-up period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was centralised, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 324 patients, 57 (18%) had visible LLN (LLN+) on baseline MRI."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Post-TNT, LLN disappeared in 30 (53%) of these patients."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Disease recurrence in LLN was rare, occurring in 3.5% of LLN+ and 0.4% of LLN− patients."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source]."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

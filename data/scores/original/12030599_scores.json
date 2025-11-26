@@ -1,0 +1,74 @@
+{
+  "pmcid": "12030599",
+  "sha256": "94317629e7fdc63ba5c27423660add9014b45c4fa8e8c96f87a4396d9aa76433",
+  "timestamp_utc": "2025-11-09T15:28:35.366087+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.609763215859033,
+    "reading_ease": 7.164307085168872,
+    "word_count": 227
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "adults receiving remifentanil-based anesthesia"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing intravenous magnesium vs. placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We aimed to assess whether intravenous magnesium reduces postoperative pain, analgesic requirements, and hyperalgesia in adults receiving remifentanil-based anesthesia."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes were postoperative analgesic requirements and pain scores"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty-two RCTs ( n = 1362) met eligibility."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Magnesium significantly decreased 24 h analgesic requirements (standardized mean difference [SMD] −1.51; 95% confidence interval [CI] −2.15 to −0.87; p < 0.0001) and pain scores (SMD −0.61; 95% CI −0.90 to −0.32; p < 0.0001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "without prolonging extubation or increasing hypotension/bradycardia risk"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "PROSPERO registration: CRD42024609911"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "5599384",
+  "sha256": "54eee6f828097f21aceb53d75238b2656e3e456c837da1e80d420d8c53ffbe05",
+  "timestamp_utc": "2025-11-09T16:04:47.464626+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.961813576494428,
+    "reading_ease": 30.840000000000032,
+    "word_count": 564
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This randomized trial found few differences between an ACL rehabilitation program consisting of strengthening, agility, and secondary prevention and one consisting of those elements as well as perturbation training."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Forty men who had completed ACL reconstruction rehabilitation and met enrollment criteria (3–9 months after ACL reconstruction, > 80% quadriceps strength limb symmetry, no pain, full ROM, minimal effusion) were randomized into the SAP or SAP+PERT groups of the Anterior Cruciate Ligament-Specialised Post-Operative Return to Sports trial (ACL-SPORTS), a single-blind randomized clinical study of secondary prevention and return to sport."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Forty men who had completed ACL reconstruction rehabilitation and met enrollment criteria (3–9 months after ACL reconstruction, > 80% quadriceps strength limb symmetry, no pain, full ROM, minimal effusion) were randomized into the SAP or SAP+PERT groups of the Anterior Cruciate Ligament-Specialised Post-Operative Return to Sports trial (ACL-SPORTS), a single-blind randomized clinical study of secondary prevention and return to sport."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Forty men who had completed ACL reconstruction rehabilitation and met enrollment criteria (3–9 months after ACL reconstruction, > 80% quadriceps strength limb symmetry, no pain, full ROM, minimal effusion) were randomized into the SAP or SAP+PERT groups of the Anterior Cruciate Ligament-Specialised Post-Operative Return to Sports trial (ACL-SPORTS), a single-blind randomized clinical study of secondary prevention and return to sport."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose of this study was to determine whether there were differences at 1 and 2 years after ACL reconstruction between the male SAP (strengthening, agility, and secondary prevention) and SAP+PERT (SAP protocol with the addition of perturbation training) groups with respect to (1) quadriceps strength and single-legged hop limb symmetry; (2) patient-reported knee outcome scores; (3) the proportion who achieve self-reported normal knee function; and (4) the time from surgery to passing return to sport criteria."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Quadriceps strength, single-legged hopping, the International Knee Documentation Committee (IKDC) 2000 subjective knee form, Knee Injury and Osteoarthritis Outcome Score (KOOS)-sports and recreation, and KOOS-quality-of-life subscales were collected 1 and 2 years after surgery by investigators blind to group."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Forty men who had completed ACL reconstruction rehabilitation and met enrollment criteria (3–9 months after ACL reconstruction, > 80% quadriceps strength limb symmetry, no pain, full ROM, minimal effusion) were randomized into the SAP or SAP+PERT groups of the Anterior Cruciate Ligament-Specialised Post-Operative Return to Sports trial (ACL-SPORTS), a single-blind randomized clinical study of secondary prevention and return to sport."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "a single-blind randomized clinical study"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty men who had completed ACL reconstruction rehabilitation and met enrollment criteria"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There were no differences between groups for quadriceps symmetry (1 year: SAP = 101% ± 14%, SAP+PERT = 101% ± 14%; 2 years: SAP = 103% ± 11%, SAP+PERT = 98% ± 14%; mean differences between groups at 1 year: 0.4 [−9.0 to 9.8], 2 years = 4.5 [−4.3 to 13.1]; mean difference between 1 and 2 years: SAP = −1.0 [−8.6 to 6.6], SAP+PERT = 3.0 [−4.3 to 10.3], p = 0.45) or single-legged hop test limb symmetry."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

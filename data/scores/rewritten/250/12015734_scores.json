@@ -1,0 +1,74 @@
+{
+  "pmcid": "12015734",
+  "sha256": "a17bcacb5eeb8d0e4b010cc9fa958162545396bb349da60cc01123bda74be3cb",
+  "timestamp_utc": "2025-11-09T22:13:02.724583+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.476302876480542,
+    "reading_ease": 17.937556401579258,
+    "word_count": 197
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of a Novel Disposable Leukocyte Remover in Cardiopulmonary Bypass"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This substudy within a registered clinical trial (NCT05400356) involved seven patients undergoing CPB at West China Hospital, Sichuan University."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "seven patients undergoing CPB at West China Hospital, Sichuan University."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention was a disposable leukocyte remover with an RGD peptide-coated membrane, integrated into an extracorporeal circuit."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates a novel leukocyte remover to mitigate these effects."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the reduction in activated neutrophils, measured over 10 minutes."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "seven patients undergoing CPB"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Neutrophil counts and those expressing CD11b, CD54, CD64, or CD181 decreased by 36–39% within 2.5 minutes, with slower declines thereafter."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "No significant changes in leukocyte morphology were observed."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: NCT05400356"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

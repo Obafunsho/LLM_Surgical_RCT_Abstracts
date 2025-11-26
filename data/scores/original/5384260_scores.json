@@ -1,0 +1,74 @@
+{
+  "pmcid": "5384260",
+  "sha256": "82c40368460da698fc24d20905011b77977101b00fd8092055157c1987da7020",
+  "timestamp_utc": "2025-11-09T16:03:34.177320+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.12466666666667,
+    "reading_ease": 15.079000000000036,
+    "word_count": 300
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Design: Prospective phase II trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with stage cT2N0 rectal adenocarcinomas"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "treated with an oxaliplatin/capecitabine-based chemoradiation regimen followed by local excision"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: Prospectively assess anorectal function and health-related quality of life"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "assessed at enrollment and 1 year postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seventy-one (98%) patients were evaluated at enrollment and 66 (92%) at 1 year"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Seventy-one (98%) patients were evaluated at enrollment and 66 (92%) at 1 year"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Fecal Incontinence Quality of Life results were significantly worse in the lifestyle (p<0.001), coping/behavior (p<0.001) and embarrassment (p=0.002) domains"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "9090984",
+  "sha256": "e48df05641e0459fb32c507abdd5b5cb1cbd4131e7dd6a35b080d3c706a8fd77",
+  "timestamp_utc": "2025-11-09T16:20:10.235013+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.721037541254127,
+    "reading_ease": 30.419378094059425,
+    "word_count": 303
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this double-blind, placebo-controlled trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients at high risk of postoperative AF scheduled to undergo major thoracic surgery were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients at high risk of postoperative AF scheduled to undergo major thoracic surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to N-acetylcysteine plus amiodarone or placebo plus amiodarone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that N-acetylcysteine mitigates inflammation and oxidative stress to reduce the incidence of postoperative AF."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was sustained AF >30 s by telemetry (first 72 h) or symptoms requiring intervention and confirmed by ECG within 7 days of surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "In this double-blind, placebo-controlled trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Among 154 patients included"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "postoperative AF occurred in 15 of 78 who received N-acetylcysteine (19%) and 13 of 76 who received placebo (17%)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "odds ratio, 1.24; 95.1% confidence interval, 0.53–2.88; p =0.615"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

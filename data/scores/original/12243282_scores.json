@@ -1,0 +1,74 @@
+{
+  "pmcid": "12243282",
+  "sha256": "ffd26cb16f5bbbc7a2f951ea9e7aa700d9ced8152c97ac8edfae008d95bd05ec",
+  "timestamp_utc": "2025-11-09T15:34:48.535030+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.656595441595442,
+    "reading_ease": 39.05275641025645,
+    "word_count": 351
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "block randomization method"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "141 patients with severe hemorrhoids were included"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "the TST group, the pieces per hour the PPH group, and the eastern rubber band ligation and coincident of dislocation for prolapse and hemorrhoid (EPH)group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the ability of tissue-selective therapy stapler (TST) minimally invasive surgery to treat severe hemorrhoids"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The clinical efficacy of the three groups of patients, changes in hospital stay time, operation time, intraoperative blood loss, postoperative complications, and anal dynamic indicators"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "block randomization method"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "141 patients with severe hemorrhoids were included into three groups"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "47 patients in each group"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The total effective rate in the TST group was 93.62%, which was higher than the 74.47% and 72.34% in the PPH and EPH groups"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "the complication rate in the TST group was 10.64%, which was lower than the 27.66% and 31.91% reported in the PPH and EPH groups"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

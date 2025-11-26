@@ -1,0 +1,74 @@
+{
+  "pmcid": "11064885",
+  "sha256": "0850da06dd7ec9b2f24766d8b6e7dc015bc1cc9d00c955e8b762217bd6b15569",
+  "timestamp_utc": "2025-11-09T15:14:43.549967+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.465497352668255,
+    "reading_ease": 39.16858899947238,
+    "word_count": 901
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We included randomised controlled trials which compared supervised exercise training following lower limb revascularisation with standard care following lower limb revascularisation in adults (18 years and older) with PAD."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We included randomised controlled trials which compared supervised exercise training following lower limb revascularisation with standard care following lower limb revascularisation in adults (18 years and older) with PAD."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "All studies involved participants who received either additional supervised exercise or standard care after lower limb revascularisation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the effects of a supervised exercise programme versus standard care following successful lower limb revascularisation in people with PAD."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Our primary outcomes were maximum walking distance or time (MWD/T) on the treadmill, six‐minute walk test (6MWT) total distance, and pain‐free walking distance or time (PFWD/T) on the treadmill."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We identified seven studies involving 376 participants."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Meta‐analysis comparing changes in maximum walking distance from baseline to end of follow‐up showed no improvement (MD 159.47 m, 95% CI ‐36.43 to 355.38; I 2 = 0 %; 2 studies, 89 participants)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "studies did not report any harm to participants from this intervention after lower limb revascularisation."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

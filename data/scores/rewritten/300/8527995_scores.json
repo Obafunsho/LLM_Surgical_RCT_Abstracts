@@ -1,0 +1,74 @@
+{
+  "pmcid": "8527995",
+  "sha256": "9a859c966aeac2b8518ef89d6015964f7af135ec7bddaf7ae5bb6a0c7a143fad",
+  "timestamp_utc": "2025-11-10T00:09:48.069556+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.18067741935484,
+    "reading_ease": 36.98851612903229,
+    "word_count": 248
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of EC-IC Bypass in AICAO Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants with recurrent hemispheric ischemia (rHEMI+) and without (rHEMI−) were randomised"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Participants with recurrent hemispheric ischemia (rHEMI+) and without (rHEMI−)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either EC-IC bypass surgery or medical management"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of all stroke and death from randomisation through 30 days and ipsilateral ischemic stroke within 2 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Due to the nature of the intervention, blinding was not feasible"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 195 participants were randomised"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was conducted on an intention-to-treat basis"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant differences in the primary endpoint were found between surgical and nonsurgical groups in rHEMI+ (26.3% vs 22.4%, P = .660) and rHEMI− (18.9% vs 19.5%, P = .943)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

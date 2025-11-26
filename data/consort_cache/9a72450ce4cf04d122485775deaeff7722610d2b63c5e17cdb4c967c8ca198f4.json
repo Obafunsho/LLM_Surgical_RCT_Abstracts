@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Pharmacokinetics and Safety of Oxycodone/Naloxone Prolonged-Release Tablets in Chinese Patients: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "single-center, single-dose, randomised, open-label, two-period crossover trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "72 patients aged 18-55 with non-cancer chronic pain. Conducted at West China Hospital, Sichuan University"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive either the brand-name or generic formulation"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the pharmacokinetics and safety of brand-name and generic oxycodone/naloxone prolonged-release tablets in Chinese patients with chronic pain."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pharmacokinetic parameters measured over 48 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "In the fasting study, 36 participants were randomised, with 35 analysed. In the fed study, 36 were randomised, with 34 analysed."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "In the fasting study, 36 participants were randomised, with 35 analysed. In the fed study, 36 were randomised, with 34 analysed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Both formulations were bioequivalent, with geometric least-squares mean ratios for C max, AUC 0-t, and AUC 0-\u221e within 80.00%-125.00%."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No serious adverse events were reported. Mild adverse events occurred in 33.3% of the generic and 30.6% of the brand-name groups in the fasting study, and 25.7% and 27.8% in the fed study, respectively."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: CTR20212790, ChiCTR2000029198"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Shandong Luye Pharma Co., Ltd."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

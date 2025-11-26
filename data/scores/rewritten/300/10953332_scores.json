@@ -1,0 +1,74 @@
+{
+  "pmcid": "10953332",
+  "sha256": "3d5c151bf0286f0badb4a40d329afdad79547411f4400c3fa18b10b7b8804922",
+  "timestamp_utc": "2025-11-09T23:10:45.209231+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.510871774029667,
+    "reading_ease": 15.306283275756982,
+    "word_count": 259
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Simulated Altitude Exposure for Preoperative Optimisation"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised, double-blind, sham-controlled crossover trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eight participants aged 50-70 years, with a sedentary lifestyle"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to experience one week each of normoxic and hypoxic conditions"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the physiological effects of one week of simulated altitude in older sedentary volunteers."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in anaerobic threshold, measured via cardiopulmonary exercise testing (CPET) before and after each exposure."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was block-based, and participants, outcome assessors, and clinicians were blinded."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "participants, outcome assessors, and clinicians were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Eight participants"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All eight participants completed the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "hypoxia induced a significant increase in haemoglobin (mean increase 1.5 g/dl, 13%, p=0.028)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients having knee arthroplasty with femoral nerve catheters were randomly assigned"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients having knee arthroplasty"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "1) ultrasound alone (n=147); 2) ultrasound and electrical stimulation through the needle (n=152); or, 3) ultrasound and electrical stimulation through both the needle and catheter (n=138)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We tested the primary hypothesis that ultrasound guidance alone is noninferior on both postoperative pain scores and opioid requirement and superior on at least one of the two."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Noninferiority between any two interventions was defined for pain as no more than 0.5 points worse on a 0\u201310 Verbal Response Scale (VRS) scale and for opioid consumption as no more than 25% greater than the mean."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients having knee arthroplasty with femoral nerve catheters were randomly assigned"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "1) ultrasound alone (n=147); 2) ultrasound and electrical stimulation through the needle (n=152); or, 3) ultrasound and electrical stimulation through both the needle and catheter (n=138)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "difference (95% CI) in mean VRS pain score [stimulating needle versus stimulating catheter] of \u22120.16 (\u22120.61, 0.29), P<0.001; percent difference in mean IV morphine equivalent dose of \u22125% (\u221225%, 21%), P=0.002"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Biventricular Pacing After Cardiac Surgery: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomised to either continuous biventricular pacing (n = 16) or standard of care (n = 18)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients undergoing cardiac surgery, eligible based on risk of left ventricular dysfunction. The study was conducted in a cardiac surgery unit."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compare biventricular pacing with atrial pacing"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective was to compare biventricular pacing with atrial pacing in terms of hemodynamic outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was hemodynamic improvement, measured by cardiac output and vasoactive-inotropic score, over the first 24 hours post-bypass."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 34 patients were randomised and analysed."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 34 patients were randomised and analysed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 12 to 24 hours post-bypass, intrinsic heart rate was lower in the paced group (76.5 \u00b1 17.5 vs 91.7 \u00b1 13.0 beats per minute; P = .040). Cardiac output increased in the paced group (4.4 \u00b1 1.2 vs 3.6 \u00b1 1.9 L/min; P = .054)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Structured Exercise in ERAS Protocols"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation methods and allocation concealment were not specified."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Eligibility criteria encompassed studies reporting on postoperative complications, length of hospital stay (LOS), and overall recovery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Structured exercise interventions, including aerobic activities and resistance training, were linked to reduced postoperative complications and shorter hospital stays."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the role of structured exercise within the Enhanced Recovery After Surgery (ERAS) protocol in improving postoperative outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was LOS reduction, measured immediately post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation methods and allocation concealment were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The effect size for LOS reduction was a mean difference of 1.5 days (95% CI 1.0 to 2.0; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

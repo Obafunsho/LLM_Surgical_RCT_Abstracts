@@ -1,0 +1,74 @@
+{
+  "pmcid": "12449477",
+  "sha256": "401f07b0ba3bc33e3f939fbdf3be052ea09e3b91430dd4f07567f37c2d1b2fe1",
+  "timestamp_utc": "2025-11-09T15:42:37.047108+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.95692964824121,
+    "reading_ease": 8.933987437185948,
+    "word_count": 199
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "treatment with anti-PD-L1-CRT"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Our research aimed to unravel the nuanced mechanisms involved in both immune attack and evasion induced by anti-PD-L1-CRT with single cell spatial transcriptome."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Posttreatment alterations included a significant increase in CXCL9 + cells and CXCL13 + T cells, particularly around tumour cells."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 3,
+    "max_score": 25
+  }
+}

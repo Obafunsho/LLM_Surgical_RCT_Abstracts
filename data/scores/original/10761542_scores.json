@@ -1,0 +1,74 @@
+{
+  "pmcid": "10761542",
+  "sha256": "7f4205675502b1bbcfb00375fe118c04667f8d0fc742c7469826fb27c9e63750",
+  "timestamp_utc": "2025-11-09T15:11:24.683006+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.999148629148632,
+    "reading_ease": 29.3525853775854,
+    "word_count": 308
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study investigated the effect of preoperative home-based exercise training (PHET) on QoL after LC surgery."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients awaiting LC resection were randomized to PHET or a control group (CG)."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients awaiting LC resection"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The PHET program combined aerobic and resistance exercise, with weekly telephone supervision."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigated the effect of preoperative home-based exercise training (PHET) on QoL after LC surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcome was QoL-assessed with the European Organization for Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire C30 (QLQ-C30) at baseline, before surgery, and 1 month after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients awaiting LC resection were randomized to PHET or a control group (CG)."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study included 41 patients (68.1 ± 9.3 years; 68.3% male) in the intention-to-treat analysis (20 PHET patients, 21 CG patients)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The study included 41 patients (68.1 ± 9.3 years; 68.3% male) in the intention-to-treat analysis (20 PHET patients, 21 CG patients)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Between-group differences in global QoL were statistically and clinically significant before surgery (mean difference [MD], 13.5 points; 95% confidence interval [CI], 2.4–24.6; p = 0.019) and after surgery (MD, 12.4 points; 95% CI, 1.3–23.4; p = 0.029), favoring PHET."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

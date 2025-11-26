@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial on Perioperative Airway Management"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The unit of randomisation was the expert panel, and a sample size calculation was not applicable."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included expertise in thoracic surgery, otolaryngology, general surgery, cardiac surgery, anesthesiology, and nursing. The study setting was a series of face-to-face meetings."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved a modified Delphi method to achieve consensus on airway management recommendations, with a comparator of previous consensus documents."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to update the expert consensus on airway management based on the latest research."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was achieving \u226570% agreement on recommendations, measured immediately after discussions."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not used."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A randomised controlled trial was conducted involving 62 domestic experts from various surgical and anesthetic specialties."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Consensus was achieved with \u226570% agreement among the 62 experts."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

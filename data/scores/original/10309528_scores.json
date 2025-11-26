@@ -1,0 +1,74 @@
+{
+  "pmcid": "10309528",
+  "sha256": "7a3f8020eeb7c79cf73510c49f57a44862be45bcc0c911e38f93844d09fffc75",
+  "timestamp_utc": "2025-11-09T15:06:23.323346+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.877622377622377,
+    "reading_ease": 22.328741258741303,
+    "word_count": 286
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "We included randomized control trials (RCTs) that compared NSAIDs alone or as an adjunct to opioids for systemic analgesia."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was opioid utilization."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We included 15 RCTs ( n = 1,621 patients)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Adjunctive NSAID therapy to opioids reduced 24-hour oral morphine equivalent consumption by 21.4 mg (95% CI, 11.8–31.0 mg reduction; high certainty)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Variability in reporting adverse outcomes (e.g., gastrointestinal bleeding, acute kidney injury) precluded their meta-analysis."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

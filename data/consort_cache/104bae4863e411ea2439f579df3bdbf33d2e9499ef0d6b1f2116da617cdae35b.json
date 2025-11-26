@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVES: To provide an overview on the effectiveness of perioperative oxygen therapy and formulate recommendations to inform clinical decision-making and research."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "A high fraction of inspired oxygen may result in a slight reduction in surgical site infection compared with a low fraction of inspired oxygen (risk ratio 0.91, 95% confidence interval 0.78 to 1.05; risk difference 1.2% lower, 2.9% lower to 0.7% higher, low-certainty evidence)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The evidence suggests that a high fraction of inspired oxygen results in a large increase in the incidence of atelectasis (risk ratio 1.47, 95% confidence interval 1.20 to 1.79; risk difference 6.5% higher, 2.8% higher to 10.9% higher, low-certainty evidence) and may increase postoperative pulmonary complications slightly."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "STUDY REGISTRATION: This study is registered as PROSPERO CRD42021272361."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "FUNDING: This award was funded by the National Institute for Health and Care Research (NIHR) Health Technology Assessment programme (NIHR award ref: NIHR132987) and is published in full in Health Technology Assessment; Vol. 29, No. 44."
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

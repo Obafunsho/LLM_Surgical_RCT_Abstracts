@@ -1,0 +1,74 @@
+{
+  "pmcid": "4397744",
+  "sha256": "bd9af89d2929c05a54d337e077e97a53463799986863c9cbc16a4ab5da366dc1",
+  "timestamp_utc": "2025-11-09T23:53:45.493850+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.053323193916352,
+    "reading_ease": 32.70558681875792,
+    "word_count": 263
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Botulinum Toxin Type A in Tibial Distraction Osteogenesis"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This double-blind, randomised controlled trial included 36 patients undergoing bilateral tibia lengthening"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants met prespecified inclusion criteria, including undergoing stature lengthening with either lengthening over a nail or lengthening and then nailing."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Each patient received a 200 IU BtX-A injection in one calf muscle, with the contralateral leg receiving a saline injection as a control."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the effect of Botulinum Toxin Type A (BtX-A) on reducing calf pain and improving range of motion (ROM) during tibial distraction osteogenesis."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the difference in calf pain measured by VAS scores and ROM of the knees and ankles, assessed until the end of the consolidation phase."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted at the leg level, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "This double-blind, randomised controlled trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "This double-blind, randomised controlled trial included 36 patients undergoing bilateral tibia lengthening from April 2010 to January 2011."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "There were no significant differences in calf pain, knee and ankle ROM, or maximal calf circumferences between the treated and control legs at any time point."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12380095",
+  "sha256": "aa6a8b912b234f492a0ccf4389aadd1f867c9cb6f2fb19c2fda31562745427e2",
+  "timestamp_utc": "2025-11-09T15:39:06.585691+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.50938389513109,
+    "reading_ease": 29.154412921348325,
+    "word_count": 267
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aims to compare spinal analgesia–epidural analgesia (SA-EA) and combined spinal–epidural analgesia (CSEA) in reducing neurological complications during labor analgesia."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare spinal analgesia–epidural analgesia (SA-EA) and combined spinal–epidural analgesia (CSEA) in reducing neurological complications during labor analgesia."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 3,
+    "max_score": 25
+  }
+}

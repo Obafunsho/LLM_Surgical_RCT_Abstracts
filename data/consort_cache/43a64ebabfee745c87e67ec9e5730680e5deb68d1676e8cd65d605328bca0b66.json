@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods: We performed a prospective, double-blind, randomized controlled trial at 2 centers in the United Kingdom."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Children aged 3 to 36 months undergoing tetralogy of Fallot repair or ventricular septal defect closure were randomized 1:1 to receive bilateral preconditioning or sham intervention."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Children aged 3 to 36 months undergoing tetralogy of Fallot repair or ventricular septal defect closure were randomized 1:1 to receive bilateral preconditioning or sham intervention."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Children aged 3 to 36 months undergoing tetralogy of Fallot repair or ventricular septal defect closure were randomized 1:1 to receive bilateral preconditioning or sham intervention."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: The study objective was to determine whether adequately delivered bilateral remote ischemic preconditioning is cardioprotective in young children undergoing surgery for 2 common congenital heart defects with or without cyanosis."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was area under the curve for high-sensitivity troponin-T in the first 24 hours after surgery, analyzed by intention-to-treat."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Children aged 3 to 36 months undergoing tetralogy of Fallot repair or ventricular septal defect closure were randomized 1:1 to receive bilateral preconditioning or sham intervention."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Methods: We performed a prospective, double-blind, randomized controlled trial at 2 centers in the United Kingdom."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between October 2016 and December 2020, 120 eligible children were randomized to receive bilateral preconditioning (n = 60) or sham intervention (n = 60)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The primary outcome, area under the curve for high-sensitivity troponin-T, was higher in the preconditioning group (mean: 70.0 \u00b1 50.9 \u03bcg/L/h, n = 56) than in controls (mean: 55.6 \u00b1 30.1 \u03bcg/L/h, n = 58)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The primary outcome, area under the curve for high-sensitivity troponin-T, was higher in the preconditioning group (mean: 70.0 \u00b1 50.9 \u03bcg/L/h, n = 56) than in controls (mean: 55.6 \u00b1 30.1 \u03bcg/L/h, n = 58) (mean difference, 13.2 \u03bcg/L/h; 95% CI, 0.5-25.8; P = .04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "there was evidence of potential harm in unstented tetralogy of Fallot."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

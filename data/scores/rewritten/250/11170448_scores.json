@@ -1,0 +1,74 @@
+{
+  "pmcid": "11170448",
+  "sha256": "7ded95a23a4a93833098d8a0a23ff3fda9d0d80b369461e937c8edba5220f61a",
+  "timestamp_utc": "2025-11-09T22:00:47.777570+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.685676567656767,
+    "reading_ease": 31.270187018701904,
+    "word_count": 202
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Timing of Adjuvant Chemotherapy in Colorectal Cancer: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients with high-risk stage II or III nonmetastatic colorectal cancer were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "5719 patients from 244 centers across 6 countries. Patients with high-risk stage II or III nonmetastatic colorectal cancer"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive 3 or 6 months of adjuvant chemotherapy with fluoropyrimidine and oxaliplatin"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study examines the association between chemotherapy timing and disease-free survival."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was disease-free survival over a median follow-up of 72 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 5719 patients, 914 were in the early-start group and 4805 in the late-start group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Five-year disease-free survival was 78.0% in the early-start group vs 73.2% in the late-start group (hazard ratio, 1.24; 95% CI, 1.06-1.46; P = .01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups (odds ratio, 0.82; 95% CI, 0.65-1.04; P = .09)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ISRCTN59757862."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

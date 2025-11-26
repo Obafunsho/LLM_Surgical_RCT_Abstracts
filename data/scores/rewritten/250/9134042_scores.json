@@ -1,0 +1,74 @@
+{
+  "pmcid": "9134042",
+  "sha256": "8fdd142ba0b3611e36bfee4087ebbe96982b443666ae98dcafb69ca2869fe76a",
+  "timestamp_utc": "2025-11-09T23:00:21.934793+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.729754385964913,
+    "reading_ease": 17.719263157894773,
+    "word_count": 225
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Comparison of Outcomes of Antibiotic Drugs and Appendectomy: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The CODA trial was a multicenter RCT conducted in 25 US medical centers, enrolling participants from May 3, 2016, to February 5, 2020."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible adults with appendicitis were randomised to receive either appendectomy or antibiotics."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Eligible adults with appendicitis were randomised to receive either appendectomy or antibiotics."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare outcomes between participants in the CODA randomised controlled trial (RCT) and a parallel cohort study of participants who self-selected treatment."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of appendectomy within 30 days, with all participants followed for at least one year."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 1094 participants were randomised (appendectomy: 547, antibiotics: 547), and 510 were in the self-selection cohort (appendectomy: 253, antibiotics: 257)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 1094 participants were randomised (appendectomy: 547, antibiotics: 547), and 510 were in the self-selection cohort (appendectomy: 253, antibiotics: 257)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The rate of appendectomy by 30 days was 15.3% in the self-selection antibiotics group and 19.2% in the randomised antibiotics group (difference, 3.9%; 95% CI, −1.7% to 9.5%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in adverse events were reported between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT02800785."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

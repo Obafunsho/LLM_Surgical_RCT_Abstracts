@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Preoperative and Postoperative Imatinib in Gastrointestinal Stromal Tumor (GIST) Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Nineteen patients were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible patients had histologically confirmed kit-expressing GIST \u2265 1 cm, untreated with chemotherapy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Nineteen patients were randomised to receive 3, 5, or 7 days of preoperative imatinib (300 mg twice daily) and 2 years of postoperative imatinib (600 mg daily)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the safety and efficacy of preoperative and postoperative imatinib in patients undergoing surgical resection of GIST."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was tumor cell apoptosis, measured postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed by the institutional department of biostatistics, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Nineteen patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Nineteen patients were randomised, and 17 were analysed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Tumor cell apoptosis increased by an average of 12% (p = 0.04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Five grade 4 events occurred in four patients (22%), with no deaths reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: No funding source influenced the study."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

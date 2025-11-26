@@ -1,0 +1,74 @@
+{
+  "pmcid": "6583009",
+  "sha256": "bd811d9329fd04cad0741539bc4f5c0117b7e975480b1a4a732e742f5f3752f5",
+  "timestamp_utc": "2025-11-09T22:51:07.180477+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.519625000000001,
+    "reading_ease": 8.06287500000002,
+    "word_count": 192
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Prehabilitation in Esophagogastric Cancer Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Sixty-eight patients were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults awaiting elective esophagogastric resection for cancer."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received preoperative exercise and nutrition optimization, while the control group received standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effectiveness of prehabilitation in improving functional status in these patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in functional capacity, measured by the 6-minute walk distance (6MWD), assessed preoperatively and 4 to 8 weeks postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty-eight patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "51 included in the primary analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The prehabilitation group showed significant improvement in functional capacity compared to the control group both preoperatively (mean 6MWD change, 36.9 m vs −22.8 m; P < .001) and postoperatively (mean 6MWD change, 15.4 m vs −81.8 m; P < .001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT01666158."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

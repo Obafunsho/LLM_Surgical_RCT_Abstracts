@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Effects of ESRT on Stress and Cognitive Function in PGY-1 Trainees: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Two single-institution randomised clinical trials were conducted."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were first-year surgical (ESRT-1, n = 44) and mixed specialty (ESRT-2, n = 45) residents."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "ESRT-1 involved 8 weekly 2-hour classes, while ESRT-2 involved 6 weekly 90-minute classes."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effects of an iteratively adapted MBI, ESRT, on perceived stress, executive cognitive function, psychosocial well-being, and pro-inflammatory gene expression in surgical and mixed specialty PGY-1 trainees."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was perceived stress, and the secondary outcome was executive function."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were first-year surgical (ESRT-1, n = 44) and mixed specialty (ESRT-2, n = 45) residents."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "ESRT-1 participants showed improved executive function and mindfulness scores, while ESRT-2 participants had lower emotional exhaustion and depersonalization scores at follow-up."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "6500883",
+  "sha256": "75a820f72ad456ae4e56c76f5cf849e3140410f5f26448ab515a4084ba28ca44",
+  "timestamp_utc": "2025-11-09T22:50:50.448058+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.883626318432949,
+    "reading_ease": 17.661813159216507,
+    "word_count": 181
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "This single-center, nonrandomized phase 1 trial enrolled up to 15 adult patients with recurrent glioblastoma"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants underwent biopsy, microdialysis catheter and lumbar drain placement, anti-PD-1 treatment, immune biomarker collection, tumor resection, and anti-PD-1 and anti-LAG-3 treatment until progression."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVE: To assess the proportion of patients with increased interferon gamma levels in brain tumor tissue post-nivolumab and evaluate the safety of brain tumor microdialysis for immune response monitoring while assessing the safety of anti-PD-1 and anti-LAG-3 checkpoint inhibition."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "To assess the proportion of patients with increased interferon gamma levels in brain tumor tissue post-nivolumab"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Interferon gamma levels increased in treated patients as measured by microdialysis."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Microdialysis was safe, and the combination of anti-LAG-3 and anti-PD-1 had a side effect profile similar to other checkpoint inhibitors."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "TRIAL REGISTRATION: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "FUNDING: [Source of funding]."
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

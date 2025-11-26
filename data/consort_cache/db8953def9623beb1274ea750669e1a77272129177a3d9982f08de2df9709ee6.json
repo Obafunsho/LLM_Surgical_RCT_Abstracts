@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Lymph Node Size as a Prognostic Marker in Esophageal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The UK MRC OE02 trial randomised 802 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "802 patients with locally advanced resectable EC"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 802 patients with locally advanced resectable EC to surgery alone (S) or neoadjuvant chemotherapy plus surgery (C+S)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the prognostic significance of LN size in EC patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 5-year overall survival (OS)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to treatment allocation."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "randomised 802 patients with locally advanced resectable EC"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "LN size was assessed in 367 patients (188 S, 179 C+S)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Large LN size correlated with lower pN category (P = 0.01) and reduced lymphatic invasion (P = 0.02) in S patients."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

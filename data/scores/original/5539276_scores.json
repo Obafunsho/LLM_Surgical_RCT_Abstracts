@@ -1,0 +1,74 @@
+{
+  "pmcid": "5539276",
+  "sha256": "3ee626c18809056b9ce8f5a3d757f258f5afffb5eecfd7879282abfae850d4af",
+  "timestamp_utc": "2025-11-09T16:04:20.407367+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.847262088081308,
+    "reading_ease": 37.30447489990763,
+    "word_count": 191
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with histologically confirmed rectal adenocarcinoma with potentially resectable or ablatable metastases in liver or lungs were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "short-course radiotherapy followed by systemic therapy with capecitabine, oxaliplatin, and bevacizumab as neoadjuvant treatment and subsequent radical surgical treatment of primary tumor and metastatic sites was evaluated."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Overall and recurrence-free survival were calculated using the Kaplan–Meier method."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Follow-up data were available for all 50 patients."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Follow-up data were available for all 50 patients."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "After a median follow-up time of 8.1 years (range 6.0–9.8), 16 patients (32.0%) were still alive and 14 (28%) were disease-free."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

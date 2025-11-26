@@ -1,0 +1,74 @@
+{
+  "pmcid": "12158596",
+  "sha256": "022e1173be88cced5986c4935da69fc07dfe7bfcf7c7b4a0d08065183c36b76a",
+  "timestamp_utc": "2025-11-09T15:32:34.324404+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.277699960206924,
+    "reading_ease": 37.48611884865369,
+    "word_count": 359
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This study compared iNPWT with standard gauze dressings to determine the effects on SSI incidence and quality of life."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients undergoing infrainguinal vascular surgery were recruited to a regional randomized clinical trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing infrainguinal vascular surgery were recruited to a regional randomized clinical trial."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The control and intervention groups received sterile gauze and iNPWT dressings, respectively."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compared iNPWT with standard gauze dressings to determine the effects on SSI incidence and quality of life."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the incidence of SSIs within 30 days, measured using the Additional treatment, Serous discharge, Erythema, Purulent exudates, Separation of the deep tissues, Isolation of bacteria and inpatient Stay (ASEPSIS) scoring protocol."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 123 patients randomized, 109 (89%) completed the study."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 123 patients randomized, 109 (89%) completed the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The incidence of SSI was similar in the intervention and control groups (15% versus 25%, respectively; P = 0.340)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT03395613 ( https://clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

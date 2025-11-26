@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients following surgery with pain intensity of greater than 4 on an 11-point numerical rating scale were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "At 13 hospital sites in the United States, patients following surgery with pain intensity of greater than 4 on an 11-point numerical rating scale"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive SSTS dispensing a 15-\u03bcg sufentanil tablet sublingually with a 20-minute lockout or an identical system dispensing a placebo tablet sublingually"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy and safety of a sufentanil sublingual tablet system (SSTS) for the management of postoperative pain following open abdominal surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary end point was time-weighted summed pain intensity difference (SPID) over 48 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "an identical system dispensing a placebo tablet sublingually"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Summed pain intensity difference over 48 hours was significantly higher in the SSTS group than in the placebo group (least squares mean [SEM], 105.60 [10.14] vs 55.58 [13.11]; P = 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Safety parameters, including adverse events and vital signs, were similar for SSTS and placebo."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

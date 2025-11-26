@@ -1,0 +1,74 @@
+{
+  "pmcid": "11828696",
+  "sha256": "87d9f0ffa0f051a5201a74bc300e9982ecd5298c3605e112b53872fbe39d3756",
+  "timestamp_utc": "2025-11-09T15:24:18.354879+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.20016129032258,
+    "reading_ease": 42.370241935483904,
+    "word_count": 248
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A randomized crossover trial was conducted involving emergency physicians (EPs) and trainees."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "emergency physicians (EPs) and trainees."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants performed both techniques in succession on an airway model, with the technique performed first being randomized for each participant."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of this study was to compare the surgical technique using bougie and ETT with an open technique using the Melker catheter."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was time to first insufflation of the artificial lung."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "the technique performed first being randomized for each participant."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seventeen EPs and 19 trainees participated."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The Melker catheter technique was performed quicker with a mean time of 29.2 s versus 44.3 s for the bougie/ETT technique (difference 15.1 s, 95% confidence interval 10.8–19.4 s)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

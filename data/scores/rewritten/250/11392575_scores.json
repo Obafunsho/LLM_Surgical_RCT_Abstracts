@@ -1,0 +1,74 @@
+{
+  "pmcid": "11392575",
+  "sha256": "7bc4001b95e744cd59dfd424b662ae1a18371460c74e406c2dbff25936bb24fd",
+  "timestamp_utc": "2025-11-09T22:03:17.637972+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.080125000000002,
+    "reading_ease": 31.25237500000003,
+    "word_count": 192
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial on the Efficacy of Nasal Cannula Oxygen as an Adjunct to Preoxygenation"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This prospective randomized crossover trial involved 30 healthy volunteers"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "30 healthy volunteers aged 20-50 years at a tertiary care center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "3-minute tidal volume breathing (TVB) and 8 vital capacity breaths (VCB) with nasal cannula oxygen at 0, 5, and 10 L/min"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of nasal cannula oxygen as an adjunct to standard preoxygenation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was end-tidal oxygen (ETO2) measured at the end of each preoxygenation sequence."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was performed using a Latin square method, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This prospective randomized crossover trial involved 30 healthy volunteers"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All 30 participants completed the study."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "ETO2 increased significantly with nasal cannula oxygen, with 3-minute TVB achieving higher ETO2 (91.07% at 10 L/min) compared to 8 VCB (87.87% at 10 L/min), p < 0.001."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered with CTRI (no. CTRI/2020/04/024873)"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by institutional resources."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

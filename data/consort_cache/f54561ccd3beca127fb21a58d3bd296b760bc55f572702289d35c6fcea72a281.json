@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Chest Bioreactance and Calibrated Pulse Contour Analysis in Thoracic Cancer Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "prospective monocentre observational study included 50 adult patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at a tertiary university hospital...Eligibility criteria included elective unilateral thoracic cancer surgery with PCA monitoring."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Simultaneous cardiac index (CI) measurements using bioreactance (CI-NICOM) and PCA calibrated by transthoracic echocardiography (CI-PCA)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the interchangeability of chest bioreactance and calibrated pulse contour analysis (PCA) for cardiac output measurement."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the interchangeability of CI-NICOM and CI-PCA, assessed by Bland\u2013Altman analysis and percentage error calculation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "50 adult patients undergoing thoracic cancer surgery"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "CI-PCA and CI-NICOM differed significantly: 2.4\u200a\u00b1\u200a0.8 vs. 2.9\u200a\u00b1\u200a0.9 l\u200amin \u22121 m \u22122, respectively (P <\u200a0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04251637."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

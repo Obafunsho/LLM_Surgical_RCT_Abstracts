@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of DFN-15 for Acute Pain Management Post-Dental Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-center, randomized, double-blind, placebo-controlled, dose-ranging trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "120 adults undergoing bilateral mandibular third molar extraction"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized 1:1:1:1 to receive a single dose of placebo or DFN-15 (62.5, 125, or 250 mg)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assessed the efficacy and safety of DFN-15, a liquid celecoxib formulation, for acute pain following dental surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the summed pain intensity difference (SPID) over 6 hours post-dose."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included participants, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "120 adults undergoing bilateral mandibular third molar extraction were randomized"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "All 120 participants were analyzed using a modified intent-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "DFN-15 significantly reduced SPID6 compared to placebo (least square mean differences: \u2212756.6, \u22121120.7, \u22121355.1; P < 0.0001 for all doses)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between DFN-15 and placebo groups, with no dose-related trends."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT03554772"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Dr. Reddy's Laboratories"
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

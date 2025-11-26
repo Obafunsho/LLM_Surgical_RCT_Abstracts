@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Hughes Closure vs. Standard Mass Closure in Colorectal Cancer Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Sample size calculation aimed for 800 patients, anticipating 20% loss to follow-up."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing midline incision for colorectal cancer were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to Hughes closure (double far\u2013near\u2013near\u2013far sutures with conventional mass closure) or standard closure"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial assessed the effect of Hughes closure on incisional hernia incidence following colorectal cancer surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of incisional hernia at 1 year, assessed by clinical examination."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed in the operating theatre using a 1:1 computerized adaptive system, with allocation concealment by Sealed Envelope."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Patients and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From August 2014 to February 2018, 802 patients were randomised (401 per group)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "At 1 year, 672 patients were analysed (339 Hughes, 333 standard) using intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Incisional hernia occurred in 14.8% of Hughes and 17.1% of standard groups (OR 0.84, 95% CI 0.55 to 1.27; P = 0.402)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Surgical-site infections were higher in the Hughes group (13.2% vs. 7.7%; OR 1.82, 1.14 to 2.91; P = 0.011)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial is registered under ISRCTN25616490."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding was provided by the National Institute for Health Research."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

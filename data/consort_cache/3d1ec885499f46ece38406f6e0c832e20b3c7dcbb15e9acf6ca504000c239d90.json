@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomly allocated into one of three groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "150 patients scheduled for elective forearm surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group A (n = 50) received ropivacaine 0.25% alone on the brachial plexus nerve; Group B (n = 50) received ropivacaine together with 20 mg parecoxib locally on the nerve block; and Group C (n = 50) received 20 mg parecoxib intravenously"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We therefore determined: (1) whether the addition of parecoxib to ropivacaine injected locally on the nerve block affected the sensory and motor block times of the brachial plexus nerve block; and (2) whether parecoxib injected locally on the nerve or intravenously had a similar analgesic adjuvant effect."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We recorded the duration of the sensory and motor blocks, and the most severe pain score during a 24-hour postoperative period."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomly allocated into one of three groups"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "150 patients scheduled for elective forearm surgery"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Group A (n = 50) received ropivacaine 0.25% alone on the brachial plexus nerve; Group B (n = 50) received ropivacaine together with 20 mg parecoxib locally on the nerve block; and Group C (n = 50) received 20 mg parecoxib intravenously"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Parecoxib added locally on the nerve block prolonged the motor and sensory block times compared with Group A. However, parecoxib injected intravenously had no such effect. Pain intensity scores in Group B were lower than those in Groups A and C."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "7079046",
+  "sha256": "492b023f8c8d9e50f8192c95d8b18a1ed695f9347c490d08526776a8082aad27",
+  "timestamp_utc": "2025-11-10T00:04:12.455609+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.615361570247938,
+    "reading_ease": 10.04758780991736,
+    "word_count": 242
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of CEA-Specific Fluorescence Imaging in Cytoreductive Surgery for Colorectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Fourteen patients diagnosed with peritoneal metastases of colorectal origin were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "SGM-101 was administered intravenously 4–6 days before surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This multicentre pilot study aimed to assess the role of carcinoembryonic antigen (CEA)-specific fluorescence imaging using SGM-101 during cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (CRS-HIPEC) in patients with peritoneal metastasized colorectal cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in the peritoneal carcinomatosis index (PCI) due to fluorescence imaging, measured intraoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable as this was a pilot study."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable as this was a pilot study."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fourteen patients diagnosed with peritoneal metastases of colorectal origin were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "A correct change in PCI due to fluorescence imaging was observed in 4 of the 14 patients."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "SGM-101 was well tolerated, with no allergic or anaphylactic reactions reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "No trial registration or funding details were provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "No trial registration or funding details were provided."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

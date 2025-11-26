@@ -1,0 +1,74 @@
+{
+  "pmcid": "9384928",
+  "sha256": "b46ace4a8d725ff53d25fd9cd8a13ef4fd5f999b081f8f22fc0079fe61db0484",
+  "timestamp_utc": "2025-11-09T23:01:21.794820+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.095941140404662,
+    "reading_ease": 49.611101573676706,
+    "word_count": 233
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Patellofemoral Arthroplasty and Total Knee Arthroplasty for Isolated Patellofemoral Osteoarthritis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "parallel-group, equivalence RCT with 100 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included debilitating symptoms and isolated PF-OA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to PFA or TKA"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to compare the long-term outcomes of patellofemoral arthroplasty (PFA) versus total knee arthroplasty (TKA)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the SF-36 bodily pain score over six years"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was maintained for the first year"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "100 patients, randomised 1:1 to PFA or TKA between 2007 and 2014"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Intention-to-treat analysis was used"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "PFA showed greater improvement in SF-36 bodily pain (mean difference 12, 95% CI 4 to 20; p = 0.004)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

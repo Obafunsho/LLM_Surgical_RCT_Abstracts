@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Cohorts of three patients underwent cytoreductive surgery followed by a 2-h IPHC with escalating doses of oxaliplatin at a target outflow temperature of 40\u00b0C."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Therefore, we undertook a phase I evaluation of IPHC with oxaliplatin for peritoneal dissemination from colorectal and appendiceal cancers to establish the dose-limiting toxicity (DLT) and the maximum tolerated dose (MTD)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fifteen patients were enrolled at two dose levels."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Dose-limiting toxicities at 250 mg/M 2 were observed in two of three patients enrolled in this study."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Dose-limiting toxicities at 250 mg/M 2 were observed in two of three patients enrolled in this study."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

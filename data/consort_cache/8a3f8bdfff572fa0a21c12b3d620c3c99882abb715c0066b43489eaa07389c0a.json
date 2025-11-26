@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Right Common Carotid Artery Cannulation in Elective Aortic Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "343 patients who underwent elective ascending aortic or aortic arch surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "One hundred procedures used the right CCA as the sole arterial cannulation site under moderate hypothermic circulatory arrest (MHCA)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative death from neurological causes, measured over a median follow-up of 5.4 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "343 patients who underwent elective ascending aortic or aortic arch surgery"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The early mortality and stroke rates were 1% and 4%, respectively. After a median follow-up of 5.4 years, seven patients suffered a stroke, with a 92% survival rate at 6 years, comparable to an age- and gender-matched general population (log-rank P=0.50)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The early mortality and stroke rates were 1% and 4%, respectively."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The study was registered in the German clinical trials register."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

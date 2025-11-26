@@ -1,0 +1,74 @@
+{
+  "pmcid": "10953332",
+  "sha256": "d6bed201c8181295c825d6aee72a6a15b1b7b3f30eb22ce5022babeff1b0595a",
+  "timestamp_utc": "2025-11-09T15:13:25.983970+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.717818181818181,
+    "reading_ease": 15.02739393939396,
+    "word_count": 275
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The study used a randomised, double‐blind, sham‐controlled crossover design."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The study used a randomised, double‐blind, sham‐controlled crossover design."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eight participants spent counterbalanced normoxic and hypoxic weeks in a residential hypoxia facility."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Eight participants spent counterbalanced normoxic and hypoxic weeks in a residential hypoxia facility and underwent repeated cardiopulmonary exercise tests."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We aimed to provide an initial physiological foundation for ‘altitude prehabilitation’ by determining the physiological effects of one week of simulated altitude."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "underwent repeated cardiopulmonary exercise tests."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The study used a randomised, double‐blind, sham‐controlled crossover design."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "The study used a randomised, double‐blind, sham‐controlled crossover design."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Eight participants spent counterbalanced normoxic and hypoxic weeks."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Hypoxia induced a substantial increase in mean (SD) haemoglobin of 1.5 (2.7) g.dl ‐1 (13% increase, p = 0.028)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Hypoxia was mild (mean (SD) S p O 2 93 (2) %, p < 0.001) and well‐tolerated."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

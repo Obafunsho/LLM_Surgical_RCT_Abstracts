@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Continuous Pressure Monitoring in Regional Anesthesia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomisation at the interfascial space level"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "A custom-built pressure monitoring system continuously measured saline injection pressure during ultrasound-guided regional block procedures."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether continuous monitoring of injection pressure can differentiate interfascial spaces from surrounding structures in a porcine model."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Mean intramuscular pressure was significantly higher than mean interfascial pressure"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomisation at the interfascial space level"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Mean intramuscular pressure was significantly higher than mean interfascial pressure (p < 1 \u00d7 10^\u221213)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by grant RW/36/25."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

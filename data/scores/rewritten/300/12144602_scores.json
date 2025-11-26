@@ -1,0 +1,74 @@
+{
+  "pmcid": "12144602",
+  "sha256": "43b53cb24137fbe8fd90eb64456545a89ab1cc5d54ea29329e4538ed685b56ae",
+  "timestamp_utc": "2025-11-09T23:28:08.153190+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.111538869257952,
+    "reading_ease": 26.262149293286257,
+    "word_count": 283
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Uptake of Oral Tranexamic Acid During Active Labor"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this open-label, single-center pilot study, 51 women ≥36 gestational weeks with planned vaginal delivery at Södersjukhuset, Stockholm, were randomized 1:1:1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "51 women ≥36 gestational weeks with planned vaginal delivery at Södersjukhuset, Stockholm"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized 1:1:1:1 to receive 2 g of TA as an oral solution, tablets, effervescent tablets, or 1 g of intravenous TA"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to evaluate the uptake of oral TA during active labor."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were time to therapeutic level, duration in the therapeutic interval, and maximum plasma concentration."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "51 women"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Therapeutic levels were reached at 2 hours for oral (7.11 ± 3.31 mg/L) and 30 minutes for intravenous forms (30.6 ± 15.0 mg/L). Duration in therapeutic intervals was 6 hours for oral and 3.5 hours for intravenous forms (p < 0.007). Peak plasma concentrations were 10.2 ± 3.9 mg/L for oral and 30.6 ± 15.0 mg/L for intravenous forms (p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported, with 12% of participants experiencing mild side effects such as nausea and vomiting."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "EudraCT-2020-002015-22"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Swedish Research Council 2019-06121"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

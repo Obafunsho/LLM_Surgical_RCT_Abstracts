@@ -1,0 +1,21 @@
+{
+  "pmcid": "8093992",
+  "pmid": "33077580",
+  "title": "Prediction of death after endovascular thrombectomy in the extended window: a secondary analysis of DEFUSE 3",
+  "abstract": "Background: The Endovascular Therapy Following Imaging Evaluation for Ischemic Stroke 3 (DEFUSE 3) clinical trial assessed the use of endovascular thrombectomy (EVT) during the period 6–16 hours after last normal in selected patients. This is a secondary cohort analysis of the DEFUSE 3 data assessing potential predictive variables for mortality in the EVT-treated patients.\n\nMethods: The primary outcome was death within 90 days. Patients who died and those who did not were compared statistically. We developed a predictive score using preprocedural variables that were statistically predictive of death in univariate regression analysis (P<0.1).\n\nResults: Of the 182 patients in the DEFUSE 3 study, 92 (mean age 69 years; 50% male) met our inclusion criteria, and 15.2% of these patients met the primary outcome. Patient age, baseline National Institutes of Health Stroke Scale (NIHSS) score, wake-up stroke, statin use, and history of diabetes were statistically associated with death. Statin use did not improve the prediction score so was excluded. Thus, our model included four predictors, with one point each given for age >75 years, NIHSS ≥20, wake-up stroke, and diabetes, yielding low (0–1), moderate (2), and high (3–4) risk of death. In the low-risk, moderate-risk, and high-risk categories, 2/52 (3.9%), 3/23 (13.0%), and 9/17 (52.9%) of patients died, respectively (P<0.001).\n\nConclusions: Despite selective inclusion criteria and overwhelming benefit for EVT, a substantial number of EVT patients in DEFUSE 3 died. The preprocedural variables age, NIHSS, wake-up stroke, and diabetes may predict this risk. Our predictive score provides a basis for future research to determine which factors influence lethal outcome after EVT.",
+  "authors": [
+    "Philipp Taussky",
+    "Guilherme Agnoletto",
+    "Ramesh Grandhi",
+    "Matthew D Alexander",
+    "Ka-Ho Wong",
+    "Gregory W Albers",
+    "Adam de Havenon"
+  ],
+  "journal": "Journal of neurointerventional surgery",
+  "year": "2020",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

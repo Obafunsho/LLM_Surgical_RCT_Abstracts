@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Continuous Lumbar Plexus Block Duration After Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were then randomly assigned to continue ropivacaine or switch to normal saline."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients undergoing hip arthroplasty were enrolled"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were then randomly assigned to continue ropivacaine or switch to normal saline."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated whether a 4-day ambulatory continuous lumbar plexus block (cLPB) enhances ambulation distance and shortens time to meet discharge criteria compared to an overnight cLPB following hip arthroplasty."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were time to meet three discharge criteria (adequate analgesia, independence from intravenous analgesics, ambulation \u2265 30 m) and ambulation distance in 6 minutes the afternoon after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding included patients and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 47 patients were randomised: 24 to the ropivacaine group and 23 to the control group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "analysis conducted on an intention-to-treat basis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The ropivacaine group met discharge criteria in a median of 29 hours (25th-75th percentiles: 24-45) compared to 51 hours (42-73) in the control group (estimated ratio = 0.62; 95% CI, 0.45-0.92; P = 0.011)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included three falls in the ropivacaine group (13%), with none in the control group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source]."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

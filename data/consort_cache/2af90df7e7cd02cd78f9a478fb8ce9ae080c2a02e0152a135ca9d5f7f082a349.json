@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We aim to determine factors associated with stroke or death at 30 days in the stenting arm of the SAMMPRIS trial."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We compared patient specific variables, lesion specific variables, procedure specific variables, and FDA approved indications between patients with and without the primary outcome (stroke or death at 30 days)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "We identified 213 patients; 30 patients (14.1%) met the primary outcome."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Smoking status and lesion length were associated with the primary outcome; the odds of stroke or death for non-smokers vs. smokers (adjusted OR 4.46, 95% CI 1.79\u201311.1, p = 0.001) and with increasing lesion length in millimeters (adjusted OR 1.20, 95% CI 1.02\u20131.39, p = 0.029)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

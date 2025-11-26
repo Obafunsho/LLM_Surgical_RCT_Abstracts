@@ -1,0 +1,74 @@
+{
+  "pmcid": "8495602",
+  "sha256": "50a2c8ab508d39bc9eeba599cae530684065c505b74ecb3279b6ca6191746438",
+  "timestamp_utc": "2025-11-09T22:58:30.861887+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.128119541484718,
+    "reading_ease": 26.432703329694334,
+    "word_count": 229
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Primary Tumor Resection in Metastatic Colorectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients with histologically proven mCRC, unresectable metastases, and minimal symptoms were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with histologically proven mCRC, unresectable metastases, and minimal symptoms"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to systemic treatment only or PTR followed by systemic treatment"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to evaluate the impact of PTR on 60-day mortality."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 60-day mortality."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 196 patients were randomised between August 2012 and December 2019, with 98 in each group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "In the intention-to-treat analysis... Per-protocol analysis showed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "60-day mortality was 3% (95% CI, 1%-9%) in the systemic treatment group and 11% (95% CI, 6%-19%) in the PTR group (P = .03)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Elevated serum levels of lactate dehydrogenase, aspartate aminotransferase, alanine aminotransferase, and/or neutrophils were associated with higher mortality in the PTR group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT01606098"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

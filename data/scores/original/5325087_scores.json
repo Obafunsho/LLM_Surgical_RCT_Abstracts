@@ -1,0 +1,74 @@
+{
+  "pmcid": "5325087",
+  "sha256": "5660e49db2eb039895a169ee59e32e5642f6a6074c06faa1bf95d51336ea2f0c",
+  "timestamp_utc": "2025-11-09T16:03:26.526136+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.19892857142857,
+    "reading_ease": 40.7066737288136,
+    "word_count": 295
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Trauma patients at 12 level 1 North American trauma centers were randomized based on transfusion ratios as described in the PROPPR trial."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Trauma patients at 12 level 1 North American trauma centers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing DCL versus definitive surgical management (DSM)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes were 24-hour and 30-day mortality."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized based on transfusion ratios as described in the PROPPR trial"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "329 patients underwent emergent laparotomy: 213 DCL (65%) and 116 DSM (35%)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "329 patients underwent emergent laparotomy: 213 DCL (65%) and 116 DSM (35%)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "24-hour mortality was 19% with DCL versus 4% (p<0.001); 30-day mortality was 28% with DCL versus 19% (p<0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Sepsis and VAP occurred more frequently with DCL (p<0.05)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

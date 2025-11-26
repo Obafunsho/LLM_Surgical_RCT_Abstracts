@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The study used a randomised, double\u2010blind, sham\u2010controlled crossover design."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The study used a randomised, double\u2010blind, sham\u2010controlled crossover design."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eight participants spent counterbalanced normoxic and hypoxic weeks in a residential hypoxia facility."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Eight participants spent counterbalanced normoxic and hypoxic weeks in a residential hypoxia facility and underwent repeated cardiopulmonary exercise tests."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We aimed to provide an initial physiological foundation for \u2018altitude prehabilitation\u2019 by determining the physiological effects of one week of simulated altitude."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "underwent repeated cardiopulmonary exercise tests."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The study used a randomised, double\u2010blind, sham\u2010controlled crossover design."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "The study used a randomised, double\u2010blind, sham\u2010controlled crossover design."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Eight participants spent counterbalanced normoxic and hypoxic weeks."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Hypoxia induced a substantial increase in mean (SD) haemoglobin of 1.5 (2.7)\u2009g.dl \u20101 (13% increase, p\u2009=\u20090.028)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Hypoxia was mild (mean (SD) S p O 2 93 (2) %, p\u2009<\u20090.001) and well\u2010tolerated."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

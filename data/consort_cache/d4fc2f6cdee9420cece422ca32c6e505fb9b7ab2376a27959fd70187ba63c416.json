@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A multicentre feasibility RCT of antimicrobial sutures versus standard sutures involving adults undergoing surgery for hand trauma to evaluate feasibility for a definitive trial."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "A multicentre feasibility RCT of antimicrobial sutures versus standard sutures involving adults undergoing surgery for hand trauma."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Feasibility needs to be ascertained before a definitive trial can be delivered in hand trauma."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Secondary objectives were incidence of SSI in both groups, hand function measured with patient-reported outcome measures, health-related quality of life and change in employment."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was performed on a 1:1 basis, stratified by age of the patient and whether the injury was open or closed, using a secure, centralized, online randomization service."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Participants were blinded to allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "116 participants were recruited and randomized (60 intervention, 56 control)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Incidence of SSI was >20 per cent in both groups."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN10771059"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "8439547",
+  "sha256": "6059cc30d13e0b622187533b5bbf6b6a86736c2b85dff3a83ed47a01e55c94a9",
+  "timestamp_utc": "2025-11-09T16:17:56.630598+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.631527249683145,
+    "reading_ease": 30.52487431347697,
+    "word_count": 263
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We conducted the largest feasible randomized trial in 20 US centers"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Of 992 eligible infants, 310 were randomized"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing initial laparotomy versus peritoneal drainage"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To determine which initial surgical treatment results in the lowest rate of death or neurodevelopmental impairment (NDI)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was a composite of death or NDI at 18–22 months corrected age"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 992 eligible infants, 310 were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "96% had primary outcome assessed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Death or NDI occurred in 69% of infants in the laparotomy group versus 70% with drainage (adjusted relative risk [aRR] = 1.0; 95% confidence interval [CI]: 0.87–1.14)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

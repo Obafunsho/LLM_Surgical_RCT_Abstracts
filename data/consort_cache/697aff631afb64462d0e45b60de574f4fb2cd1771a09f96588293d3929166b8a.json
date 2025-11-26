@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A sample size of 30 patients was calculated to test postoperative complication rates against predefined cut-offs."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with sporadic, resectable or potentially resectable NF-PanNETs at high-risk of recurrence; those with positive 68 Ga-labelled DOTA PET were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "All patients were candidates for neoadjuvant 177 Lu-DOTATATE followed by surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The primary aim of this study was to evaluate the safety of neoadjuvant 177 Lu-labelled DOTA 0 -octreotate ( 177 Lu-DOTATATE) followed by surgery in patients with NF-PanNETs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was safety, reflected by postoperative morbidity and mortality within 90 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From March 2020 to February 2023, 31 patients were enrolled"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "26 completed 4 cycles of 177 Lu-DOTATATE."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "A partial radiological response was observed in 18 of 31 patients, and 13 patients had stable disease."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Postoperative complications occurred in 21 of 29 patients. Severe complications were observed in seven patients."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

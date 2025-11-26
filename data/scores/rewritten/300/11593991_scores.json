@@ -1,0 +1,74 @@
+{
+  "pmcid": "11593991",
+  "sha256": "657bbcb177696b409fa383ff75b374bebf99f692e9af4e0294b889853345d3ab",
+  "timestamp_utc": "2025-11-09T23:17:47.229101+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.025980392156864,
+    "reading_ease": 26.905245098039245,
+    "word_count": 255
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of TGF-β Signaling Inhibition in AVF Patency in CKD"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Sample size was calculated to detect a significant difference in AVF patency with 80% power."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial involved C57BL/6J mice subjected to 5/6 nephrectomy to induce CKD, with 0/6 and 3/6 nephrectomy as controls."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "AVF were created in mice with TGF-βR1/R2 knockdown in endothelial or smooth muscle cells."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether inhibiting endothelial TGF-β signaling can prevent AVF failure by reducing endothelial-to-mesenchymal transition (EndMT)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was AVF patency, assessed over 42 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "120 mice were randomised: 60 to the intervention and 60 to the control group, with recruitment from January to June 2021."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The effect size was significant (p < 0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by NIH grants R01-HL128406, R01-HL144476, R01-HL162580, R01-HL152197, R01-HL146723, R01-HL155105, China Scholarship Council, and VA Connecticut Healthcare System."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

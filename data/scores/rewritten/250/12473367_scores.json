@@ -1,0 +1,74 @@
+{
+  "pmcid": "12473367",
+  "sha256": "a749383e3da9ce31cff626e57d14d6f9954ce66af98a398de6f3b9dc3f108ace",
+  "timestamp_utc": "2025-11-09T22:28:38.309751+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.644062827225135,
+    "reading_ease": 12.751504363001771,
+    "word_count": 191
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Structured Exercise in ERAS Protocols"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Eligibility criteria included studies reporting on postoperative complications, length of hospital stay (LOS), and overall recovery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Structured exercise interventions, such as aerobic activities and resistance training, were associated with reduced postoperative complications and shorter hospital stays."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the impact of structured exercise within the Enhanced Recovery After Surgery (ERAS) protocol on postoperative outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the reduction in LOS, measured immediately post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The effect size for LOS reduction was a mean difference of 1.5 days (95% CI 1.0 to 2.0; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

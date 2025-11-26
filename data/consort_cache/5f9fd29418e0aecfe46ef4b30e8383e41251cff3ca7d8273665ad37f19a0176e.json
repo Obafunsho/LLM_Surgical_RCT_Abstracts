@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Liver Transplantation for Non-Resectable Colorectal Liver Metastases"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "No randomisation or blinding was employed."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included good performance status and absence of extrahepatic disease. Conducted in Norway."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "All 23 patients received LT."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the impact of liver transplantation (LT) on long-term quality of life (QoL) and overall survival (OS) in patients with non-resectable colorectal liver metastases (CRLM)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was OS at 2 years, with secondary outcomes including disease-free survival and QoL."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "No randomisation or blinding was employed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "No randomisation or blinding was employed."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "All 23 patients received LT."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All 23 patients received LT."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean difference in fatigue scores between those who survived and those who did not was 18.2 (95% CI 2.1 to 34.3; p = 0.033)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "At 3 months post-LT, patients reported reduced QoL, physical function, and increased dyspnoea."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The study was registered at ClinicalTrials.gov (NCT01311453)"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by institutional sources."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

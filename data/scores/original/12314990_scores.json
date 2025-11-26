@@ -1,0 +1,74 @@
+{
+  "pmcid": "12314990",
+  "sha256": "f98ca6d28ff72d81d598612c68fbe9488c216b6de9eb0e347aac53b22556bbb9",
+  "timestamp_utc": "2025-11-09T15:36:41.097074+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.406000000000002,
+    "reading_ease": 20.989000000000033,
+    "word_count": 246
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients undergoing digestive surgery are randomly assigned to the HC or placebo group."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing digestive surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The participants in the HC group are administered 500 mg HC intravenously. The participants in the placebo group are administered the same volume of saline that is indistinguishable from the HC."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial aims to evaluate HC’s effectiveness in preventing POD in surgical patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome is the presence of POD from postoperative days 1 to 3, which is assessed using the Confusion Assessment Method-ICU (CAM-ICU)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients undergoing digestive surgery are randomly assigned to the HC or placebo group."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "blinded (patient-blinded, surgeon-blinded, anaesthesiologist-blinded and monitor-blinded)"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "To date, 61 patients of a planned 180 have been enrolled in the study."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "registered with the Japan Registry of Clinical Trials on 24 May 2024. Trial registration number: jRCTs041240032."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

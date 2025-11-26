@@ -1,0 +1,74 @@
+{
+  "pmcid": "7884785",
+  "sha256": "5b046e691a7f33f39a921554788d0be5e5fe8fdfe000ee4f4b86ceb33b7ae740",
+  "timestamp_utc": "2025-11-09T16:15:47.837496+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.825031753786028,
+    "reading_ease": 52.46790425012213,
+    "word_count": 267
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "prospective randomized clinical trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Twenty male participants were hospitalized for 88 days"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Twenty male participants were hospitalized for 88 days comprised of 14 days of ambulatory baseline, 60 days of 6° head-down tilt bed rest and 14 days of reambulation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Ten participants each received a control diet or daily polyphenol associated with omega-3, vitamin E, and selenium supplements."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to measure hemolysis before, during and after 60 days of the ground-based spaceflight analog bed rest and the effect of a nutritional intervention"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was endogenous carbon monoxide (CO) elimination measured by gas chromatography."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty male participants"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "CO elimination increased after 5, 11, 30, and 57 days of bed rest: +289 ppb (95% CI 101–477 ppb; p = 0.004), +253 ppb (78–427 ppb; p = 0.007), +193 ppb (89–298 ppb; p = 0.001) and +858 ppb (670–1046 ppb; p < 0.000), respectively, compared to baseline."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

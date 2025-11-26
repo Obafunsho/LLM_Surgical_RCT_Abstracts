@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Exercise in Abdominal Aortic Aneurysms"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to an exercise group (n=33) or a usual care group (n=32) using computer-generated random numbers."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "65 patients with small AAAs, recruited from a cardiovascular clinic."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The exercise group underwent a supervised program of aerobic and resistance training."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in AAA size over 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "using computer-generated random numbers."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not applied to participants or clinicians, but outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to an exercise group (n=33) or a usual care group (n=32)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was performed on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The exercise group showed no significant difference in AAA growth compared to the control group (mean difference = 0.2 mm/year, 95% CI -0.5 to 0.9; p=0.45)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: N/A"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This study was funded by the National Institute of Health."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

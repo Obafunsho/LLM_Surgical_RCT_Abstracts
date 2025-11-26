@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Noninvasive Focused Ultrasound for Chronic Pain"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "double-blind, randomised, sham-controlled crossover trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "included participants aged 18-65 with chronic pain. Conducted at the University of Utah"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either active or sham ultrasound stimulation"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates a noninvasive focused ultrasound method targeting the anterior cingulate cortex (ACC) for pain relief"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pain intensity reduction, assessed using the Brief Pain Inventory over 7 days"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was maintained for participants and outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty-three participants were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "20 completing the study"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Active stimulation led to a 60% reduction in pain immediately post-intervention, 43% on day 1, and 33% on day 7. Sham stimulation resulted in reductions of 14.4%, 12.3%, and 6.6%, respectively. The effect size was significant (p < 0.05)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No serious adverse events were reported; mild side effects resolved within 24 hours"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov NCT05674903"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by the University of Utah"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

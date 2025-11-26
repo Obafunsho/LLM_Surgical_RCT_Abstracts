@@ -1,0 +1,74 @@
+{
+  "pmcid": "12144602",
+  "sha256": "6d017bb5184e877b423e911318a2458c0d8bc4b2c4c3029dd59952b00df0dc0f",
+  "timestamp_utc": "2025-11-09T15:31:50.607275+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.544712643678164,
+    "reading_ease": 35.249329501915724,
+    "word_count": 348
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The participants were randomized 1:1:1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study population consisted of 51 women ≥36 gestational weeks with planned vaginal delivery at Södersjukhuset, Stockholm"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized 1:1:1:1 to receive 2 g of tranexamic acid as an oral solution, tablets, effervescent tablets, or 1 g of intravenous tranexamic acid"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study aims to assess the uptake of oral tranexamic acid during active labor."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Our main outcome measures were time to therapeutic level, duration in therapeutic interval, and maximum plasma concentration of tranexamic acid."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The participants were randomized 1:1:1:1"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The study population consisted of 51 women...from December 2022 through February 2023."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Overall, 37 women (88%) found the intake of oral tranexamic acid during active labor acceptable."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Therapeutic level (5.0 mg/L) was reached at the 2‐h time point for oral (7.11 ± 3.31 mg/L) and the 30‐min time point for intravenous forms (30.6 ± 15.0 mg/L)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

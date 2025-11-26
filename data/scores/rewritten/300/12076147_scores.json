@@ -1,0 +1,74 @@
+{
+  "pmcid": "12076147",
+  "sha256": "cde7da289abe288fe21bb294c8ec3e01408878a8daa02f00124c43165a169416",
+  "timestamp_utc": "2025-11-09T23:25:57.021991+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.999953051643192,
+    "reading_ease": 29.961400625978115,
+    "word_count": 284
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Sentinel Lymph Node Biopsy Omission in Breast Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to BCS with or without SLNB."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "1733 women with unilateral cT1–2 N0 invasive breast cancer were recruited between May 2015 and January 2022."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to BCS with or without SLNB."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "assessing the oncological safety and impact on health-related quality of life (HRQoL) of omitting sentinel lymph node biopsy (SLNB)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was patient-reported arm function and HRQoL, measured up to 3 years post-inclusion"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "1733 women with unilateral cT1–2 N0 invasive breast cancer were recruited between May 2015 and January 2022."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "821 were analysed (392 with SLNB, 429 without SLNB) using an as-treated approach."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The SLNB group experienced a slight, temporary decline in arm function (P < 0.025) and more HRQoL arm and breast symptoms (P < 0.049)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02271828."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by the Netherlands Cancer Institute."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

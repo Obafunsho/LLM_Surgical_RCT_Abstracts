@@ -1,0 +1,74 @@
+{
+  "pmcid": "12146126",
+  "sha256": "943aaa257b58758c39a39387d897704d998131f30ac4357ad69ebb0c708d8102",
+  "timestamp_utc": "2025-11-09T15:31:55.287496+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.001552397313763,
+    "reading_ease": 33.439226924878966,
+    "word_count": 337
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "A retrospective was conducted."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "10 patients with TPFs were treated at our hospital"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compare the biomechanical strength and directional deformation between standard medial dual plates (MDPs) and medial customized plate (MCP)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to validate the feasibility of customized implants through optimized manufacturing within a clinically acceptable timeframe and evaluate the mechanical strength of customized internal implants through finite element analysis."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From May 1, 2023, to June 1, 2023, 10 patients with TPFs were treated"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Follow-up analysis showed operative times of 1.37 ± 0.58 h, intraoperative blood loss of 260 ± 179.20 mL, and favorable functional outcomes"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the γ‐type plate showed comparable strength to the MDPs system via finite element analysis and demonstrated a more vital ability to resist the separation of fracture fragments, with the maximum displacement of MDPs (0.61878 mm) 2.4 times higher than that of MCP (0.26124 mm)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

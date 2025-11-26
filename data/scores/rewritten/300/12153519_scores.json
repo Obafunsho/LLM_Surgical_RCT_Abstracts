@@ -1,0 +1,74 @@
+{
+  "pmcid": "12153519",
+  "sha256": "2f16e4653e2b971cb5c5c4c1efbd376e381ed54c3ba27b20f1bacb973ed8f342",
+  "timestamp_utc": "2025-11-09T23:28:29.943614+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.28709956709957,
+    "reading_ease": 29.36136363636365,
+    "word_count": 264
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "A Prospective Cohort Study on Walking Performance in Colorectal Cancer Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at the Sestre Milosrdnice University Hospital Centre, Zagreb, Croatia, from March 2022 to September 2023, this prospective cohort study included colorectal cancer patients scheduled for elective open or laparoscopic abdominal surgery. Exclusion criteria encompassed severe cardiorespiratory, musculoskeletal, or neurologic conditions."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to evaluate the impact of preoperative and postoperative walking performance in colorectal cancer patients undergoing surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Participants completed the EORTC QLQ-C30 and QoR 15 questionnaires and performed a 6-minute walk test (6MWT) 2 days before and 7 days after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Conducted at the Sestre Milosrdnice University Hospital Centre, Zagreb, Croatia, from March 2022 to September 2023"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Out of 84 assessed patients, 72 (mean age 62.48 years) were included in the final analysis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Postoperative walking performance showed a significant increase in average heart rate (65 bpm pre-surgery vs. 99 bpm post-surgery, p = 0.008)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "8769527",
+  "sha256": "172a47f5ba6f15cedc9d3bc7eb05c41bac2367f81b8b62ea5bb755a025cb3dde",
+  "timestamp_utc": "2025-11-09T22:59:32.376011+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.621141240733518,
+    "reading_ease": 37.77793113538823,
+    "word_count": 233
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Swedish Rectal Prolapse Trial: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants with full-thickness rectal prolapse were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants with full-thickness rectal prolapse"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either a perineal or abdominal approach (randomisation A), or to Delorme’s vs. Altemeier’s (randomisation B) or suture vs. resection rectopexy (randomisation C)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial aimed to compare outcomes of different surgical approaches."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes were bowel function and quality of life (QoL) measured by Wexner incontinence score and RAND-36 over 3 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using concealed envelopes in blocks of four."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 134 patients were randomised: 18 in randomisation A, 80 in B, and 54 in C."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "122 underwent surgery and were analysed per-protocol."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Improvements in Wexner and RAND-36 scores were observed, but no significant differences between groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in complications were noted."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04893642."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

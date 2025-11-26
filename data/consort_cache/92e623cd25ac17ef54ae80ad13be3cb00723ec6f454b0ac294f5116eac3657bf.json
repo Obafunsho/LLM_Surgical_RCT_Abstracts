@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 76 patients were randomly assigned to 2 groups based on treatment"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "all had one or 2 tumors with diameter \u22643 cm, with hepatitis without cirrhosis or Child class A or B cirrhosis without evident ascites or bleeding tendency"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "surgical resection or percutaneous ethanol injection therapy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To compare disease recurrence and survival among patients with small hepatocellular carcinoma after surgical resection or percutaneous ethanol injection therapy"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "A total of 76 patients were randomly assigned to 2 groups based on treatment"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 76 patients were randomly assigned to 2 groups based on treatment"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "By Cox regression model and Kaplan-Meier survival analysis, there is no statistical significance for recurrence and survival between treatment groups"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

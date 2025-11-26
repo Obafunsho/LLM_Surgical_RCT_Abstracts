@@ -1,0 +1,74 @@
+{
+  "pmcid": "11987435",
+  "sha256": "df3bc89e4bd86c2acdda50e4d0014cbfdd3fe2dc632080e15f908782a2ca5be3",
+  "timestamp_utc": "2025-11-09T22:12:26.957889+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.680255707762559,
+    "reading_ease": 30.155726027397293,
+    "word_count": 219
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing MIDCAB and Conventional CABG for Myocardial Revascularization"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable due to the study's retrospective nature."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This retrospective analysis included 1915 patients with coronary artery disease who underwent either MIDCAB or conventional CABG at Tel-Aviv Medical Center from January 2000 to December 2011."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aimed to compare the early and late outcomes of minimally invasive direct coronary artery bypass (MIDCAB) versus conventional coronary artery bypass grafting (CABG)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the early and late outcomes of minimally invasive direct coronary artery bypass (MIDCAB) versus conventional coronary artery bypass grafting (CABG)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was overall survival, measured over a median follow-up of 20 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable due to the study's retrospective nature."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable due to the study's retrospective nature."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "This retrospective analysis included 1915 patients with coronary artery disease who underwent either MIDCAB or conventional CABG at Tel-Aviv Medical Center from January 2000 to December 2011."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 1915 patients, 1752 underwent conventional CABG and 163 underwent MIDCAB."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Early mortality was lower in the MIDCAB group (0.6% vs. 3.6%, p = 0.042). Long-term survival rates at 10, 15, and 20 years were higher in the MIDCAB group: 76.7% vs. 55.1%, 63.7% vs. 37.1%, and 53.4% vs. 23.1%, respectively (p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "No specific funding was received for this study."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

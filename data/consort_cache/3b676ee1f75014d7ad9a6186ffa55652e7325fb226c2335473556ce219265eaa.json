@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Objective:: A randomized controlled trial was conducted to clarify the effectiveness of intraoperative blood salvage in reducing blood loss."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Living liver donors scheduled to undergo liver graft procurement were randomly assigned to a blood salvage group, in which a blood volume equal to approximately 0.7% of the patient's body weight was collected before the liver transection, or a control group."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Living liver donors scheduled to undergo liver graft procurement"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to a blood salvage group, in which a blood volume equal to approximately 0.7% of the patient's body weight was collected before the liver transection, or a control group."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective:: A randomized controlled trial was conducted to clarify the effectiveness of intraoperative blood salvage in reducing blood loss."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome measure was blood loss during liver parenchymal division."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Living liver donors scheduled to undergo liver graft procurement were randomly assigned"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "The surgeons were blinded to the randomization results."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seventy-nine donors were allocated intraoperatively to the blood salvage group (n = 40) or the control group (n = 39)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The amount of blood loss during liver transection was significantly smaller in the blood salvage group than in the control group (median loss during transection, 140 mL vs. 230 mL, P = 0.034). The results of a multivariate analysis revealed that intraoperative blood salvage offered the advantage of reduced blood loss during liver parenchymal division (adjusted OR, 0.31; 95% CI, 0.11\u20130.85, P = 0.025)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "5539276",
+  "sha256": "e7c63dc507bd11b2a4ae87c06bd13d237d93c34e38084b3ecf37eb5dc50136bb",
+  "timestamp_utc": "2025-11-09T23:58:08.863415+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.978534310459693,
+    "reading_ease": 31.39952698201199,
+    "word_count": 237
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Neoadjuvant Therapy in Primary Metastatic Rectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Methods: Conducted in seven centers in The Netherlands, the trial included 50 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "50 patients with histologically confirmed rectal adenocarcinoma and potentially resectable or ablatable liver or lung metastases"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "short-course radiotherapy followed by systemic therapy with capecitabine, oxaliplatin, and bevacizumab"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This phase II trial assessed the long-term outcomes"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the percentage of patients receiving radical treatment of all tumor sites, assessed over a median follow-up of 8.1 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable as this was an open-label study"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was not implemented"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "the trial included 50 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All 50 patients were analyzed"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "16 patients (32%) were alive, and 14 (28%) were disease-free. Median overall survival was 3.8 years"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not detailed in the manuscript"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NTR2029"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

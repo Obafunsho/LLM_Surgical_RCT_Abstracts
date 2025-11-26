@@ -1,0 +1,74 @@
+{
+  "pmcid": "6233790",
+  "sha256": "be586bd0070b3a388f224bda1753bbd19fa92169a104fb54b9825e1fac5865b0",
+  "timestamp_utc": "2025-11-09T22:49:28.014857+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.442143835616438,
+    "reading_ease": 25.36184589041096,
+    "word_count": 219
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of VTE Prophylaxis in Korean Patients Undergoing Gastrectomy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised controlled trial was conducted at Seoul St Mary’s Hospital, South Korea, from August 1, 2011, to March 31, 2015"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with histologically confirmed gastric adenocarcinoma were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either intermittent pneumatic compression (IPC) alone or IPC plus low-molecular-weight (LMW) heparin sodium"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was VTE incidence within the postoperative period"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 682 patients were randomised, with 341 in each group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis included 666 patients, using both intention-to-treat and per-protocol approaches"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "VTE incidence was 3.6% in the IPC-only group and 0.6% in the IPC+LMW heparin group (P = .008)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Bleeding complications occurred in 9.1% of the IPC+LMW heparin group and 1.2% of the IPC-only group (P < .001)"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT01448746"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

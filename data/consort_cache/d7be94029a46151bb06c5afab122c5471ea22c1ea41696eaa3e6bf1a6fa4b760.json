@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Perioperative Gabapentin for Postoperative Pain and Opioid Cessation"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised, double-blind, placebo-controlled trial was conducted at a single-center, tertiary referral teaching hospital."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A total of 1805 patients aged 18 to 75 years scheduled for various surgeries were screened."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Gabapentin (1200 mg preoperatively and 600 mg three times daily postoperatively) was compared to an active placebo (lorazepam, 0.5 mg preoperatively followed by inactive placebo postoperatively for 72 hours)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was time to pain resolution, defined as five consecutive reports of zero pain at the surgical site."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 1805 patients screened, 202 were randomised to placebo and 208 to gabapentin."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Intention-to-treat analysis showed no effect on pain cessation"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Intention-to-treat analysis showed no effect on pain cessation (HR, 1.04; 95% CI, 0.82-1.33; P = .73) but a 24% increase in opioid cessation rate (HR, 1.24; 95% CI, 1.00-1.54; P = .05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT01067144"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

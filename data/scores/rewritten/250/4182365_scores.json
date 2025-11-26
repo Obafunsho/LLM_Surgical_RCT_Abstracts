@@ -1,0 +1,74 @@
+{
+  "pmcid": "4182365",
+  "sha256": "aa7c60d23f23bd6f4b22164db58142b6890d4b142ceff509e55ea99b8d105372",
+  "timestamp_utc": "2025-11-09T22:41:31.063601+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.009182266009855,
+    "reading_ease": 33.06713957307062,
+    "word_count": 203
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Advanced Cryotherapy vs. Cold Packs in Knee Arthroplasty: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A priori sample size calculation determined 50 subjects per group were needed to detect a 2-point difference on the VAS with 80% power."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A total of 116 patients undergoing knee arthroplasty"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly allocated to receive either advanced cryotherapy (n=58) or cold packs (n=58)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluated the efficacy of advanced cryotherapy devices compared to cold packs in enhancing recovery after knee arthroplasty"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative pain measured by the Visual Analogue Scale (VAS) and analgesic consumption, assessed over a 6-week period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 116 patients undergoing knee arthroplasty were randomly allocated"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "randomly allocated to receive either advanced cryotherapy (n=58) or cold packs (n=58)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 6 weeks, no significant differences were observed in VAS scores or analgesic use between groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study examines the relationship between adjusted donor lung weight, a surrogate for extravascular lung water, and outcomes following bilateral lung transplantation."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcomes assessed were the incidence of PGD (grades II and III) and duration of intensive care unit (ICU) stay."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "We retrospectively analyzed 194 bilateral lung transplantations performed between January 2014 and May 2021."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The incidence of PGD was significantly higher in the upper 4th quartile group (\"high-weight,\" 22.9%) compared with the three lower quartile groups (\"low-weight,\" 8.9%) ( p = .020)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

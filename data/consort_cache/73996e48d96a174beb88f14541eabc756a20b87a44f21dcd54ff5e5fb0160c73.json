@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The Effect of Popliteus Tendon Resection on Knee Stability in Total Knee Arthroplasty: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to two groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "18 patients scheduled for posterior stabilized TKA, conducted at a single surgical center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group A (n=9) underwent popliteus tendon resection, while Group B (n=9) did not"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the impact of popliteus tendon resection on knee ligament balancing and load distribution during TKA"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was knee stability, assessed intraoperatively by a blinded senior surgeon"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "assessed intraoperatively by a blinded senior surgeon"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Group A (n=9) underwent popliteus tendon resection, while Group B (n=9) did not"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was per-protocol"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The senior surgeon detected no difference in knee stability between the groups"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

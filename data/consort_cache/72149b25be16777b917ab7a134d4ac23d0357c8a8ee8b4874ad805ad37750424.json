@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "vein bypass (VB) first versus a best endovascular treatment (BET) first revascularization strategy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of this health economic analysis was to investigate the cost-effectiveness (CEA) and cost-utility (CUA)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "incremental cost-effectiveness ratios expressed as cost per amputation-free life year (AFLY) and cost per quality-adjusted life year (QALY)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The lower costs (\u2013\u00a32524.23, 95% c.i., \u2013\u00a35844.93 to \u00a31131.52) in the BET-first group were mainly due to the reduced number of days in hospital and lower procedural costs. BET-first was also more effective leading to additional AFLYs (0.429, 95% c.i., 0.03 to 0.88) at 7 years and discounted QALYs (0.016, 95% c.i., \u22120.08 to 0.12) at 2 years."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "6618092",
+  "sha256": "ffd6f8e5e13dde8ca2aa701481a3447e979bc017d64c821ac521ca0c55de0e4b",
+  "timestamp_utc": "2025-11-09T16:09:54.337962+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.9516391509434,
+    "reading_ease": 46.04443985849059,
+    "word_count": 265
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients with symptomatic great saphenous vein (GSV) incompetence were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with symptomatic great saphenous vein (GSV) incompetence"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compare EVLA with two forms of RFA: direct RFA (dRFA; radiofrequency‐induced thermotherapy) and indirect RFA (iRFA; VNUS ClosureFast™)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of this study was to compare EVLA with two forms of RFA"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was GSV occlusion rate"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients with symptomatic great saphenous vein (GSV) incompetence were randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Some 450 patients received the allocated treatment (EVLA, 148; dRFA, 152; iRFA, 150)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The intention‐to‐treat analysis showed occlusion rates"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "occlusion rates of 75·0 (95 per cent c.i. 68·0 to 82·0), 59·9 (52·1 to 67·7) and 81·3 (75·1 to 87·6) per cent respectively after 1 year"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Significantly more adverse events were reported after treatment with EVLA (103) than after dRFA (61) and iRFA (65)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

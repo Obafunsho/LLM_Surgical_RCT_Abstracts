@@ -1,0 +1,74 @@
+{
+  "pmcid": "8092672",
+  "sha256": "ae0a2de21b1eb778fa259428d69f068d02a54b90d4dffa077b0bcb974c8e1a9e",
+  "timestamp_utc": "2025-11-10T00:08:16.371040+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.950613535736878,
+    "reading_ease": 45.542277039848216,
+    "word_count": 255
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Alpha-Blockers as Adjuvant Therapy in Shock Wave Lithotripsy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive alpha-blockers plus usual care or usual care alone."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomised controlled trial involved adults undergoing SWL for renal or ureteral stones."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive alpha-blockers plus usual care or usual care alone."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was stone clearance rate, assessed within 4 weeks post-SWL."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 4793 participants were randomised: 2396 to the intervention group and 2397 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 4084 participants using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Alpha-blockers may improve stone clearance (RR 1.16, 95% CI 1.09 to 1.23), potentially increasing clearance from 69.3% to 80.4%."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No drug-related major adverse events were reported; most were emergency room visits or rehospitalizations."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

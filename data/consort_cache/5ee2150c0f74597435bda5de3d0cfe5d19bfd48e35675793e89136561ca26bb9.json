@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tranexamic Acid Dosing in Chinese Cardiac Surgery Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "participants aged 18-70 years undergoing cardiac surgery with CPB were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "participants aged 18-70 years undergoing cardiac surgery with CPB"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to high-dose (30 mg/kg bolus, 16 mg/kg/h maintenance, 2 mg/kg prime, n=7) or low-dose (10 mg/kg bolus, 2 mg/kg/h maintenance, 1 mg/kg prime, n=9) TXA groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to establish a population pharmacokinetic (PK) model of tranexamic acid (TXA) in Chinese patients undergoing cardiac surgery with cardiopulmonary bypass (CPB) to guide individualized dosing strategies"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment by a blinded research coordinator"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "allocation concealment by a blinded research coordinator"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "n=7) or low-dose (10 mg/kg bolus, 2 mg/kg/h maintenance, 1 mg/kg prime, n=9)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Body weight was identified as the primary covariate affecting PK parameters"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: N/A"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

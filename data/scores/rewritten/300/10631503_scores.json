@@ -1,0 +1,74 @@
+{
+  "pmcid": "10631503",
+  "sha256": "30a6652c949f08087d42a33fea1723c5129c81153841841fc616a0ee3e44f495",
+  "timestamp_utc": "2025-11-09T23:08:01.151112+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.280737704918035,
+    "reading_ease": 17.954357923497298,
+    "word_count": 244
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Multiplayer vs. Single-Player iVR Training for Surgical Skills Acquisition"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised using block randomisation in a 1:1 ratio"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "junior orthopedic surgical residents and novice scrub technicians. Conducted at Imperial College, London"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised using block randomisation in a 1:1 ratio to either individual or team iVR training"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether multiplayer immersive Virtual Reality (iVR) training is superior to single-player training"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Non-Operative Technical Skills for Surgeons (NOTSS) score, evaluated by two blinded assessors."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomised using block randomisation in a 1:1 ratio"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "evaluated by two blinded assessors"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "40 participants, randomised using block randomisation in a 1:1 ratio"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was conducted on all 40 participants using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Team-trained participants outperformed individually trained participants in nontechnical skills (NOTSS: 13.1±1.5 vs 10.6±1.6, P = 0.002), completed procedures 33% faster (28.2 minutes ± 5.5 vs 41.8 ± 8.9, P < 0.001), and made fewer technical errors (10.4 ± 6.1 vs 22.6 ± 5.4, P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN32225943."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

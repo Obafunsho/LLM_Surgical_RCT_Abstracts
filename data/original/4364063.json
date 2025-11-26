@@ -1,0 +1,22 @@
+{
+  "pmcid": "4364063",
+  "pmid": "25586726",
+  "title": "Population pharmacokinetics of ϵ-aminocaproic acid in adolescents undergoing posterior spinal fusion surgery",
+  "abstract": "Background: Despite demonstrated efficacy of ϵ-aminocaproic acid (EACA) in reducing blood loss in adolescents undergoing spinal fusion, there are no population-specific pharmacokinetic data to guide dosing. The aim of this study was to determine the pharmacokinetics of EACA in adolescents undergoing spinal fusion surgery and make dosing recommendations.\n\nMethods: Twenty children ages 12–17 years were enrolled, with 10 children in each of two groups based on diagnosis (idiopathic scoliosis or non-idiopathic scoliosis). Previously reported data from infants undergoing craniofacial surgery were included in the model to enable dosing recommendations over a wide range of weights, ages, and diagnoses. A population non-linear mixed effects modelling approach was used to characterize EACA pharmacokinetics.\n\nResults: Population pharmacokinetic parameters were estimated using a two-compartment disposition model with allometrically scaled weight and an age effect on clearance. Pharmacokinetic parameters for the typical patient were a plasma clearance of 153 ml min −1 70 kg −1 (6.32 ml min −1 kg −0.75 ), intercompartmental clearance of 200 ml min −1 70 kg −1 (8.26 ml min −1 kg −0.75 ), central volume of distribution of 8.78 litre 70 kg −1 (0.13 litre kg −1 ), and peripheral volume of distribution of 15.8 litre 70 kg −1 (0.23 litre kg −1 ). Scoliosis aetiology did not have a clinically significant effect on drug pharmacokinetics.\n\nConclusions: The following dosing schemes are recommended according to patient weight: weight <25 kg, 100 mg kg −1 loading dose and 40 mg kg −1 h −1 infusion; weight ≤25 kg–<50 kg, 100 mg kg −1 loading dose and 35 mg kg −1 h −1 infusion; and weight ≥50 kg, 100 mg kg −1 loading dose and 30 mg kg −1 h −1 infusion. An efficacy trial employing this dosing strategy is warranted.\n\nClinical trial registration: NCT01408823 .",
+  "authors": [
+    "P. A. Stricker",
+    "M. R. Gastonguay",
+    "D. Singh",
+    "J. E. Fiadjoe",
+    "E. M. Sussman",
+    "E. Y. Pruitt",
+    "T. K. Goebel",
+    "A. F. Zuppa"
+  ],
+  "journal": "BJA: British Journal of Anaesthesia",
+  "year": "2015",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

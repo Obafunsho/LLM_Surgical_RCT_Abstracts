@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Atrioventricular Conduction Prolongation in Cardiac Pacing"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This single-center, randomized controlled trial was conducted at a university-affiliated tertiary care hospital."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Cardiac surgical patients at risk of left ventricular failure post-cardiopulmonary bypass were included."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Temporary BiVP optimization was the intervention, with no specific comparator."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to estimate atrial conduction using AVCP and assess its impact on pAVD."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were optimum cardiac output (OptCO) and mean arterial pressure (OptMAP), measured immediately post-bypass."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomization and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seven patients were randomized, with three in the short-AVCP group (<64 ms) and four in the long-AVCP group (>64 ms)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "OptCO and OptMAP were significantly lower in the short-AVCP group (p = 0.015 and p = 0.029)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

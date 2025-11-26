@@ -1,0 +1,74 @@
+{
+  "pmcid": "8600451",
+  "sha256": "f50e261a9d5f49c9f1858bc235770d10f4aa336ed461dcaaadb4bf1cd889cbc2",
+  "timestamp_utc": "2025-11-09T16:18:29.499685+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.33572825024438,
+    "reading_ease": 29.569046920821137,
+    "word_count": 372
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "equivalence clinical trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomized, blinded (to participants, clinicians, data managers, and the statistician), parallel-designed, equivalence clinical trial included 201 adult patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "201 adult patients who underwent single or bilateral LT between May 30, 2017, and March 21, 2020"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Treatment with iNO or iEPO initiated in the operating room before lung allograft reperfusion and administered continously until cessation criteria met in the intensive care unit (ICU)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To investigate whether the use of iEPO will lead to similar rates of severe/grade 3 primary graft dysfunction (PGD-3) after adult LT when compared with use of iNO."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was PGD-3 development at 24, 48, or 72 hours after LT."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "randomized per stratum to receive either iNO or iEPO at the time of LT via 1:1 treatment allocation."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "blinded (to participants, clinicians, data managers, and the statistician)"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "201 adult patients who underwent single or bilateral LT between May 30, 2017, and March 21, 2020"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "In the intention-to-treat population, 103 patients received iEPO and 98 received iNO."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The primary outcome occurred in 46 of 103 patients (44.7%) in the iEPO group and 39 of 98 (39.8%) in the iNO group, leading to a risk difference of 4.9% (TOST 90% CI, –6.4% to 16.2%; P = .02 for equivalence)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov identifier: NCT03081052"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This health system–funded"
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

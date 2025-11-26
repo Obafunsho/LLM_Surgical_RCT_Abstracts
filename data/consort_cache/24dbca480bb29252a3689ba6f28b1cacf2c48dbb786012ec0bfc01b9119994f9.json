@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The Pragmatic Ischaemic Thrombectomy Evaluation (PISTE) trial was a multicentre, randomised, controlled clinical trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Ten UK centres enrolled 65 patients between April 2013 and April 2015."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible patients had IVT started within 4.5\u2005hours of stroke symptom onset."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing intravenous thrombolysis (IVT) alone with IVT and adjunctive intra-arterial mechanical thrombectomy (MT)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: The Pragmatic Ischaemic Thrombectomy Evaluation (PISTE) trial was a multicentre, randomised, controlled clinical trial"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the proportion of patients achieving independence defined by a modified Rankin Scale (mRS) score of 0\u20132 at day 90."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Ten UK centres enrolled 65 patients between April 2013 and April 2015."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "In the intention-to-treat analysis, there was no significant difference in disability-free survival at day 90 with MT"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "absolute difference 11%, adjusted OR 2.12, 95% CI 0.65 to 6.94, p=0.20"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration number: NCT01745692 ; Results."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

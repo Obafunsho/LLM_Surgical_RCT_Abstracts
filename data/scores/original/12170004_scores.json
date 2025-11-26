@@ -1,0 +1,74 @@
+{
+  "pmcid": "12170004",
+  "sha256": "38374199f66a487bc56c1c563d875cc261a21ccf44f6f5130d8e51f3a8d7670e",
+  "timestamp_utc": "2025-11-09T15:33:09.006779+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.56527629233512,
+    "reading_ease": 30.837834224598964,
+    "word_count": 204
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: Non-steroidal anti-inflammatory drugs (NSAIDs) are widely used in surgery."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "The retrospective study was performed to explore the efficacy of intraoperative NSAIDs on postoperative pulmonary complications (PPCs) in patients with non-small cell lung cancer (NSCLC) after surgery."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with NSCLC who underwent lung resection between January 1 and May 31, 2019, were included in this study."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients who were given NSAIDs were assigned to the NSAIDs group, while patients who did not receive NSAIDs were assigned to the control group."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "The retrospective study was performed to explore the efficacy of intraoperative NSAIDs on postoperative pulmonary complications (PPCs) in patients with non-small cell lung cancer (NSCLC) after surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was PPCs."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "In the study, 139 patients received perioperative NSAIDs, while 167 patients did not."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Propensity score-matched analysis created a matched cohort of 238 patients, with 119 patients in each group."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "After matching, the frequencies of postoperative pneumonia, respiratory failure, and myocardial ischemia were significantly lower in the NSAIDs group than those in the control group (P<0.05)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

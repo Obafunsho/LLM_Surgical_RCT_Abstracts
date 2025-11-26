@@ -1,0 +1,74 @@
+{
+  "pmcid": "12261295",
+  "sha256": "4440b5ea9cff21f132a15b0260a6068e9bd56f171079af7cc566a34e0159dd64",
+  "timestamp_utc": "2025-11-09T15:35:15.507868+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.805478927203069,
+    "reading_ease": 41.34500000000003,
+    "word_count": 270
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This randomized open-label single-centre trial assessed the efficacy of intravenous (i.v.) analgesia alone or in combination with catheter wound infusion (CWI) or intrathecal morphine (ITM) after open liver resection."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Adult patients undergoing open liver resection were randomly assigned to receive either i.v. analgesia alone or in combination with ITM or CWI."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Adult patients undergoing open liver resection"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either i.v. analgesia alone or in combination with ITM or CWI."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomized open-label single-centre trial assessed the efficacy of intravenous (i.v.) analgesia alone or in combination with catheter wound infusion (CWI) or intrathecal morphine (ITM) after open liver resection."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was cumulative morphine dose at 24 hours (h)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Adult patients undergoing open liver resection were randomly assigned"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "This randomized open-label single-centre trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "186 patients were included in the study (62 patients in each group)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "ITM significantly reduced morphine use compared with i.v. analgesia alone (mean difference on log-transformed values 0.57; 95% confidence interval 0.21 to 0.93; Bonferroni-adjusted P = 0.002)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events and postoperative complications were comparable across the three groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT03238430 ( http://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

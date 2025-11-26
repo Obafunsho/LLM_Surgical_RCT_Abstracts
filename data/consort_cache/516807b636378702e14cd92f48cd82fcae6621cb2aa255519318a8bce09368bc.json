@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial on the Nephrotoxic Effects of Sevoflurane"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised controlled trial was conducted in an intensive care unit setting."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults undergoing surgery requiring general anesthesia."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received sevoflurane, while the control group received isoflurane."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the nephrotoxic potential of sevoflurane compared to isoflurane."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of acute kidney injury (AKI) within 48 hours post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the sevoflurane group and 100 to the isoflurane group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 98 participants in the sevoflurane group and 97 in the isoflurane group, using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The incidence of AKI was higher in the sevoflurane group (37.5%) compared to the isoflurane group (10.7%), with a mean difference of 26.8% (95% CI 15.2 to 38.4; p = 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included nephrogenic diabetes insipidus in 7% of the sevoflurane group and 2% of the isoflurane group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: This trial was funded by the National Institute of Health."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

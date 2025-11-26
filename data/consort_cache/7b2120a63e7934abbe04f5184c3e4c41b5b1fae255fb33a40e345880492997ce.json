@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A recent randomized controlled trial (RCT), performed by the authors"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "chronic radiculopathy caused by lumbar disc herniation, defined as symptoms and/or signs of 4 to 12 months duration"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing early surgical microdiscectomy with 6 months of nonoperative care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "is surgical management more cost-effective than 6 months of nonoperative care from the third-party payer perspective"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "QALYs derived from the EuroQoL-5D were the health outcome and were derived exclusively from the RCT data"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients in the early surgical treatment group had higher expected costs (CAD 4118 [95% CI 3429 to 4867]) than those with nonsurgical treatment (CAD 2377 [95% CI 1622 to 3518]), but they had better expected health outcomes (1.48 QALYs [95% CI 1.39 to 1.57] versus 1.30 [95% CI 1.22 to 1.37])."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

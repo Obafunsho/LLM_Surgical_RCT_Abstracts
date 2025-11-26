@@ -1,0 +1,74 @@
+{
+  "pmcid": "11834876",
+  "sha256": "e4365076cd9f5b47dcb3b456aa65fb021a2b4b122fb556f7428e77c6bb9ca4e0",
+  "timestamp_utc": "2025-11-09T22:09:07.917149+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.56740206185567,
+    "reading_ease": 27.99632646048113,
+    "word_count": 194
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Effects of Remimazolam vs. Propofol on Intraoperative Neurophysiological Monitoring: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In a prospective, double-blind design, 66 patients aged 20-70 years, with ASA physical status I-III, were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "66 patients aged 20-70 years, with ASA physical status I-III, were randomised 1:1"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive either remimazolam (Group R) or propofol (Group P) along with remifentanil"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "compared the effects of remimazolam and propofol on intraoperative neurophysiological monitoring (IONM) during cervical spine surgery"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in N20 latency of somatosensory-evoked potentials (SEP) measured preoperatively and 30 minutes after anesthetic induction (T1)"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment using opaque envelopes"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, surgeons, and outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "33 patients were randomised to each group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "all were analysed using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean difference = 0.2 ms, 95% CI -0.3 to 0.7; p = 0.45"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, with no severe complications reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04968054"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by the Yonsei University Health System"
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  }
+}

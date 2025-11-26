@@ -1,0 +1,74 @@
+{
+  "pmcid": "9808983",
+  "sha256": "e95ae9ec1e9b8b1d5fe06e2a7b001207346d5f7a4cb75c6df0bbc2c37c2ca6fb",
+  "timestamp_utc": "2025-11-09T16:22:21.851911+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.378928486576388,
+    "reading_ease": 41.82424447612263,
+    "word_count": 366
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We tested the hypothesis that patients managed using such a system postcardiac surgery would present less hypotension compared to patients receiving standard management."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 40 patients admitted to the intensive care unit (ICU) after cardiac surgery were randomized into 2 groups for a 2-hour study period."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A total of 40 patients admitted to the intensive care unit (ICU) after cardiac surgery were randomized into 2 groups for a 2-hour study period."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "In the CLV group, the norepinephrine infusion was controlled via the CLV system; in the control group, it was adjusted manually by the ICU nurse."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We tested the hypothesis that patients managed using such a system postcardiac surgery would present less hypotension compared to patients receiving standard management."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the percentage of time patients were hypotensive, defined as MAP <65 mm Hg, during the study period."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "A total of 40 patients admitted to the intensive care unit (ICU) after cardiac surgery were randomized into 2 groups for a 2-hour study period."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 40 patients admitted to the intensive care unit (ICU) after cardiac surgery were randomized into 2 groups for a 2-hour study period."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Over the 2-hour study period, the percentage of time with hypotension was significantly lower in the CLV group than that in the control group (1.4% [0.9–2.3] vs 12.5% [9.9–24.3]; location difference, −9.8% [95% CI, −5.4 to −15.9]; P < .001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse event occurred during the study period in both groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

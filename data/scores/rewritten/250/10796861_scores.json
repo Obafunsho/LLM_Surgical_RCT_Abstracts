@@ -1,0 +1,74 @@
+{
+  "pmcid": "10796861",
+  "sha256": "9ebd7f40cf4aa4665dc3d2bf822ea3c07b32599ece2875aa913e21f512a26f11",
+  "timestamp_utc": "2025-11-09T21:57:20.301058+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.192514997692662,
+    "reading_ease": 10.868440239963093,
+    "word_count": 197
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aimed to assess the efficacy of acetaminophen and topical diclofenac (AtopD) combination therapy compared to monotherapies"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the efficacy of acetaminophen and topical diclofenac (AtopD) combination therapy compared to monotherapies in osteoarthritis (OA) pain"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis focused on 5 RCTs with 353 patients"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The MBMA revealed a statistically significant interaction coefficient, indicating a 32% reduction in opioid use with the combination versus acetaminophen monotherapy"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

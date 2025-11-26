@@ -1,0 +1,74 @@
+{
+  "pmcid": "10566884",
+  "sha256": "7d79e84c8be3bbf59898f2a894784d17ef00b87ab6e0f0bdd27ce112bbbc061e",
+  "timestamp_utc": "2025-11-09T21:55:21.955514+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.486992353440954,
+    "reading_ease": 18.679290569243847,
+    "word_count": 214
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Splinting and Steroid Injection for Trigger Finger"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised into three groups: splinting (n = 43), steroid injection (n = 40), and combination therapy (n = 37)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included adults without prior corticosteroid injection or concomitant hand conditions. Conducted at an academic university hospital"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compare the effectiveness of splinting alone, steroid injection alone, and a combination of both"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to compare the effectiveness of splinting alone, steroid injection alone, and a combination of both"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes were VAS pain reduction and MHQ score improvement at 6, 12, and 52 weeks"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using computer-generated block randomisation with allocation concealment via sequentially numbered, opaque, sealed envelopes"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Both the allocator and outcome assessor were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "randomised into three groups: splinting (n = 43), steroid injection (n = 40), and combination therapy (n = 37)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "in both intention-to-treat and per-protocol analyses"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No clinically important differences in VAS pain scores or MHQ scores were observed among the groups at any timepoint"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

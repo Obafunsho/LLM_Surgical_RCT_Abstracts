@@ -1,0 +1,74 @@
+{
+  "pmcid": "8669787",
+  "sha256": "d82b70e3722ec8901936a972b437bcf4246da705a486d06ae455ca4e4a843c21",
+  "timestamp_utc": "2025-11-09T22:59:08.085692+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.651852991452994,
+    "reading_ease": 35.36536923076926,
+    "word_count": 234
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial on Negative-Pressure Wound Therapy in Stoma-Reversal Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-centre, open-label, parallel, individually randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing stoma reversal"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised (1:1) to receive NPWT or conventional wound dressing"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess whether negative-pressure wound therapy (NPWT) improves wound healing compared with conventional wound dressing."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of wound complications and SSIs within 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "The study was unblinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between June 2019 and January 2021, 100 patients were randomised: 50 to NPWT (49 analysed) and 50 to control (45 analysed)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "50 to NPWT (49 analysed) and 50 to control (45 analysed)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "No significant difference was found in wound-complication rate (10% NPWT vs. 16% control; odds ratio 0.61, 95% CI 0.18 to 2.10, P = 0.542) and SSI rate (8% NPWT vs. 7% control; odds ratio 1.24, 95% CI 0.26 to 5.99, P = 1.000)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration: NCT037812016."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Smith&Nephew S.R.L."
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  }
+}

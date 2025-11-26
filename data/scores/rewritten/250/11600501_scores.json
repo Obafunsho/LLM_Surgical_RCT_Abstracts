@@ -1,0 +1,74 @@
+{
+  "pmcid": "11600501",
+  "sha256": "acb0cb978c83c6c385e2b0c4cc13dbdb9b4a39483694c826ee02e489512a4887",
+  "timestamp_utc": "2025-11-09T22:05:36.118260+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.076058201058203,
+    "reading_ease": 26.80333333333334,
+    "word_count": 216
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Prophylactic Inotropic Agents in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised controlled trial with individual participant randomisation"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility included adults undergoing cardiac surgery without signs of LCOS"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive inotropic agents or control (standard care, placebo, or other inotropes)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the prophylactic use of inotropic agents to prevent LCOS in adults undergoing cardiac surgery"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of LCOS within 48 hours post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included outcome assessors, patients, and clinicians"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 3307 participants were randomised: 1654 to the intervention and 1653 to the control group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 1620 in the intervention and 1625 in the control group, using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Levosimendan reduced LCOS risk (RR 0.43, 95% CI 0.25 to 0.74) and mortality (RR 0.65, 95% CI 0.43 to 0.97)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by [Funding Source]"
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  }
+}

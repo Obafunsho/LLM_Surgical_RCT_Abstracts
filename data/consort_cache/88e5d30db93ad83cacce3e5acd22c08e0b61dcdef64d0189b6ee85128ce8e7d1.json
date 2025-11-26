@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of ANP-HA-GNPs for Chemoresistant Retinoblastoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted using an in ovo chicken chorioallantoic membrane model and an orthotopic in vivo RB rat eye model."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Etoposide-resistant RB cells were treated with ANP-HA-GNPs, with phosphate-buffered saline (PBS) serving as the control."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the potential of atrial natriuretic peptide-conjugated hyaluronic acid-coated gold nanoparticles (ANP-HA-GNPs) as an adjuvant treatment for chemoresistant RB."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was tumor growth reduction, assessed over a 7-day period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, and allocation was concealed with sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to treatment allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 60 eggs were randomised: 30 to the ANP-HA-GNPs group and 30 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "ANP-HA-GNPs significantly reduced tumor growth and angiogenesis compared to controls (mean difference = 2.5 mm, 95% CI 1.8 to 3.2; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group, indicating a favorable safety profile."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was supported by institutional grants."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

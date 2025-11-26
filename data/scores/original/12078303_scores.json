@@ -1,0 +1,74 @@
+{
+  "pmcid": "12078303",
+  "sha256": "f94122f7203a526f1769e11a18f5b40b075a338e3f96351d689aecea5d0d0f68",
+  "timestamp_utc": "2025-11-09T15:29:44.112543+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.219802454929042,
+    "reading_ease": 40.97916283084007,
+    "word_count": 237
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "598 patients aged >70 years who underwent coronary revascularization"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "TAR group; 327, single ITA + SVG group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: To assess whether total arterial revascularization (TAR) offers survival and freedom from major adverse cardiac or cerebrovascular events (MACCE) benefit"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The survival ( p = 0.410) and MACCE-free rates ( p = 0.494) over 5 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "428 patients remained (101, TAR group; 327, single ITA + SVG group)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "100 patients in each group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "HR = 0.74, 95% confidence interval (CI) = 0.44–1.22, p = 0.233"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12183160",
+  "sha256": "aa77e001695db95fbce16077e2ecfbe7b550e34a561c5703fbe0772b8b874deb",
+  "timestamp_utc": "2025-11-09T15:33:20.464494+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.232592592592596,
+    "reading_ease": 48.416666666666686,
+    "word_count": 270
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: This study aimed to evaluate the role of the SAMe-TT 2 R 2 score in the prediction of anticoagulation control after mechanical mitral valve replacement."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "We retrospectively reviewed clinical data of 160 patients who received mechanical mitral valve replacement at Beijing Anzhen Hospital from January to December 2013."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the role of the SAMe-TT 2 R 2 score in the prediction of anticoagulation control after mechanical mitral valve replacement."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "When the cut-off value of the SAMe-TT 2 R 2 score was set to ≥4, the sensitivity and specificity of predicting Time in Therapeutic Range (TTR) ≥65% were 69.8% and 93.1%, respectively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "We retrospectively reviewed clinical data of 160 patients who received mechanical mitral valve replacement at Beijing Anzhen Hospital from January to December 2013."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The Area Under the Curve (AUC) was 0.854."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

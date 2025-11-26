@@ -1,0 +1,74 @@
+{
+  "pmcid": "12127896",
+  "sha256": "48aef6b56632618191ea87222f18914d4d9ba8144b9250ea1fa7eaa336221e76",
+  "timestamp_utc": "2025-11-09T15:31:06.039865+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.687330941704037,
+    "reading_ease": 7.197803587443957,
+    "word_count": 446
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVES: To conduct an integrative synthesis of: effectiveness of behaviour change technique-based interventions on daily physical activity and clinical-/patient-reported outcomes; behaviour change techniques and theoretical mechanisms within effective behaviour change technique-based interventions; feasibility and acceptability."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes: short term (< 6 months) and maintenance (> 6 months) of daily physical activity."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Eleven randomised controlled trials demonstrated that behaviour change technique-based interventions increased daily physical activity in the short term [increase of 0.20 standardised mean difference (95% confidence interval 0.07 to 0.33), ~ 473 steps/day] with high certainty."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "STUDY REGISTRATION: This study is registered as PROSPERO CRD42020159869."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "FUNDING: This award was funded by the National Institute for Health and Care Research (NIHR) Health Technology Assessment programme (NIHR award ref: NIHR130664) and is published in full in Health Technology Assessment; Vol. 29, No. 18."
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

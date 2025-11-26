@@ -1,0 +1,74 @@
+{
+  "pmcid": "11523493",
+  "sha256": "20de4426093478432b98df2f068500c8137406c263cc100f4411e4430b2f6266",
+  "timestamp_utc": "2025-11-09T15:20:26.893439+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.331664388243336,
+    "reading_ease": 47.57915071770336,
+    "word_count": 209
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients aged at least 18 years, who were scheduled for elective colorectal cancer surgery through a midline incision at two Swedish hospitals (2017–2021), were randomized in a 1 : 1 ratio"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients aged at least 18 years, who were scheduled for elective colorectal cancer surgery through a midline incision at two Swedish hospitals (2017–2021)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized in a 1 : 1 ratio to either fascial closure with RTL and 4 : 1 small-bite closure with polypropylene sutures (RTL group) or 4 : 1 small-bite closure with polydioxanone suture alone (PDS group)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim was to investigate whether adding a reinforced tension-line (RTL) suture to a standard 4 : 1 small-bite closure would reduce the incidence of incisional hernia after colorectal cancer surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was CT-detected incisional hernia 1 year after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized in a 1 : 1 ratio"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "CT interpreters were blinded regarding treatment group."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "In all, 160 patients were randomized, 80 in each group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Some 134 patients were analysed at 1 year: 63 in the RTL group and 71 in the PDS group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Nineteen patients were found to have an incisional hernia: 4 (6%) in the RTL group and 15 (21%) in the PDS group (OR 3.95, 95% c.i. 1.24 to 12.60; P = 0.014)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No unintended effects were found in either group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT03390764 ( https://clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

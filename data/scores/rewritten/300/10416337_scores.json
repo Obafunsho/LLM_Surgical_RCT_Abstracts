@@ -1,0 +1,74 @@
+{
+  "pmcid": "10416337",
+  "sha256": "d8d0cfc447488b924933f090add34ebbf6f03b4f215c2689fe8c0990347e9d27",
+  "timestamp_utc": "2025-11-09T23:06:45.652528+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.00362995594714,
+    "reading_ease": 14.448234948605005,
+    "word_count": 227
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Albuterol Spray in COPD Patients Undergoing General Anesthesia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "120 smoking patients with COPD, aged 18-65 years"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either albuterol spray (n=60) or placebo (n=60)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the effect of albuterol spray on hypoxia and bronchospasm in COPD patients under general anesthesia."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the occurrence of wheezing and bronchospasm, assessed perioperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was performed using block randomization, and allocation was concealed using sequentially numbered, opaque, sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Both patients and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomly assigned to receive either albuterol spray (n=60) or placebo (n=60)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Wheezing and recurrent cough were significantly lower in the albuterol group compared to the control group (p<0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant side effects were reported in the albuterol group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: IRCT20170108031818N1."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

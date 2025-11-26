@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "208 patients were randomized in a 1:1 ratio"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "high-risk patients with heart failure and FMR"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "M-TEER with MitraClip device or surgical mitral valve repair or replacement"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The MATTERHORN trial aimed to compare the efficacy and safety outcomes"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "At 1 year, at least one primary endpoint event"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "208 patients were randomized in a 1:1 ratio"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "208 patients were randomized in a 1:1 ratio"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "16.7% of the M-TEER group and 22.5% of the surgery group"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "41.0% of the patients in the intervention group and 77.3% in the surgery group had at least one adverse event"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

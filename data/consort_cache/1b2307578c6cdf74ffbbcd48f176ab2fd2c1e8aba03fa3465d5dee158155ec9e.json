@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Effect of a Standardized Handoff Curriculum on Interclinician Communication: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This cluster randomized stepped-wedge trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included 106 clinicians (residents, fellows, advance-practice clinicians, and attending physicians) involved in 1488 handoff events."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study evaluates the impact of the UW-IPASS standardized handoff curriculum on communication and patient outcomes."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the impact of the UW-IPASS standardized handoff curriculum on communication and patient outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the perceived adequacy of interclinician communication, measured over eight months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was by cluster, with allocation concealment not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants included 106 clinicians (residents, fellows, advance-practice clinicians, and attending physicians) involved in 1488 handoff events."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 63 residents and advance practice clinicians, 13 fellows, and 30 attending physicians participated."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "10.2% of handoffs were reported as poor quality, compared to 7.2% during the UW-IPASS period (odds ratio, 0.19; 95% CI, 0.03-0.74; P = .03)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ISRCTN14209509."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding source not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

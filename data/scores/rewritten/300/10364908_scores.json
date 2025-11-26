@@ -1,0 +1,74 @@
+{
+  "pmcid": "10364908",
+  "sha256": "0be238d878f6ee4e85eda2788ffd61812d7c2bccf907aaef9e2ed3ea6b4bd330",
+  "timestamp_utc": "2025-11-09T23:06:25.684157+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.897291666666668,
+    "reading_ease": 35.09631944444445,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing 125 I Seed and Hookwire Localization in Breast-Conserving Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "690 women with non-palpable breast cancer eligible for breast-conserving surgery were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "690 women with non-palpable breast cancer eligible for breast-conserving surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive preoperative localization using either 125 I seeds or hookwires"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to evaluate the effectiveness of 125 I seed versus hookwire localization"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were re-excision and positive margin rates, assessed post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was stratified by lesion type and study site, with allocation concealed via a secure online database."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of the 690 women randomised, 659 were analysed"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of the 690 women randomised, 659 were analysed"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The re-excision rate was significantly lower in the 125 I seed group compared to the HWL group (13.9% vs. 18.9%; p = 0.019)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included suboptimal positioning requiring corrective action in 9 cases for seeds and 13 for wires."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ACTRN12613000655741."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

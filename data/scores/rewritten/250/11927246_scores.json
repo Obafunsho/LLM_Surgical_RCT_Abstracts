@@ -1,0 +1,74 @@
+{
+  "pmcid": "11927246",
+  "sha256": "b0b7ff65923418847b72be339e45a0c029eb152ff92ba82d5c92eed08e6603e1",
+  "timestamp_utc": "2025-11-09T22:11:11.405376+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.991450980392155,
+    "reading_ease": 11.804529411764719,
+    "word_count": 204
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Transcutaneous Electrical Acupoint Stimulation for PONV Prevention in Gynecological Laparoscopy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 120 women, aged 18-65, undergoing gynecological laparoscopy were randomized into three groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This prospective, randomized, double-blind trial was conducted at an academic medical center specializing in women's and children's care. A total of 120 women, aged 18-65, undergoing gynecological laparoscopy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized into three groups: single-period TEAS (Group S, n=40), multiple-period TEAS (Group M, n=40), and non-stimulation control (Group C, n=40)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of single-period versus multiple-period transcutaneous electrical acupoint stimulation (TEAS) for PONV prevention."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was PONV incidence and severity within 48 hours post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated with allocation concealment using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding included patients and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 120 women, aged 18-65, undergoing gynecological laparoscopy were randomized into three groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Group M showed significantly reduced PONV incidence compared to Group C (10% vs. 50%, p<0.05) and Group S (10% vs. 17.5%, p<0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to TEAS were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Chinese Clinical Trials Registry, No. ChiCTR2200065802."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

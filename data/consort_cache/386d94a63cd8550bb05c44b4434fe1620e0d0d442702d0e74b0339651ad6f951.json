@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A preplanned substudy of a randomised controlled trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Two hundred and forty-two adult patients scheduled for abdominal surgery at risk of developing PPCs."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "High (12 cmH 2 O) versus low (\u22642 cmH 2 O) levels of PEEP."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To test whether the kinetics of plasma biomarkers are capable of identifying patients who will develop PPCs, and whether the kinetics depend on the intraoperative level of positive end-expiratory pressure (PEEP)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Individual PPCs were combined as a composite endpoint. Plasma samples were collected before surgery, directly after surgery and on the fifth postoperative day."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Blood sampling was complete in 242 patients: 120 patients in the high PEEP group and 122 patients in the low PEEP group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Blood sampling was complete in 242 patients: 120 patients in the high PEEP group and 122 patients in the low PEEP group."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Increases in plasma levels of TNF- IL-6, IL-8 and CC-16, and a decrease in plasma levels of SP-D were greater in patients who developed PPCs; however, the area under the receiver operating characteristic curve was low for all biomarkers."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The PROVHILO trial, including this substudy, was registered at clinicaltrials.gov ( )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

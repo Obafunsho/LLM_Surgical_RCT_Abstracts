@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Indocyanine Green and Technetium Nanocolloid for Sentinel Lymph Node Detection in Pediatric Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "15 pediatric patients were prospectively included"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "15 pediatric patients were prospectively included based on specific eligibility criteria. Conducted at UMC Utrecht"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Preoperative ICG\u2013TC injections were administered"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the feasibility of using indocyanine green (ICG) combined with 99m technetium nanocolloid (ICG\u2013TC) for sentinel lymph node (SLN) detection in pediatric patients"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the intraoperative detection rate of SLNs"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "15 pediatric patients were prospectively included"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "SLNs were transcutaneously visible in 10/15 (67%) patients"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "SLNs were transcutaneously visible in 10/15 (67%) patients. Intraoperatively, 35/37 (95%) SLNs were fluorescent, and 37/37 (100%) were radioactive"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NL71166.041.20"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

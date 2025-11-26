@@ -1,0 +1,74 @@
+{
+  "pmcid": "5433250",
+  "sha256": "2c1356fb18f103faac46afb8e73f97767ffebf3bdef9af7ffe49f9f7c5a030d1",
+  "timestamp_utc": "2025-11-09T22:46:24.171273+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.664431924882631,
+    "reading_ease": 36.72622535211269,
+    "word_count": 213
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Cryoablation for Early-Stage Breast Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This phase II trial included patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with unifocal invasive ductal breast cancer ≤2 cm, with <25% intraductal component and tumor enhancement on MRI"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Cryoablation is a well-established technique for treating fibroadenomas and is being explored as a non-surgical treatment for breast cancer."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effectiveness of cryoablation in treating early-stage breast cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the rate of complete tumor ablation, defined as no remaining invasive breast cancer (IBC) or ductal carcinoma in situ (DCIS) on pathologic examination."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 99 patients were enrolled from 19 centers"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "86 patients (87 breast cancers) evaluable for data analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Successful ablation was achieved in 66/87 (75.9%) cancers, with a 90% confidence interval of 67.1–83.2."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01094353."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by the American College of Surgeons Oncology Group."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

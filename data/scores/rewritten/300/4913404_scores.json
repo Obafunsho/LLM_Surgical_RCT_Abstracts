@@ -1,0 +1,74 @@
+{
+  "pmcid": "4913404",
+  "sha256": "d391b639c74a97c48cfd23180d7477c967bc2b692ef0d3173268c63815a517c5",
+  "timestamp_utc": "2025-11-09T23:55:35.980859+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.875350538508435,
+    "reading_ease": 12.693155862629538,
+    "word_count": 259
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Sumatriptan for Postoperative Recovery After Microvascular Decompression"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-centre, double-blind, randomised controlled trial, 50 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included adult patients undergoing MVD who reported postoperative headaches."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive a subcutaneous injection of sumatriptan (6 mg) or saline."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assessed the impact of sumatriptan on postoperative recovery quality."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Quality of Recovery-40 (QoR-40) score at 24 hours post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Fifty patients were randomised: 25 to the sumatriptan group and 25 to the placebo group, with recruitment occurring over a specified period."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The sumatriptan group demonstrated significantly higher QoR-40 scores (median 184; interquartile range 169–196) compared to the placebo group (133; 119–155; P <0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3/25 (12%) in the sumatriptan group and 1/25 (4%) in the placebo group experiencing mild gastrointestinal side effects."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01632657."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

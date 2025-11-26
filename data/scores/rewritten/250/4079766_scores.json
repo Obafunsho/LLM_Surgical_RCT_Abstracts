@@ -1,0 +1,74 @@
+{
+  "pmcid": "4079766",
+  "sha256": "24e063ccb7cf08361fd5fcf7eb0a9a95c37d55428a6424769bdbc84358a366ff",
+  "timestamp_utc": "2025-11-09T22:40:58.974393+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.670206896551726,
+    "reading_ease": 10.545482758620722,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D): A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised controlled trial used a 2 × 2 factorial design."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were diabetic patients with myocardial ischemia and multivessel coronary artery disease."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "173 were randomised to early CABG and 174 to medical management."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study aimed to compare early revascularization with medical management and insulin sensitization with insulin provision."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of subsequent myocardial infarction, measured over a follow-up period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the interventions."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 347 patients were randomised to early coronary artery bypass grafting (CABG) or medical management."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Early CABG resulted in a significant reduction in myocardial infarction rates compared to medical management (hazard ratio = 0.70, 95% CI 0.50 to 0.98; p = 0.04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Perioperative morbidity and mortality were low, with no significant differences in adverse events between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00006305."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: National Institutes of Health."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "7160755",
+  "sha256": "d8cbba86f6c5b8a1962c95ad80d5fe11c248565c5ac7045db112b48570ec4afd",
+  "timestamp_utc": "2025-11-09T16:12:15.010850+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.597893732970029,
+    "reading_ease": 48.039420072661244,
+    "word_count": 367
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "observer-blinded, randomized clinical SAWHI study"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomly assigned to the treatment arms in a 1:1 ratio stratified by study site and wound size using a centralized web-based tool"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "539 consecutive, compliant adult patients with SAWHI after surgery without fascia dehiscence"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Negative pressure wound therapy and conventional wound treatment (CWT)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate the effectiveness and safety of NPWT for SAWHI after surgery in clinical practice."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was time until wound closure (delayed primary closure or by secondary intention) within 42 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "randomly assigned to the treatment arms in a 1:1 ratio stratified by study site and wound size using a centralized web-based tool"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "observer-blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "539 consecutive, compliant adult patients with SAWHI after surgery"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "507 study participants (NPWT, 256; CWT, 251) were assessed for the primary end point in the modified intention-to-treat (ITT) population."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Mean time to wound closure was significantly shorter in the NPWT arm (36.1 days) than in the CWT arm (39.1 days) (difference, 3.0 days; 95% CI 1.6-4.4; P < .001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "the risk for wound-related AEs was higher in the NPWT arm (risk ratio, 1.51; 95% CI, 0.99-2.35)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT01528033"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

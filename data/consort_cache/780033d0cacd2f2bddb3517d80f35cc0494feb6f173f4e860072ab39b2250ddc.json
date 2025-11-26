@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to the technique guide control group (n = 8), the virtual reality group (n = 8), or the virtual reality and technique guide group (n = 9)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Twenty-five first- and second-year medical students without prior exposure to intramedullary tibial nail insertion were recruited."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to the technique guide control group (n = 8), the virtual reality group (n = 8), or the virtual reality and technique guide group (n = 9)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Does a virtual reality simulator with or without a standard technique guide result in (1) a higher proportion of participants who completed the insertion of an intramedullary tibial nail in a synthetic bones model and (2) greater procedural accuracy than does training with a technique guide alone?"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Procedural accuracy was defined as the number of incorrect steps normalized out of the 16 possible performed."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to the technique guide control group (n = 8), the virtual reality group (n = 8), or the virtual reality and technique guide group (n = 9)."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "one orthopaedic surgeon assessed a blinded video of the participant performing it so the assessor could not recognize the individual or that individual\u2019s gender."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to the technique guide control group (n = 8), the virtual reality group (n = 8), or the virtual reality and technique guide group (n = 9)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "A higher proportion of participants in the virtual reality group (6 of 8) and the virtual reality and technique guide group (7 of 9) completed the intramedullary nail than did participants in the technique guide group (2 of 8; p = 0.01)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

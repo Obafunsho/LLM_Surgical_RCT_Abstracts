@@ -1,0 +1,74 @@
+{
+  "pmcid": "8600451",
+  "sha256": "5e89fb1972bfdd403dde4ee051f5561e918c4bfd1d12ec758b038bf7d714bfdb",
+  "timestamp_utc": "2025-11-09T22:58:53.441625+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.543451612903226,
+    "reading_ease": 43.20517741935484,
+    "word_count": 186
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Inhaled Epoprostenol vs. Inhaled Nitric Oxide in Lung Transplantation"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised, blinded, parallel-designed equivalence trial included 201 adult LT patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "201 adult LT patients from a health system"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive iNO or iEPO"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was severe/grade 3 primary graft dysfunction (PGD-3) at 24, 48, or 72 hours post-LT"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included participants, clinicians, data managers, and statisticians"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "201 patients were randomised; 103 to iEPO and 98 to iNO"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Intention-to-treat analysis was used"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "PGD-3 occurred in 46/103 (44.7%) iEPO and 39/98 (39.8%) iNO, with a risk difference of 4.9% (TOST 90% CI, –6.4% to 16.2%; P = .02 for equivalence)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in secondary outcomes or adverse events were observed"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: NCT03081052"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Health system-funded"
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

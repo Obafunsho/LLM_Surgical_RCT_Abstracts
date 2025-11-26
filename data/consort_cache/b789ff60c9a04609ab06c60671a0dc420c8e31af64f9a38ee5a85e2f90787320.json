@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Hartmann\u2019s Procedure and Intersphincteric Abdominoperineal Excision in Rectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "eligible patients with adenocarcinoma of the rectum located \u22655 cm from the anal verge were randomised intraoperatively to HP or iAPE"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "eligible patients with adenocarcinoma of the rectum located \u22655 cm from the anal verge were randomised intraoperatively to HP or iAPE"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised intraoperatively to HP or iAPE"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This multicentre randomised controlled trial aimed to compare 30-day postoperative surgical complication rates between Hartmann\u2019s procedure (HP) and intersphincteric abdominoperineal excision (iAPE)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 30-day postoperative surgical complications"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was centralised and stratified by hospital, with allocation concealed until surgery"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 194 eligible patients, 163 were randomised (80 to HP, 83 to iAPE)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis was intention-to-treat"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The surgical complication rate was 39% for HP and 43% for iAPE (OR 0.83; 95% CI 0.44 to 1.54; P = 0.549)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01995396"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

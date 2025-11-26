@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Liraglutide in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "37 adult patients scheduled for elective cardiac surgery were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "37 adult patients scheduled for elective cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive either liraglutide or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the impact of preoperative liraglutide on insulin secretion and glucose control"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in insulin secretion, measured by HOMA-B, before and after surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was stratified by center and type 2 diabetes status, with allocation concealed"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, clinicians, and outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between April and August 2018, 21 patients were randomized to liraglutide and 16 to placebo"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was per-protocol"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Liraglutide significantly increased HOMA-B (258 \u00b1 179 vs 116 \u00b1 180, difference: 142, 95% CI: 24\u2013261, P = 0.004)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NTR6323"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: This study was supported by Novo Nordisk and the Dutch Research Council"
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

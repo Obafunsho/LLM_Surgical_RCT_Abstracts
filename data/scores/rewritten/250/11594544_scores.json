@@ -1,0 +1,74 @@
+{
+  "pmcid": "11594544",
+  "sha256": "2ebb4ceebc86d2e979daba81e2005178648930c857beac364499a038c9b12cd2",
+  "timestamp_utc": "2025-11-09T22:05:32.406387+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.810654761904761,
+    "reading_ease": 25.381567460317513,
+    "word_count": 224
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Effect of Local Corticosteroids on Dysphagia in ACDF Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this prospective, randomised controlled trial, 30 patients aged 20-80 years undergoing ACDF were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "30 patients aged 20-80 years undergoing ACDF"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either 10 mg of local triamcinolone or saline solution"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effect of local corticosteroids on dysphagia in patients undergoing anterior cervical discectomy and fusion (ACDF)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the upper esophageal sphincter (UES) relaxation pressure, measured preoperatively and at 1 month postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "randomisation performed using a computer spreadsheet and allocation concealed from patients and analysts"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "The treating physician was blinded during swallowing assessments."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty patients completed the study, with 15 in each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Thirty patients completed the study, with 15 in each group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The median postoperative UES relaxation pressure was significantly lower in the corticosteroid group (24.5 mm Hg) compared to the saline group (33.6 mm Hg; mean difference = -9.1 mm Hg, 95% CI -15.8 to -2.4; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials.gov NCT04717713."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

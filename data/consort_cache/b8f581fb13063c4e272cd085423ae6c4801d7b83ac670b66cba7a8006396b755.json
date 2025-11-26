@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Nonoperative Treatment and Hemiarthroplasty for Four-Part Proximal Humerus Fractures in the Elderly"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to nonoperative treatment or hemiarthroplasty."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "50 patients aged 65 years and older with four-part proximal humerus fractures."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to nonoperative treatment or hemiarthroplasty."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare nonoperative treatment and hemiarthroplasty regarding function, strength, and pain."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Constant-Murley score at 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to treatment allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "50 patients aged 65 years and older with four-part proximal humerus fractures."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was performed on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The effect size for the primary outcome was [effect size], with a 95% confidence interval of [confidence interval] and a p-value of [p-value]."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

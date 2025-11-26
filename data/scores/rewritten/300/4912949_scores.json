@@ -1,0 +1,74 @@
+{
+  "pmcid": "4912949",
+  "sha256": "3072dd721cc4b804a1a3da4b8e20db846ed7315f43950e3f5b0412f257edd6af",
+  "timestamp_utc": "2025-11-09T23:55:32.982261+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.106000922509224,
+    "reading_ease": 42.719345787207885,
+    "word_count": 271
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Bilateral Deep Brain Stimulation of the Fornix in Mild, Probable Alzheimer’s Disease"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The ADvance Trial is a multicenter, 12-month, double-blind, randomised, controlled feasibility study."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients with mild, probable AD, recruited between June 6, 2012, and April 28, 2014."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "A total of 42 patients were randomised to receive bilateral fornix DBS."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to assess the safety, efficacy, and tolerability of bilateral deep brain stimulation (DBS) of the fornix in patients with mild, probable Alzheimer’s disease (AD)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the 90-day perioperative safety of the procedure."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted at the patient level, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was maintained for outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 42 patients were randomised to receive bilateral fornix DBS."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Twenty-six patients (61.9%) experienced 64 AEs related to the study procedure, with 7 serious AEs in 5 patients (11.9%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Twenty-six patients (61.9%) experienced 64 AEs related to the study procedure, with 7 serious AEs in 5 patients (11.9%)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

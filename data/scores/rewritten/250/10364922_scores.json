@@ -1,0 +1,74 @@
+{
+  "pmcid": "10364922",
+  "sha256": "b752dd0245a0abfca35a109b93eb89d049492ba507ac0151b426b7a84643da6d",
+  "timestamp_utc": "2025-11-09T21:54:06.084633+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.817065217391306,
+    "reading_ease": 21.756195652173943,
+    "word_count": 240
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Effect of Preoperative Physical Activity on Recovery after Breast Cancer Surgery: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This parallel, unblinded, multicentre trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were recruited from a university and a county hospital in western Sweden."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received an individual recommendation for 30 minutes of daily aerobic physical activity before and 4 weeks after surgery. The control group received no physical activity advice."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial aimed to assess whether a recommendation for non-supervised physical activity enhances recovery post-surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was patient-reported physical recovery at 4 weeks post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using an online system with 1:1 allocation in permutated blocks."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Neither participants nor outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between November 2016 and December 2018, 400 patients were randomised (200 per group)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "At 4 weeks, 370 participants (180 intervention, 190 control) were analysed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "No significant difference was observed in physical recovery (RR 1.03, 95% CI 0.95 to 1.13) or mental recovery (RR 1.05, 95% CI 0.93 to 1.17)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The mean Comprehensive Complication Index score was similar between groups (4.2 vs 4.7)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02560662."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

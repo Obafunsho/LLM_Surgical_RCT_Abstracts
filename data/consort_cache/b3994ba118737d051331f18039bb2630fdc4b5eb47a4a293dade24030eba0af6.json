@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In the OPTIMIZE trial, we randomly assign elderly KTRs"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "we randomly assign elderly KTRs"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "standard-exposure calcineurin inhibitor (CNI), mycophenolate mofetil, and prednisolone or an adapted regimen with low dose CNI, everolimus, and prednisolone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Finding ways to improve the COVID-19 vaccination response in this vulnerable population is of uttermost importance."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "we measured the humoral response after 2 (N = 32) and 3 (N = 22) COVID-19 mRNA vaccinations and the cellular response (N = 15) after 2 vaccinations."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "N = 32"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The seroconversion rates of elderly KTRs on a standard immunosuppressive regimen were only 13% and 38% after 2 and 3 vaccinations, respectively, whereas the response rates of KTRs on the everolimus regimen were significantly higher at 56% ( P = 0.009) and 100% ( P = 0.006)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

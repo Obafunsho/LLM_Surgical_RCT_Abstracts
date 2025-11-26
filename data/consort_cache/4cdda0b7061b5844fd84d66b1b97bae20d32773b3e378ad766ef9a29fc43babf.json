@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intraoperative Molecular Imaging with a Targeted Contrast Agent for Lung Adenocarcinomas"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial enrolled 50 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility required confirmed adenocarcinoma diagnosis."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients received 0.1 mg/kg of a fluorescent folate receptor alpha (FR\u03b1)-targeted molecular contrast agent intravenously pre-surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial assesses a targeted molecular contrast agent for real-time optical imaging of lung adenocarcinomas during surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was intraoperative identification of fluorescent tumors."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This randomised controlled trial enrolled 50 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was per-protocol."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Of 50 patients, 46 (92%) exhibited fluorescent tumors."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

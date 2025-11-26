@@ -1,0 +1,18 @@
+{
+  "pmcid": "3819165",
+  "pmid": "17041506",
+  "title": "Intraoperative Cortical Surface Characterization Using Laser Range Scanning: Preliminary Results",
+  "abstract": "OBJECTIVE: To present a novel methodology that uses a laser range scanner (LRS) capable of generating textured (intensity-encoded) surface descriptions of the brain surface for use with image-to-patient registration and improved cortical feature recognition during intraoperative neurosurgical navigation.\n\nMETHODS: An LRS device was used to acquire cortical surface descriptions of eight patients undergoing neurosurgery for a variety of clinical presentations. Textured surface descriptions were generated from these intraoperative acquisitions for each patient. Corresponding textured surfaces were also generated from each patient’s preoperative magnetic resonance tomograms. Each textured surface pair (LRS and magnetic resonance tomogram) was registered using only cortical surface information. Novel visualization of the combined surfaces allowed for registration assessment based on quantitative cortical feature alignment.\n\nRESULTS: Successful textured LRS surface acquisition and generation was performed on all eight patients. The data acquired by the LRS accurately presented the intraoperative surface of the cortex and the associated features within the surgical field-of-view. Registration results are presented as overlays of the intraoperative data with respect to the preoperative data and quantified by comparing mean distances between cortical features on the magnetic resonance tomogram and LRS surfaces after registration. The overlays demonstrated that accurate registration can be provided between the preoperative and intraoperative data and emphasized a potential enhancement to cortical feature recognition within the operating room environment. Using the best registration result from each clinical case, the mean feature alignment error is 1.7 ± 0.8 mm over all cases.\n\nCONCLUSION: This study demonstrates clinical deployment of an LRS capable of generating textured surfaces of the surgical field of view. Data from the LRS was registered accurately to the corresponding preoperative data. Visual inspection of the registration results was provided by overlays that put the intraoperative data within the perspective of the whole brain’s surface. These visuals can be used to more readily assess the fidelity of image-to-patient registration, as well as to enhance recognition of cortical features for assistance in comparing the neurotopography between magnetic resonance image volume and physical patient. In addition, the feature-rich data presented here provides considerable motivation for using LRS scanning to measure deformation during surgery.",
+  "authors": [
+    "Tuhin K. Sinha",
+    "Michael I. Miga",
+    "David M. Cash",
+    "Robert J. Weil"
+  ],
+  "journal": "Neurosurgery",
+  "year": "2006",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

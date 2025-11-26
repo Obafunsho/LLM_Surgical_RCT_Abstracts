@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Medium-Term Restenosis Rates in Carotid Endarterectomy with Biological vs. Synthetic Patches"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included patients with symptomatic or asymptomatic 50\u201399% internal carotid artery stenosis."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Bovine pericardium served as the biological patch, while Dacron, ePTFE, and polyester-urethane were synthetic comparators."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was moderate (50\u201369%) and critical (70\u201399%) restenosis, defined by duplex ultrasonography criteria."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 127 CEAs were analysed, with 75 using bovine pericardium."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Bovine patches were significantly associated with >50% restenosis (p = 0.042) but not >70% (p = 0.197)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in peri-operative complications were observed between patch types."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

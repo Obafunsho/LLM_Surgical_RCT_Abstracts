@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Biventricular Pacing on Hemodynamics Post-Cardiopulmonary Bypass"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomised to receive either optimized biventricular pacing or atrial pacing at a matched heart rate"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "30 patients with a mean ejection fraction of 35%\u00b115% and mean QRS duration of 119\u00b124 ms undergoing coronary bypass and/or valve surgery were included"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised to receive either optimized biventricular pacing or atrial pacing at a matched heart rate"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates its sustained effects on mean arterial pressure (MAP) post-chest closure"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in MAP, measured over 30-second intervals"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "30 patients with a mean ejection fraction of 35%\u00b115% and mean QRS duration of 119\u00b124 ms undergoing coronary bypass and/or valve surgery were included"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Optimized biventricular pacing increased MAP by 4% compared to sinus rhythm (78.5\u00b12.4 vs 75.1\u00b12.4 mm Hg; P=0.002) and by 3% compared to atrial pacing (76.4\u00b12.7 mm Hg; P=0.017)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

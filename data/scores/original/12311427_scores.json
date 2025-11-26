@@ -1,0 +1,74 @@
+{
+  "pmcid": "12311427",
+  "sha256": "1a397ee70a2a0b0d537adb22816c3317639e8cd7882692f81563737326a2646e",
+  "timestamp_utc": "2025-11-09T15:36:24.574438+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.799900793650796,
+    "reading_ease": 21.61375000000001,
+    "word_count": 288
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "All patients treated with antibiotics in two large RCTs (APPAC and APPAC II) were included."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "All patients treated with antibiotics in two large RCTs (APPAC and APPAC II) were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "All patients treated with antibiotics in two large RCTs (APPAC and APPAC II) were included."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Identifying predictive factors of primary non-responsiveness or recurrence would further improve antibiotic treatment success and safety."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary non-responsiveness analysis compared patients operated on within 30 days after randomization for complicated appendicitis with either patients presenting with uncomplicated appendicitis at surgery within 30 days or patients with successful antibiotic treatment during 3-year follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 856 patients randomized to antibiotics (mean(s.d.) age of 36(12) years; 365 (42.6%) were women)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "832 were eligible for non-responsiveness analysis and 732 for appendicitis recurrence analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Findings associated with primary non-responsiveness on admission included an appendiceal diameter ≥15 mm (adjusted risk ratio (RR) 4.00 (95% c.i. 2.00 to 7.92) ( P < 0.001)) and a body temperature >38°C (adjusted RR 2.76 (95% c.i. 1.27 to 6.03) ( P = 0.011))."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration numbers: NCT03236961 and NCT01022567 ( http://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

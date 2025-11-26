@@ -1,0 +1,74 @@
+{
+  "pmcid": "11046790",
+  "sha256": "ab589c0f25195980e82c25aa8566061187097e70071e660e12af19fc33f313d0",
+  "timestamp_utc": "2025-11-09T23:11:45.700584+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.085609177215193,
+    "reading_ease": 20.45854034810128,
+    "word_count": 237
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Drug Development Targeting the Kallikrein-Kinin System"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the identification of promising drug candidates for emerging indications."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The search identified 68 drugs: 10 approved, 25 in clinical development, and 33 in preclinical development."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "The study did not report adverse events or harm associated with the drug candidates."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 3,
+    "max_score": 25
+  }
+}

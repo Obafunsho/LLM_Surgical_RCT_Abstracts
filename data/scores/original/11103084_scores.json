@@ -1,0 +1,74 @@
+{
+  "pmcid": "11103084",
+  "sha256": "72c10fe9734a74db16cdc3eacdec44e9f0d04d8e7ff86adfccfefda7411c5818",
+  "timestamp_utc": "2025-11-09T15:15:13.144909+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.086439393939397,
+    "reading_ease": 25.72965909090908,
+    "word_count": 330
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients ≥60 yr old undergoing elective noncardiac surgery were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients ≥60 yr old undergoing elective noncardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned either to stop or continue RAS inhibitors before surgery"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesised that stopping RAS inhibitors before surgery increases the risk of perioperative myocardial injury"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome, masked to investigators, clinicians, and patients, was myocardial injury...within 48 h after surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly assigned either to stop or continue RAS inhibitors before surgery"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "masked to investigators, clinicians, and patients"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 241 participants"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Myocardial injury occurred in 63/101 (62.4%) subjects with NT-proBNP >100 pg ml −1 , compared with 45/140 (32.1%) subjects with NT-proBNP <100 pg ml −1"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "OR 3.50 (95% confidence interval [CI] 2.05–5.99); P <0.0001"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

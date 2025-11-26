@@ -1,0 +1,74 @@
+{
+  "pmcid": "1877032",
+  "sha256": "a8312cd3265b98ca388816b0016fb5256ccde38de118238903b46c05ed3d773a",
+  "timestamp_utc": "2025-11-09T22:32:29.769766+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.657006904273185,
+    "reading_ease": 29.531149468184367,
+    "word_count": 233
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Fibrin Glue Sealant in Liver Resection"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomly assigned to either fibrin glue application or control groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "300 patients undergoing hepatic resection"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to either fibrin glue application or control groups"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the amount of blood loss, measured intraoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured by sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 150 patients were randomised to each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant differences were observed in transfusion requirements (0.15 ± 0.66 vs. 0.17 ± 0.63 PRCU; P = 0.7234)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

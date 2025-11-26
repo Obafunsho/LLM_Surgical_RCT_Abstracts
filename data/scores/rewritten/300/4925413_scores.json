@@ -1,0 +1,74 @@
+{
+  "pmcid": "4925413",
+  "sha256": "92894bc1b1d68e253d0113bdb423f8fdc9c35c3751466e8ff7ba22064cc8c188",
+  "timestamp_utc": "2025-11-09T23:55:43.515169+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.582789729354616,
+    "reading_ease": 40.40070784177655,
+    "word_count": 262
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of a Decision Aid and Motivational Interviewing for Knee Osteoarthritis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A two-group randomised controlled trial was conducted"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "493 black adults aged ≥50 with moderate to severe knee OA, recruited from urban primary care clinics"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either a decision-aid video and motivational interviewing or an educational booklet on OA"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine if a decision aid and motivational interviewing could increase referrals to orthopaedic surgery and willingness to undergo TKA among black patients"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was referral to orthopaedic surgery at 12 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 493 randomised, 253 were in the control group and 240 in the treatment group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was intention-to-treat"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Referral rates were 36% in the control group and 32% in the treatment group (OR, 0.81; 95% CI, 0.56–1.18; p = 0.277)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

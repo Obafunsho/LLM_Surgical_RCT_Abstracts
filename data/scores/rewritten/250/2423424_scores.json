@@ -1,0 +1,74 @@
+{
+  "pmcid": "2423424",
+  "sha256": "18b42eabc9280250d80058fff5e7455d36bcbca9b858a55da6fe36c1a46785db",
+  "timestamp_utc": "2025-11-09T22:33:07.242072+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.863529411764706,
+    "reading_ease": 40.2858823529412,
+    "word_count": 238
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Selective Dorsal Rhizotomy and Physical Therapy in Children with Cerebral Palsy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 68 children with CP were randomised"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "children with CP undergoing selective dorsal rhizotomy (SDR) followed by intensive physical therapy (PT) versus PT alone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare impairment and functional outcomes in children with cerebral palsy"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in Gross Motor Abilities Estimate score from baseline to 20 months post-intervention"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 34 children were randomised to each group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on all participants using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The SDR-PT group showed a significantly greater improvement in Gross Motor Abilities Estimate score compared to the PT-only group (mean difference = X, 95% CI Y to Z; p < 0.05)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No serious adverse events were reported in either group"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

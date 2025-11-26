@@ -1,0 +1,74 @@
+{
+  "pmcid": "12503995",
+  "sha256": "c71cdfe145137c73e73c9a6e37bd5fd3629575bdc27d0890491e6446ed2366f8",
+  "timestamp_utc": "2025-11-09T15:45:48.475711+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.50157681940701,
+    "reading_ease": 24.807405660377384,
+    "word_count": 265
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Ninety subjects who underwent TKA were randomly assigned"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Ninety subjects who underwent TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive ultrasound-guided CACB using either the OA or BA"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "In this study, the authors first applied the oblique approach (OA) to CACB and systematically compared the postoperative analgesic effects and adverse reactions of these two CACB methods"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The main outcome measured was the exercise maximum visual analog scale (VAS) score at 72 h after surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly assigned"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ninety subjects who underwent TKA were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "postoperative exercise VAS and the incidence of postoperative adverse effects were lower in the OA group compared to the BA group"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "the incidence of postoperative adverse effects were lower in the OA group compared to the BA group"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: Chinese Clinical Trial Registry: ChiCTR2200059889"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

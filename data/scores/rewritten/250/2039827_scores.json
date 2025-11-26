@@ -1,0 +1,74 @@
+{
+  "pmcid": "2039827",
+  "sha256": "0f4bfb64159770dcd329ddef0746f13d1282daab18633074c50192d416cb168e",
+  "timestamp_utc": "2025-11-09T22:32:48.685958+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.265724765258216,
+    "reading_ease": 45.17351672535213,
+    "word_count": 213
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Oxaliplatin, Capecitabine, and Radiotherapy in Neoadjuvant Treatment for Rectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this phase I/II trial, patients with T3-4 rectal cancer were enrolled from four centers."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility included histologically confirmed adenocarcinoma within 15 cm of the anal sphincter."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Oxaliplatin was administered on days 1 and 29 with a fixed capecitabine dose of 1000 mg/m² twice daily on days 1–14 and 25–38, alongside 50.4 Gy radiotherapy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the maximum tolerated dose (MTD) and efficacy of oxaliplatin combined with capecitabine and radiotherapy (Capox-RT) as neoadjuvant therapy for rectal cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the R0 resection rate, assessed in phase II."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding details were not applicable."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between June 2003 and December 2004, 22 patients were enrolled, with 21 evaluable for outcomes."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "21 evaluable for outcomes."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "17/21 patients achieved R0 resection (81%, 95% CI 58–95%)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Grade III diarrhea occurred in 18% of patients."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

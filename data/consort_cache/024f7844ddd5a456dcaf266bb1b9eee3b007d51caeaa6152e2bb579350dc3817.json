@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This prospective randomized controlled double-blind trial included 116 patients"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to either the SGB group ( n =\u200940) or control group ( n =\u200939), with the latter receiving no SGB"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of the study was to assess the clinical utility of ultrasound-guided SGB in patients undergoing thoracoscopic pulmonary lobectomy"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Hemodynamics using oxygenation index (OI) and the pulmonary shunt fraction (Qs/Qt), respiratory mechanics using dynamic lung compliance (Cdyn) and mean airway pressure (P mean ), and levels of pro-inflammatory factors (IL-6 and IL-8) were assessed as clinical outcomes after surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "116 patients who underwent SLV. After exclusion, 88 patients were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "randomly assigned to either the SGB group ( n =\u200940) or control group ( n =\u200939)"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Compared to the control group, the SGB group demonstrated significantly decreased P mean , Qs/Qt, IL-6, and IL-8 and increased Cdyn and OI"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The study was registered in the Chinese Clinical Trial Registry (#ChiCTR2200063210)"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

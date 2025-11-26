@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial Comparing Pain in Self-Reduction vs. Physician-Guided Reduction of Anterior Shoulder Dislocations"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The study was powered to detect a 2-point VAS difference with 80% power and \u03b1=0.05."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 18-60 with acute anterior shoulder dislocations. Conducted at a tertiary referral center's emergency department"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "self-reduction using the Boss-Holzach-Matter (BHM) technique versus physician-guided reduction using the Spaso technique"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the pain experienced during self-reduction using the Boss-Holzach-Matter (BHM) technique versus physician-guided reduction using the Spaso technique"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pain during reduction, measured on a 0-10 visual analogue scale (VAS) immediately post-reduction."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Participants were randomly allocated to either the Sp group (n=30) or the BHM group (n=30) using block randomization with sealed opaque envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "observer-blinded trial included patients"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From May 2015 to February 2017, 60 patients were randomized."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "60 patients were randomized."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The BHM group reported significantly less pain (mean VAS 3.57, SD 2.1) compared to the Sp group (mean VAS 5.26, SD 2.9; p=0.047)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No complications were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered at ClinicalTrials.gov (NCT02527603)"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "No funding source was reported."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12166819",
+  "sha256": "3a69a895c77c4d0f7dc3e9763092b6b816053650aac6a7ee64edc7e248da86ac",
+  "timestamp_utc": "2025-11-09T23:29:05.394395+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.282083548220736,
+    "reading_ease": 23.33042117930208,
+    "word_count": 277
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Adjusted Donor Lung Weight on Primary Graft Dysfunction in Lung Transplantation"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "194 bilateral lung transplantations conducted at Sahlgrenska University Hospital, Sweden, from January 2014 to May 2021"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study examines the association between adjusted donor lung weight and PGD outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of PGD (grades II and III) within 72 hours post-transplant."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Due to the retrospective nature, randomisation and blinding were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Due to the retrospective nature, randomisation and blinding were not applicable."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "194 bilateral lung transplantations conducted"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The \"high-weight\" group exhibited a significantly higher incidence of PGD (22.9%) compared to the \"low-weight\" group (8.9%) (p = 0.020)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not specifically reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration was not applicable due to the retrospective design."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by Sahlgrenska University Hospital foundations, The Gothenburg Society of Medicine, and the Swedish Heart-Lung Foundation."
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

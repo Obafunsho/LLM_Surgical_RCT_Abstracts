@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this phase III randomized controlled multicenter trial (the SCANDIUM trial)"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The planned accrual was 90 patients randomized 1:1 to receive a one-time treatment with IHP or best alternative care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with previously untreated isolated uveal melanoma liver metastases were included between 2013 and 2021"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized 1:1 to receive a one-time treatment with IHP or best alternative care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To investigate overall survival (OS) and health-related quality of life (HRQOL) of first-line isolated hepatic perfusion (IHP) compared to best alternative care for patients with uveal melanoma liver metastases."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the 24-month OS rate"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized 1:1"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "87 patients randomized to the IHP group [43 patients; 41 (89%) received IHP] or the control group (44 patients)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The intention-to-treat population included 87 patients"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "median progression-free survival was 7.4 months in the IHP group compared with 3.3 months in the control group, with a hazard ratio of 0.21 (95% CI, 0.12\u20130.36)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

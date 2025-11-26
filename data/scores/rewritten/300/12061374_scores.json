@@ -1,0 +1,74 @@
+{
+  "pmcid": "12061374",
+  "sha256": "6f57f6e8cc96ab12cbaaf677b8f1039399f51fa8bfbaaf8197c9a7c830c6dfed",
+  "timestamp_utc": "2025-11-09T23:25:36.394520+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.777447191011237,
+    "reading_ease": 29.646485393258445,
+    "word_count": 267
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Cryoneurolysis for Chronic Knee Osteoarthritis Pain"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised, double-blind, sham-controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included age ≥18 years, knee pain for >6 months, and radiographic evidence of osteoarthritis."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either cryoneurolysis or a sham procedure"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to assess whether cryoneurolysis is superior to sham in reducing pain intensity in patients with chronic knee osteoarthritis."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the difference in average pain at 14 days post-intervention, measured using a numeric rating scale."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "blinding included patients and outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "87 patients with chronic knee osteoarthritis were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the intention-to-treat analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "mean difference = 0.49; 95% CI, –0.3 to 1.2; P = 0.198"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "minor, transient adverse effects reported in both groups"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT03774121."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by the Danish Rheumatism Association and the Danish Health Authority."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "4820245",
+  "sha256": "6bf7858d267022b5dd72441a5d23e8470d0965d6f46d91230f414c6fd6744376",
+  "timestamp_utc": "2025-11-09T23:55:02.769665+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.881687500000002,
+    "reading_ease": 39.84456250000002,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Carotid Revascularization Endarterectomy versus Stenting Trial (CREST): A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either CAS or CEA."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This multicenter randomised controlled trial involved 2,502 patients eligible based on carotid artery stenosis criteria."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either CAS or CEA."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The CREST trial aimed to compare the periprocedural stroke and death (S+D) rates between carotid artery stenting (CAS) and carotid endarterectomy (CEA) in patients with carotid artery stenosis."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the periprocedural S+D rate, measured over a 30-day period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Due to the nature of the procedures, blinding was not feasible."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 1,251 patients were assigned to each treatment group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis followed an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "For lesions ≥12.85 mm, CAS showed a higher S+D risk compared to CEA (OR = 3.42; 95% CI, 1.19-9.78)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were more frequent in the CAS group, but specific frequencies and severities were not detailed."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00004732"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This study was funded by the National Institutes of Health."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

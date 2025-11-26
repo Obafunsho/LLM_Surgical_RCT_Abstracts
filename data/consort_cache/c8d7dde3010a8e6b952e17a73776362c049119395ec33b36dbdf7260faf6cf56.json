@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Importance: For adults with appendicitis, several randomized clinical trials have demonstrated that antibiotics are an effective alternative to appendectomy."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The CODA trial was conducted in 25 US medical centers."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were enrolled between May 3, 2016, and February 5, 2020; all participants were eligible for at least 1 year of follow-up, with all follow-up ending in 2021."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Interventions: Appendectomy vs antibiotics."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To compare participants in the Comparison of Outcomes of Antibiotic Drugs and Appendectomy (CODA) randomized clinical trial (RCT) with a parallel cohort study of participants who declined randomization and self-selected treatment."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Main Outcomes and Measures: Characteristics among participants randomized to either appendectomy or antibiotics were compared with those of participants who selected their own treatment."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The randomized cohort included 1094 adults with appendicitis; the self-selection cohort included patients who declined participation in the randomized group, of whom 253 selected appendectomy and 257 selected antibiotics."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Clinical characteristics were similar across the self-selection cohort (510 patients; mean age, 35.8 years [95% CI, 34.5-37.1]; 218 female [43%; 95% CI, 39%-47%]) and the randomized group (1094 patients; mean age, 38.2 years [95% CI, 37.4-39.0]; 386 female [35%; 95% CI, 33%-38%])."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The number of patients undergoing appendectomy by 30 days was 38 (15.3%; 95% CI, 10.7%-19.7%) among those selecting antibiotics and 155 (19.2%; 95% CI, 15.9%-22.5%) in those who were randomized to antibiotics (difference, 3.9%; 95% CI, \u22121.7% to 9.5%)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT02800785"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

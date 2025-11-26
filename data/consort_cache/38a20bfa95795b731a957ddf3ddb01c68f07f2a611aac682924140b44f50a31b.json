@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Electrostimulation in Dysvascular Amputees"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive electrostimulation of the gastrocnemius muscle plus standard rehabilitation or standard rehabilitation alone."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "50 dysvascular amputees"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive electrostimulation of the gastrocnemius muscle plus standard rehabilitation or standard rehabilitation alone."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates non-surgical interventions to prevent CLL tissue loss and amputation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of new major amputation of the CLL over 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was by birthdate, with unclear allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not reported."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "50 dysvascular amputees"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Electrostimulation was associated with a three-fold reduction in the incidence of new major amputation of the CLL (RR 0.33, 95% CI 0.04 to 2.99)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events and hospital readmissions were not reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Protocol available via DOI 10.1002/14651858.CD013857"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: No dedicated funding."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

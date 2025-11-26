@@ -1,0 +1,32 @@
+{
+  "pmcid": "8022354",
+  "pmid": "31484697",
+  "title": "Peri-procedural Stroke or Death in Stenting of Symptomatic Severe Intracranial Stenosis",
+  "abstract": "Background and Purpose: There is limited data on predictors of 30-day stroke or death in patients with symptomatic intracranial atherosclerosis (sICAS) undergoing stenting. We aim to determine factors associated with stroke or death at 30 days in the stenting arm of the SAMMPRIS trial.\n\nMethods: This is a post-hoc analysis SAMMPRIS including patients who underwent angioplasty/stenting. We compared patient specific variables, lesion specific variables, procedure specific variables, and FDA approved indications between patients with and without the primary outcome (stroke or death at 30 days). We performed logistic regression analyses to evaluate associations with the primary outcome.\n\nResults: We identified 213 patients; 30 patients (14.1%) met the primary outcome. Smoking status and lesion length were associated with the primary outcome; the odds of stroke or death for non-smokers vs. smokers (adjusted OR 4.46, 95% CI 1.79–11.1, p = 0.001) and with increasing lesion length in millimeters (adjusted OR 1.20, 95% CI 1.02–1.39, p = 0.029). These had modest predictive value: absence of smoking history (sensitivity = 66.7% and specificity = 65.4%) and lesion length (Area Under Curve = 0.606). Furthermore, event rates were not significantly different between patients with and without the FDA approved indication for stenting (15.9% vs. 12%, p = 0.437).\n\nConclusion: In SAMMPRIS patients who underwent angioplasty/stenting, neither clinical and neuroimaging variables nor the FDA indication for stenting reliably predicted the primary outcome. Further work in identifying reliable biomarkers of stroke/death in patients with sICAS is needed before considering new clinical trials of stenting.",
+  "authors": [
+    "Shadi Yaghi",
+    "Pooja Khatri",
+    "Adam de Havenon",
+    "Sharon Yeatts",
+    "Andrew D Chang",
+    "Shawna Cutting",
+    "Brian Mac Grory",
+    "Tina Burton",
+    "Mahesh V Jayaraman",
+    "Ryan A McTaggart",
+    "David Fiorella",
+    "Colin Derdeyn",
+    "Osama O Zaidat",
+    "Seena Dehkharghani",
+    "Sepideh Amin-Hanjani",
+    "Karen Furie",
+    "Shyam Prahbakaran",
+    "David Liebeskind"
+  ],
+  "journal": "Journal of neurointerventional surgery",
+  "year": "2019",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

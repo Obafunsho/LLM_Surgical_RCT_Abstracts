@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The POWER Trial: A Randomised Controlled Trial on Pre-Operative Endocrine Therapy in Early-Stage Breast Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using [randomisation method]"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were older women with early-stage, ER-positive breast cancer."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received pre-ET, while the control group did not."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aims to determine if 3 months of pre-operative endocrine therapy (pre-ET) can inform adjuvant radiation therapy decisions"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in Ki-67 expression, assessed over 3 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using [randomisation method] with allocation concealment by [method]."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty-seven participants completed pre-ET and surgery."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Ki-67 expression decreased from 13% in biopsy specimens to 5% in lumpectomy specimens (p<0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04272801"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "We evaluated 29 patients (34 feet) during an 18-month period who underwent a unilateral scarf osteotomy combined with distal soft tissue realignment."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "who underwent a unilateral scarf osteotomy combined with distal soft tissue realignment."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We evaluated the results after scarf osteotomy with respect to American Orthopaedic Foot and Ankle Society (AOFAS) scores, patient satisfaction, radiographic results, and complications."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Preoperative and postoperative AOFAS scores, patient satisfaction, and radiographic data were used to evaluate the effectiveness of the procedure."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "We evaluated 29 patients (34 feet) during an 18-month period who underwent a unilateral scarf osteotomy combined with distal soft tissue realignment."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean AOFAS scores improved from 61.5 to 90.3."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complications included superficial wound infection (one), recurrence (two), and troughing (three)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

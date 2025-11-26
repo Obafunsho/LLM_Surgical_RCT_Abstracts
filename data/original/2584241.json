@@ -1,0 +1,19 @@
+{
+  "pmcid": "2584241",
+  "pmid": "18509712",
+  "title": "Accuracy of Model-based RSA Contour Reduction in a Typical Clinical Application",
+  "abstract": "Marker-based roentgen stereophotogrammetric analysis (RSA) is an accurate method for measuring in vivo implant migration, which requires attachment of tantalum markers to the implant. Model-based RSA allows migration measurement without implant markers; digital pose estimation, which can be thought of as casting a shadow of a surface model of the implant into the stereoradiographs, is used instead. The number of surface models required in a given clinical study depends on the number of implanted sizes and design variations of prostheses. Contour selection can be used to limit pose estimation to areas of the prosthesis that do not vary with design, reducing the number of surface models required. The effect of contour reduction on the accuracy of the model-based method was investigated using three different contour selection schemes on tibial components in 24 patients at 3 and 6 month followup. The agreement interval (mean ± 2 standard deviations), which bounds the differences between the marker-based and model-based methods with contour reduction was smaller than −0.028 ± 0.254 mm. The data suggest that contour reduction does not result in unacceptable loss of model-based RSA accuracy, and that the model-based method can be used interchangeably with the marker-based method for measuring tibial component migration.",
+  "authors": [
+    "Christof Hurschler",
+    "Frank Seehaus",
+    "Judith Emmerich",
+    "Bart L. Kaptein",
+    "Henning Windhagen"
+  ],
+  "journal": "Clinical Orthopaedics and Related Research",
+  "year": "2008",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

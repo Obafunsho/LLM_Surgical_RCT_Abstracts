@@ -1,0 +1,74 @@
+{
+  "pmcid": "9259046",
+  "sha256": "c81ff40ad54795e7eb1c81286f7b8120563076353e9362ab8e18ca71c1921fa6",
+  "timestamp_utc": "2025-11-09T16:20:45.826886+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.1174981870921,
+    "reading_ease": 20.094712351945873,
+    "word_count": 394
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "METHODS:: A randomized controlled clinical trial was conducted"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A randomized controlled clinical trial was conducted at an orthopedic trauma surgery unit"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The enrolled sample included 133 patients; 84 patients were randomized"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "to compare a digital behavioral pain management intervention (“My Surgical Success” [MSS]) to a digital general health education (HE) intervention"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study tested a digital perioperative behavioral medicine intervention in orthopedic trauma surgery patients for feasibility and efficacy for reducing pain intensity, pain catastrophizing, and opioid cessation up to 3 months after surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Outcomes were collected at 1–3 months after intervention through self-report e-surveys and electronic medical record review"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "A randomized controlled clinical trial was conducted"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "84 patients were randomized (MSS, n = 37; HE, n = 47)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "84 patients were randomized (MSS, n = 37; HE, n = 47) and completed study procedures"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "A significant interaction effect was found for treatment group over time on pain intensity, such that the MSS group evidenced greater absolute reductions in pain intensity after surgery and up to 3 months later (treatment × time fixed effects; F [215] = 5.23; P = .024)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

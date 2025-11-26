@@ -1,0 +1,74 @@
+{
+  "pmcid": "9099087",
+  "sha256": "43c33852aad6b3b49927ce55fa2d024eb84c742e56072155537fd57bf760296e",
+  "timestamp_utc": "2025-11-09T16:20:14.642790+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.708135463258785,
+    "reading_ease": 54.92911693290739,
+    "word_count": 313
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Methods: This randomized trial included patients with symptomatic haemorrhoids treated in Shanghai from May 2018 to September 2021."
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Eligible patients were randomly 1:1 assigned the modified ligation procedure for prolapsed haemorrhoids (MLPPH) and SH groups."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This randomized trial included patients with symptomatic haemorrhoids treated in Shanghai from May 2018 to September 2021."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Eligible patients were randomly 1:1 assigned the modified ligation procedure for prolapsed haemorrhoids (MLPPH) and SH groups."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to compare a modified ligation procedure versus stapled haemorrhoidectomy (SH) in patients with symptomatic haemorrhoids."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the assessment of efficacy at 6 months after the intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Eligible patients were randomly 1:1 assigned the modified ligation procedure for prolapsed haemorrhoids (MLPPH) and SH groups."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Out of 187 patients screened, 133 patients were randomized (67 for MLPPH and 66 for SH)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "One patient in the MLPPH group was excluded, and two patients were lost to follow-up."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean operating time was longer in MLPPH than in SH (57.42 min versus 30.68 min; P < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: Chinese Clinical Trial Registry ChiCTR1800015928 ( http://www.chictr.org.cn/searchproj.aspx )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

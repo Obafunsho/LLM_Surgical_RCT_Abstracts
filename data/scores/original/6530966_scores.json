@@ -1,0 +1,74 @@
+{
+  "pmcid": "6530966",
+  "sha256": "571fa57b22547fddcf9903fb801177144eb08f89cd62b45100d32ffb9b3f5f9e",
+  "timestamp_utc": "2025-11-09T16:09:28.427570+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.389223946784927,
+    "reading_ease": 52.088388765705844,
+    "word_count": 451
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "multicenter, randomized, double-blind, placebo- and active-controlled trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "multicenter, randomized, double-blind, placebo- and active-controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Women (N = 486) with moderate-to-severe pain after open abdominal hysterectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "meloxicam IV (5–60 mg), placebo, or morphine (0.15 mg/kg)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "coprimary efficacy end points were the summed pain intensity difference (SPID 24 ) and total pain relief (TOTPAR 24 ) from hour 0 to 24 hours after dosing"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Subjects were randomized"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Women (N = 486)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "SPID 24 effect sizes (95% confidence intervals) for the 60, 30, 15, 7.5, and 5 mg meloxicam IV doses and morphine were 1.93 (1.61–2.25), 2.00 (1.65–2.35), 1.70 (1.35–2.05), 1.28 (0.95–1.60), 1.25 (0.90–1.61), and 1.12 (0.77–1.45) SDs, respectively"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Generally, meloxicam IV was well tolerated, evidenced by the incidence of adverse events compared to placebo and lack of deaths and treatment-related serious adverse events"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

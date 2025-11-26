@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Complement System Modulation in Lung Transplantation"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised controlled trial included adults eligible for lung transplantation"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at a tertiary care center, this randomised controlled trial included adults eligible for lung transplantation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either a complement inhibitor or standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To determine the effect of complement inhibition on lung transplant outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of primary graft dysfunction (PGD) within 72 hours post-transplant."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised, 100 to the intervention and 100 to the control group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 98 in the intervention group and 97 in the control group, using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group demonstrated a significant reduction in PGD incidence (mean difference = 15%, 95% CI 5% to 25%; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in the intervention group and 1% in the control group experiencing gastrointestinal side-effects."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by the National Institutes of Health."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

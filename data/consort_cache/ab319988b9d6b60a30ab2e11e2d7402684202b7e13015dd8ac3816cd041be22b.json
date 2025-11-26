@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this double-blind RCT"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients aged 18\u201360\u2009years with a BMI of 50\u201360\u2009kg/m 2 were allocated randomly"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 18\u201360\u2009years with a BMI of 50\u201360\u2009kg/m 2"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "standard (150\u2009cm alimentary, 50\u2009cm biliopancreatic limb) or distal (150\u2009cm common channel, 50\u2009cm biliopancreatic limb) RYGB"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome (change in BMI at 2\u2009years) has been reported previously."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "In this double-blind RCT"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between May 2011 and April 2013, 123 patients were randomized"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "113 received an intervention, and 92 attended 5-year follow-up"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "BMI was reduced by 15.1 (95 per cent c.i. 13.9 to 16.2)\u2009kg/m 2 after standard and 15.7 (14.5 to 16.9)\u2009kg/m 2 after distal RYGB; the between-group difference was \u22120.64 (\u22122.3 to 1.0) kg/m 2 ( P =\u20090.447)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Vitamin A and vitamin D levels were lower after distal RYGB."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT00821197 ( http://www.clinicaltrials.gov )"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "a randomized, two-group pilot study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "smokers evaluated in preparation for elective surgery in a preoperative clinic"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "a decision aid would improve measures of decisional quality compared with usual care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study goal was to develop and test a decision aid for use by clinicians"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "improved measures of decisional quality and patient involvement in decision making"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "In the randomized trial of 130 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Cohen\u2019s d effect sizes of 0.76 and 1.20 for the Decisional Conflict and OPTION scales, respectively"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "did not affect any aspect of perioperative smoking behavior"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

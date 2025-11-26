@@ -1,0 +1,74 @@
+{
+  "pmcid": "3392392",
+  "sha256": "0c546d6d606604bfe308a93a18508008f111993a499fc17b49e9bd121bc6fb2a",
+  "timestamp_utc": "2025-11-09T23:48:18.962420+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.36731092436975,
+    "reading_ease": 29.46480392156863,
+    "word_count": 272
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Anterior Pelvic Internal Fixation Versus External Fixation for Unstable Pelvic Ring Injuries"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised using a computer-generated sequence with allocation concealment via sealed envelopes"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "enrolled patients with unstable pelvic ring injuries at a single center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compared anterior pelvic external fixation (APEF) with anterior pelvic internal fixation (APIF)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the anterior pelvic bridge, a percutaneous method for anterior pelvic fixation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was fracture reduction at 6 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "randomised using a computer-generated sequence with allocation concealment via sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not applied to patients or clinicians, but outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 23 eligible patients, 11 (four male, seven female) were randomised: six to APEF and five to APIF."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was per-protocol."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Functional outcomes favored APIF, with a mean difference in scores of 5.2 (95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "the APEF group had one pin tract infection"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not disclosed."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

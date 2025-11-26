@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of the AtriClip V-Clip for Left Atrial Appendage Exclusion"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was conducted by providing a de-identified list of potential patients, which was then randomized and returned to the site for screening."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients aged \u226518 years who received V-shape AtriClip devices during non-emergent cardiac surgery were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "evaluated the long-term safety and performance of the epicardial V-shape AtriClip device."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary performance outcome was LAAE without residual left atrium-LAA communication, assessed by imaging at the last follow-up visit."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was conducted by providing a de-identified list of potential patients, which was then randomized and returned to the site for screening."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "The study was unblinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 155 patients from 11 U.S. centers, 151 had evaluable imaging."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Primary performance in the intent-to-treat population was met, with 97% (95% CI 93.52%, 99.29%; p = 0.0001) complete LAAE."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Primary performance in the intent-to-treat population was met, with 97% (95% CI 93.52%, 99.29%; p = 0.0001) complete LAAE."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One device-related SAE was reported, which resolved intraprocedurally."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT05101993"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by AtriCure, Inc."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

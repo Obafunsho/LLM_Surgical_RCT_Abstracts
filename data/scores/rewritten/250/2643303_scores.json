@@ -1,0 +1,74 @@
+{
+  "pmcid": "2643303",
+  "sha256": "757a4eb22e9b53e7da705aeb852c6ec92fbb02ce95946639f0a08a30a4bb2cff",
+  "timestamp_utc": "2025-11-09T22:34:02.004219+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.178511904761908,
+    "reading_ease": 29.913710317460357,
+    "word_count": 224
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Continuous Femoral Nerve Block Duration After Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were then randomly assigned to continue ropivacaine or switch to normal saline."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were then randomly assigned to continue ropivacaine or switch to normal saline."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial tested whether a 4-day ambulatory continuous femoral nerve block (cFNB) improves outcomes compared to an overnight cFNB following tricompartment total knee arthroplasty."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were time to meet three discharge criteria (adequate analgesia, independence from intravenous analgesics, and ambulation of at least 30 m) and ambulatory distance in 6 minutes the afternoon after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty-five patients were randomised to each group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 4-day ropivacaine group met discharge criteria in a median of 25 hours (25th–75th percentiles: 21–47) compared to 71 hours (46–89) in the control group (estimated ratio, 0.47; 95% CI, 0.32–0.67; P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials.gov No. NCT00135889."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

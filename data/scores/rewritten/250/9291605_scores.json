@@ -1,0 +1,74 @@
+{
+  "pmcid": "9291605",
+  "sha256": "ed065211405e38e6c2689d82c1c505b7ca858600250cc3879b46d75b0aa0e649",
+  "timestamp_utc": "2025-11-09T23:00:57.780262+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.800042986425339,
+    "reading_ease": 22.97400113122177,
+    "word_count": 221
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Hydroxyethyl Starch vs. Albumin in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-centre, triple-blinded, parallel-group, randomised, non-inferiority trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 40–85 scheduled for elective aortic valve replacement, with or without coronary artery bypass grafting"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to receive 6% HES 130/0.4 or 5% human albumin."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We aimed to assess whether intra-operative HES administration affects postoperative kidney function and haemostasis compared to human albumin."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was urinary neutrophil gelatinase-associated lipocalin (NGAL) concentrations measured at baseline, 1 hour, and 24 hours post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was done using a secure web-based system, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "triple-blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "between June 2015 and February 2018. Participants were randomised 1:1"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 141 patients were analysed (69 HES, 72 albumin)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Postoperative NGAL was slightly lower with HES (median 5 ng/ml) vs. albumin (median 5 ng/ml), but not non-inferior [ratio of geometric means 0.91, 95% CI 0.57 to 1.44; p = 0.15]."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "NCTXXXXX"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by [Funding Source]."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12485866",
+  "sha256": "7b10aa1a819c8f2b71ca4a9a9941a6bc0f813c1e8a6e4796d0c71043cd7ebc46",
+  "timestamp_utc": "2025-11-09T22:29:32.783786+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.770499675535369,
+    "reading_ease": 26.239409474367307,
+    "word_count": 201
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Fluorescence Angiography in Colorectal Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Eligible studies compared fluorescence angiography with standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effect of fluorescence angiography on anastomotic leak and postoperative morbidity."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of anastomotic leak, measured within 30 to 90 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation methods and allocation concealment were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "8 were included, involving 3999 patients."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Fluorescence angiography significantly reduced anastomotic leak rates with an odds ratio of 0.64 (95% CI: 0.39–0.98, p < 0.0001)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Prospero 1055070."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: No funding was reported."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

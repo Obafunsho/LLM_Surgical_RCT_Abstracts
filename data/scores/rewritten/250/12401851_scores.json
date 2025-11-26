@@ -1,0 +1,74 @@
+{
+  "pmcid": "12401851",
+  "sha256": "52bfd56b9c00826377fe117db2261390f1b50e2f48dd3e33856358b05e217dd5",
+  "timestamp_utc": "2025-11-09T22:24:43.235567+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.145471698113209,
+    "reading_ease": 29.861937590711193,
+    "word_count": 212
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Adjuvant Treatment Strategies Following Neoadjuvant Chemoimmunotherapy in Resectable NSCLC"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were categorized into no-treatment (n=46), chemotherapy (ChT) (n=38), immunotherapy (IT) (n=33), chemoimmunotherapy (ChIT) (n=168), and upfront surgery with adjuvant immunotherapy (US+AIT) (n=32) groups."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "317 patients with stage IB-IIIB NSCLC treated at Shandong Cancer Hospital from January 2019 to February 2024."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were categorized into no-treatment (n=46), chemotherapy (ChT) (n=38), immunotherapy (IT) (n=33), chemoimmunotherapy (ChIT) (n=168), and upfront surgery with adjuvant immunotherapy (US+AIT) (n=32) groups."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate adjuvant treatment strategies following neoadjuvant chemoimmunotherapy (NCIT) in patients with resectable non-small cell lung cancer (NSCLC)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Event-free survival (EFS) and overall survival (OS) were primary outcomes, assessed over a median follow-up of 30.7 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "317 patients with stage IB-IIIB NSCLC treated at Shandong Cancer Hospital from January 2019 to February 2024."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Patients were categorized into no-treatment (n=46), chemotherapy (ChT) (n=38), immunotherapy (IT) (n=33), chemoimmunotherapy (ChIT) (n=168), and upfront surgery with adjuvant immunotherapy (US+AIT) (n=32) groups."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "IT and ChIT groups showed improved EFS compared to the no-treatment group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

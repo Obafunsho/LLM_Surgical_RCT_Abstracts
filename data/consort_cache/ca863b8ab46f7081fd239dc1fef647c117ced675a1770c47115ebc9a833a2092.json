@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this single-centre randomized clinical trial, patients scheduled for elective open procedure with a BEA between 21 January 2016 and 20 September 2017 were randomly allocated in a 1:1 ratio"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients scheduled for elective open procedure with a BEA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly allocated in a 1:1 ratio to have the BEA performed with continuous suture (CSG) or interrupted suture technique (ISG)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to compare the suture techniques for patients undergoing BEA by evaluating the suture time as well as short- and long-term biliary complications."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the time required to complete the anastomosis."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomly allocated in a 1:1 ratio"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Altogether, 82 patients were randomized of which 80 patients received the allocated intervention"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "80 patients received the allocated intervention (39 in ISG and 41 in CSG)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Suture time was longer in the ISG compared with the CSG (median (interquartile range), 22.4 (15.0\u201328.0) min versus 12.0 (10.0\u201317.0) min, OR 1.26, 95 per cent c.i. 1.13 to 1.40; unit of increase of 1\u2005min; P < 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The incidence of bile leakage (6 (14.6 per cent) versus 4 (10.3 per cent), P = 0.738) was comparable between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT02658643 ( http://www.clinicaltrials.gov )"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

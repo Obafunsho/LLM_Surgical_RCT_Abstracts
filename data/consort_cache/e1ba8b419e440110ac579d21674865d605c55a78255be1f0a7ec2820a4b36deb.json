@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Six healthy swine (41.0\u2009\u00b1\u20093.1\u00a0kg) were sedated, mechanically ventilated"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "connected to a prototype extracorporeal circuit for continuous renal replacement therapy featuring a citrate-removal stage"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we developed an innovative RCA technique based on Ion Exchange Resin (i-ER) technology"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Samples were collected at baseline, 2, 8, 15, 30, 45, 60, 90, and 120\u00a0min for citrate"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "R\u2009>\u200960\u00a0min, MA\u2009=\u20090\u00a0mm. Citrate concentrations in blood samples were stable within 30\u00a0min, then slowly increased."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "without significant complications"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

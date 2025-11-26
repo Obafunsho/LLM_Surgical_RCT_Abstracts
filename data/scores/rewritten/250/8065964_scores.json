@@ -1,0 +1,74 @@
+{
+  "pmcid": "8065964",
+  "sha256": "22021410b91ef9f8f30a1ffaa822be64db38fbb6de61846a2ceda08a7c5422b8",
+  "timestamp_utc": "2025-11-09T22:57:00.758087+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.288172043010757,
+    "reading_ease": 24.332813620071704,
+    "word_count": 248
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Remote Ischaemic Preconditioning in Pancreatic Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-centre, double-blind, randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adult patients scheduled for elective pancreatic surgery at St. Antonius Hospital, Nieuwegein, Netherlands"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to RIPC or a sham procedure"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the effect of remote ischaemic preconditioning (RIPC) on perioperative high-sensitive cardiac troponin T (hs-cTnT) and interleukin 6 (IL-6) concentrations."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the maximum postoperative hs-cTnT concentration within 48 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a web-based system with allocation concealment"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "both patients and outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Ninety-two patients were randomised (46 RIPC, 46 control)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "90 were analysed using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "RIPC did not significantly reduce the maximum hs-cTnT concentration (12.6 ng/l RIPC, 16.6 ng/l controls, P = 0.225)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No RIPC-related adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinicaltrials.gov identifier NCT03460938."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Biomarker analysis was funded by Roche Diagnostics, which had no role in the study design, conduct, or manuscript preparation."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

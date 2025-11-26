@@ -1,0 +1,74 @@
+{
+  "pmcid": "11219146",
+  "sha256": "3f11628d0904b002c225cbeae0183af0865983dd501ec6fa62dc71e15eaa5c66",
+  "timestamp_utc": "2025-11-09T23:13:32.412494+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.99234532374101,
+    "reading_ease": 47.096959232613926,
+    "word_count": 278
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Large-Head Metal-on-Metal and Conventional Metal-on-Polyethylene Total Hip Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 104 patients were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients requiring primary THA."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "104 patients were randomised to receive either cementless MoM THA (50 patients) or cementless MoP THA (54 patients)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates long-term outcomes of large-head MoM THA compared to conventional metal-on-polyethylene (MoP) THA."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was survivorship free from revision at 10 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "104 patients were randomised to receive either cementless MoM THA (50 patients) or cementless MoP THA (54 patients) between January 2006 and December 2008."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "survivorship free from revision was similar between MoP and MoM groups (95% [95% CI 85% to 98%] vs. 92% [95% CI 82% to 98%]; p = 0.6)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included pseudotumor formation and elevated ion levels."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

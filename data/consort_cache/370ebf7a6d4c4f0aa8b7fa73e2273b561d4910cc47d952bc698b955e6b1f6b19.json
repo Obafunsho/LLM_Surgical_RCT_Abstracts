@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Five surgeons at five sites have followed 189 patients (216 hips) for a minimum of 10 years and average of 10.3 years (range, 10\u201312.4 years) comparing alumina ceramic bearings (144 hips) with cobalt chrome-on-polyethylene bearings (72 hips)."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Five surgeons at five sites have followed 189 patients (216 hips)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing alumina ceramic bearings (144 hips) with cobalt chrome-on-polyethylene bearings (72 hips)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We asked whether ceramic bearings have equal or superior survivorship compared with that for metal-on-polyethylene at longer followup"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We determined Kaplan-Meier survivorship of the bearing surface and implant systems and collected radiographic and clinical data."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Five surgeons at five sites have followed 189 patients (216 hips)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Revisions for any reason occurred in 10.5% of the control patients and 3.1% of the patients with alumina bearings."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Squeaking occurred in two of 144 hips (1.4%) of the patients with ceramic bearings."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

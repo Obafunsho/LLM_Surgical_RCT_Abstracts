@@ -1,0 +1,74 @@
+{
+  "pmcid": "9748994",
+  "sha256": "16cf623d4d342edc361e481c8eb655bfa6fb0ccf23604337e9057c75a6f761d3",
+  "timestamp_utc": "2025-11-09T16:22:06.596367+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.12889598540146,
+    "reading_ease": 24.26699361313871,
+    "word_count": 274
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Tranexamic Acid to Reduce Blood Loss in Hemorrhagic Cesarean Delivery (TRACES) was a double-blind, placebo-controlled, randomised, multicentre dose-ranging study"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Women experiencing postpartum haemorrhage during Caesarean delivery were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Women experiencing postpartum haemorrhage during Caesarean delivery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive placebo ( n =60), tranexamic acid 0.5 g ( n =57), or tranexamic acid 1 g i.v. ( n =58)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to determine the dose–effect relationship for two regimens of intravenous tranexamic acid vs placebo"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "inhibition of hyperfibrinolysis defined as reductions in the increase over baseline in D-dimer and plasmin–antiplasmin levels and in the plasmin peak time"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "double-blind, placebo-controlled"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomised to receive placebo ( n =60), tranexamic acid 0.5 g ( n =57), or tranexamic acid 1 g i.v. ( n =58)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "A dose of tranexamic acid 1 g was associated with smaller increases over baseline (D-dimers: 38% [13–63] [ P =0.003 vs placebo]; plasmin–antiplasmin: –2% [–32 to 28] [ P =0.009 vs placebo])"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinical trial registration: NCT 02797119"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

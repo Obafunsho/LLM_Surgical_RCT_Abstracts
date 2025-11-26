@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Patient Blood Management in Adult Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A randomised controlled trial was conducted by the Working Group on Cardiopulmonary Bypass and Extracorporeal Life Support of China National Center for Cardiovascular Quality Improvement."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were adult patients undergoing cardiac surgery with CPB at participating hospitals in China."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received a comprehensive PBM program, while the control group received standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to establish evidence-based guidelines for patient blood management (PBM) in adult cardiac surgery under cardiopulmonary bypass (CPB) to minimize blood loss and allogeneic transfusion."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of allogeneic blood transfusion, measured perioperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment ensured by sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was applied to outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group, between January 2023 and June 2023."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the intervention group and 97 in the control group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a significant reduction in allogeneic transfusion rates (mean difference = 15%, 95% CI 10% to 20%; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 5% of the intervention group and 3% of the control group, with no severe events."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by the China National Center for Cardiovascular Quality Improvement."
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

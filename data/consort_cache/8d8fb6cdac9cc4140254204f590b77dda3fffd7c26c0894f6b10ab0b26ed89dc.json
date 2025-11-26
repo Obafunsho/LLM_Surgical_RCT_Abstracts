@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Advanced Cryotherapy vs. Cold Packs in Knee Arthroplasty: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomly assigned to receive advanced cryotherapy (n=58) or cold packs (n=58). A priori sample size calculation indicated 50 subjects per group were needed to detect a 2-point VAS difference with 80% power."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included adults undergoing primary knee arthroplasty. Conducted at a single orthopedic center"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive advanced cryotherapy (n=58) or cold packs (n=58)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to assess the impact of advanced cryotherapy devices versus cold packs on recovery following knee arthroplasty."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative pain, evaluated using the Visual Analogue Scale (VAS) and analgesic consumption over 6 weeks."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "116 patients scheduled for knee arthroplasty were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis included 100 patients (50 per group)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant differences were found in VAS scores or analgesic use between groups. The advanced cryotherapy group exhibited reduced flexion at 6 weeks (114\u00b0 vs. 120\u00b0)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not disclosed."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not disclosed."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This stepped-wedge cluster randomized trial recruited 1470 patients 70 years and older undergoing elective orthopedic, general, or cardiac surgery from November 2017 to April 2019 from 5 German tertiary medical centers."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This stepped-wedge cluster randomized trial recruited 1470 patients 70 years and older undergoing elective orthopedic, general, or cardiac surgery from November 2017 to April 2019 from 5 German tertiary medical centers."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "First, structured delirium education was provided to clinical caregivers at each site. Then, the study delirium prevention team assessed patient delirium risk factors and symptoms daily."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To examine whether a multifaceted prevention intervention is effective in reducing postoperative delirium incidence and prevalence after various major surgical procedures."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Main Outcomes and Measures: Postoperative delirium incidence and duration."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "This stepped-wedge cluster randomized trial"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "This stepped-wedge cluster randomized trial recruited 1470 patients 70 years and older undergoing elective orthopedic, general, or cardiac surgery from November 2017 to April 2019 from 5 German tertiary medical centers."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 1470 included patients, 763 (51.9%) were male, and the median (IQR) age was 77 (74-81) years."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Overall, the intervention reduced postoperative delirium incidence (odds ratio, 0.87; 95% CI, 0.77-0.98; P =\u2009.02) and percentage of days with delirium (intervention, 5.3%; control, 6.9%; P =\u2009.03)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

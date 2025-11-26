@@ -1,0 +1,74 @@
+{
+  "pmcid": "6435292",
+  "sha256": "0f0dcffb0ffc2aa69c98dac9344c63fcd4e7152cb22fcbe3ec7a42c4b28bff94",
+  "timestamp_utc": "2025-11-10T00:01:42.784987+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.713927263851598,
+    "reading_ease": 14.820986087381044,
+    "word_count": 241
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "High-Sensitivity Cardiac Troponin T in Detecting Perioperative Myocardial Infarction: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Conducted as an ancillary study within the Vitamins in Nitrous Oxide trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "605 patients who had baseline and at least one postoperative hscTnT measurement. The study setting was a surgical environment."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "assessed the utility of a high-sensitivity cardiac troponin T (hscTnT) assay versus contemporary cardiac troponin I (cTnI)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assessed the utility of a high-sensitivity cardiac troponin T (hscTnT) assay versus contemporary cardiac troponin I (cTnI) in identifying perioperative myocardial infarction (MI) following non-cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the incidence of myocardial injury and MI"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not detailed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding of outcome assessors, patients, and clinicians was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "605 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 605 patients, 70 (12%) exhibited ECG changes indicative of myocardial ischemia."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Using contemporary cTnI, 82 patients (14%) were diagnosed with myocardial injury, with 31 (5.1%) confirmed as MI. The hscTnT assay identified 67 patients (11%) with MI, representing a twofold increase in detection."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding information were not provided."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

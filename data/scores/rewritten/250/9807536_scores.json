@@ -1,0 +1,74 @@
+{
+  "pmcid": "9807536",
+  "sha256": "97d7099b25bae8c6b5be96e69a1027fb2a9968125cff0c4b389748e5f4df99a5",
+  "timestamp_utc": "2025-11-09T23:02:05.436605+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.178858695652174,
+    "reading_ease": 47.688722826087,
+    "word_count": 230
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Perioperative 5-FU in Colon Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised patients with newly diagnosed, nonmetastatic adenocarcinoma of the colon"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with newly diagnosed, nonmetastatic adenocarcinoma of the colon"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "receive either continuous infusional 5-FU for 7 days starting within 24 hours after curative resection (arm A) or no perioperative 5-FU (arm B)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluated the effect of perioperative fluorouracil (5-FU) on overall survival (OS) in colon cancer patients"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was OS in patients with Dukes’ B3 and C disease"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was performed using permutated blocks with dynamic balancing"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "The trial was open-label with no blinding"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From August 1993 to May 2000, 855 patients were randomised (arm A: 427; arm B: 428)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The trial was terminated early due to slow accrual"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "no significant difference in OS [median 10.3 years (95% CI 8.4, 13.2) for arm A and 9.3 years (95% CI 5.7, 12.3) for arm B, p = 0.178]"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Eighteen percent of arm A patients experienced grade 3 or greater toxicity"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The trial was not registered"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funding was provided by the NCI Intergroup"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

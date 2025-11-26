@@ -1,0 +1,74 @@
+{
+  "pmcid": "8625160",
+  "sha256": "f60e1acb93cd66446a3afb8cb5d33be182b3ec11557b5d77f62539ba73219c21",
+  "timestamp_utc": "2025-11-10T00:10:08.106719+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.465530022238696,
+    "reading_ease": 25.144406968124542,
+    "word_count": 284
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Stem Cell Therapy for Myocardial Regeneration"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A multicenter randomised controlled trial was conducted."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants with ischemic cardiac injury and NYHA class I-III symptoms were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received 150 million autologous BM MSCs, 5 million c-kit+ CPCs, or both via transendocardial injection. The control group received PlasmaLyte A."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To evaluate the effect of stem cell therapy on cardiac function."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in left ventricular ejection fraction (LVEF) over a six-month period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was applied to outcome assessors and patients."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 144 participants were randomised."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "125 completing the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "LVEF changes were not significantly different between the intervention and control groups. However, the occurrence of major adverse cardiac events was significantly reduced in the CPC group (p = 0.043)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported, indicating the safety of the intervention."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02501811"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The trial was funded by the National Institutes of Health."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

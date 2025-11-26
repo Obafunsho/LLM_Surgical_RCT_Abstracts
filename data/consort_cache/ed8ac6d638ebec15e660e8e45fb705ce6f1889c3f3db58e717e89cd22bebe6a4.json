@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In a previous study, we reported the 2-year outcomes of a parallel-group, equivalence, randomized controlled trial (RCT; blinded for the first year) comparing patellofemoral arthroplasty (PFA) and TKA for isolated patellofemoral osteoarthritis (PF-OA)."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We considered patients who had debilitating symptoms and PF-OA as eligible for this randomized trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We considered patients who had debilitating symptoms and PF-OA as eligible for this randomized trial. Screening initially identified 204 patients as potentially eligible; 7% (15) were found not to have sufficient symptoms, 21% (43) did not have isolated PF-OA, 21% (43) declined participation, and 1% (3) were not included after the target number of 100 patients had been reached."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The included 100 patients were randomized 1:1 to PFA or TKA between 2007 and 2014."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We intended to examine whether the early advantages of PFA over TKA have deteriorated in our RCT and whether revision rates differ between the implant types in our study after 6 years of follow-up."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was SF-36 bodily pain."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The included 100 patients were randomized 1:1 to PFA or TKA between 2007 and 2014."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "blinded for the first year"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The included 100 patients were randomized 1:1 to PFA or TKA between 2007 and 2014."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of these, 9% (9 of 100) were lost before the 6-year follow-up; there were 12% (6 of 50) and 0% (0 of 50) deaths (p = 0.02) in the PFA and TKA groups, respectively, but no deaths could be attributed to the knee condition."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients who underwent PFA had a larger improvement in the SF-36 bodily pain score during the first 6 years than those who underwent TKA (35 \u00b1 19 vs. 23 \u00b1 17; mean difference 12 [95% CI 4 to 20]; p = 0.004)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "there were 12% (6 of 50) and 0% (0 of 50) deaths (p = 0.02) in the PFA and TKA groups, respectively, but no deaths could be attributed to the knee condition."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

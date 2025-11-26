@@ -1,0 +1,74 @@
+{
+  "pmcid": "11669036",
+  "sha256": "1e16dad160d03872fa836f90fff104dcb0f5ea2d502a74f6372f29335bb03110",
+  "timestamp_utc": "2025-11-09T23:18:40.163244+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.460482307865679,
+    "reading_ease": 33.07245436105478,
+    "word_count": 261
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Peripheral Nerve Injury After Varicose Vein Surgery Using Endovenous Laser Ablation"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable as this was not a randomised trial."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "25 patients underwent EVLA of the great saphenous vein (GSV) with or without microphlebectomy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "EVLA of the great saphenous vein (GSV) with or without microphlebectomy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to quantitatively evaluate peripheral nerve injury (PNI) following varicose vein (VV) surgery using endovenous laser ablation (EVLA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was PNI, defined as >40% elevation in current perception threshold (CPT) from preoperative data. CPT was measured at 6 points on each leg preoperatively and at 1 week, 1 month, and 6 months postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable as this was not a randomised trial."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From 2021 to 2023, 25 patients underwent EVLA of the great saphenous vein (GSV) with or without microphlebectomy."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Significant CPT elevation was observed at the knee joint level (P = 0.01) and upper portion of the lower leg (P = 0.008) 1 week postoperatively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No major complications such as severe endovenous heat-induced thrombosis or major bleeding were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: None."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

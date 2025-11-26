@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Adjuvant Radiotherapy Plus Chemotherapy vs Chemotherapy Alone in Locally Advanced Bladder Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Conducted as a randomised phase 2 trial at an academic center"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included age \u226470 years, \u2265pT3b, grade 3, or positive nodes, and negative margins post-RC"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Interventions were chemotherapy plus RT (2 cycles of gemcitabine and cisplatin before and after RT) versus chemotherapy alone (4 cycles of gemcitabine and cisplatin)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether adjuvant radiotherapy (RT) plus chemotherapy enhances locoregional recurrence-free survival (LRFS) compared to chemotherapy alone"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was LRFS over 2 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was weighted to expedite accrual"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 120 patients were randomised: 75 to chemotherapy plus RT and 45 to chemotherapy alone"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "analysed using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "LRFS was 96% vs 69% (HR, 0.08; 95% CI, 0.02-0.39; P < .01)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "RT-associated late grade 3 gastrointestinal adverse effects were observed in 7% of the chemotherapy plus RT group"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01734798"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

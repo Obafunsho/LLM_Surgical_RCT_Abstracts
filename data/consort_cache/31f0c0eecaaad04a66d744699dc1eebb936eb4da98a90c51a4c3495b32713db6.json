@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Autologous Osteoblastic Cell Therapy versus Bone Marrow Aspirate Concentrate in Pre-collapse Osteonecrosis of the Femoral Head"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised, single-blind trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "67 patients with Stage I or II ONFH, excluding those with traumatic ONFH, hemoglobinopathies, or positive serology for hepatitis B, C, or HIV"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to core decompression with either BMAC (n = 26) or osteoblastic cell therapy (n = 30)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "assessed whether autologous osteoblastic cell therapy could reduce progression to subchondral fracture and improve pain compared to bone marrow aspirate concentrate"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the absence of progression to subchondral fracture (ARCO stage III or higher) and a clinically important pain improvement over 36 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, with allocation concealment"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomly assigned to core decompression with either BMAC (n = 26) or osteoblastic cell therapy (n = 30)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was conducted as-treated for efficacy and intention-to-treat for adverse events"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "no significant differences were found in progression to fracture (46% BMAC vs. 22% osteoblastic cells; hazard ratio, 0.47 [95% CI 0.17 to 1.31]; p = 0.15)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No differences were observed in THA rates (15% osteoblastic cells vs. 35% BMAC; p = 0.09) or adverse events"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

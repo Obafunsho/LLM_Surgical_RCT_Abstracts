@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Sub-Dissociative Ketamine Infusion in Trauma Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, adult trauma patients admitted to the intermediate or intensive care unit were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adult trauma patients admitted to the intermediate or intensive care unit"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either usual care (UC) with MMPR or UC plus sub-dissociative KI"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effect of adding sub-dissociative ketamine infusion (KI) to MMPR on inpatient opioid use."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was morphine milligram equivalents per day (MME/d) over the treatment period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 300 patients were randomised: 144 to KI and 156 to UC."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The KI group showed a reduction of 7 MME/day and 96 total MME. The relative risk reduction was 19% in MME/day (RR 0.81 [0.69 \u2013 0.95], pp = 99%) and 20% in total MME (RR 0.80 [0.64, 0.99], pp = 98%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The KI group had a higher rate of delirium (11% vs. 6%)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

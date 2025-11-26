@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of a Portable, Low-Cost Coronary Anastomosis Simulator for Cardiothoracic Surgery Residents"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This multicenter, observational, analytical study included all junior and senior residents from nine national cardiothoracic surgery centers in 2022."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This multicenter, observational, analytical study included all junior and senior residents from nine national cardiothoracic surgery centers in 2022."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The study aimed to evaluate the effectiveness of a portable, low-cost coronary anastomosis simulator in improving operative skills among cardiothoracic surgery residents."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study aimed to evaluate the effectiveness of a portable, low-cost coronary anastomosis simulator in improving operative skills among cardiothoracic surgery residents."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the acquisition of operative skills and reduction in anastomosis time for side-to-side (S-T-S), end-to-side (E-T-S), and end-to-end (E-T-E) coronary anastomoses."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 140 residents were assessed in 270 sessions."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 140 residents were assessed in 270 sessions."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Senior residents also showed a significant reduction in anastomosis time compared to juniors in S-T-S (8.11 vs. 11.22 minutes), E-T-S (7.93 vs. 10.10 minutes), and E-T-E (6.56 vs. 9.68 minutes) (p = 0.039)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The study was not registered, and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "The study was not registered, and funding details were not provided."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

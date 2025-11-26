@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "A rotational thromboelastometry (ROTEM \u00ae ) guided transfusion strategy for obstetrics was implemented at our institution in September 2022."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "944 women who experienced postpartum haemorrhage \u2265\u20091500\u2009ml over a 5\u2010year period"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing 1\u2009year of data after the formal introduction of the ROTEM \u00ae \u2010guided transfusion strategy (post\u2010ROTEM \u00ae ) with the previous 4\u2009years, when a conventional transfusion strategy was in place based on standard laboratory tests (pre\u2010ROTEM \u00ae )."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of the strategy was to facilitate timely, targeted administration of coagulation products based on viscoelastic haemostatic testing, thereby reducing unnecessary transfusions."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "97/238 (40%) in the post\u2010ROTEM \u00ae group vs. 312/706 (44%) in the pre\u2010ROTEM group"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Following implementation, the annual use of fibrinogen concentrate, Octaplas \u00ae (Octapharma Pharmazeutika GmbH, Vienna, Austria) and platelets to treat PPH \u2265\u20091500\u2009ml decreased by 46%, 72% and 79%, respectively, yielding a cost saving of \u20ac51,738."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There was no statistically significant difference in the proportion of women who progressed to severe haemorrhage (\u2265\u20092000\u2009ml) between groups: 97/238 (40%) in the post\u2010ROTEM \u00ae group vs. 312/706 (44%) in the pre\u2010ROTEM group (p\u2009=\u20090.35)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

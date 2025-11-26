@@ -1,0 +1,74 @@
+{
+  "pmcid": "8022354",
+  "sha256": "47320192205b0a285481337e1f72f5039200b54b617ed5bf03cfff0309e87571",
+  "timestamp_utc": "2025-11-09T22:56:48.726875+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.227479458139019,
+    "reading_ease": 29.61471685542972,
+    "word_count": 237
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Predictors of 30-Day Stroke or Death in Symptomatic Intracranial Atherosclerosis: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to identify predictors of 30-day stroke or death in patients with symptomatic intracranial atherosclerosis (sICAS) undergoing stenting, using data from the SAMMPRIS trial."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "30 patients (14.1%) experiencing the primary outcome of stroke or death at 30 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 213 patients were included"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "non-smokers had higher odds of stroke or death compared to smokers (adjusted OR 4.46, 95% CI 1.79–11.1, p = 0.001), and increasing lesion length was also associated (adjusted OR 1.20, 95% CI 1.02–1.39, p = 0.029)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

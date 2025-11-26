@@ -1,0 +1,74 @@
+{
+  "pmcid": "2745838",
+  "sha256": "f5417693637ebd1c66507ff6c64052372b3d4ba537abe26039883d26cc233d29",
+  "timestamp_utc": "2025-11-09T15:49:54.614396+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.252094943240458,
+    "reading_ease": 15.572507739938061,
+    "word_count": 285
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this randomized, triple-masked, placebo-controlled study"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomized, triple-masked, placebo-controlled study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "subjects received a stimulating interscalene catheter using an ultrasound-guided, in-plane posterior approach"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "continuous posterior interscalene block provides superior postoperative analgesia compared to a single-injection ropivacaine interscalene block"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "we tested the hypothesis that an ultrasound-guided continuous posterior interscalene block provides superior postoperative analgesia"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was average pain on postoperative day (POD) 1 (scale: 0–10)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "triple-masked"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 32 subjects enrolled"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "30 perineural catheters were placed per protocol"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "0.0 [0.0–5.0] versus 3.0 [0.0–6.0], respectively; P < 0.001"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

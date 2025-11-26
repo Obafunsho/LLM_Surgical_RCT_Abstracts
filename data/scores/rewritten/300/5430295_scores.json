@@ -1,0 +1,74 @@
+{
+  "pmcid": "5430295",
+  "sha256": "d355c22a4aea12d2a72534bf09f85a002692e58db4910f98dddcb6c3d8ca24a8",
+  "timestamp_utc": "2025-11-09T23:57:38.626866+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.16448979591837,
+    "reading_ease": 36.94074829931975,
+    "word_count": 245
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The REDWASH Trial: A Randomised Controlled Trial of Red Blood Cell Washing in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "60 adult patients were randomised 1:1 to receive either washed RBCs or standard care RBCs."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at three UK cardiac centres, 60 adult patients"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to receive either washed RBCs or standard care RBCs."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed whether washing allogeneic red blood cells (RBCs) could reduce inflammation and organ injury in cardiac surgery patients at high risk of large-volume transfusion."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was serum interleukin-8 (IL-8) measured at baseline and four postsurgery time points."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by study site and procedure type, with allocation concealed via an Internet-based system."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between May 2013 and March 2015, 29 patients were allocated to standard care and 27 to the washing group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There was no significant difference in IL-8 levels between groups [adjusted mean difference 0.239 (95% CI -0.231, 0.709), P=0.318]."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were not significantly different between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered under ISRCTN 27076315"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "funded by [source not specified]"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

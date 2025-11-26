@@ -1,0 +1,74 @@
+{
+  "pmcid": "12401851",
+  "sha256": "52c132ae6ccc0eb907398681b37c956b72eb7123f47c0515163f948721e644a5",
+  "timestamp_utc": "2025-11-09T15:39:48.046983+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.844859189723323,
+    "reading_ease": 38.30468008893283,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "285 received NCIT, while 32 received AIT after US."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We aimed to contribute to the ongoing discussion regarding adjuvant treatment strategies following neoadjuvant chemoimmunotherapy (NCIT) and adjuvant immunotherapy (AIT) after upfront surgery (US) in patients with resectable non-small cell lung cancer (NSCLC)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Event-free survival (EFS) and overall survival (OS) were assessed using the Kaplan–Meier method."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Before and after PSM, the IT and ChIT groups demonstrated better EFS compared with the no-treatment group."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

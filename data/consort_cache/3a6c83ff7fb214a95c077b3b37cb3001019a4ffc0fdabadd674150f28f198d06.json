@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compares the efficacy and safety of palonosetron and ondansetron"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To establish evidence for best clinical practices, this meta-analysis compares the efficacy and safety of palonosetron and ondansetron in preventing PONV"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "reported the efficacy (nausea and vomiting) at postoperative time points, namely T1 (0\u20132 hours), T2 (0\u20136 hours), T3 (12\u201324 hours), T4 (24\u201348 hours), and T5 (24\u201372 hours)"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Nineteen randomised controlled trials were included"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Pooled risk ratio (RR) revealed that patients receiving palonosetron were significantly less likely to develop nausea [0\u20132 h, RR = 0.82 (95% confidence interval (CI): 0.50, 1.34)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The safety profiles of palonosetron and ondansetron were comparable"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

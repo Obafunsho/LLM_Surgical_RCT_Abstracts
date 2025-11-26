@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This trial aimed to assess disease recurrence and survival rates between patients with locally advanced rectal adenocarcinoma (LARC) who underwent total mesorectal excision (TME) after a waiting interval of 8 weeks or less (classic interval; CI) versus more than 8 weeks (long interval; LI) following preoperative CRT."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This was a phase III, single-centre, randomized clinical trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with LARC situated within 12\u2005cm of the anal verge (T3\u2013T4 or N+ disease) were randomized to undergo TME within or after 8 weeks after CRT."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients with LARC situated within 12\u2005cm of the anal verge (T3\u2013T4 or N+ disease) were randomized to undergo TME within or after 8 weeks after CRT."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial aimed to assess disease recurrence and survival rates between patients with locally advanced rectal adenocarcinoma (LARC) who underwent total mesorectal excision (TME) after a waiting interval of 8 weeks or less (classic interval; CI) versus more than 8 weeks (long interval; LI) following preoperative CRT."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The cumulative incidence of locoregional recurrence at 5 years was 10.1 per cent in the CI group and 6.9 per cent in the LI group ( P = 0.143)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients with LARC situated within 12\u2005cm of the anal verge (T3\u2013T4 or N+ disease) were randomized to undergo TME within or after 8 weeks after CRT."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between January 2006 and January 2017, 350 patients were randomized, 175 to each group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Among the 322 included patients (CI, 159; LI, 163)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The cumulative incidence of distant metastasis at 5 years was 30.8 per cent in the CI group and 18.6 per cent in the LI group (sub-HR = 1.78; 95 per cent c.i. 1.14 to 2.78, P = 0.010)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT03287843 ( http://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

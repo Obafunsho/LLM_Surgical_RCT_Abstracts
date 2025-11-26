@@ -1,0 +1,74 @@
+{
+  "pmcid": "11927246",
+  "sha256": "9081423d93c1cd02b0e9c42176c0a7113c0fbff9bd19c3a20c1e88179e9619aa",
+  "timestamp_utc": "2025-11-09T15:26:37.243976+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.457367829021376,
+    "reading_ease": 16.555433070866172,
+    "word_count": 254
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Prospective, randomized, double-blind trial."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Prospective, randomized, double-blind trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Setting: An academic medical canter specializing in the care of women and children."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly allocated to three groups: a single-period TEAS group (Group S, n = 40), a multi-period TEAS group (Group M, n = 40) and a non-stimulation control group (Group C, n = 40)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To evaluate the efficacy of different periods for the prevention of postoperative nausea and vomiting (PONV) in patients undergoing gynecological laparoscopy with transcutaneous electrical acupoint stimulation (TEAS)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence and severity of PONV during the 48 h after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomly allocated to three groups."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Prospective, randomized, double-blind trial."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 120 women were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Patients were randomly allocated to three groups: a single-period TEAS group (Group S, n = 40), a multi-period TEAS group (Group M, n = 40) and a non-stimulation control group (Group C, n = 40)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Within postoperative 0–2 h, 4–12 h, group M had less frequency and lower scores for nausea compared with group C and group S had only less frequency of nausea compared with group C at 4–12 h postoperatively."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Chinese Clinical Trials Registry, No. ChiCTR2200065802, Registered 15/11/2022."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

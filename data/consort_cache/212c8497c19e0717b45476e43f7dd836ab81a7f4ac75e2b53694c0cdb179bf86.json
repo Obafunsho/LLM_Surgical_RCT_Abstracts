@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We therefore performed a randomized controlled trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomly allocated 50 patients to one of the two approaches."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients 65 years and older with four-part humeral fractures"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "treated either nonoperatively or with hemiarthroplasty."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to compare (1) function, (2) strength, and (3) pain and disability"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The Constant-Murley score was the primary outcome measure."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomly allocated 50 patients"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomly allocated 50 patients to one of the two approaches."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "We found no between-group differences in Constant-Murley and Simple Shoulder Test scores at 3- and 12-months followup."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "the nonoperatively treated patients experienced more pain at 3 months"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

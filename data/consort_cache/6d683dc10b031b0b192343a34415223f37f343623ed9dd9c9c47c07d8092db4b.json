@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "CETUPANC Trial: A Randomised Controlled Trial Comparing Surgical Approaches in Pancreatic Ductal Adenocarcinoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to either the NT or SMA group."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted across ten university hospitals, the trial included patients with resectable pancreatic ductal adenocarcinoma (PDAC)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to either the NT or SMA group."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the impact of the no-touch (NT) approach versus the superior mesenteric artery (SMA) approach in pancreatoduodenectomy on intraoperative circulating tumour cells (CTCs) and cluster mobilization, and their potential link to distant metastasis."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was intraoperative CTC and cluster mobilization, assessed at four time points."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was intraoperative, with allocation concealed until surgery."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Patients were blinded to the intervention."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 101 patients were randomized (51 SMA, 50 NT) between January 2017 and December 2019."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Sixty-three patients with PDAC were analyzed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Median metastasis disease-free survival (MDFS) was 12 months (IQR 6.1\u2013not reached) in the SMA group and 18 months (IQR 12.1\u2013not reached) in the NT group (P = 0.730)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT03340844."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

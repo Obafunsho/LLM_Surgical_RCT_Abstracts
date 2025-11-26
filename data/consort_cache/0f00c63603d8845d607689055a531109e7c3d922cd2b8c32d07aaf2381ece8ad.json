@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "2203 veterans in the ROOBY trial were randomly assigned to off-pump or on-pump CABG procedures"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "2203 veterans in the ROOBY trial were randomly assigned to off-pump or on-pump CABG procedures at 18 participating VA medical centers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Interventions: On-pump and off-pump CABG procedures."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To evaluate the 10-year outcomes and costs of off-pump vs on-pump CABG in the Department of Veterans Affairs (VA) Randomized On/Off Bypass (ROOBY) trial."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The 10-year coprimary end points included all-cause death and a composite end point identifying patients who had died or had undergone subsequent revascularization"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "2203 veterans in the ROOBY trial were randomly assigned"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "2203 veterans in the ROOBY trial were randomly assigned to off-pump or on-pump CABG procedures"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "A total of 1104 patients (1097 men [99.4%]; mean [SD] age, 63.0 [8.5] years) were enrolled in the off-pump group, and 1099 patients (1092 men [99.5%]; mean [SD] age, 62.5 [8.5] years) were enrolled in the on-pump group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 10-year death rates were 34.2% (n\u2009=\u2009378) for the off-pump group and 31.1% (n\u2009=\u2009342) for the on-pump group (relative risk, 1.05; 95% CI, 0.99-1.11; P =\u2009.12)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT01924442"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

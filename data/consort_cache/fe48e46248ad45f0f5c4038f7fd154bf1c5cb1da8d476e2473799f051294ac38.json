@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Liposomal Bupivacaine vs. Plain Bupivacaine with Dexamethasone for Postoperative Analgesia in VATS"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this double-blind, randomised controlled trial, 90 VATS patients were randomised"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "90 VATS patients were randomised to receive either 93 mg liposomal bupivacaine with 25 mg plain bupivacaine or 105 mg plain bupivacaine with 5 mg dexamethasone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial evaluated whether liposomal bupivacaine provides non-inferior analgesia compared to plain bupivacaine with dexamethasone via rhomboid intercostal block (RIB)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the area under the curve (AUC) of the 48-hour resting pain numeric rating scale (NRS)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "both patients and clinicians were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "90 VATS patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Liposomal bupivacaine was non-inferior to plain bupivacaine with dexamethasone, with a 48-hour NRS AUC of 105.5 \u00b1 13.6 vs. 113.1 \u00b1 16.3 (mean difference -7.6; 95% CI -13.9 to -1.2)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Safety profiles were comparable."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov NCT06392191"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

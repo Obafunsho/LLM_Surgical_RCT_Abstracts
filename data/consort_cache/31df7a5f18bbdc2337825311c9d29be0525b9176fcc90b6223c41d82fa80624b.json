@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Sixty-seven cyanotic patients (median age 15 months, interquartile range 6\u201349 months) undergoing corrective cardiac surgery were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Sixty-seven cyanotic patients (median age 15 months, interquartile range 6\u201349 months) undergoing corrective cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive either controlled normoxic (50\u20130 mm Hg; n = 35) or hyperoxic (150\u2013180 mm Hg; n = 32) cardiopulmonary bypass"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: This study investigates the effects of controlled reoxygenation cardiopulmonary bypass on oxidative stress, inflammatory response, and organ function in children undergoing repair of cyanotic congenital heart defects."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Troponin I and 8-isoprostane, C3a, interleukins 6, 8, and 10, cortisol, protein S100, and alpha-glutamate transferase were measured preoperatively and 10 and 30 minutes after starting bypass, on removal of the aortic crossclamp, and 12 and 24 hours thereafter."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixty-seven cyanotic patients (median age 15 months, interquartile range 6\u201349 months) undergoing corrective cardiac surgery were randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Overall, troponin I and 8-isoprostane levels were lower in the controlled normoxic group (\u221229%, 95% CI \u221248% to \u22123%, P = .03, and \u221226%, 95% CI \u221244% to \u22122%, P = .03, respectively)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

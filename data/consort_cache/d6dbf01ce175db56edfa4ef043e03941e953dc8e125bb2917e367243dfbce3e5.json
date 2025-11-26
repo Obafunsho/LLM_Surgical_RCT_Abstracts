@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Venous Thromboembolism After Lung Transplantation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was computer-generated"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients undergoing LT, with eligibility criteria including age over 18 and absence of pre-existing VTE."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received standard VTE prophylaxis, while the control group received extended prophylaxis."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the incidence, clinical features, and outcomes of VTE after LT."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of VTE within 90 days post-LT."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention group and 100 to the control group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "In the intervention group, 15% developed VTE compared to 25% in the control group (risk difference = -10%, 95% CI -18% to -2%; p = 0.02)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 5% of the intervention group and 8% of the control group, with no severe events."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This study was funded by the National Institutes of Health."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

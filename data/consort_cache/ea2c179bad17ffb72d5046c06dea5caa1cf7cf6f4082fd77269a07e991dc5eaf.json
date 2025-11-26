@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Stem Cell Therapy for Myocardial Regeneration"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was performed using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants with ischemic cardiac injury and NYHA class I-III symptoms were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received 150 million autologous BM MSCs, 5 million c-kit+ CPCs, or both via transendocardial injection. The control group received PlasmaLyte A."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the impact of stem cell therapy on cardiac function."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in left ventricular ejection fraction (LVEF) over six months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding included outcome assessors and patients."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 144 participants were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "125 completing the study"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "LVEF changes were not significantly different between groups. However, major adverse cardiac events decreased significantly in the CPC group (p = 0.043)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02501811"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Supported by the National Institutes of Health."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

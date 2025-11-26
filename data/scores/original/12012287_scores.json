@@ -1,0 +1,74 @@
+{
+  "pmcid": "12012287",
+  "sha256": "e0eb134e98df6407d6899f788a8c0fab48ecbdb116656521d6c4c37fbe424f37",
+  "timestamp_utc": "2025-11-09T15:27:56.759066+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 19.763484848484854,
+    "reading_ease": -7.447272727272718,
+    "word_count": 264
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 159 pediatric (age <18 years) cardiac surgery patients were prospectively randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "pediatric (age <18 years) cardiac surgery patients were prospectively randomized"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to pulsatile or nonpulsatile cardiopulmonary bypass"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study objective was to determine the impact of cardiopulmonary bypass perfusion modalities on cerebral hemodynamics and clinical outcomes"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Organ injury was quantified by Pediatric Logistic Organ Dysfunction-2 (PELOD-2) score at 24, 48, and 72 h postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 159 pediatric (age <18 years) cardiac surgery patients were prospectively randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "While the intraoperative pulsatility index was higher in the pulsatile subset of both acyanotic and cyanotic groups ( P < .05)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

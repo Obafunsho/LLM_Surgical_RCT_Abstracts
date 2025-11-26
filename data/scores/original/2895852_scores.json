@@ -1,0 +1,74 @@
+{
+  "pmcid": "2895852",
+  "sha256": "77c6b096db9d028c29239fb1431e568b10427391524807280b535d6a163aced5",
+  "timestamp_utc": "2025-11-09T15:50:34.445619+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.48338888888889,
+    "reading_ease": 24.61975000000001,
+    "word_count": 225
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomized 111 patients undergoing TKAs"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "111 patients undergoing TKAs"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "subcutaneous indwelling or an intraarticular indwelling catheter"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "whether subcutaneous indwelling vacuum drainage is advantageous over intraarticular indwelling vacuum drainage"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "functional outcomes (recovery of motion arc, American Knee Society, WOMAC, and SF-36 scores) at 12 months after surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomized 111 patients"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomized 111 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean vacuum drainage volume was less in the subcutaneous indwelling group than in the intraarticular indwelling group (140 mL versus 352 mL)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "incidence of wound problems"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

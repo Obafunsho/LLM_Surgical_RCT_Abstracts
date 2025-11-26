@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "The Carotid Occlusion Surgery Study (COSS) was a parallel group, prospective, 1:1 randomized, open-label, blinded-adjudication treatment trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants with angiographic confirmed complete occlusion of the ICA causing either a transient ischemic attack (TIA) or ischemic stroke within 120 days and hemodynamic cerebral ischemia demonstrated by an increased oxygen extraction fraction (OEF) measured by positron emission tomography (PET) were randomized to either surgical or medical treatment."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The surgical patients underwent a STA-MCA cortical branch anastomosis."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The Carotid Occlusion Surgery Study (COSS) was conducted to determine if STA-MCA bypass, when added to best medical therapy, would reduce subsequent ipsilateral stroke in patients with complete ICA occlusion and an elevated OEF in the cerebral hemisphere distal to the carotid occlusion."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "In the intention-to-treat analysis, the two-year rates of the primary endpoint were 0.210 for the surgical group and 0.227 for the medical group (p=0.78, log rank)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "1:1 randomized"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "open-label, blinded-adjudication treatment trial."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One hundred and ninety-five patients were randomized: 97 to the surgical group and 98 to the medical group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the intention-to-treat analysis"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "In the intention-to-treat analysis, the two-year rates of the primary endpoint were 0.210 for the surgical group and 0.227 for the medical group (p=0.78, log rank)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Fourteen (15%) of the 93 patients who had an STA-MCA arterial bypass had an endpoint ipsilateral hemispheric stroke in the 30 day peri-operative period, 12 within two days."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

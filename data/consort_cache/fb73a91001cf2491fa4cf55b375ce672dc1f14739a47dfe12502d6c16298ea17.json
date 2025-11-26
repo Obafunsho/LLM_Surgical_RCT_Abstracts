@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Preoperative Exercise Training During Neoadjuvant Treatment for Gastro-Oesophageal Junction Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This non-randomised, controlled feasibility study was conducted at Rigshospitalet, Copenhagen University Hospital."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with resectable GOJ adenocarcinoma were allocated to either a standard-care control group or an exercise group."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients with resectable GOJ adenocarcinoma were allocated to either a standard-care control group or an exercise group, which included twice-weekly high-intensity aerobic and resistance training."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the safety and feasibility of preoperative exercise training during neoadjuvant treatment."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of serious adverse events (SAEs) preventing surgery, measured from the start of neoadjuvant treatment to surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between April 2016 and May 2017, 62 patients were enrolled, with 21 in the exercise group and 29 in the control group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "62 patients were enrolled, with 21 in the exercise group and 29 in the control group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The risk of failure to reach surgery was 5% in the exercise group versus 21% in the control group (risk ratio 0.23, 95% CI 0.04 to 1.29)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No increase in SAEs was observed in the exercise group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02722785."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

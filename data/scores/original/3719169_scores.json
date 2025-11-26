@@ -1,0 +1,74 @@
+{
+  "pmcid": "3719169",
+  "sha256": "913d8f15828800065a6b0dab4d19cdfc68a6283f0ca02bee52ee239c2f058fba",
+  "timestamp_utc": "2025-11-09T15:54:08.634463+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.492795031055902,
+    "reading_ease": 41.92608695652177,
+    "word_count": 230
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "thrombolysis through the EVD to accelerate the clearance of obstructive IVH"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To assess the hypothesis that EVD laterality may influence the clearance of blood from the ventricular system, with and without administration of thrombolytic agent."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Clearance of IVH over the first 3 days was significantly greater"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "p < 0.005, CI −14.0, −4.14 for contralateral EVD and CI −24.7, −5.44 for ipsilateral EVD"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

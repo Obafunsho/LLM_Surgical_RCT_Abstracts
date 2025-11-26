@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The Single Ventricle Reconstruction trial randomized patients"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized patients with single right ventricle lesions to a modified Blalock-Taussig or right ventricle-to-pulmonary artery shunt"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This analysis describes outcomes at the stage II procedure and factors associated with a longer hospital length of stay (LOS)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "We examined the association of shunt type with stage II hospital outcomes."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "There were 393 subjects in the analytic cohort."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Median stage II procedure hospital LOS (8 days, IQR (6,14)), hospital mortality (4.3%), transplantation (0.8%), median ventilator time (2 days, IQR (1,3)), median intensive care unit LOS (4 days (IQR (3,7))"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "serious adverse events did not differ by shunt type"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

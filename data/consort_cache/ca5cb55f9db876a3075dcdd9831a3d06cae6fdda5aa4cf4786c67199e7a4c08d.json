@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tobramycin-Impregnated Bone Cement in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "15 patients undergoing primary TKA were randomly assigned"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients undergoing total knee arthroplasty (TKA)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "intervention group (n=10) receiving tobramycin-impregnated bone cement or the control group (n=5) receiving standard intravenous tobramycin"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "assessed the effectiveness of tobramycin-impregnated bone cement in achieving therapeutic antibiotic levels"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was intraarticular tobramycin concentration."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a blinded envelope method, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "blinded envelope method"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "15 patients undergoing primary TKA were randomly assigned"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was conducted per-protocol."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The intervention group demonstrated significantly higher intraarticular tobramycin levels at 6 hours (median=31.8 \u03bcg/mL, p=0.002), 24 hours (median=17.1 \u03bcg/mL, p=0.002), and 48 hours (median=6.8 \u03bcg/mL, p=0.02) compared to the control group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not disclosed."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

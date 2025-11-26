@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "ongoing randomized clinical trial of biventricular pacing (n=11) vs. standard of care (n=9)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients at risk of low cardiac output after heart surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "biventricular pacing (n=11) vs. standard of care (n=9)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that pacing parameters independently affect cardiac output."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Effects were measured within one hour of the conclusion of cardiopulmonary bypass."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "biventricular pacing (n=11) vs. standard of care (n=9)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A sub-study was conducted in all 20 patients"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Optimized pacing increased cardiac output 13% vs. atrial pacing at matched heart rate (5.5\u00b10.5 vs. 4.9\u00b10.6 L/min; p = 0.003)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

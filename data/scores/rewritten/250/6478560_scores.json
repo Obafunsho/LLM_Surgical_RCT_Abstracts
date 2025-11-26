@@ -1,0 +1,74 @@
+{
+  "pmcid": "6478560",
+  "sha256": "5620f33cc34ed94b6ccfa55e2c3cec404e609508102bd2d84a4ab2d5bcfb7291",
+  "timestamp_utc": "2025-11-09T22:50:37.484931+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.999680672268912,
+    "reading_ease": 22.952182072829146,
+    "word_count": 238
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Neurobehavioral Outcomes in Pediatric Open-Chest CPR: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This secondary analysis of the Therapeutic Hypothermia after Pediatric Cardiac Arrest In-Hospital Trial included 56 children"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "56 children who received open-chest CPR"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "children receiving open-chest CPR during in-hospital cardiac arrest"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate neurobehavioral outcomes one year post-arrest in children receiving open-chest CPR during in-hospital cardiac arrest and identify factors associated with survival and good neurobehavioral outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 12-month survival with VABS-II ≥70."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "56 children who received open-chest CPR"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 56 children, 49 (88%) were post-cardiac surgery, and 43 (77%) were <1 year old."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Thirty-three (59%) survived to 12 months, and 22 (41%) survived with VABS-II decreased by ≤15 points from baseline."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "ECMO use, renal replacement therapy, and higher maximum international normalized ratio were associated with lower 12-month survival with VABS-II ≥70."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

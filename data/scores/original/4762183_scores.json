@@ -1,0 +1,74 @@
+{
+  "pmcid": "4762183",
+  "sha256": "166f113e51594c58c4990d36047a3f409c9ebea1e574de6450de967740fc6244",
+  "timestamp_utc": "2025-11-09T16:00:29.363896+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.139310344827589,
+    "reading_ease": 35.06557029177722,
+    "word_count": 145
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We studied 202 patients who were enrolled in the DeLiT Trial"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "received intraoperative intravenous insulin"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We examined the impact of body weight, and presence of diabetes on the response to insulin during non-cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Blood glucose concentrations decreased 8.3 ±10 mg dl-1 (0.46 ± 0.56 mmol litre-1) per unit of insulin in 30 minutes."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We studied 202 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The response to insulin was similar in patients with or without diabetes [adjusted mean difference (97.5% CI): 0.2 (-3.9, 4.2) mg dl-1, 0.01 (-0.22, 0.24) mmol litre-1, P = 0.93]."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

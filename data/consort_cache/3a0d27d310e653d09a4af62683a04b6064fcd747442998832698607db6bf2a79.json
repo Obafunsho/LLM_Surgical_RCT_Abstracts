@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The aim of this multicentre pragmatic RCT was to compare re-excision and positive margin rates after localization using 125 I seed or hookwire in women with non-palpable breast cancer."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Between September 2013 and March 2018, women with non-palpable breast cancer eligible for breast-conserving surgery were assigned randomly to preoperative localization using 125 I seeds or hookwires."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "women with non-palpable breast cancer eligible for breast-conserving surgery were assigned randomly to preoperative localization using 125 I seeds or hookwires."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "women with non-palpable breast cancer eligible for breast-conserving surgery were assigned randomly to preoperative localization using 125 I seeds or hookwires."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this multicentre pragmatic RCT was to compare re-excision and positive margin rates after localization using 125 I seed or hookwire in women with non-palpable breast cancer."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Primary endpoints were rates of re-excision and margin positivity."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was stratified by lesion type (pure ductal carcinoma in situ (DCIS) or other) and study site."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 690 women were randomized at eight sites; 659 women remained after withdrawal ( 125 I seed, 327; HWL, 332)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "659 women remained after withdrawal ( 125 I seed, 327; HWL, 332)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The re-excision rate after 125 I seed localization was significantly lower than for HWL (13.9 versus 18.9 per cent respectively; P =\u20090.019)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: ACTRN12613000655741 ( http://www.ANZCTR.org.au/ )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

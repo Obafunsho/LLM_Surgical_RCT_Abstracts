@@ -1,0 +1,74 @@
+{
+  "pmcid": "8065964",
+  "sha256": "17667f8c6f04c84b463d0e564c3b369b03c97166cd6c0edb945af11497e1885a",
+  "timestamp_utc": "2025-11-09T16:16:17.065271+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.488423913043476,
+    "reading_ease": 16.79133152173918,
+    "word_count": 230
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients scheduled for elective pancreatic surgery between March 2017 and February 2019 were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients scheduled for elective pancreatic surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to either three cycles of upper-limb ischaemia and reperfusion (each 5 min) or a sham procedure"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigated the effect of remote ischaemic preconditioning (RIPC) on perioperative concentrations of high-sensitive cardiac troponin (hs-cTn) T and interleukin (IL) 6."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was the maximum postoperative hs-cTnT concentration within 48 h after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients scheduled for elective pancreatic surgery between March 2017 and February 2019 were randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 99 eligible patients, 46 underwent RIPC and 46 a sham procedure."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "15/45 RIPC, 18/45 controls"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "RIPC did not reduce the maximum hs-cTnT concentration after surgery (12.6 ng/l RIPC, 16.6 ng/l controls, P = 0.225)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Postoperative complications occurred in 23 RIPC and 24 control patients respectively."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinicaltrials.gov identifier NCT03460938"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

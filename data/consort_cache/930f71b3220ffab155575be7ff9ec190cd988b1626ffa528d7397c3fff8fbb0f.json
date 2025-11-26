@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Aim To assess the postoperative outcomes of various surgical techniques for choledocholithiasis, such as open common bile duct (CBD) exploration, laparoscopic CBD exploration, and a combined endoscopic and surgical approach, with an emphasis on immediate morbidity and long-term results."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Methods This non-randomized prospective observational study was conducted over two years, with a median follow-up of 12 months."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study included 50 patients diagnosed with CBD stones, and their demographic data, preoperative factors, interventions (endoscopic and surgical), and postoperative outcomes were analyzed."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "A comparative analysis of endoscopic retrograde cholangiopancreatography (ERCP) combined with laparoscopic cholecystectomy (LC) and laparoscopic CBD exploration shows both methods produce similar short-term results (stone clearance, postoperative morbidity, hospital stay) and long-term outcomes (stone recurrence, strictures)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Aim To assess the postoperative outcomes of various surgical techniques for choledocholithiasis, such as open common bile duct (CBD) exploration, laparoscopic CBD exploration, and a combined endoscopic and surgical approach, with an emphasis on immediate morbidity and long-term results."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Methods This non-randomized prospective observational study was conducted over two years, with a median follow-up of 12 months."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The study included 50 patients diagnosed with CBD stones, and their demographic data, preoperative factors, interventions (endoscopic and surgical), and postoperative outcomes were analyzed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "A comparative analysis of endoscopic retrograde cholangiopancreatography (ERCP) combined with laparoscopic cholecystectomy (LC) and laparoscopic CBD exploration shows both methods produce similar short-term results (stone clearance, postoperative morbidity, hospital stay) and long-term outcomes (stone recurrence, strictures)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

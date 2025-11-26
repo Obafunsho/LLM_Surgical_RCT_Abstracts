@@ -1,0 +1,74 @@
+{
+  "pmcid": "12371551",
+  "sha256": "d35eba505f01c7b9999444a89fc00cee1178c04a7b5d1d6fdba422dc935c584f",
+  "timestamp_utc": "2025-11-09T23:35:05.857897+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.799440619621343,
+    "reading_ease": 13.466837349397593,
+    "word_count": 249
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "The intervention consisted of open surgical repair, including resection of the aneurysm and reconstruction of the affected vessels."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the effectiveness of open surgical repair for complex CJFs in resource-limited settings."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The postoperative recovery was successful, with the resolution of symptoms and restoration of normal function."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported during the follow-up period."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 4,
+    "max_score": 25
+  }
+}

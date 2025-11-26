@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The aim of this trial was to compare scar quality after hydrosurgical versus conventional debridement before split-skin grafting."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A double-blind randomized within-patient multicentre controlled trial was conducted in patients with burns that required split-skin grafting."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients with burns that required split-skin grafting."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "One wound area was randomized to hydrosurgical debridement and the other to Weck knife debridement."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this trial was to compare scar quality after hydrosurgical versus conventional debridement before split-skin grafting."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was scar quality at 12 months, assessed with the observer part of the Patient and Observer Scar Assessment Scale (POSAS)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "One wound area was randomized to hydrosurgical debridement and the other to Weck knife debridement."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "A double-blind randomized within-patient multicentre controlled trial was conducted."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Some 137 patients were randomized."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 12 months, scars of the hydrosurgical debrided wounds had a lower POSAS observer total item score (mean 2.42 (95 per cent c.i. 2.26 to 2.59) versus 2.54 (95 per cent c.i. 2.36 to 2.72; P =\u20090.023)) and overall opinion score (mean 3.08 (95 per cent c.i. 2.88 to 3.28) versus 3.30 (95 per cent c.i. 3.09\u20133.51); P =\u20090.006)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complication rates did not differ between both treatments."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: Trial NL6085 (NTR6232 ( http://www.trialregister.nl ))."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12365376",
+  "sha256": "7d78dd5aef43e8e2288449773655d7e2324f433bc2b989b170762bd9dabca697",
+  "timestamp_utc": "2025-11-09T22:22:59.040346+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.713693693693696,
+    "reading_ease": 25.87882882882883,
+    "word_count": 222
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Engineered Extracellular Vesicles in Osteoarthritis Treatment"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment via sealed envelopes."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults diagnosed with knee OA, meeting specific eligibility criteria."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received engineered EVs, while the control group received standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the therapeutic potential of engineered extracellular vesicles (EVs) compared to parental stem cells in OA management."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was improvement in joint function, measured over 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised, with 100 in each group, recruited between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Intention-to-treat analysis included 98 participants in the intervention group and 97 in the control group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a significant improvement (mean difference = 5.2, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in the intervention group and 1% in the control group experiencing gastrointestinal side-effects."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by the National Institutes of Health."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

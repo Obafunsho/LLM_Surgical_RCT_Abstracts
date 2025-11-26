@@ -1,0 +1,74 @@
+{
+  "pmcid": "6354184",
+  "sha256": "1e98eb4927a2170e60d2bb019e18981382ad0c104bf8aaded3765304b5179fb8",
+  "timestamp_utc": "2025-11-09T16:08:26.148596+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.178405797101451,
+    "reading_ease": 24.05533444816055,
+    "word_count": 276
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were allocated to a standard‐care control group or an exercise group"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were allocated to a standard‐care control group or an exercise group, who were prescribed standard care plus twice‐weekly high‐intensity aerobic exercise and resistance training sessions."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study examined the safety and feasibility of preoperative exercise training during neoadjuvant treatment in these patients."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was the incidence of serious adverse events (SAEs) that prevented surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The risk of failure to reach surgery was 5 versus 21 per cent in the control group (risk ratio (RR) 0·23, 95 per cent c.i. 0·04 to 1·29)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The incidence of SAEs was not increased in the exercise group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

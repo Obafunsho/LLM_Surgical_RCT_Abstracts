@@ -1,0 +1,74 @@
+{
+  "pmcid": "11282469",
+  "sha256": "3a9ce82d3b6509b87f590b2fb829bb954627106ac9071b30bf9a0ffacda25f4c",
+  "timestamp_utc": "2025-11-09T23:14:19.750433+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.628697308883073,
+    "reading_ease": 23.230157180281026,
+    "word_count": 247
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Cardiac Index-Guided Therapy in Major Abdominal Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to either cardiac index-guided therapy or routine care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted in three German and two Spanish centres, this multicentre randomised controlled trial enrolled 380 high-risk patients."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved maintaining a cardiac index at which pulse pressure variation was <12% using intravenous fluids and dobutamine."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine if maintaining an optimised postinduction cardiac index during and for the first 8 hours after surgery reduces postoperative complications in high-risk patients undergoing elective major open abdominal surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of a composite of moderate or severe complications within 28 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Patients were blinded to group allocation, but clinicians and outcome assessors were not."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "this multicentre randomised controlled trial enrolled 380 high-risk patients."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of the 380 enrolled, 318 were analysed (152 in the intervention group and 166 in the control group) using a modified intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The composite primary outcome occurred in 55% of the intervention group and 46% of the control group (odds ratio: 1.87, 95% CI: 1.03–3.39, P = 0.038)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT03021525."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Pulsion Medical Systems, Germany, and institutional and departmental sources."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Ischemic Mitral Regurgitation Management"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised into two groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients with moderate IMR and CAD."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised into two groups: CABG alone (n=54) and CABG with mitral valve repair (n=48)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of concomitant mitral valve intervention during coronary artery bypass grafting (CABG)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was quality of life improvement, measured over four years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants included 102 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The CABG with mitral valve repair group showed significant improvement in quality of life and reduced symptoms compared to the CABG alone group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were more frequent in the CABG alone group, with 3% experiencing mild complications compared to 1% in the intervention group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not disclosed."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

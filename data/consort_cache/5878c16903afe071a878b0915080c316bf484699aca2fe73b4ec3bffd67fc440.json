@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Liposomal Bupivacaine in Quadratus Lumborum Block for Laparoscopic Nephrectomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "single-center, triple-blind, randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "116 patients aged 20\u201375 years undergoing elective laparoscopic nephrectomy were enrolled at Xuzhou Medical University"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "10 mL of liposomal bupivacaine (133 mg) with 10 mL saline or 20 mL of 0.375% bupivacaine hydrochloride"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial compared the analgesic efficacy of liposomal bupivacaine versus bupivacaine hydrochloride in QLB-LSAL."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was total morphine equivalent consumption within 48 hours postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealed in opaque envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, surgeons, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between January and May 2025, 116 patients were randomised: 58 to each group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The liposomal bupivacaine group had significantly lower morphine consumption (mean difference = 11.1 mg, 95% CI 10.1 to 12.1, P < 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant difference in adverse events was observed between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2400094955."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

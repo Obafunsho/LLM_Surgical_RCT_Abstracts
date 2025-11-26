@@ -1,0 +1,74 @@
+{
+  "pmcid": "12438655",
+  "sha256": "cc4a010db4b5345a126e1c9a793fcb89efe6261ba0a7b30c4ec5daf9999b4ad1",
+  "timestamp_utc": "2025-11-09T22:26:44.086113+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.735882352941179,
+    "reading_ease": 31.108137254901976,
+    "word_count": 204
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Neoadjuvant Targeted Therapy in EGFR-Mutant Resectable Lung Adenocarcinoma"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "A multicenter retrospective analysis was conducted"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "24 patients with stage IIA-IIIB EGFR-mutant lung adenocarcinoma"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "treated with neoadjuvant targeted therapy followed by surgery"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the objective response rate (ORR) measured post-treatment"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "24 patients with stage IIA-IIIB EGFR-mutant lung adenocarcinoma treated with neoadjuvant targeted therapy followed by surgery from July 2019 to October 2024"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All 24 patients underwent successful R0 resection"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The ORR was 83.3% (20/24), and the MPR was 37.5% (9/24)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "54.2% (13/24) experienced grade 1-2 adverse events, with no grade 3 or higher events reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

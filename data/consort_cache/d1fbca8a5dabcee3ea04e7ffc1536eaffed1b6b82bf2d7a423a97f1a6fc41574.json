@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of a Question Prompt List Intervention for Older Patients Considering Major Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised clinical trial employed a stepped-wedge design"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were 60 years or older with at least one comorbidity and an oncologic or vascular problem treatable with major surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "QPL intervention consisted of a brochure of 11 questions and an endorsement letter from the surgeon."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effectiveness of a question prompt list (QPL) intervention compared to usual care on patient engagement and well-being among older patients considering major surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Primary outcomes included the number and type of questions asked during the surgical visit and patient-reported Perceived Efficacy in Patient-Physician Interactions scale."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients randomly assigned to a QPL intervention (n=223) or usual care (n=223)"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 1319 eligible patients, 446 were randomised."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "randomisation was by intent-to-treat"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The difference in MYCaW scores for family members was greater in usual care (effect estimate, 1.51; 95% CI, 0.28-2.74; P=.008)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov NCT02623335"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

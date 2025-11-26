@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized crossover trial"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "active or sham stimulation protocols"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "In this study, we have developed an approach that can modulate this deep brain affective hub entirely noninvasively, using low-intensity transcranial-focused ultrasound."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "clinically meaningful reduction of pain on day 1 and on day 7"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty patients with chronic pain"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "active stimulation reduced pain by 60.0% immediately following the intervention and by 43.0% and 33.0% on days 1 and 7"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "no adverse events were detected"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11974623",
+  "sha256": "2784117dbee52696fcd0d82bf91637ab6f7f83f3fcb9b4630010524f274282c8",
+  "timestamp_utc": "2025-11-09T22:12:04.951596+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.8943870967742,
+    "reading_ease": 31.871580645161316,
+    "word_count": 248
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Oxiris Membrane in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomized 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients scheduled for cardiac surgery with expected CPB duration over 90 minutes were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized 1:1 to either the Oxiris group, receiving hemadsorption via the Oxiris membrane on a Prismaflex device at 450 ml/min during CPB, or the standard group without the device."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated whether the Oxiris membrane, an AN-69 hemadsorption device, could reduce inflammation, preserve endothelial function, and improve postoperative outcomes in high-risk patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the microvascular flow index on day 1 post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was performed using Clinsight software with random block sizes of 10."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "non-blind"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From October 2019 to November 2022, 70 patients were randomized (35 per group)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Two patients in the Oxiris group were excluded post-randomization."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The microvascular flow index did not significantly differ between groups on day 1: difference (95% CI) Oxiris minus standard at -0.17 (-0.44 to 0.10); P = 0.2."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Composite adverse outcomes were similar (Oxiris: 14/33 [42%] vs. standard: 12/35 [35%]; P = 0.7)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04201119."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Baxter Healthcare Corporation."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

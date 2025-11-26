@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Surgical Techniques for Choledocholithiasis"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "this non-randomised prospective observational study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "50 patients diagnosed with CBD stones. Participants were selected based on specific eligibility criteria"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "underwent different interventions: ERCP followed by laparoscopic cholecystectomy, laparoscopic CBD exploration, or open CBD exploration"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the postoperative outcomes of open common bile duct (CBD) exploration, laparoscopic CBD exploration, and a combined endoscopic and surgical approach."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was stone clearance, assessed intraoperatively and postoperatively over a 12-month follow-up."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation and blinding were not applicable."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "this non-randomised prospective observational study"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "50 patients diagnosed with CBD stones."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Stone clearance rates were similar across methods, with a stricture and stone recurrence rate of 2.94%."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Postoperative complications included pulmonary issues (22%) and wound infections (20%)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

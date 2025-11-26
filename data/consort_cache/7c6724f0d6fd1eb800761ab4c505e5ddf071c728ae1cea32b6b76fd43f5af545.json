@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients randomized to continuous biventricular pacing (n = 16) or standard of care (n = 18)"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients randomized to continuous biventricular pacing (n = 16) or standard of care (n = 18)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that changes in intrinsic heart rate can explain variable effects of atrial pacing in this setting."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "analyzed in patients randomized to continuous biventricular pacing"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "patients randomized to continuous biventricular pacing (n = 16) or standard of care (n = 18)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "intrinsic heart rate was lower in the paced group 12 to 24 hours after bypass (76.5 \u00b1 17.5 vs 91.7 \u00b1 13.0 beats per minute; P = .040)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

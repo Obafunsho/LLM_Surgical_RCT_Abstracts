@@ -1,0 +1,74 @@
+{
+  "pmcid": "12416890",
+  "sha256": "1b9fc6e62b0aea3676cd1e67719ae63895d6f4f2c972848f4c8ac00cfefed93a",
+  "timestamp_utc": "2025-11-09T15:40:37.386779+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.811937377690803,
+    "reading_ease": 50.45986301369865,
+    "word_count": 365
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized, nonblinded, parallell-arm study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "36 adult patients undergoing cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "high flow (2.9 l · min –1 · m –2 , n = 19) or standard flow (2.4 l · min –1 · m –2 , n = 17)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The authors investigated whether an amount higher than their standard blood flow during CPB could improve renal blood flow, the oxygen demand–supply relationship, and function and attenuate tubular injury."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Systemic hemodynamics and renal variables were measured before and during CPB."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomized, nonblinded, parallell-arm study"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "nonblinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "36 adult patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "19) or standard flow (2.4 l · min –1 · m –2 , n = 17)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "high flow led to a larger increase in systemic oxygen delivery (100 [95% CI, 60 to 141] vs. 31 [1.9 to 65] ml · min –1 · m –2 ]; between-group P < 0.001; effect size Cohen’s dz , 0.59)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No perfusion-related adverse events were seen in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

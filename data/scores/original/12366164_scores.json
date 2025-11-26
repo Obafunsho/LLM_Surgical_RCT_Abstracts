@@ -1,0 +1,74 @@
+{
+  "pmcid": "12366164",
+  "sha256": "8cd807a6078fa04a6d330c2ebb37ea26ca178be42d9621edda46454ca4a6743e",
+  "timestamp_utc": "2025-11-09T15:38:17.435486+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.312984710129538,
+    "reading_ease": 42.80400244213209,
+    "word_count": 277
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This systematic review aimed to evaluate whether dexmedetomidine could prevent POD in patients undergoing cardiac surgery."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Dexmedetomidine was more effective in preventing POD compared with both positive control and placebo control."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This systematic review aimed to evaluate whether dexmedetomidine could prevent POD in patients undergoing cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of POD."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty-two studies with 6046 participants were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Dexmedetomidine notably reduced the incidence of POD (RR = 0.67, 95% CI 0.59–0.76, P < 0.00001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number : INPLASY2024110008."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

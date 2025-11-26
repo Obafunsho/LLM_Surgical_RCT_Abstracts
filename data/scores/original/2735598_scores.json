@@ -1,0 +1,74 @@
+{
+  "pmcid": "2735598",
+  "sha256": "ac243886289275e987bf4e7323189e99662c8bf01e1072468d1d4c6d29b683d1",
+  "timestamp_utc": "2025-11-09T15:49:50.535090+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 18.208520055325035,
+    "reading_ease": 12.210742277547268,
+    "word_count": 241
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were 54 men and women with temporomandibular dysfunction-related orofacial pain (TMD) enrolled in a study of brief (6 weeks) standard conservative treatment (STD) or standard treatment plus CBT (STD+CBT)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients were 54 men and women with temporomandibular dysfunction-related orofacial pain (TMD)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "brief (6 weeks) standard conservative treatment (STD) or standard treatment plus CBT (STD+CBT)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose of this study was to determine whether cognitive-behavioral treatment (CBT) operates by effecting changes in cognitions, affects, and coping behaviors in the context of painful episodes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Momentary affects, pain, and coping processes were recorded on a cellphone keypad four times per day for seven days prior to treatment, and for 14 days after treatment had finished, in an experience sampling paradigm."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Patients were 54 men and women"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "STD+CBT patients reported greater decreases in pain than did STD patients, significantly greater increases in the use of active cognitive and behavioral coping, and significantly decreased catastrophization."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

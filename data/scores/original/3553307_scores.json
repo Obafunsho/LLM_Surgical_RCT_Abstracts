@@ -1,0 +1,74 @@
+{
+  "pmcid": "3553307",
+  "sha256": "2c7cc2fc7e9ee81dc96ebfe4eb6b7a097b9f90ddc1970d662eb2699a6caf6133",
+  "timestamp_utc": "2025-11-09T15:53:18.266084+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.025883534136547,
+    "reading_ease": 26.312238955823318,
+    "word_count": 249
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "The Pediatric Heart Network’s Infant Single Ventricle trial database identified participants who underwent SCPA."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: We sought to identify factors associated with timing and surgical outcomes of the superior cavopulmonary anastomosis (SCPA)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Factors potentially associated with age at SCPA, length of stay (LOS) and death by 14 months of age were evaluated."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "SCPA was performed in 193 subjects at 5.2 (IQR 4.2, 6.2) months of age and weight of 5.9 (IQR 5.3, 6.6) kg."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Age at SCPA was associated with center and interstage adverse events. Longer LOS was associated with younger age and greater case complexity."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were 3 deaths and 1 transplant during SCPA hospitalization and 3 deaths and 3 transplants between discharge and 14 months of age."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

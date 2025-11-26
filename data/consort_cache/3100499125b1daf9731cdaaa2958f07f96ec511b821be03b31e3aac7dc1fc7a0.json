@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In a randomized clinical trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a randomized clinical trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "336 eligible participants who self-identified as black and 50 years or older with chronic and frequent knee pain, a Western Ontario McMaster Universities Osteoarthritis Index score of at least 39, and radiographic evidence of OA of the knee were recruited from December 1, 2010, to May 31, 2014, at 3 medical centers."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Access to a decision aid for OA of the knee, a 40-minute video that describes the risks and benefits of TKR surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess whether a decision aid improves access to total knee replacement (TKR) surgery for black patients with OA of the knee."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Receipt of TKR surgery within 12 months and/or a recommendation for TKR surgery from an orthopedic surgeon within 6 months after the intervention."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Among 336 patients (101 men [30.1%]; 235 women [69.9%]; mean [SD] age, 59.1 [7.2] years) randomized to the intervention or control group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Data were analyzed on a per-protocol and intention-to-treat (ITT) basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "adjusted ORs were 2.10 (95%CI, 1.04\u20134.27) for the ITT analysis and 2.39 (95%CI, 1.12\u20135.10) for the per-protocol analysis"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "clinicaltrials.gov Identifer: NCT01851785"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

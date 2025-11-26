@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "CAIRO4 is a randomized phase 3 trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients with mCRC were randomized to systemic treatment only or PTR followed by systemic treatment"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients included between August 2012 and December 2019 with histologically proven colorectal cancer, unresectable metastases, and a primary tumor with few or absent symptoms were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Systemic treatment, consisting of fluoropyrimidine-based chemotherapy with bevacizumab vs PTR followed by fluoropyrimidine-based chemotherapy with bevacizumab."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To determine the difference in 60-day mortality between patients randomized to systemic treatment only vs PTR followed by systemic treatment, and to explore risk factors associated with 60-day mortality."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The aim of the current analysis was to compare 60-day mortality rates in both treatment arms."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Patients included between August 2012 and December 2019"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "A total of 196 patients were included in the intention-to-treat analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Sixty-day mortality was 3% (95% CI, 1%-9%) in the systemic treatment arm and 11% (95% CI, 6%-19%) in the PTR arm ( P =\u2009.03)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Patients with elevated serum levels of lactate dehydrogenase, aspartate aminotransferase, alanine aminotransferase, and/or neutrophils who were randomized to PTR had a significantly higher 60-day mortality than patients without these characteristics."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT01606098"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background.: Racial disparities in use of surgical therapy for lung cancer exist in the United States."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Participants included 113 surgeons (38 practicing surgeons, 75 trainees); of these, 76 were white non-Hispanic (67%), and 37 were other self-identified racial categories."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Trainees and practicing thoracic surgeons read a race-neutral vignette, provided an initial estimate of the percentage risk of major surgical complications, viewed a video randomized to a black or white SP, provided a final estimate of risk, and scored the likelihood that they would recommend operative therapy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that physician race and SP race in videos influence surgeon decision making."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "viewed a video randomized to a black or white SP"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants included 113 surgeons (38 practicing surgeons, 75 trainees)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Percentage changes between initial and final risk estimates were not significantly related to patient race ( p = 0.11) or surgeon race (white versus other; p = 0.52)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12481333",
+  "sha256": "306fcc61e4c1c66af9f0e20de2c833ed447315ee83dc4864a7e9284dbe8fe600",
+  "timestamp_utc": "2025-11-09T15:43:49.430890+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.921152296535055,
+    "reading_ease": 11.509101531023362,
+    "word_count": 292
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants will be randomised into two surgical groups (RIMA-SVG vs Ao-SVG)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This non-inferiority, single-centre, prospective, double-blind, randomised clinical trial will enrol 300 patients undergoing CABG."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants will be randomised into two surgical groups (RIMA-SVG vs Ao-SVG)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to determine whether the RIMA-SVG technique is non-inferior to the conventional Aorta (Ao)-SVG approach in terms of 1-year graft patency, while also comparing perioperative complications and short-term clinical outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome is the 1-year SVG patency rate, assessed using coronary CT angiography."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation will be computer-generated, and all procedures will be performed by experienced surgeons."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This non-inferiority, single-centre, prospective, double-blind, randomised clinical trial will enrol 300 patients undergoing CABG."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Secondary outcomes include perioperative complications, all-cause mortality, major adverse cardiovascular and cerebrovascular events (MACCE), and surgical site infections occurring during hospitalisation and up to 1 year postoperatively."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "registered at ClinicalTrials.gov ( NCT06787651 )"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

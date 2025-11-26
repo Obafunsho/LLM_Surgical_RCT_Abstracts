@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Cardiac Index-Guided Therapy in Major Abdominal Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "380 high-risk patients were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "high-risk patients undergoing elective major open abdominal surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "cardiac index-guided therapy or routine care"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial evaluated whether maintaining an optimised postinduction cardiac index during and for the first 8 hours after surgery reduces postoperative complications"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of a composite of moderate or severe complications within 28 days post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Patients were blinded to group allocation, but clinicians and outcome assessors were not"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "380 high-risk patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "318 were analysed (152 in the intervention group and 166 in the control group) using a modified intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The composite primary outcome occurred in 55% of the intervention group and 46% of the control group (odds ratio: 1.87, 95% CI: 1.03\u20133.39, P = 0.038)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT03021525"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Pulsion Medical Systems, Germany, and institutional and departmental sources"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

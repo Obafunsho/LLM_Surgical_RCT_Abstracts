@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Long-term Outcomes of Invasive vs. Noninvasive Treatments for Intermittent Claudication: A Systematic Review and Meta-Analysis of Randomised Controlled Trials"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults diagnosed with IC."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Interventions included invasive treatments (angioplasty, revascularization) and noninvasive treatments (supervised exercise therapy, best medical therapy)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the long-term outcomes of invasive versus noninvasive treatments for IC."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were quality of life (QoL), ankle-brachial pressure index (ABPI), and maximum walking distance (MWD) over 2 to 7 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 1379 patients from 11 RCTs were included."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Invasive treatments significantly improved MWD (pooled MD = 64.94, 95% CI [10.77, 115.12], p = .02) and ABPI (pooled MD = 0.15, 95% CI [0.04, 0.26], p = .006)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were more frequent in the invasive group, though not statistically significant."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42023494962."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

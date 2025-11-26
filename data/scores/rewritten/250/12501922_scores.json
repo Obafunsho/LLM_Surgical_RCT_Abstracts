@@ -1,0 +1,74 @@
+{
+  "pmcid": "12501922",
+  "sha256": "ff5002bfa64512e8a167696ef2e3c0b3a2e8294d5280a5673b38d00d134c86fd",
+  "timestamp_utc": "2025-11-09T22:30:44.864996+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.822551724137934,
+    "reading_ease": 31.24428735632185,
+    "word_count": 232
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Preventive Factors in Free Flap Surgery for Head and Neck Reconstruction"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation and allocation concealment methods were not applicable due to the retrospective nature of the study."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at a tertiary referral center from 2019 to 2022, the study included 110 patients who underwent free flap reconstructions. Participants were selected based on eligibility criteria, excluding those with missing outcome data."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to identify factors preventing complications in free flap surgery for head and neck reconstruction to support clinical decision-making."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was complication-free survival (CFS) at 30 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable due to the retrospective nature of the study."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 125 identified cases, 110 were analysed."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 125 identified cases, 110 were analysed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 30-day CFS was 63%. Multivariable analysis identified female gender (HR: 9.4, CI: 2.6–33.5), alcohol abuse (HR: 3.5, CI: 1.4–8.4), and obesity (HR: 2.1, CI: 0.9–5.1) as significant risk factors."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Sacral Neuromodulation vs. Personalized Conservative Treatment for Refractory Idiopathic Slow-Transit Constipation: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised in a 3:2 ratio to SNM (n=41) or personalized conservative treatment (PCT, n=26) using web-based minimization."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants aged 14-80 years with idiopathic STC, defecation frequency <3 per week, and refractory to maximal conservative treatment were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised in a 3:2 ratio to SNM (n=41) or personalized conservative treatment (PCT, n=26)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was treatment success, defined as an average defecation frequency \u22653 per week, measured at 6 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "using web-based minimization"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomised in a 3:2 ratio to SNM (n=41) or personalized conservative treatment (PCT, n=26)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 6 months, 22 of 41 (53.7%) SNM patients achieved treatment success compared to 1 of 26 (3.8%) PCT patients (odds ratio 36.4, 95% CI 3.4\u2013387.5, P=0.003)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 32 SNM and 8 PCT patients, with 6 serious events in SNM and 2 in PCT."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials.gov NCT02961582."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

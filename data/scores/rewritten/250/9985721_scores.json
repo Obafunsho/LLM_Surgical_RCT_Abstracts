@@ -1,0 +1,74 @@
+{
+  "pmcid": "9985721",
+  "sha256": "fa80a625e2fdc4065c87d6cc576666e01faf76647135ce3aeabdf22202a01a22",
+  "timestamp_utc": "2025-11-09T23:03:09.021451+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.201401098901101,
+    "reading_ease": 19.707884615384614,
+    "word_count": 208
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Acceptable Uncertainty in Skipping Intravenous Thrombolysis Before Endovascular Treatment"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing IVT+EVT (standard care) with EVT alone (experimental arm)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the acceptable level of uncertainty for skipping intravenous thrombolysis (IVT) before endovascular treatment (EVT) in stroke patients directly admitted to EVT-capable centers."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "where both arms achieved similar functional independence at 90 days"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Out of 600 invited participants, 180 responded (response rate: 30%)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "with 165 providing complete answers"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The median acceptable uncertainty for reasonable comparability was an absolute difference of 3% in the rate of day 90 functional independence (mode 5%, IQR 1–5%). Interventionalists chose higher margins (aOR 2.20, 95% CI 1.06 to 4.67)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Cuff Inflation-Deflation and Conventional Techniques for Nasotracheal Intubation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly allocated to either the conventional group (Group C) or the cuff inflation group (Group I) using block randomisation with a 1:1 ratio."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were 106 patients aged 18-65 years, ASA I-II, scheduled for elective surgeries requiring NTI. Exclusion criteria included difficult airway, nasal trauma, and refusal to participate."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compared to the conventional method for NTI."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of the cuff inflation-deflation technique compared to the conventional method for NTI."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was intubation time, measured from oropharynx entry to successful end-tidal CO2 confirmation."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was concealed using opaque envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not possible for the anesthesiologists."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "53 patients were randomised to each group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Intubation time was significantly shorter in Group I (27.86 \u00b1 4.47 s) compared to Group C (41.11 \u00b1 10.98 s; P < 0.0001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Mild to moderate nasal bleeding occurred in 5/53 patients in Group I and 8/53 in Group C."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Clinical Trial Registry-India."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

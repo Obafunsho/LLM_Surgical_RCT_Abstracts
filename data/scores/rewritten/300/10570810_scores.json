@@ -1,0 +1,74 @@
+{
+  "pmcid": "10570810",
+  "sha256": "7e06cccece506bc40d9072d68d73105340e2b2a681737ff258c49fb89388fd14",
+  "timestamp_utc": "2025-11-09T23:07:43.278715+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.679896462467646,
+    "reading_ease": 27.02731233822263,
+    "word_count": 244
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of the TRIFLO Heart Valve"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation was computer-generated"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults with severe aortic stenosis eligible for valve replacement."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received the TRIFLO Heart Valve, while the control group received the On-X valve."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial assesses a novel tri-leaflet mechanical valve designed to minimize thrombogenicity without long-term anticoagulation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of major bleeding events at 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 8 participants were randomised: 6 to the TRIFLO group and 2 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All participants were analysed per protocol."
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "The TRIFLO group showed no major bleeding events, while the control group also reported none."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The TRIFLO valve demonstrated favorable hemodynamics, with no thrombus formation or adverse events."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials.gov NCT05687448"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by Novostia, Switzerland."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

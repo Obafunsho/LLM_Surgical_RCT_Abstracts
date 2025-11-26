@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "people aged 60\u201369\u2009years were randomized into the screening and control arms"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "people aged 60\u201369\u2009years were randomized into the screening and control arms"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized into the screening and control arms"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to determine the effects of faecal occult blood test (FOBT) screening of colorectal cancer (CRC) in outcomes beyond mortality"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Differences in incidence, symptoms, tumour location, TNM categories, non\u2010vital outcomes and survival in the screening and control arms were analysed"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "people aged 60\u201369\u2009years were randomized into the screening and control arms"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "From 321\u2009311 individuals randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "743 patients with screening\u2010detected tumours and 617 control patients with CRC were analysed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "CRC was less common in women than in men (0\u00b734 versus 0\u00b750 per cent; risk ratio (RR) 0\u00b782, 95 per cent c.i. 0\u00b774 to 0\u00b791)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

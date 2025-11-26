@@ -1,0 +1,74 @@
+{
+  "pmcid": "5875375",
+  "sha256": "6076ca9c02f198366b58ec92ea54c81b1c39259a2ae0d42349567ecf8a09e923",
+  "timestamp_utc": "2025-11-09T16:06:13.573034+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.182662514597123,
+    "reading_ease": 24.507020890099938,
+    "word_count": 367
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This cluster randomized stepped-wedge randomized clinical trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This cluster randomized stepped-wedge randomized clinical trial was conducted from October 2015 to May 2016"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included residents, fellows, advance-practice clinicians, and attending physicians (n = 106 clinicians, with 1488 handoff events over 8 months)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Exposures: The UW-IPASS standardized handoff curriculum"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To determine the effect of a standardized handoff curriculum, UW-IPASS, on interclinician communication and patient outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary aim was to assess the effect of the UW-IPASS handoff curriculum on perceived adequacy of interclinician communication."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "This cluster randomized stepped-wedge randomized clinical trial"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Participants included residents, fellows, advance-practice clinicians, and attending physicians (n = 106 clinicians, with 1488 handoff events over 8 months)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 63 residents and advance practice clinicians, 13 fellows, and 30 attending physicians participated in the study."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "odds ratio, 0.19; 95% CI, 0.03-0.74; P = .03"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "UW-IPASS was not associated with any changes in intensive care unit length of stay, duration of mechanical ventilation, or the number of reintubations."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: isrctn.org Identifier: ISRCTN14209509"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12377936",
+  "sha256": "0f3ba37031d5772d5573ddd68154feeaa0ef8b743968f83cee66f776f6ef1b21",
+  "timestamp_utc": "2025-11-09T15:38:56.665670+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.95035856573705,
+    "reading_ease": 7.926138522831792,
+    "word_count": 251
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "This retrospective study included hospitalized patients in the hemato‐oncology department."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "Patients were evaluated for serious adverse drug reactions (ADRs) resulting from intravenous administration of AAP."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "In this study, we aimed to identify the risk factors associated with the occurrence of serious hypotension following intravenous AAP administration during fever in patients with hematologic malignancies."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The serious hypotension group included 37 patients, while the control group had 111 patients randomized in a 1:3 ratio based on age and sex."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Three risk factors were identified as increasing the likelihood of serious hypotension: body temperature prior to administration, acute kidney injury, and bacteremia."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Patients were evaluated for serious adverse drug reactions (ADRs) resulting from intravenous administration of AAP."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

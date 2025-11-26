@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of PRP and Autologous Blood Injections for Lateral Epicondylitis"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "parallel-group, participant- and assessor-blinded trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adults with clinically diagnosed lateral epicondylitis unresponsive to nonoperative treatment. Exclusion criteria included other upper-limb symptoms and prior elbow surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "to receive PRP, autologous blood, or saline injections"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "assessed the effectiveness of platelet-rich plasma (PRP) and autologous blood injections versus saline in treating lateral epicondylitis"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pain improvement on the VAS scale at 52 weeks."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Participants were randomised (1:1:1) using computer-generated sequences, concealed from investigators"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "participant- and assessor-blinded trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 119 participants were randomised: 40 to PRP, 40 to autologous blood, and 39 to saline."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "At 52 weeks, 31 PRP, 38 autologous blood, and 32 saline participants were analysed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean VAS pain difference was -0.2 (95% CI -1.5 to 1.1; p = 0.75) for PRP vs. saline and 0.5 (95% CI -0.7 to 1.7; p = 0.40) for autologous blood vs. saline."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials.gov."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funded by the local hospital district."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

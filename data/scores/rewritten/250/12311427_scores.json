@@ -1,0 +1,74 @@
+{
+  "pmcid": "12311427",
+  "sha256": "7c8dae38f875d544724fa66ad120ffa74f13f9056cc57e092b812db15234b13c",
+  "timestamp_utc": "2025-11-09T22:21:12.700404+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.530826646762456,
+    "reading_ease": 16.096814704235896,
+    "word_count": 233
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Predictive Factors for Antibiotic Non-responsiveness in Uncomplicated Acute Appendicitis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomized to receive either antibiotics or appendectomy."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 18-60 years with CT-confirmed uncomplicated acute appendicitis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized to receive either antibiotics or appendectomy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Identifying predictive factors for primary non-responsiveness or recurrence could enhance treatment success."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was primary non-responsiveness to antibiotics within 30 days"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was open-label"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 856 patients randomized to antibiotics"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "832 were eligible for non-responsiveness analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "An appendiceal diameter ≥15 mm (adjusted RR 4.00, 95% CI 2.00 to 7.92, P < 0.001) and body temperature >38°C (adjusted RR 2.76, 95% CI 1.27 to 6.03, P = 0.011) were associated with non-responsiveness."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT03236961 and NCT01022567"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

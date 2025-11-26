@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Plate and Intramedullary Nail Fixation for Displaced Midshaft Clavicle Fractures"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 120 patients with displaced midshaft clavicle fractures were enrolled"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "120 patients with displaced midshaft clavicle fractures were enrolled between January 2011 and August 2012"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either plate fixation (n=58) or intramedullary nail fixation (n=62)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the long-term outcomes of plate versus intramedullary nail fixation for displaced midshaft clavicle fractures"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was disability, measured by the QuickDASH score at a minimum followup of 30 months (mean, 39 months)"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "120 patients with displaced midshaft clavicle fractures were enrolled between January 2011 and August 2012"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either plate fixation (n=58) or intramedullary nail fixation (n=62)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "QuickDASH scores showed no significant difference between the plate (1.8 \u00b1 3.6) and intramedullary nail groups (1.8 \u00b1 7.2; mean difference, \u22120.7; 95% CI, \u22122.2 to 2.04; p=0.95)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No major complications occurred after the 1-year followup"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

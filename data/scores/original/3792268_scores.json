@@ -1,0 +1,74 @@
+{
+  "pmcid": "3792268",
+  "sha256": "c80dd9a1e087b5d3b70bead349130b0fad71df75ebd7bc37d6ee3cc738b8147c",
+  "timestamp_utc": "2025-11-09T15:54:36.080350+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.985594405594405,
+    "reading_ease": 46.62531468531472,
+    "word_count": 286
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomized 145 patients into two groups"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "either a porous tantalum cementless tibial component group (Group 1) or cemented conventional tibial component in posterior cruciate retaining TKA group (Group 2)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We asked whether a tibial component fixed by a porous tantalum system might achieve (1) better clinical outcome as reflected by the Knee Society Score (KSS) and WOMAC Osteoarthritis Index, (2) fewer complications and reoperations, and (3) improved radiographic results with respect to aseptic loosening compared with a conventional cemented implant."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Patients were evaluated preoperatively and 15 days, 6 months, and 5 years after surgery, using the KSS and the WOMAC index."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomized 145 patients into two groups"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomized 145 patients into two groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 5-year followup the KSS mean was 90.4 (range, 68–100; 95% CI, ± 1.6) for Group 1, and 86.5 (range, 56–99; 95% CI, ± 2.4) for Group 2. The effect size, at 95% CI for the difference between means, was 3.88 ± 2.87. The WOMAC mean was 15.1 (range, 0–51; 95% CI, ± 2.6) for the Group 1, and 19.1 (range, 4–61; 95% CI, ± 2.9) for Group 2. The effect size for WOMAC was −4.0 ± 3.9."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no differences in the frequency of complications or in aseptic loosening between the two groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

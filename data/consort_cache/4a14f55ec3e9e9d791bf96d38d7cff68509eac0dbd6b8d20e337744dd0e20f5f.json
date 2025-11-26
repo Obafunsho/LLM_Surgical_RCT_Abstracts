@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of EC-IC Bypass in AICAO Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to surgical or medical treatment groups."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Participants from the Carotid Occlusion Surgery Study (COSS) with recurrent hemispheric ischemia (rHEMI+) and without (rHEMI\u2212)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to surgical or medical treatment groups."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was all stroke and death from randomisation through 30 days and ipsilateral ischemic stroke within 2 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 195 participants, 100 were rHEMI+ (50 in each group)."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was intention-to-treat."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No significant differences in the primary endpoint were observed between surgical and nonsurgical groups in rHEMI+ (26.3% vs 22.4%, P = .660) and rHEMI\u2212 (18.9% vs 19.5%, P = .943)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

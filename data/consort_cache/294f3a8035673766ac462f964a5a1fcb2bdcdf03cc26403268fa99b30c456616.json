@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial Comparing Suprascapular and Interscalene Nerve Blocks in Shoulder Arthroscopy"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults undergoing shoulder arthroscopy, with eligibility criteria including the use of SSNB or ISB."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aimed to compare the analgesic efficacy and safety of suprascapular nerve block (SSNB) versus interscalene brachial plexus block (ISB)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the analgesic efficacy and safety of suprascapular nerve block (SSNB) versus interscalene brachial plexus block (ISB)"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was postoperative pain, measured using the Visual Analog Scale (VAS) at various time points."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation and allocation concealment were adequately described in 15 and 16 studies, respectively."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding of outcome assessors was reported in all studies."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "1255 patients were randomised, with 17 RCTs analysed."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "SSNB resulted in higher VAS at rest in PACU (MD = 0.56, 95% CI [0.19, 0.94], P = 0.003) but lower VAS at 12 hours post-operation (MD = \u22120.71, 95% CI [\u22121.12, \u22120.3], P = 0.0006)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "SSNB had fewer complications, including Horner syndrome (P < 0.0001) and dyspnea (P = 0.04)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: CRD42020205426."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

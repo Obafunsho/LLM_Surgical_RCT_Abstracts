@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this phase II and pharmacodynamic study, patients with recurrent GBM received RO4929097 in a study of 2 groups."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients with recurrent GBM"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients with recurrent GBM received RO4929097 in a study of 2 groups."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To estimate the 6-mo progression-free survival rate (PFS 6 ) in patients with progressive GBM and to inhibit by 50% the generation of neurospheres in fresh tissue resected from patients treated with RO4929097."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Endpoints included PFS 6 and the inhibition of neurosphere formation in the resected tumor samples."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 47 patients received treatment, 7 of whom had tumor resection."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 47 patients received treatment, 7 of whom had tumor resection."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The PFS 6 was 4%, and the inhibition of neurosphere formation occurred in 1 of 7 patient samples."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Landmark-Guided and Ultrasound-Guided Intra-Articular Analgesic Injections for Shoulder Dislocation Reduction"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Twenty-eight patients with anterior shoulder dislocation were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Twenty-eight patients with anterior shoulder dislocation"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to either the landmark-guided or ultrasound-guided intra-articular lidocaine injection group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study compares landmark-guided and ultrasound-guided intra-articular analgesic injections."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pain reduction, measured using the Visual Analog Scale (VAS) before and after injection, and before injection and after reduction."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not applied to patients or clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Fourteen patients were randomised to each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Fourteen patients were randomised to each group."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "no significant differences in pain reduction between preinjection and postinjection (landmark-guided: \u0394VAS 2.8 \u00b1 1.1, ultrasound-guided: \u0394VAS 2.9 \u00b1 1.0; p = 0.72)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No complications were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

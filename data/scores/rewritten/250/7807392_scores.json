@@ -1,0 +1,74 @@
+{
+  "pmcid": "7807392",
+  "sha256": "a86dae2a09d362f3ace5b137b1c771360914edb5834d44d9d850a2fcae08940d",
+  "timestamp_utc": "2025-11-09T22:56:12.019079+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.23216439688716,
+    "reading_ease": 26.436858787289253,
+    "word_count": 257
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Postdischarge Video-Based Virtual Visits vs. In-Person Follow-Up"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomised in a 2:1 ratio"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were those undergoing minimally invasive appendectomy or cholecystectomy. This randomised, active, controlled noninferiority trial was conducted in an urban setting, involving patients from a small community hospital and a large tertiary care hospital."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised in a 2:1 ratio to receive either video-based virtual visits or in-person visits."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the outcomes of 30-day hospital encounters among patients receiving virtual follow-up compared to in-person follow-up."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the percentage of patients with a 30-day hospital encounter, defined as an emergency department visit, observation, or inpatient admission."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 432 patients were randomised, with 289 in the virtual group and 143 in the in-person group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The hospital encounter rate was noninferior for virtual visits (12.8% vs. 13.3% for in-person, Δ 0.5% with 1-sided 95% CI, −∞ to 5.2%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT03258177"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

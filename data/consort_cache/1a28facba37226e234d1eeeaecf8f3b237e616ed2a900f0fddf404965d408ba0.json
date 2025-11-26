@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "multicenter double-blind parallel group randomized superiority trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients\u2009\u2265\u200918\u00a0years undergoing elective esophagectomy, gastrectomy, colectomy, rectal resection, pancreatic resection, or hepatectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compare tranexamic acid (loading dose 1000\u00a0mg over 10\u00a0min prior to skin incision, maintenance dose 125\u00a0mg/h continuously until skin closure or until 1000\u00a0mg have been administered) to placebo"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary efficacy endpoint is the intra- or postoperative transfusion of at least one unit of packed red blood cells."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "425 patients are to be randomized per group"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: EU CT Nr: 2023\u2013509970-43\u201301, NCT06414031"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

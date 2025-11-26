@@ -1,0 +1,74 @@
+{
+  "pmcid": "8119517",
+  "sha256": "1577fe06cdccbb89d442eef811ab46ace3b77c5e536fe72831628f764aea7bd7",
+  "timestamp_utc": "2025-11-09T16:16:46.391481+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.25657142857143,
+    "reading_ease": 27.96876190476192,
+    "word_count": 350
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Oliceridine is Associated with Reduced Risk of Vomiting and Need for Rescue Antiemetics Compared to Morphine: Exploratory Analysis from Two Phase 3 Randomized Placebo and Active Controlled Trials"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In two randomized, placebo- and morphine-controlled phase 3 studies"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "oliceridine at demand doses of 0.1, 0.35, and 0.5 mg provided rapid and sustained analgesia vs. placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to characterize the GI tolerability profile of oliceridine vs. morphine"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "complete GI response defined as the proportion of patients with no vomiting and no use of rescue antiemetic"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "the odds ratio of experiencing a complete GI response with oliceridine (pooled regimens) vs. morphine was 3.14 (95% CI: 1.78, 5.56; p < 0.0001)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

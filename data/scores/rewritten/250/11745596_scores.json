@@ -1,0 +1,74 @@
+{
+  "pmcid": "11745596",
+  "sha256": "09a175689d7e6352f2a43765890642e56ed28c13c5f8a1c50cf54cc11eba0111",
+  "timestamp_utc": "2025-11-09T22:07:24.501142+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.315833333333334,
+    "reading_ease": 28.0925,
+    "word_count": 240
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Cost-Effectiveness of Dual Hypothermic Oxygenated Machine Perfusion in DCD Liver Transplantation: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients were randomised to receive a DCD liver preserved with either DHOPE or SCS"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients were randomised to receive a DCD liver preserved with either DHOPE or SCS. The trial was conducted in three Dutch liver transplant centers."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "dual hypothermic oxygenated machine perfusion (DHOPE) compared to static cold storage (SCS)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the cost-effectiveness of dual hypothermic oxygenated machine perfusion (DHOPE) compared to static cold storage (SCS) in donation after circulatory death (DCD) liver transplantation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the cost-effectiveness of DHOPE, measured by total medical costs up to one year posttransplant."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Patients and organ procurement teams were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 119 patients were randomised: 60 to DHOPE and 59 to SCS."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean total cost per patient was €110,794 for DHOPE and €126,221 for SCS, with significant reductions in intensive care costs (28.4%) and nonsurgical interventions (24.3%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "DHOPE-DCD trial; ClinicalTrials.gov number, NCT02584283"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by national healthcare bodies."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

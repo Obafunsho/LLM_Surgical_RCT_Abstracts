@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intraoperative Methylprednisolone in Neonatal Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Neonates undergoing cardiac surgery were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Neonates undergoing cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive either intraoperative methylprednisolone or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine if intraoperative methylprednisolone during neonatal cardiac surgery is associated with neurodevelopmental outcomes at 12 months of age."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was neurodevelopmental outcomes measured by the Bayley Scales of Infant and Toddler Development-III (BSID-III) at 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 129 participants were randomized (61 to methylprednisolone, 68 to placebo)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "analyzed using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Participants undergoing palliative procedures had lower cognitive (mean difference = -5, 95% CI -9 to -1, p=0.03) and motor scores (mean difference = -9, 95% CI -14 to -4, p<0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

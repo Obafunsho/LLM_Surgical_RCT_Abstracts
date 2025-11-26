@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This randomised controlled trial investigates the efficacy of combined cup and stem anteversion in total hip arthroplasty (THA) using computer navigation to compensate for abnormal femoral anteversion."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "47 patients undergoing THA were randomised."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at a single orthopedic center, 47 patients undergoing THA were randomised. Eligibility criteria included patients with abnormal femoral anteversion."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group used computer navigation for combined anteversion, while the control group relied on the surgeon's estimation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial investigates the efficacy of combined cup and stem anteversion in total hip arthroplasty (THA) using computer navigation to compensate for abnormal femoral anteversion."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the precision and bias of stem anteversion, measured postoperatively via CT scans."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "47 patients were randomised, with 24 in the intervention group and 23 in the control group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was per-protocol."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The navigation group showed a precision of 4.8\u00b0 and a bias of 0.2\u00b0, while the control group had a precision of 16.8\u00b0 and a bias of 0.2\u00b0."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

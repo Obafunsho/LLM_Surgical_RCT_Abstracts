@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "An as-treated analysis was performed on patients enrolled in the Spine Patient Outcomes Research Trial for the treatment of lumbar disc herniation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "A comparison was made between patients with a body mass index of <30 kg/m 2 (nonobese) (n = 854) and those with a body mass index of \u226530 kg/m 2 (obese) (n = 336)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose of this study was to determine if obesity affects outcomes following the treatment of symptomatic lumbar disc herniation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary and secondary outcomes were measured at baseline and at regular follow-up time intervals up to four years."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A comparison was made between patients with a body mass index of <30 kg/m 2 (nonobese) (n = 854) and those with a body mass index of \u226530 kg/m 2 (obese) (n = 336)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At the time of the four-year follow-up evaluation, improvements over baseline in primary outcome measures were significantly less for obese patients as compared with nonobese patients in both the operative treatment group (Short Form-36 physical function, 37.3 compared with 47.7 points [p < 0.001], Short Form-36 bodily pain, 44.2 compared with 50.0 points [p = 0.005], and Oswestry Disability Index, \u221233.7 compared with \u221240.1 points [p < 0.001]) and the nonoperative treatment group (Short Form-36 physical function, 23.1 compared with 32.0 points [p < 0.001] and Oswestry Disability Index, \u221221.4 compared with \u221226.1 points [p < 0.001])."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

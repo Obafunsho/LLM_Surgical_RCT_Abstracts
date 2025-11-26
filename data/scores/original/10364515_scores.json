@@ -1,0 +1,74 @@
+{
+  "pmcid": "10364515",
+  "sha256": "a80ac88bbfa59dcf47695218f8fad1cdf1da42aaedf34bc11874728432d0779c",
+  "timestamp_utc": "2025-11-09T15:06:54.567493+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.623673954372624,
+    "reading_ease": 38.4141928073511,
+    "word_count": 263
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A multicentre, non-inferiority RCT was conducted"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomized to receive SAP or TAP."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with an incompetent great saphenous vein or anterior accessory saphenous vein with one or more incompetent tributaries."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized to receive SAP or TAP."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to determine whether single ambulatory phlebectomy with or without delayed endovenous truncal ablation (SAP) is non-inferior to thermal endovenous ablation with concomitant phlebectomy (TAP), and whether SAP is a cost-effective alternative to TAP."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was VEnous INsufficiency Epidemiological and Economic Study Quality of Life/Symptoms (VEINES-QOL/Sym score) after 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomized to receive SAP or TAP."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Some 464 patients received the allocated treatment (SAP 227, TAP 237)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "VEINES-QOL scores were 52.7 (95 per cent c.i. 51.9 to 53.9) for SAP and 53.8 (53.3 to 55.1) for TAP; VEINES-Sym scores were 53.5 (52.6 to 54.4) and 54.2 (54.0 to 55.6) respectively."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NTR 4821 ( www.trialregister.nl )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Autologous Bone Marrow Mononuclear Cells for Critical Limb Ischaemia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to receive intramuscular BMMNCs or control"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "176 participants diagnosed with CLI"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive intramuscular BMMNCs or control (conventional therapy, diluted autologous peripheral blood, or saline)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the benefits and harms of intramuscular transplantation of autologous bone marrow mononuclear cells (BMMNCs) in CLI patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were all-cause mortality, pain, and amputation, evaluated over 12 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 176 participants were randomised: 88 to the BMMNC group and 88 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis followed an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Mortality showed no significant difference between groups (RR 1.00, 95% CI 0.15 to 6.63)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences were found in side effects (RR 2.13, 95% CI 0.50 to 8.97)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

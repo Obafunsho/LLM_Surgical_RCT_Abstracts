@@ -1,0 +1,74 @@
+{
+  "pmcid": "9856244",
+  "sha256": "67ceb6cf3ef03a074d00227911fb624409036efba25c67d9ed1e2e1966adcf73",
+  "timestamp_utc": "2025-11-09T16:22:36.630447+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.637637147335425,
+    "reading_ease": 20.961513192267518,
+    "word_count": 319
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "primary, isolated multi-vessel coronary artery bypass grafting with the left internal thoracic artery, and who received a second arterial conduit (right internal thoracic artery or radial artery, N=5,866) or a venous conduit (N=53,566) between 2006 and 2011."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "who received a second arterial conduit (right internal thoracic artery or radial artery, N=5,866) or a venous conduit (N=53,566)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Whether a second arterial conduit improves outcomes after multi-vessel coronary artery bypass grafting remains unclear."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "we compared all-cause mortality and rates of stroke, myocardial infarction, repeat revascularization, and sternal wound infection"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "N=5,866) or a venous conduit (N=53,566) between 2006 and 2011."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Propensity score matching using 34 preoperative characteristics yielded 5,813 matched sets."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "receipt of a second arterial conduit was associated with significantly lower mortality (13.1% vs. 10.6% at 7 years; HR 0.79, 95% CI 0.72–0.87), and lower risks of myocardial infarction (HR 0.78, 95% CI 0.70–0.87) and repeat revascularization (HR 0.82, 95% CI 0.76–0.88)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "but the risk of sternal wound infection was increased (risk difference 1.07%, 95% CI 0.15%–2.07%)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12312237",
+  "sha256": "a2f8f18ca71b49cab6317b0948d7935609f06323315e8696400e95932e6c3b05",
+  "timestamp_utc": "2025-11-09T15:36:28.684559+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.597426619433197,
+    "reading_ease": 32.24124114372472,
+    "word_count": 247
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A biased coin design was used for volume assignment."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study employed a dose-finding protocol to determine the maximum effective volume of 0.25% ropivacaine required to prevent HDP in 90% of patients (MEV90) undergoing shoulder arthroscopy with ultrasound-guided STB."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study employed a dose-finding protocol to determine the maximum effective volume of 0.25% ropivacaine required to prevent HDP in 90% of patients (MEV90) undergoing shoulder arthroscopy with ultrasound-guided STB."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "MEV90 of 0.25% ropivacaine for ultrasound-guided STB was estimated at 7.6 mL (95% CI: 6.5–8.5 mL)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "All patients except the first one received a LA volume determined by the response observed in the immediately preceding participant."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study cohort comprised 52 patients indicated for shoulder arthroscopy finally."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "MEV90 of 0.25% ropivacaine for ultrasound-guided STB was estimated at 7.6 mL (95% CI: 6.5–8.5 mL)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: Chinese Clinical Trial Registry (ChiCTR2200059042); first registered 23/04/2022."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

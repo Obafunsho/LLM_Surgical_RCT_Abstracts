@@ -1,0 +1,74 @@
+{
+  "pmcid": "4029101",
+  "sha256": "5a8ab5b2fb94325c9aa7fdbe3abfb2ba46f0ed7eb2d68d34ddcf1e7c68215f49",
+  "timestamp_utc": "2025-11-09T15:56:58.581538+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.990315430520035,
+    "reading_ease": 38.01487212276217,
+    "word_count": 276
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "in a prospective multicenter phase II study of adult solid organ transplant recipients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "16 patients with biopsy-proven PTLD were eligible (13 heart, 3 kidney recipients)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Reduction in immunosuppressives: cyclosporine or tacrolimus reduction by 50% for 2 weeks; a further 50% reduction for 1 week if not in complete remission (CR)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We assessed an algorithm starting with a defined course of RI in all patients, escalating to interferon (IFN) alpha2b, and finally to chemotherapy"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Reduction in immunosuppressives resulted in only 1 of 16 partial responses (12.5%), no CR."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Twenty patients were registered over 60 months"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "16 patients with biopsy-proven PTLD were eligible"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Seven eligible patients received ProMACE-CytaBOM chemotherapy, five of seven (67%) achieving CR, four of five durable beyond 2 years."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Progressive disease occurred in 8 of 16 (50%) and 6 of 16 (38%) experienced rejection."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

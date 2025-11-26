@@ -1,0 +1,74 @@
+{
+  "pmcid": "9154318",
+  "sha256": "d665be9c6f1fdff50e83e81b79ae307b718c7a6e9220dbe03ca904466fcda46b",
+  "timestamp_utc": "2025-11-09T23:00:26.904311+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.32294117647059,
+    "reading_ease": 26.410294117647084,
+    "word_count": 188
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Omission of Tamponade Dressings after Haemorrhoidectomy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Conducted as an open-label, multicentre randomised controlled trial in 14 German hospitals"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with grade III or IV haemorrhoids"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to either no tamponade (intervention) or tamponade (control) groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine if omitting tamponade dressings after haemorrhoidectomy reduces postoperative pain without increasing severe bleeding risk."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were maximum pain intensity within 48 hours post-surgery (superiority) and severe bleeding requiring surgical re-intervention within 7 days (non-inferiority)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was centre-stratified with variable block sizes, and allocation was concealed via a web-based tool."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "No blinding was implemented."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From May 2017 to November 2020, 754 patients were randomised (366 intervention, 359 control)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "366 intervention, 359 control"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group reported lower median pain intensity (5, i.q.r. 3–7) compared to the control group (6, i.q.r. 4–7), P < 0.001. Severe bleeding occurred in 1.1% of patients in both groups, with a non-inferiority margin of −0.03% (90% CI −1.47% to +1.41%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: DRKS00011590."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

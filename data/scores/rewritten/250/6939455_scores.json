@@ -1,0 +1,74 @@
+{
+  "pmcid": "6939455",
+  "sha256": "99a49f9159bd2774b17d52b337dc91b0f64604a0cf50a744a63c05394c896f9a",
+  "timestamp_utc": "2025-11-09T22:52:36.588377+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.385761462882098,
+    "reading_ease": 24.58554175764195,
+    "word_count": 229
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Epiaortic Ultrasound in Surgical Aortic Valve Replacement"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a randomised controlled trial, SAVR patients were assigned to two embolic protection devices."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "SAVR patients were assigned to two embolic protection devices."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Multivariable logistic regression estimated associations between atheroma grade and adverse outcomes, including death, stroke, cerebral infarction on DW-MRI, delirium, and acute kidney injury (AKI) by 7 and 30 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 383 randomised patients, 326 (85.1%) had pre-cannulation epiaortic ultrasound data."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 383 randomised patients, 326 (85.1%) had pre-cannulation epiaortic ultrasound data."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Moderate/severe atheroma grade was associated with a greater risk of AKI by 7 days (adjusted OR: 2.63; 95% CI: 1.24–5.58; p=0.01). At 30 days, these patients had a greater risk of death, stroke, or AKI (adjusted OR: 1.97; 95% CI: 1.04–3.71; p=0.04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Moderate/severe atheroma grade was associated with a greater risk of AKI by 7 days (adjusted OR: 2.63; 95% CI: 1.24–5.58; p=0.01)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

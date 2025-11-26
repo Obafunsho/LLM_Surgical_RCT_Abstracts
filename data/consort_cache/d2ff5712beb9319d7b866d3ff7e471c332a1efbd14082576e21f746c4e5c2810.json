@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Impact of Patient Characteristics on Insulin Response During Non-Cardiac Surgery: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised using a computer-generated sequence"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included adult patients scheduled for non-cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "A total of 202 patients undergoing non-cardiac surgery were enrolled and received intraoperative intravenous insulin"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate these effects in non-cardiac surgical patients"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in blood glucose concentration 30 minutes after an initial insulin bolus"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Participants were randomised using a computer-generated sequence, with allocation concealed via sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 202 patients, 101 were randomised to each group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was performed on all participants using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Blood glucose concentrations decreased by 8.3 \u00b110 mg dl-1 (0.46 \u00b1 0.56 mmol litre-1) per unit of insulin. The response was similar in patients with and without diabetes [adjusted mean difference (97.5% CI): 0.2 (-3.9, 4.2) mg dl-1, 0.01 (-0.22, 0.24) mmol litre-1, P = 0.93]"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Caudal Adjuvants in Pediatric Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "63 children aged 1\u20136 years with ASA physical status I or II were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "63 children aged 1\u20136 years with ASA physical status I or II were randomised to receive a caudal block"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive a caudal block with either dexmedetomidine 1 \u03bcg/kg (Group D), morphine 30 \u03bcg/kg (Group M), or clonidine 1.5 \u03bcg/kg (Group C), along with 0.2% ropivacaine"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to compare the duration of postoperative analgesia provided by morphine, clonidine, and dexmedetomidine"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the duration of analgesia, measured until the first rescue analgesic was required"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "63 children aged 1\u20136 years with ASA physical status I or II were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The median duration of analgesia was 380 minutes for Group D, 360 minutes for Group C, and 405 minutes for Group M, with no statistically significant difference (P = 0.843)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included intraoperative hypotension in 43.5% of Group D, 27.8% of Group C, and 22.7% of Group M (P = 0.299)"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: CTRI/2020/07/026481"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: None"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Prehospital Plasma in Trauma: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The unit of randomisation was the individual patient."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included severe traumatic injury with high predicted mortality. The study was conducted in air medical transport settings."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 501 severely injured patients to receive either standard care (crystalloid) or two units of prehospital plasma followed by standard care fluid resuscitation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to assess the impact of prehospital plasma on survival in severely injured trauma patients transported by air ambulance."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 30-day survival."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not feasible for patients and clinicians, but outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 501 participants were randomised: 251 to the plasma group and 250 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Analysis was conducted on an intention-to-treat basis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The model identified 36 unexpected survivors, with a higher proportion in the plasma group (67% vs. 46%, P=0.031). The observed to expected mortality ratio was lower in the plasma group (O/E 0.56 [0.33\u20130.84] vs. 1.0 [0.73\u20131.32])."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

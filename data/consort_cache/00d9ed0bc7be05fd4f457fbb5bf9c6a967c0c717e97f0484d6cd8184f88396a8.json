@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Evaluating Pleth Variability Index in Orthotopic Liver Transplantation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This single-center study included 25 patients undergoing OLT at Inonu University, Turkey."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria excluded patients with cardiac arrhythmias, low left ventricular function, renal dysfunction, valvular heart disease, pulmonary hypertension, or fulminant hepatic failure."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were monitored using the Masimo pulse oximeter and PiCCO 2 system."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the pleth variability index (PVI) as a predictor of fluid responsiveness in OLT compared to other hemodynamic indices measured by the PiCCO 2 system."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the predictive value of PVI, measured over two surgical phases."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This single-center study included 25 patients undergoing OLT at Inonu University, Turkey."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "During the dissection and anhepatic phases, 14 (56%) and 18 (75%) patients were responders, respectively."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "PVI showed no significant predictive value, with an area under the curve (AUC) of 0.56 and 0.55 for the dissection and anhepatic phases, respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to the intervention were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

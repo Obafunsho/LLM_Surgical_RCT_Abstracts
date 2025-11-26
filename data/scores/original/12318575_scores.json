@@ -1,0 +1,74 @@
+{
+  "pmcid": "12318575",
+  "sha256": "94b8b56da57147e5ba0790e46defd8f9e2027619173a13a63e53fca0f552b725",
+  "timestamp_utc": "2025-11-09T15:36:54.545803+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.528656838656847,
+    "reading_ease": 5.336941031941052,
+    "word_count": 222
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In a prospective, randomized, controlled design"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients undergoing gastroscopy were assigned to either an intervention group (enhanced preoxygenation) or a nonintervention group (standard care)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of an enhanced preoxygenation protocol for mitigating hypoxemia during propofol sedation during gastroscopy."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the incidence of hypoxemia, defined as a peripheral oxygen saturation level of less than 90% at any point during the gastroscopy procedure."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the intervention group had a significantly lower incidence of hypoxemia"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were observed during the procedure."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12513346",
+  "sha256": "8dfb8a8ea73da16558e6af545b4b34097830d4f0f72740fac24c48764df5e7ae",
+  "timestamp_utc": "2025-11-09T23:42:52.545272+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.884986876640422,
+    "reading_ease": 20.647655293088377,
+    "word_count": 254
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Robotic Surgical Skill Assessment Methods"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised controlled trial evaluated new assessment methods for RAMIS using the da Vinci platform."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were surgical trainees at a tertiary hospital, eligible if they had completed basic surgical training."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received automated evaluation systems, while the control group used structured grading rubrics."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated new assessment methods for RAMIS using the da Vinci platform."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the accuracy of skill assessment over a 6-month period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the intervention and 100 to the control group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 98 in the intervention group and 97 in the control group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed improved assessment accuracy (mean difference = 5.2, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported, with 3% in the intervention group and 1% in the control group experiencing mild gastrointestinal side-effects."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by the National Institute of Health."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

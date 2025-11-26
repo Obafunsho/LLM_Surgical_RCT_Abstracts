@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Intrathecal Oxytocin for Postoperative Recovery: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "98 participants undergoing elective total hip arthroplasty were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "98 participants undergoing elective total hip arthroplasty"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either intrathecal oxytocin (100 \u03bcg) or saline"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated whether intrathecal oxytocin accelerates recovery from pain and disability after major surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the modelled pain trajectory, assessed from the day of hospital discharge over 8 weeks."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Participants, clinicians, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "98 participants undergoing elective total hip arthroplasty were randomised"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Ninety patients were analysed (oxytocin: n=44; saline: n=46) using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The primary outcome showed no significant difference in pain trajectory between groups (intercept: \u22120.1, 95% CI: \u22120.8 to 0.6, p=0.746; slope: 0.1, 95% CI: 0 to 0.2, p=0.057)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No drug-related adverse effects were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was stopped early due to lack of funding."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

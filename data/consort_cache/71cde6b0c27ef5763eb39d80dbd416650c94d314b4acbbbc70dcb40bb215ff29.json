@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "DESIGN: Randomised, controlled trial."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "DESIGN: Randomised, controlled trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "PATIENTS: A total of 55 consecutive patients (>18 years) undergoing elective laryngeal surgery were assessed for participation, providing 40 evaluable data sets with 20 per group."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "INTERVENTIONS: Random allocation to intubation with Tritube and ventilation with FCV (Tritube\u2013FCV group) or intubation with MLT 6.0 and ventilation with VCV (MLT\u2013VCV) as control."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVES: We hypothesised that a Tritube with FCV would provide better laryngeal visibility and surgical conditions for laryngeal surgery than a conventional microlaryngeal tube (MLT) with volume-controlled ventilation (VCV)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "MAIN OUTCOME MEASURES: Primary endpoint was the tube-related concealment of laryngeal structures, measured on videolaryngoscopic photographs by appropriate software."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "INTERVENTIONS: Random allocation to intubation with Tritube and ventilation with FCV (Tritube\u2013FCV group) or intubation with MLT 6.0 and ventilation with VCV (MLT\u2013VCV) as control."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "PATIENTS: A total of 55 consecutive patients (>18 years) undergoing elective laryngeal surgery were assessed for participation, providing 40 evaluable data sets with 20 per group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "PATIENTS: A total of 55 consecutive patients (>18 years) undergoing elective laryngeal surgery were assessed for participation, providing 40 evaluable data sets with 20 per group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "RESULTS: There was less concealment of laryngeal structures with the Tritube than with the MLT; 7 [6 to 9] vs. 22 [18 to 27] %, ( P <\u200a0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "TRIAL REGISTRY NUMBER: DRKS00013097."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

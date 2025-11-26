@@ -1,0 +1,74 @@
+{
+  "pmcid": "7554157",
+  "sha256": "841a3508a148223d35827d19a102777f7584e95d9071570909bc79044104b1cd",
+  "timestamp_utc": "2025-11-09T16:14:47.239605+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.00430107526882,
+    "reading_ease": 40.7070071684588,
+    "word_count": 248
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Z11102 was a multicenter trial enrolling women with 2 or 3 separate sites of biopsy proven malignancy separated by ≥2 cm within the same breast."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Z11102 was a multicenter trial enrolling women with 2 or 3 separate sites of biopsy proven malignancy separated by ≥2 cm within the same breast."
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "All patients undergoing successful breast-conserving therapy were treated with whole breast radiation."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Cosmetic outcome data for 216 eligible women who completed therapy are included in this analysis."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 136 patients who completed the survey 2 years postoperatively, 70.6% ( N=96) felt the result was good or excellent while 3.7% (N=5) felt the result was poor."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Mean satisfaction score on the BREAST-Q was 77.2 six months following whole breast radiation and 73.7 three years following surgery."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

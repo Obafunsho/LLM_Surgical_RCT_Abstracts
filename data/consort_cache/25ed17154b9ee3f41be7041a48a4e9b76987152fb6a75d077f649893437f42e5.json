@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial Comparing No-Touch and Conventional Techniques for Autogenous Arteriovenous Fistula Creation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation methods and allocation concealment were reported in two RCTs, with one using envelopes."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing conventional and no-touch techniques for AVF creation"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the primary patency rate from 6 months to 2 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation methods and allocation concealment were reported in two RCTs, with one using envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not reported."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 699 patients were included, with 360 in the conventional group and 339 in the no-touch group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The primary patency rate was significantly higher in the no-touch group (OR 0.46, 95% CI 0.31\u20130.68; P < 0.0001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding sources were not reported."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding sources were not reported."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

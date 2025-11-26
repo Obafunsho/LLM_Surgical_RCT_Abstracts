@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The study is a randomized, controlled trial with a nonrandomized arm for patients who are eligible but decline randomization."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Two hundred fifty patients (159 randomized) with CSM from 11 sites will be recruited over 18 months."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "to determine if ventral surgery is associated with superior SF-36 Physical Component Summary (PCS) outcome at one year follow-up compared to dorsal (laminectomy/fusion or laminoplasty) surgery"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The primary objective is to determine if ventral surgery is associated with superior SF-36 Physical Component Summary (PCS) outcome at one year follow-up compared to dorsal (laminectomy/fusion or laminoplasty) surgery for the treatment of CSM."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome is the Short Form-36 PCS score."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Two hundred fifty patients (159 randomized) with CSM from 11 sites will be recruited over 18 months."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The final protocol was approved for funding by PCORI (CE-1304-6173)."
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

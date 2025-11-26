@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Twenty subjects with biopsy proven pulmonary adenocarcinomas were enrolled in a Phase I clinical trial"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Twenty subjects with biopsy proven pulmonary adenocarcinomas"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "to test the safety and feasibility of OTL38, a novel folate receptor-\u03b1 (FR\u03b1) targeted optical contrast agent"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesize that folate receptor-targeted intraoperative molecular imagining can be safe and improve localization of pulmonary nodules during resection."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty subjects with biopsy proven pulmonary adenocarcinomas"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 20 subjects, three Grade I adverse events were observed"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Sixteen of 20 (80%) of subjects had tumors with in situ fluorescence with a mean tumor-to-background fluorescence level of 2.9 (IQR, 2.1 to 4.2)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "three Grade I adverse events were observed: all transient nausea/abdominal pain"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

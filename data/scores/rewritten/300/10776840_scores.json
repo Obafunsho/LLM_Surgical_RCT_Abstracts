@@ -1,0 +1,74 @@
+{
+  "pmcid": "10776840",
+  "sha256": "78c048252d1e4cec9b8e3c6bc79dbc8dcfcdcce9f51fcb7acf81d511f3d59862",
+  "timestamp_utc": "2025-11-09T23:09:24.266415+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.965833333333336,
+    "reading_ease": 17.64375000000001,
+    "word_count": 204
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial on Extracellular Vesicles in PRBC Transfusion"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "prospective subanalysis of a recent observational feasibility study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "23 postoperative ICU patients: 5 after open aortic surgery, 9 after bilateral lung transplantation, and 9 after other surgeries. Eligibility criteria were age 18-99 years and PRBC transfusion postoperatively."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "EVs were analyzed using flow cytometry."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "23 postoperative ICU patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Total EVs, EryEVs, total PEVs, and GEVs increased post-transfusion compared to baseline in the entire cohort."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinicaltrials.gov: NCT03782623."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

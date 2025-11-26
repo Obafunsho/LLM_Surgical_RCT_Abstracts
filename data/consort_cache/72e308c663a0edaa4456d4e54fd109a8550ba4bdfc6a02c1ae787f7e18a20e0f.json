@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "using a matched-pair controlled study design"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "all patients were offered anterior or posterior approaches regardless of BMI and anatomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compared THA with a robotic-assisted posterior approach with manual alignment techniques"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We therefore sought to compare THA with a robotic-assisted posterior approach with manual alignment techniques"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The radiographic cup positioning of the robotic-assisted THAs was compared with a matched-pair control group"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "a total of 50 THAs were included in each group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "a total of 50 THAs were included in each group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The odds ratios for an implanted cup out of the safe zones of Lewinnek et al. and Callanan et al. were zero and 0.142, respectively (95% CI, 0.044, 0.457)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Evaluation of PERCIST in Predicting Pathologic Response in NSCLC: A Retrospective Study"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "130 patients from the Setouchi Lung Cancer Group who underwent FDG-PET imaging before and after induction therapy prior to planned surgical resection for NSCLC between 2007 and 2016"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the predictive value of Positron Emission Tomography Response Criteria in Solid Tumors (PERCIST) for pathologic response."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was pathologic complete response (pCR), measured postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Pathologic studies revealed pCR in 42 (32.3%) patients."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The sensitivity, specificity, and accuracy of PERCIST for predicting pCR were 16.7%, 88.6%, and 65.4%, respectively."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 70 pregnant women who previously qualified for elective cesarean section and enrolled in the study were divided into two groups."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "A total of 70 pregnant women who previously qualified for elective cesarean section and enrolled in the study were divided into two groups."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The oxytocin group (OXY) received 5 IU of oxytocin intravenously (i.v.). The carbetocin group (CARBE) received 100 \u00b5g of carbetocin intravenously."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The choice of the appropriate dose of oxytocin or carbetocin should take into account potential cardiovascular effects."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Continuous Holter electrocardiograph recording started 30 min before the procedure and continued until about 3 h after the procedure."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 70 pregnant women who previously qualified for elective cesarean section and enrolled in the study were divided into two groups."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The incidence of ST-segment-lowering episodes, the depth of the denivelation and its duration did not differ between the groups studied."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No abnormalities were observed in either of the analyzed groups during intraoperative ECG recordings at either the highest or lowest recorded heart rate values."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

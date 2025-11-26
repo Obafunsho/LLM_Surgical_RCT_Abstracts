@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "We randomized 24 patients with surgically corrected foot-drop deformities"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "24 patients with surgically corrected foot-drop deformities"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "early mobilization with active motion at 5 days (n = 13) or 4 weeks of immobilization with active motion at 29 days (n = 11)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to confirm those studies we determined whether when compared with immobilization early active mobilization after a tendon transfer for foot-drop correction would (1) have a similar low rate of tendon insertion pullout, (2) reduce rehabilitation time, and (3) result in similar functional outcomes"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Rehabilitation time was defined as the time from surgery until discharge from rehabilitation with independent walking"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "We randomized 24 patients"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "We randomized 24 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Rehabilitation time in the mobilized group was reduced by an average of 15 days. The various functional outcomes were similar in the two groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "We observed no case of tendon pullout in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

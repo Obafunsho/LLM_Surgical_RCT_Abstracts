@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Impact of Right Ventricular Dysfunction on Outcomes in CABG with or without SVR: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 1,000 patients with coronary artery disease, left ventricular ejection fraction \u226435%, and anterior dysfunction were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "1,000 patients with coronary artery disease, left ventricular ejection fraction \u226435%, and anterior dysfunction were randomised to undergo CABG or CABG + SVR"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to undergo CABG or CABG + SVR"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was all-cause mortality or cardiovascular hospitalization over a median follow-up of 48 months"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "1,000 patients with coronary artery disease"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Baseline RV function was assessed in 866 patients"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Moderate to severe RV dysfunction was associated with worse outcomes in the CABG + SVR group compared to CABG alone for both the primary endpoint (HR=1.86; CI=1.06\u20133.26; p=0.028) and secondary endpoint of all-cause mortality (HR=3.37; CI=1.36\u20138.37; p=0.005)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

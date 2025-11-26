@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients, disease-free after CRC metastasectomy and perioperative chemotherapy (n = 74), were randomized"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients, disease-free after CRC metastasectomy and perioperative chemotherapy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to injections of autologous DCs modified with PANVAC (DC/PANVAC) or PANVAC with per injection GM-CSF"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To determine whether 1 of 2 vaccines based on dendritic cells (DCs) and poxvectors encoding CEA (carcinoembryonic antigen) and MUC1 (PANVAC) would lengthen survival in patients with resected metastases of colorectal cancer (CRC)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Endpoints were recurrence-free survival overall survival, and rate of CEA-specific immune responses."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Patients, disease-free after CRC metastasectomy and perioperative chemotherapy (n = 74), were randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Recurrence-free survival at 2 years was similar (47% and 55% for DC/PANVAC and PANVAC/GM-CSF, respectively) ( \u03c7 2 P = 0.48)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "( NCT00103142 )"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

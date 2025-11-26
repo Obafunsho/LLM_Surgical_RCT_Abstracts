@@ -1,0 +1,74 @@
+{
+  "pmcid": "11561698",
+  "sha256": "36b3346172280dd3eef07f9a3ca9c68997d9c7cb5a0e75284ef4136a3ceef991",
+  "timestamp_utc": "2025-11-09T15:20:52.800423+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.327166368114646,
+    "reading_ease": 45.67416200179133,
+    "word_count": 609
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "HES was compared to an alternate fluid therapy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To examine the effects of HES on kidney function compared to other fluid resuscitation therapies in different patient populations."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes were renal replacement therapy (RRT), author‐defined kidney failure and acute kidney injury (AKI) as defined by the RIFLE criteria."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "This review included 42 studies (11,399 patients)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Overall, there was a significant increase in the need for RRT in the HES treated individuals compared to individuals treated with other fluid therapies (RR 1.31, 95% CI 1.16 to 1.49; 19 studies, 9857 patients)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "HES products increase the risk in AKI and RRT in all patient populations"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

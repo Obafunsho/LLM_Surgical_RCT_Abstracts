@@ -1,0 +1,74 @@
+{
+  "pmcid": "12093658",
+  "sha256": "c483985f929ab44bda13ba6835af73d0cdcaa836f69d3e20fc7459c6516e36bb",
+  "timestamp_utc": "2025-11-09T23:26:32.082405+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.913996415770608,
+    "reading_ease": 21.58843052109185,
+    "word_count": 279
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Enhanced Recovery After Surgery Protocols in Colorectal Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This randomised controlled trial was conducted in multiple hospitals."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults undergoing elective colorectal surgery, with eligibility criteria including age 18-75 and ASA classification I-III."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received ERAS protocols, while the control group received standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effectiveness of ERAS protocols compared to conventional care."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the length of hospital stay (LOS), measured over 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the ERAS group and 100 to the control group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 98 participants in the ERAS group and 97 in the control group, using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The ERAS group had a significantly shorter LOS (mean difference = 2.5 days, 95% CI 1.8 to 3.2; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT01234567"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by the National Institute of Health."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

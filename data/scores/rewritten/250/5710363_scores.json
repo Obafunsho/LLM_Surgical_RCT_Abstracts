@@ -1,0 +1,74 @@
+{
+  "pmcid": "5710363",
+  "sha256": "b91ad68a242b169e06408c77e5168bacba553f851137b0b08767bfaab4e5d73f",
+  "timestamp_utc": "2025-11-09T22:47:35.310815+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.723684210526319,
+    "reading_ease": 28.820789473684215,
+    "word_count": 190
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This randomized controlled trial analyzed echocardiographic data from the Placement of Aortic Transcatheter Valves (PARTNER) 1 Trial."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomized to TAVR or surgical aortic valve replacement (SAVR) in PARTNER 1A (TAVR, n=321; SAVR, n=313) and TAVR or medical treatment in PARTNER 1B (TAVR, n=165)."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized to TAVR or surgical aortic valve replacement (SAVR) in PARTNER 1A (TAVR, n=321; SAVR, n=313) and TAVR or medical treatment in PARTNER 1B (TAVR, n=165)."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was death or reintervention for aortic valve structural indications, measured over a median follow-up of 3.1 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomized to TAVR or surgical aortic valve replacement (SAVR) in PARTNER 1A (TAVR, n=321; SAVR, n=313) and TAVR or medical treatment in PARTNER 1B (TAVR, n=165)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 2795 patients (mean age 84.5 years, 47% female), 424 TAVR and 49 SAVR patients had 5-year echocardiogram data."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "TAVR showed early favorable hemodynamic changes, with stability over time. Moderate/severe transvalvular regurgitation occurred in 3.7% of TAVR patients. Reintervention was infrequent (0.8% TAVR, 0.3% SAVR)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00530894."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

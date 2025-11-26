@@ -1,0 +1,74 @@
+{
+  "pmcid": "11745616",
+  "sha256": "910dd5df652ddcb34a803f12932d1227798bec54c8379a7301d0b41c0eb01b3b",
+  "timestamp_utc": "2025-11-09T15:23:04.333260+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.285167292896762,
+    "reading_ease": 40.14093397745572,
+    "word_count": 243
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients having elective resection of supratentorial malignant gliomas were randomly assigned to goal-directed versus routine fluid management."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients having elective resection of supratentorial malignant gliomas were randomly assigned to goal-directed versus routine fluid management."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients assigned to goal-directed management group were given 3 ml kg -1 hydroxyethyl starch solution when stroke volume variation exceeded 15% for 5 min. Fluid was managed per routine by attending anesthesiologists in reference patients."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was cerebral edema volume after surgery as assessed by computerized tomography."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 480 eligible patients were randomly assigned to the goal-directed ( n = 240) or the routine fluid management group ( n = 240)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "There was no significant difference in postoperative brain edema volume between groups (36.0 vs. 38.9 cm 3 , mean difference: 0.18 cm 3 , 95% CI: −5.7 to 5.9)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

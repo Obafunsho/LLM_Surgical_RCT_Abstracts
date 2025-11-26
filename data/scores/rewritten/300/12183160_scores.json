@@ -1,0 +1,74 @@
+{
+  "pmcid": "12183160",
+  "sha256": "e098ef5979343e38aa35a3cc1911a16d19c51fd4fb6995b636ede9f68fecd4a3",
+  "timestamp_utc": "2025-11-09T23:29:20.946958+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.368277511961725,
+    "reading_ease": 36.24346889952156,
+    "word_count": 242
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "The study was not a randomised controlled trial"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "The study was not a randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included no previous bleeding disorders and consent to warfarin therapy."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "The study was not a randomised controlled trial"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the role of the SAMe-TT2R2 score in predicting anticoagulation control after mechanical mitral valve replacement."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was Time in Therapeutic Range (TTR) ≥65%, measured over a median follow-up of 1,749 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "The study was not a randomised controlled trial"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "The study was not a randomised controlled trial"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "The study was not a randomised controlled trial"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "The study was not a randomised controlled trial"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "For a cut-off score of ≥4, sensitivity and specificity for predicting TTR ≥65% were 69.8% and 93.1%, respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "no trial registration or funding information is available"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "no trial registration or funding information is available"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

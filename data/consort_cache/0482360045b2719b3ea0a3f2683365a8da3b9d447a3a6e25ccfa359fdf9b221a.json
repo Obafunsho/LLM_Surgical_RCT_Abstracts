@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "CALGB 140503: A Randomised Controlled Trial Comparing Sub-lobar Resection to Lobectomy for Stage IA NSCLC"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "multi-center randomised controlled trial evaluating the equivalence of sub-lobar resection and lobectomy for stage IA non-small cell lung cancer (NSCLC) \u2264 2 cm in diameter"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were eligible if they had suspected stage IA NSCLC \u2264 2 cm"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "evaluating the equivalence of sub-lobar resection and lobectomy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "evaluating the equivalence of sub-lobar resection and lobectomy for stage IA non-small cell lung cancer (NSCLC)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was overall survival, measured over a 5-year period"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment ensured by sealed envelopes"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable due to the nature of the surgical interventions"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From June 15, 2007, to March 22, 2013, 637 patients were preregistered across multiple centers"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 637 preregistered patients, 389 were randomised (61%)"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Preoperative biopsy significantly increased randomisation rates (p<0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events related to randomisation were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial is registered under NCT00499330"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by the National Cancer Institute"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

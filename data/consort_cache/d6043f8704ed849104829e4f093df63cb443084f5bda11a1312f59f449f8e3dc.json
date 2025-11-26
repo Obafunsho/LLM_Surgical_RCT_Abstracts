@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants enrolled in TICH-2 were randomized to placebo or TXA."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants enrolled in TICH-2 were randomized to placebo or TXA."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that TXA would reduce the frequency of surgery (primary outcome) and improve functional outcome at 90 days in surgically treated patients in the TICH-2 data set."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We hypothesized that TXA would reduce the frequency of surgery (primary outcome) and improve functional outcome at 90 days in surgically treated patients in the TICH-2 data set."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants enrolled in TICH-2 were randomized to placebo or TXA."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Neurosurgery was performed in 5.2% of participants (121/2325)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The number of patients receiving surgery who received TXA vs placebo were similar at 4.9% (57/1153) and 5.5% (64/1163), respectively"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The number of patients receiving surgery who received TXA vs placebo were similar at 4.9% (57/1153) and 5.5% (64/1163), respectively (odds ratio [OR] 0.893; 95% CI 0.619-1.289; P -value = .545)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

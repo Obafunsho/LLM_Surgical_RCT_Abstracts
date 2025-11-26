@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Hemodynamic and Anatomic Changes in Great Saphenous Vein Tributaries After Endovenous Laser Ablation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants underwent EVLA from April 2022 to June 2023."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at the Hospital das Cl\u00ednicas de Pernambuco/UFPE, this trial included symptomatic adult patients with chronic venous disease classified as C2 to C5."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention involved EVLA with a 1470-nm diode laser, while the control was standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the hemodynamic and anatomic changes in great saphenous vein (GSV) tributaries following endovenous laser ablation (EVLA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in GSV tributary diameter and reflux, assessed by Doppler ultrasound preoperatively and 3 months post-treatment."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Participants underwent EVLA from April 2022 to June 2023."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of 25 patients, 23 completed the study, with 28 lower limbs analyzed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The average GSV diameter decreased significantly in all regions (P \u2264 .001). Among 101 tributaries, a significant reduction in diameter and reflux was observed (P < .001). The Venous Clinical Severity Score decreased from 9 to 5 points (P < .001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Not applicable."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

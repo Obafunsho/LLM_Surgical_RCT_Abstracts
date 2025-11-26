@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Initial Surgical Treatment in Premature Infants with NEC or IP"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In a multicenter randomised controlled trial conducted at 20 US centers, 310 infants were randomised to initial laparotomy or peritoneal drainage. The sample size was calculated to detect a clinically significant difference in the primary outcome."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Of 992 eligible infants, 310 were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "310 infants were randomised to initial laparotomy or peritoneal drainage."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was a composite of death or NDI at 18\u201322 months corrected age."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by center and preoperative diagnosis, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the interventions."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "310 infants were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "96% had the primary outcome assessed."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Death or NDI occurred in 69% of infants in the laparotomy group versus 70% with drainage (adjusted relative risk [aRR] = 1.0; 95% confidence interval [CI]: 0.87\u20131.14)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

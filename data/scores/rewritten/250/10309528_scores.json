@@ -1,0 +1,74 @@
+{
+  "pmcid": "10309528",
+  "sha256": "6896d4fb9e65795d6a1e91ff02fe71dc220af0ccc51272421ce0925543083011",
+  "timestamp_utc": "2025-11-09T21:52:46.596592+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.41621553884712,
+    "reading_ease": 32.55184210526318,
+    "word_count": 228
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of NSAIDs as Adjunctive Analgesia in Postoperative Critical Care"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either NSAIDs as adjunctive therapy to opioids or opioids alone."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "1,621 adult patients admitted to the ICU for postoperative management after elective procedures."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either NSAIDs as adjunctive therapy to opioids or opioids alone."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effect of NSAIDs as adjunctive analgesia to opioids in postoperative critical care patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was opioid utilization, measured as 24-hour oral morphine equivalent (OME) consumption."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was applied to outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "1,621 adult patients"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Data were analysed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "NSAID adjunctive therapy reduced 24-hour OME consumption by 21.4 mg (95% CI, 11.8 to 31.0 mg reduction; p < 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events, including gastrointestinal bleeding and acute kidney injury, were infrequent and not significantly different between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: CRD42022332635."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

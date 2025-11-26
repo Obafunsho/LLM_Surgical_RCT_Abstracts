@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of SGM-101 for Intraoperative Fluorescence Imaging in Colorectal Cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This ascending dose, exploratory study was conducted in the Netherlands, involving 37 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "involving 37 patients with primary or recurrent CRC"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients received a single dose of SGM-101 (5 mg, 7.5 mg, 10 mg, 12.5 mg, or 15 mg) intravenously"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the optimal imaging dose of SGM-101 for intraoperative fluorescence imaging of primary and recurrent CRC."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The highest mean intraoperative tumor-to-background ratio (TBR) of 1.9 (p = 0.019) was observed at the 10 mg dose"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From January 2016 to January 2019, 37 patients were included."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "37 patients were included"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The highest mean intraoperative tumor-to-background ratio (TBR) of 1.9 (p = 0.019) was observed at the 10 mg dose, which showed a sensitivity of 96%, specificity of 63%, and negative predictive value of 94%."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "All doses up to 15 mg were well tolerated, with no adverse events directly related to SGM-101."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The study is registered under ClinicalTrials.gov identifier NCT02973672"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "was funded by the Centre for Human Drug Research"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

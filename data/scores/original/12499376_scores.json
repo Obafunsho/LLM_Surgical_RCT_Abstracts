@@ -1,0 +1,74 @@
+{
+  "pmcid": "12499376",
+  "sha256": "683b837283ab250707675cef3e78ca860a377bddd859a8d95cb09d2463a1332a",
+  "timestamp_utc": "2025-11-09T15:45:27.533108+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.681666666666668,
+    "reading_ease": 29.9675,
+    "word_count": 348
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: Intermittent claudication (IC) is a hallmark symptom of peripheral arterial disease (PAD), causing pain and discomfort during physical activity caused by reduced blood flow to the lower extremities."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Randomized controlled trials (RCTs) comparing invasive interventions to Noninvasive treatments were included."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcomes were quality of life (QoL), ankle‐brachial pressure index (ABPI), and maximum walking distance (MWD)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 11 RCTs with 1379 patients were included in the analysis."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "MWD pooled Mean Difference (MD) = 64.94 [10.77, 115.12] 95% CI, p = .02, 5 studies, and ABPI pooled MD = 0.15 [0.04, 0.26] 95% CI, p = .006, 5 studies."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "However, invasive interventions were associated with a higher rate of complications, including increased amputation risk."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

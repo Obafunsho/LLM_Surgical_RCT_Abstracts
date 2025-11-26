@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: Multivessel coronary artery disease (MVD) often requires revascularization."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Five revascularization techniques were compared: on-pump coronary artery bypass (ONCAB), off-pump coronary artery bypass (OPCAB), OPCAB with proximal anastomotic device (OPCAB-PAD), anaortic OPCAB (anOPCAB), and percutaneous coronary intervention (PCI)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to address this gap by comparing key revascularization strategies in terms of early mortality, stroke, complete revascularization, postoperative atrial fibrillation (POAF), and renal failure."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Compared to ONCAB, early mortality was significantly lower with anOPCAB (OR: 0.57, 95% CI: 0.44\u20130.73), OPCAB-PAD (OR: 0.61, 95% CI: 0.40\u20130.92), and OPCAB (OR: 0.64, 95% CI: 0.47\u20130.87)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

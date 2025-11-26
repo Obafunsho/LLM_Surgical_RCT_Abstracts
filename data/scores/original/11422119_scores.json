@@ -1,0 +1,74 @@
+{
+  "pmcid": "11422119",
+  "sha256": "c8f40f6acf47543aca431853d8a6d93026bea25ac41be59c64c6caa108290353",
+  "timestamp_utc": "2025-11-09T15:19:13.368926+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.690000000000001,
+    "reading_ease": 25.455000000000013,
+    "word_count": 264
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "In this single-center, retrospective cohort study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "652 patients undergoing elective resection of pancreatic cancer at Heidelberg University Hospital between 2009 and 2016"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "divided into two groups: the high-EtCO2 group and the low-EtCO2 group"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The pre-specified primary endpoint was the assessment of recurrence-free survival up to the last known follow-up"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "652 patients undergoing elective resection of pancreatic cancer"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Recurrence-free survival did not differ among the high and low-EtCO2 groups [HR = 1.043 (95% CI: 0.875–1.243), log rank test: p = 0.909]"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Cardiovascular events, surgical site infections, sepsis, and reoperations during the hospital stay, as well as overall survival were pre-specified secondary outcomes"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

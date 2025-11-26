@@ -1,0 +1,74 @@
+{
+  "pmcid": "2671963",
+  "sha256": "63580a184ed98c60655c164429004b8b7b7f55fe524bdbacfaf4aca4a2514303",
+  "timestamp_utc": "2025-11-09T23:45:55.391713+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.70436837029894,
+    "reading_ease": 22.373322082931566,
+    "word_count": 244
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of ET-AR Antagonist in Post-Cardiac Surgery Inflammation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Forty-four patients scheduled for cardiac surgery were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Forty-four patients scheduled for cardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive a bolus infusion of vehicle or ET-AR antagonist (sitaxsentan)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the impact of an endothelin-A receptor (ET-AR) antagonist on tumor necrosis factor (TNF) activation following cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the change in TNF-α levels at 24 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was applied to outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Forty-four patients scheduled for cardiac surgery were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the 1 mg/kg ET-AR antagonist group exhibited reduced plasma levels of TNF-α and TNF receptor 2 compared to the vehicle group (mean difference ~13 pg/mL and ~0.5 ng/mL, respectively; p<0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

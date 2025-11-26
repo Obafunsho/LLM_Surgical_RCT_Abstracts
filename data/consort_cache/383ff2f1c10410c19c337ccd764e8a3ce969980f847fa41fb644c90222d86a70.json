@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Thirteen patients with advanced PD underwent bilateral stereotactic implantation of CB cell aggregates into the striatum."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: We conducted a phase I\u2013II clinical study to assess the feasibility, long term safety, clinical and neurochemical effects of intrastriatal CB autotransplantation in patients with PD."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome measure was the change in video blinded Unified Parkinson's Disease Rating Scale III score in the off\u2010medication state."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "video blinded Unified Parkinson's Disease Rating Scale III score"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirteen patients with advanced PD underwent bilateral stereotactic implantation"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Clinical amelioration in the primary outcome measure was observed in 10 of 12 blindly analysed patients"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Overall, mean improvement at 6\u2005months was 23%."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "None of the patients developed off\u2010period dyskinesias."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

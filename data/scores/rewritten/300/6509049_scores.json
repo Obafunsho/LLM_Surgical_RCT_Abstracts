@@ -1,0 +1,74 @@
+{
+  "pmcid": "6509049",
+  "sha256": "ad1e8c654da14a61cc6a45021d918e7d40dbe0cc538b2086e0f94a38a3cfa38b",
+  "timestamp_utc": "2025-11-10T00:02:09.715098+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.842830153385709,
+    "reading_ease": 8.320159932659948,
+    "word_count": 243
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Hyperinsulinemic Normoglycemia in Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Eligible cardiac surgical patients were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible cardiac surgical patients were randomized to intraoperative glycemic management"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to intraoperative glycemic management with either hyperinsulinemic normoglycemia or standard glycemic management"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Hyperinsulinemic normoglycemia is hypothesized to enhance myocardial glucose uptake and utilization"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was a composite of 30-day mortality, mechanical circulatory support, infection, renal or neurologic morbidity"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated with allocation concealment"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not specified"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 1,439 patients were randomized (709 to hyperinsulinemic normoglycemia, 730 to standard management)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis followed an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The primary outcome occurred in 49 (6.9%) patients in the hyperinsulinemic group compared to 82 (11.2%) in the standard group (P<0.0085); relative risk 0.62 (95% CI 0.39, 0.97), P=0.0043"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Severe hypoglycemia (<40 mg·dL−1) was observed in 6 (0.9%) patients"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source]"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

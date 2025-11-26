@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We conducted a randomized trial to assess whether high-flow nasal oxygen is noninferior to mechanical ventilation through a laryngeal mask."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Single-center, randomized, noninferiority trial conducted in Italy between May 2022 and June 2023."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "American Society of Anesthesiologists class I and II patients undergoing general anesthesia for operative hysteroscopy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized to receive laryngeal mask ventilation... or high-flow nasal oxygen... for intraoperative respiratory support."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We conducted a randomized trial to assess whether high-flow nasal oxygen is noninferior to mechanical ventilation through a laryngeal mask."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Primary outcome was intraoperative respiratory support success rate, which was defined as peripheral oxygen saturation greater than 94% and transcutaneous carbon dioxide lower than 65 mm Hg with no need for rescue airway interventions for the entire procedure."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomized to receive laryngeal mask ventilation... or high-flow nasal oxygen."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "All 180 patients who were randomized completed the trial (90 patients in each group)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "All 180 patients who were randomized completed the trial (90 patients in each group)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Intraoperative respiratory support was successful in 89 patients (99%) in both groups (absolute difference 0, unilateral 95% confidence interval, 3%, noninferiority P < .001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Incidence of postoperative respiratory symptoms was significantly lower in high-flow versus laryngeal mask group (2% vs 19%, P < .001), while airway-related complications and postoperative dyspnea were not different."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

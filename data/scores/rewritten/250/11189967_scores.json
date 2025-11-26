@@ -1,0 +1,74 @@
+{
+  "pmcid": "11189967",
+  "sha256": "ddf7fee7d95551de9791a0c676c709aec3f5bde746e3621031e99dc2f4a5ccb1",
+  "timestamp_utc": "2025-11-09T22:00:51.670252+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.275000000000002,
+    "reading_ease": 23.932500000000033,
+    "word_count": 216
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Staple-Line Reinforcement in Pulmonary Resection"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "single-center, single-arm prospective study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "48 patients aged >20 years undergoing thoracoscopic lobectomy for suspected lung malignancies at Kobe University Graduate School of Medicine"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "new staple-line reinforcement (SLR) device in pulmonary resection"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the safety and efficacy of a new staple-line reinforcement (SLR) device in pulmonary resection."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was air leakage from the staple line during the intraoperative water sealing test."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "48 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The incidence of intraoperative air leakage from the staple line was 6.3% (3/48). Compared to historical controls, the SLR group had a significantly lower incidence of air leakage (6.3% vs. 28.5%, P < 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No malfunctions of the SLR or stapling device were observed. Prolonged air leakage occurred in two patients (4.2%), with one requiring reoperation."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The study was registered in the Japan registry of clinical trials (jRCT1052220008)."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

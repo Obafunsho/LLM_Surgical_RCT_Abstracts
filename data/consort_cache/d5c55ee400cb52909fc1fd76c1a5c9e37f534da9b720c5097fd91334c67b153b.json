@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The remaining 60 cases were randomly divided into the traditional group ( n =\u200930) and the improved group ( n =\u200930)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "72 patients with right subclavian venipuncture catheterization were collected"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study compared the effect of ultrasound-guided subclavian vein puncture with traditional blind puncture"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: This study compared the effect of ultrasound-guided subclavian vein puncture with traditional blind puncture"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "We record two sets of ultrasound localization time, puncture time, one-time puncture power, total puncture success rate, and short-term (24-hour) complications."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The remaining 60 cases were randomly divided into the traditional group ( n =\u200930) and the improved group ( n =\u200930)."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "The remaining 60 cases were randomly divided into the traditional group ( n =\u200930) and the improved group ( n =\u200930)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Compared with the traditional group, the ultrasound positioning time and puncture time in the improved group were significantly reduced and the puncture success rate was higher."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no complications, such as incorrect arterial puncture and the occurrence of pneumothorax, in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

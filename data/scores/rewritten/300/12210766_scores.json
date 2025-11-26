@@ -1,0 +1,74 @@
+{
+  "pmcid": "12210766",
+  "sha256": "e6da09104d5b3c6efe41a1c1e583173e00998cb55219c211fdad89480e51e854",
+  "timestamp_utc": "2025-11-09T23:30:24.186859+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.643104743083004,
+    "reading_ease": 19.779439723320166,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Individualized PEEP in Thoracoscopic Lobectomy"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Conducted as a single-center, randomized controlled trial, 100 patients scheduled for thoracoscopic lobectomy were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "100 patients scheduled for thoracoscopic lobectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive either individualized PEEP guided by maximum dynamic pulmonary compliance or a fixed PEEP of 5 cm H2O"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the impact of individualized positive end-expiratory pressure (PEEP) titrated to maximum dynamic lung compliance on postoperative pulmonary complications (PPCs)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of PPCs within seven days post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was achieved using SPSS-generated sequences with allocation concealment via sealed envelopes"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, data managers, and statistical analysts were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between October 2022 and October 2023, 100 patients were randomized: 50 to the individualized PEEP group and 50 to the control group"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included all participants"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "PPCs occurred in 20% of the individualized group versus 38% in the control group (risk difference, -18.0%; 95% CI, -35.4% to -0.6%; p = 0.047)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2100048201"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

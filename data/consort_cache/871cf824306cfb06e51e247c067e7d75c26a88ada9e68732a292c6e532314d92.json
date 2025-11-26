@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "To assess the effect of a practice-level preoperative frailty screening and optimization toolkit (OPTI-Surg) on postoperative functional recovery and complications in elderly cancer patients undergoing major surgery."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "practices within the National Cancer Institute Community Oncology Research Program (NCORP) were randomized 1:1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients 70 years old or above undergoing curative intent surgery were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "usual care (UC), OPTI-Surg, or OPTI-Surg with an implementation coach."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the effect of a practice-level preoperative frailty screening and optimization toolkit (OPTI-Surg) on postoperative functional recovery and complications in elderly cancer patients undergoing major surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 8 weeks postoperative function (kcal/wk)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "practices within the National Cancer Institute Community Oncology Research Program (NCORP) were randomized 1:1:1"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From July 2019 to September 2022, 325 patients were enrolled in 29 practices."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "One hundred ninety-nine (64 UC, 135 OPTI-Surg) and 279 (78 UC, 201 OPTI-Surg) were evaluable for primary and secondary analysis, respectively."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "UC and OPTI-Surg patients did not significantly differ in total caloric expenditure (2.2 UC, 2.0 OPTI-Surg) after adjusting for baseline function ( P = 0.53)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "UC and OPTI-Surg patients did not significantly differ in post-operative complications (25.6% UC, 35.3% OPTI-Surg, P = 0.5)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

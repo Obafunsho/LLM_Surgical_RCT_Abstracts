@@ -1,0 +1,74 @@
+{
+  "pmcid": "4274782",
+  "sha256": "5bfb8c32096469fc0f6b66917ac0143cc5f1a43a319562d618ab5c063ed048b6",
+  "timestamp_utc": "2025-11-09T23:53:04.689867+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.338186801602365,
+    "reading_ease": 35.83512333965845,
+    "word_count": 279
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Roux-en-Y Gastric Bypass vs. Intensive Medical Management for Type 2 Diabetes"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to RYGB (n=19) or Why WAIT (n=19) using a computer-generated sequence with allocation concealment."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at an academic medical institution, this 1-year pragmatic randomised clinical trial included participants aged 21-65 years with type 2 diabetes diagnosed over a year prior, a BMI of 30-42, and HbA1c ≥6.5%."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to RYGB (n=19) or Why WAIT (n=19)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the feasibility of a larger trial to compare the long-term effects of Roux-en-Y gastric bypass (RYGB) with an intensive diabetes medical and weight management program (Why WAIT)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the proportion of patients achieving fasting plasma glucose <126 mg/dL and HbA1c <6.5% at 1 year."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Participants were randomised to RYGB (n=19) or Why WAIT (n=19) using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomised to RYGB (n=19) or Why WAIT (n=19)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 1 year, 58% of RYGB patients achieved the primary outcome compared to 16% in the Why WAIT group (P=0.03)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

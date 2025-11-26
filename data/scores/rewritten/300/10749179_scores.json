@@ -1,0 +1,74 @@
+{
+  "pmcid": "10749179",
+  "sha256": "9862f41a1e12b46547e477be1893b61ab7477afe730a147e45aa44cee3c61f1a",
+  "timestamp_utc": "2025-11-09T23:08:39.243750+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.109700460829497,
+    "reading_ease": 25.45419354838714,
+    "word_count": 248
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intrathecal Morphine Doses in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomized into three groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at the University of Alabama at Birmingham, this retrospective, single-center study involved 75 patients undergoing primary TKA."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized into three groups: a control group receiving continuous adductor canal block (CCACB) and two experimental groups receiving single-dose adductor canal block (SSACB) with either 100 mcg or 150 mcg of ITM."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare two ITM doses to identify the optimal dose for analgesic efficacy and minimal side effects."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was oral morphine equivalents (OME) consumption within 24 hours post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was performed using a random numbers generator"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "outcome assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "this retrospective, single-center study involved 75 patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "In the post-anesthesia care unit (PACU), both ITM groups experienced significantly lower OME consumption and pain scores compared to the control group (p<0.001). Cumulative OME at 24 hours was significantly lower in ITM groups (p=0.004)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events, including respiratory depression, were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

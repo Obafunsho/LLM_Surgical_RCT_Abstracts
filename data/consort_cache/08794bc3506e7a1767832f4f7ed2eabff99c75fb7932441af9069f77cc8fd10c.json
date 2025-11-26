@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Preoperative Internal Carotid Artery Stenting in Lateral Skull Base Paraganglioma Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Conducted as a monocentric retrospective study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included histologically confirmed paraganglioma, extensive vascular involvement, and ICA stenting followed by surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "26 patients with head and neck paragangliomas (19 tympanojugular, 4 carotid body, 3 vagal) underwent ICA stenting"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the role of preoperative internal carotid artery (ICA) stenting in improving surgical outcomes for lateral skull base paragangliomas."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the extent of tumor resection, assessed intraoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Due to the retrospective nature, randomisation and blinding were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Due to the retrospective nature, randomisation and blinding were not applicable."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Gross total tumor resection was achieved in 85% of patients."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Gross total tumor resection was achieved in 85% of patients."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included one case of thalamus infarction, which resolved without permanent sequelae."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

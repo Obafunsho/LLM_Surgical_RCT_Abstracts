@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This article intends to review the role of EVAR in the management of elective AAA."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Prospective randomised controlled trials (RCTs) comparing EVAR with OSR in individuals with AAA considered fit for surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing EVAR with OSR in individuals with AAA considered fit for surgery."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the effectiveness of EVAR versus conventional OSR in individuals with AAA considered fit for surgery, and EVAR versus best medical care in those considered unfit for surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "short\u2010term mortality (including 30\u2010day or inhospital mortality, excluding deaths prior to intervention) with EVAR to be significantly lower than with OSR"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Four high\u2010quality trials comparing EVAR with OSR (n = 2790) and one high\u2010quality trial comparing EVAR with no intervention (n = 404)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "a pooled analysis, including 1362 individuals randomised to EVAR and 1361 randomised to OSR"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "short\u2010term mortality (including 30\u2010day or inhospital mortality, excluding deaths prior to intervention) with EVAR to be significantly lower than with OSR (1.4% versus 4.2%, OR 0.33, 95% confidence interval (CI) 0.20 to 0.55; P < 0.0001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "there was a slightly higher incidence of pulmonary complications in the OSR group compared with the EVAR group (OR 0.36, 95% CI 0.17 to 0.75; P = 0.006)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

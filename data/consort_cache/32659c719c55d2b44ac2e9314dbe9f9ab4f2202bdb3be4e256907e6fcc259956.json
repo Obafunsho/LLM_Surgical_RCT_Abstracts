@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Continuous and Interrupted Suture Techniques for Biliary-Enteric Anastomosis"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this single-centre randomised controlled trial, 82 patients scheduled for elective open BEA at University Hospital Dresden between January 2016 and September 2017 were randomised 1:1 to CS or IS groups."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "82 patients scheduled for elective open BEA at University Hospital Dresden"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to CS or IS groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare continuous suture (CS) and interrupted suture (IS) techniques for biliary-enteric anastomosis (BEA) by evaluating suture time and biliary complications."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was suture time, measured intraoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using block randomisation with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Patients and outcome assessors were blinded, but surgeons were not."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "82 patients scheduled for elective open BEA at University Hospital Dresden between January 2016 and September 2017 were randomised 1:1 to CS or IS groups."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Eighty patients received the allocated intervention (41 CS, 39 IS)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Suture time was significantly shorter in the CS group (median 12.0 minutes, IQR 10.0\u201317.0) compared to the IS group (median 22.4 minutes, IQR 15.0\u201328.0; OR 1.26, 95% CI 1.13 to 1.40; P < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Biliary complications, including bile leakage, were similar between groups (CS: 6/41, 14.6%; IS: 4/39, 10.3%; P = 0.738)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02658643."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

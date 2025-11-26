@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "12 novice medical students"
+      },
+      "Intervention": {
+        "score": 1,
+        "evidence": "simulation-based diagnostic CA training"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This work identifies the utility of simulation-based CA training in identifying the particular difficulties trainees experience in learning procedural skills"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "participants were assessed on their procedural task time, coiling quantity and quality, and perforation rates"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "12 novice medical students"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "reducing their average time from 42 to 24 minutes. Coil success rate improved over from 82% to 88%"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "over half of aneurysms were still being perforated by the novice participants"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

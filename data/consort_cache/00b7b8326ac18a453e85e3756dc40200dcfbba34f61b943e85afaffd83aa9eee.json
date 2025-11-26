@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Tranexamic Acid in Postpartum Haemorrhage"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this double-blind, placebo-controlled, randomised trial, women experiencing PPH during Caesarean delivery were randomised to receive placebo (n=57), TXA 0.5 g (n=51), or TXA 1 g (n=53) across eight centres in France from March 2016 to December 2019."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "women experiencing PPH during Caesarean delivery were randomised"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive placebo (n=57), TXA 0.5 g (n=51), or TXA 1 g (n=53)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the dose\u2013effect relationship for two regimens of intravenous TXA versus placebo."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the difference in the increase over baseline in plasma D-dimer level 120 min after infusion."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "randomised to receive placebo (n=57), TXA 0.5 g (n=51), or TXA 1 g (n=53) across eight centres in France from March 2016 to December 2019."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the placebo group, hyperfibrinolysis was evidenced by a mean increase over baseline of 93% for D-dimer level at 120 min."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "A dose of TXA 1 g was associated with smaller increases over baseline (D-dimers: 38%, p=0.003 vs placebo)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were more frequent in the 1 g group but not severe."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT 02797119."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by independent agencies with no influence on the study design or reporting."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

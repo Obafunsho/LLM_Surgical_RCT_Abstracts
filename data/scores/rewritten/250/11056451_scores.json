@@ -1,0 +1,74 @@
+{
+  "pmcid": "11056451",
+  "sha256": "b2df1ad7db103182a30e9e3d76faabae081d1f0df68e3308171d72b4dfcfe135",
+  "timestamp_utc": "2025-11-09T21:59:26.899775+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.34187554585153,
+    "reading_ease": 34.140760917030605,
+    "word_count": 229
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Review of Randomised Controlled Trials in Thoracic Surgical Oncology"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "RCTs in patients with lung cancer undergoing surgery. Inclusion criteria were 'lung neoplasm' as a MESH term and surgical-related keywords."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to understand the types of RCTs conducted in thoracic surgical oncology and their success rates."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Forty-four (64.7%) were open-label"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The mean enrollment was 236 patients (SD, 187)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  }
+}

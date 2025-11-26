@@ -1,0 +1,74 @@
+{
+  "pmcid": "11745616",
+  "sha256": "1f6568d6dcb9914e945a00c581ffb55f715a570d6e23f049ab0a63f6c8247fbf",
+  "timestamp_utc": "2025-11-09T23:19:54.194203+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.144761904761907,
+    "reading_ease": 36.533571428571435,
+    "word_count": 252
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Goal-Directed Fluid Management in Neurosurgery: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomly assigned them to goal-directed (n=240) or routine fluid management (n=240) using block randomisation with concealed allocation"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "We enrolled 480 adults aged 18–65 years, scheduled for elective glioma resection at a single hospital"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received 3 ml/kg hydroxyethyl starch when stroke volume variation exceeded 15% for 5 minutes"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "assessed the impact of goal-directed fluid management on postoperative brain edema"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was cerebral edema volume within 24 hours post-surgery, assessed by CT"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "using block randomisation with concealed allocation"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Patients, outcome assessors, and follow-up assessors were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between November 2018 and September 2022, 480 patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 239 in the goal-directed group and 240 in the routine group, using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "No significant difference in brain edema volume was observed (36.0 vs. 38.9 cm³, mean difference: 0.18 cm³, 95% CI: −5.7 to 5.9, P=0.938)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences were found in Karnofsky Performance Status at 30 days or in adverse events between groups"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered at clinicaltrials.gov (NCT03323580)"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by the Beijing Municipal Administration of Hospitals Incubating Program"
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  }
+}

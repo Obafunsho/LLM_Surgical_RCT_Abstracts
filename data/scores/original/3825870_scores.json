@@ -1,0 +1,74 @@
+{
+  "pmcid": "3825870",
+  "sha256": "9c9e97c6986f87f5dea785d0b0d92344753c4f924d8a7464c9021d6eeaf0f50c",
+  "timestamp_utc": "2025-11-09T15:55:09.899080+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.744125,
+    "reading_ease": 26.921708333333356,
+    "word_count": 256
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomized, blinded study involved 60 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Inclusion criteria were primary hip arthritis, female sex, and age between 55 and 70 years."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive a 28-, 36-, or ≥ 42-mm bearing couple"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized a larger femoral head would restore an earlier, more physiologic gait pattern."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Gait evaluation using an optoelectronic system was performed preoperatively and at 2 and 4 months postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "The patients were randomized into three groups of 20 each"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "This randomized, blinded study"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The patients were randomized into three groups of 20 each"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "no differences in spatiotemporal gait parameters, kinematic or kinetic gait parameters, or Harris hip scores emerged among the three groups"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

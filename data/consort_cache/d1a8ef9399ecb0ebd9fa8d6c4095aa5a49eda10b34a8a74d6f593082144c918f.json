@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Autologous Bone Marrow Aspirate Concentrate and Platelet-Rich Plasma in Tibial Lengthening"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either BMAC plus PRP injection at the osteotomy site (treatment group, n=10) or no injection (control group, n=10)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "22 patients (44 tibias) undergoing bilateral tibial lengthening for familial short stature using the lengthening over nail technique."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either BMAC plus PRP injection at the osteotomy site (treatment group, n=10) or no injection (control group, n=10)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy of autologous bone marrow aspirate concentrate (BMAC) combined with platelet-rich plasma (PRP) in enhancing osteogenesis."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the cortical healing index, assessed over a minimum follow-up of 24 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "The surgeon assessing radiographic healing was blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "22 patients (44 tibias) undergoing bilateral tibial lengthening"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Two patients were excluded, leaving 20 patients (40 segments) for analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The treatment group showed significantly faster cortical healing indexes (anterior/posterior/medial/lateral: 1.14/0.81/0.96/0.88 months/cm) compared to the control group (1.47/1.26/1.42/1.22 months/cm; all p<0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

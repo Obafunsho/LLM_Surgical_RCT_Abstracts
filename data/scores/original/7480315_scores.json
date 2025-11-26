@@ -1,0 +1,74 @@
+{
+  "pmcid": "7480315",
+  "sha256": "eb5d4cf6ffd89dc8d8f6985b2f26187106c97ad63a815ea2d0b9cd9fb2821e6c",
+  "timestamp_utc": "2025-11-09T16:14:23.264167+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.65361063253754,
+    "reading_ease": 29.382867339404385,
+    "word_count": 239
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "30 patients undergoing elective head and neck cancer surgery were randomized into two groups"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "30 patients undergoing elective head and neck cancer surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Group E (cervical epidural analgesia with general anesthesia), and group G (general anesthesia alone)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this study was to evaluate cervical epidural analgesia in terms of opioid and anesthetic requirements and stress response"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Opioid and anesthetic drug requirement was observed. Blood glucose and serum cortisol levels were measured"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "30 patients undergoing elective head and neck cancer surgery were randomized into two groups"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "30 patients undergoing elective head and neck cancer surgery were randomized into two groups"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "There was significant reduction in the requirement of morphine ( P < 0.001), isoflurane ( P = 0.004) and vecuronium ( P = 0.001) in group E"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

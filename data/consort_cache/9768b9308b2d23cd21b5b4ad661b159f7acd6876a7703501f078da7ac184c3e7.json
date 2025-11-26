@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of High-Flow Nasal Oxygen vs. Laryngeal Mask Ventilation in Hysteroscopic Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This single-center, randomized, noninferiority trial was conducted in a university hospital in Rome, Italy, from September 2022 to June 2023."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were ASA class I and II patients undergoing elective operative hysteroscopy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized 1:1 to receive either HFNO (70 L/min, 100% oxygen) or LMV (volume-controlled ventilation)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial assessed whether HFNO is noninferior to laryngeal mask ventilation (LMV) in terms of intraoperative respiratory support success during 30-minute general anesthesia."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was intraoperative respiratory support success, defined as SpO2 \u2265 94% and tcCO2 < 65 mm Hg without rescue interventions."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed in sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 180 patients were randomized (90 per group) and analyzed using an intention-to-treat approach."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "A total of 180 patients were randomized (90 per group) and analyzed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Intraoperative respiratory support was successful in 99% of patients in both groups (absolute difference 0, unilateral 95% CI, 3%, noninferiority P < .001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT05550584."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by Fisher and Paykel Healthcare."
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

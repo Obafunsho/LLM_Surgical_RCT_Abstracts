@@ -1,0 +1,74 @@
+{
+  "pmcid": "10288861",
+  "sha256": "5d7cd133b6a0e8b7970d9fa471ac8432c2509fd444d8c615abb8d2acb282d232",
+  "timestamp_utc": "2025-11-09T15:06:09.338727+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.894379151762905,
+    "reading_ease": 24.41333163004603,
+    "word_count": 309
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This large multicenter trial tested the safety and efficacy of neoadjuvant atezolizumab and surgery."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with stage IB to select IIIB resectable non–small cell lung cancer and Eastern Cooperative Oncology Group performance status 0/1 were eligible."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients received atezolizumab 1200 mg intravenously every 3 weeks for 2 cycles or less followed by resection."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This large multicenter trial tested the safety and efficacy of neoadjuvant atezolizumab and surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary end point was major pathological response in patients without EGFR/ALK + alterations."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From April 2017 to February 2020, 181 patients were entered in the study."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In patients without EGFR/ALK alterations who underwent surgery, the major pathological response rate was 20% (29/143; 95% confidence interval, 14-28)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "the major pathological response rate was 20% (29/143; 95% confidence interval, 14-28) and the pathological complete response rate was 6% (8/143; 95% confidence interval, 2-11)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were no grade 4/5 treatment-related adverse events preoperatively."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

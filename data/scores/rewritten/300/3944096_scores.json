@@ -1,0 +1,74 @@
+{
+  "pmcid": "3944096",
+  "sha256": "6419b9a8907eebcdb3e12e08b2da3bb9f5591fe0d859878f1e0dde7bc123379a",
+  "timestamp_utc": "2025-11-09T23:51:47.713434+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.14277235772358,
+    "reading_ease": 22.74318292682929,
+    "word_count": 246
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Continuous Ropivacaine Infusion for Post-Mastectomy Analgesia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomized, triple-masked, placebo-controlled trial, 60 subjects undergoing unilateral or bilateral mastectomy were enrolled."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study was conducted at a single hospital, with eligibility criteria including adult patients undergoing mastectomy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized to receive either perineural ropivacaine 0.4% or normal saline via portable infusion pumps (5 mL/h basal; 300 mL reservoir)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the benefits of adding a multiple-day, ambulatory, continuous ropivacaine paravertebral nerve block to a single-injection ropivacaine block following mastectomy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was average pain on postoperative day (POD) 1, measured on a 0–10 scale."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Participants, clinicians, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "60 subjects undergoing unilateral or bilateral mastectomy were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "the median pain score for the ropivacaine group (n=30) was 2 (interquartile range 0–3), compared to 4 (1–5) for the saline group (n=30; 95% CI difference in medians, −4.0 to −0.3; P = 0.021)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "the median pain score for the ropivacaine group (n=30) was 2 (interquartile range 0–3), compared to 4 (1–5) for the saline group (n=30; 95% CI difference in medians, −4.0 to −0.3; P = 0.021)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

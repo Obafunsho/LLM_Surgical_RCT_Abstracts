@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of [99m Tc]Tilmanocept in Sentinel Lymph Node Biopsy for Head and Neck Squamous Cell Carcinoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Conducted as a multicenter, non-randomized, single-arm trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "the study enrolled 101 patients with T1\u2013T4, N0, and M0 HNSCC across 13 centers. Eligibility criteria included no prior neck dissection or radiotherapy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients received 50 \u00b5g [99m Tc]tilmanocept radiolabeled with either 0.5 mCi (same day) or 2.0 mCi (next day), followed by lymphoscintigraphy, SLNB, and elective neck dissection (END)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the false negative rate (FNR) of sentinel lymph node biopsy (SLNB) using [99m Tc]tilmanocept in patients with intraoral or cutaneous head and neck squamous cell carcinoma (HNSCC)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the FNR of SLNB, measured from June 2009 to November 2012."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "the study enrolled 101 patients with T1\u2013T4, N0, and M0 HNSCC across 13 centers."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 85 patients injected, 83 underwent SLNB/END."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Among 39 patients with tumor-positive nodes, one had a false negative, yielding an FNR of 2.56% (95.03% CI 0.06\u201313.49; p = 0.0205)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No drug-related serious adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered under NCT00911326."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding sources were not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

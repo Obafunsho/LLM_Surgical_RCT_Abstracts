@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients undergoing isolated CABG from July 2020 to December 2022 in Nanjing First Hospital"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The aim of this research was to evaluate the prognosis and mid-term outcomes in CABG patients with mild renal dysfunction."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were acute kidney injury (AKI) and all-cause mortality in follow-up"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Totally 1,097 patients were enrolled in this study and 416 (33.3%) had mild renal dysfunction."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "379 pairs were included to the analysis after propensity score matching."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "At 3-year follow-up, there were also no significant differences in all-cause mortality (6.3% vs. 4.8%, log-rank p =\u20090.33, HR 1.38, 95%CI: 0.721\u20132.652) and MACCE rates (10.2% vs. 7.6%, log-rank p =\u20090.19, HR 1.42, 95%CI: 0.836\u20132.414)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "patients with mild renal dysfunction had more AKI after CABG (26.1% vs. 18.7%, p =\u20090.015)"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

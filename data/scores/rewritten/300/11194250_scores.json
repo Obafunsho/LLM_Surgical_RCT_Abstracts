@@ -1,0 +1,74 @@
+{
+  "pmcid": "11194250",
+  "sha256": "d7d2c770d90cc154c367848dd97b45d0eac61471e7062d52fe6ebfbbbd71f520",
+  "timestamp_utc": "2025-11-09T23:13:21.171798+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.956323788546257,
+    "reading_ease": 22.387877753303997,
+    "word_count": 227
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Impact of Distension Pressure on Long Saphenous Vein Grafts in CABG"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "21 paired vein samples from CABG patients, randomised into non-distended (group A) and distended (group B) groups."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "21 paired vein samples from CABG patients"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised into non-distended (group A) and distended (group B) groups."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the impact of unregulated distension pressure on LSVG endothelium."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was endothelial cell loss, measured immediately post-procedure."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "21 paired vein samples from CABG patients"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Distended veins exhibited significantly higher endothelial cell loss (31.95% ± 31.31) compared to non-distended veins (11.67% ± 28.65) (p = 0.034)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source]."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

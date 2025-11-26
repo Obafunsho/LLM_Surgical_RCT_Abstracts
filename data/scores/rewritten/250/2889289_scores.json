@@ -1,0 +1,74 @@
+{
+  "pmcid": "2889289",
+  "sha256": "f08fbaa929c9c1db78fbf32cd39cf9931bdd29cd1a7c5fea862b786d99dbcabb",
+  "timestamp_utc": "2025-11-09T22:34:59.014709+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.941214953271032,
+    "reading_ease": 31.600370237239417,
+    "word_count": 214
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Axillary Treatment in Breast Cancer Patients with Positive Sentinel Node Biopsy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This multicenter trial randomized 2,000 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with operable unifocal invasive breast cancer and clinically negative lymph nodes"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to either ALND or ART"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the sentinel node identification rate, measured at the time of surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was centralized and stratified by institution."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "randomized 2,000 patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 1,953 eligible patients"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "the sentinel node identification rate was 97% (1,888/1,953)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: EORTC 10981-22023 AMAROS."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

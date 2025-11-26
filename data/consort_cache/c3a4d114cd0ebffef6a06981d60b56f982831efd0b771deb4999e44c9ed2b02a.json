@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Patient-Specific and Conventional Instrumentation in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 100 patients scheduled for TKA were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The trial was conducted at a single orthopedic center, with recruitment from January 2020 to June 2021."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either patient-specific instruments (n=50) or conventional instruments (n=50)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates whether patient-specific CT-based instrumentation offers improved precision and reliability over conventional instrumentation in total knee arthroplasty (TKA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of outliers in postoperative hip-knee-ankle angles, assessed within 6 weeks post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, with allocation concealment via sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group allocation."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "100 patients scheduled for TKA were randomised to receive either patient-specific instruments (n=50) or conventional instruments (n=50)"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "An intention-to-treat analysis was applied."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The incidence of outliers in hip-knee-ankle angles was similar between groups, with 12% in the patient-specific group and 10% in the conventional group (p=0.75)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by [Funding Source]."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

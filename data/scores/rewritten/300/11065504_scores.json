@@ -1,0 +1,74 @@
+{
+  "pmcid": "11065504",
+  "sha256": "9ab25b239f8923e709d6a038a22b648a7b3505d308062a5a9f7e8c8d71b67e38",
+  "timestamp_utc": "2025-11-09T23:12:09.774066+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.435584329349268,
+    "reading_ease": 16.403301239486524,
+    "word_count": 251
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Durvalumab Addition to Induction FOLFOX and Preoperative Chemotherapy in Locally Advanced Esophageal Adenocarcinoma"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either induction FOLFOX with durvalumab or FOLFOX alone"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were patients with locally advanced resectable esophageal/GEJ adenocarcinoma."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either induction FOLFOX with durvalumab or FOLFOX alone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the safety and efficacy of adding the anti-PD-1 antibody durvalumab to this regimen."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was pathologic complete response (pCR) assessed post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using [randomisation method] with allocation concealment via [method]."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was applied to [outcome assessors/patients/clinicians]."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 36 patients were randomised, with 18 in each group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Thirty-three patients completed preoperative treatment and surgery."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "In the durvalumab group, pCR was achieved in 8 patients (22% [one-sided 90% lower bound: 13.3%]), and major pathologic response (mPR) in 22 patients (61% [one-sided 90% lower bound: 50%])."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were reported in [number] patients in the durvalumab group and [number] in the control group, with [severity and type of adverse events]."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

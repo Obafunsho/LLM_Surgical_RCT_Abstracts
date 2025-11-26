@@ -1,0 +1,74 @@
+{
+  "pmcid": "12477203",
+  "sha256": "b73e8d38c36a20fe4796b45044616571eebad5d51cfe89f466f8ff6a5d13da68",
+  "timestamp_utc": "2025-11-09T23:40:23.410469+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.850457142857142,
+    "reading_ease": 31.304466666666684,
+    "word_count": 250
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial of Ventilation Modes in Pediatric Thoracic Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomly assigned to either the PCV-VG group (n=42) or the volume-controlled ventilation (VCV) group (n=41)"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eighty-three children aged 6 months to 18 years, classified as ASA I-III, undergoing video-assisted thoracoscopic lobectomy with OLV at Hunan Children’s Hospital, China"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to either the PCV-VG group (n=42) or the volume-controlled ventilation (VCV) group (n=41)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed whether pressure-controlled ventilation-volume guaranteed (PCV-VG) reduces intrapulmonary shunt (Qs/Qt) and ventilator-induced lung injury (VILI)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was Qs/Qt, measured at five time points during surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealed in opaque envelopes"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Data collectors and surgical staff were blinded"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomly assigned to either the PCV-VG group (n=42) or the volume-controlled ventilation (VCV) group (n=41)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The PCV-VG group demonstrated a significant reduction in median Qs/Qt during OLV (18.2 to 12.7 at T2, 11.4 to 9.1 at T3, p<0.0001). Compared to VCV, PCV-VG improved oxygenation (higher PaO2, PaO2/FiO2), reduced airway pressure (25 cmH2O to 20 cmH2O at T2, p<0.0001), and lowered PPCs incidence (38.5% to 7.3%, OR 0.13, 95% CI: 0.03–0.50, p=0.001). The duration of postoperative mechanical ventilation was shorter in the PCV-VG group (120 min to 110 min, difference 20, 95% CI 0 to 40, p=0.036)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2200065237"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: The GAP Study: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "multicenter, double-blinded, placebo-controlled randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adults undergoing major cardiac, thoracic, or abdominal surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "gabapentin (600 mg preoperatively, 300 mg twice daily for 2 days postoperatively) or placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate its effectiveness in major surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the length of hospital stay, measured from the end of surgery to discharge."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by surgical specialty and site, using a secure internet-based system with permuted blocks."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Participants, clinicians, and outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between April 2018 and May 2022, 1,196 participants were randomised (600 gabapentin, 596 placebo)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Serious adverse events occurred in 189/600 (31.5%) gabapentin and 195/596 (32.7%) placebo participants."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "hazard ratio: 1.07; 95% CI: 0.95 to 1.20; P = 0.26"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Serious adverse events occurred in 189/600 (31.5%) gabapentin and 195/596 (32.7%) placebo participants."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered (ISRCTN63614165)"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by the UK National Institute for Health Research"
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

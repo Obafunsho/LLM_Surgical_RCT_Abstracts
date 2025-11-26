@@ -1,0 +1,74 @@
+{
+  "pmcid": "12261786",
+  "sha256": "69a789de76a529b935b2870652bea4feed367f17d2f899c0efd096840ee74a02",
+  "timestamp_utc": "2025-11-09T22:20:07.172185+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.940227560050573,
+    "reading_ease": 23.870353982300912,
+    "word_count": 226
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Effects of Magnesium Sulphate on Post-Extubation Morbidities"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised into three groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This single-blind, randomised controlled trial was conducted at Korle-Bu Teaching Hospital, Ghana, involving 90 surgical patients requiring endotracheal intubation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised into three groups: A (control, ETTc inflated with air), B (intra-cuff magnesium sulphate), and C (intravenous magnesium sulphate)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the effects of intravenous and intra-cuff magnesium sulphate on the incidence and severity of these morbidities."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of PEST during the first 24 postoperative hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was done by balloting"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "single-blind"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ninety-six patients were enrolled, with 29 in Group A, 29 in Group B, and 32 in Group C completing the study."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "29 in Group A, 29 in Group B, and 32 in Group C completing the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Intravenous magnesium sulphate significantly reduced the incidence of PEST on swallowing at 4, 8, and 12 hours post-operatively compared to intra-cuff magnesium sulphate."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PACTR202211634990263."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

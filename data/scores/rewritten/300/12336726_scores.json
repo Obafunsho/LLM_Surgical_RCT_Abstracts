@@ -1,0 +1,74 @@
+{
+  "pmcid": "12336726",
+  "sha256": "3e7a31ee9e88b5ba95d7d94796e1ad62664819a5df11a1d07bbd0c0ce84fa3aa",
+  "timestamp_utc": "2025-11-09T23:33:34.465576+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.562463768115943,
+    "reading_ease": 25.13688405797103,
+    "word_count": 276
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Ultrasound-Guided Erector Spinae Plane Block and Quadratus Lumborum Block for Analgesia in Laparoscopic Nephrectomy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this single-center, double-blind, randomised controlled trial, 54 patients aged 18–70 years with ASA grades I–II were recruited"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "54 patients aged 18–70 years with ASA grades I–II were recruited from Sichuan Provincial People’s Hospital"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to receive either ESPB or QLB with 25 mL of 0.4% ropivacaine"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to directly compare the analgesic effectiveness and recovery benefits of ultrasound-guided erector spinae plane block (ESPB) versus quadratus lumborum block (QLB)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was cumulative morphine consumption within 6 hours postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using opaque envelopes"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was maintained for patients, clinicians, and outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "54 patients aged 18–70 years with ASA grades I–II were recruited from Sichuan Provincial People’s Hospital between August 16, 2023, and October 30, 2023"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 54 patients randomised, 27 were allocated to each group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "ESPB resulted in significantly lower morphine consumption within 6 hours postoperatively compared to QLB (mean difference: 2.52 mg, 95% CI: 0.15–4.89; P=0.04)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No block-related complications were observed in either group"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: Chinese Clinical Trial Registry, ChiCTR2300074743"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Effects of Preoperative Midazolam on Postoperative Sleep in Children"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Seventy children aged 3 to 12 years were randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This two-group randomised controlled trial was conducted at Yale-New Haven Children\u2019s Hospital. Seventy children aged 3 to 12 years"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either preoperative acetaminophen only (control group, n = 32) or both acetaminophen and midazolam (experimental group, n = 38)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effects of preoperative midazolam on postoperative sleep in children undergoing tonsillectomy and adenoidectomy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative sleep, measured using actigraphy."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "control group, n = 32 or both acetaminophen and midazolam (experimental group, n = 38)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Children in the midazolam group were awake significantly less during the night compared to the control group (p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

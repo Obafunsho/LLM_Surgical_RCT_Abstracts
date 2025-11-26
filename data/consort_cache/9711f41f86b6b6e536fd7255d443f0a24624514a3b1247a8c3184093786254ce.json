@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "We prospectively recruited 52 patients awaiting MIS or standard TKA, matched for age, weight, height, BMI, sex, and surgically treated side, but not randomized."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "We asked whether knee strength (extensor or flexor torque) would be greater in patients having a MIS TKA compared with patients having a standard TKA"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We asked whether knee strength (extensor or flexor torque) would be greater in patients having a MIS TKA compared with patients having a standard TKA and whether knee scores, alignment, ROM, tourniquet and operating times, and hospital length of stay were improved."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Isokinetic tests were performed preoperatively and postoperatively to obtain peak values of extensor and flexor torque."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "We prospectively recruited 52 patients awaiting MIS or standard TKA"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Mean baseline extensor torques were 57 Nm and 53 Nm for MIS and standard TKAs, respectively. At 8 weeks postoperatively, absolute values of the mean postoperative knee extensor torque also were similar: 47 and 45 Nm for patients with MIS and standard TKAs, respectively."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

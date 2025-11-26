@@ -1,0 +1,74 @@
+{
+  "pmcid": "4913420",
+  "sha256": "519f8ac410e2868adfd0bf5efd47250353a66b00cb51aa81ce3fe638d7650cae",
+  "timestamp_utc": "2025-11-09T22:44:35.189729+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.970802707930371,
+    "reading_ease": 35.43295454545455,
+    "word_count": 235
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Human Fibrinogen Concentrate in Aortic Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to receive FCH or placebo."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility included patients with a 5 min bleeding mass of 60–250 g after separation from bypass and surgical haemostasis."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned to receive FCH or placebo."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the haemostatic efficacy of single-dose human fibrinogen concentrate (FCH) in patients undergoing elective aortic surgery requiring cardiopulmonary bypass."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the number of allogeneic blood product units transfused within 24 hours post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was maintained for patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 519 patients were randomised, with 260 to FCH and 259 to placebo, between January 2010 and December 2012."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of these, 152 met the criteria for study medication."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "More blood products were transfused in the FCH group (median 5.0 units) compared to placebo (median 3.0 units), p = 0.026."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials.gov NCT01475669; EudraCT 2011-002685-20."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by [Funding Source]."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

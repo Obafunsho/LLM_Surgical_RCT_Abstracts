@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The P re- O perative W indow of E ndocrine Therapy to Inform R adiation Therapy Decisions (POWER, NCT04272801 ) Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "37 POWER Trial participants who completed pre-ET and surgery"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "older women with early-stage, ER-positive breast cancer"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "3 months of pre-operative endocrine therapy (pre-ET)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aims to determine whether 3 months of pre-operative endocrine therapy (pre-ET) informs adjuvant radiation therapy decisions"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Ki-67 decreased from 13% in biopsy specimens to 5% in the lumpectomy specimens"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "37 POWER Trial participants"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "37 POWER Trial participants who completed pre-ET and surgery"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Ki-67 decreased from 13% in biopsy specimens to 5% in the lumpectomy specimens (p<0.001)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT04272801"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

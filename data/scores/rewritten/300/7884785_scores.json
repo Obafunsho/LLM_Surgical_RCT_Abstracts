@@ -1,0 +1,74 @@
+{
+  "pmcid": "7884785",
+  "sha256": "515023d0433103c737ddd9e8101d6154f58677653d7628fe70fb46547af3a517",
+  "timestamp_utc": "2025-11-10T00:07:43.137990+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.9904776119403,
+    "reading_ease": 40.1332537313433,
+    "word_count": 268
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Hemolysis During Bed Rest and Nutritional Intervention"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomized to receive either a control diet or a diet supplemented with polyphenols, omega-3, vitamin E, and selenium."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "20 male participants, aged 20-45 years, with a BMI of 22-27 kg/m², at the MEDES space clinic in France."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized to receive either a control diet or a diet supplemented with polyphenols, omega-3, vitamin E, and selenium."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate hemolysis during 60 days of bed rest and the impact of a nutritional intervention."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was endogenous carbon monoxide (CO) elimination, measured by gas chromatography over 60 days."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "20 male participants"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "CO elimination increased significantly after 5, 11, 30, and 57 days of bed rest compared to baseline: +289 ppb (95% CI 101–477 ppb; p = 0.004), +253 ppb (78–427 ppb; p = 0.007), +193 ppb (89–298 ppb; p = 0.001), and +858 ppb (670–1046 ppb; p < 0.000), respectively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov NCT03594799."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by the Center National d’Etudes Spatiales and the European Space Agency."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

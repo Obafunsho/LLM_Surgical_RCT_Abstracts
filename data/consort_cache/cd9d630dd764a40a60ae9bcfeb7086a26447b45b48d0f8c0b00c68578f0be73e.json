@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Patient-Specific Instrumentation with Conventional Techniques in Unicompartmental Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "60 patients with a mean age of 63 years (range 54\u201372) and mean BMI of 28 kg/m\u00b2 were randomised"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "60 patients with a mean age of 63 years (range 54\u201372) and mean BMI of 28 kg/m\u00b2"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive UKA using either PSI or conventional instrumentation"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether patient-specific instrumentation (PSI) improves outcomes compared to conventional techniques."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was gait parameters assessed with three-dimensional analysis at 1 year."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "60 patients with a mean age of 63 years (range 54\u201372) and mean BMI of 28 kg/m\u00b2 were randomised"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "no significant differences were observed in gait parameters between the PSI and conventional groups: double limb support (31% vs. 30%; p = 0.67) and walking speed (1.59 m/s vs. 1.57 m/s; p = 0.41)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

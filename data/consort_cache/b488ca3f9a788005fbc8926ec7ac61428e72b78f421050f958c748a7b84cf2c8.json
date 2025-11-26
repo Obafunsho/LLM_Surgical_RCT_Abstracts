@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Cardiovascular Effects of Oxytocin and Carbetocin during Cesarean Section"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Seventy healthy pregnant women at term (37-41 weeks) were enrolled and randomly assigned"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Seventy healthy pregnant women at term (37-41 weeks) were enrolled"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to receive either 5 IU of intravenous oxytocin (OXY group, n=34) or 100 \u00b5g of intravenous carbetocin (CARBE group, n=36)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to evaluate the cardiovascular effects of oxytocin and carbetocin"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of ST-segment changes, measured intraoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was based on the day of the month, and allocation was not concealed"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not implemented for patients or clinicians"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "OXY group, n=34 or 100 \u00b5g of intravenous carbetocin (CARBE group, n=36)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was conducted on a per-protocol basis"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The effect size for ST-segment changes was not significant (p > 0.05)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse cardiovascular events were reported in either group"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not specified"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

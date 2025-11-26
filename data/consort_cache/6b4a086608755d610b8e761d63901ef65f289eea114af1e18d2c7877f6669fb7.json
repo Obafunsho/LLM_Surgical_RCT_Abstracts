@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "To compare two surgical strategies for myocardial revascularization: one by a minimally invasive direct coronary artery bypass (MIDCAB) and the other by a conventional full sternotomy coronary artery bypass grafting (CABG)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To compare two surgical strategies for myocardial revascularization: one by a minimally invasive direct coronary artery bypass (MIDCAB) and the other by a conventional full sternotomy coronary artery bypass grafting (CABG)."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 1915 patients, 1752 underwent conventional CABG utilizing a single internal thoracic artery (ITA) graft and 163 underwent a MIDCAB procedure."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "the hazard ratio was 0.429 (95%CI 0.321\u20130.574, p <\u20090.001) for the whole cohort and 0.559 (95%CI: 0.376\u20130.831, p =\u20090.004), for the matched cohort."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

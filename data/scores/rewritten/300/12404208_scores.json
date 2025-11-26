@@ -1,0 +1,74 @@
+{
+  "pmcid": "12404208",
+  "sha256": "90e87c195427c1aaf9c3b5ccb56976b6b83c15fcbeada84b540526f63f55224e",
+  "timestamp_utc": "2025-11-09T23:36:19.829931+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.204922600619199,
+    "reading_ease": 33.05741486068115,
+    "word_count": 272
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Effects of Dexmedetomidine on Postoperative Recovery in Elderly TKA Patients: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned in a 1:1:1 ratio"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at a tertiary hospital in China, this single-center, randomised controlled trial enrolled 225 patients aged 60 years or older undergoing elective TKA"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned in a 1:1:1 ratio to receive 0.6 μg/kg/h dexmedetomidine (Group D2), 0.3 μg/kg/h dexmedetomidine (Group D1), or saline (Group N)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the impact of dexmedetomidine on postoperative quality of recovery (QoR) in elderly patients undergoing total knee arthroplasty (TKA)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the QoR-15 score on postoperative day 1"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence, and allocation was concealed"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was maintained for patients, clinicians, and outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "this single-center, randomised controlled trial enrolled 225 patients aged 60 years or older undergoing elective TKA between December 2022 and June 2023"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Of the 225 patients, 204 were included in the analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Group D2 demonstrated a significant improvement in QoR-15 scores on postoperative day 1 compared to Group N (median difference, 6 points; 95% CI, 4 to 8; P < 0.001) and Group D1 (median difference, 4 points; 95% CI, 2 to 5; P = 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar across groups, with no significant differences in hypotension or bradycardia"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR2200066337"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

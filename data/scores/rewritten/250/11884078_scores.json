@@ -1,0 +1,74 @@
+{
+  "pmcid": "11884078",
+  "sha256": "43077b6a463c3eca253959afeef124670f537a41642e2471b39869cb09bb84a2",
+  "timestamp_utc": "2025-11-09T22:10:11.224994+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.647884389671361,
+    "reading_ease": 28.094643485915498,
+    "word_count": 213
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "randomized controlled trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A multicenter, double-blind, randomized controlled trial was conducted."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were hospitalized patients at risk of AKI, with eligibility criteria including age over 18 and no pre-existing chronic kidney disease."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received biomarker-guided management, while the control group received standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of novel biomarkers in the early diagnosis and prognosis of acute kidney injury (AKI)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of AKI within 48 hours, assessed by serum creatinine levels."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was performed using a computer-generated sequence, with allocation concealment ensured by sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "double-blind"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomized, with 100 in each group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the intervention group and 97 in the control group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The intervention group showed a significant reduction in AKI incidence (mean difference = 5.2%, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 3% of the intervention group and 1% of the control group, with mild gastrointestinal side effects."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "This trial was funded by the National Institutes of Health."
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  }
+}

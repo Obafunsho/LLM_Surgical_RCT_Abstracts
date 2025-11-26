@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The EAGLE study aimed to develop and test whether an international, standardized quality improvement intervention could reduce anastomotic leaks."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Clusters (hospital teams) were randomized to one of three arms with varied sequences of intervention/data collection by a derived stepped-wedge batch design (at least 18 hospital teams per batch)."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Low- and middle-income country enrolment was encouraged."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The internationally intended protocol, iteratively co-developed by a multistage Delphi process, comprised an online educational module introducing risk stratification, an intraoperative checklist, and harmonized surgical techniques."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The EAGLE study aimed to develop and test whether an international, standardized quality improvement intervention could reduce anastomotic leaks."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome (assessed by intention to treat) was anastomotic leak rate."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Clusters (hospital teams) were randomized to one of three arms."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Patients were blinded to the study allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total 355 hospital teams registered, with 332 from 64 countries (39.2 per cent low and middle income) included in the final analysis."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The primary analysis included 3039 of the 3268 patients recruited (206 patients had no anastomosis and 23 were lost to follow-up)."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Anastomotic leaks arising before and after the intervention in 10.1 and 9.6 per cent respectively (adjusted OR 0.87, 95 per cent c.i. 0.59 to 1.30; P = 0.498)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: NCT04270721 ( http://www.clinicaltrials.gov )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

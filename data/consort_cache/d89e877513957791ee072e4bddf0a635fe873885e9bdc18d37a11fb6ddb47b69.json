@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Using cases from an earlier randomized trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "25 thumbs that had undergone simple excision of the trapezium and 29 that had undergone trapeziectomy + LRTI for painful trapeziometacarpal joint osteoarthritis"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "simple trapeziectomy or trapeziectomy with ligament reconstruction and tendon interposition (LRTI)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose of this study was to determine whether (1) radiographic changes of degenerative joint disease progressed; (2) the pseudarthrosis height diminished between 1 year and 6 years after either simple trapeziectomy or trapeziectomy with ligament reconstruction and tendon interposition (LRTI); and 3) the presence of degenerative changes were associated with inferior scores on standardized outcomes instruments."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "clinical results were assessed using the Patient Evaluation Measure (PEM), Disabilities of the Arm, Shoulder and Hand (DASH) questionnaires, and thumb key pinch strength"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "25 thumbs that had undergone simple excision of the trapezium and 29 that had undergone trapeziectomy + LRTI"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "One of the 29 thumbs treated with trapeziectomy + LRTI and seven of the 25 thumbs treated by simple excision of the trapezium exhibited increased degenerative change at their final followup."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Effect of Sugammadex on Acute Hypoxic Ventilatory Response Recovery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "single-center, single-blind, two-experiment randomized controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "included healthy volunteers aged 18 years or older. Participants received a continuous infusion of rocuronium to induce symptomatic neuromuscular block."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "In experiment 1, block recovery was spontaneous, while in experiment 2, participants were randomized to receive 2 mg/kg or 4 mg/kg sugammadex."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the effect of 2 and 4 mg/kg sugammadex versus spontaneous recovery on the acute hypoxic ventilatory response (AHVR) after minimal neuromuscular block."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was AHVR recovery time, measured at baseline, during block, and at 0, 20, and 40 minutes post-recovery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was computer-generated, and only participants were blinded."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "only participants were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Thirty-two participants were randomized, with 14 in experiment 1 and 18 in experiment 2 analyzed per protocol."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Thirty-two participants were randomized, with 14 in experiment 1 and 18 in experiment 2 analyzed per protocol."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "AHVR was reduced by 32% during block (mean TOF ratio 0.42 \u00b1 0.22). At symptom resolution, AHVR remained 23% below baseline."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT05149872."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Merck Sharp & Dohme LLC."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

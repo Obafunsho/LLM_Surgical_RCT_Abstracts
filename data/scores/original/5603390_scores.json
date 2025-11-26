@@ -1,0 +1,74 @@
+{
+  "pmcid": "5603390",
+  "sha256": "daeeee90f7d8d9aa405c021524abad4daf9cf4b1dffb1c5799b7f80bad7aac24",
+  "timestamp_utc": "2025-11-09T16:04:54.079937+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.94846153846154,
+    "reading_ease": 46.89153846153849,
+    "word_count": 260
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Those undergoing off-pump CABG were randomized to a partial clamp (n=36) or clampless facilitating device (CFD, n=36) strategy."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "142 patients with low-grade aortic disease (epiaortic ultrasound grade I /II) undergoing primary isolated CABG were studied."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Those undergoing off-pump CABG were randomized to a partial clamp (n=36) or clampless facilitating device (CFD, n=36) strategy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose of this study was to determine the impact of different aortic clamping strategies on the incidence of cerebral embolic events during coronary artery bypass grafting(CABG)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint was total number of HITS detected by TCD."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Those undergoing off-pump CABG were randomized to a partial clamp (n=36) or clampless facilitating device (CFD, n=36) strategy."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From 2012–2015, 142 patients with low-grade aortic disease (epiaortic ultrasound grade I /II) undergoing primary isolated CABG were studied."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the off-pump group, median total HITS were higher in the CFD group (30.0, IQR 22–43) compared to the partial clamp group (7.0, IQR 0–16) (p<0.0001)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "In the off-pump group, median total HITS were higher in the CFD group (30.0, IQR 22–43) compared to the partial clamp group (7.0, IQR 0–16) (p<0.0001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

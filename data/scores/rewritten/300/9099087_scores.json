@@ -1,0 +1,74 @@
+{
+  "pmcid": "9099087",
+  "sha256": "b564e3927627f996f98a53e81e0d616494a63db54a54b204ea83c2c2f150901d",
+  "timestamp_utc": "2025-11-10T00:11:31.909621+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.585409207161128,
+    "reading_ease": 47.40358056265987,
+    "word_count": 272
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Modified Ligation Procedure and Stapled Haemorrhoidectomy for Symptomatic Haemorrhoids"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-centre, randomised, single-blind trial enrolled patients aged 18–80 years with symptomatic second- to fourth-degree haemorrhoids from May 2018 to September 2021"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged 18–80 years with symptomatic second- to fourth-degree haemorrhoids from May 2018 to September 2021"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to MLPPH or SH"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the safety, efficacy, and cost-effectiveness of a modified ligation procedure for prolapsed haemorrhoids (MLPPH) compared to stapled haemorrhoidectomy (SH) in patients with symptomatic haemorrhoids."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the 6-month cure rate."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by haemorrhoid grade using a computer-generated sequence, with allocation concealment via opaque envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was not applied to participants or clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Of 187 patients screened, 133 were randomised (67 to MLPPH, 66 to SH)."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "One patient in the MLPPH group was excluded, and two were lost to follow-up."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 6-month cure rate was significantly higher in the MLPPH group (90.6%) compared to the SH group (69.7%) (P = 0.003)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ChiCTR1800015928."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

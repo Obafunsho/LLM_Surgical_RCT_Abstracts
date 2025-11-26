@@ -1,0 +1,74 @@
+{
+  "pmcid": "11562753",
+  "sha256": "9c58910271ff6a92b10a3aad763172e8111ec5707a46b61ea23f7d17eeb74ed9",
+  "timestamp_utc": "2025-11-09T15:20:56.636869+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.079065934065937,
+    "reading_ease": 26.100576923076943,
+    "word_count": 195
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomized crossover trial"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "active or sham stimulation protocols"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "In this study, we have developed an approach that can modulate this deep brain affective hub entirely noninvasively, using low-intensity transcranial-focused ultrasound."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "clinically meaningful reduction of pain on day 1 and on day 7"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty patients with chronic pain"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "active stimulation reduced pain by 60.0% immediately following the intervention and by 43.0% and 33.0% on days 1 and 7"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "no adverse events were detected"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

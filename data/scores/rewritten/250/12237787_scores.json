@@ -1,0 +1,74 @@
+{
+  "pmcid": "12237787",
+  "sha256": "1b8532b2cc661befefb615a9c6c4ab2805653fc14e69dcc42b81a3b8767c86fa",
+  "timestamp_utc": "2025-11-09T22:19:32.433738+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.07163492063492,
+    "reading_ease": 29.970500000000015,
+    "word_count": 225
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of a Novel Surgical Technique for ec-LVAD Implantation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted at a single surgical center."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients with refractory cardiogenic shock and no available typical outflow cannula insertion site."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The intervention group received the novel ec-LVAD implantation technique, while the control group received standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate a new surgical technique for implanting an extracorporeal left ventricular assist device (ec-LVAD) in patients with refractory cardiogenic shock."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was successful weaning from venoarterial extracorporeal membrane oxygenation (VA-ECMO) within 15 days post-implantation."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 20 participants were randomised, with 10 in each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In the intervention group, 8/10 (80%) were successfully weaned from VA-ECMO compared to 4/10 (40%) in the control group (p = 0.04)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "In the intervention group, 8/10 (80%) were successfully weaned from VA-ECMO compared to 4/10 (40%) in the control group (p = 0.04)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included mild transvalvular regurgitation in 2/10 (20%) of the intervention group and nonocclusive mesenteric ischemia in 1/10 (10%)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: This study was funded by the National Institute of Health."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

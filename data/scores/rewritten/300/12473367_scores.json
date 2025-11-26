@@ -1,0 +1,74 @@
+{
+  "pmcid": "12473367",
+  "sha256": "1fc210d20beb021203060d00ce5f9e84315815690418f8174250092046fba2c3",
+  "timestamp_utc": "2025-11-09T23:40:12.573805+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.920306462358429,
+    "reading_ease": 17.478007994670236,
+    "word_count": 237
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Structured Exercise in ERAS Protocols"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation methods and allocation concealment were not specified."
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Eligibility criteria encompassed studies reporting on postoperative complications, length of hospital stay (LOS), and overall recovery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Structured exercise interventions, including aerobic activities and resistance training, were linked to reduced postoperative complications and shorter hospital stays."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the role of structured exercise within the Enhanced Recovery After Surgery (ERAS) protocol in improving postoperative outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was LOS reduction, measured immediately post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation methods and allocation concealment were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not provided."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The effect size for LOS reduction was a mean difference of 1.5 days (95% CI 1.0 to 2.0; p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  }
+}

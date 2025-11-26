@@ -1,0 +1,74 @@
+{
+  "pmcid": "6439658",
+  "sha256": "2fbfd3b45bd2d0e794f412f6c343722e8d344fbed058278ce18d80a913e528b3",
+  "timestamp_utc": "2025-11-09T16:08:50.988787+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.810145170295925,
+    "reading_ease": 29.475158198399413,
+    "word_count": 398
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "An open-label randomized clinical trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "An open-label randomized clinical trial was performed in 169 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with 2 or more of the following risk factors were included: overweight or obesity, diagnosis of neoplastic disease, male sex, or history of previous laparotomy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned to prophylactic intraperitoneal mesh implantation or standard abdominal closure."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To compare the incidence of incisional hernia among patients after prophylactic intraperitoneal mesh implantation with that among patients after standard abdominal closure."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary end point was the incidence of incisional hernia 3 years after surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to prophylactic intraperitoneal mesh implantation or standard abdominal closure."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "An open-label randomized clinical trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "An open-label randomized clinical trial was performed in 169 patients undergoing elective open abdominal surgery from January 1, 2011, to February 29, 2014."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "After the exclusion of 19 patients, 150 patients (81 in the control group and 69 in the mesh group) were studied."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The cumulative incidence of incisional hernia was significantly lower in the mesh group compared with the control group (5 of 69 [7.2%] vs 15 of 81 [18.5%], log-rank test P = .03)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Abdominal pain was observed in significantly more patients in the mesh group compared with the control group at 6 weeks (34 of 52 [65%] vs 26 of 59 [44%], P = .04) but not at 12 and 36 months postoperatively."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT01203553"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

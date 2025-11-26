@@ -1,0 +1,74 @@
+{
+  "pmcid": "12400462",
+  "sha256": "7cc01d5842aa03f4b7eb50bdb1fb71dafa96a98be7ae8689f6234cef9a9a04da",
+  "timestamp_utc": "2025-11-09T22:24:39.468866+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.181666666666665,
+    "reading_ease": 21.930000000000035,
+    "word_count": 216
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Medium-Term Restenosis Rates in Carotid Endarterectomy with Biological vs. Synthetic Patches"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included patients with symptomatic or asymptomatic 50–99% internal carotid artery stenosis."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Bovine pericardium served as the biological patch, while Dacron, ePTFE, and polyester-urethane were synthetic comparators."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was moderate (50–69%) and critical (70–99%) restenosis, defined by duplex ultrasonography criteria."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 127 CEAs were analysed, with 75 using bovine pericardium."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Bovine patches were significantly associated with >50% restenosis (p = 0.042) but not >70% (p = 0.197)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant differences in peri-operative complications were observed between patch types."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

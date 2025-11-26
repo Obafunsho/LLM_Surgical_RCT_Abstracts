@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Dexamethasone and Ramosetron in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised to receive dexamethasone (10 mg) 1 hour before surgery and ramosetron immediately after surgery"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "The study was conducted at a single tertiary care center. Eligibility criteria included [eligibility criteria]."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive dexamethasone (10 mg) 1 hour before surgery and ramosetron immediately after surgery (Dexa-Ra group, n = 135) or ramosetron alone (Ra group, n = 134)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the impact of adding dexamethasone to a multimodal regimen on postoperative emesis and pain in patients undergoing total knee arthroplasty (TKA)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of postoperative nausea and vomiting (PONV) over 72 hours."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was maintained for outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "269 patients undergoing TKA, randomised to receive dexamethasone (10 mg) 1 hour before surgery and ramosetron immediately after surgery (Dexa-Ra group, n = 135) or ramosetron alone (Ra group, n = 134)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The Dexa-Ra group experienced a significantly lower incidence of PONV over 72 hours (p < 0.05) and less severe nausea in the first 6 hours postoperatively."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between groups, with one periprosthetic joint infection in each group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

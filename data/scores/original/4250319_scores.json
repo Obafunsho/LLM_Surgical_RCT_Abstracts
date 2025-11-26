@@ -1,0 +1,74 @@
+{
+  "pmcid": "4250319",
+  "sha256": "86a74ca1576f9e239f300514d3743e1a190e2e40239a3b077a2d25c64e9cbe63",
+  "timestamp_utc": "2025-11-09T15:57:58.827755+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 23.114985656913365,
+    "reading_ease": -7.303734939759011,
+    "word_count": 249
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "267 of the 1,000 patients randomized"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to bypass or bypass plus surgical ventricular reconstruction"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: In the Surgical Treatment for Ischemic Heart Failure (STICH) trial, surgical ventricular reconstruction plus coronary artery bypass surgery was not associated with a reduction in the rate of death or cardiac hospitalization compared to bypass alone."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "At 3 years, there was no difference in mortality or the combined outcome of death or cardiac hospitalization"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "267 of the 1,000 patients randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 3 years, there was no difference in mortality or the combined outcome of death or cardiac hospitalization"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

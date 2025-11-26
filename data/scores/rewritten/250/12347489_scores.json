@@ -1,0 +1,74 @@
+{
+  "pmcid": "12347489",
+  "sha256": "4bb1f8d5a3f489421d39c3c03aa80e48103632018987dd3c587ce979da176c7a",
+  "timestamp_utc": "2025-11-09T22:22:31.291290+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.076716981132076,
+    "reading_ease": 26.482119496855347,
+    "word_count": 212
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of the Dor Procedure with Intraoperative Substrate Mapping for Refractory Ventricular Tachycardia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either the Dor procedure with intraoperative substrate mapping and ablation or standard care."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were patients with drug-resistant recurrent VT and LV aneurysms."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either the Dor procedure with intraoperative substrate mapping and ablation or standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study aimed to evaluate the effectiveness of the Dor procedure combined with intraoperative substrate mapping and ablation in patients with left ventricular (LV) aneurysms and refractory ventricular tachycardia (VT)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was VT recurrence, measured over a 28-month follow-up period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not feasible due to the nature of the intervention."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 2 participants were randomised, with 1 in each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Both participants were analysed per protocol."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The intervention group showed no VT recurrence at 28 months, while the control group experienced VT recurrence."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No major complications were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

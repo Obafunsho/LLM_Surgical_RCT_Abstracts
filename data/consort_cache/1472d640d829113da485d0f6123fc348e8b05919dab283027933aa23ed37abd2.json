@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This was a parallel group, randomized, noninferiority clinical trial."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This was a parallel group, randomized, noninferiority clinical trial."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients with grade III/IV hemorrhoids between August 2011 and November 2013 were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Three hundred patients were randomly assigned to undergo either partial stapled hemorrhoidopexy (group 1, n = 150) or circumferential stapled hemorrhoidopexy (group 2, n = 150)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The purpose of this study was to compare the long-term clinical efficacy and safety of partial stapled hemorrhoidopexy with circumferential stapled hemorrhoidopexy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of recurrent prolapse at a median follow-up period of 5 years with a predefined noninferiority margin of 3.75%."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Three hundred patients were randomly assigned to undergo either partial stapled hemorrhoidopexy (group 1, n = 150) or circumferential stapled hemorrhoidopexy (group 2, n = 150)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 5-year cumulative recurrence rate between group 1 (9% (95% CI, 4%\u201313%)) and group 2 (12% (95% CI, 7%\u201317%)) did not differ significantly ( p = 0.137), and the difference was within the noninferiority margin (absolute difference, \u20133.33% (95% CI, \u201310.00% to 3.55%))."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Postoperative rectal stenosis did not develop in patients in group 1, although it occurred in 8 patients (5%) in group 2 ( p = 0.004)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration (chictr.org) identifier is chiCTR-trc-11001506."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

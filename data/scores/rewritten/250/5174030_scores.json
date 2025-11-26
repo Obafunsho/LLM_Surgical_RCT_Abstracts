@@ -1,0 +1,74 @@
+{
+  "pmcid": "5174030",
+  "sha256": "41224c49510d7d5edf37b337b0cb5e3cea38c31a36cce91e37bd4ef33eaec993",
+  "timestamp_utc": "2025-11-09T22:45:30.313971+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.123737704918032,
+    "reading_ease": 37.040524590163955,
+    "word_count": 244
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Kinematic and Mechanical Alignment in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Ninety-nine primary TKAs in 95 patients were randomised to either the KA group (n = 49) or the MA group (n = 50)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients undergoing primary TKA. The study was conducted at a single institution."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "In the KA group, patient-specific cutting blocks were manufactured using preoperative MRI data, while the MA group used computer navigation for neutral alignment."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to compare kinematic alignment (KA) and mechanical alignment (MA) techniques in total knee arthroplasty (TKA) regarding patient-reported outcomes and component alignment."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Oxford Knee Score (OKS) measured preoperatively and at 6 weeks, 6 months, 1 year, and 2 years postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Ninety-nine primary TKAs in 95 patients were randomised to either the KA group (n = 49) or the MA group (n = 50)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "No significant difference was found in 2-year OKS change scores between KA and MA groups (mean difference 1.0, 95% CI, −1.4 to 3.4, p = 0.4)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complication rates were similar between groups."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "DESIGN: Double-blinded, randomised study."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "PATIENTS: A total of 40 patients undergoing upper extremity surgery below the axilla. Exclusion criteria included significant pulmonary disease, BMI more than 40 and contraindication to peripheral nerve block."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "INTERVENTIONS: Patients were randomised to supraclavicular or retroclavicular brachial plexus block with ropivacaine 0.5%."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "OBJECTIVE: To compare the effects of supraclavicular and retroclavicular brachial plexus block on diaphragmatic function."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "OUTCOME MEASURES: Phrenic block was assessed by measuring changes in diaphragmatic excursion using M-mode ultrasound, and maximum inspiratory volume on incentive spirometry from baseline, at 15 and 30 min postblock, and postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "DESIGN: Double-blinded, randomised study."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "PATIENTS: A total of 40 patients undergoing upper extremity surgery below the axilla."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "RESULTS: The incidence of phrenic block in the supraclavicular group was higher by ultrasound imaging (70 vs. 15%) and also by pulmonary function testing (55 vs. 5%), with both diaphragmatic excursion and maximum inspiratory volume decreasing to a greater extent after supraclavicular block (SCB) compared with RCB at 15, 30 min and postoperative time points (repeated measures analysis of variance, P < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "TRIAL REGISTRATION: Clinicaltrials.gov identifier: NCT02631122"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

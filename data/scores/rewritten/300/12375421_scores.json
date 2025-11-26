@@ -1,0 +1,74 @@
+{
+  "pmcid": "12375421",
+  "sha256": "1773562924c1b63c597f9140a4a6ff88fbccfb14e960df8da178efb12ffa36ba",
+  "timestamp_utc": "2025-11-09T23:35:19.742168+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.41007658102767,
+    "reading_ease": 19.913375741106734,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Ischemic Mitral Regurgitation Management"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised into two groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria encompassed patients with moderate IMR and CAD."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised into two groups: CABG alone (n=54) and CABG with mitral valve repair (n=48)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the impact of concomitant mitral valve intervention during coronary artery bypass grafting (CABG) on patient outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was quality of life improvement, assessed over a four-year period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomised into two groups: CABG alone (n=54) and CABG with mitral valve repair (n=48)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Patients in the CABG with mitral valve repair group experienced significant quality of life enhancements and symptom reduction compared to those undergoing CABG alone."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were more frequent in the CABG alone group, with 3% experiencing mild complications compared to 1% in the intervention group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not disclosed."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

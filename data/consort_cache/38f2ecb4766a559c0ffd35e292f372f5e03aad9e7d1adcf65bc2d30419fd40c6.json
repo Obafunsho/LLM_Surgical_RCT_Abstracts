@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Phase 2 Trial of Imlifidase for Desensitization in Kidney Transplantation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This open-label, single-arm, phase 2 trial was conducted at five transplant centers"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients with a median calculated panel-reactive antibody (cPRA) of 99.83% were enrolled."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Imlifidase was administered intravenously to convert positive crossmatch tests to negative within 24 hours."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy and safety of imlifidase in converting positive crossmatch tests to negative, thus enabling transplantation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was crossmatch conversion, with secondary outcomes including donor-specific antibody levels, renal function, and safety."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "No randomization or blinding was performed due to the study's single-arm design."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "No randomization or blinding was performed due to the study's single-arm design."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "This open-label, single-arm, phase 2 trial was conducted at five transplant centers (Cedars-Sinai Medical Center, The Johns Hopkins Hospital, New York University Langone Health, Uppsala University Hospital, H\u00f4pital Necker) from September 30, 2016, to July 3, 2018."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 19 enrolled patients, 18 received a full dose of imlifidase"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "89.5% achieving crossmatch conversion within 24 hours. Patient survival was 100%, and graft survival was 88.9% at 6 months."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Seven adverse events in six patients were related to treatment, all mild to moderate."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: ClinicalTrials.gov NCT02790437."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: The study was funded by Hansa Biopharma AB."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

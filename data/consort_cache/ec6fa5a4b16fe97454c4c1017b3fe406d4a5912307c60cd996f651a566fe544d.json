@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This review aimed to comprehensively describe the current pre-clinical and clinical evidence for RIC in orthopaedics."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Sixteen clinical RCTs, involving 628 patients, investigated RIC in 6 different elective orthopaedic procedures (knee, lower limb, cervical, shoulder, general, hip fracture)."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "RIC protocols varied in cycle frequency, duration, and pressure, but all were given as a single dose at induction of anaesthesia."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This review aimed to comprehensively describe the current pre-clinical and clinical evidence for RIC in orthopaedics."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixteen clinical RCTs, involving 628 patients, investigated RIC in 6 different elective orthopaedic procedures"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Significant results included reductions in oxidative stress, improved cerebral and peripheral oxygenation, and reduced pain scores and analgesia use."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 7,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

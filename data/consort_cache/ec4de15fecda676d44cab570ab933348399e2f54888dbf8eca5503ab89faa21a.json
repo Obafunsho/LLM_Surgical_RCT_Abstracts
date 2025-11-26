@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Educational Interventions for Vascular Access Self-Management in Haemodialysis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This systematic review included randomised controlled trials (RCTs) and quasiexperimental studies."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults with kidney failure requiring long-term haemodialysis."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Interventions involved patient education, predominantly provided by nurses, using resources like booklets and videos."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates educational interventions designed to improve self-management of long-term vascular access in adults receiving haemodialysis."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was improvement in vascular access self-management behaviours, measured over varying timeframes."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation methods and allocation concealment were not consistently reported."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding details were not specified."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seven studies with 540 participants were included: two RCTs and five quasiexperimental."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Education significantly improved self-management behaviours."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42023414193."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

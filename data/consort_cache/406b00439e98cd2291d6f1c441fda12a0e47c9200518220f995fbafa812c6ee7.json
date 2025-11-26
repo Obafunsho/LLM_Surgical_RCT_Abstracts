@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 159 pediatric (age <18 years) cardiac surgery patients were prospectively randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "pediatric (age <18 years) cardiac surgery patients were prospectively randomized"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to pulsatile or nonpulsatile cardiopulmonary bypass"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The study objective was to determine the impact of cardiopulmonary bypass perfusion modalities on cerebral hemodynamics and clinical outcomes"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Organ injury was quantified by Pediatric Logistic Organ Dysfunction-2 (PELOD-2) score at 24, 48, and 72\u2005h postoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 159 pediatric (age <18 years) cardiac surgery patients were prospectively randomized"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "While the intraoperative pulsatility index was higher in the pulsatile subset of both acyanotic and cyanotic groups ( P <\u2009.05)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

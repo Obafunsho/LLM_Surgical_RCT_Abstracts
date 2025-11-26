@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Volar Locking Plate Fixation in Low-Grade Open vs. Closed Distal Radius Fractures"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 60 patients were enrolled"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients with Gustilo and Anderson Type I or II open DRFs."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "20 in the open fracture group and 40 in the closed fracture group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate whether volar locking plate fixation in low-grade open distal radius fractures (DRFs) yields outcomes comparable to those in closed DRFs."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Disabilities of the Arm, Shoulder, and Hand (DASH) score, assessed at 3 months and 1 year postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, with allocation concealment ensured."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Due to the nature of the intervention, blinding was not feasible."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "60 patients were enrolled, with 20 in the open fracture group and 40 in the closed fracture group"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 3 months, the closed fracture group demonstrated superior wrist flexion, extension, grip strength, and DASH scores. By 1 year, no significant differences were observed between the groups in any functional outcome measure."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Infection rates and other complications were similar, with no severe adverse events reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not disclosed."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

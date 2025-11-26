@@ -1,0 +1,74 @@
+{
+  "pmcid": "11801435",
+  "sha256": "ab85d0158e76dd31edf96e820d61ed223a7cf99967e18c118d77f0031da9a70b",
+  "timestamp_utc": "2025-11-09T22:08:18.388960+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.93432786885246,
+    "reading_ease": 16.963677595628468,
+    "word_count": 244
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Ultrasound-Guided Percutaneous Cryoneurolysis for Traumatic Rib Fractures"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "participants were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adults with one to six rib fractures were enrolled at the University of California-San Diego"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to active cryoneurolysis with sham peripheral nerve block or sham cryoneurolysis with active peripheral nerve block"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluated the efficacy of ultrasound-guided percutaneous cryoneurolysis in improving analgesia and inspired volume."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was maximum inspired volume measured with an incentive spirometer the day after the procedure."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by laterality using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "participant/observer-masked"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between April 2020 and August 2023, 20 participants were randomised: 11 to cryoneurolysis and 9 to peripheral nerve block."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "11 to cryoneurolysis and 9 to peripheral nerve block"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The adjusted mean difference in maximum inspired volume was 793 ml greater in the cryoneurolysis group (95% CI, 273 to 1,312 ml; p = 0.005)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One adverse event of pneumonia occurred in the cryoneurolysis group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT04198662"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Epimed International provided funding and devices."
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  }
+}

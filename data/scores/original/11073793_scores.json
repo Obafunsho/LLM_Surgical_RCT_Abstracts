@@ -1,0 +1,74 @@
+{
+  "pmcid": "11073793",
+  "sha256": "dda020ef0155a39be8b0710238dc7ff47f7ba34d3b0b78d5255ff11e792510ca",
+  "timestamp_utc": "2025-11-09T15:14:57.347533+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.79146743020759,
+    "reading_ease": 23.91793843951328,
+    "word_count": 254
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Fifty patients with pulmonary nodules with imaging features suspicious for malignancy underwent preoperative PET."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients then received OTL38 prior to pulmonary resection."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective:: To determine if intraoperative molecular imaging (IMI) can improve detection of malignant pulmonary nodules."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "IMI identified 56 of 59 (94.9%) malignant pulmonary nodules identified by preoperative imaging."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

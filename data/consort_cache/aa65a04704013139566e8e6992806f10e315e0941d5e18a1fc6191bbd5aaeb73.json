@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on the Influence of EVD Laterality on Intraventricular Hemorrhage Clearance"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "randomised controlled trial included 100 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were eligible if they had obstructive IVH and were randomised to receive thrombolytic agents or placebo via EVD."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive thrombolytic agents or placebo via EVD"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the impact of EVD laterality on blood clearance from the ventricular system, with and without thrombolytic agents."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the rate of IVH clearance over the first 3 days, assessed by CT scans."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment through sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "randomised controlled trial included 100 patients"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on an intention-to-treat basis, with 98 participants in the thrombolytic group and 97 in the placebo group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Thrombolytic administration significantly improved IVH clearance compared to placebo, regardless of EVD laterality (p < 0.005, CI \u221214.0, \u22124.14 for contralateral and CI \u221224.7, \u22125.44 for ipsilateral EVD)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

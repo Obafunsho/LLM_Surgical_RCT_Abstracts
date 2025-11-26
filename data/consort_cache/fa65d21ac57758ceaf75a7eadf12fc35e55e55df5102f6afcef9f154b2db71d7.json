@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Prognostic Value of PAM-50 in Local Recurrence Risk: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "The ABCSG-8 trial, a randomised controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were postmenopausal women with endocrine receptor-positive breast cancer who underwent breast-conserving surgery."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "compared 5 years of tamoxifen with 2 years of tamoxifen followed by 3 years of anastrozole."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the prognostic value of the PAM-50-based 46-gene assay for local recurrence risk in postmenopausal women with hormone receptor-positive breast cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was local recurrence risk over a median follow-up of 10.8 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was stratified by treatment group, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Tumour blocks from 1204 patients were analysed using the PAM-50 assay."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of 1204 patients, 1034 received radiotherapy."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients with a low ROR score (<57) had significantly lower local recurrence rates at 5 years (0.1% vs. 2.2%; SHR 17.18, 95% CI 2.06 to 142.88; p=0.009) and 10 years (0.9% vs. 3.8%; SHR 4.76, 95% CI 1.72 to 13.17; p=0.003)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT00291759"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

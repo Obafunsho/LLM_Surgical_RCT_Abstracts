@@ -1,0 +1,74 @@
+{
+  "pmcid": "10314755",
+  "sha256": "8e4b8b0d12d0e740828b0f1df7b81c37a1caf19e85ccbdc16ee88c7b53de6dc2",
+  "timestamp_utc": "2025-11-09T23:05:06.033368+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.623742529880477,
+    "reading_ease": 32.49784487051795,
+    "word_count": 251
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of a Novel Surgeon-Placed Adductor Canal Block in Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to receive either the novel ACB technique or a standard single-shot ACB by anesthesia."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "56 consecutive patients undergoing primary TKA by a single surgeon were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either the novel ACB technique or a standard single-shot ACB by anesthesia."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates a novel surgeon-placed adductor canal block (ACB) with catheter placement for continuous regional nerve block, hypothesizing reduced pain and opioid use post-TKA."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was perioperative pain, assessed using a visual analog scale (VAS) over seven days postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was based on consecutive patient presentation."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "no blinding of patients or clinicians"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Conducted as a randomised controlled trial from July to November 2017, 56 consecutive patients undergoing primary TKA by a single surgeon were included."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 56 patients, 48 initiated the survey, and 36 completed it."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The novel ACB group experienced a 25% reduction in VAS pain scores (3.9 to 2.9), a 24% reduction in opioid use, and significant reductions in side effects such as dizziness, nausea, and vomiting compared to the control group."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in the novel ACB group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

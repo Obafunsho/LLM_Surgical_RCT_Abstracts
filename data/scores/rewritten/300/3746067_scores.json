@@ -1,0 +1,74 @@
+{
+  "pmcid": "3746067",
+  "sha256": "20ad19117ba75ef761762d5e3eb080363412ce719f3eaef2f112e19e708bedfa",
+  "timestamp_utc": "2025-11-09T23:50:03.547208+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.292605633802818,
+    "reading_ease": 28.007265258215995,
+    "word_count": 213
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Seventeen epilepsy patients participated in an ECoG motor mapping experiment at a single center."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility included patients undergoing presurgical evaluation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aims to validate ECoG for presurgical mapping by comparing it with direct electrical cortical stimulation (ECS) and functional MRI (fMRI)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to validate ECoG for presurgical mapping by comparing it with direct electrical cortical stimulation (ECS) and functional MRI (fMRI)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "High gamma activity was modeled using the general linear model (GLM), and regions with significant gamma power increase were localized."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Seventeen epilepsy patients participated in an ECoG motor mapping experiment at a single center."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "ECoG had higher sensitivity than fMRI (66.7% vs. 52.6%, p < 0.05) with high specificity for both (>97%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

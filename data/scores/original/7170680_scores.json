@@ -1,0 +1,74 @@
+{
+  "pmcid": "7170680",
+  "sha256": "b0289c23e4bb9ec4de8df08e9653b74d47ee44c4d30cf7d8361d084379152b20",
+  "timestamp_utc": "2025-11-09T16:12:18.677030+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.49001876876877,
+    "reading_ease": 37.397820945945966,
+    "word_count": 666
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "An investigator-initiated, two-arm, non-blinded, multicenter, randomized, controlled trial was performed"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients older than 18 years undergoing primary knee arthroplasty. We excluded patients with an iodine allergy, previous open knee surgery, previous septic arthritis, any antibiotics taken 4 weeks before surgery, and if they were unable to understand the implications of study participation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned to operation with an antimicrobial drape (intervention group) or operation without (control group)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To study the effect of antimicrobial drapes, we used intraoperative contamination as a proxy for infection in our investigation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome measure was the difference in the proportion of contaminated patients between the two randomized groups."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned to operation with an antimicrobial drape (intervention group) or operation without (control group)."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "An investigator-initiated, two-arm, non-blinded, multicenter, randomized, controlled trial was performed"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "In all, 94% (1659 of 1769) of patients consented and were randomized to the intervention group (51%, 838 of 1659) and control group (49%, 821 of 1659), respectively."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "In all, 36% (603 of 1659) of patients in the intervention group and 35% (584 of 1659) patients in the control group were available for final analysis."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Use of iodinated drapes reduced contamination, with contamination detected in 10% (60 of 603) procedures where iodinated drapes were used compared with 15% (90 of 584) when they were not (odds ratio 0.61 [95% CI 0.43 to 0.87]; p = 0.005)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

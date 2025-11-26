@@ -1,0 +1,74 @@
+{
+  "pmcid": "12129066",
+  "sha256": "c70d3d6077fafda2591b4f15980b80af1cc4baa80e310e47e58d26cb27ba1d3b",
+  "timestamp_utc": "2025-11-09T15:31:09.929127+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.960924764890287,
+    "reading_ease": 20.795869905956124,
+    "word_count": 319
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients diagnosed with grade III or IV haemorrhoids and anal fistulas at the Taipei Medical University Shuang-Ho Hospital, Taiwan, between 2022 and 2023, were enrolled in a randomized clinical study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients diagnosed with grade III or IV haemorrhoids and anal fistulas at the Taipei Medical University Shuang-Ho Hospital, Taiwan"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing the use of preoperative enema (intervention) versus no preoperative enema (control)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of this study was to evaluate the efficacy and benefits of preoperative enemas in anal surgical procedures."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome measures included postoperative visual analogue scale scores and analgesic usage from postoperative day 0 to day 7."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 266 patients were enrolled in this study, with 133 allocated to the enema group and 133 to the control group."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "the mean(s.d.) visual analogue scale score was significantly higher in the control group than in the enema group on day 2 (5.69(2.14) versus 3.77(2.45), P = 0.021), day 3 (5.85(2.61) versus 3.92(2.73), P = 0.042) and day 4 (5.23(2.55) versus 3.42(2.18), P = 0.027)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "postoperative complications, including surgical site infection, postoperative bleeding and urinary retention."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

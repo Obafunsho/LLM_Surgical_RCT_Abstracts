@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Seroma Management after Groin Surgery"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised controlled trial aimed to evaluate the effectiveness of seroma management strategies"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients undergoing groin surgery, with eligibility criteria including age over 18 and no prior groin surgeries. The study was conducted in a tertiary care hospital."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "intervention group, receiving the LigaSure electrothermal bipolar sealing device, or the control group, receiving conventional techniques"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "aimed to evaluate the effectiveness of seroma management strategies"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of seroma formation within 30 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised, with 100 in each group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on an intention-to-treat basis, with 98 participants in the intervention group and 97 in the control group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "seroma incidence was significantly reduced (mean difference = 12%, 95% CI 5% to 19%; p = 0.002)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 3% of the intervention group and 1% of the control group, with mild severity."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: N/A"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: None."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

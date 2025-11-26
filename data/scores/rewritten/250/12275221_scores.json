@@ -1,0 +1,74 @@
+{
+  "pmcid": "12275221",
+  "sha256": "19bac675c579bf712bebfc79ce2e594c9046c2068d48b652c847f4458e7cf281",
+  "timestamp_utc": "2025-11-09T22:20:28.704095+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.784285714285716,
+    "reading_ease": 33.43008474576274,
+    "word_count": 236
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Early Postoperative Oral Hydration in Paediatric Surgery: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomly assigned to receive either early hydration (EH) within 30 minutes of arrival to the post-anaesthesia care unit (PACU) or delayed standard hydration (SH) after 2 hours."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at a tertiary care centre, the trial included children aged 1–5 years, of ASA physical status I–II, undergoing elective surgery under general anaesthesia."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either early hydration (EH) within 30 minutes of arrival to the post-anaesthesia care unit (PACU) or delayed standard hydration (SH) after 2 hours."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to evaluate the efficacy and safety of early postoperative oral hydration in paediatric patients undergoing elective surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the FLACC score at 1 hour in PACU."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using sealed, opaque envelopes, and the outcome assessor was blinded."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "the outcome assessor was blinded."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 66 children were randomised between June 2023 and July 2023, with 33 in each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis included 61 children, using a per-protocol approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The median FLACC score after 1 hour in PACU was significantly lower in Group EH [1 (0.25–2)] compared to Group SH [2 (1–3)], with a p-value of 0.028."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No major complications were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered at the Clinical Trials Registry-India (CTRI/2022/06/043291)."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "the study was funded by institutional resources."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

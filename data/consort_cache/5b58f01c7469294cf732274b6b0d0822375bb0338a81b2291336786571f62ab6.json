@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Efficacy and Safety of DWJ1319 in the Prevention of Gallstone Formation after Gastrectomy in Patient with Gastric Cancer: A Multicenter, Randomized, Double-blind, Placebo-controlled Study"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomized, double-blind, placebo-controlled clinical trial conducted at 12 institutions in the Republic of Korea"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adults (aged \u226519 years) with a diagnosis of gastric cancer who underwent total, distal, or proximal gastrectomy were enrolled between May 26, 2015, and January 9, 2017"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Eligible participants were randomly assigned to receive 300 mg of UDCA, 600 mg of UDCA, or placebo at a ratio of 1:1:1"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To evaluate the efficacy and safety of ursodeoxycholic acid (UDCA) in preventing gallstone formation after gastrectomy in patients with gastric cancer"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary end point was the proportion of patients developing gallstones within 12 months after gastrectomy"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization and allocation to trial groups were carried out by an interactive web-response system"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "randomized, double-blind, placebo-controlled clinical trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 521 patients (175 received 300 mg of UDCA, 178 received 600 mg of UDCA, and 168 received placebo) were randomized"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The full analysis set included 465 patients (311 men; median age, 56.0 years [interquartile range, 48.0-64.0 years]), with 151 patients in the 300-mg group, 164 patients in the 600-mg group, and 150 patients in the placebo group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Compared with the placebo group, odds ratios for gallstone formation were 0.27 (95% CI, 0.12-0.62; P =\u2009.002) in the 300-mg group and 0.20 (95% CI, 0.08-0.50; P <\u2009.001) in the 600-mg group"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No significant adverse drug reactions were detected among the enrolled patients"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT02490111"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 24,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

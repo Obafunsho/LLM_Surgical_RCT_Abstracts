@@ -1,0 +1,74 @@
+{
+  "pmcid": "1357739",
+  "sha256": "289f7f3a0b9a62584526e6d0fa3ddd7b517baf8f4d0130a1c6e61a7608b0b6c1",
+  "timestamp_utc": "2025-11-09T15:46:46.766998+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.339361334867665,
+    "reading_ease": 31.405060414269315,
+    "word_count": 395
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients with primary cutaneous melanoma (≥1 mm with Clark level ≥III, or any thickness with Clark level ≥IV) were randomly assigned in a 4:6 ratio"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with primary cutaneous melanoma (≥1 mm with Clark level ≥III, or any thickness with Clark level ≥IV) were randomly assigned"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned in a 4:6 ratio to WE plus observation (WEO) with delayed CLND for nodal recurrence, or to WE plus LM/SNB with immediate CLND for SN metastasis"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The objective of this study was to evaluate, in an international multicenter phase III trial, the accuracy, use, and morbidity of intraoperative lymphatic mapping and sentinel node biopsy (LM/SNB) for staging the regional nodal basin of patients with early-stage melanoma."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Early morbidity of LM/SNB was evaluated by comparing complication rates between the 2 treatment groups."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients with primary cutaneous melanoma (≥1 mm with Clark level ≥III, or any thickness with Clark level ≥IV) were randomly assigned in a 4:6 ratio"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Trial accrual was completed on March 31, 2002, after enrollment of 2001 patients."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Initial SN identification rate was 95.3% overall: 99.3% for the groin, 95.3% for the axilla, and 84.5% for the neck basins."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The low (10.1%) complication rate after LM/SNB increased to 37.2% with the addition of CLND; CLND also increased the severity of complications."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

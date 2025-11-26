@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients with locally advanced rectal cancer from 16 tertiary centres who were randomized"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "patients with locally advanced rectal cancer from 16 tertiary centres"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized for short-term radiotherapy followed by chemotherapy (TNT group) or long-term concurrent chemotherapy group followed by total mesorectal excision"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcomes were overall survival and disease-free survival (DFS)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Among the 451 patients enrolled in the STELLAR trial, 227 patients (50.3%) were assigned to the TNT group"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Among the 451 patients enrolled in the STELLAR trial, 227 patients (50.3%) were assigned to the TNT group"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Patients in the limited lymphadenectomy subgroup exhibited worse overall survival than those with extended lymphadenectomy (HR 2.95 (95% c.i. 1.47 to 5.92), P = 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

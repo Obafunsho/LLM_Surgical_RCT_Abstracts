@@ -1,0 +1,74 @@
+{
+  "pmcid": "8851363",
+  "sha256": "91acad57e4a04fedb02ba63fae712c7fd823a91946a3cbafbeefafc037a8c111",
+  "timestamp_utc": "2025-11-09T16:19:39.447598+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.85412513919822,
+    "reading_ease": 42.235152074053474,
+    "word_count": 449
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "2203 veterans in the ROOBY trial were randomly assigned to off-pump or on-pump CABG procedures"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "2203 veterans in the ROOBY trial were randomly assigned to off-pump or on-pump CABG procedures at 18 participating VA medical centers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Interventions: On-pump and off-pump CABG procedures."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objective: To evaluate the 10-year outcomes and costs of off-pump vs on-pump CABG in the Department of Veterans Affairs (VA) Randomized On/Off Bypass (ROOBY) trial."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The 10-year coprimary end points included all-cause death and a composite end point identifying patients who had died or had undergone subsequent revascularization"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "2203 veterans in the ROOBY trial were randomly assigned"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "2203 veterans in the ROOBY trial were randomly assigned to off-pump or on-pump CABG procedures"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "A total of 1104 patients (1097 men [99.4%]; mean [SD] age, 63.0 [8.5] years) were enrolled in the off-pump group, and 1099 patients (1092 men [99.5%]; mean [SD] age, 62.5 [8.5] years) were enrolled in the on-pump group."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The 10-year death rates were 34.2% (n = 378) for the off-pump group and 31.1% (n = 342) for the on-pump group (relative risk, 1.05; 95% CI, 0.99-1.11; P = .12)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: ClinicalTrials.gov Identifier: NCT01924442"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

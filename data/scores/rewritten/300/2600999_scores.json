@@ -1,0 +1,74 @@
+{
+  "pmcid": "2600999",
+  "sha256": "d0de37937ecc270755e81d9ff5943e58b358584ef0a53444605315d9dd5a0ba9",
+  "timestamp_utc": "2025-11-09T23:45:20.232482+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.769308300395256,
+    "reading_ease": 38.33483201581032,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "This randomised controlled trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Twenty-three patients with subtrochanteric aseptic nonunions, aged under 60 years, and with 2.0 to 5.0 cm shortening were recruited."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive either the intervention or standard care."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the effectiveness of a novel surgical technique for these conditions."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the union rate, evaluated over a minimum follow-up of 1.2 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed with sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Due to the nature of the intervention, blinding was not feasible."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twenty-three patients with subtrochanteric aseptic nonunions"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Twenty-one patients completed the study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The intervention group achieved a 100% union rate (21/21) with a median union period of 4.0 months (range, 3.5–11 months)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

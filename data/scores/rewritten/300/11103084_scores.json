@@ -1,0 +1,74 @@
+{
+  "pmcid": "11103084",
+  "sha256": "c96dad9f6ea180e08bc5f87cb152d2e936e6f98e16c952c6cb2be14c7ab45425",
+  "timestamp_utc": "2025-11-09T23:12:35.308782+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.438430410790929,
+    "reading_ease": 25.647153075822615,
+    "word_count": 233
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Perioperative Management of Renin-Angiotensin System Inhibitors"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients aged ≥60 years undergoing elective noncardiac surgery were randomised 1:1"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients aged ≥60 years undergoing elective noncardiac surgery"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to either stop or continue RAS inhibitors"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed the effect of discontinuing renin-angiotensin system (RAS) inhibitors on perioperative myocardial injury"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was myocardial injury, defined as plasma high-sensitivity troponin-T ≥15 ng/L or a ≥5 ng/L increase within 48 hours post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was centrally performed with minimisation by centre, surgical procedure, and RAS inhibitor type"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was applied to investigators, clinicians, and patients"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 262 randomised participants"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "241 were analysed (intention-to-treat)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "OR 3.50, 95% CI 2.05–5.99; P <0.001"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not specifically reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered under ISRCTN17251494"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding was provided by the Royal College of Anaesthetists and the National Institute for Healthcare Research"
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  }
+}

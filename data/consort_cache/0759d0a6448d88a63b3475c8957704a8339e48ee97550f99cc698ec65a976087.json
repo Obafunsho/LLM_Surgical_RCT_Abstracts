@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Patients who underwent an emergent (within 90 minutes) OR or IR procedure were included."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "decreased time to hemostasis was associated with decreased mortality and decreased incidence of acute kidney injury (AKI), acute respiratory distress syndrome (ARDS), multiple organ failure (MOF), sepsis, and venous thromboembolism (VTE)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 680 enrolled patients, 468 (69%) underwent an emergent procedure."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "In 408 patients (87%) in whom hemostasis was achieved"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "every 15 minute decrease in time to hemostasis was associated with decreased 30-day mortality (RR 0.97, 95% CI 0.94\u20130.99), AKI (RR 0.97, 95% CI 0.96\u20130.98), ARDS (RR 0.98, 95% CI 0.97\u20130.99), MOF (RR 0.94, 95% CI 0.91\u20130.97), and sepsis (RR 0.98, 95% CI 0.96\u20130.99), but not VTE (RR 0.99, 95% CI 0.96\u20131.03)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "11985680",
+  "sha256": "1d6abe52c1fc7663d5b02b5ba888cd617a9b8b08506cae706ecdabd621f120ab",
+  "timestamp_utc": "2025-11-09T22:12:23.623804+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.402559241706161,
+    "reading_ease": 13.542759752096288,
+    "word_count": 211
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Neural Mechanisms of Pain-Depression Comorbidity in Postherpetic Neuralgia: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "This randomised controlled trial was conducted at the Second Affiliated Hospital of Zhejiang University School of Medicine."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included 17 depressed PHN patients, 19 non-depressed PHN patients, and 34 healthy controls (HCs). Eligibility criteria included right-handedness and a diagnosis of PHN."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to identify characteristic brain signals associated with pain-depression comorbidity in PHN patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the difference in fALFF values in the right temporal lobe (TL) and its connectivity with the inferior frontal gyrus (IFG) over a 5-minute scan period."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants included 17 depressed PHN patients, 19 non-depressed PHN patients, and 34 healthy controls (HCs)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "One-way analysis of covariance revealed significant differences in fALFF values in the right TL and its connectivity with the IFG among the three groups."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

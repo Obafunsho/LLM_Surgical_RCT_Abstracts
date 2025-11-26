@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Rubber Band Ligation and Hemorrhoidectomy for Grade III Hemorrhoids"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "multicenter, open-label, parallel-group, randomised controlled noninferiority trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adults with symptomatic grade III hemorrhoids were eligible. Exclusion criteria included prior rectal/anal surgery and medical unfitness."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to RBL or hemorrhoidectomy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This trial compares rubber band ligation (RBL) and hemorrhoidectomy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were 12-month health-related quality of life (HR-QoL) and recurrence rate."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was web-based with allocation concealment."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "No blinding was applied."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Eighty-seven patients were randomised (47 RBL, 40 hemorrhoidectomy) from October 2019 to September 2022."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 46 RBL and 33 hemorrhoidectomy patients."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "RBL was not noninferior to hemorrhoidectomy in HR-QoL (mean difference -0.045; 95% CI, -0.087 to -0.004). Recurrence was higher in the RBL group (48.8% vs 6.1%; absolute risk difference 43%, 95% CI, 25%-60%)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Complication rates were similar."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT04621695."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,74 @@
+{
+  "pmcid": "12095165",
+  "sha256": "07b88566fcc2ae8c1e2576c2f1a6595c1ed503fbd9b944161132ec6df8b65baf",
+  "timestamp_utc": "2025-11-09T23:26:39.414611+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.27733854286371,
+    "reading_ease": 21.33782348885319,
+    "word_count": 229
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Ticagrelor vs. Clopidogrel in Post-CABG Patients"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "receiving either aspirin plus clopidogrel (A+C) or aspirin plus ticagrelor (A+T)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were all-cause mortality and cardiovascular mortality, assessed over a follow-up period."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation methods and allocation concealment varied across studies"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "blinding details were inconsistently reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "A+T was associated with a decreased risk of all-cause mortality (OR=0.47, 95% CI 0.31–0.70, p<0.001) and cardiovascular mortality (OR=0.50, 95% CI 0.31–0.82, p=0.006) compared to A+C."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not consistently reported across studies."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42022330721."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

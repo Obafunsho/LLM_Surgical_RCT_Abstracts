@@ -1,0 +1,74 @@
+{
+  "pmcid": "4274782",
+  "sha256": "5308e6e092f2ca9137f5e88ff837affd8b871d5292d1f6f439796fd0e9656714",
+  "timestamp_utc": "2025-11-09T15:58:16.203911+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.02201631701632,
+    "reading_ease": 29.811998834498866,
+    "word_count": 429
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A 1-year pragmatic randomized clinical trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A 1-year pragmatic randomized clinical trial was conducted in an academic medical institution."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants included persons aged 21 to 65 years with type 2 diabetes diagnosed more than 1 year before the study; their body mass index was 30 to 42 (calculated as weight in kilograms divided by height in meters squared) and hemoglobin A 1c (HbA 1c ) was greater than or equal to 6.5%."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "RYGB (n = 19) or Why WAIT (n = 19) including 12 weekly multidisciplinary group lifestyle, medical, and educational sessions with monthly follow-up thereafter."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To test the feasibility of methods to conduct a larger multisite trial to determine the long-term effect of Roux-en-Y gastric bypass (RYGB) surgery compared with an intensive diabetes medical and weight management (Weight Achievement and Intensive Treatment [Why WAIT]) program for type 2 diabetes."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Proportion of patients with fasting plasma glucose levels less than 126 mg/dL and HbA 1c less than 6.5%, measures of cardiometabolic health, and patient-reported outcomes."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "RYGB (n = 19) or Why WAIT (n = 19)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 1 year, the proportion of patients achieving HbA 1c below 6.5% and fasting glucose below 126 mg/dL was higher following RYGB than Why WAIT (58% vs 16%, respectively; P = .03)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

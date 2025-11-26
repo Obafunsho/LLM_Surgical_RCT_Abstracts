@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "standard versus intEnsive statin therapy for hypercholesteroleMic Patients with diAbetic retinopaTHY (EMPATHY) study"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned in a 1:1 ratio"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Patients who had elevated low-density lipoprotein cholesterol (LDL-C) and diabetic retinopathy without a history of coronary artery disease were eligible for the study."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients are being treated with monotherapy with 3-hydroxy-3-methylglutaryl-coenzyme A reductase inhibitor (statin) for a maximum of 5.5 years to achieve the following LDL-C target: <70 mg/dL for the intensive therapy group or \u2265 100 and <120 mg/dL for the standard therapy group."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "examines whether intensive lipid-lowering therapy is superior to standard therapy in reducing the incidence of cardiovascular events"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary endpoint is a composite of incidence of CVD and death from CVD."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned in a 1:1 ratio"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between May 2010 and October 2013, 5,995 patients were assessed for eligibility, and 5,144 were assigned to the study treatment (2,571 and 2,573 in the intensive and standard therapy groups, respectively)"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "baseline data were analyzed from 5,107 (2,550 in the intensive therapy group and 2,557 in the standard therapy group)"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Clinical Trial Registration Number: UMIN000003486."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

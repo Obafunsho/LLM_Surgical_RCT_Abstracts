@@ -1,0 +1,74 @@
+{
+  "pmcid": "2656356",
+  "sha256": "b9420d29abb01825c971ac026a82e61e6d4fcaf5aa953a072483bcb3a12c9ffd",
+  "timestamp_utc": "2025-11-09T23:45:47.778414+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.216803278688527,
+    "reading_ease": 25.582226775956286,
+    "word_count": 244
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Self-Hypnotic Relaxation for Pain and Anxiety Management in Outpatient Breast Biopsy"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to standard care (n=76), structured empathic attention (n=82), or self-hypnotic relaxation (n=78)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "236 women referred to an urban tertiary university-affiliated medical center. Eligibility criteria included adult women undergoing biopsy."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to standard care (n=76), structured empathic attention (n=82), or self-hypnotic relaxation (n=78)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the effectiveness of adjunct self-hypnotic relaxation during large core needle breast biopsy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was self-rated pain and anxiety on 0–10 verbal analog scales, measured at 10-minute intervals."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Participants were randomised to standard care (n=76), structured empathic attention (n=82), or self-hypnotic relaxation (n=78)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Anxiety increased significantly in the standard group (logit slope = 0.18, p < 0.001), did not change in the empathy group (slope = −0.04, p = 0.45), and decreased significantly in the hypnosis group (slope = −0.27, p < 0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

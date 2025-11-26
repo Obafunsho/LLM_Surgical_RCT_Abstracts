@@ -1,0 +1,74 @@
+{
+  "pmcid": "3819730",
+  "sha256": "f1b0fdbfb4e15bbdba021f87a4e0962f5c42711a89d285f5ca2c40032e422f83",
+  "timestamp_utc": "2025-11-09T15:55:06.409239+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.373350903614458,
+    "reading_ease": 34.070387801204845,
+    "word_count": 249
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "4,987 cardiac surgery patients from 2002 through 2007 with serum creatinine (SCr) collection at a medical center in northern New England."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We sought to determine the association between duration of AKI and survival."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The proportion of patients with AKI duration, adjusted hazard ratios (HR) and 95% confidence intervals for mortality (no AKI as referent), were: 1–2 days (18%, HR 1.66; 1.32–2.09), 3–6 days (11%, HR 1.94; 1.51–2.49), ≥7 days (9%, HR 3.40; 2.73–4.25)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 6,
+    "max_score": 25
+  }
+}

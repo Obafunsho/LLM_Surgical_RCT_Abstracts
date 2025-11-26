@@ -1,0 +1,74 @@
+{
+  "pmcid": "3864174",
+  "sha256": "143211b8758702cc0bde69077f3a50dc4d947d321668f01ce3b3c06179030b6d",
+  "timestamp_utc": "2025-11-09T15:55:26.185896+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.578239348370932,
+    "reading_ease": 44.52059210526315,
+    "word_count": 285
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "open-label, parallel-group study"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adults with end-stage renal disease undergoing primary kidney transplantation or retransplantation"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to an initial dose of tacrolimus BD 0.2 mg/kg per day (Arm 1; n=309), QD 0.2 mg/kg per day (Arm 2; n=302), QD 0.3 mg/kg per day (Arm 3; n=304) all with mycophenolate mofetil and corticosteroids (tapered) over 24 weeks, or tacrolimus QD 0.2 mg/kg per day with mycophenolate mofetil, basiliximab, and corticosteroids given only perioperatively (Arm 4; n=283)"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary composite endpoint (efficacy failure; per protocol set) was defined as graft loss, biopsy-confirmed acute rejection, or graft dysfunction at week 24."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Arm 1; n=309, Arm 2; n=302, Arm 3; n=304, Arm 4; n=283"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The per protocol set included 976 patients: 237, 263, 246, and 230 patients in Arms 1 to 4, respectively."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Kaplan–Meier estimates of efficacy failure were 42.2% and 40.6%, respectively (difference, −1.6%; 95% confidence interval [CI], −12.2% to 9.0%)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

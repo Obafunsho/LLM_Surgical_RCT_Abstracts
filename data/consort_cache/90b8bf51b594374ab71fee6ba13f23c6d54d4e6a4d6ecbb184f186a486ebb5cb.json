@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Factors Influencing Timing and Outcomes of Superior Cavopulmonary Anastomosis"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were identified from the Pediatric Heart Network\u2019s Infant Single Ventricle trial database."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included infants undergoing SCPA. The study was conducted across multiple centers."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to identify factors associated with the timing and surgical outcomes of the superior cavopulmonary anastomosis (SCPA) in infants with single ventricle physiology."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Age at SCPA was analyzed using Cox proportional hazards regression, and length of stay (LOS) was analyzed using multiple linear regression."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 193 subjects underwent SCPA at a median age of 5.2 months and weight of 5.9 kg."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "Age at SCPA was associated with center and interstage adverse events. Longer LOS was linked to younger age and greater case complexity."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There were 3 deaths and 1 transplant during hospitalization, and 3 deaths and 3 transplants post-discharge."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

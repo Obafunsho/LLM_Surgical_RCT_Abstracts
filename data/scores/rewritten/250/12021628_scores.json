@@ -1,0 +1,74 @@
+{
+  "pmcid": "12021628",
+  "sha256": "09a6f1fd553c17dc53114174a66127ebe73553dc18026c5a384f396af19da0c6",
+  "timestamp_utc": "2025-11-09T22:13:10.472624+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.403768115942029,
+    "reading_ease": 21.72294685990343,
+    "word_count": 230
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Transcutaneous Electrical Acupoint Stimulation (TEAS) in the Perioperative Period"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "randomised controlled trial was conducted at a tertiary care hospital"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults undergoing surgery, meeting specific eligibility criteria"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomly assigned to either the TEAS intervention group or a control group"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to evaluate the mechanisms and efficacy of TEAS during this period"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the regulation of the neuroendocrine network system, measured over a 24-hour period post-surgery"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment ensured by sealed envelopes"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Blinding was applied to outcome assessors"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the TEAS group and 100 to the control group, between January 2020 and June 2021"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis included 98 participants in the TEAS group and 97 in the control group, using an intention-to-treat approach"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "TEAS significantly improved the primary outcome (mean difference = 5.2, 95% CI 3.1 to 7.3; p = 0.01)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were mild, with 3% in the TEAS group and 1% in the control group experiencing mild gastrointestinal side-effects"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: Supported by the National Institutes of Health"
+      }
+    },
+    "total_score": 23,
+    "max_score": 25
+  }
+}

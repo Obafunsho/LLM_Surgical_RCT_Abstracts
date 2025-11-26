@@ -1,0 +1,74 @@
+{
+  "pmcid": "12367899",
+  "sha256": "5a23bdc66880915189ee6067495a3abfcca2f80583180d94c9ae1b7d2d917974",
+  "timestamp_utc": "2025-11-09T23:34:51.809191+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.26336018411968,
+    "reading_ease": 16.837249712313024,
+    "word_count": 237
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Continuous EEG Monitoring in Neonates with Congenital Heart Disease: A Retrospective Cohort Study"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "included infants with CHD who underwent surgery by 44 weeks gestational age and had cEEG monitoring"
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the impact of continuous EEG (cEEG) background patterns and the duration of cross-clamp time and cardiopulmonary bypass (CPB) on neurodevelopmental outcomes in neonates with congenital heart disease (CHD) undergoing cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was neurodevelopmental scores on the Bayley Scales of Infant and Toddler Development (BSID-III) at 12–24 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The study included 34 patients"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Longer cross-clamp time was associated with poor language composite scores (p = 0.036). Severity of encephalopathy during the 24-hour post-operative period was significantly associated with poor language composite scores (p = 0.026)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The study found a 100% rate of neurological abnormalities, with developmental delay and microcephaly being the most common."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

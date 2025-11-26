@@ -1,0 +1,74 @@
+{
+  "pmcid": "4029101",
+  "sha256": "313244cfbbdc4f239822be1cfaa28f0a47ccab2d44e120fc583c9267c28605f4",
+  "timestamp_utc": "2025-11-09T23:52:00.969981+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.417311022311022,
+    "reading_ease": 28.138673826173857,
+    "word_count": 273
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Sequential Interventions for Posttransplant Lymphoproliferative Disease in Adult Solid Organ Transplant Recipients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adult solid organ transplant recipients with biopsy-proven PTLD"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "RI involved a 50% reduction in cyclosporine or tacrolimus for 2 weeks, with a further 50% reduction for 1 week if complete remission (CR) was not achieved."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial assessed a sequential treatment algorithm for posttransplant lymphoproliferative disease (PTLD) in adult solid organ transplant recipients"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was CR, measured over the treatment course."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not specified."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Sixteen eligible patients were analysed."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Sixteen eligible patients were analysed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "RI resulted in 1 partial response (12.5%) and no CR. Progressive disease occurred in 50% and rejection in 38%."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not detailed."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

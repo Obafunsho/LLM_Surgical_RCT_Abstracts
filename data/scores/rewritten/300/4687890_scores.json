@@ -1,0 +1,74 @@
+{
+  "pmcid": "4687890",
+  "sha256": "4033a78a158c8950fa78742a7c3023ce614bc4f5fa27fd32c07a8480179b2ad3",
+  "timestamp_utc": "2025-11-09T23:54:40.317026+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 16.080490118577078,
+    "reading_ease": 9.814938076416354,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Mitral Valve Repair vs. Replacement for Severe Ischemic Mitral Regurgitation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 251 patients were randomised to either repair (n = 126) or replacement (n = 125)"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Eligibility criteria included severe ischemic mitral regurgitation"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to either repair (n = 126) or replacement (n = 125)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "to evaluate the efficacy of mitral valve repair versus replacement in patients with severe ischemic mitral regurgitation"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the recurrence of moderate/severe mitral regurgitation or death within 2 years"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, with allocation concealment ensured"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Due to the nature of the interventions, blinding was not feasible"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 251 patients were randomised"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Among the 116 patients who received repair, 76 experienced moderate/severe mitral regurgitation or died"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The model, which included factors such as age, body mass index, sex, race, effective regurgitant orifice area, and history of coronary interventions, demonstrated an area under the receiver operating characteristic curve of 0.82"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Adverse events were not detailed in the abstract"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 17,
+    "max_score": 25
+  }
+}

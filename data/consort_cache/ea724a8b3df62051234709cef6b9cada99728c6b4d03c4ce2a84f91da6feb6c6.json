@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "The rIPC group underwent four cycles of 5-minute ischemia on the hind limb, each followed by 5 minutes of reperfusion. The APC group received 2.5 vol% sevoflurane for 20 minutes via a face mask, followed by a 20-minute washout period."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Objectives: Remote ischemic preconditioning (rIPC) is a novel technique in which brief episodes of ischemia and reperfusion in one organ confer protection against prolonged ischemia in a distant organ."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Both in vivo rIPC, induced by four 5-minute cycles of ischemia/reperfusion on the hind limb, and APC, administered as 2.5 vol% sevoflurane via a mask, significantly reduced the size of myocardial infarction following 30 minutes of global ischemia by >50% compared to the untreated control group (rIPC, 12.1\u00b11.7%; APC, 13.5\u00b12.1%; P<0.01 compared to control, 31.3\u00b13.0%)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 5,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

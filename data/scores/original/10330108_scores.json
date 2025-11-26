@@ -1,0 +1,74 @@
+{
+  "pmcid": "10330108",
+  "sha256": "551953995d3a856f91d798c57f25eaae79be00ad3f47d03220dc0157824668a0",
+  "timestamp_utc": "2025-11-09T15:06:31.201892+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.917965952965954,
+    "reading_ease": 30.58529571779576,
+    "word_count": 259
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "In this randomized trial of prescribed exercise versus enhanced usual care during neoadjuvant therapy for pancreatic cancer"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "patients with pancreatic cancer were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients with pancreatic cancer"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Arm A: enhanced usual care or Arm B: prescribed aerobic and resistance exercise during neoadjuvant therapy"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To determine the effects of a preoperative, home-based exercise program on fitness and physical function in patients with pancreatic cancer."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary endpoint was 6-minute walk distance (6MWD; ≥14 meters improvement was clinically meaningful)."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "patients with pancreatic cancer were randomized"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "151 patients were randomized."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "6MWD improved in both Arm A (mean change 18.6±56.8 m, P =0.01) and Arm B (27.3±68.1 m, P =0.002)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "NCT03187951"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

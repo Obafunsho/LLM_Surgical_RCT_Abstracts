@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial Comparing Continuous and Interrupted Suture Techniques for Biliary-Enteric Anastomosis"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "single-centre randomised controlled trial included 82 patients"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "included 82 patients scheduled for elective open BEA between January 2016 and September 2017"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised 1:1 to CS or IS groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy and safety of continuous suture (CS) versus interrupted suture (IS) techniques for biliary-enteric anastomosis (BEA)"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was suture time, measured intraoperatively"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was achieved using block randomisation with allocation concealment via sealed envelopes"
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "Blinding was applied to patients and outcome assessors, but not to surgeons"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Conducted at University Hospital Dresden, this single-centre randomised controlled trial included 82 patients scheduled for elective open BEA between January 2016 and September 2017"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Eighty patients received the allocated intervention (41 CS, 39 IS)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The CS group had a significantly shorter suture time (median 12.0 minutes, IQR 10.0\u201317.0) compared to the IS group (median 22.4 minutes, IQR 15.0\u201328.0; OR 1.26, 95% CI 1.13 to 1.40; P < 0.001)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Mortality and other adverse events were comparable between groups, with one death in the CS group due to pneumonia and multi-organ failure"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT02658643"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

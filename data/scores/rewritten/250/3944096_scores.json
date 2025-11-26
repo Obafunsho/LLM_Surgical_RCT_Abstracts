@@ -1,0 +1,74 @@
+{
+  "pmcid": "3944096",
+  "sha256": "60b5627cb2074a8038eca5abae595ca4e09a308c84d0325c441582c136c716cd",
+  "timestamp_utc": "2025-11-09T22:40:27.460661+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.086572398190047,
+    "reading_ease": 15.861368778280593,
+    "word_count": 208
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Continuous Ropivacaine Infusion for Post-Mastectomy Analgesia"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "60 subjects undergoing unilateral or bilateral mastectomy were randomized"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "eligibility criteria including adult patients undergoing mastectomy. The study was conducted at a single hospital"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomized to receive either perineural ropivacaine 0.4% or normal saline via portable infusion pumps"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the efficacy of adding a multiple-day, ambulatory, continuous ropivacaine paravertebral nerve block"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was average pain on postoperative day (POD) 1, measured on a 0–10 scale"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed using sealed envelopes"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "triple-masked, placebo-controlled trial"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "60 subjects undergoing unilateral or bilateral mastectomy were randomized"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "the ropivacaine group (n=30) was 2 (interquartile range 0–3), compared to 4 (1–5) for the saline group (n=30)"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "95% CI difference in medians, −4.0 to −0.3; P = 0.021"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Trial registration number]"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Carotid Endarterectomy and Carotid Artery Stenting on Dementia Risk in Asymptomatic Extracranial Carotid Artery Disease"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "This retrospective cohort study utilized United States-based insurance claims data from 2010 to 2022"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "487,676 patients with aECAD"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "patients undergoing CEA or CAS and those untreated"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study investigates the effects of carotid endarterectomy (CEA) and carotid artery stenting (CAS) on dementia incidence."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of AD, measured over a mean follow-up of 8.34 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "The study was conducted without randomisation or blinding."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "The study was conducted without randomisation or blinding."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "After matching, 37,317 patients underwent CEA or CAS."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "CEA was associated with a significantly lower AD risk (relative risk = 0.93; 95% confidence interval, 0.86\u20130.99; P = 0.04)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "The study was not registered as a clinical trial."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding sources were not disclosed."
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

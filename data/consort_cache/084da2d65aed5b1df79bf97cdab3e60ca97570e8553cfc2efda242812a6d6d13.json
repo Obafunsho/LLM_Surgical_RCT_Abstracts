@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Dexmedetomidine Sedation in Peripheral Nerve Block Surgery for Diabetic Foot Ulcer and Chronic Limb-Threatening Ischemia"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This single-center, retrospective observational study included 18 patients undergoing peripheral nerve block with dexmedetomidine."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study evaluates the efficacy and safety of dexmedetomidine sedation during peripheral nerve block surgery in these patients."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy and safety of dexmedetomidine sedation during peripheral nerve block surgery in these patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was intraoperative stress, measured on a 6-point scale."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean intraoperative stress score was 0.72, and the mean intraoperative memory score was 2.44."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "One patient experienced bradycardia, and 9 had hypoxemia, all resolved by adjusting dexmedetomidine dosage and encouraging deep breathing."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not applicable."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: No financial interest declared."
+      }
+    },
+    "total_score": 12,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

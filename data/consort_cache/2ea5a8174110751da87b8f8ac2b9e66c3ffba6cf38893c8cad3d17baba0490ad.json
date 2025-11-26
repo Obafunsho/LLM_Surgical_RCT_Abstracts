@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of CYP2C19 Metabolizer Phenotype and POAF Incidence after OPCABG"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at Sichuan Provincial People\u2019s Hospital, this retrospective cohort study included 320 patients undergoing elective first-time OPCABG from May 2017 to November 2023."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were categorized into normal metabolizer (NM), intermediate metabolizer (IM), and poor metabolizer (PM) groups based on CYP2C19 genotyping."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of POAF within the first week post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Conducted at Sichuan Provincial People\u2019s Hospital, this retrospective cohort study included 320 patients undergoing elective first-time OPCABG from May 2017 to November 2023."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "POAF incidence was 20.9% in the NM group, 35.7% in the IM group (HR 1.843, 95% CI 1.155 to 2.940; P = 0.0076), and 57.8% in the PM group (HR 3.363, 95% CI 1.753 to 6.499; P < 0.0001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding sources were not disclosed."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

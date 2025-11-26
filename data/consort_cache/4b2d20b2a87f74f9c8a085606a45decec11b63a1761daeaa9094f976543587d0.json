@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Goal Attainment Scaling-Based Rehabilitation in Knee Arthroplasty: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "This single-center randomised controlled trial included patients younger than 65 years, working outside the home, and scheduled for unicompartmental or total KA."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients younger than 65 years, working outside the home, and scheduled for unicompartmental or total KA. The study was conducted at a regional teaching hospital."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "GAS-based rehabilitation involved preoperative development of personal activity goals with a physiotherapist, while standard rehabilitation consisted of regular outpatient physiotherapy."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate whether goal attainment scaling (GAS)-based rehabilitation improves satisfaction with postoperative activities in patients undergoing knee arthroplasty (KA) compared to standard rehabilitation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was satisfaction with activities of daily living, work, and leisure-time activities, measured using visual analogue scales (VAS) at 1 year postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using block randomisation with allocation concealment via sequentially numbered opaque envelopes."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Participants, researchers, and physiotherapists were unblinded."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 120 patients were randomised 1:1 to either GAS-based rehabilitation or standard rehabilitation."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "53 in the GAS group and 58 in the control group analysed using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Satisfaction with work activities was significantly higher in the GAS group (\u03b2 = 10.7 points, 98% CI = 2.0 to 19.4 points)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NTR5251"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 21,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

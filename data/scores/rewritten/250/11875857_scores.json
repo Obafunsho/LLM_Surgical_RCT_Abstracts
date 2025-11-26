@@ -1,0 +1,74 @@
+{
+  "pmcid": "11875857",
+  "sha256": "9d297d3b17e85c2145d135db1b95398fac6dd65242b46557e8679ad5dfab68a9",
+  "timestamp_utc": "2025-11-09T22:09:42.385396+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.577499999999997,
+    "reading_ease": 11.877500000000026,
+    "word_count": 240
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Multi-Arterial vs. Single-Arterial Grafting in OPCABG for Patients with Reduced Left Ventricular Function"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A total of 86 patients were randomised"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients with a left ventricular ejection fraction of less than 50% undergoing OPCABG."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "multi-arterial grafting versus single-arterial grafting"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the perioperative and mid-term outcomes of multi-arterial grafting versus single-arterial grafting in off-pump coronary artery bypass grafting (OPCABG) for patients with reduced left ventricular function."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of major adverse cardiovascular events (MACE) over a follow-up period of 29.28±14.84 months."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 86 patients were randomised: 22 to the multi-arterial group and 64 to the single-arterial group, from January 2018 to December 2021."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The multi-arterial group had a higher incidence of postoperative hypotension (34.78% vs. 11.54%, P=0.009)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "The multi-arterial group had a higher incidence of postoperative hypotension (34.78% vs. 11.54%, P=0.009)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

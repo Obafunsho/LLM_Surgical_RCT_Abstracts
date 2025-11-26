@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Phase 2 Trial of Imlifidase for Desensitization in Kidney Transplantation"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "open-label, single-arm, phase 2 trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult patients with a median calculated panel-reactive antibody (cPRA) of 99.83% were enrolled."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Imlifidase was administered intravenously to convert positive crossmatch tests to negative within 24 hours."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates imlifidase's efficacy in converting positive crossmatch tests to negative, enabling transplantation."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was crossmatch conversion, with secondary outcomes including donor-specific antibody levels, renal function, and safety."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "open-label"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "19 enrolled patients"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "18 received a full dose of imlifidase"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "89.5% achieving crossmatch conversion within 24 hours."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Seven adverse events were related to treatment, all mild to moderate."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov NCT02790437."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by Hansa Biopharma AB."
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

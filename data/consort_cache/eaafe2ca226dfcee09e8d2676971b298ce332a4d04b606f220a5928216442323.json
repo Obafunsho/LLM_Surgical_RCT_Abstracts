@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Embolic Protection Devices in Surgical Aortic Valve Replacement"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this randomised controlled trial, 383 patients undergoing SAVR"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "383 patients undergoing SAVR, with 41% receiving concomitant coronary artery bypass grafting (CABG)"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "to assess the efficacy of embolic protection devices"
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was 90-day functional status, neurocognitive decline from pre-surgical baseline, and quality of life (QoL)."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was conducted using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to group assignments."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "383 patients undergoing SAVR"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Stroke was associated with longer hospital stays (HR 0.62; 95% CI 0.42\u20130.94; p=0.02) and poorer outcomes at 90 days, including higher modified Rankin scores (OR 5.9; 95% CI 1.7\u201320.1; p=0.01), depression (OR 5.3; 95% CI 1.6\u201317.3; p=0.006), and neurocognitive decline (OR 7.8; 95% CI 2.3\u201326.4; p=0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "By day 7, 25 (6.6%) patients experienced stroke, and 103 (28.5%) had delirium."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: [Registration number]."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: [Source of funding]."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

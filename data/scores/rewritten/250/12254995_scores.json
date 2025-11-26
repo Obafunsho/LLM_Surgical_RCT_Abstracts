@@ -1,0 +1,74 @@
+{
+  "pmcid": "12254995",
+  "sha256": "72c08be00f3f365005509d2705e7057e4fdcfc9c8c3e24ec6ee824f6c41395c5",
+  "timestamp_utc": "2025-11-09T22:19:51.412997+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.685179723502308,
+    "reading_ease": 15.543960061443954,
+    "word_count": 217
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Concomitant Tricuspid Valve Repair in Moderate Tricuspid Regurgitation During Left-Sided Valve Surgery"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Eligibility criteria included studies comparing outcomes of mitral/aortic valve surgery with or without CTR for functional TR."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study aims to compare clinical outcomes of patients undergoing left-sided valve procedures with or without CTR."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aims to compare clinical outcomes of patients undergoing left-sided valve procedures with or without CTR."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was cardiac mortality, and secondary outcomes included overall mortality, stroke, wound infection, reoperation, atrial fibrillation, renal failure, intensive care stay, and permanent pacemaker implantation."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "CTR significantly reduced cardiac mortality (p < 0.0001) despite longer CPB (p < 0.00001) and X-Clamp times (p < 0.00001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No differences were observed in stroke, wound infection, atrial fibrillation, renal failure, or intensive care stay."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Trial registration and funding details were not provided."
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

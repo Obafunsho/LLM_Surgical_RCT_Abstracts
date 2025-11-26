@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "multicenter, randomized, double-blind, placebo-controlled trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "multicenter, randomized, double-blind, placebo-controlled trial took place at 23 sites in Germany and Canada from January 2015 to January 2021"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Adult cardiac surgery patients with a European System for Cardiac Operative Risk Evaluation II score\u2013predicted mortality of 5% or more or planned combined surgical procedures were randomized."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomly assigned (1:1) by a web-based system to receive either perioperative intravenous high-dose selenium supplementation of 2000 \u03bcg/L of sodium selenite prior to cardiopulmonary bypass, 2000 \u03bcg/L immediately postoperatively, and 1000 \u03bcg/L each day in intensive care for a maximum of 10 days or placebo."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "To assess the ability of high-dose intravenous sodium selenite treatment to reduce postoperative organ dysfunction and mortality in cardiac surgery patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary end point was a composite of the numbers of days alive and free from organ dysfunction during the first 30 days following cardiac surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomly assigned (1:1) by a web-based system"
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "multicenter, randomized, double-blind, placebo-controlled trial"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 1416 adult cardiac surgery patients were analyzed"
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "A total of 1416 adult cardiac surgery patients were analyzed"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Selenium did not increase the number of persistent organ dysfunction\u2013free and alive days over the first 30 postoperative days (median [IQR], 29 [28-30] vs 29 [28-30]; P =\u2009.45). The 30-day mortality rates were 4.2% in the selenium and 5.0% in the placebo group (odds ratio, 0.82; 95% CI, 0.50-1.36; P =\u2009.44)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Safety outcomes did not differ between the groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "ClinicalTrials.gov Identifier: NCT02002247"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 22,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

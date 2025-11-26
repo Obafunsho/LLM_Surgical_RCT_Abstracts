@@ -1,0 +1,74 @@
+{
+  "pmcid": "7863817",
+  "sha256": "3734d5256528ae1de5f7cb95944cc17e607a63598e33658bff63e16fa93c4b8f",
+  "timestamp_utc": "2025-11-10T00:07:36.002858+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 10.671165570830844,
+    "reading_ease": 38.82642956764295,
+    "word_count": 239
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Title: Randomised Controlled Trial of Carotid Artery Stenting Using Roadsaver Stent"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "298 CAS procedures in 287 non-consecutive patients (203 men, mean age 70.5 ±8.6 years) with symptomatic or high-risk extracranial carotid artery stenosis."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "evaluates the safety and effectiveness of the Roadsaver double-nitinol-layer-micromesh stent in CAS."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the safety and effectiveness of the Roadsaver double-nitinol-layer-micromesh stent in CAS."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Clinical and neurological examinations and duplex ultrasound were conducted before CAS, before discharge, at 1, 6, and 12 months, then annually."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "All CAS procedures were successful, reducing carotid stenosis from 84.9 ±9.9% to 11.0 ±9.4% (p < 0.001)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "In-hospital, 1 major (0.3%) and 3 minor (1.34%) ischemic strokes occurred, with 2 (0.7%) deaths due to cerebral hemorrhage."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 10,
+    "max_score": 25
+  }
+}

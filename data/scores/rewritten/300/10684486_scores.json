@@ -1,0 +1,74 @@
+{
+  "pmcid": "10684486",
+  "sha256": "162c2b11e800e4f99b7654a224301a8677b0814aeff10305c4b91d611b2fd0da",
+  "timestamp_utc": "2025-11-09T23:08:30.858854+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 9.947678571428572,
+    "reading_ease": 39.087706043956075,
+    "word_count": 224
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Closed and Open Lateral Internal Sphincterotomy for Chronic Anal Fissure"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were adults with chronic anal fissure."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "This study evaluates the efficacy and safety of closed versus open lateral internal sphincterotomy (LIS)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the efficacy and safety of closed versus open lateral internal sphincterotomy (LIS)."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the postoperative healing rate, assessed over a follow-up period."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation methods varied, with inconsistent reporting on allocation concealment and blinding."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Randomisation methods varied, with inconsistent reporting on allocation concealment and blinding."
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Closed LIS showed higher recurrence rates (RR = 1.73, 95% CI 0.86–3.47) and lower incontinence rates (RR = 0.60, 95% CI 0.37–0.96) compared to open LIS."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events, including postoperative pain and infection, were more frequent in the open LIS group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: PROSPERO CRD42023392626."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 13,
+    "max_score": 25
+  }
+}

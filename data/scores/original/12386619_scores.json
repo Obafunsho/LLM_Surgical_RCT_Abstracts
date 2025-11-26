@@ -1,0 +1,74 @@
+{
+  "pmcid": "12386619",
+  "sha256": "68536f8f87464ab2b26f857989d7e0c034d4dc47ee02c52c513ea98ccc6e368f",
+  "timestamp_utc": "2025-11-09T15:39:17.641467+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 17.687500000000004,
+    "reading_ease": -1.0237499999999784,
+    "word_count": 276
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Obstructive sleep apnea (OSA) is a highly prevalent and underdiagnosed sleep disorder with significant cardiovascular implications, namely in atrial fibrillation (AF) patients."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Inclusion criteria targeted adult AF populations assessed for OSA or sleep-disordered breathing."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "Our aim was to synthesize recent evidence on OSA prevalence in AF populations and to critically evaluate the diagnostic methods and screening strategies employed in clinical studies."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 3,
+    "max_score": 25
+  }
+}

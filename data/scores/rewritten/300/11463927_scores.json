@@ -1,0 +1,74 @@
+{
+  "pmcid": "11463927",
+  "sha256": "ecc60de2277de138b590b1728a7a42413f86c047e6377eb61a14816247473a2c",
+  "timestamp_utc": "2025-11-09T23:16:30.126955+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.6476211531659,
+    "reading_ease": 32.361612133003206,
+    "word_count": 257
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Caudal Adjuvants in Pediatric Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive a caudal block with dexmedetomidine 1 μg/kg (Group D), morphine 30 μg/kg (Group M), or clonidine 1.5 μg/kg (Group C), along with 0.2% ropivacaine."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "63 children aged 1–6 years with ASA physical status I or II were enrolled. Conducted at a tertiary hospital in southern India."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomised to receive a caudal block with dexmedetomidine 1 μg/kg (Group D), morphine 30 μg/kg (Group M), or clonidine 1.5 μg/kg (Group C), along with 0.2% ropivacaine."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the efficacy of morphine, clonidine, and dexmedetomidine as adjuvants to 0.2% ropivacaine in caudal blocks for extending postoperative analgesia in children undergoing infraumbilical surgeries."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the duration of analgesia, defined as the time until the first rescue analgesic was required."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated with allocation concealment using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding included patients, clinicians, and outcome assessors."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "63 children aged 1–6 years with ASA physical status I or II were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The median duration of analgesia was 380 minutes for Group D, 360 minutes for Group C, and 405 minutes for Group M, with no statistically significant difference (P = 0.843)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Total perioperative opioid use and side effects were similar across groups. Intraoperative hypotension occurred in 43.5% of Group D, 27.8% of Group C, and 22.7% of Group M (P = 0.299). Postoperative nausea and vomiting were observed in 21.7% of Group D, 5.6% of Group C, and 18.2% of Group M (P = 0.382)."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: CTRI/2020/07/026481."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: None."
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

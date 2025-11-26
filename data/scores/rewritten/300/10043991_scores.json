@@ -1,0 +1,74 @@
+{
+  "pmcid": "10043991",
+  "sha256": "a00a7e4415bca40b3e0cde91fc0a213f5bc1afb4ff09a799b08aa1078c908a17",
+  "timestamp_utc": "2025-11-09T23:03:38.532172+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 14.689918478260875,
+    "reading_ease": 17.90705163043478,
+    "word_count": 253
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intraoperative Mechanical Ventilation Strategies"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A randomised controlled trial was conducted with patients undergoing major abdominal surgery at a tertiary care hospital."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "patients undergoing major abdominal surgery at a tertiary care hospital"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomly assigned to receive either a lung protective ventilation strategy with low tidal volumes (6-8 mL/kg) and PEEP of 5-10 cm H2O or a traditional ventilation strategy with higher tidal volumes (10-12 mL/kg) and zero PEEP."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to evaluate the effects of different intraoperative mechanical ventilation strategies on perioperative lung injury and surgical outcomes."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of postoperative pulmonary complications, measured within 5 days post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Blinding was applied to outcome assessors, patients, and clinicians."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 200 participants were randomised: 100 to the lung protective group and 100 to the traditional group, between January 2020 and June 2021."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "Analysis was conducted on 98 participants in the lung protective group and 97 in the traditional group using an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The lung protective group showed a significant reduction in postoperative pulmonary complications (mean difference = 5.2%, 95% CI 3.1 to 7.3; p = 0.01)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were reported in 3% of the lung protective group and 1% of the traditional group, with mild gastrointestinal side-effects being the most common."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: NCT12345678."
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "Funding: This trial was funded by the National Institutes of Health."
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  }
+}

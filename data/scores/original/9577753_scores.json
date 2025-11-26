@@ -1,0 +1,74 @@
+{
+  "pmcid": "9577753",
+  "sha256": "9d5ac9fff3a5f0894cf95b3bbd1bdfce21fe034b5311c1919a11187304bbac40",
+  "timestamp_utc": "2025-11-09T16:21:56.279440+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.293893442622949,
+    "reading_ease": 34.083463114754124,
+    "word_count": 305
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "This study included patients with AKI diagnosed within 4 days after CABG during the period January 2016 to December 2020."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were divided into BNP and non-BNP groups according to whether rh-BNP was injected intravenously after the operation."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study sought to explore the efficacy of rh-BNP in patients with AKI after bypass surgery."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The decreasing trend of postoperative serum creatinine levels (P<0.001) and postoperative urine volume (P=0.001) within 4 days of surgery were independent associated with rh-BNP."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 395 patients, including 56 and 339 patients in the BNP and non-BNP groups, respectively, were included in this study."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "From PSM, 175 patients, including 44 and 131 patients in the BNP and non-BNP groups, respectively, were included in this study."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The decreasing trend of postoperative serum creatinine levels in the BNP group was significantly stronger than that in the non-BNP group (0.04±0.28 vs. −0.16±0.36, P=0.001)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 11,
+    "max_score": 25
+  }
+}

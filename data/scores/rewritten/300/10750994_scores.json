@@ -1,0 +1,74 @@
+{
+  "pmcid": "10750994",
+  "sha256": "59beeac30a641bacf040a84fa40b4847d658bf4555b1164b700c8b6dc2034549",
+  "timestamp_utc": "2025-11-09T23:08:45.855665+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.420324153757893,
+    "reading_ease": 16.184909638554217,
+    "word_count": 249
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Reoperation Techniques for Mitral Valve Repair Failure"
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "11 patients with moderately severe or severe mitral regurgitation due to recurrent prolapse after initial posterior leaflet repair with artificial chordae and annuloplasty, from January 1, 2008, to January 31, 2023."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Re-repair techniques included creation of new, shorter artificial chordae (n=5), posterior leaflet resection (n=5), and placement of a new annuloplasty (n=8)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study assesses the outcomes of different reoperation techniques for mitral valve repair failure."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the degree of mitral regurgitation post-reoperation, evaluated by echocardiogram at discharge and follow-up (median 20 months)."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of the 11 patients, 10 underwent mitral valve re-repair, and one had valve replacement."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Of the 11 patients, 10 underwent mitral valve re-repair, and one had valve replacement."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "All patients left the operating room with no or trace mitral regurgitation, confirmed on predischarge echocardiogram. At last follow-up, all patients had mild MR or less."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There was no operative mortality or major complications."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial registration: IRB# 23-844."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

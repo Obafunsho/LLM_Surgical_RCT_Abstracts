@@ -1,0 +1,74 @@
+{
+  "pmcid": "4397744",
+  "sha256": "ce8eec61148fce39523a19f25cdbf55e250e0d15fa1b9504d94652f1595eaf72",
+  "timestamp_utc": "2025-11-09T15:59:03.841425+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.65607142857143,
+    "reading_ease": 37.572261904761945,
+    "word_count": 336
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A priori power analysis suggested that 34 legs were required to achieve statistical significance of 0.05 with 80% of power to detect a 50% difference in treatment effect between treatment and control groups."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Between April 2010 and January 2011, we evaluated 36 patients undergoing bilateral tibia lengthening who met prespecified inclusion criteria."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "BtX-A (200 IU) was injected at the calf muscle only in one leg for each patient and the same amount of sterile normal saline was injected into the other leg as a control."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We hypothesized that it may decrease calf pain and increase ROM of the surrounding joints by reducing muscle stiffness."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Clinical evaluation included a VAS score for calf pain and measurement of ROM of the knees and ankles and calf circumference, with evaluations performed in a double-blinded manner."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Selection of the leg receiving the toxin was randomized."
+      },
+      "Blinding": {
+        "score": 2,
+        "evidence": "with evaluations performed in a double-blinded manner."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Between April 2010 and January 2011, we evaluated 36 patients undergoing bilateral tibia lengthening who met prespecified inclusion criteria."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 1,
+        "evidence": "There were no differences in calf pain, knee and ankle ROM, and maximal calf circumferences between the two legs at each time point."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  }
+}

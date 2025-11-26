@@ -1,0 +1,74 @@
+{
+  "pmcid": "12146126",
+  "sha256": "a5957e1fc26e4eeddf4bcd1f076c7f6e0395f8a2b024f68328321e4881726807",
+  "timestamp_utc": "2025-11-09T23:28:13.623635+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 8.47511811023622,
+    "reading_ease": 51.700333131435514,
+    "word_count": 254
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Customized Implants for Tibial Plateau Fractures"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants were randomised to receive either customized implants or standard medial dual plates (MDPs)."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants aged 18–80 years with TPFs requiring surgical open reduction with internal fixation were included."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Patients were randomised to receive either customized implants or standard medial dual plates (MDPs)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to assess the feasibility and effectiveness of customized implants for tibial plateau fractures (TPFs) and compare their mechanical strength to standard implants."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the Lysholm score, measured at 12 months post-surgery."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was computer-generated, and allocation was concealed using sealed envelopes."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applied."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "Ten patients were randomised, with five receiving customized implants and five receiving MDPs."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "The analysis was per-protocol."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "The mean difference was 3.4 (95% CI 1.2 to 5.6; p = 0.02)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported in either group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: 2022KY108-KS001"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

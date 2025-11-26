@@ -1,0 +1,32 @@
+{
+  "pmcid": "3144300",
+  "pmid": "21397260",
+  "title": "Reporting adverse events in a surgical trial for complex congenital heart disease: The Pediatric Heart Network experience",
+  "abstract": "Objective: The purpose of this analysis was to evaluate a novel strategy for reporting adverse events in the Pediatric Heart Network’s randomized surgical trial of systemic–pulmonary artery shunt versus right ventricle–pulmonary artery conduit in infants with hypoplastic left heart syndrome. The strategy was developed to align the reporting process with the needs of a surgical trial while maintaining participant safety.\n\nMethods: Adverse event reporting was analyzed for 2 groups of study subjects: those randomized to a trial arm during a period in which a standard adverse event reporting system was used (period 1) and those randomized after institution of a system that focused serious adverse event reporting on 6 sentinel events (period 2). The analysis encompassed the period from randomization (Norwood surgery) to hospital discharge from stage II surgery. Adverse event rates were compared using a Poisson regression model for the number of events per subject.\n\nResults: From period 1 to period 2, the rate of serious adverse events requiring expedited reporting decreased as expected (0.42 vs 0.14/subject/month of follow-up; P < .001). Subjects with a serious (sentinel) adverse event in period 2 had a significantly higher rate of death and cardiac transplantation.\n\nConclusions: The new adverse event reporting system successfully targeted subjects at highest risk, while decreasing the administrative burden associated with adverse event reports. This methodology may be of benefit in trials evaluating surgical or device-based interventions and in critically ill populations where many common clinical events would qualify as serious adverse events in the context of a drug trial.",
+  "authors": [
+    "Lisa Virzi",
+    "Victoria Pemberton",
+    "Richard G. Ohye",
+    "Sarah Tabbutt",
+    "Minmin Lu",
+    "Teresa C. Atz",
+    "Teresa Barnard",
+    "Carolyn Dunbar-Masterson",
+    "Nancy S. Ghanayem",
+    "Jeffrey P. Jacobs",
+    "Linda M. Lambert",
+    "Alan Lewis",
+    "Nancy Pike",
+    "Christian Pizarro",
+    "Elizabeth Radojewski",
+    "David Teitel",
+    "Mingfen Xu",
+    "Gail D. Pearson"
+  ],
+  "journal": "The Journal of thoracic and cardiovascular surgery",
+  "year": "2011",
+  "full_text": "",
+  "pdf_url": "",
+  "pdf_downloaded": false,
+  "pdf_embedded_viewer": false
+}

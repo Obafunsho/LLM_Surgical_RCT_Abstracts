@@ -1,0 +1,74 @@
+{
+  "pmcid": "3363360",
+  "sha256": "14ec28f2417d8f1c272f7c7b2a1cb125f4be91621588d20e7f65ba48650efdd5",
+  "timestamp_utc": "2025-11-09T15:52:25.405416+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.065980662983428,
+    "reading_ease": 13.912156998158395,
+    "word_count": 181
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "We performed a single-blinded, parallel-group, randomized controlled trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "parallel-group, randomized controlled trial"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "All patients undergoing left pancreatectomy at a large tertiary hospital were eligible for participation."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "comparing stapled left pancreatectomy with stapled left pancreatectomy using mesh reinforcement of the staple line with either Seamguard ® or Peristrips Dry ®."
+      },
+      "Objective": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "Primary outcome measure was clinically significant leak as defined by the ISGPF pancreatic leak grading system."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Patients were randomized to either mesh reinforcement or no mesh reinforcement intraoperatively"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Patients were blinded to the result of their randomization for 6 weeks."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "One hundred patients were randomized to either mesh (54) or no mesh (46)"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "ISGPF grade B and C leaks were seen in 1.9% (1/53) of patients undergoing resection with mesh reinforcement and 20% (11/45) of patients without mesh reinforcement (p=0.0007)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "There was one death in each group."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Trial Registration: Clinicaltrials.gov: NCT01359410"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

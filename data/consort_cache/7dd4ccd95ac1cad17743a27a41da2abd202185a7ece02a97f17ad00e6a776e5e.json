@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial on Surgeon Bias in Recommendations for Total Knee Arthroplasty"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "A randomised controlled trial was conducted using standardized patient scenarios."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Orthopaedic surgeons attending the 2012 annual meetings of the New York State Society of Orthopaedic Surgeons and American Association of Hip and Knee Surgeons were recruited."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized to view one of three experimental scenarios (white female, black male, black female) after viewing a control scenario (white male)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the effect of surgeon bias on recommendations for total knee arthroplasty (TKA) based on patient race and sex."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the recommendation for TKA, measured immediately after viewing each scenario."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Participants were randomized to view one of three experimental scenarios."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Of 113 surgeons, 39 viewed the white male plus black female scenario, 37 viewed the white male plus black male scenario, and 37 viewed the white male plus white female scenario."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "Concordant responses were 85%, 89%, and 77%, respectively, with no significant effect of patient race or sex (p = 0.99, p = 0.32, p = 0.71)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not reported."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

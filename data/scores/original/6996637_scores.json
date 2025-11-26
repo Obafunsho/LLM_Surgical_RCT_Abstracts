@@ -1,0 +1,74 @@
+{
+  "pmcid": "6996637",
+  "sha256": "569ac4dcfd71bee7959fa109689632b18346977055ab7492d2cc16035f34b03d",
+  "timestamp_utc": "2025-11-09T16:11:31.214417+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.611628959276022,
+    "reading_ease": 24.71454751131222,
+    "word_count": 260
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "The present study was undertaken to examine the feasibility of assessing adjuvant statin therapy in patients with operable OAC in a phase III RCT."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "centrally allocated (1 : 1) to simvastatin 40 mg or matching placebo by block randomization, stratified by centre."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "adults with OAC (including Siewert I–II lesions) who had undergone oesophagectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "centrally allocated (1 : 1) to simvastatin 40 mg or matching placebo"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The present study was undertaken to examine the feasibility of assessing adjuvant statin therapy in patients with operable OAC in a phase III RCT."
+      },
+      "Method_Outcome": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "centrally allocated (1 : 1) to simvastatin 40 mg or matching placebo by block randomization, stratified by centre."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Participants, clinicians and investigators were blinded to treatment allocation."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 120 patients were assessed for eligibility at four centres, of whom 32 (26·7 per cent) were randomized, 16 in each group."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Seven patients withdrew."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Participants allocated to simvastatin had lower low‐density lipoprotein cholesterol levels by 3 months (adjusted mean difference −0·83 (95 per cent c.i. −1·4 to −0·22) mmol/l; P = 0·009)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were similar between the groups."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "Registration number: ISRCTN98060456 ( http://www.isrctn/com )."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 19,
+    "max_score": 25
+  }
+}

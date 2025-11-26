@@ -1,0 +1,74 @@
+{
+  "pmcid": "3638867",
+  "sha256": "d373e2bbd84def625cffdd0fa691075d415974d77dd95278be0971cf43b15e2b",
+  "timestamp_utc": "2025-11-09T23:49:20.341069+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.98714285714286,
+    "reading_ease": 24.681666666666672,
+    "word_count": 268
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Surgical Treatment for Ischemic Heart Failure (STICH) Trial: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "Conducted as a multicenter international trial, STICH enrolled patients with heart failure, left ventricular ejection fraction ≤0.35, and coronary artery disease."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "STICH enrolled patients with heart failure, left ventricular ejection fraction ≤0.35, and coronary artery disease."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "CABG with or without surgical ventricular reconstruction (SVR) versus medical therapy (MED) alone"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "The STICH trial investigates the comparative effectiveness of coronary artery bypass graft surgery (CABG) with or without surgical ventricular reconstruction (SVR) versus medical therapy (MED) alone in patients with ischemic cardiomyopathy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were long-term survival and survival free of cardiac hospitalization, assessed over a follow-up period."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization employed a computer-generated sequence with allocation concealment."
+      },
+      "Blinding": {
+        "score": 3,
+        "evidence": "Due to the nature of the interventions, blinding was not feasible."
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "A total of 2,136 participants were randomized: 1,067 to CABG with or without SVR and 1,069 to MED alone."
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "The analysis followed an intention-to-treat approach."
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "CABG with intensive MED demonstrated a significant improvement in long-term survival compared to MED alone (hazard ratio = 0.86, 95% CI 0.75 to 0.98; p = 0.03)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events were comparable between groups, with no significant differences in frequency or severity."
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial is registered under NCT00023595"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "funded by the NHLBI"
+      }
+    },
+    "total_score": 25,
+    "max_score": 25
+  }
+}

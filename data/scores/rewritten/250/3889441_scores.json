@@ -1,0 +1,74 @@
+{
+  "pmcid": "3889441",
+  "sha256": "6c640422b90b9d8462ba7351c2488c9fe161b75ee395bd605dde4c6cba296755",
+  "timestamp_utc": "2025-11-09T22:39:54.455840+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.025748987854254,
+    "reading_ease": 39.1679352226721,
+    "word_count": 247
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "A Randomised Controlled Trial Comparing Hemiarthroplasty and Internal Fixation for Displaced Femoral Neck Fractures"
+      },
+      "Trial_Design": {
+        "score": 2,
+        "evidence": "In this randomised controlled trial, 222 patients with FNF were randomised to receive either internal fixation with two parallel screws or bipolar hemiarthroplasty."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "222 patients with FNF were randomised to receive either internal fixation with two parallel screws or bipolar hemiarthroplasty. The study was conducted in a hospital setting."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised to receive either internal fixation with two parallel screws or bipolar hemiarthroplasty."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the long-term outcomes of hemiarthroplasty versus internal fixation for displaced femoral neck fractures (FNF) in patients over 60 years."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was hip function, measured by the Harris hip score, at a minimum follow-up of 5 years."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomisation was performed using a computer-generated sequence, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "Outcome assessors were blinded to the treatment groups."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "A total of 110 patients were randomised to hemiarthroplasty and 112 to internal fixation."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "At a mean follow-up of 5.9 years, 68 of the 70 surviving patients were analysed."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The mean Harris hip score was 66 in the internal fixation group and 67 in the hemiarthroplasty group (p = 0.96)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Reoperation was more frequent in the internal fixation group."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 18,
+    "max_score": 25
+  }
+}

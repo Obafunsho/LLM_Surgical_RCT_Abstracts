@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Isolated Hepatic Perfusion with 5-FU and Oxaliplatin for Unresectable Metastatic Liver Lesions"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "A standard 3 \u00d7 3 Phase I design was employed."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Participants were patients with unresectable isolated colorectal cancer (CRC) liver metastases scheduled for hepatic artery infusion (HAI) pump, conducted at a single center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "IHP involved fixed-dose oxaliplatin with escalating 5-FU doses."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to determine the safety and maximum tolerated dose (MTD) of 5-FU with oxaliplatin via isolated hepatic perfusion (IHP) in patients with unresectable metastatic liver lesions."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the MTD, assessed over a 6-month period."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Randomisation and allocation concealment methods were not applicable."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not implemented."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Twelve patients were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "At 6-month follow-up, 9 patients (82%) showed partial response, and 2 (18%) had stable disease."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "At 6-month follow-up, 9 patients (82%) showed partial response, and 2 (18%) had stable disease."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Adverse events included 4 grade 3 and 1 grade 4 events."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Nonspecific low back pain is prevalent, and electroacupuncture is one potential treatment option."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Six studies used electroacpuncture with standard therapy compared to standard therapy alone. Four studies compared electroacupuncture with manual needling therapies."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This systematic review and meta-analysis aimed to assess the efficacy of electroacupuncture for nonspecific low back pain in comparison to standard therapy and manual needling therapy."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "Outcomes measured included the Visual Analog Scale and Numerical Rating Scale."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "the difficulty of blinding"
+      },
+      "Number_Randomised": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "electroacupuncture with standard therapy resulted in a statistically significant large effect in reduction in pain (standardized mean difference (SMD) -0.83, 95% CI -1.22; -0.43, P < 0.0001)"
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}

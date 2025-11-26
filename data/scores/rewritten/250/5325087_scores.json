@@ -1,0 +1,74 @@
+{
+  "pmcid": "5325087",
+  "sha256": "c239550058bbf48b21c2c20baf563b609e9dba77da280a71f1fa85c68f40571e",
+  "timestamp_utc": "2025-11-09T22:45:59.182818+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 12.21840623428859,
+    "reading_ease": 31.979208144796416,
+    "word_count": 234
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Damage Control Laparotomy Versus Definitive Surgical Management in Trauma Patients"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Trauma patients at 12 level 1 North American trauma centers were randomised"
+      },
+      "Participants": {
+        "score": 1,
+        "evidence": "Trauma patients at 12 level 1 North American trauma centers"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "damage control laparotomy (DCL) versus definitive surgical management (DSM)"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial aimed to evaluate the impact of damage control laparotomy (DCL) versus definitive surgical management (DSM) on mortality and complications in trauma patients."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcomes were 24-hour and 30-day mortality."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "randomised based on transfusion ratios as described in the PROPPR trial"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "329 patients undergoing emergent laparotomy: 213 DCL and 116 DSM"
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "DCL was not associated with 30-day mortality (OR 2.33, CI 0.97-5.60)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "Sepsis and ventilator-associated pneumonia occurred more frequently with DCL (p<0.05)."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 14,
+    "max_score": 25
+  }
+}

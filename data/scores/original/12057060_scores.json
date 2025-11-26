@@ -1,0 +1,74 @@
+{
+  "pmcid": "12057060",
+  "sha256": "a22d411b77b9402d5c1e5b573d357ab2a2e763968823d3f19e030ec571fe6add",
+  "timestamp_utc": "2025-11-09T15:29:00.950300+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.834285714285716,
+    "reading_ease": 25.902118644067826,
+    "word_count": 236
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "Background: We carried out a study to assess the efficacy of tranexamic acid in preventing scar tissue in the craniectomy area in rats."
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Our study consisted of control and tranexamic acid groups with 10 subjects each."
+      },
+      "Participants": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "In the controls, the pads were soaked with saline and in the tranexamic acid group the pads were soaked with 30 mg/kg tranexamic acid."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "We carried out a study to assess the efficacy of tranexamic acid in preventing scar tissue in the craniectomy area in rats."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The degree of scar formation was evaluated pathologically and by electron microscopy."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Our study consisted of control and tranexamic acid groups with 10 subjects each."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "The outcomes demonstrated that no adhesions were present in the rats of the Tranexamic acid group, whereas the control group exhibited severe scar tissue [eight of ten rats (80%)] with adhesions."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 8,
+    "max_score": 25
+  }
+}

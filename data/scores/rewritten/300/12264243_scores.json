@@ -1,0 +1,74 @@
+{
+  "pmcid": "12264243",
+  "sha256": "2fc52668095ea933ee9cf2e20148fa48ae53c8e198e6235d846a222d097154af",
+  "timestamp_utc": "2025-11-09T23:31:44.087363+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 11.407868199911544,
+    "reading_ease": 35.584655019902726,
+    "word_count": 238
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 0,
+        "evidence": "This study evaluates the infarct growth rate (IGR) as a predictor of HT compared to baseline infarct volume."
+      },
+      "Trial_Design": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligible participants were patients with anterior circulation LVOS, witnessed symptom onset, baseline MRI within 24 hours, and available day 1 imaging."
+      },
+      "Intervention": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates the infarct growth rate (IGR) as a predictor of HT compared to baseline infarct volume."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was any HT on day 1 imaging."
+      },
+      "Randomisation_Allocation": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "The study included 775 patients (mean age 70.5 years)."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "A faster IGR was independently associated with a higher risk of HT (adjusted OR 1.35; 95% CI 1.16–1.57)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Not reported"
+      }
+    },
+    "total_score": 9,
+    "max_score": 25
+  }
+}

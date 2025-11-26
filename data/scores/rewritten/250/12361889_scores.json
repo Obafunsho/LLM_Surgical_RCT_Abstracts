@@ -1,0 +1,74 @@
+{
+  "pmcid": "12361889",
+  "sha256": "de521545c57876bdb8121423e71283b051ff366e24ddb52907f7e4c006332746",
+  "timestamp_utc": "2025-11-09T22:22:55.332991+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 13.169431201321693,
+    "reading_ease": 21.54901109275434,
+    "word_count": 223
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Immediate vs. Early Urinary Catheter Removal after Radical Gastrectomy: A Randomised Controlled Trial"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "adult patients undergoing radical gastrectomy were randomised 1:1 to IR or ER groups"
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Conducted at a university-affiliated hospital in China, adult patients undergoing radical gastrectomy"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "randomised 1:1 to IR or ER groups"
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This randomised controlled trial evaluated the feasibility of immediate removal (IR) versus early removal (ER) of urinary catheters following radical gastrectomy"
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was postoperative urinary retention (POUR) with a non-inferiority margin of 10%"
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomisation was computer-generated"
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "neither investigators nor patients were blinded"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "From December 2021 to June 2024, 248 patients were assessed"
+      },
+      "Number_Analysed": {
+        "score": 2,
+        "evidence": "92 in the IR group and 89 in the ER group analysed using intention-to-treat analysis"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "POUR incidence was 4.4% in the IR group and 3.4% in the ER group (P = 0.733; 1.0% difference, 95% CI −4.6 to 6.6%)"
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No severe adverse events were reported"
+      },
+      "Trial_Registration": {
+        "score": 1,
+        "evidence": "The trial was registered under NCT06718114"
+      },
+      "Funding": {
+        "score": 1,
+        "evidence": "The study was funded by the Affiliated Hospital of Nanjing University of Chinese Medicine"
+      }
+    },
+    "total_score": 20,
+    "max_score": 25
+  }
+}

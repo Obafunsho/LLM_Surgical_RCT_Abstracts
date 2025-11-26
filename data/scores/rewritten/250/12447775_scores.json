@@ -1,0 +1,74 @@
+{
+  "pmcid": "12447775",
+  "sha256": "58aa1bd7e4e0df522ff35f6547ecce16fc4ba068d48ccb85b10acb39e3d3fb2a",
+  "timestamp_utc": "2025-11-09T22:27:16.329544+00:00",
+  "model_used": "gpt-4o",
+  "readability": {
+    "flesch_kincaid": 15.92429835651075,
+    "reading_ease": 9.645575221238971,
+    "word_count": 226
+  },
+  "consort_scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Individualized Ventilation in Frail Patients Undergoing Non-Cardiac Surgery"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "In this prospective, randomized controlled trial, 61 frail patients aged ≥65 years undergoing elective non-cardiac surgery at the First People’s Hospital of Xiangshan County were enrolled between January and December 2024."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "61 frail patients aged ≥65 years undergoing elective non-cardiac surgery at the First People’s Hospital of Xiangshan County"
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants were randomized to either the individualized PEEP group (n=31) or the standard PEEP group (n=30)."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study aimed to compare the effects of driving pressure-guided individualized ventilation versus standard positive end-expiratory pressure (PEEP) ventilation on PPCs in frail patients undergoing non-cardiac surgery."
+      },
+      "Method_Outcome": {
+        "score": 2,
+        "evidence": "The primary outcome was the incidence of PPCs within 7 days postoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 1,
+        "evidence": "Randomization was performed using a pre-established allocation list"
+      },
+      "Blinding": {
+        "score": 1,
+        "evidence": "outcome assessors were blinded to group assignments"
+      },
+      "Number_Randomised": {
+        "score": 2,
+        "evidence": "61 frail patients aged ≥65 years undergoing elective non-cardiac surgery at the First People’s Hospital of Xiangshan County were enrolled between January and December 2024."
+      },
+      "Number_Analysed": {
+        "score": 1,
+        "evidence": "Participants were randomized to either the individualized PEEP group (n=31) or the standard PEEP group (n=30)."
+      },
+      "Result_Outcome": {
+        "score": 2,
+        "evidence": "No PPCs occurred in the individualized PEEP group, while 7 patients (23.3%) in the standard PEEP group developed PPCs (p<0.01)."
+      },
+      "Harms": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: Not provided."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: Not specified."
+      }
+    },
+    "total_score": 16,
+    "max_score": 25
+  }
+}

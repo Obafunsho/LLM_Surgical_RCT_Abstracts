@@ -1,0 +1,66 @@
+{
+  "scores": {
+    "rubric_version": "v3.0-2025-10-14",
+    "items": {
+      "Title": {
+        "score": 1,
+        "evidence": "Randomised Controlled Trial of Intraoperative Molecular Imaging in Malignant Pulmonary Nodule Detection"
+      },
+      "Trial_Design": {
+        "score": 1,
+        "evidence": "Participants underwent preoperative PET and were randomized to receive OTL38 prior to pulmonary resection."
+      },
+      "Participants": {
+        "score": 2,
+        "evidence": "Eligibility criteria included patients with imaging features suggestive of malignancy. The study was conducted at a tertiary care center."
+      },
+      "Intervention": {
+        "score": 2,
+        "evidence": "Participants underwent preoperative PET and were randomized to receive OTL38 prior to pulmonary resection."
+      },
+      "Objective": {
+        "score": 1,
+        "evidence": "This study evaluates whether intraoperative molecular imaging (IMI) with a folate receptor-targeted near-infrared contrast agent (OTL38) enhances the detection of malignant pulmonary nodules compared to 18 Fluorodeoxyglucose positron emission tomography (PET)."
+      },
+      "Method_Outcome": {
+        "score": 1,
+        "evidence": "The primary outcome was the detection rate of malignant nodules, measured intraoperatively."
+      },
+      "Randomisation_Allocation": {
+        "score": 2,
+        "evidence": "Randomization was computer-generated, and allocation was concealed."
+      },
+      "Blinding": {
+        "score": 0,
+        "evidence": "Blinding was not applicable."
+      },
+      "Number_Randomised": {
+        "score": 1,
+        "evidence": "Fifty patients with pulmonary nodules suspicious for malignancy were enrolled."
+      },
+      "Number_Analysed": {
+        "score": 0,
+        "evidence": "Not reported"
+      },
+      "Result_Outcome": {
+        "score": 3,
+        "evidence": "Sensitivity of IMI and PET were 95.6% and 73.5% (p=0.001), respectively. Positive predictive values were 94.2% and 89.3% (p>0.05)."
+      },
+      "Harms": {
+        "score": 1,
+        "evidence": "No adverse events were reported."
+      },
+      "Trial_Registration": {
+        "score": 0,
+        "evidence": "Trial registration: N/A."
+      },
+      "Funding": {
+        "score": 0,
+        "evidence": "Funding: N/A."
+      }
+    },
+    "total_score": 15,
+    "max_score": 25
+  },
+  "model": "gpt-4o"
+}
