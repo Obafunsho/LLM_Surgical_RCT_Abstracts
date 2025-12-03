@@ -2,6 +2,7 @@
 raw_baseline.py
 
 Baseline CONSORT performance analysis using raw actual scores (not percentages).
+FILTERED TO: Articles WITH full text available (PMC full text only)
 
 Analyzes:
 1. Overall CONSORT performance by version (raw scores)
@@ -30,6 +31,7 @@ import seaborn as sns
 PROJECT_ROOT = os.path.dirname(os.path.dirname(__file__))
 
 ORIGINAL_PATH = os.path.join(PROJECT_ROOT, "data", "scores", "original")
+ORIGINAL_DATA_PATH = os.path.join(PROJECT_ROOT, "data", "original")  # For full text checking
 REWRITTEN_250_PATH = os.path.join(PROJECT_ROOT, "data", "scores", "rewritten", "250")
 REWRITTEN_300_PATH = os.path.join(PROJECT_ROOT, "data", "scores", "rewritten", "300")
 OUTPUT_DIR = os.path.join(PROJECT_ROOT, "analysis", "outputs")
@@ -57,6 +59,25 @@ TOTAL_MAX_SCORE = sum(RUBRIC_MAX.values())  # 25
 
 
 # ---------------- Utility Functions ---------------- #
+
+def get_full_text_status(pmcid):
+    """Check if article has full text available"""
+    filepath = os.path.join(ORIGINAL_DATA_PATH, f"{pmcid}.json")
+    if not os.path.exists(filepath):
+        return None
+
+    with open(filepath, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    data_source = data.get("data_source", "")
+    full_text = data.get("full_text", "")
+
+    # Has full text if NOT pubmed_fallback AND has substantial full text
+    has_full_text = (data_source != "pubmed_fallback" and
+                     bool(full_text and len(full_text.strip()) > 100))
+
+    return has_full_text
+
 
 def _safe_float(x, default=0.0):
     """Convert to float safely"""
@@ -102,6 +123,9 @@ def load_scores_with_readability(folder_path, version_label):
         record["flesch_kincaid"] = _safe_float(readability.get("flesch_kincaid"), np.nan)
         record["reading_ease"] = _safe_float(readability.get("reading_ease"), np.nan)
         record["word_count"] = _safe_float(readability.get("word_count"), np.nan)
+
+        # Add full text status
+        record["has_full_text"] = get_full_text_status(pmcid)
 
         records.append(record)
 
@@ -191,6 +215,7 @@ def calculate_item_improvements_raw(paired_df, suffix_orig, suffix_rewrite):
 
 print("=" * 80)
 print("RAW BASELINE ANALYSIS - Protocol v3.0")
+print("FILTERED TO: Articles WITH full text available (PMC full text only)")
 print("=" * 80)
 
 print("\n📥 Loading scores with readability metrics...")
@@ -201,6 +226,26 @@ df_300 = load_scores_with_readability(REWRITTEN_300_PATH, "300-word")
 print(f"   Original abstracts: {len(df_orig)}")
 print(f"   250-word rewrites: {len(df_250)}")
 print(f"   300-word rewrites: {len(df_300)}")
+
+# Filter to only WITH full text
+df_orig = df_orig.dropna(subset=["has_full_text"])
+df_250 = df_250.dropna(subset=["has_full_text"])
+df_300 = df_300.dropna(subset=["has_full_text"])
+
+print(f"\nAfter removing records with unknown full text status:")
+print(f"   Original: {len(df_orig)}")
+print(f"   250-word: {len(df_250)}")
+print(f"   300-word: {len(df_300)}")
+
+# Filter to WITH full text only
+df_orig = df_orig[df_orig["has_full_text"] == True]
+df_250 = df_250[df_250["has_full_text"] == True]
+df_300 = df_300[df_300["has_full_text"] == True]
+
+print(f"\n✅ Filtered to WITH full text only:")
+print(f"   Original: {len(df_orig)}")
+print(f"   250-word: {len(df_250)}")
+print(f"   300-word: {len(df_300)}")
 
 # ---------------- PART 1: Overall Baseline Performance ---------------- #
 
@@ -248,7 +293,7 @@ if baseline_stats:
                 ha='center', va='bottom', fontweight='bold')
 
     ax.set_ylabel("Total CONSORT Score (Raw)", fontsize=12, fontweight="bold")
-    ax.set_title(f"Overall CONSORT Performance by Version\n(Max Score = {TOTAL_MAX_SCORE})",
+    ax.set_title(f"Overall CONSORT Performance by Version (WITH Full Text Only)\n(Max Score = {TOTAL_MAX_SCORE})",
                  fontsize=14, fontweight="bold")
     ax.set_ylim(0, TOTAL_MAX_SCORE + 2)
     ax.axhline(TOTAL_MAX_SCORE, color="red", linestyle="--", linewidth=1, alpha=0.5, label="Maximum")
@@ -308,7 +353,7 @@ if not paired_250.empty:
 
     ax.axvline(0, color="black", linewidth=1, linestyle="--", alpha=0.7)
     ax.set_xlabel("Mean Change in Raw Score (250-word - Original)", fontsize=11, fontweight="bold")
-    ax.set_title("Item-Level Improvements: 250-word vs Original\n(Raw Score Changes)",
+    ax.set_title("Item-Level Improvements: 250-word vs Original (WITH Full Text Only)\n(Raw Score Changes)",
                  fontsize=13, fontweight="bold")
     ax.grid(axis="x", alpha=0.3)
 
@@ -367,7 +412,7 @@ if not paired_300.empty:
 
     ax.axvline(0, color="black", linewidth=1, linestyle="--", alpha=0.7)
     ax.set_xlabel("Mean Change in Raw Score (300-word - Original)", fontsize=11, fontweight="bold")
-    ax.set_title("Item-Level Improvements: 300-word vs Original\n(Raw Score Changes)",
+    ax.set_title("Item-Level Improvements: 300-word vs Original (WITH Full Text Only)\n(Raw Score Changes)",
                  fontsize=13, fontweight="bold")
     ax.grid(axis="x", alpha=0.3)
 
@@ -391,7 +436,7 @@ all_data = pd.concat([df_orig, df_250, df_300], ignore_index=True)
 # Remove rows with missing readability data
 all_data_clean = all_data.dropna(subset=["total_score", "flesch_kincaid", "reading_ease", "word_count"])
 
-print(f"\nAnalyzing {len(all_data_clean)} abstracts with complete data...")
+print(f"\nAnalyzing {len(all_data_clean)} abstracts with complete data (WITH full text only)...")
 
 # Calculate correlations
 if len(all_data_clean) > 0:
@@ -448,7 +493,7 @@ if len(all_data_clean) > 0:
 
     ax.set_xlabel("Flesch-Kincaid Grade Level", fontsize=12, fontweight="bold")
     ax.set_ylabel("Total CONSORT Score (Raw)", fontsize=12, fontweight="bold")
-    ax.set_title("CONSORT Score vs Readability Grade Level\n(Does complexity affect completeness?)",
+    ax.set_title("CONSORT Score vs Readability Grade Level (WITH Full Text Only)\n(Does complexity affect completeness?)",
                  fontsize=13, fontweight="bold")
     ax.legend(loc="best")
     ax.grid(alpha=0.3)
@@ -479,7 +524,7 @@ if len(all_data_clean) > 0:
 
     ax.set_xlabel("Reading Ease Score", fontsize=12, fontweight="bold")
     ax.set_ylabel("Total CONSORT Score (Raw)", fontsize=12, fontweight="bold")
-    ax.set_title("CONSORT Score vs Reading Ease\n(Does readability affect completeness?)",
+    ax.set_title("CONSORT Score vs Reading Ease (WITH Full Text Only)\n(Does readability affect completeness?)",
                  fontsize=13, fontweight="bold")
     ax.legend(loc="best")
     ax.grid(alpha=0.3)
@@ -510,7 +555,7 @@ if len(all_data_clean) > 0:
 
     ax.set_xlabel("Word Count", fontsize=12, fontweight="bold")
     ax.set_ylabel("Total CONSORT Score (Raw)", fontsize=12, fontweight="bold")
-    ax.set_title("CONSORT Score vs Word Count\n(Does length improve completeness?)",
+    ax.set_title("CONSORT Score vs Word Count (WITH Full Text Only)\n(Does length improve completeness?)",
                  fontsize=13, fontweight="bold")
     ax.legend(loc="best")
     ax.grid(alpha=0.3)
@@ -560,7 +605,7 @@ if len(all_data_clean) > 0:
     axes[2].legend(loc="best", fontsize=8)
     axes[2].grid(alpha=0.3)
 
-    fig.suptitle("CONSORT Score vs Readability Metrics", fontsize=15, fontweight="bold", y=1.02)
+    fig.suptitle("CONSORT Score vs Readability Metrics (WITH Full Text Only)", fontsize=15, fontweight="bold", y=1.02)
     plt.tight_layout()
 
     plot_multi = os.path.join(OUTPUT_DIR, "score_vs_readability_multipanel.png")
@@ -571,7 +616,7 @@ if len(all_data_clean) > 0:
 # ---------------- Final Summary ---------------- #
 
 print("\n" + "=" * 80)
-print("ANALYSIS COMPLETE")
+print("ANALYSIS COMPLETE - WITH FULL TEXT ONLY")
 print("=" * 80)
 
 print("\n📊 Key Findings:")

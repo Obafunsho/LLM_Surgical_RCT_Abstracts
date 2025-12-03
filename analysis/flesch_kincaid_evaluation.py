@@ -3,6 +3,7 @@ flesch_kincaid_evaluation.py
 
 Statistical evaluation of readability metrics comparing original abstracts
 to 250-word and 300-word rewritten versions.
+FILTERED TO: Articles WITH full text available (PMC full text only)
 
 Implements paired t-tests, confidence intervals, word count compliance checks,
 and visualizations as specified in Protocol v3.0 (Results section).
@@ -23,6 +24,7 @@ import seaborn as sns
 PROJECT_ROOT = os.path.dirname(os.path.dirname(__file__))
 
 ORIGINAL_PATH = os.path.join(PROJECT_ROOT, "data", "scores", "original")
+ORIGINAL_DATA_PATH = os.path.join(PROJECT_ROOT, "data", "original")  # For full text checking
 REWRITTEN_250_PATH = os.path.join(PROJECT_ROOT, "data", "scores", "rewritten", "250")
 REWRITTEN_300_PATH = os.path.join(PROJECT_ROOT, "data", "scores", "rewritten", "300")
 OUTPUT_DIR = os.path.join(PROJECT_ROOT, "analysis", "outputs")
@@ -35,6 +37,25 @@ TOLERANCE = 0.10
 
 
 # ---------------- Utility Functions ---------------- #
+
+def get_full_text_status(pmcid):
+    """Check if article has full text available"""
+    filepath = os.path.join(ORIGINAL_DATA_PATH, f"{pmcid}.json")
+    if not os.path.exists(filepath):
+        return None
+
+    with open(filepath, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    data_source = data.get("data_source", "")
+    full_text = data.get("full_text", "")
+
+    # Has full text if NOT pubmed_fallback AND has substantial full text
+    has_full_text = (data_source != "pubmed_fallback" and
+                     bool(full_text and len(full_text.strip()) > 100))
+
+    return has_full_text
+
 
 def load_readability(folder_path, version_label):
     """Load readability metrics from all JSON files in a folder"""
@@ -57,6 +78,7 @@ def load_readability(folder_path, version_label):
                 "flesch_kincaid": pd.to_numeric(r.get("flesch_kincaid"), errors="coerce"),
                 "reading_ease": pd.to_numeric(r.get("reading_ease"), errors="coerce"),
                 "word_count": pd.to_numeric(r.get("word_count"), errors="coerce"),
+                "has_full_text": get_full_text_status(pmcid),
             })
 
     return pd.DataFrame(records)
@@ -177,6 +199,7 @@ def check_word_count_compliance(df, target, tolerance=0.10):
 
 print("=" * 80)
 print("READABILITY EVALUATION - Protocol v3.0")
+print("FILTERED TO: Articles WITH full text available (PMC full text only)")
 print("=" * 80)
 
 print("\n📥 Loading readability metrics...")
@@ -187,6 +210,26 @@ df_300 = load_readability(REWRITTEN_300_PATH, "300")
 print(f"   Original abstracts: {len(df_orig)}")
 print(f"   250-word rewrites: {len(df_250)}")
 print(f"   300-word rewrites: {len(df_300)}")
+
+# Filter to only WITH full text
+df_orig = df_orig.dropna(subset=["has_full_text"])
+df_250 = df_250.dropna(subset=["has_full_text"])
+df_300 = df_300.dropna(subset=["has_full_text"])
+
+print(f"\nAfter removing records with unknown full text status:")
+print(f"   Original: {len(df_orig)}")
+print(f"   250-word: {len(df_250)}")
+print(f"   300-word: {len(df_300)}")
+
+# Filter to WITH full text only
+df_orig = df_orig[df_orig["has_full_text"] == True]
+df_250 = df_250[df_250["has_full_text"] == True]
+df_300 = df_300[df_300["has_full_text"] == True]
+
+print(f"\n✅ Filtered to WITH full text only:")
+print(f"   Original: {len(df_orig)}")
+print(f"   250-word: {len(df_250)}")
+print(f"   300-word: {len(df_300)}")
 
 # ---------------- Create Paired Datasets ---------------- #
 
@@ -365,7 +408,7 @@ orig_compliance = {
 }
 compliance_results.append(orig_compliance)
 
-print(f"\nOriginal abstracts:")
+print(f"\nOriginal abstracts (WITH full text only):")
 print(f"  Mean: {orig_compliance['mean_wc']:.1f} words (SD: {orig_compliance['sd_wc']:.1f})")
 print(f"  Median: {orig_compliance['median_wc']:.1f} words")
 
@@ -411,7 +454,7 @@ all_df = pd.concat([df_orig, df_250, df_300], ignore_index=True)
 summary_stats = all_df.groupby("version")[["flesch_kincaid", "reading_ease", "word_count"]].agg(
     ["mean", "std", "median"])
 
-print("\nOverall Means by Version:")
+print("\nOverall Means by Version (WITH full text only):")
 print(summary_stats.round(2))
 
 csv_summary = os.path.join(OUTPUT_DIR, "summary_statistics.csv")
@@ -438,6 +481,7 @@ if not all_df.empty:
         ax.set_ylabel("Score" if metric != "word_count" else "Words")
         ax.grid(axis="y", alpha=0.3)
 
+    fig.suptitle("Readability Metrics by Version (WITH Full Text Only)", fontsize=14, fontweight="bold", y=1.02)
     plt.tight_layout()
     plot_bar = os.path.join(OUTPUT_DIR, "readability_comparison_bar.png")
     plt.savefig(plot_bar, dpi=300)
@@ -487,6 +531,7 @@ if not paired_250.empty or not paired_300.empty:
         axes[1].set_ylabel("Δ Reading Ease")
         axes[1].get_figure().suptitle("")
 
+    fig.suptitle("Readability Changes (WITH Full Text Only)", fontsize=13, fontweight="bold", y=1.02)
     plt.tight_layout()
     plot_box = os.path.join(OUTPUT_DIR, "readability_changes_boxplot.png")
     plt.savefig(plot_box, dpi=300)
@@ -508,7 +553,7 @@ if not all_df.empty:
 
     ax.set_xlabel("Flesch-Kincaid Grade Level")
     ax.set_ylabel("Reading Ease")
-    ax.set_title("Correlation: Reading Ease vs. Grade Level")
+    ax.set_title("Correlation: Reading Ease vs. Grade Level (WITH Full Text Only)")
     ax.legend()
     ax.grid(alpha=0.3)
     plt.tight_layout()
@@ -521,7 +566,7 @@ if not all_df.empty:
 # ---------------- Final Summary ---------------- #
 
 print("\n" + "=" * 80)
-print("EVALUATION COMPLETE")
+print("EVALUATION COMPLETE - WITH FULL TEXT ONLY")
 print("=" * 80)
 print("\nGenerated outputs:")
 print(f"  • {csv_readability}")

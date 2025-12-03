@@ -3,6 +3,7 @@ consort_evaluation.py
 
 Statistical evaluation of CONSORT performance comparing original abstracts
 to 250-word and 300-word rewritten versions.
+FILTERED TO: Articles WITH full text available (PMC full text only)
 
 Implements paired t-tests, confidence intervals, and effect sizes as specified
 in Protocol v3.0 (Results section).
@@ -22,6 +23,7 @@ import seaborn as sns
 PROJECT_ROOT = os.path.dirname(os.path.dirname(__file__))
 
 ORIGINAL_PATH = os.path.join(PROJECT_ROOT, "data", "scores", "original")
+ORIGINAL_DATA_PATH = os.path.join(PROJECT_ROOT, "data", "original")  # For full text checking
 REWRITTEN_250_PATH = os.path.join(PROJECT_ROOT, "data", "scores", "rewritten", "250")
 REWRITTEN_300_PATH = os.path.join(PROJECT_ROOT, "data", "scores", "rewritten", "300")
 OUTPUT_DIR = os.path.join(PROJECT_ROOT, "analysis", "outputs")
@@ -48,6 +50,25 @@ ITEM_ORDER = list(RUBRIC_MAX.keys())
 TOTAL_MAX_SCORE = sum(RUBRIC_MAX.values())  # 25
 
 # ---------------- Utility Functions ---------------- #
+
+def get_full_text_status(pmcid):
+    """Check if article has full text available"""
+    filepath = os.path.join(ORIGINAL_DATA_PATH, f"{pmcid}.json")
+    if not os.path.exists(filepath):
+        return None
+
+    with open(filepath, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    data_source = data.get("data_source", "")
+    full_text = data.get("full_text", "")
+
+    # Has full text if NOT pubmed_fallback AND has substantial full text
+    has_full_text = (data_source != "pubmed_fallback" and
+                     bool(full_text and len(full_text.strip()) > 100))
+
+    return has_full_text
+
 
 def _safe_float(x, default=0.0):
     """Convert to float safely"""
@@ -77,6 +98,9 @@ def load_one_score(path):
         for item_name in ITEM_ORDER:
             score = items.get(item_name, {}).get("score", 0)
             row[item_name] = _safe_float(score, 0.0)
+
+        # Add full text status
+        row["has_full_text"] = get_full_text_status(pmcid)
 
         return row
     else:
@@ -159,6 +183,7 @@ def paired_ttest_with_ci(orig, rewritten, label):
 
 print("=" * 80)
 print("CONSORT EVALUATION - Protocol v3.0")
+print("FILTERED TO: Articles WITH full text available (PMC full text only)")
 print("=" * 80)
 
 print("\n📥 Loading CONSORT scores...")
@@ -169,6 +194,26 @@ df_300 = load_folder(REWRITTEN_300_PATH)
 print(f"   Original abstracts: {len(df_orig)}")
 print(f"   250-word rewrites: {len(df_250)}")
 print(f"   300-word rewrites: {len(df_300)}")
+
+# Filter to only WITH full text
+df_orig = df_orig.dropna(subset=["has_full_text"])
+df_250 = df_250.dropna(subset=["has_full_text"])
+df_300 = df_300.dropna(subset=["has_full_text"])
+
+print(f"\nAfter removing records with unknown full text status:")
+print(f"   Original: {len(df_orig)}")
+print(f"   250-word: {len(df_250)}")
+print(f"   300-word: {len(df_300)}")
+
+# Filter to WITH full text only
+df_orig = df_orig[df_orig["has_full_text"] == True]
+df_250 = df_250[df_250["has_full_text"] == True]
+df_300 = df_300[df_300["has_full_text"] == True]
+
+print(f"\n✅ Filtered to WITH full text only:")
+print(f"   Original: {len(df_orig)}")
+print(f"   250-word: {len(df_250)}")
+print(f"   300-word: {len(df_300)}")
 
 # ---------------- Create Paired Datasets ---------------- #
 
@@ -337,7 +382,7 @@ for df, label in [(df_orig, "Original"), (df_250, "250-word"), (df_300, "300-wor
         })
 
 df_summary = pd.DataFrame(summary_rows)
-print("\nOverall Means by Version:")
+print("\nOverall Means by Version (WITH full text only):")
 print(df_summary.to_string(index=False))
 
 csv_summary = os.path.join(OUTPUT_DIR, "summary_statistics.csv")
@@ -363,7 +408,7 @@ if results_total:
     ax.barh(comparisons, mean_diffs, xerr=errors, capsize=5, color="steelblue", alpha=0.7)
     ax.axvline(0, color="red", linestyle="--", linewidth=1, alpha=0.7)
     ax.set_xlabel("Mean Difference in Total Score (points)")
-    ax.set_title("Change in CONSORT Total Score\n(Rewritten vs Original, with 95% CI)")
+    ax.set_title("Change in CONSORT Total Score (WITH Full Text Only)\n(Rewritten vs Original, with 95% CI)")
     ax.grid(axis="x", alpha=0.3)
     plt.tight_layout()
 
@@ -398,7 +443,7 @@ def plot_item_changes(items_df, comparison_label, output_filename):
     ax.barh(items_list, mean_diffs, xerr=errors, capsize=4, color=colors, alpha=0.6)
     ax.axvline(0, color="black", linestyle="--", linewidth=1, alpha=0.7)
     ax.set_xlabel("Mean Difference (% of item max)")
-    ax.set_title(f"Item-Level Changes: {comparison_label}\n(with 95% CI)")
+    ax.set_title(f"Item-Level Changes: {comparison_label} (WITH Full Text Only)\n(with 95% CI)")
     ax.grid(axis="x", alpha=0.3)
     plt.tight_layout()
 
@@ -439,7 +484,7 @@ if not df_orig.empty:
     sns.heatmap(df_heatmap, annot=True, fmt=".1f", cmap="RdYlGn",
                 vmin=0, vmax=100, cbar_kws={"label": "% of Item Max"},
                 linewidths=0.5, ax=ax)
-    ax.set_title("CONSORT Item Performance Heatmap\n(Mean % of Item Max by Version)")
+    ax.set_title("CONSORT Item Performance Heatmap (WITH Full Text Only)\n(Mean % of Item Max by Version)")
     ax.set_xlabel("")
     ax.set_ylabel("")
     plt.tight_layout()
@@ -452,7 +497,7 @@ if not df_orig.empty:
 # ---------------- Final Summary ---------------- #
 
 print("\n" + "=" * 80)
-print("EVALUATION COMPLETE")
+print("EVALUATION COMPLETE - WITH FULL TEXT ONLY")
 print("=" * 80)
 print("\nGenerated outputs:")
 print(f"  • {csv_total}")
